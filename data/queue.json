@@ -7482,5 +7482,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9791266956",
+    "category": "Console",
+    "title": "Scatola ps5 5 fat call of duty",
+    "price": 9.99,
+    "totalPrice": 11.19,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9791266956-scatola-ps5-5-fat-call-of-duty?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00809_PhD56CeTeGF3x2dUmmHi7M9j/310x430/1834224c.webp?s=6aed93e1b81b9c07e651a6f073f2f0fdcdf61d0a",
+    "addedAt": "2026-08-26T22:16:39.616Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "9791282815",
+    "category": "Console",
+    "title": "PS4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9791282815-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004cd_RnbLrkySKQ82Wvgqust6ZZiy/310x430/ba337dff.webp?s=657d5665fefb95c1c80d1b6a74e826046a3a793d",
+    "addedAt": "2026-08-26T22:20:48.151Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 funcional\nNo lee los discos\nTodo bien no se calienta\nViene con cableados\nSin amndo\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "No lee los discos (Non legge i dischi)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
