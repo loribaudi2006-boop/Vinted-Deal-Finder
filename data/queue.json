@@ -7080,5 +7080,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~27.55€, sotto soglia"
+  },
+  {
+    "id": "9790053876",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9790053876-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b1d_qPhUitxJHHa7ggkUiMBZeVjG/310x430/e5b24b68.webp?s=88e45f603a181d714f061b9e9fbec6e62e3c00dc",
+    "addedAt": "2026-08-26T19:28:02.984Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 3 min fa\n\n22,00 €\n\n23,80 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nPs4 en très bon état et a un prix raisonnable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.2
+  },
+  {
+    "id": "9790071326",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör-Paket",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9790071326-nintendo-switch-zubehor-paket?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f41_3HkbnpEVBhDZNtmnrPjSUwam/310x430/a4793349.webp?s=413633317545900b79ff4b4ec4edf42e79276fa4",
+    "addedAt": "2026-08-26T19:30:07.520Z",
+    "processed": false,
+    "triaged": false
   }
 ]
