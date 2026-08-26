@@ -6962,7 +6962,42 @@
     "url": "https://www.vinted.it/items/9789588220-nintendo-switch-inklusive-zubehor?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01dfe_gbsu4r1fcd19WvDwNEsBQNkV/310x430/97355f37.webp?s=53b6c9529addd54b7b6c2e18a6254dc387383135",
     "addedAt": "2026-08-26T18:50:34.885Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo Switch inklusive Zubehör\nOttime·Nintendo·Caricato 10 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n10 min fa\nNintendo Switch + sport Zubehör (kostenlos dazu)\nNichts ist defekt und der Bildschirm ist in einwandfreiem Zustand.\nDen genauen Zustand und Kratzer entnehmen sie den Fotos.\nMit Originalverpackung und dem gesamten abgebildeten Zubehör.\n... altro\nSpedizione\nda 7,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "9789689584",
+    "category": "Console",
+    "title": "Xbox one S digital édition",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9789689584-xbox-one-s-digital-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e2f_8K9LRTWQMgQexQvZSh1vPGHt/310x430/b8790447.webp?s=5c7f09a80906299a319cc78d869b57b51b356bf4",
+    "addedAt": "2026-08-26T18:52:40.177Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9789678477",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9789678477-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0166f_M9zMk9ftfH16hGkX8cY2KpH2/310x430/c026726e.webp?s=8801efb799f337c385b9508bb6462a29c1846cb2",
+    "addedAt": "2026-08-26T18:52:40.178Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.8€, sotto soglia"
   }
 ]
