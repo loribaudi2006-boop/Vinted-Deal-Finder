@@ -7404,5 +7404,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6€, sotto soglia"
+  },
+  {
+    "id": "9790982350",
+    "category": "Console",
+    "title": "Switch réservé",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9790982350-switch-reserve?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_020ec_FDdc3es1E1mrbCBgJnc3Aanh/310x430/1da9621d.webp?s=a1b397da231ceb498510f8c39f2609d064da0565",
+    "addedAt": "2026-08-26T21:20:32.005Z",
+    "processed": false,
+    "triaged": false
   }
 ]
