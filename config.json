@@ -1,0 +1,68 @@
+{
+  "chromePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "telegram": {
+    "botToken": "INSERISCI_TELEGRAM_BOT_TOKEN",
+    "chatId": "INSERISCI_TELEGRAM_CHAT_ID"
+  },
+  "gemini": {
+    "apiKeys": [
+      "INSERISCI_GEMINI_API_KEY_1",
+      "INSERISCI_GEMINI_API_KEY_2"
+    ],
+    "model": "gemini-3.5-flash-lite"
+  },
+  "minMarginEuro": 30,
+  "flashAlertMaxPrice": 15,
+  "maxBuyPrice": 70,
+  "nightHours": { "start": 1, "end": 7 },
+  "nightMinBatchTriage": 6,
+  "nightMinBatchAnalysis": 3,
+  "searches": [
+    {
+      "name": "Console",
+      "url": "https://www.vinted.it/catalog?catalog[]=3025&order=newest_first&price_to=80",
+      "useReferencePricing": true
+    },
+    {
+      "name": "Console (pagina 2)",
+      "url": "https://www.vinted.it/catalog?catalog[]=3025&order=newest_first&price_to=80&page=2",
+      "useReferencePricing": true
+    }
+  ],
+  "faultKeywords": [
+    "rotto", "rotta", "non funzionante", "non funziona", "per pezzi", "per ricambi",
+    "difettoso", "difettosa", "problema", "problemi", "danneggiato", "danneggiata",
+    "guasto", "guasta", "non testato", "non testata", "non si accende",
+    "errore", "malfunzionamento", "crepa", "crepato", "rigato", "rigata",
+    "graffiato", "graffiata", "manca", "mancante", "non originale", "usurato"
+  ],
+  "referenceItems": [
+    { "label": "PS5", "keywords": ["ps5", "playstation 5"], "typicalPrice": 380 },
+    { "label": "PS5 Slim", "keywords": ["ps5 slim"], "typicalPrice": 400 },
+    { "label": "PS4 Pro", "keywords": ["ps4 pro"], "typicalPrice": 180 },
+    { "label": "PS4", "keywords": ["ps4", "playstation 4"], "typicalPrice": 130 },
+    { "label": "Xbox Series X", "keywords": ["series x"], "typicalPrice": 380 },
+    { "label": "Xbox Series S", "keywords": ["series s"], "typicalPrice": 200 },
+    { "label": "Xbox One", "keywords": ["xbox one"], "typicalPrice": 100 },
+    { "label": "Switch OLED", "keywords": ["switch oled"], "typicalPrice": 260 },
+    { "label": "Switch", "keywords": ["nintendo switch", "switch"], "typicalPrice": 190 },
+    { "label": "Steam Deck", "keywords": ["steam deck"], "typicalPrice": 380 }
+  ],
+  "minDiscountRatio": 0.45,
+  "accessoryExcludeKeywords": [
+    "custodia", "custodie", "housse", "funda", "cover", "coque",
+    "dock", "docking", "base supporto", "supporto", "stand",
+    "cavo", "cable", "caricatore", "carica batteria", "alimentatore",
+    "joystick", "manette", "controller", "joy-con", "joycon", "joy con",
+    "adesivo", "adesivi", "skin", "pellicola", "borsa", "zaino", "custodie rigide",
+    "braccialetto", "braccialetti", "cinturino", "grip", "tastiera", "cuffie",
+    "vetro temperato", "vitre", "schermo di ricambio", "solo scatola", "scatola vuota",
+    "solo custodia", "solo confezione", "solo scheda", "solo cartuccia",
+    "accessori", "accessoires", "accessorio", "accesorio", "accessories"
+  ],
+  "consoleIndicatorKeywords": [
+    "console", "slim", "fat", "pro ", " pro", "edition", "gb", "tb",
+    "completa", "completo", "bundle", "kit completo", "1tb", "500gb", "825gb"
+  ],
+  "pollIntervalNote": "L'intervallo reale e' gestito da run_loop.sh dentro il workflow GitHub Actions, non da questo file."
+}

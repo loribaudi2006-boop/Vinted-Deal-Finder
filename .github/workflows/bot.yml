@@ -1,0 +1,52 @@
+name: Vinted Deal Finder Bot
+
+on:
+  schedule:
+    # Ogni 6 ore (00:00, 06:00, 12:00, 18:00 UTC). Ogni job dura ~5h50m internamente
+    # (vedi run_loop.sh), lasciando ~10 minuti di margine prima del prossimo avvio
+    # programmato, cosi' il job precedente ha sempre il tempo di chiudersi e salvare
+    # lo stato prima che parta quello nuovo.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vinted-bot
+  cancel-in-progress: false
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Imposta Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Installa dipendenze
+        run: npm ci
+
+      - name: Trova il percorso di Chrome
+        id: chrome
+        run: |
+          CHROME_BIN=$(which google-chrome-stable || which google-chrome || which chromium-browser || which chromium)
+          echo "Chrome trovato in: $CHROME_BIN"
+          echo "path=$CHROME_BIN" >> "$GITHUB_OUTPUT"
+
+      - name: Avvia il loop (index.js ogni 2min, triage.js ogni 3min, analyze_gemini.js ogni 5min)
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.path }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY_1: ${{ secrets.GEMINI_API_KEY_1 }}
+          GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+        run: |
+          chmod +x run_loop.sh
+          ./run_loop.sh
