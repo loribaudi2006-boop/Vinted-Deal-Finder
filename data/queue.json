@@ -7415,6 +7415,21 @@
     "url": "https://www.vinted.it/items/9790982350-switch-reserve?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_020ec_FDdc3es1E1mrbCBgJnc3Aanh/310x430/1da9621d.webp?s=a1b397da231ceb498510f8c39f2609d064da0565",
     "addedAt": "2026-08-26T21:20:32.005Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9791044861",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9791044861-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00a94_syHotE2pMdy428eX2TYNoxNG/310x430/342dcffb.webp?s=18e65f6daee07358a1ca32418b34c0c7439231a1",
+    "addedAt": "2026-08-26T21:31:01.140Z",
     "processed": false,
     "triaged": false
   }
