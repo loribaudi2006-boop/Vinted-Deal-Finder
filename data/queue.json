@@ -7385,8 +7385,10 @@
     "url": "https://www.vinted.it/items/9790842529-xbox-one-edition-call-of-duty?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_016c4_xJknynagfPkh8k6qjKxo5c6u/310x430/b0041e56.webp?s=0219354dfd3fd3f59be061e0157925c0e5d68003",
     "addedAt": "2026-08-26T20:59:42.945Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   },
   {
     "id": "9790863472",
@@ -7398,7 +7400,9 @@
     "url": "https://www.vinted.it/items/9790863472-porte-switch-bleu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00832_w7entnhUUY7Zn33WWUSTBD3w/310x430/540ea582.webp?s=02b188836c02b39255b0c4e9fd1248774b8ff115",
     "addedAt": "2026-08-26T21:01:48.523Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6€, sotto soglia"
   }
 ]
