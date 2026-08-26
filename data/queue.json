@@ -7467,5 +7467,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9791193378",
+    "category": "Console",
+    "title": "Xbox one 500gb",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9791193378-xbox-one-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00ee3_4U46tuAZJMgKx7negixYU7y9/310x430/632701b5.webp?s=71377da2f733f3df198cf85d4d9d53c12de221e1",
+    "addedAt": "2026-08-26T22:00:03.024Z",
+    "processed": false,
+    "triaged": false
   }
 ]
