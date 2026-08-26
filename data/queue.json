@@ -6686,7 +6686,42 @@
     "url": "https://www.vinted.it/items/9788960565-xbox-one-s-all-digital-edition?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0195c_PgFTCFsg3SRUvbNh2UUsXnXD/310x430/19d3e908.webp?s=8a2846dbf43ea89d661f62a0600e5f86758f2edd",
     "addedAt": "2026-08-26T17:50:13.315Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9789005068",
+    "category": "Console",
+    "title": "Station switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9789005068-station-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00542_cRdEewZHy5iH4PkrCviwRiPG/310x430/d214ab54.webp?s=3d389d117b4a9045b67faad1cbebd6fd9ba8e9d1",
+    "addedAt": "2026-08-26T17:52:17.363Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.3€, sotto soglia"
+  },
+  {
+    "id": "9789097807",
+    "category": "Console",
+    "title": "switch pour pièce mais qui s’allume quand même",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9789097807-switch-pour-piece-mais-qui-sallume-quand-meme?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0010b_PQok8NioMWqdLdVMsL4LkerC/310x430/a3d4bef8.webp?s=a7224eecf977e9f79d811934e8bc72ff606e66c2",
+    "addedAt": "2026-08-26T18:00:37.434Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nswitch pour pièce mais qui s’allume quand même\nDiscrete·Nintendo·Caricato proprio adesso\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nje n’arrive pas à enlever le contrôle parental on peut donc pas installer de jeux il ya une mini tache violette et pour le reste voir photo je la considère donc comme pour pièce même si on peut la sauver donc c’est une bonne affaire\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controllo genitori non rimovibile (impossibile installare giochi), mini macchia viola sullo schermo, venduta come da riparare o per pezzi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
