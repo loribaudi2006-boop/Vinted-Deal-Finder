@@ -7367,12 +7367,38 @@
     "url": "https://www.vinted.it/items/9790762707-switch-lite-gris?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_017f1_Nber5v4T435ZpVe62ETKtQX9/310x430/ded5d582.webp?s=ed09843dd7efcb1993a1de2eba14710f10536300",
     "addedAt": "2026-08-26T20:47:14.486Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "smo\nSport\nPubblicità\n‌\n\n8\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite gris\nBuone·Nintendo·Caricato 3 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 min fa\nEn bon état\nFonctionne\nSans chargeur\nHousse inclus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "Sans chargeur (manca il caricabatterie)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "9790842529",
+    "category": "Console",
+    "title": "xbox one edition call of duty",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9790842529-xbox-one-edition-call-of-duty?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016c4_xJknynagfPkh8k6qjKxo5c6u/310x430/b0041e56.webp?s=0219354dfd3fd3f59be061e0157925c0e5d68003",
+    "addedAt": "2026-08-26T20:59:42.945Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9790863472",
+    "category": "Console",
+    "title": "Porte switch bleu",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9790863472-porte-switch-bleu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00832_w7entnhUUY7Zn33WWUSTBD3w/310x430/540ea582.webp?s=02b188836c02b39255b0c4e9fd1248774b8ff115",
+    "addedAt": "2026-08-26T21:01:48.523Z",
+    "processed": false,
+    "triaged": false
   }
 ]
