@@ -7220,7 +7220,9 @@
     "url": "https://www.vinted.it/items/9790384263-switch-bernd-carteron?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00b78_rVMrKq8JbPEuucTx5EP3RJbM/310x430/710da3a3.webp?s=e1dcd60005c73b21044418de0c5e6ac68bdf5cad",
     "addedAt": "2026-08-26T20:01:24.349Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
