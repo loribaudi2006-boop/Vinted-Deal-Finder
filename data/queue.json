@@ -10274,7 +10274,7 @@
     "url": "https://www.vinted.it/items/9801242452-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01031_UzsJL8P16qw2NvEVhFETBKY2/310x430/562072fe.webp?s=d584a174741db58af11d209a21ecf2724143aa20",
     "addedAt": "2026-08-27T20:57:24.639Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "ort\nPubblicità\n‌\n\n4\nRimosso!\n+ 7\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nDiscrete·Nintendo·Caricato 2 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n2 min fa\nVenduta come ricambi completa di scatola\nLa console si accende ma ha bisogno del connettore nuovo di ricarica, le leve analogiche e dello slot card perché non legge bene i giochi.\nVendo come non funzionante per non avere problemi\nRegalo leve usate e connettore per chi volesse ripararla\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -10292,8 +10292,10 @@
     "url": "https://www.vinted.it/items/9801254269-nintendo-switch-case?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01554_S51LS8dSAVRg2xRgAdHFTXky/310x430/b171269c.webp?s=c4256d42811711dba626c1ff3ba6392a66ef485f",
     "addedAt": "2026-08-27T20:59:28.566Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   },
   {
     "id": "9801251473",
@@ -10306,7 +10308,12 @@
     "photoUrl": "https://images1.vinted.net/t/04_00068_Ncm1h8Q1w8aVhASmh5vhmt3x/310x430/1d199507.webp?s=aafb2b172e841c9a03b3bdebc57440d049e25ee6",
     "addedAt": "2026-08-27T20:59:28.566Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 9 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n9 min fa\nTout fonctionne parfaitement apart la manette qui a un joysticks drift\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick drift sul controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
   },
   {
     "id": "9801250811",
@@ -10318,7 +10325,45 @@
     "url": "https://www.vinted.it/items/9801250811-mannete-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_006a6_UwCjuUhMsYVJFdwrjDr4RjnR/310x430/8ede0b9c.webp?s=e03418991c533e85fcb85648a19ff84d51b02732",
     "addedAt": "2026-08-27T20:59:28.566Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
+  },
+  {
+    "id": "9801273561",
+    "category": "Console",
+    "title": "PS4 mit Zubehör",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801273561-ps4-mit-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00562_dqUxuNEGuB2Sp3UQH6UCp5xf/310x430/6bb506a3.webp?s=d36a1b5abb7b93a11d7eb61a772fa53226952933",
+    "addedAt": "2026-08-27T21:01:32.293Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 mit Zubehör\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nHallo ich verkaufe meine alte ps4, da ich jetzt eine neue PS5 hab mit drei Controllern und einem Spiel alle drei Controller haben ein bisschen Stick Drift und es fehlt ein Kabel bei der ps4 das Kabel, was man mit der ps4 und den Fernseher oder den Monitor verbindet\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tutti e tre i controller hanno un po' di stick drift e manca il cavo HDMI",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "9801272815",
+    "category": "Console",
+    "title": "Ps4 da pulire",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801272815-ps4-da-pulire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e59_EZszqwsjuoD11YjkJ6VRhREC/310x430/b6e2cb9c.webp?s=419058ed95ef9f14ce5bfc8180a0a4ac9adcd841",
+    "addedAt": "2026-08-27T21:01:32.293Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 da pulire\nBuone·PlayStation·Caricato un minuto fa\n\n70,00 €\n\n74,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nvendo playstation perché quando la accendo poco dopo che ci gioco si surriscalda e si spegne, bisogna portarla a pulire, ha 10 anni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Si surriscalda e si spegne dopo poco che si gioca, da pulire, 10 anni",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.8
   }
 ]
