@@ -10194,5 +10194,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-4.6€, sotto soglia"
+  },
+  {
+    "id": "9801052216",
+    "category": "Console",
+    "title": "Lot d’une ps4 et 5 jeu",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801052216-lot-dune-ps4-et-5-jeu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0117c_mYY7h81KNtSBRTSsPSxfNP6c/310x430/831c6e8b.webp?s=77d7993eb402791df26438ca0a7a21ffeee97126",
+    "addedAt": "2026-08-27T20:30:29.883Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n1\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot d’une ps4 et 5 jeu\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nUne console de jeu PlayStation 4 d’occasion avec une manette 🎮\n5 jeu : hello neighbor hide&seek , ratchet&clank, fifa19 , spiro, plantesvszombie et fifa 22\nLa console chauffe mais elle surchauffe pas et elle a étais réinitialiser entièrement sinon aucun problème dessus ✅\n\n‼️si vous voulez plus d’informations n’hésitez pas à me contacter en privé ‼️\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La console chauffe mais elle surchauffe pas",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.05
+  },
+  {
+    "id": "9801027762",
+    "category": "Console",
+    "title": "FIFA 19 PS4 FIFA 19 PS4 PlayStation 4 Originale",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 91% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801027762-fifa-19-ps4-fifa-19-ps4-playstation-4-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a92_5FXfZhvs5xxv6bVdsyxntCbB/310x430/eded9b42.webp?s=47d59458a1ec4d2f31b9ea1de8cc8c443466d23f",
+    "addedAt": "2026-08-27T20:30:29.884Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.3€, sotto soglia"
   }
 ]
