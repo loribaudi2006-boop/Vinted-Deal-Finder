@@ -9815,12 +9815,27 @@
     "url": "https://www.vinted.it/items/9800066805-sony-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00471_GfwEyTuM4fdfQfHDoZbVbX8s/310x430/a5caeb08.webp?s=e4cff6a6212c8f3538e76a00b88dfcf35a30093c",
     "addedAt": "2026-08-27T18:44:32.864Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4\nBuone·PlayStation·Caricato 2 min fa\n\n70,00 €\n\n74,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nPS4\n-mit Stromkabel\n- 3 Spiele\n- FIFA 17, Battlefield 1, COD Modern Warfare\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 43.9
+  },
+  {
+    "id": "9800139581",
+    "category": "Console",
+    "title": "Xbox one sans manette",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9800139581-xbox-one-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0222a_jHB6rtVexvfAmzwQ8wEyLGca/310x430/8fb31a9c.webp?s=74a13b751a469285c1a1c36979f921a9cb938b2b",
+    "addedAt": "2026-08-27T18:52:52.637Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.81€, sotto soglia"
   }
 ]
