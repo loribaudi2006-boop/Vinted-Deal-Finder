@@ -8753,7 +8753,45 @@
     "url": "https://www.vinted.it/items/9794098446-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0180d_D85PRsfG9Af1b3N2My56h7Vs/310x430/6ab5f1c5.webp?s=8d4b728d424a30cbf92efa30d75736b926bd3a13",
     "addedAt": "2026-08-27T10:22:05.479Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nDiscrete·PlayStation·Caricato 2 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 min fa\nTem o leitor de cd com avaria(entra o cd mas não o le)\nComando não original com um pouco de drift\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Leitor de cd com avaria (entra o cd mas não o lê), comando não original com um pouco de drift",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.55
+  },
+  {
+    "id": "9794085871",
+    "category": "Console",
+    "title": "Manette+ps4 slim",
+    "price": 54,
+    "totalPrice": 57.4,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9794085871-manetteps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00168_XEwfq1NXYLQBrF539xeHBmRh/310x430/b2e675c0.webp?s=db715f6004d5e0c5cf83eb4cfdd60000e40c82c0",
+    "addedAt": "2026-08-27T10:28:20.224Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nManette+ps4 slim\nOttime·PlayStation·Caricato 2 min fa\n\n54,00 €\n\n57,40 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nBon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.6
+  },
+  {
+    "id": "9793946620",
+    "category": "Console",
+    "title": "Combo lotto giochi nuovi per PS4 info in descrizione",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9793946620-combo-lotto-giochi-nuovi-per-ps4-info-in-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_012a6_fnfmcwwShXMhyGpw55U4snxe/310x430/dc00a038.webp?s=e7bba355f0f560de9adc0e58a9a4544273b8c773",
+    "addedAt": "2026-08-27T10:28:20.225Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10.2€, sotto soglia"
   }
 ]
