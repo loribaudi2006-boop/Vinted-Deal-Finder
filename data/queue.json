@@ -7788,5 +7788,35 @@
     "geminiFault": "Manche juste les manettes (mancano iJoy-Con originali, inclusi controller alternativo come in foto)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "9792665434",
+    "category": "Console",
+    "title": "xbox one.  prezzo trattabile",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9792665434-xbox-one-prezzo-trattabile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01eae_HJPEptZQzCL5Esi7krYfLFqs/310x430/6ff97a62.webp?s=1faa5b55bd33a9d9d83e52f98aa08bafc4df4e3d",
+    "addedAt": "2026-08-27T07:40:08.729Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.8€, sotto soglia"
+  },
+  {
+    "id": "9792661189",
+    "category": "Console",
+    "title": "Protection écran Nintendo Switch",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9792661189-protection-ecran-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0252f_BgvX8gzzH8JKTny4jNXtD743/310x430/12277b1f.webp?s=3700edfb0cffe59e139bbe2735b42b9c5430c579",
+    "addedAt": "2026-08-27T07:40:08.729Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4€, sotto soglia"
   }
 ]
