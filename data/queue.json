@@ -7631,5 +7631,31 @@
     "addedAt": "2026-08-27T06:19:12.627Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9792336814",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9792336814-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01dec_K5EYJYAd7tFpfCunGUjaDhSJ/310x430/839f0f57.webp?s=01f436d485a3279146ed108232d3116a117cd072",
+    "addedAt": "2026-08-27T06:33:44.559Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9788341817",
+    "category": "Console",
+    "title": "Support Nintendo Switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9788341817-support-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a82_xZLxhTzD98dvFeiRFCYWfUzd/310x430/682c3c2d.webp?s=1280cc994f3a1e10e7169d3d7d8ee12cb83f6ed6",
+    "addedAt": "2026-08-27T06:35:48.817Z",
+    "processed": false,
+    "triaged": false
   }
 ]
