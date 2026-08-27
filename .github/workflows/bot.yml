@@ -2,11 +2,12 @@ name: Vinted Deal Finder Bot
 
 on:
   schedule:
-    # Ogni 6 ore (00:00, 06:00, 12:00, 18:00 UTC). Ogni job dura ~5h50m internamente
-    # (vedi run_loop.sh), lasciando ~10 minuti di margine prima del prossimo avvio
-    # programmato, cosi' il job precedente ha sempre il tempo di chiudersi e salvare
-    # lo stato prima che parta quello nuovo.
-    - cron: '0 */6 * * *'
+    # Ogni 3 ore. Ogni job dura ~5h50m internamente (vedi run_loop.sh); grazie a
+    # "concurrency" ne resta al massimo uno attivo + uno in attesa, che parte subito
+    # quando il precedente finisce (buco quasi nullo). Cron ogni 3 ore invece di 6:
+    # se GitHub salta o ritarda molto un avvio programmato (succede spesso), quello
+    # dopo recupera entro 3 ore anziche' 6.
+    - cron: '0 */3 * * *'
   workflow_dispatch: {}
 
 permissions:
