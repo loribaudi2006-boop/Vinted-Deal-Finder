@@ -10584,5 +10584,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9801750823",
+    "category": "Console",
+    "title": "Console Nintendo switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9801750823-console-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00445_YuKK8JS41pJzvKKZDMsRfFtg/310x430/d1a537f0.webp?s=ff2e016c21cd675609680fb78f8c49b6dbba5b55",
+    "addedAt": "2026-08-27T22:42:54.677Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Nintendo switch\nBuone·Nintendo·Caricato 4 min fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n4 min fa\nConsole switch con solo joycon destro ma con 2 lacci per comando a distanza\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il joycon sinistro (include solo il destro con 2 lacci)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.05
   }
 ]
