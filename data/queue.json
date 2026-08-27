@@ -10394,7 +10394,7 @@
     "url": "https://www.vinted.it/items/9801416921-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0270d_PKjJdqcKLViBzApytvEtUz85/310x430/d997f7dd.webp?s=9e45eeae40e6b03026bfc18ad98bb48fe3f02ed7",
     "addedAt": "2026-08-27T21:26:23.047Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "o\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nDiscrete·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n3 min fa\nLos joisticks tienen un poco de drift,pero la pantalla está en muy buen estado y funciona perfectamente\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -10416,5 +10416,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "9801446229",
+    "category": "Console",
+    "title": "PS4 SLIM 500 Giga avec une manette Sony",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801446229-ps4-slim-500-giga-avec-une-manette-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_003a9_uej5FdpkTu1UhUwBrvmsrohF/310x430/bab9073d.webp?s=eb5e4f7a327c97cb74f8f33dcec95d228741f1d5",
+    "addedAt": "2026-08-27T21:30:30.656Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 SLIM 500 Giga avec une manette Sony\nBuone·Sony·Caricato 4 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nPS4 noire de 2025 marque Sony avec une manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9801219084",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9801219084-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00afa_NhG3V8q3RZ1xKJHqsUSG6Qmd/310x430/45924415.webp?s=1c2f493f6e95f5ee68c7094b2ac73b729f8ab31c",
+    "addedAt": "2026-08-27T21:32:34.536Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-68.95€, sotto soglia"
   }
 ]
