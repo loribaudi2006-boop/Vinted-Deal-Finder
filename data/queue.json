@@ -8384,7 +8384,30 @@
     "url": "https://www.vinted.it/items/9793559094-console-xbox-one-s-1-to?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0170c_5cXBao3ew3rBJTd3NREwse23/310x430/85e039a3.webp?s=fa0cba782e5bf8727df2166e17e62cae82c58bae",
     "addedAt": "2026-08-27T09:30:05.205Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Xbox One S 1 To\nOttime·Xbox·Caricato 3 min fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nOttime\nCaricato\n3 min fa\nHello ! 👋\nJe vends un pack Xbox One S (Stockage 1 To / 1000 Go) blanche.\n✨ CONTENU DU PACK :\nConsole Xbox One S 1 To (modèle blanc avec lecteur Blu-ray 4K / HDR)\nManette sans fil Xbox officielle blanche\nBoîte d'origine (Pack Assassin's Creed Origins)\n2 jeux physiques inclus : FIFA 17 + WWE 2K17\nCâbles inclus (alimentation + HDMI)\n⚠️ À NOTER :\nManette : Les joysticks ainsi que la gâchette RT présentent des dysfonctionnements / défauts de réponse (idéal si vous savez la réparer, changer les pièces ou si vous avez déjà une autre manette).\nConsole : La console n'est pas réinitialisée.\n🔍 ÉTAT GÉNÉRAL :\nConsole très propre et parfaitement fonctionnelle.\nBoîte d'origine en bon état.\n📦 Envoi rapide, très bien protégé et suremballé pour le transport ! N'hésite pas si tu as des questions.\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manette con joysticks e gâchette RT difettosi, console non formattata",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32
+  },
+  {
+    "id": "9793639305",
+    "category": "Console",
+    "title": "Nintendo Switch inklusive Zubehör",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9793639305-nintendo-switch-inklusive-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00cc5_v4gtQaDMzqMSKSj29rrj6hQb/310x430/a49ef082.webp?s=f0e0493e24095a34d520acc587eedb9d2b43b3a5",
+    "addedAt": "2026-08-27T09:38:23.168Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch inklusive Zubehör\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch inklusive Zubehör\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
