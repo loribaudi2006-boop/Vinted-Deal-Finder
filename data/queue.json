@@ -7716,5 +7716,49 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "9790171882",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9790171882-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d86_wUBDgUJCnLcQsJKNjYBM9HYC/310x430/1fd57fa8.webp?s=9a9d9a12cf96aeb788ff586b37c9ef715cd52b9b",
+    "addedAt": "2026-08-27T07:15:13.503Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nNuovo senza cartellino·PlayStation·Caricato 11 ore fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n11 ore fa\nConsole\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "9792542263",
+    "category": "Console",
+    "title": "Console wit PlayStation 5",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9792542263-console-wit-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_018bf_i6fdG5ZBPP6PkJnRhUSDmYzi/310x430/adbfcf87.webp?s=6fc98547f7d500b18533fdeb56562c1d41058b45",
+    "addedAt": "2026-08-27T07:19:22.283Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9792554945",
+    "category": "Console",
+    "title": "Xbox one 1 To",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9792554945-xbox-one-1-to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00a05_uid2yXvjKNKGgwEYuM17GtJo/310x430/d6cb3447.webp?s=f8702250b83fe84aa26cc657b06ffeac0c8539bb",
+    "addedAt": "2026-08-27T07:21:28.706Z",
+    "processed": false,
+    "triaged": false
   }
 ]
