@@ -9968,7 +9968,27 @@
     "url": "https://www.vinted.it/items/9800382893-nintendo-switch-1-oled?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01c3c_32xbQD3wodLexHEy5ds8yLL1/310x430/746b7fcc.webp?s=dc3519857e8571579922f8b60adb0af0ed6c9059",
     "addedAt": "2026-08-27T19:17:49.064Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icità\n‌\n\n13\nRimosso!\n+ 12\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch 1 Oled\nDiscrete·Nintendo·Caricato 5 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n5 min fa\nNintendo Switch 1 Oled funzionante con i giochi come da foto joy con un po usurati\nCarica batteria , come da foto senza scatola\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "joy con un po usurati, senza scatola",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 116.8
+  },
+  {
+    "id": "9800487645",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör-Set",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9800487645-nintendo-switch-zubehor-set?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f2e_zaDjzyXstQ25YRgj6J8czkHY/310x430/fc34200b.webp?s=f6416326476a586ab4bf21bd2bcdaeed1b3f3b77",
+    "addedAt": "2026-08-27T19:28:10.133Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.9€, sotto soglia"
   }
 ]
