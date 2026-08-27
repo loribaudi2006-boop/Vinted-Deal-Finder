@@ -10602,5 +10602,38 @@
     "geminiFault": "Manca il joycon sinistro (include solo il destro con 2 lacci)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 62.05
+  },
+  {
+    "id": "9801798888",
+    "category": "Console",
+    "title": "PS4FAT",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801798888-ps4fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_000d9_gobkpn3xvw56vJSmqLLNAP5a/310x430/40360d96.webp?s=311568424505ec18db03a2d7b874bb9d1b408d49",
+    "addedAt": "2026-08-27T22:57:22.083Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.3€, sotto soglia"
+  },
+  {
+    "id": "9801806054",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9801806054-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_013e3_FudD83jgLLTC5FjzVPnU2o6g/310x430/8e9f637d.webp?s=bf497c07f2cbcdab55d9d6844fd06779ce9de4dc",
+    "addedAt": "2026-08-27T22:59:25.985Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n2 min fa\nLo schermo contiene un grande graffio\nI due joystick scivolano molto facilmente e mancano i gommini per il resto funziona perfettamente\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Grande graffio sullo schermo, i due joystick driftano/scivolano facilmente e mancano i gommini",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
