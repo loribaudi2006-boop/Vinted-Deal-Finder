@@ -1,0 +1,38 @@
+name: Watchdog bot
+
+# Job minuscolo (niente Chrome, niente npm), gira ogni ~15 minuti. Verifica che
+# bot.yml sia attivo; se e' fermo da troppo tempo avvisa su Telegram e lo riavvia.
+# E' anche lui un cron GitHub e quindi non e' garantito al 100%, ma essendo brevissimo
+# e frequente ha molte piu' probabilita' di partire regolarmente del job lungo del bot.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: watchdog
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Controlla stato bot, avvisa e riavvia se serve
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DEFAULT_BRANCH: main
+          BOT_WORKFLOW: bot.yml
+          GAP_MINUTES: '20'
+        run: node watchdog.js
