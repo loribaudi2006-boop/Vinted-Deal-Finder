@@ -7818,5 +7818,50 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-4€, sotto soglia"
+  },
+  {
+    "id": "9792680685",
+    "category": "Console",
+    "title": "PS4 noire (2015) + jeu Spider-Man inclus",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9792680685-ps4-noire-2015-jeu-spider-man-inclus?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02655_Nrq4SkFPx3roZHfzySUtFCTG/310x430/26afbe72.webp?s=cddc620e0232ad700b3a719015f64116b2938f50",
+    "addedAt": "2026-08-27T07:44:17.990Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9792678377",
+    "category": "Console",
+    "title": "Pochette de protection switch 1",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 88% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9792678377-pochette-de-protection-switch-1oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01faf_ZJ8YNYZL6Z7rqB9d5gsXxfv4/310x430/674b0648.webp?s=90827deb273b33584e0175ee25bce7775c54c144",
+    "addedAt": "2026-08-27T07:44:17.990Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.85€, sotto soglia"
+  },
+  {
+    "id": "9792717059",
+    "category": "Console",
+    "title": "Nintendo Switch Animal Crossing Docking Station",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9792717059-nintendo-switch-animal-crossing-docking-station?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a2d_1fLz1dxrUkA6DLtuiS7Y115N/310x430/66acb1b7.webp?s=bec997f5fb20a09c10799aeb8f7ba8d5a60b83f1",
+    "addedAt": "2026-08-27T07:48:26.955Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
   }
 ]
