@@ -10449,5 +10449,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-68.95€, sotto soglia"
+  },
+  {
+    "id": "9801504618",
+    "category": "Console",
+    "title": "Xbox One s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9801504618-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b82_RNmyfNJNSHNtkwLU7AaDqV8g/310x430/db0f40f9.webp?s=53debe907087fbece5e2271318d18718300fad52",
+    "addedAt": "2026-08-27T21:42:55.130Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9801512035",
+    "category": "Console",
+    "title": "🎮 PlayStation 4 Slim – Très très bon état",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801512035-playstation-4-slim-tres-tres-bon-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004b0_yuC4DjgrAV7wYfBDutH2sZ74/310x430/1d9e08a5.webp?s=b3b420c0ed41a0baa4390e4fea397def70c8520b",
+    "addedAt": "2026-08-27T21:44:58.642Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n🎮 PlayStation 4 Slim – Très très bon état\nNuovo senza cartellino·PlayStation·Caricato 4 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n4 min fa\nJe vends ma PS4 Slim en excellent état, parfaitement fonctionnelle. Elle a toujours été utilisée avec soin et présente très peu de traces d’usure.\n\n✅ Fonctionne parfaitement\n✅ Très propre, bien entretenue\n✅ Aucun problème technique\n✅ Console réinitialisée pour la vente\n✅ Idéale pour profiter de nombreux jeux PS4\n\nVendue car je ne l’utilise plus.\n\n📦 Envoi rapide et soigné.\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
