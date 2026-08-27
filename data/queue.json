@@ -10227,5 +10227,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-5.3€, sotto soglia"
+  },
+  {
+    "id": "9801119445",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9801119445-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0036c_kPdLMLwdcw2zAmESFj2yTmoj/310x430/c901cf8c.webp?s=d44a7ee4e3f73b784c05383176cf2762c0fc8e4b",
+    "addedAt": "2026-08-27T20:40:50.734Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n7\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato 4 min fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n4 min fa\nNintendo switch, écran un peu abîmé à droite et batterie à changer\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "écran un peu abîmé à droite et batterie à changer",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 82.8
+  },
+  {
+    "id": "9801173492",
+    "category": "Console",
+    "title": "Console PS4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9801173492-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b80_NfCDGDUAvcEpbkJuvymtqWq5/310x430/4406c635.webp?s=59aea78c71bb2aaa265c386db17498c50186ee19",
+    "addedAt": "2026-08-27T20:47:03.391Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole PS4\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nConsole PS4 in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
