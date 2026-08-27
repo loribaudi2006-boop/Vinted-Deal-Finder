@@ -11,7 +11,7 @@ const puppeteer = require('puppeteer-core');
 const { loadConfig } = require('./config_loader.js');
 const config = loadConfig();
 const { fetchListingWithPage } = require('./fetch_listing_lib.js');
-const { searchAmazonPart } = require('./amazon_search.js');
+const { searchAmazonPart, amazonSearchUrl } = require('./amazon_search.js');
 const { nextApiKey, isConfigured } = require('./gemini_keys.js');
 const stats = require('./stats.js');
 
@@ -84,7 +84,7 @@ Rispondi SOLO con un oggetto JSON valido (nessun testo extra, nessun markdown), 
   "baitPriceSuspected": true/false,
   "repairDifficulty": "Facile" / "Media" / "Difficile" / "" (vuoto se nessun difetto),
   "repairNote": "come si risolve, in una frase (vuoto se nessun difetto)",
-  "partsNeeded": [ { "name": "nome breve pezzo/elemento", "searchQuery": "query efficace per trovarlo su Amazon.it" } ] (array vuoto se non serve comprare nulla),
+  "partsNeeded": [ { "name": "nome breve pezzo/elemento", "searchQuery": "query efficace per trovarlo su Amazon.it", "estimatedPriceEUR": numero (prezzo indicativo realistico del pezzo su Amazon.it in euro, in base alla tua conoscenza — serve come stima di riserva se la ricerca automatica non trova il prezzo) } ] (array vuoto se non serve comprare nulla),
   "resaleEstimate": numero (prezzo di rivendita realistico su Vinted una volta funzionante/completo/in buone condizioni),
   "resaleTitle": "titolo pronto per il nuovo annuncio di rivendita",
   "resaleDescription": "descrizione pronta per il nuovo annuncio di rivendita, italiano, tono da privato, onesta sulle condizioni una volta riparato/completato, senza esagerare"
@@ -117,17 +117,30 @@ Rispondi SOLO con un oggetto JSON valido (nessun testo extra, nessun markdown), 
 async function resolveParts(page, partsNeeded, logPrefix) {
   const resolved = [];
   for (const part of partsNeeded || []) {
+    const estimate = typeof part.estimatedPriceEUR === 'number' && part.estimatedPriceEUR > 0
+      ? part.estimatedPriceEUR
+      : null;
+    // Fallback usato quando lo scraping Amazon non da' un risultato: prezzo stimato da
+    // Gemini (marcato come stima) + link a una ricerca Amazon.it gia' pronta, cosi' e'
+    // comunque a un tap di distanza invece di un "cerca a mano".
+    const fallback = {
+      name: part.name,
+      price: estimate,
+      estimated: true,
+      url: amazonSearchUrl(part.searchQuery),
+      title: null,
+    };
     try {
       const found = await searchAmazonPart(page, part.searchQuery);
       if (found) {
-        resolved.push({ name: part.name, price: found.price, url: found.url, title: found.title });
+        resolved.push({ name: part.name, price: found.price, estimated: false, url: found.url, title: found.title });
       } else {
-        resolved.push({ name: part.name, price: null, url: null, title: null });
-        log(`${logPrefix} nessun risultato Amazon per "${part.searchQuery}"`);
+        resolved.push(fallback);
+        log(`${logPrefix} nessun risultato Amazon per "${part.searchQuery}" — uso stima ${estimate ?? 'n.d.'}€`);
       }
     } catch (err) {
-      resolved.push({ name: part.name, price: null, url: null, title: null });
-      log(`${logPrefix} errore ricerca Amazon "${part.searchQuery}": ${err.message}`);
+      resolved.push(fallback);
+      log(`${logPrefix} ricerca Amazon "${part.searchQuery}" fallita (${err.message}) — uso stima ${estimate ?? 'n.d.'}€`);
     }
   }
   return resolved;
@@ -141,11 +154,11 @@ function buildTelegramMessage(item, verdict, parts, margin) {
   const partsLines = parts.length === 0
     ? 'Nessuno'
     : parts
-        .map(p =>
-          p.price != null
-            ? `- ${p.name} — ${p.price.toFixed(2)}€ — ${p.url}`
-            : `- ${p.name} — prezzo non trovato automaticamente, cerca a mano`
-        )
+        .map(p => {
+          if (p.price != null && !p.estimated) return `- ${p.name} — ${p.price.toFixed(2)}€ — ${p.url}`;
+          if (p.price != null && p.estimated) return `- ${p.name} — ~${p.price.toFixed(2)}€ (stima) — ${p.url}`;
+          return `- ${p.name} — prezzo da verificare — ${p.url}`;
+        })
         .join('\n');
 
   return `━━━━━━━━━━━━━━━
@@ -236,6 +249,8 @@ async function main() {
       }
 
       const parts = await resolveParts(page, verdict.partsNeeded, `"${item.title}":`);
+      // Prezzo reale se trovato su Amazon, altrimenti la stima di Gemini: includere comunque
+      // un costo (anche stimato) tiene il calcolo del margine prudente invece di contare 0.
       const partsCost = parts.reduce((sum, p) => sum + (p.price ?? 0), 0);
       const margin = verdict.resaleEstimate - item.totalPrice - partsCost - verdict.resaleEstimate * VINTED_FEE_RATIO;
 
