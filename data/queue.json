@@ -7992,5 +7992,51 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-11.2€, sotto soglia"
+  },
+  {
+    "id": "9792887840",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9792887840-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015b7_Bz3Jgd9QYAxjDBGQZXBunDJc/310x430/4f05b1eb.webp?s=4a032409cd0f4c3903a819cbe0b295a9cac69bc0",
+    "addedAt": "2026-08-27T08:13:22.896Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nHallo ich verkaufe meine nintendo switch funktioniert eindwandfrei\nSpedizione\nda 11,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "9792915886",
+    "category": "Console",
+    "title": "Maletín para Nintendo switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9792915886-maletin-para-nintendo-switch-volantes-y-estuches-cartuchos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0060e_FRmigMLUaHio3EN1sevwStx7/310x430/77e25814.webp?s=f40b48167886f9cd011d1b7840580705e4989f25",
+    "addedAt": "2026-08-27T08:17:31.505Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "9792944975",
+    "category": "Console",
+    "title": "Disque dur Xbox one S 500 gb",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 90% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9792944975-disque-dur-xbox-one-s-500-gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01d01_PQgqB2KxUaFT65kEN5xcysDF/310x430/48dc3fb6.webp?s=590452d62b57049221cb73efaaf778e10000f2c5",
+    "addedAt": "2026-08-27T08:21:39.571Z",
+    "processed": false,
+    "triaged": false
   }
 ]
