@@ -9683,8 +9683,10 @@
     "url": "https://www.vinted.it/items/9799754750-nintendo-switch-lite-turquoise-pour-pieces-ou-jeu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01f96_BLyjsaMG3yCoU8aT3J75tkdK/310x430/15559232.webp?s=c42a2f2b398e7e44f302d25c2cf51a9867c7e382",
     "addedAt": "2026-08-27T18:15:33.226Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
   },
   {
     "id": "9799735022",
@@ -9696,8 +9698,13 @@
     "url": "https://www.vinted.it/items/9799735022-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0205a_ykAQMcBVU2uTArQMAm7HUtJN/310x430/c7622566.webp?s=cd13fa9bf994b664124df52fde9acee847d25223",
     "addedAt": "2026-08-27T18:15:33.226Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "coli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 8\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nSwitch lite\nOttime·Nintendo·Caricato 7 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n7 min fa\nBonjour, je vends cette switch en très bon état, la manette marche très bien et est quasiment neuve, sur la switch il manque le cache joystick mais marche très bien\nPlus de photo ou d’info en privé\nPrix négociable\n... altro\nSpedizione\nda 9,49 €\nChiedi info",
+    "geminiFault": "Manca il cap del joystick (cache joystick)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
   },
   {
     "id": "9799781905",
@@ -9709,6 +9716,52 @@
     "url": "https://www.vinted.it/items/9799781905-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0162a_XhLDZUUwKRnUhvqWbPNd9CFV/310x430/65b8b465.webp?s=9c9d74c7a701dc0b695e64cb2b428112e2728661",
     "addedAt": "2026-08-27T18:19:41.855Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9799837945",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9799837945-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0157c_X28tqifKSUh6gobEm2VYSnVY/310x430/4c1f9c64.webp?s=d6331768933bb282e645e9f2bfa61155a83071ec",
+    "addedAt": "2026-08-27T18:23:49.727Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "coli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nEstá ótima e foi recentemente limpa interiormente\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "9799887852",
+    "category": "Console",
+    "title": "Sony PlayStation 4",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9799887852-sony-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00471_GfwEyTuM4fdfQfHDoZbVbX8s/310x430/a5caeb08.webp?s=e4cff6a6212c8f3538e76a00b88dfcf35a30093c",
+    "addedAt": "2026-08-27T18:27:58.750Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9799875810",
+    "category": "Console",
+    "title": "Soportes ps5",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9799875810-soportes-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01107_FW9KitC8JTnGSBLYzxo374DJ/310x430/ae813be5.webp?s=36e619aa7260cfb257343330155ed421c2567808",
+    "addedAt": "2026-08-27T18:27:58.750Z",
     "processed": false,
     "triaged": false
   }
