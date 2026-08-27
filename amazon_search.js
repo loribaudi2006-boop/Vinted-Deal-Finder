@@ -30,7 +30,7 @@ async function dismissConsent(page) {
 }
 
 async function readResults(page) {
-  await page.waitForSelector('[data-component-type="s-search-result"]', { timeout: 12000 }).catch(() => {});
+  await page.waitForSelector('[data-component-type="s-search-result"]', { timeout: 6000 }).catch(() => {});
   return page.evaluate(() => {
     const items = Array.from(document.querySelectorAll('[data-component-type="s-search-result"]'));
     return items.map((el) => {
@@ -68,37 +68,36 @@ async function searchAmazonPart(page, query) {
   } catch {}
 
   const url = 'https://www.amazon.it/s?k=' + encodeURIComponent(query) + '&language=it_IT';
-  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15000 });
 
   let results = await readResults(page);
 
-  // Nessun risultato: probabile pagina di consenso o blocco. Proviamo a chiuderla e a ricaricare.
-  if (!results.length) {
-    const dismissed = await dismissConsent(page);
-    if (dismissed) {
-      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 }).catch(() => {});
-      results = await readResults(page);
-    }
-  }
-
+  // Nessun risultato: puo' essere la pagina di consenso cookie (recuperabile) oppure il
+  // soft-block/errore che Amazon mostra agli IP da datacenter (non recuperabile qui).
   if (!results.length) {
     const diag = await page.evaluate(() => ({
-      title: document.title,
+      title: document.title || '',
       snippet: document.body ? document.body.innerText.replace(/\s+/g, ' ').slice(0, 200) : '',
     }));
     const lower = (diag.title + ' ' + diag.snippet).toLowerCase();
-    const err = new Error(
-      `Amazon: nessun risultato (titolo pagina: "${diag.title}" | inizio testo: "${diag.snippet}")`
-    );
-    if (
+    const softBlock =
+      lower.includes('ci dispiace') ||
+      lower.includes('si è verificato un errore') ||
+      lower.includes('elaborare la richiesta') ||
       lower.includes('inserisci i caratteri') ||
       lower.includes('robot check') ||
-      lower.includes('automated access') ||
-      lower.includes('non siamo riusciti')
-    ) {
-      err.isAmazonBlocked = true;
+      lower.includes('automated access');
+
+    if (!softBlock && (await dismissConsent(page))) {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15000 }).catch(() => {});
+      results = await readResults(page);
     }
-    throw err;
+
+    if (!results.length) {
+      const err = new Error(`Amazon: nessun risultato (pagina: "${diag.title}" | "${diag.snippet}")`);
+      if (softBlock) err.isAmazonBlocked = true;
+      throw err;
+    }
   }
 
   const best = results.find((r) => !r.sponsored && r.title && r.priceText && r.asin);

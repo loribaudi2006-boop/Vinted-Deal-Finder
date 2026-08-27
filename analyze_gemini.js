@@ -114,6 +114,10 @@ Rispondi SOLO con un oggetto JSON valido (nessun testo extra, nessun markdown), 
   return JSON.parse(text);
 }
 
+// Se Amazon blocca il runner (succede spesso dagli IP GitHub), dopo il primo blocco
+// smettiamo di riprovare per gli altri pezzi dello stesso giro e usiamo subito le stime.
+let amazonBlockedThisProcess = false;
+
 async function resolveParts(page, partsNeeded, logPrefix) {
   const resolved = [];
   for (const part of partsNeeded || []) {
@@ -130,6 +134,10 @@ async function resolveParts(page, partsNeeded, logPrefix) {
       url: amazonSearchUrl(part.searchQuery),
       title: null,
     };
+    if (amazonBlockedThisProcess) {
+      resolved.push(fallback);
+      continue;
+    }
     try {
       const found = await searchAmazonPart(page, part.searchQuery);
       if (found) {
@@ -139,8 +147,13 @@ async function resolveParts(page, partsNeeded, logPrefix) {
         log(`${logPrefix} nessun risultato Amazon per "${part.searchQuery}" — uso stima ${estimate ?? 'n.d.'}€`);
       }
     } catch (err) {
+      if (err.isAmazonBlocked) {
+        amazonBlockedThisProcess = true;
+        log(`${logPrefix} Amazon blocca il runner — passo alle stime per tutti i pezzi di questo giro`);
+      } else {
+        log(`${logPrefix} ricerca Amazon "${part.searchQuery}" fallita (${err.message}) — uso stima ${estimate ?? 'n.d.'}€`);
+      }
       resolved.push(fallback);
-      log(`${logPrefix} ricerca Amazon "${part.searchQuery}" fallita (${err.message}) — uso stima ${estimate ?? 'n.d.'}€`);
     }
   }
   return resolved;
@@ -151,6 +164,7 @@ function buildTelegramMessage(item, verdict, parts, margin) {
     ? `\n⚠️ <b>Attenzione, possibile prezzo esca:</b> la descrizione lascia intendere che il venditore accetta offerte/tratta — potrebbe non vendere davvero a ${item.totalPrice}€. Verifica prima di contarci.`
     : '';
 
+  const anyEstimated = parts.some(p => p.estimated);
   const partsLines = parts.length === 0
     ? 'Nessuno'
     : parts
@@ -159,7 +173,7 @@ function buildTelegramMessage(item, verdict, parts, margin) {
           if (p.price != null && p.estimated) return `- ${p.name} — ~${p.price.toFixed(2)}€ (stima) — ${p.url}`;
           return `- ${p.name} — prezzo da verificare — ${p.url}`;
         })
-        .join('\n');
+        .join('\n') + (anyEstimated ? '\n<i>(stime: Amazon ha bloccato la ricerca automatica — i link aprono la ricerca)</i>' : '');
 
   return `━━━━━━━━━━━━━━━
 🎮 <b>${verdict.title}</b>
