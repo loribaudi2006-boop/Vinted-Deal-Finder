@@ -9990,5 +9990,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5.9€, sotto soglia"
+  },
+  {
+    "id": "9800515442",
+    "category": "Console",
+    "title": "Boite vide Playstation 5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9800515442-boite-vide-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_007d1_X3pXTzFCAhTs39tmtaLQZ4sH/310x430/7012f798.webp?s=33b2aacdf317ecae67ae9369cedf72041fe07cf2",
+    "addedAt": "2026-08-27T19:30:14.611Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.7€, sotto soglia"
+  },
+  {
+    "id": "9799491022",
+    "category": "Console",
+    "title": "HyperX ChargePlay Quad 2 Nintendo Switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9799491022-hyperx-chargeplay-quad-2-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_004b9_S9GjQrMwXfSwp5SzQp6BQ1cQ/310x430/7d8a77d8.webp?s=76cb699d4bf706419c4ae40831527dce4749e843",
+    "addedAt": "2026-08-27T19:36:27.172Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10.2€, sotto soglia"
   }
 ]
