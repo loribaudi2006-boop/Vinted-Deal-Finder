@@ -10544,7 +10544,27 @@
     "url": "https://www.vinted.it/items/9801663291-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01cc7_JrFyH4fbD9gDYsD6dJSfUXfW/310x430/af168e3c.webp?s=62c2a052e04597ccd28a7a9a7ac8cc6be55e278f",
     "addedAt": "2026-08-27T22:18:04.427Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nManque les dioistique\nSans chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manque les joysticks, sans chargeur",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "9801705843",
+    "category": "Console",
+    "title": "PS5 mit Kontroller",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9801705843-ps5-mit-kontroller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00894_q1RgSopAUpRmLCz9EyTc8bKe/310x430/f9c8ad05.webp?s=a3becc876b4ed38ec85f9ebfddc8956015115525",
+    "addedAt": "2026-08-27T22:28:26.168Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
