@@ -13940,8 +13940,13 @@
     "url": "https://www.vinted.it/items/9811758628-ps4-slim-1-go?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01a78_ZTwMEWzZs5jaaQDbgfXWN1y8/310x430/f7fba620.webp?s=093e521ab00593a4cf9ecd29f7ce517a9ac70b93",
     "addedAt": "2026-08-28T21:58:41.754Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim 1 go\nBuone·PlayStation·Caricato 4 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nVends Ps4 slim avec câble manette sans jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Vends Ps4 slim avec câble manette sans jeux",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.05
   },
   {
     "id": "9811755414",
@@ -13953,7 +13958,9 @@
     "url": "https://www.vinted.it/items/9811755414-scocca-per-lettore-disco-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_002f1_H9wNqMEjfJC14K2MoY7YYnbx/310x430/626271cf.webp?s=a285f0151158d7f40360c1c18866c0e508cf18a6",
     "addedAt": "2026-08-28T21:58:41.754Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.3€, sotto soglia"
   }
 ]
