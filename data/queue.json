@@ -11579,8 +11579,13 @@
     "url": "https://www.vinted.it/items/9806365224-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01ec4_FXvkQyGrSAUKNzfteYBeggbr/310x430/8f65493e.webp?s=b6f1f8355c62e64af0d7d460fa2fe5dd46baf51c",
     "addedAt": "2026-08-28T13:36:08.631Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 24 min fa\n\n52,00 €\n\n55,30 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n24 min fa\nExcellent état avec câble d'alimentation et câble HDMI\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
   },
   {
     "id": "9806331107",
@@ -11592,7 +11597,57 @@
     "url": "https://www.vinted.it/items/9806331107-playstation-4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00e38_862vusxZjNMVMC61GhNGQfYG/310x430/16531696.webp?s=7ffa9b504da767223f64eae8aa876a4b7e30bcde",
     "addedAt": "2026-08-28T13:36:08.632Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 pro\nOttime·PlayStation·Caricato 27 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n27 min fa\nPer giochi guardate nel mio profilo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.8
+  },
+  {
+    "id": "9806375219",
+    "category": "Console",
+    "title": "xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9806375219-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020e0_Jv2gsNmXQk5aDU6MuZApmmA9/310x430/fcbd1f64.webp?s=8081545c4175527948045f57d676ea020d2a4ab5",
+    "addedAt": "2026-08-28T13:38:12.865Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "9806412343",
+    "category": "Console",
+    "title": "Shell posteriore edizione Monster a hunter - Nintendo Switch",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9806412343-shell-posteriore-edizione-monster-a-hunter-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01013_unM7mbJsg59rLCSSagJuAj1X/310x430/335ff2e7.webp?s=92d68733ae9d75d5eb0f31bb179ae7c1b80183db",
+    "addedAt": "2026-08-28T13:40:18.611Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.85€, sotto soglia"
+  },
+  {
+    "id": "9806489467",
+    "category": "Console",
+    "title": "Tapa Lateral PS5 Slim Carcasa Gris / Plata NUEVA",
+    "price": 11.99,
+    "totalPrice": 13.29,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9806489467-tapa-lateral-ps5-slim-carcasa-gris-plata-nueva?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01c5b_Cb5yizpaFEPkF1owDNDV64wf/310x430/55a4147d.webp?s=4d800b85a621605999d44229a0fbb30c3e00758a",
+    "addedAt": "2026-08-28T13:42:23.105Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~9.71€, sotto soglia"
   }
 ]
