@@ -11807,8 +11807,10 @@
     "url": "https://www.vinted.it/items/9807041788-ps4-fat-moto-gp18?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0059c_ooTPtgKZmyT4CmyjwZfjgV8U/310x430/1368c2e6.webp?s=e4595d7e51aeefab995a5128fe4590c76a4f2f55",
     "addedAt": "2026-08-28T14:15:36.355Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   },
   {
     "id": "9807020305",
@@ -11820,8 +11822,10 @@
     "url": "https://www.vinted.it/items/9807020305-lot-switch-1-housse-coque-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00dba_quBr717UpPfzgvnitBrPKeg4/310x430/8e0d1635.webp?s=8d7ec07a4cd2f4dd90ff8e93882cfde9f7135173",
     "addedAt": "2026-08-28T14:15:36.355Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
   },
   {
     "id": "9806994501",
@@ -11833,7 +11837,78 @@
     "url": "https://www.vinted.it/items/9806994501-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02545_RLmNjwYb6iL2GmvkmkHgPTe4/310x430/09d68693.webp?s=c2d05888aabdc5b4d23952b9f7ad5047f42022f3",
     "addedAt": "2026-08-28T14:15:36.355Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato 13 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n13 min fa\nBon état général\nCaprice du lecteur CD mais fonctionnel quand même\nSpedizione\n5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Caprice du lecteur CD mais fonctionnel quand même",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "9807079077",
+    "category": "Console",
+    "title": "cassette de switch 1",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9807079077-cassette-de-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0195f_mQQR4nCgTHE2doZ6pbyqKWzK/310x430/858ace9d.webp?s=49c4dffbd61d4af573ac872830972e971589a4e8",
+    "addedAt": "2026-08-28T14:17:40.965Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "9807033993",
+    "category": "Console",
+    "title": "PS5 Cover",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9807033993-ps5-cover?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d0b_2WMuEfUftUxQNVwLirdsvFv4/310x430/91d566eb.webp?s=b4ab79de314191e446357a3515a427101a355f1a",
+    "addedAt": "2026-08-28T14:17:40.966Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "9807091484",
+    "category": "Console",
+    "title": "PS4 noir",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9807091484-ps4-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00c90_inbgEMpFyfijrLFigdtT38as/310x430/c438db89.webp?s=4d6376bc6811b7bdd0e180219b4be2cd054bb3a9",
+    "addedAt": "2026-08-28T14:19:45.434Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 noir\nOttime·Sony·Caricato 6 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n6 min fa\nPS4\nCâble\nManette pas d'origine câble à scotcher voir dernière photo\nConsole peu utilisé\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller non originale con cavo da riparare con lo scotch",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "9807149001",
+    "category": "Console",
+    "title": "PlayStation 4 500 GO",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9807149001-playstation-4-500-go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00cb1_5seF7E6fyftDVqwgpNZoyFFh/310x430/1b8d373f.webp?s=1695083d5d7e084d929fb9f328750e0404137b01",
+    "addedAt": "2026-08-28T14:23:54.274Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 500 GO\nDiscrete·PlayStation·Caricato 7 min fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n7 min fa\nVend PS4 500 Go en état fonctionnel.\nLa console démarre et fonctionne correctement.\n\n* 🎮 Console : PlayStation 4\n* 💾 Stockage : 500 Go\n* 🖤 Couleur : Noir\n* ✅ État : fonctionnelle\n* 🔌 Câbles inclus selon les photos\n* 📸 Traces d’utilisation visibles sur les photos\n* 📦 Envoi rapide et soigneux\n\nIdéale pour jouer à FIFA, GTA, Call of Duty, Fortnite, etc.\n\nN’hésitez pas à me contacter pour plus d’informations.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tracce d'uso visibili, cavi inclusi solo secondo le foto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.55
   }
 ]
