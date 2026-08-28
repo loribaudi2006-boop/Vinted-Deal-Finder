@@ -11090,5 +11090,31 @@
     "addedAt": "2026-08-28T06:44:42.767Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9802765577",
+    "category": "Console",
+    "title": "PS4 slim",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9802765577-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01caf_vHggmMLchjP8zTztqLeh6zE7/310x430/e3449a7d.webp?s=640719778088c7aefbf6da3bfa66b9eb3a465bac",
+    "addedAt": "2026-08-28T06:48:52.068Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9802758072",
+    "category": "Console",
+    "title": "PS4 - gameconsole",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9802758072-ps4-gameconsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01959_N7MhmBQrUu6vkDQJsSLDoKxo/310x430/9ed39f3d.webp?s=55f9e464be60e60ebb14f2ad0d2e955fecb7dbfa",
+    "addedAt": "2026-08-28T06:48:52.069Z",
+    "processed": false,
+    "triaged": false
   }
 ]
