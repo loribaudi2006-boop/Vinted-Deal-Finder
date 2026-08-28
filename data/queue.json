@@ -13962,5 +13962,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.3€, sotto soglia"
+  },
+  {
+    "id": "9811810250",
+    "category": "Console",
+    "title": "Console ps4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9811810250-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01e14_BHZGYtMSqAAzHidmarvnhFiC/310x430/bd2b4219.webp?s=6d15dd75d6c6ac107dc893b30c72ba93d90137fd",
+    "addedAt": "2026-08-28T22:11:07.419Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n2\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nOttime·PlayStation·Caricato 5 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nConsole ps4\nManette (abîmée)\nCâble d’alimentation\nCâble hdmi\nChargeur manette\nPas de boîte\nTrès bon état/reinitialisé\nFonctionne très bien\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manette abîmée (danneggiata/rovinata)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.05
+  },
+  {
+    "id": "9811809569",
+    "category": "Console",
+    "title": "Ps4 slim 1 go",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9811809569-ps4-slim-1-go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a78_ZTwMEWzZs5jaaQDbgfXWN1y8/310x430/f7fba620.webp?s=093e521ab00593a4cf9ecd29f7ce517a9ac70b93",
+    "addedAt": "2026-08-28T22:11:07.420Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
