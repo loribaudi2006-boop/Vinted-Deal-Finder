@@ -11649,5 +11649,51 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~9.71€, sotto soglia"
+  },
+  {
+    "id": "9806564223",
+    "category": "Console",
+    "title": "PS5 game stand",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9806564223-ps5-game-stand?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00237_CPiVcxZxEpNuvF5eBNs8s89W/310x430/220f5ca4.webp?s=918e1abad1514fb34b1329a7313d4d01c7068679",
+    "addedAt": "2026-08-28T13:50:41.698Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.9€, sotto soglia"
+  },
+  {
+    "id": "9806508119",
+    "category": "Console",
+    "title": "Ps4 PlayStation",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9806508119-ps4-playstation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0230e_yLX9yhcpqqfkyNkbVCapigTi/310x430/137cd905.webp?s=82b5f96726be157844c511618ac15a25317384c4",
+    "addedAt": "2026-08-28T13:50:41.698Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 PlayStation\nOttime·PlayStation·Caricato 28 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n28 min fa\nTrès bonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.8
+  },
+  {
+    "id": "9806671377",
+    "category": "Console",
+    "title": "nintendo switch lite prezzo trattabile",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9806671377-nintendo-switch-lite-prezzo-trattabile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_011ff_tfWNLfFSVWJLc2KHsGtjhqWU/310x430/15850a56.webp?s=6310d15815063190222d450fcdf71487d5b3f218",
+    "addedAt": "2026-08-28T13:54:50.329Z",
+    "processed": false,
+    "triaged": false
   }
 ]
