@@ -14043,5 +14043,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3€, sotto soglia"
+  },
+  {
+    "id": "9812007445",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9812007445-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d99_fW1NdY7FMpGsiWmVvLQ5Hkjw/310x430/f35bbfe5.webp?s=9300f337949e06aedd7bbd8f2175bc7326b52153",
+    "addedAt": "2026-08-28T23:04:55.144Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nplaystation 4 comprata 2 anni fa usata pochissimo e praticamente nuova 1 tb di spazio con joystick e giochi fc25 gta minecraft e gran turismo\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
