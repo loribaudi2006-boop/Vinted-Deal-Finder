@@ -14010,5 +14010,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.3€, sotto soglia"
+  },
+  {
+    "id": "9811966103",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9811966103-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02427_9bFK8KX3JqKAwDkU7YPq9Akw/310x430/21086032.webp?s=58c1c95b159d79599b91ff0dcf7390469f57327b",
+    "addedAt": "2026-08-28T22:52:30.926Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "obby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nOttime·Xbox·Caricato 2 min fa\n\n25,00 €\n\n26,95 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n2 min fa\nVendo Xbox one in ottime condizioni è perfettamente funzionante!\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.05
+  },
+  {
+    "id": "9811982043",
+    "category": "Console",
+    "title": "Pochette pour switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9811982043-pochette-pour-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01dc0_wU87EZ1PTG7JF5o1CAfrvgtE/310x430/80845290.webp?s=9c8e52418d19af0a241c4699931eb87b5bdb5883",
+    "addedAt": "2026-08-28T22:56:38.373Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
   }
 ]
