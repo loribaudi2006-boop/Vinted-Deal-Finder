@@ -13995,5 +13995,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9811945107",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9811945107-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01595_qa3BABct6pTWx7qTUPnxR49z/310x430/75ce02e2.webp?s=f6623bb156b6a83a7e3e82aa84fde9c1c1ec8f37",
+    "addedAt": "2026-08-28T22:46:19.836Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
   }
 ]
