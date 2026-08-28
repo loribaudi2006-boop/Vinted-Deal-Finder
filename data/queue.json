@@ -10986,5 +10986,18 @@
     "addedAt": "2026-08-28T06:07:32.693Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9802643182",
+    "category": "Console",
+    "title": "Nintendo Switch lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9802643182-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_011e4_mPgz9ccRsfKXukzyotHFNGtK/310x430/c3bd864b.webp?s=9e88ab1294692dd37b31a25310a549f06079610d",
+    "addedAt": "2026-08-28T06:17:52.004Z",
+    "processed": false,
+    "triaged": false
   }
 ]
