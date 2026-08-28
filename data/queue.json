@@ -12461,8 +12461,10 @@
     "url": "https://www.vinted.it/items/9808117044-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00eb9_qUTktJB2WhUS6gLfjupor9me/310x430/29ba084d.webp?s=d5fdac64c707dff2fa30521221851bbabcde065e",
     "addedAt": "2026-08-28T15:34:31.137Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9808126135",
@@ -12474,7 +12476,30 @@
     "url": "https://www.vinted.it/items/9808126135-switch-non-fonctionnel?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01814_6b9ohqwsDVxpKPUMdmXuS9Gv/310x430/e7555d88.webp?s=33bb5e39c4bff0fe2d5f0cef326024c7cde14912",
     "addedAt": "2026-08-28T15:36:35.924Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n7\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch non fonctionnel\nBuone·Nintendo·Caricato 2 min fa\n\n15,00 €\n\n16,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nJe pense qu’elle ne marche plus depuis le temp mais pour ceux qui veulent essayer de la réparer ou autres n’hésiter pas 👍🏼\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Je pense qu’elle ne marche plus depuis le temp mais pour ceux qui veulent essayer de la réparer",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 83.55
+  },
+  {
+    "id": "9808235398",
+    "category": "Console",
+    "title": "PlayStation 4 Slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9808235398-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_020b6_i24JaUnbXCxasXprXWCcZ2G8/310x430/43054f62.webp?s=50ca9e5d409ee7caf977cbfa679b56c3c277292e",
+    "addedAt": "2026-08-28T15:44:53.945Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Slim\nBuone·PlayStation·Caricato 3 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n3 min fa\nFunktioniert alles einwandfrei anmachen nur über Controller möglich oder wenn man den Deckel abnimmt wie auf den Bildern zu sehen.\n\nSonst alles dabei Controller Netzteil Spiel\n\nVerlauf nicht über das System am besten Paypal oder banküberweisung\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Si accende solo tramite controller o rimuovendo il coperchio (problema al tasto di accensione/power board)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
