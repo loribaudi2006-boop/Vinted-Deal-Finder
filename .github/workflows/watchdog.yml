@@ -9,6 +9,14 @@ on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch: {}
+  # Si attiva anche appena bot.yml finisce un ciclo: se GitHub non avvia subito
+  # il job successivo (il cron a volte salta per ore), il watchdog se ne accorge
+  # in quel momento e lo riavvia, senza aspettare il prossimo */15 (che potrebbe
+  # essere saltato anch'esso). Cosi' il bot si auto-concatena. La protezione
+  # anti-loop (2 fallimenti di fila = solo avviso) resta quella di watchdog.js.
+  workflow_run:
+    workflows: ["Vinted Deal Finder Bot"]
+    types: [completed]
 
 permissions:
   actions: write
@@ -34,5 +42,9 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DEFAULT_BRANCH: main
           BOT_WORKFLOW: bot.yml
-          GAP_MINUTES: '20'
+          # Da cron: aspetta 20 min prima di considerare il bot "fermo" (evita
+          # falsi allarmi nel breve passaggio di consegne). Quando invece e' il
+          # completamento di bot.yml a svegliare il watchdog, controlla subito
+          # (GAP 0): se non c'e' gia' un run successivo in coda, riavvia adesso.
+          GAP_MINUTES: ${{ github.event_name == 'workflow_run' && '0' || '20' }}
         run: node watchdog.js
