@@ -13479,5 +13479,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "9810176821",
+    "category": "Console",
+    "title": "Xbox One S 1Tb Battlefield 1 Edition",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9810176821-xbox-one-s-1tb-battlefield-1-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ce3_9EM8FsTGJvQDwo9X9b8d73tQ/310x430/af8b66c1.webp?s=de0dde8b6afb6ff0d9241747704b64baf4b46eb0",
+    "addedAt": "2026-08-28T18:30:58.619Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S 1Tb Battlefield 1 Edition\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox One S 1TB Battlefield 1 EDITION senza controller e i giochi in foto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller e giochi in foto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "9810173224",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9810173224-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0135c_xWYn7BeHmatJU1DCPpq9t1pW/310x430/63a7804d.webp?s=a082cb1dd4ec76281cfbf22749135f3ffd64b6e5",
+    "addedAt": "2026-08-28T18:30:58.619Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
+  },
+  {
+    "id": "9810167918",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9810167918-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0131e_UnD4w6mBYHDzCrXRo3uW92eE/310x430/1f8677ac.webp?s=a99d1e48802010fb655fa9f75b66a9a562c97093",
+    "addedAt": "2026-08-28T18:30:58.619Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.05€, sotto soglia"
   }
 ]
