@@ -9,6 +9,15 @@ on:
     # dopo recupera entro 3 ore anziche' 6.
     - cron: '0 */3 * * *'
   workflow_dispatch: {}
+  # Auto-concatenazione: quando un ciclo finisce, questo stesso workflow riparte
+  # da solo, senza dipendere dal cron di GitHub (che a volte salta per ore).
+  # GitHub limita la catena a 3 riavvii consecutivi (~23h di autonomia): ogni
+  # avvio da cron o manuale azzera il contatore. Il "if:" del job sotto blocca
+  # la catena se il ciclo precedente non e' andato a buon fine (evita loop di
+  # riavvii rapidi in caso di errore d'avvio: in quel caso recuperano cron/watchdog).
+  workflow_run:
+    workflows: ["Vinted Deal Finder Bot"]
+    types: [completed]
 
 permissions:
   contents: write
@@ -21,6 +30,7 @@ jobs:
   run-bot:
     runs-on: ubuntu-latest
     timeout-minutes: 355
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
