@@ -10947,5 +10947,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-13.95€, sotto soglia"
+  },
+  {
+    "id": "9802538347",
+    "category": "Console",
+    "title": "Consola PS4 Negra (Incluye Darksouls III)",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9802538347-consola-ps4-negra-incluye-darksouls-iii?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0017c_UXFbi8pE6RpUysYUtXma6KzE/310x430/08ecbd49.webp?s=9a134514b8eddf11d1500fa0e7cdced62eb47034",
+    "addedAt": "2026-08-28T05:38:37.626Z",
+    "processed": false,
+    "triaged": false
   }
 ]
