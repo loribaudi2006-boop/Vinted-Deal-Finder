@@ -12951,5 +12951,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2.1€, sotto soglia"
+  },
+  {
+    "id": "9809269482",
+    "category": "Console",
+    "title": "Ventole aggiuntive per PS5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9809269482-ventole-aggiuntive-per-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01edc_4kwxaeP6SZDoWfWRqGHG7ane/310x430/ea6f1c80.webp?s=ee6c6e312635920f9624bf22274c3ef2ea864598",
+    "addedAt": "2026-08-28T17:07:58.341Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "9809266237",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9809266237-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00164_WtdN9ZcupGzy9phNZkoN8GDN/310x430/fb053784.webp?s=72a41231429807827aeae0097aa1e2317e6ebf3d",
+    "addedAt": "2026-08-28T17:07:58.341Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "9809367861",
+    "category": "Console",
+    "title": "ps4 pas neuve",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9809367861-ps4-pas-neuve?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_025cd_JVimR8EcFhrYk3gJiFRv6nAv/310x430/62377df3.webp?s=7d488223d2a26d53733892ceed17c6650f13b5c4",
+    "addedAt": "2026-08-28T17:16:15.700Z",
+    "processed": false,
+    "triaged": false
   }
 ]
