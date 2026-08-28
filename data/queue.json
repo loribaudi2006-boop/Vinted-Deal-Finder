@@ -13446,5 +13446,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "9810055333",
+    "category": "Console",
+    "title": "Nintendo Switch 1",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9810055333-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02076_zmdFYWpTmqUAmYkHxG2k588u/310x430/f15ecae4.webp?s=753fc4864528d494d08e551c3315e9140f1fed85",
+    "addedAt": "2026-08-28T18:18:32.763Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch 1\nBuone·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nUsed, Does Not Come With: Box. Comes With: Nintendo Switch dock, Nintendo Switch charger, Nintendo switch Joy con Wrist Strap (Both Hands), Nintendo Switch Joy Con Grip, 2 Nintendo Switch Joy Con Wheels, Nintendo Switch Case\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 71.05
+  },
+  {
+    "id": "9810045916",
+    "category": "Console",
+    "title": "Caja vacía original Sony PlayStation Disc Drive PS5 / PS5 Pro",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9810045916-caja-vacia-original-sony-playstation-disc-drive-ps5-ps5-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a13_9C8rsQJ9SRpQY4iaEhPf9J5a/310x430/121db71d.webp?s=1256217f25d049532a4f6a1e7e805a6794af5262",
+    "addedAt": "2026-08-28T18:18:32.763Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
