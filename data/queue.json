@@ -14109,5 +14109,38 @@
     "geminiFault": "1 Slim con porte HDMI non funzionanti",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "9812252851",
+    "category": "Console",
+    "title": "Support + manette Nintendo Switch",
+    "price": 57,
+    "totalPrice": 60.55,
+    "reason": "prezzo 70% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9812252851-support-manette-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_001b4_87Q8NCZKYcwUrWzqAJNUUxq8/310x430/fc8e6717.webp?s=1db5a30763c963678559d066f0e0d196266b551d",
+    "addedAt": "2026-08-29T00:52:24.007Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSupport + manette Nintendo Switch\nOttime·Nintendo·Caricato 3 min fa\n\n57,00 €\n\n60,55 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nSupport avec le câble HDMI et la manette pour switch.\nLa manette présente de légères rayures au niveaux du bloc central.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La manette (joy-con/controller) presenta de légères rayures au niveaux du bloc central",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 75.45
+  },
+  {
+    "id": "9812263209",
+    "category": "Console",
+    "title": "ghost of tsushima ps5 ita",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9812263209-ghost-of-tsushima-ps5-ita?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01324_dYwcp9f9PkhMPjeidAKuhZWK/310x430/3c046b34.webp?s=191704fd7925be6bb708633e81d54c408cc07e82",
+    "addedAt": "2026-08-29T00:56:30.898Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3€, sotto soglia"
   }
 ]
