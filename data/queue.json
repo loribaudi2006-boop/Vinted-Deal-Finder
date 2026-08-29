@@ -14405,7 +14405,24 @@
     "url": "https://www.vinted.it/items/9813181472-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00838_tyzr3A124gHtK9GfpJ4sCoPQ/310x430/adb2baab.webp?s=464ffeda01a07799e35c6302884282ffddff479c",
     "addedAt": "2026-08-29T07:34:57.177Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
+  },
+  {
+    "id": "9813225948",
+    "category": "Console",
+    "title": "Fc 2025 ps5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9813225948-fc-2025-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00449_AyVGQtRLNGtqwszcHWWVKq1R/310x430/3e3ebea5.webp?s=59a3c7c7fd93d194efa1cf8d288162d6d6eb2056",
+    "addedAt": "2026-08-29T07:41:12.340Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.3€, sotto soglia"
   }
 ]
