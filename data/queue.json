@@ -14331,5 +14331,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "9813025364",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9813025364-nintendo-switch-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a37_VoYph9UugQT9fJNw27u5ZDBR/310x430/e1ec9b77.webp?s=01727e1fd1a73bd30ca0c7b62ee5a934af6e7eb6",
+    "addedAt": "2026-08-29T07:07:59.759Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "9813031938",
+    "category": "Console",
+    "title": "Coffret Battlegrounds XBox ONE lire annonce",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9813031938-coffret-battlegrounds-xbox-one-lire-annonce?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01561_8qmgbU2hgktncDLGe9CGudZU/310x430/cadf4e27.webp?s=e5aeaf37c32c764b8574296e1766ddfe10e4a972",
+    "addedAt": "2026-08-29T07:10:04.323Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.65€, sotto soglia"
   }
 ]
