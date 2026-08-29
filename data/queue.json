@@ -14091,5 +14091,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.3€, sotto soglia"
+  },
+  {
+    "id": "9812213209",
+    "category": "Console",
+    "title": "Lot de 2 ps4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9812213209-lot-de-2-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00bba_MpHcoBWbmk6Qn6xVnUJTV3Lj/310x430/f76c1a9b.webp?s=cf6a2407973c176c8547c54fb4c5706563eafa06",
+    "addedAt": "2026-08-29T00:31:45.258Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot de 2 ps4\nBuone·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nDont 1 slim les 2 hdmi ne fonctionnent pas !\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "1 Slim con porte HDMI non funzionanti",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
