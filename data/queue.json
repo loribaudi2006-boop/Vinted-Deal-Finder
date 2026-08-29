@@ -14714,12 +14714,30 @@
     "url": "https://www.vinted.it/items/9813940383-playstation-4-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02272_AYmS2Pu2obmhLwrqq3mi8nkK/310x430/eac9a3ca.webp?s=b7e760b391391ff9fb1bb72107bce47929701b61",
     "addedAt": "2026-08-29T09:02:08.129Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "‌\n\n3\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 console\nOttime·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nIn zeer goede staat.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 65
+  },
+  {
+    "id": "9813981230",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9813981230-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018ff_oKLRs2RqBf9L3QjhggAMt2tC/310x430/90dc932c.webp?s=a7d061935570a19a8b7e61b69d68c47c62293876",
+    "addedAt": "2026-08-29T09:06:16.740Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato 3 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 min fa\nNintendo Switch Prima versione (2017) usata abbastanza tutto apposto unico problema gli agganci per gli joycon non si incastrano bene ed sopratutto quello destro non riconosce a volte il joycon\n⚠️vendo senza caricabatterie e nessun acccessorio originale e scatola nintendo⚠️\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Gli agganci per i joycon non si incastrano bene, quello destro a volte non riconosce il joycon. Senza caricabatterie, accessori o scatola.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
