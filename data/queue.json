@@ -14076,5 +14076,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-9.2€, sotto soglia"
+  },
+  {
+    "id": "9812169732",
+    "category": "Console",
+    "title": "Capa de proteção para Nintendo Switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9812169732-capa-de-protecao-para-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0084d_V6Gg2oEVVZgjjvdR2BRNodQ3/310x430/b3c173a2.webp?s=06cfba11dc692bcab613631b0355b4b9a0e52f5b",
+    "addedAt": "2026-08-29T00:11:04.641Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.3€, sotto soglia"
   }
 ]
