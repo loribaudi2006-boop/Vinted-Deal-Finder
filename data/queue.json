@@ -1,33 +1,5 @@
 [
   {
-    "id": "9776387094",
-    "category": "Console",
-    "title": "Tarjeta regalo nintendo switch",
-    "price": 7.99,
-    "totalPrice": 9.09,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9776387094-tarjeta-regalo-nintendo-switch?referrer=catalog",
-    "addedAt": "2026-08-25T15:53:05.533Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
-    "id": "9776478271",
-    "category": "Giochi e accessori",
-    "title": "Controller Xbox non originale",
-    "price": 7,
-    "totalPrice": 8.05,
-    "reason": "parola chiave: \"non originale\"",
-    "url": "https://www.vinted.it/items/9776478271-controller-xbox-non-originale?referrer=catalog",
-    "addedAt": "2026-08-25T15:53:07.398Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.95€, sotto soglia"
-  },
-  {
     "id": "9776604480",
     "category": "Console",
     "title": "Playstation 4",
@@ -14314,5 +14286,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "8477971050",
+    "category": "Console",
+    "title": "Jeu Guitar Hero Live PS4 - Jeu seul (sans guitare)",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/8477971050-jeu-guitar-hero-live-ps4-jeu-seul-sans-guitare?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01c96_9JRvwN61tmqysTT6SWuvV94Q/310x430/07ee3d12.webp?s=8841ccfe15a5efa31f89a8351b7e7d240db2b7ea",
+    "addedAt": "2026-08-29T15:56:01.364Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
+  },
+  {
+    "id": "9819619185",
+    "category": "Console",
+    "title": "PlayStation 4 ohne Controller",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9819619185-playstation-4-ohne-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00549_aptZZFsBa4kpsne3tSfQ1whh/310x430/961c7e32.webp?s=1fcfa837e829d301d3ec8b55073b2cc7410155fc",
+    "addedAt": "2026-08-29T15:58:06.053Z",
+    "processed": false,
+    "triaged": false
   }
 ]
