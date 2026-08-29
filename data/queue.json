@@ -14505,5 +14505,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "9813458136",
+    "category": "Console",
+    "title": "Kinect Xbox one complet",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9813458136-kinect-xbox-one-complet?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0070e_k1jQP18mDrXEBd57Y2rVcnAW/310x430/35be9f3c.webp?s=1b2742fc0b3571ce6036473d8ccbd9c053134ada",
+    "addedAt": "2026-08-29T08:12:17.325Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-21.2€, sotto soglia"
+  },
+  {
+    "id": "9813468982",
+    "category": "Console",
+    "title": "Scatola Xbox One S All‑Digital 1TB Console White - Only Box",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9813468982-scatola-xbox-one-s-all-digital-1tb-console-white-only-box?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01578_28nzEabB9wwXBFvGjDovpxtY/310x430/e80957fc.webp?s=f2a7bd49d16409cdb3e024e571efd20791c01c8a",
+    "addedAt": "2026-08-29T08:14:22.177Z",
+    "processed": false,
+    "triaged": false
   }
 ]
