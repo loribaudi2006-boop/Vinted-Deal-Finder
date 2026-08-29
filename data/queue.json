@@ -14154,7 +14154,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_01dfe_gbsu4r1fcd19WvDwNEsBQNkV/310x430/97355f37.webp?s=53b6c9529addd54b7b6c2e18a6254dc387383135",
     "addedAt": "2026-08-29T01:53:16.295Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo Switch inklusive Zubehör\nOttime·Nintendo·Caricato 3 ore fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 ore fa\nNintendo Switch + sport Zubehör (kostenlos dazu)\nNichts ist defekt und der Bildschirm ist in einwandfreiem Zustand.\nDen genauen Zustand und Kratzer entnehmen sie den Fotos.\nMit Originalverpackung und dem gesamten abgebildeten Zubehör.\n... altro\nSpedizione\nda 7,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   },
   {
     "id": "9812358538",
@@ -14166,8 +14171,10 @@
     "url": "https://www.vinted.it/items/9812358538-mando-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01645_cvKf2kG6hkQiFdL15U2NURXs/310x430/625224d8.webp?s=81b6c8ee6bf7a0a0f62a7cf9b2443e45b7656955",
     "addedAt": "2026-08-29T01:53:16.295Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.55€, sotto soglia"
   },
   {
     "id": "9812590805",
@@ -14179,8 +14186,10 @@
     "url": "https://www.vinted.it/items/9812590805-sony-ps4-playstation-4-500gb-console-fat-senza-cavi-funzionante-ottimo-stato?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00562_Le1feuWHvAy8RQybPMT5XqM6/310x430/7749fc16.webp?s=3f3ed8bd61f2716382d2dad9140c21d35890f0a3",
     "addedAt": "2026-08-29T04:34:45.452Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.17€, sotto soglia"
   },
   {
     "id": "9812603357",
@@ -14192,8 +14201,10 @@
     "url": "https://www.vinted.it/items/9812603357-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0058f_HSwKpFyxpvrziCqP2WEgkozn/310x430/2d872d03.webp?s=857ba55f5927b11e8224fb2b8b01f977c6de2328",
     "addedAt": "2026-08-29T04:43:02.487Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9812623079",
@@ -14205,7 +14216,27 @@
     "url": "https://www.vinted.it/items/9812623079-nintendo-switch-inklusive-zubehor?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01dfe_gbsu4r1fcd19WvDwNEsBQNkV/310x430/97355f37.webp?s=53b6c9529addd54b7b6c2e18a6254dc387383135",
     "addedAt": "2026-08-29T04:57:30.555Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9812638275",
+    "category": "Console",
+    "title": "Nintendo Switch inklusive Zubehör",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9812638275-nintendo-switch-inklusive-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01dfe_gbsu4r1fcd19WvDwNEsBQNkV/310x430/97355f37.webp?s=53b6c9529addd54b7b6c2e18a6254dc387383135",
+    "addedAt": "2026-08-29T05:07:51.191Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch inklusive Zubehör\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nNintendo Switch + sport Zubehör (kostenlos dazu)\nNichts ist defekt und der Bildschirm ist in einwandfreiem Zustand.\nDen genauen Zustand und Kratzer entnehmen sie den Fotos.\nMit Originalverpackung und dem gesamten abgebildeten Zubehör.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 70.3
   }
 ]
