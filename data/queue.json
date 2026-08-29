@@ -14435,7 +14435,7 @@
     "url": "https://www.vinted.it/items/9813284920-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_015c0_cUkx5Kx4xVZdXm26yEvhzACQ/310x430/e94ed3b6.webp?s=fc8c3fe7869f296e2a2242a7208908ec17aed646",
     "addedAt": "2026-08-29T07:49:31.396Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato 4 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nPlaystation 4, funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -14453,7 +14453,7 @@
     "url": "https://www.vinted.it/items/9807809531-ps4-avec-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01609_9qGtPzgyCQaRLwEebSbXdXiw/310x430/b8ce1d62.webp?s=a48e120228a7834a6399689b433d7a27afc724e4",
     "addedAt": "2026-08-29T07:51:35.172Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "blicità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 avec manette\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends une PS4 en très bon état avec deux manettes, et aussi un support pour brancher les deux manettes.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -14475,5 +14475,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~12.8€, sotto soglia"
+  },
+  {
+    "id": "9813328561",
+    "category": "Console",
+    "title": "Boîte Nintendo Switch Officielle",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9813328561-boite-nintendo-switch-officielle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c33_er4piGcVQpN2VNaR22R1R1FR/310x430/85e3f5ba.webp?s=e9111fcbe16b57a2f28b49e5e19c4ab77c18acf1",
+    "addedAt": "2026-08-29T07:55:43.881Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "9813358086",
+    "category": "Console",
+    "title": "Boîte Nintendo Switch Officielle",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9813358086-boite-nintendo-switch-officielle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_021ea_P4Jqe2JWroCYpQQfMSCc9xBH/310x430/b2bef40e.webp?s=63009f41b67efe2b44f9c73c8be8e16d8bb4c3f4",
+    "addedAt": "2026-08-29T07:59:52.458Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
   }
 ]
