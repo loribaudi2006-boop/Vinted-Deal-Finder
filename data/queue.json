@@ -14645,7 +14645,45 @@
     "url": "https://www.vinted.it/items/9813644660-switch-avec-pochette-et-tous-les-cables?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c7a_umH3ZBhsPGPF3kTLdkYj1m4A/310x430/345676fb.webp?s=0429ba918757482e8bad8775bcd7d260683e53dc",
     "addedAt": "2026-08-29T08:33:02.144Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch avec pochette et tous les câbles\nBuone·Nintendo·Caricato 3 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 min fa\nUne des manettes ne fonctionne plus trop\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Une des manettes ne fonctionne plus trop",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 61.05
+  },
+  {
+    "id": "9813660877",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9813660877-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_009ad_p8UGkc7M368Yd2Ay4YFzTRjV/310x430/8484fe97.webp?s=21939bcd154a7037a446358abe62a891446535fc",
+    "addedAt": "2026-08-29T08:35:06.801Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nVend Nintendo switch sans écran\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "sans écran (senza schermo)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "9813738969",
+    "category": "Console",
+    "title": "Xbox One S + manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9813738969-xbox-one-s-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01d8c_LQ5zbokMb6FYZ1RWBDKpsr38/310x430/ca2cecec.webp?s=ac94fdbe04f19d2eb5ba22aaabed97d7ba3081b3",
+    "addedAt": "2026-08-29T08:43:26.377Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.8€, sotto soglia"
   }
 ]
