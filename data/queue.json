@@ -13969,5 +13969,18 @@
     "geminiFault": "La console dopo poco smette di funzionare, si surriscalda",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "9824147892",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9824147892-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a5d_4u1WP7B9Yhn4UEJfiV5gAkKn/310x430/b261aaf6.webp?s=d102a6a9f57f77f3b3ca50e36de5422546442b54",
+    "addedAt": "2026-08-30T04:35:22.745Z",
+    "processed": false,
+    "triaged": false
   }
 ]
