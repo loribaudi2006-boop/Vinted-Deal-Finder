@@ -13932,7 +13932,30 @@
     "url": "https://www.vinted.it/items/9825070692-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b5b_PTxc1zno3Ee4MBcWxwT6VzRX/310x430/7f4829bb.webp?s=5757a02f9494a9d24ba5acc51df81595559e7fa0",
     "addedAt": "2026-08-30T08:15:09.591Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nJe vends cette console PS4 Slim noire en très bon état. Elle est complète avec tous ses câbles et prête à être utilisée !\nSans manette\n- Type de produit : Console de salon\n- Marque : Sony\n- Modèle : PlayStation 4 Slim\n- Couleur : Noir\n- Accessoires inclus : Câble d'alimentation, Câble HDMI\nTrès bon état\nN'hésitez pas à me contacter pour plus d'informations ou de photos !\nPas négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sans manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9825131120",
+    "category": "Console",
+    "title": "Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9825131120-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02076_suGsh1rbyc7RZLa2eEieJJoK/310x430/126863c5.webp?s=bd22aa4f193ee101bccf35956dadd308addeea99",
+    "addedAt": "2026-08-30T08:21:22.478Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ollezionismo\nSport\nPubblicità\n‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nOttime·Nintendo·Caricato 4 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nOttime\nCaricato\n4 min fa\nSwitch\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 70
   }
 ]
