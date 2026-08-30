@@ -13030,5 +13030,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9836252059",
+    "category": "Console",
+    "title": "Ps4 lire la description svp",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9836252059-ps4-lire-la-description-svp?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0176f_EGWckcerjEmosX5KPYT8rBfj/310x430/a06788b2.webp?s=27cf94bf2d7cb65d966c11bb2d7408487fe54913",
+    "addedAt": "2026-08-30T20:06:10.356Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "9836295262",
+    "category": "Console",
+    "title": "PlayStation due joystick mancanti",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "parola chiave: \"manca\"",
+    "url": "https://www.vinted.it/items/9836295262-playstation-due-joystick-mancanti-prezzo-trattabile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01293_wCnswV6nhKz61DmATbtTvUga/310x430/0ec5d160.webp?s=1d9f81776e7a073f19d0f8d6d7606751e89dc093",
+    "addedAt": "2026-08-30T20:10:21.835Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
   }
 ]
