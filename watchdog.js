@@ -1,16 +1,17 @@
-// Watchdog: gira ogni ~15 min in un job GitHub Actions minuscolo e indipendente.
-// Controlla se il workflow principale del bot (bot.yml) e' attivo. Se e' fermo da
-// troppo tempo (GitHub a volte salta o ritarda di ore gli avvii programmati),
-// manda un messaggio Telegram che spiega il problema e prova a riavviarlo da solo.
+// Watchdog: job GitHub Actions minuscolo e indipendente (~ogni 15 min + a fine di
+// ogni ciclo di bot.yml). Verifica che bot.yml sia attivo; se e' fermo prova a
+// riavviarlo da solo e, se non ci riesce (o se il bot continua a crashare), manda
+// su Telegram le istruzioni ESATTE passo-passo per rimetterlo su a mano.
 //
-// Env richieste:
-//   GH_TOKEN            -> secrets.GITHUB_TOKEN (serve permniss. actions: write)
+// Env:
+//   GH_TOKEN            -> secrets.GITHUB_TOKEN (serve permesso actions: write)
 //   GITHUB_REPOSITORY   -> fornita in automatico da GitHub Actions (owner/repo)
 //   TELEGRAM_BOT_TOKEN  -> secret
 //   TELEGRAM_CHAT_ID    -> secret
 //   DEFAULT_BRANCH      -> ramo su cui lanciare bot.yml (default: main)
 //   BOT_WORKFLOW        -> file del workflow del bot (default: bot.yml)
 //   GAP_MINUTES         -> minuti di inattivita' oltre i quali si considera "fermo" (default: 20)
+//   REQUIRED_SECRETS    -> elenco separato da virgola dei secret che il bot richiede
 
 const repo = process.env.GITHUB_REPOSITORY;
 const token = process.env.GH_TOKEN;
@@ -19,7 +20,15 @@ const chatId = process.env.TELEGRAM_CHAT_ID;
 const WORKFLOW = process.env.BOT_WORKFLOW || "bot.yml";
 const BRANCH = process.env.DEFAULT_BRANCH || "main";
 const GAP_MIN = Number(process.env.GAP_MINUTES || 20);
+const SECRETS = (process.env.REQUIRED_SECRETS || "TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID")
+  .split(",").map((s) => s.trim()).filter(Boolean);
 const name = repo ? repo.split("/")[1] : "bot";
+
+// Esiti che indicano un vero crash del bot (vale la pena fermarsi e guardare i log).
+// "cancelled" e "timed_out" NON sono qui: per questo bot sono normali (GitHub chiude
+// il job lungo al limite di tempo a ogni ciclo) e NON devono bloccare il riavvio.
+const REAL_FAIL = new Set(["failure", "startup_failure"]);
+const isRealFail = (c) => REAL_FAIL.has(c);
 
 async function gh(pathname, opts = {}) {
   return fetch(`https://api.github.com/repos/${repo}/${pathname}`, {
@@ -38,19 +47,73 @@ async function tg(text) {
     console.log("Telegram non configurato (manca token o chat id), salto la notifica.");
     return;
   }
-  const res = await fetch(`https://api.telegram.org/bot${tgToken}/sendMessage`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ chat_id: chatId, text, parse_mode: "HTML", disable_web_page_preview: true }),
-  });
-  if (!res.ok) console.error("Invio Telegram fallito:", res.status, await res.text());
+  // Telegram limita a 4096 caratteri: spezzo se serve.
+  const chunks = text.match(/[\s\S]{1,3900}/g) || [text];
+  for (const c of chunks) {
+    const res = await fetch(`https://api.telegram.org/bot${tgToken}/sendMessage`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ chat_id: chatId, text: c, parse_mode: "HTML", disable_web_page_preview: true }),
+    });
+    if (!res.ok) console.error("Invio Telegram fallito:", res.status, await res.text());
+  }
+}
+
+const ACTIONS_URL = `https://github.com/${repo}/actions`;
+const WF_URL = `https://github.com/${repo}/actions/workflows/${WORKFLOW}`;
+const SECRETS_URL = `https://github.com/${repo}/settings/secrets/actions`;
+
+// Istruzioni per rimettere in moto il bot a mano.
+function comeRiavviarlo() {
+  return (
+    `🛠 <b>COME RIAVVIARLO A MANO</b> (1 minuto, funziona anche da telefono):\n\n` +
+    `<b>Metodo A — dal browser, senza installare niente:</b>\n` +
+    `1. Apri: ${WF_URL}\n` +
+    `2. In alto a destra premi il bottone <b>"Run workflow"</b>.\n` +
+    `3. Lascia selezionato <b>Branch: ${BRANCH}</b>.\n` +
+    `4. Premi il bottone verde <b>"Run workflow"</b>.\n` +
+    `5. Aspetta ~30 secondi e ricarica la pagina: deve comparire una riga con il\n` +
+    `   pallino giallo che gira ("in progress"). Fatto.\n\n` +
+    `<b>Metodo B — da PC con GitHub CLI installato:</b>\n` +
+    `<code>gh workflow run ${WORKFLOW} --repo ${repo} --ref ${BRANCH}</code>\n\n` +
+    `<b>Verifica:</b> apri ${ACTIONS_URL} — deve esserci un run giallo "in progress";\n` +
+    `entro 2-3 minuti il bot ricomincia a mandare messaggi.`
+  );
+}
+
+// Istruzioni per quando il bot parte e crasha subito (due failure di fila).
+function comeLeggereILog(htmlUrl) {
+  return (
+    `🔎 <b>IL BOT PARTE E SI CHIUDE SUBITO CON ERRORE</b> — cosa controllare:\n\n` +
+    `1. Apri il log dell'ultimo run:\n${htmlUrl}\n` +
+    `2. Clicca sul job con la <b>X rossa</b>, poi apri lo step con la X rossa e guarda\n` +
+    `   le ultime righe. Confronta con i casi qui sotto:\n\n` +
+    `• <b>"429" / "quota" / "RESOURCE_EXHAUSTED"</b>\n` +
+    `   = quota giornaliera Gemini finita. Non devi fare niente: riparte da solo\n` +
+    `   dopo le ~09:00 ora italiana, quando la quota si azzera.\n\n` +
+    `• <b>"secret not found" / "... is undefined" / errore 401 da Telegram</b>\n` +
+    `   = manca o e' sbagliato un secret. Aprili qui:\n   ${SECRETS_URL}\n` +
+    `   Devono esserci TUTTI questi, col nome esatto:\n   ${SECRETS.map((s) => "• " + s).join("\n   ")}\n` +
+    `   Se ne manca uno: "New repository secret", incolli nome e valore, "Add secret".\n\n` +
+    `• <b>"npm ci" fallito / "Cannot find module"</b>\n` +
+    `   = dipendenze rotte. Scrivimi: "sistema le dipendenze di ${name}".\n\n` +
+    `• <b>Qualsiasi altro errore:</b> copia le ultime ~15 righe del log e mandamele.\n\n` +
+    `3. Dopo aver sistemato, riavvia col Metodo A qui sopra.`
+  );
+}
+
+async function contaRunAttivi() {
+  const r = await gh(`actions/workflows/${WORKFLOW}/runs?per_page=5`);
+  if (!r.ok) return -1;
+  const runs = (await r.json()).workflow_runs || [];
+  return runs.filter((x) => x.status === "in_progress" || x.status === "queued").length;
 }
 
 (async () => {
   const res = await gh(`actions/workflows/${WORKFLOW}/runs?per_page=5`);
   if (!res.ok) {
     console.error("Chiamata API runs fallita:", res.status, await res.text());
-    process.exit(0); // non facciamo rumore per un errore temporaneo dell'API
+    process.exit(0); // errore temporaneo dell'API: non facciamo rumore
   }
   const runs = (await res.json()).workflow_runs || [];
   if (!runs.length) {
@@ -62,20 +125,20 @@ async function tg(text) {
   console.log(`Ultimo run: ${latest.id} status=${latest.status} conclusion=${latest.conclusion} updated=${latest.updated_at}`);
 
   if (latest.status === "in_progress" || latest.status === "queued") {
-    console.log("Il bot risulta attivo. Tutto ok.");
+    console.log("Il bot risulta attivo o in coda. Tutto ok.");
     process.exit(0);
   }
 
   const ageMin = (Date.now() - new Date(latest.updated_at).getTime()) / 60000;
   const prev = runs[1];
-  const twoFails =
-    latest.conclusion && latest.conclusion !== "success" &&
-    prev && prev.conclusion && prev.conclusion !== "success";
 
-  if (twoFails) {
+  // Due VERI crash di fila -> non riavvio in loop, mando le istruzioni per i log.
+  if (isRealFail(latest.conclusion) && prev && isRealFail(prev.conclusion)) {
     await tg(
-      `❌ <b>${name}</b>: gli ultimi due job del bot sono falliti (ultimo esito: <code>${latest.conclusion}</code>).\n` +
-      `Non lo riavvio in automatico per non entrare in un loop di errori — conviene guardare i log:\n${latest.html_url}`
+      `❌ <b>${name}</b>: gli ultimi due avvii del bot sono falliti davvero ` +
+      `(ultimo esito: <code>${latest.conclusion}</code>).\n` +
+      `Non lo riavvio in automatico per non entrare in un loop di errori.\n\n` +
+      comeLeggereILog(latest.html_url)
     );
     process.exit(0);
   }
@@ -85,25 +148,44 @@ async function tg(text) {
     process.exit(0);
   }
 
-  const motivo =
-    latest.conclusion === "success"
-      ? "GitHub non ha avviato il job programmato successivo"
-      : `l'ultimo job si e' chiuso con esito "${latest.conclusion}"`;
-  await tg(
-    `⚠️ <b>${name}</b>: il bot e' fermo da circa ${Math.round(ageMin)} minuti (${motivo}).\n` +
-    `Provo a riavviarlo adesso.`
-  );
+  let motivo;
+  if (latest.conclusion === "success")
+    motivo = "il ciclo e' finito regolarmente ma GitHub non ha avviato quello successivo";
+  else if (latest.conclusion === "cancelled" || latest.conclusion === "timed_out")
+    motivo = "GitHub ha chiuso il job al limite di tempo (normale) ma non e' ripartito quello successivo";
+  else
+    motivo = `l'ultimo job si e' chiuso con esito "${latest.conclusion}"`;
+
+  await tg(`⚠️ <b>${name}</b>: il bot e' fermo da circa ${Math.round(ageMin)} minuti (${motivo}). Provo a riavviarlo adesso.`);
 
   const disp = await gh(`actions/workflows/${WORKFLOW}/dispatches`, {
     method: "POST",
     body: JSON.stringify({ ref: BRANCH }),
   });
+
   if (disp.ok || disp.status === 204) {
-    console.log("Riavvio richiesto con successo.");
-    await tg(`✅ <b>${name}</b>: riavvio avviato. Se entro qualche minuto non torna a funzionare, controlla la tab Actions su GitHub.`);
+    console.log("Riavvio richiesto. Verifico tra 25s che sia davvero partito...");
+    await new Promise((r) => setTimeout(r, 25000));
+    const attivi = await contaRunAttivi();
+    if (attivi > 0) {
+      await tg(`✅ <b>${name}</b>: riavviato, il bot e' di nuovo in esecuzione. Nessun intervento necessario.`);
+    } else {
+      await tg(
+        `❗ <b>${name}</b>: ho chiesto il riavvio ma dopo 25s non risulta ancora nessun run attivo. ` +
+        `Probabile ritardo di GitHub: se entro 5 minuti non torna su, fallo tu:\n\n` +
+        comeRiavviarlo()
+      );
+    }
   } else {
-    console.error("Dispatch fallito:", disp.status, await disp.text());
-    await tg(`❗ <b>${name}</b>: non sono riuscito a riavviarlo in automatico (errore ${disp.status}). Vai su GitHub → Actions → "${WORKFLOW}" → "Run workflow".`);
+    const errTxt = await disp.text();
+    console.error("Dispatch fallito:", disp.status, errTxt);
+    let extra = "";
+    if (disp.status === 403) extra = "\n(Il token del watchdog non ha il permesso 'actions: write', oppure le Actions sono disattivate nelle impostazioni del repo.)";
+    if (disp.status === 404) extra = `\n(Controlla che il file ${WORKFLOW} esista sul branch ${BRANCH} e abbia "workflow_dispatch:" sotto "on:".)`;
+    await tg(
+      `❗ <b>${name}</b>: NON sono riuscito a riavviarlo in automatico (errore ${disp.status}).${extra}\n\n` +
+      comeRiavviarlo()
+    );
   }
 })().catch((e) => {
   console.error("Watchdog errore:", e);
