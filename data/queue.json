@@ -1,20 +1,5 @@
 [
   {
-    "id": "9789796583",
-    "category": "Console",
-    "title": "vendo giochi ps4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9789796583-vendo-giochi-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01978_wfnjcTk8uYXE5NpDgBgSvuRq/310x430/f53e5a0f.webp?s=5c5ac1688c596bd7c9fbb2cb19e09942663a931c",
-    "addedAt": "2026-08-26T19:03:04.166Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.2€, sotto soglia"
-  },
-  {
     "id": "9789865781",
     "category": "Console",
     "title": "PlayStation 4 abzugeben",
@@ -12750,7 +12735,42 @@
     "url": "https://www.vinted.it/items/9835365111-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00dae_CzDTLd4Bac5R7DYxv2jXTfQ3/310x430/e3e51f38.webp?s=3a82f2203c3904d8b2ff64168adfab3be5b2743d",
     "addedAt": "2026-08-30T18:52:38.573Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9835487880",
+    "category": "Console",
+    "title": "Mando inalámbrico Nintendo Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9835487880-mando-inalambrico-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_008de_v7BzdQpbCo24oCq3ajzwVVxn/310x430/75642a04.webp?s=ea071b8cd53096aa044cdfdd365a4226f05e53be",
+    "addedAt": "2026-08-30T19:03:06.238Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
+  },
+  {
+    "id": "9835481155",
+    "category": "Console",
+    "title": "Console PS4 Slim 500 Go Noire  Seule (Fonctionnelle)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9835481155-console-ps4-slim-500-go-noire-seule-fonctionnelle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_021d7_rn4PDNAhiwyg1W8avuFy93uj/310x430/d95b30d3.webp?s=e86a46dae68b662909d9bb2a6134bd920d719210",
+    "addedAt": "2026-08-30T19:03:06.238Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "caVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole PS4 Slim 500 Go Noire Seule (Fonctionnelle)\nDiscrete·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 min fa\nConsole PlayStation 4 Slim 500 Go noire vendue seule (sans câbles ni manette).\nModèle : PS4 Slim 500 Go (Noire)\nÉtat : Testée et parfaitement fonctionnelle.\nAspect esthétique : Présente des rayures et traces d'usure visibles sur le dessus et sous la console (voir photos).\nDétails à noter :\nCache plastique du logement disque dur manquant sur le côté.\nQuelques patins en caoutchouc manquants en dessous.\nAutocollant de garantie présent à l'arrière.\nPour plus d’informations n’hésitez pas à me contacter.\n📦 Envoi rapide et très bien protégé, ou remise en main propre.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Graffi e usura estetica, cache plastica hard disk mancante, piedini in gomma mancanti, senza cavi né controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
