@@ -12570,7 +12570,7 @@
     "url": "https://www.vinted.it/items/9832980201-ps4-defekt?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02589_CebGNoGSTG3bRYr165RLHncm/310x430/fe57d1c3.webp?s=92e9b5758f27825297a177c4281765e3bac40744",
     "addedAt": "2026-08-30T16:20:49.008Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Defekt\nOttime·PlayStation·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nDefekte Ps4 zum Verkauf.\nEs hat Blue Light.\nLeider weiß ich nicht ob es 1TB ist oder 500GB.\nZum verkaufen ist nur die Ps4 ohne kabeln oder Controller.\n... altro\nSpedizione\nda 11,99 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -12588,8 +12588,13 @@
     "url": "https://www.vinted.it/items/9833027029-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00958_hGwKvS7uJvaJFLsdw3vTTFki/310x430/21086451.webp?s=a4b241270c09ac59dd1a942b598657cac5b43924",
     "addedAt": "2026-08-30T16:22:53.786Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 slim\nOttime·PlayStation·Caricato 2 min fa\n\n64,99 €\n\n68,94 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nBuen estado ✅\nEnvio rapido ✈️\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.06
   },
   {
     "id": "9833014436",
@@ -12601,8 +12606,10 @@
     "url": "https://www.vinted.it/items/9833014436-console-playstation-3-ps3-da-testarenon-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_025b1_Hm21dXtvTCcjTAYzyza7dV82/310x430/d646b717.webp?s=83dcd5fcab7ee0191084f90ef2445e6d285812e9",
     "addedAt": "2026-08-30T16:22:53.787Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   },
   {
     "id": "9832999302",
@@ -12614,7 +12621,39 @@
     "url": "https://www.vinted.it/items/9832999302-nintendo-switch-pro-controller-inclusief-originele-doos?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02103_vGrMPi1k9UzRoho2an75YjwU/310x430/5d79e22a.webp?s=bf4ae839a7a5c965407b2dd3a7c7d14911a0668a",
     "addedAt": "2026-08-30T16:22:53.787Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.55€, sotto soglia"
+  },
+  {
+    "id": "9833122067",
+    "category": "Console",
+    "title": "Nintendo Switch joy Halterung",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9833122067-nintendo-switch-joy-halterung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00004_6W2mkhRzSQHKVr4znUT8gPR2/310x430/7dc646ab.webp?s=339f1c44557aa14e6ead46236acff5a97ca13b64",
+    "addedAt": "2026-08-30T16:29:09.650Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.2€, sotto soglia"
+  },
+  {
+    "id": "9833206174",
+    "category": "Console",
+    "title": "Écran de Switch lite",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9833206174-ecran-de-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a23_uB1GpS86zqY3MK6ZWUgb32Yx/310x430/0c970daf.webp?s=81ac98de26e25efefc2e084e18ee66985507bf44",
+    "addedAt": "2026-08-30T16:33:18.122Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
