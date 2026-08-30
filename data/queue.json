@@ -1,20 +1,5 @@
 [
   {
-    "id": "9781371687",
-    "category": "Console",
-    "title": "Nintendo DS Lite per ricambi",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/9781371687-nintendo-ds-lite-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_025c8_3sdxTmADUjKsGsrLS7aassxA/310x430/7f70183a.webp?s=2915e7318d0bfe773174f2207064dfe67dbe1cd1",
-    "addedAt": "2026-08-26T05:50:57.610Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.3€, sotto soglia"
-  },
-  {
     "id": "9781387309",
     "category": "Console",
     "title": "Nintendo switch dans l'état",
@@ -13989,6 +13974,19 @@
     "url": "https://www.vinted.it/items/9824252330-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02181_cLz2RnjP7LQMEBcMKLju45dE/310x430/f4d5e43f.webp?s=2d0629bc3b43aa9ac72189cf776220f4dd4c8daa",
     "addedAt": "2026-08-30T05:41:40.235Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9824276572",
+    "category": "Console",
+    "title": "Nintendo Switch senza controller",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9824276572-nintendo-switch-senza-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016e5_7p6KrNdnpcu1ZFjVMGfHPZcW/310x430/2ba50ea4.webp?s=1fd6bdd3713a73d9d5d599ada269ecdf0dbdcd59",
+    "addedAt": "2026-08-30T05:52:00.455Z",
     "processed": false,
     "triaged": false
   }
