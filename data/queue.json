@@ -1,20 +1,5 @@
 [
   {
-    "id": "9791127092",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9791127092-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00a94_syHotE2pMdy428eX2TYNoxNG/310x430/342dcffb.webp?s=18e65f6daee07358a1ca32418b34c0c7439231a1",
-    "addedAt": "2026-08-26T21:45:32.322Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9791193378",
     "category": "Console",
     "title": "Xbox one 500gb",
@@ -13246,5 +13231,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.3
+  },
+  {
+    "id": "9837084795",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9837084795-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019a0_BCsg83xcPdSDKCTxW3GAu7b8/310x430/cdf5aa4d.webp?s=f95c45bb3c114647b6cbbba8a379c62f229d8005",
+    "addedAt": "2026-08-30T21:50:10.226Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch lite\nBuone·Nintendo·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nVendo Nintendo switch Lite con custodia\nLa Nintendo ha un piccolo problema con l’analogico sinistro che non funziona verso l’alto e il basso.\nPer il resto tutto ok.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Analogico sinistro non funziona verso l'alto e il basso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
