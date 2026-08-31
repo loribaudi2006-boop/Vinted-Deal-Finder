@@ -13348,5 +13348,44 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "9838391547",
+    "category": "Console",
+    "title": "Cargador Nintendo switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9838391547-cargador-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_012dd_q81h5wbxnFYjEcc2rj54kVsq/310x430/a53cbd59.webp?s=c5332c00a70aa0723afe501fb83928605bfb8dd4",
+    "addedAt": "2026-08-31T06:43:12.183Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9838407412",
+    "category": "Console",
+    "title": "Nintendo switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9838407412-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00915_tfQXErQTMSHnA8kAGqxBNWGe/310x430/feb3aeec.webp?s=01c2267c104679110c0ed6fcfb8d5148aa40d21c",
+    "addedAt": "2026-08-31T06:45:15.860Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9838402857",
+    "category": "Console",
+    "title": "CERCO playstation 5 bari",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9838402857-cerco-playstation-5-bari?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0100e_2SutCg5mz7tUimxHXKeEkcnm/310x430/84169b72.webp?s=b901d2109708e67d04b5cacedc71bf33be2ddd60",
+    "addedAt": "2026-08-31T06:45:15.860Z",
+    "processed": false,
+    "triaged": false
   }
 ]
