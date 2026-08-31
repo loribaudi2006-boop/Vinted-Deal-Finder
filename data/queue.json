@@ -1,23 +1,5 @@
 [
   {
-    "id": "9801663291",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9801663291-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01cc7_JrFyH4fbD9gDYsD6dJSfUXfW/310x430/af168e3c.webp?s=62c2a052e04597ccd28a7a9a7ac8cc6be55e278f",
-    "addedAt": "2026-08-27T22:18:04.427Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nManque les dioistique\nSans chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manque les joysticks, sans chargeur",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "9801705843",
     "category": "Console",
     "title": "PS5 mit Kontroller",
@@ -12220,7 +12202,42 @@
     "url": "https://www.vinted.it/items/9849139979-ps4-slim-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0019b_8Y3cHhEcQ64jfSpSPg16xwtw/310x430/074a5b02.webp?s=7ab5d74f7fe81bce7cbe4537e71ed661d11c60f8",
     "addedAt": "2026-08-31T22:09:01.353Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9849165871",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9849165871-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_004d8_FikbwqZaGxqEHcZsv5GXN5aY/310x430/b6348cc4.webp?s=c1d3893dcd17e202acb717ad118f0de523b19e65",
+    "addedAt": "2026-08-31T22:14:16.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "zionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVend switch fonctionne très bien.avec chargeur socle et une seule manette.car perdu la deuxième.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca una manetta (un Joy-Con)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 71.3
+  },
+  {
+    "id": "9849163677",
+    "category": "Console",
+    "title": "Fuente de alimentación xbox one",
+    "price": 13.5,
+    "totalPrice": 14.88,
+    "reason": "prezzo 87% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9849163677-fuente-de-alimentacion-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0151f_GU9oMUMH11TCBzdhfyoWkSjm/310x430/5bdc1919.webp?s=3288cc328708e21eeb917b8ca01943c8e72dfa9a",
+    "addedAt": "2026-08-31T22:14:16.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.12€, sotto soglia"
   }
 ]
