@@ -13248,7 +13248,7 @@
     "url": "https://www.vinted.it/items/9838138963-ps4-fat-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01af3_SzYzqiEgFimnB4mb3Hke8Sbo/310x430/da39d18c.webp?s=33c9a9d11e911f04b7514d8019aed48da8b98315",
     "addedAt": "2026-08-31T05:06:19.681Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "ubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 fat sans manette\nBuone·PlayStation·Caricato un'ora fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nBuone\nCaricato\nun'ora fa\nJe vends ps4 fat noir sans manette fonctionne parfaitement avec câble alimentation\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -13311,8 +13311,10 @@
     "url": "https://www.vinted.it/items/9838391547-cargador-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_012dd_q81h5wbxnFYjEcc2rj54kVsq/310x430/a53cbd59.webp?s=c5332c00a70aa0723afe501fb83928605bfb8dd4",
     "addedAt": "2026-08-31T06:43:12.183Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   },
   {
     "id": "9838407412",
@@ -13324,8 +13326,13 @@
     "url": "https://www.vinted.it/items/9838407412-nintendo-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00915_tfQXErQTMSHnA8kAGqxBNWGe/310x430/feb3aeec.webp?s=01c2267c104679110c0ed6fcfb8d5148aa40d21c",
     "addedAt": "2026-08-31T06:45:15.860Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch 1\nOttime·Nintendo·Caricato 16 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n16 min fa\nUsata ma buona togliamo perché abbiamo la Nintendo switch 2 da diverso tempo e questa non la usiamo più. Prezzo leggermente trattabile\nSpedizione\nda 4,09 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   },
   {
     "id": "9838402857",
@@ -13337,8 +13344,10 @@
     "url": "https://www.vinted.it/items/9838402857-cerco-playstation-5-bari?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0100e_2SutCg5mz7tUimxHXKeEkcnm/310x430/84169b72.webp?s=b901d2109708e67d04b5cacedc71bf33be2ddd60",
     "addedAt": "2026-08-31T06:45:15.860Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   },
   {
     "id": "9838453035",
@@ -13350,7 +13359,12 @@
     "url": "https://www.vinted.it/items/9838453035-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0080b_5wSJSxHHt4pzyidRX4mrFzbg/310x430/fbe3f3d9.webp?s=e80d3da9fc2fbef57abc6b2fc7da6b769bdf26aa",
     "addedAt": "2026-08-31T06:57:39.977Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nNuovo senza cartellino·PlayStation·Caricato 5 min fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n5 min fa\nfonctionne parfaitement sans manette avec les cables et trois jeux passer en privé, me demandait des jeux si la Play est acheté, les jeux sont offerts\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza manette (funziona perfettamente)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
