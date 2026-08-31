@@ -47,10 +47,14 @@ commit_data() {
     if [ -n "$(git status --porcelain data/)" ]; then
       git add data/
       git -c user.name="vinted-bot" -c user.email="bot@users.noreply.github.com" commit -m "sync stato bot" -q
-      if git push -q; then
+      # Allineati con eventuali push arrivati nel frattempo (es. una modifica al
+      # codice pushata mentre il job gira) prima di spingere: senza questo, dopo
+      # un push esterno il git push fallisce in silenzio per tutta la vita del job.
+      if git pull --rebase -q 2>/dev/null && git push -q; then
         log "Stato salvato su Git."
       else
-        log "Push fallito, riprovo al prossimo giro."
+        git rebase --abort 2>/dev/null || true
+        log "Sync fallito (pull/push), riprovo al prossimo giro."
       fi
     fi
   done
@@ -71,6 +75,9 @@ log "Loop terminato, salvo lo stato finale prima che il job chiuda."
 if [ -n "$(git status --porcelain data/)" ]; then
   git add data/
   git -c user.name="vinted-bot" -c user.email="bot@users.noreply.github.com" commit -m "sync stato bot (fine job)" -q
-  git push -q || log "Push finale fallito."
+  if git pull --rebase -q 2>/dev/null && git push -q; then :; else
+    git rebase --abort 2>/dev/null || true
+    log "Push finale fallito."
+  fi
 fi
 log "Fine."

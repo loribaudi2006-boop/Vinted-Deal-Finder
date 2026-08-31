@@ -11,6 +11,8 @@
 //   DEFAULT_BRANCH      -> ramo su cui lanciare bot.yml (default: main)
 //   BOT_WORKFLOW        -> file del workflow del bot (default: bot.yml)
 //   GAP_MINUTES         -> minuti di inattivita' oltre i quali si considera "fermo" (default: 20)
+//   STALL_MINUTES       -> se un job risulta "in_progress" ma non salva stato da piu' di
+//                          tanti minuti, e' piantato (zombie): lo si chiude e riavvia (default: 35)
 //   REQUIRED_SECRETS    -> elenco separato da virgola dei secret che il bot richiede
 
 const repo = process.env.GITHUB_REPOSITORY;
@@ -20,6 +22,7 @@ const chatId = process.env.TELEGRAM_CHAT_ID;
 const WORKFLOW = process.env.BOT_WORKFLOW || "bot.yml";
 const BRANCH = process.env.DEFAULT_BRANCH || "main";
 const GAP_MIN = Number(process.env.GAP_MINUTES || 20);
+const STALL_MIN = Number(process.env.STALL_MINUTES || 35);
 const SECRETS = (process.env.REQUIRED_SECRETS || "TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID")
   .split(",").map((s) => s.trim()).filter(Boolean);
 const name = repo ? repo.split("/")[1] : "bot";
@@ -109,6 +112,56 @@ async function contaRunAttivi() {
   return runs.filter((x) => x.status === "in_progress" || x.status === "queued").length;
 }
 
+// Minuti dall'ultimo commit che ha toccato data/. Mentre lavora, il bot salva lo
+// stato (git add data/ + push) ~ogni 10 min: se sono passati molti minuti e un job
+// risulta comunque "in_progress", quel job e' piantato (zombie) e va riavviato.
+async function minutiDaUltimoSyncStato() {
+  try {
+    const r = await gh(`commits?sha=${BRANCH}&path=data&per_page=1`);
+    if (!r.ok) return null;
+    const arr = await r.json();
+    const d = arr && arr[0] && arr[0].commit &&
+      ((arr[0].commit.committer && arr[0].commit.committer.date) ||
+       (arr[0].commit.author && arr[0].commit.author.date));
+    return d ? (Date.now() - new Date(d).getTime()) / 60000 : null;
+  } catch {
+    return null;
+  }
+}
+
+// Chiede a GitHub di far ripartire bot.yml e verifica dopo 25s che sia davvero partito.
+async function riavvia(messaggioIniziale) {
+  await tg(messaggioIniziale);
+  const disp = await gh(`actions/workflows/${WORKFLOW}/dispatches`, {
+    method: "POST",
+    body: JSON.stringify({ ref: BRANCH }),
+  });
+  if (disp.ok || disp.status === 204) {
+    console.log("Riavvio richiesto. Verifico tra 25s che sia davvero partito...");
+    await new Promise((r) => setTimeout(r, 25000));
+    const attivi = await contaRunAttivi();
+    if (attivi > 0) {
+      await tg(`✅ <b>${name}</b>: riavviato, il bot e' di nuovo in esecuzione. Nessun intervento necessario.`);
+    } else {
+      await tg(
+        `❗ <b>${name}</b>: ho chiesto il riavvio ma dopo 25s non risulta ancora nessun run attivo. ` +
+        `Probabile ritardo di GitHub: se entro 5 minuti non torna su, fallo tu:\n\n` +
+        comeRiavviarlo()
+      );
+    }
+  } else {
+    const errTxt = await disp.text();
+    console.error("Dispatch fallito:", disp.status, errTxt);
+    let extra = "";
+    if (disp.status === 403) extra = "\n(Il token del watchdog non ha il permesso 'actions: write', oppure le Actions sono disattivate nelle impostazioni del repo.)";
+    if (disp.status === 404) extra = `\n(Controlla che il file ${WORKFLOW} esista sul branch ${BRANCH} e abbia "workflow_dispatch:" sotto "on:".)`;
+    await tg(
+      `❗ <b>${name}</b>: NON sono riuscito a riavviarlo in automatico (errore ${disp.status}).${extra}\n\n` +
+      comeRiavviarlo()
+    );
+  }
+}
+
 (async () => {
   const res = await gh(`actions/workflows/${WORKFLOW}/runs?per_page=5`);
   if (!res.ok) {
@@ -124,8 +177,28 @@ async function contaRunAttivi() {
   const latest = runs[0];
   console.log(`Ultimo run: ${latest.id} status=${latest.status} conclusion=${latest.conclusion} updated=${latest.updated_at}`);
 
-  if (latest.status === "in_progress" || latest.status === "queued") {
-    console.log("Il bot risulta attivo o in coda. Tutto ok.");
+  if (latest.status === "queued") {
+    console.log("Un run e' in coda. Tutto ok.");
+    process.exit(0);
+  }
+
+  if (latest.status === "in_progress") {
+    const runAgeMin = (Date.now() - new Date(latest.run_started_at || latest.created_at).getTime()) / 60000;
+    const stall = await minutiDaUltimoSyncStato();
+    if (runAgeMin < STALL_MIN || stall == null || stall < STALL_MIN) {
+      console.log(
+        `Bot attivo (run da ${Math.round(runAgeMin)} min, ultimo sync stato ` +
+        `${stall == null ? "n/d" : Math.round(stall) + " min fa"}). Tutto ok.`
+      );
+      process.exit(0);
+    }
+    // Job "in_progress" ma nessun salvataggio di stato da troppo tempo: e' piantato.
+    console.log(`Job ${latest.id} in_progress ma nessun sync stato da ${Math.round(stall)} min: zombie. Lo chiudo e riavvio.`);
+    await gh(`actions/runs/${latest.id}/cancel`, { method: "POST" }).catch((e) => console.error("cancel fallito:", e));
+    await new Promise((r) => setTimeout(r, 10000));
+    await riavvia(
+      `⚠️ <b>${name}</b>: il job risultava attivo ma non salvava lo stato da ~${Math.round(stall)} minuti (piantato). L'ho chiuso e sto riavviando il bot.`
+    );
     process.exit(0);
   }
 
@@ -156,37 +229,7 @@ async function contaRunAttivi() {
   else
     motivo = `l'ultimo job si e' chiuso con esito "${latest.conclusion}"`;
 
-  await tg(`⚠️ <b>${name}</b>: il bot e' fermo da circa ${Math.round(ageMin)} minuti (${motivo}). Provo a riavviarlo adesso.`);
-
-  const disp = await gh(`actions/workflows/${WORKFLOW}/dispatches`, {
-    method: "POST",
-    body: JSON.stringify({ ref: BRANCH }),
-  });
-
-  if (disp.ok || disp.status === 204) {
-    console.log("Riavvio richiesto. Verifico tra 25s che sia davvero partito...");
-    await new Promise((r) => setTimeout(r, 25000));
-    const attivi = await contaRunAttivi();
-    if (attivi > 0) {
-      await tg(`✅ <b>${name}</b>: riavviato, il bot e' di nuovo in esecuzione. Nessun intervento necessario.`);
-    } else {
-      await tg(
-        `❗ <b>${name}</b>: ho chiesto il riavvio ma dopo 25s non risulta ancora nessun run attivo. ` +
-        `Probabile ritardo di GitHub: se entro 5 minuti non torna su, fallo tu:\n\n` +
-        comeRiavviarlo()
-      );
-    }
-  } else {
-    const errTxt = await disp.text();
-    console.error("Dispatch fallito:", disp.status, errTxt);
-    let extra = "";
-    if (disp.status === 403) extra = "\n(Il token del watchdog non ha il permesso 'actions: write', oppure le Actions sono disattivate nelle impostazioni del repo.)";
-    if (disp.status === 404) extra = `\n(Controlla che il file ${WORKFLOW} esista sul branch ${BRANCH} e abbia "workflow_dispatch:" sotto "on:".)`;
-    await tg(
-      `❗ <b>${name}</b>: NON sono riuscito a riavviarlo in automatico (errore ${disp.status}).${extra}\n\n` +
-      comeRiavviarlo()
-    );
-  }
+  await riavvia(`⚠️ <b>${name}</b>: il bot e' fermo da circa ${Math.round(ageMin)} minuti (${motivo}). Provo a riavviarlo adesso.`);
 })().catch((e) => {
   console.error("Watchdog errore:", e);
   process.exit(0);
