@@ -1,20 +1,5 @@
 [
   {
-    "id": "9792250038",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9792250038-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01d66_sFsK6PgmRJEfx28kCuv43Kxn/310x430/135c27f8.webp?s=ba33c4a70bd55fd3dd270a8356247d0d5a49bf59",
-    "addedAt": "2026-08-27T06:08:51.950Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.05€, sotto soglia"
-  },
-  {
     "id": "9792286301",
     "category": "Console",
     "title": "PlayStation 4  + 2 Controller",
@@ -13368,6 +13353,19 @@
     "url": "https://www.vinted.it/items/9838236854-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02074_qV5PL6dJCFa4iZxdsdDLzmms/310x430/5e58a326.webp?s=eb14411542602d902593344219826e88cefae894",
     "addedAt": "2026-08-31T05:53:43.090Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9838279423",
+    "category": "Console",
+    "title": "Nintendo switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9838279423-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00915_tfQXErQTMSHnA8kAGqxBNWGe/310x430/feb3aeec.webp?s=01c2267c104679110c0ed6fcfb8d5148aa40d21c",
+    "addedAt": "2026-08-31T06:10:12.779Z",
     "processed": false,
     "triaged": false
   }
