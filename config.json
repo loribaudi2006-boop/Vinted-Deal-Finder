@@ -23,11 +23,6 @@
       "name": "Console",
       "url": "https://www.vinted.it/catalog?catalog[]=3025&order=newest_first&price_to=80",
       "useReferencePricing": true
-    },
-    {
-      "name": "Console (pagina 2)",
-      "url": "https://www.vinted.it/catalog?catalog[]=3025&order=newest_first&price_to=80&page=2",
-      "useReferencePricing": true
     }
   ],
   "faultKeywords": [
