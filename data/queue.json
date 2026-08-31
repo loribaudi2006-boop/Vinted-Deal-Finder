@@ -13324,5 +13324,31 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~1.15€, sotto soglia"
+  },
+  {
+    "id": "9838685424",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9838685424-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e16_SnDZZW6L68sVCK2zP6Z2Ub9o/310x430/eb25ec2e.webp?s=6d8a7aac8756e5c7a3d29db8b670f647dd77a542",
+    "addedAt": "2026-08-31T07:39:00.414Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9838681384",
+    "category": "Console",
+    "title": "Caja switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9838681384-caja-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_024bb_DP9FW52am18BGXuSp5atK5SE/310x430/47e219c6.webp?s=c1b1200433ab79aaf4276e92220b55675b771f42",
+    "addedAt": "2026-08-31T07:39:00.414Z",
+    "processed": false,
+    "triaged": false
   }
 ]
