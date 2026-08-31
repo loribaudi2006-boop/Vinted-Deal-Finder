@@ -12224,5 +12224,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "9849416356",
+    "category": "Console",
+    "title": "PS4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9849416356-ps4-plus-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_002cf_TXaEMDjxYtkaF3gJkhdEXnEb/310x430/605f117e.webp?s=937c388035290847bf168666aa0343b4f77cb8f2",
+    "addedAt": "2026-08-31T23:26:32.742Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "licità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4, plus manette\nDiscrete·PlayStation·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPS4, plus manette, plus câblage, HDMI surchauffe de temps en temps bouton pour l’allumer cassé, obligé de retirer la coque gauche et surélever la coque droit pour appuyer sur le bouton d’allumage, mais sinon elle marche parfaitement\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Surriscaldamento occasionale, tasto di accensione rotto (richiede rimozione/sollevamento scocca per accenderla)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
