@@ -1,20 +1,5 @@
 [
   {
-    "id": "9787982612",
-    "category": "Console",
-    "title": "Jeux Nintendo Switch Arcade Game Zone – 40 Arcade Games",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9787982612-jeux-nintendo-switch-arcade-game-zone-40-arcade-games?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0139a_xaB8RHamx3x2TPpv9Lbgxj4C/310x430/d5b07843.webp?s=02e53e6f6b54a8660ae23c8f3d02b667e4fbbdcb",
-    "addedAt": "2026-08-27T05:58:30.109Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "9792250038",
     "category": "Console",
     "title": "Xbox one",
@@ -13370,6 +13355,19 @@
     "url": "https://www.vinted.it/items/9838138963-ps4-fat-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01af3_SzYzqiEgFimnB4mb3Hke8Sbo/310x430/da39d18c.webp?s=33c9a9d11e911f04b7514d8019aed48da8b98315",
     "addedAt": "2026-08-31T05:06:19.681Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9838236854",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9838236854-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02074_qV5PL6dJCFa4iZxdsdDLzmms/310x430/5e58a326.webp?s=eb14411542602d902593344219826e88cefae894",
+    "addedAt": "2026-08-31T05:53:43.090Z",
     "processed": false,
     "triaged": false
   }
