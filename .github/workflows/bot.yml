@@ -40,7 +40,7 @@ jobs:
           echo "Chrome trovato in: $CHROME_BIN"
           echo "path=$CHROME_BIN" >> "$GITHUB_OUTPUT"
 
-      - name: Avvia il loop (index.js ogni 2min, triage.js ogni 3min, analyze_gemini.js ogni 5min)
+      - name: Avvia il loop (index.js ogni 60s; triage+analyze attaccati ogni 60s)
         env:
           CHROME_PATH: ${{ steps.chrome.outputs.path }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
