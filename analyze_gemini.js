@@ -50,21 +50,10 @@ function pickCandidates(queue) {
     .slice(0, MAX_PER_RUN);
 }
 
-function sendTelegram(message, photoUrl, replyMarkup) {
-  const args = ['notify.js', message, photoUrl || ''];
-  if (replyMarkup) args.push(JSON.stringify(replyMarkup));
-  execFileSync('node', args, { cwd: __dirname, encoding: 'utf8', timeout: 20000 });
-}
-
-// Bottoni sotto ogni avviso: "Approfondisci" avvia l'analisi seria on-demand
-// (1 chiamata Gemini, con tetto giornaliero), "Archivia" lo toglie di mezzo.
-function alertButtons(itemId) {
-  return {
-    inline_keyboard: [[
-      { text: '🔍 Approfondisci', callback_data: `deep:${itemId}` },
-      { text: '🗄 Archivia', callback_data: `arch:${itemId}` },
-    ]],
-  };
+function sendTelegram(message, photoUrl) {
+  // "track" -> notify.js registra gli id dei messaggi in data/sent_alerts.json,
+  // cosi' msg_cleanup.js puo' cancellarli alla scadenza.
+  execFileSync('node', ['notify.js', message, photoUrl || '', 'track'], { cwd: __dirname, encoding: 'utf8', timeout: 20000 });
 }
 
 function markProcessed(id) {
@@ -288,7 +277,7 @@ async function main() {
 
       const message = buildTelegramMessage(item, verdict, parts, margin);
       try {
-        sendTelegram(message, item.photoUrl, alertButtons(item.id));
+        sendTelegram(message, item.photoUrl);
         stats.bumpSent(1);
         log(`INVIATO: ${item.title} — margine definitivo ~${margin.toFixed(0)}€`);
       } catch (err) {

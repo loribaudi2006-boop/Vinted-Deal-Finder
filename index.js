@@ -182,9 +182,6 @@ async function main() {
     let candidatesFound = 0;
     let totalRawItems = 0;
     const newCandidates = [];
-    // Annunci visti per la prima volta in questo giro, per il database prezzi
-    // (price_history.js). Non aggiunge richieste a Vinted: riusa il testo gia' scaricato.
-    const priceHistoryBatch = [];
 
     for (const search of config.searches) {
       let items;
@@ -200,7 +197,6 @@ async function main() {
       for (const item of items) {
         if (seenSnapshot[item.id] || newSeenEntries[item.id]) continue;
         newSeenEntries[item.id] = now;
-        priceHistoryBatch.push({ id: item.id, text: item.text });
 
         const title = extractTitle(item.text);
         const { itemPrice, totalPrice } = parsePrices(item.text);
@@ -249,13 +245,6 @@ async function main() {
 
     mergeNewSeenIds(newSeenEntries);
     mergeNewCandidatesIntoQueue(newCandidates);
-    // Registrazione prezzi per il database storico — completamente isolata:
-    // se fallisce non deve mai far saltare il giro di scraping.
-    try {
-      require('./price_history.js').recordBatch(priceHistoryBatch);
-    } catch (e) {
-      log('price_history (non bloccante): ' + e.message);
-    }
     health.checkScraperHealth(totalRawItems, log);
     stats.bumpFound(candidatesFound);
     log(`Fine ciclo. Nuovi candidati aggiunti alla coda: ${candidatesFound}.`);
