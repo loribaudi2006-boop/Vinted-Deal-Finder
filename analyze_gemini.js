@@ -1,9 +1,8 @@
-// Fase 2b (alternativa a Claude) — Analisi definitiva SOLO con Gemini + scraping diretto.
-// Niente grounding (la chiave usata non ha quota per la ricerca Google integrata, da'
-// subito 429): Gemini fa solo il ragionamento testuale (stesso costo/velocita' di
-// triage.js), e i prezzi/link dei ricambi vengono letti VERI da Amazon.it con lo stesso
-// Chrome/puppeteer gia' usato per Vinted — zero chiamate LLM per quella parte, quindi
-// zero token extra e link sempre reali (non inventati da un modello).
+// Fase 2b — Analisi definitiva SOLO con Gemini (una chiamata testuale).
+// Gemini elenca i pezzi di ricambio necessari e ne stima il costo su Amazon.it in
+// base alla sua conoscenza. NON si apre piu' Amazon (era lento e spesso bloccato dai
+// runner GitHub, e il link non era affidabile): il link diretto ai ricambi lo fornisce
+// l'AII quando l'utente le incolla l'avviso (vedi il prompt nella guida, cap. 7).
 const fs = require('fs');
 const path = require('path');
 const { execFileSync } = require('child_process');
@@ -11,7 +10,6 @@ const puppeteer = require('puppeteer-core');
 const { loadConfig } = require('./config_loader.js');
 const config = loadConfig();
 const { fetchListingWithPage } = require('./fetch_listing_lib.js');
-const { searchAmazonPart, amazonSearchUrl } = require('./amazon_search.js');
 const { nextApiKey, isConfigured } = require('./gemini_keys.js');
 const stats = require('./stats.js');
 
@@ -67,7 +65,7 @@ async function askGeminiAnalysis(item, listingText) {
 
   const prompt = `Sei un assistente che fa l'analisi DEFINITIVA (ma solo testuale, niente ricerca web) di un annuncio Vinted per un piccolo business di rivendita/riparazione di console e videogiochi.
 
-CONTESTO: un primo script (triage.js, Gemini) ha gia' dato una valutazione grezza. Tu affini l'analisi. I prezzi reali dei ricambi verranno cercati DOPO da uno script separato su Amazon.it: tu devi solo dire QUALI pezzi/elementi servono e con quale query di ricerca trovarli, non stimarne il prezzo.
+CONTESTO: un primo script (triage.js, Gemini) ha gia' dato una valutazione grezza. Tu affini l'analisi. Devi dire QUALI pezzi/elementi servono e stimarne il costo realistico su Amazon.it in base alla tua conoscenza (non servono link: li fornira' un'altra AI dopo).
 
 Prezzo di acquisto (gia' con Protezione Acquisti): ${item.totalPrice}€.
 Titolo: ${item.title}
@@ -85,7 +83,7 @@ Rispondi SOLO con un oggetto JSON valido (nessun testo extra, nessun markdown), 
   "baitPriceSuspected": true/false,
   "repairDifficulty": "Facile" / "Media" / "Difficile" / "" (vuoto se nessun difetto),
   "repairNote": "come si risolve, in una frase (vuoto se nessun difetto)",
-  "partsNeeded": [ { "name": "nome breve pezzo/elemento", "searchQuery": "query efficace per trovarlo su Amazon.it", "estimatedPriceEUR": numero (prezzo indicativo realistico del pezzo su Amazon.it in euro, in base alla tua conoscenza — serve come stima di riserva se la ricerca automatica non trova il prezzo) } ] (array vuoto se non serve comprare nulla),
+  "partsNeeded": [ { "name": "nome breve e chiaro del pezzo/elemento da comprare", "estimatedPriceEUR": numero (costo realistico del pezzo su Amazon.it in euro, in base alla tua conoscenza) } ] (array vuoto se non serve comprare nulla),
   "resaleEstimate": numero (prezzo di rivendita realistico su Vinted una volta funzionante/completo/in buone condizioni),
   "resaleTitle": "titolo pronto per il nuovo annuncio di rivendita",
   "resaleDescription": "descrizione pronta per il nuovo annuncio di rivendita, italiano, tono da privato, onesta sulle condizioni una volta riparato/completato, senza esagerare"
@@ -115,49 +113,14 @@ Rispondi SOLO con un oggetto JSON valido (nessun testo extra, nessun markdown), 
   return JSON.parse(text);
 }
 
-// Se Amazon blocca il runner (succede spesso dagli IP GitHub), dopo il primo blocco
-// smettiamo di riprovare per gli altri pezzi dello stesso giro e usiamo subito le stime.
-let amazonBlockedThisProcess = false;
-
-async function resolveParts(page, partsNeeded, logPrefix) {
-  const resolved = [];
-  for (const part of partsNeeded || []) {
-    const estimate = typeof part.estimatedPriceEUR === 'number' && part.estimatedPriceEUR > 0
+// Dai pezzi indicati da Gemini ricava nome + costo stimato (nessuna ricerca web).
+function partsFromVerdict(partsNeeded) {
+  return (partsNeeded || []).map(part => ({
+    name: part.name,
+    price: typeof part.estimatedPriceEUR === 'number' && part.estimatedPriceEUR > 0
       ? part.estimatedPriceEUR
-      : null;
-    // Fallback usato quando lo scraping Amazon non da' un risultato: prezzo stimato da
-    // Gemini (marcato come stima) + link a una ricerca Amazon.it gia' pronta, cosi' e'
-    // comunque a un tap di distanza invece di un "cerca a mano".
-    const fallback = {
-      name: part.name,
-      price: estimate,
-      estimated: true,
-      url: amazonSearchUrl(part.searchQuery),
-      title: null,
-    };
-    if (amazonBlockedThisProcess) {
-      resolved.push(fallback);
-      continue;
-    }
-    try {
-      const found = await searchAmazonPart(page, part.searchQuery);
-      if (found) {
-        resolved.push({ name: part.name, price: found.price, estimated: false, url: found.url, title: found.title });
-      } else {
-        resolved.push(fallback);
-        log(`${logPrefix} nessun risultato Amazon per "${part.searchQuery}" — uso stima ${estimate ?? 'n.d.'}€`);
-      }
-    } catch (err) {
-      if (err.isAmazonBlocked) {
-        amazonBlockedThisProcess = true;
-        log(`${logPrefix} Amazon blocca il runner — passo alle stime per tutti i pezzi di questo giro`);
-      } else {
-        log(`${logPrefix} ricerca Amazon "${part.searchQuery}" fallita (${err.message}) — uso stima ${estimate ?? 'n.d.'}€`);
-      }
-      resolved.push(fallback);
-    }
-  }
-  return resolved;
+      : null,
+  }));
 }
 
 function buildTelegramMessage(item, verdict, parts, margin) {
@@ -165,16 +128,13 @@ function buildTelegramMessage(item, verdict, parts, margin) {
     ? `\n⚠️ <b>Attenzione, possibile prezzo esca:</b> la descrizione lascia intendere che il venditore accetta offerte/tratta — potrebbe non vendere davvero a ${item.totalPrice}€. Verifica prima di contarci.`
     : '';
 
-  const anyEstimated = parts.some(p => p.estimated);
   const partsLines = parts.length === 0
     ? 'Nessuno'
     : parts
-        .map(p => {
-          if (p.price != null && !p.estimated) return `- ${p.name} — ${p.price.toFixed(2)}€ — ${p.url}`;
-          if (p.price != null && p.estimated) return `- ${p.name} — ~${p.price.toFixed(2)}€ (stima) — ${p.url}`;
-          return `- ${p.name} — prezzo da verificare — ${p.url}`;
-        })
-        .join('\n') + (anyEstimated ? '\n<i>(stime: Amazon ha bloccato la ricerca automatica — i link aprono la ricerca)</i>' : '');
+        .map(p => p.price != null
+          ? `- ${p.name} — ~${p.price.toFixed(2)}€ (stima)`
+          : `- ${p.name} — prezzo da stimare`)
+        .join('\n');
 
   return `━━━━━━━━━━━━━━━
 🎮 <b>${verdict.title}</b>
@@ -263,9 +223,9 @@ async function main() {
         continue;
       }
 
-      const parts = await resolveParts(page, verdict.partsNeeded, `"${item.title}":`);
-      // Prezzo reale se trovato su Amazon, altrimenti la stima di Gemini: includere comunque
-      // un costo (anche stimato) tiene il calcolo del margine prudente invece di contare 0.
+      const parts = partsFromVerdict(verdict.partsNeeded);
+      // Costo stimato da Gemini: includere comunque un costo tiene il calcolo del
+      // margine prudente invece di contare 0.
       const partsCost = parts.reduce((sum, p) => sum + (p.price ?? 0), 0);
       const margin = verdict.resaleEstimate - item.totalPrice - partsCost - verdict.resaleEstimate * VINTED_FEE_RATIO;
 
@@ -293,9 +253,8 @@ async function main() {
   log('Fine analisi.');
 }
 
-// Watchdog: vedi index.js per il motivo. Tempo massimo piu' alto perche' ogni run
-// puo' processare fino a MAX_PER_RUN item, ciascuno con una chiamata Gemini +
-// piu' ricerche Amazon per i ricambi.
+// Watchdog: vedi index.js per il motivo. Ogni run processa fino a MAX_PER_RUN item,
+// ciascuno con al piu' un caricamento pagina (di riserva) + una chiamata Gemini.
 const watchdog = setTimeout(() => {
   log(`TIMEOUT: run oltre ${WATCHDOG_MS / 1000}s, forzo uscita per non bloccare il prossimo giro.`);
   process.exit(1);
