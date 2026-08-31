@@ -49,13 +49,15 @@ commit_data() {
     # guardando da quanto non arriva un commit su data/.
     date -u +%FT%TZ > data/heartbeat.txt
     if [ -n "$(git status --porcelain data/)" ]; then
-      git add data/
+      git add -A data/
       git -c user.name="vinted-bot" -c user.email="bot@users.noreply.github.com" commit -m "sync stato bot" -q
-      # Allineati con eventuali push arrivati nel frattempo (es. una modifica al
-      # codice pushata mentre il job gira) prima di spingere: senza questo, dopo
-      # un push esterno il git push fallisce in silenzio per tutta la vita del job.
-      # NB: serve "origin main" esplicito, sul runner non c'e' upstream tracking.
-      if git pull --rebase -q origin main && git push -q; then
+      # index.js / triage.js girano in parallelo e riscrivono data/*.json proprio
+      # mentre questo blocco va: senza autostash, "git pull --rebase" si rifiuta con
+      # "cannot pull with rebase: You have unstaged changes" e lo stato non si salva
+      # MAI per tutta la vita del job (bug del 2026-08-31).
+      # "origin main" esplicito: sul runner non c'e' upstream tracking.
+      if git -c rebase.autoStash=true pull --rebase -q origin main \
+         && git push -q origin HEAD:main; then
         log "Stato salvato su Git."
       else
         git rebase --abort 2>/dev/null || true
@@ -78,9 +80,9 @@ wait "$PID_INDEX" "$PID_PIPELINE" "$PID_COMMIT"
 
 log "Loop terminato, salvo lo stato finale prima che il job chiuda."
 if [ -n "$(git status --porcelain data/)" ]; then
-  git add data/
+  git add -A data/
   git -c user.name="vinted-bot" -c user.email="bot@users.noreply.github.com" commit -m "sync stato bot (fine job)" -q
-  if git pull --rebase -q origin main && git push -q; then :; else
+  if git -c rebase.autoStash=true pull --rebase -q origin main && git push -q origin HEAD:main; then :; else
     git rebase --abort 2>/dev/null || true
     log "Push finale fallito."
   fi
