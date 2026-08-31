@@ -12260,5 +12260,23 @@
     "geminiFault": "Non prende i dischi, problema probabile al lettore ottico. Non testata di recente per mancanza di TV.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "9849467602",
+    "category": "Console",
+    "title": "Xbox One 500g",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9849467602-xbox-one-500g?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_000f2_oABCuEWUGkju9XaDD1sLQyFQ/310x430/9558e5a5.webp?s=93d74bcf1e8374036b28269c3a0457a201e9b59f",
+    "addedAt": "2026-08-31T23:44:19.599Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One 500g\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo x inutilizzo più 4 giochi e un controller funzionante tramite cavo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller funzionante solo tramite cavo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 30
   }
 ]
