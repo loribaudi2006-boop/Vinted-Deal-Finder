@@ -24,6 +24,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Storia completa: serve a run_loop.sh per fare 'git pull --rebase' del
+          # salvataggio stato quando nel frattempo e' stato pushato altro codice.
+          # Con il default (shallow, 1 commit) il rebase non trova la merge-base e
+          # il salvataggio dello stato fallisce per tutta la durata del job.
+          fetch-depth: 0
 
       - name: Imposta Node.js
         uses: actions/setup-node@v4
