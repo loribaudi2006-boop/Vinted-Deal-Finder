@@ -1,0 +1,7 @@
+name = "vinted-bot-watchdog"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+# Controllo ogni 3 minuti, indipendente dallo scheduler di GitHub.
+[triggers]
+crons = ["*/3 * * * *"]

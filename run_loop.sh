@@ -44,6 +44,10 @@ run_triage_analyze_loop() {
 commit_data() {
   while [ "$(date +%s)" -lt "$END_TIME" ]; do
     sleep 600
+    # Heartbeat: data/ cambia SEMPRE ogni 10 min, anche in notti tranquille senza nuovi
+    # annunci -> i watchdog (GitHub + Cloudflare) distinguono un bot vivo da uno piantato
+    # guardando da quanto non arriva un commit su data/.
+    date -u +%FT%TZ > data/heartbeat.txt
     if [ -n "$(git status --porcelain data/)" ]; then
       git add data/
       git -c user.name="vinted-bot" -c user.email="bot@users.noreply.github.com" commit -m "sync stato bot" -q
