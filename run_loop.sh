@@ -35,6 +35,8 @@ run_triage_analyze_loop() {
   while [ "$(date +%s)" -lt "$END_TIME" ]; do
     node triage.js || log "Errore in triage.js (continuo comunque)"
     node analyze_gemini.js || log "Errore in analyze_gemini.js (continuo comunque)"
+    # Ascolta le pressioni dei bottoni Telegram (solo API Telegram, niente Gemini).
+    node telegram_poll.js || log "Errore in telegram_poll.js (continuo comunque)"
     sleep "$interval"
   done
 }

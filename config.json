@@ -14,6 +14,7 @@
   "minMarginEuro": 30,
   "flashAlertMaxPrice": 15,
   "maxBuyPrice": 70,
+  "deepAnalysis": { "maxPerDay": 15, "ebayEnabled": true },
   "nightHours": { "start": 1, "end": 7 },
   "nightMinBatchTriage": 6,
   "nightMinBatchAnalysis": 3,

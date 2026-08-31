@@ -1,15 +1,25 @@
 // Helper CLI per mandare un messaggio Telegram usando la config del progetto.
-// Uso: node notify.js "testo del messaggio" ["url foto"]
+// Uso: node notify.js "testo del messaggio" ["url foto"] ["reply_markup JSON"]
 // Se e' passata una foto, la manda come sendPhoto con il testo come didascalia; se il
 // testo supera il limite di 1024 caratteri delle didascalie Telegram, manda comunque la
 // foto (senza didascalia) seguita dal messaggio completo in un secondo invio, cosi' non
 // si perde mai nulla del resoconto.
+// Il 3o argomento opzionale e' un reply_markup Telegram (bottoni inline) come stringa JSON.
 const fetch = require('node-fetch');
 const { loadConfig } = require('./config_loader.js');
 
 const config = loadConfig();
 const message = process.argv[2];
 const photoUrl = process.argv[3] || null;
+
+let replyMarkup = null;
+if (process.argv[4]) {
+  try {
+    replyMarkup = JSON.parse(process.argv[4]);
+  } catch {
+    console.error('reply_markup JSON non valido, lo ignoro.');
+  }
+}
 
 if (!message) {
   console.error('Uso: node notify.js "testo del messaggio" ["url foto"]');
@@ -34,14 +44,16 @@ async function sendMessage(text) {
       text,
       parse_mode: 'HTML',
       disable_web_page_preview: false,
+      ...(replyMarkup ? { reply_markup: replyMarkup } : {}),
     }),
   });
   if (!res.ok) throw new Error(`sendMessage ${res.status}: ${await res.text()}`);
 }
 
-async function sendPhoto(photo, caption) {
+async function sendPhoto(photo, caption, withMarkup = true) {
   const body = { chat_id: chatId, photo, parse_mode: 'HTML' };
   if (caption != null) body.caption = caption;
+  if (replyMarkup && withMarkup) body.reply_markup = replyMarkup;
   const res = await fetch(`${API}/sendPhoto`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -66,8 +78,9 @@ async function main() {
   }
 
   // Foto senza didascalia (o didascalia troppo lunga) + messaggio completo a parte.
+  // I bottoni vanno sul messaggio di testo finale, non sulla foto.
   try {
-    await sendPhoto(photoUrl, null);
+    await sendPhoto(photoUrl, null, false);
   } catch (err) {
     console.error('sendPhoto fallita, mando solo il testo:', err.message);
   }
