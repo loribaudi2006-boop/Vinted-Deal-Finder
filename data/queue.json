@@ -13292,5 +13292,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "9852890053",
+    "category": "Console",
+    "title": "Switche",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9852890053-switche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0214a_TgAtwUPmHKbpsWApkMidvw6D/310x430/8fe17c41.webp?s=297cebd8e25c40ae5d8f0e726d8fc8d42dede490",
+    "addedAt": "2026-09-01T11:45:32.136Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitche\nDiscrete·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nMa switch est tout à fait fonctionnel, juste les rail, bug un peu et la switch, je ne peux plus tenir toute seule. Sinon elle est très fonctionnelle sans boîte et j’ajoute un jeu sur demande\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Rail che danno problemi e kickstand (supporto posteriore) rotto/mancante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
