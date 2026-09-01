@@ -13739,5 +13739,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9858277473",
+    "category": "Console",
+    "title": "Lot de switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9858277473-lot-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a75_yXtr2NY5ZApMhJWpgvgL7uR9/310x430/03f73f77.webp?s=422f9c774494d09d6e5597f681c201b58e6bafc4",
+    "addedAt": "2026-09-01T19:07:27.022Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n1\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot de switch\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\n⚠️Lot Nintendo\nChargeur Nintendo + manette filaire Nintendo + socle de switch + switch\nTout fonctionne parfaitement à part la switch qui a un défaut quand elle s'allume elle reste figée sur cet écran violet la switch n'ai jamais tomber elle a très bien été conservé sans rayures.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La console si blocca su uno schermo viola all'accensione (gli accessori funzionano perfettamente)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
