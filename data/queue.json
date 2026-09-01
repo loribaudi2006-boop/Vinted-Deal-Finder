@@ -13931,5 +13931,53 @@
     "geminiFault": "pequeño desperfecto estético visible en la última foto",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "9858570513",
+    "category": "Console",
+    "title": "Switch light parfait etat de marche",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9858570513-switch-light-parfait-etat-de-marche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01fc2_GBJqK7bokGWSZby1bqybg9V8/310x430/c8e466f7.webp?s=465e0c8d36e7a8fd4b24a22dce938be9fac0b461",
+    "addedAt": "2026-09-01T19:33:46.325Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9858577111",
+    "category": "Console",
+    "title": "Console PlayStation 4 (PS4 Slim)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9858577111-console-playstation-4-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0035a_hrHMoqR1w3ixR97kckmZxT27/310x430/37e26ad8.webp?s=65885018b1224206f9732f502de15ccc9f540ef3",
+    "addedAt": "2026-09-01T19:34:49.101Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole PlayStation 4 (PS4 Slim)\nOttime·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nConsole PS4 Slim en bon état général, prête à l'emploi.\nÉtat : Réinitialisée aux paramètres d'usine (comme visible sur les photos), prête pour un nouveau propriétaire.\nFonctionnement : Fonctionne parfaitement.\nInclus : Console seule (ou avec ses câbles selon ce que tu fournis).\nEnvoi rapide et soigné dans un colis protégé. N'hésite pas si tu as des questions !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
+  },
+  {
+    "id": "9858576396",
+    "category": "Console",
+    "title": "Console Sony PlayStation 4",
+    "price": 64.99,
+    "totalPrice": 68.94,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9858576396-console-sony-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a10_xxrXFDXDawgBLKhTeYU5vei9/310x430/b0dac272.webp?s=14dc0490b32d337f3014f85b90a1a3f709b5fb06",
+    "addedAt": "2026-09-01T19:34:49.101Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
