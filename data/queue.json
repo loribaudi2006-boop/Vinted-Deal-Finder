@@ -12311,5 +12311,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "9849521865",
+    "category": "Console",
+    "title": "Caja vacía Nintendo Switch Mario Kart 8 (Con desperfectos)",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9849521865-caja-vacia-nintendo-switch-mario-kart-8-con-desperfectos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01206_PwCGjvxaHzsh6b35W7A4ypMT/310x430/f39c4016.webp?s=f1bce74ca053ef9ed17712a75149ee5bafd98bcb",
+    "addedAt": "2026-09-01T00:05:14.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.4€, sotto soglia"
   }
 ]
