@@ -12218,5 +12218,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-0.95€, sotto soglia"
+  },
+  {
+    "id": "9850893234",
+    "category": "Console",
+    "title": "dragonnes switch 1",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9850893234-dragonnes-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0149d_PP7aVPngABSmJUgwBfYJ1qn7/310x430/a70346f3.webp?s=812a48ebfab175a1c1545bceec59d1a9c8494b7d",
+    "addedAt": "2026-09-01T08:23:47.288Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.3€, sotto soglia"
   }
 ]
