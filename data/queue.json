@@ -13262,5 +13262,35 @@
     "geminiFault": "piccoli rischi nel Touchscreen",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 93.05
+  },
+  {
+    "id": "9852763629",
+    "category": "Console",
+    "title": "Xbox One S  – Fonctionne parfaitement – Câbles inclus",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9852763629-xbox-one-s-fonctionne-parfaitement-cables-inclus?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01dfe_eafZf5Zdyo6mGGPhAP3bb1i7/310x430/d594087b.webp?s=ae4ccd68d6609e4378a6fd4b02956becea472e57",
+    "addedAt": "2026-09-01T11:34:02.364Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "9852795427",
+    "category": "Console",
+    "title": "Cartone ps5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9852795427-cartone-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ea3_r3sh61zufvNoU2f5rHb8u7oL/310x430/eac1f8a2.webp?s=679884016ea9f1a833a62ec043dfe0cc32aa353c",
+    "addedAt": "2026-09-01T11:37:10.792Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
