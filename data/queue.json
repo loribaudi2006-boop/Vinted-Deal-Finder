@@ -13898,5 +13898,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.05
+  },
+  {
+    "id": "9858497374",
+    "category": "Console",
+    "title": "Fc26 ps5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9858497374-fc26-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00fa3_sYLAmP6aqZVAf6FNupJbJXsn/310x430/63f4d98c.webp?s=ca862c53a894de405b255b94fac22ebdba7b7f43",
+    "addedAt": "2026-09-01T19:27:27.797Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.3€, sotto soglia"
+  },
+  {
+    "id": "9858533355",
+    "category": "Console",
+    "title": "PS4 Slim + mando + cables",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9858533355-ps4-slim-mando-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02166_fPNxhWBUpMMKKcCzGCTWwLJP/310x430/291cbe01.webp?s=81d4f731b0678b452905af49ed20dbdbbf27b089",
+    "addedAt": "2026-09-01T19:30:37.040Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim + mando + cables\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4 Slim en buen estado, muy cuidada y funcionando perfectamente. Se entrega con un mando, cable de alimentación, cable HDMI y cable USB para cargar el mando, lista para jugar desde el primer día.\nMando incluido\nCable de alimentación incluido\nCable HDMI incluido\nCable USB para el mando incluido\nFuncionamiento perfecto\n\nSu único desperfecto es estético, el cual es apreciable en la última foto\n... altro\nSpedizione\n5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "pequeño desperfecto estético visible en la última foto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
