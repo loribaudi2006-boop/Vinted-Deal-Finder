@@ -1,20 +1,5 @@
 [
   {
-    "id": "9811982043",
-    "category": "Console",
-    "title": "Pochette pour switch",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9811982043-pochette-pour-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01dc0_wU87EZ1PTG7JF5o1CAfrvgtE/310x430/80845290.webp?s=9c8e52418d19af0a241c4699931eb87b5bdb5883",
-    "addedAt": "2026-08-28T22:56:38.373Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
     "id": "9812007445",
     "category": "Console",
     "title": "Playstation 4",
@@ -14180,5 +14165,38 @@
     "geminiFault": "Porta HDMI danneggiata e lettore di dischi non funzionante bene",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "9859901492",
+    "category": "Console",
+    "title": "Busco XBOX series S",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/9859901492-busco-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_019a9_FYC6o8331bXCXxQEjTy7RBda/310x430/6b7ec0fb.webp?s=6b1d8fc9e91a4a011eb45c3fda4de23a00bd4079",
+    "addedAt": "2026-09-01T22:54:01.710Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9859919069",
+    "category": "Console",
+    "title": "playstation 4 pro con fifa 23",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9859919069-playstation-4-pro-con-fifa-23?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0196e_GGCvX7mc29vzv4WdKK1pqFhm/310x430/89f9874c.webp?s=2fab46643c99d3f00652a45e4d243c5c75641c50",
+    "addedAt": "2026-09-01T22:59:14.826Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 pro con fifa 23\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nNessun problema , buone condizioni , e ben funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
