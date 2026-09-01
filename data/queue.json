@@ -1,53 +1,5 @@
 [
   {
-    "id": "9802683702",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9802683702-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00d20_H16ZQTpUrC3xZp5KoXVguYsZ/310x430/b7e26cf9.webp?s=eef79f402e07a35cc5442a2d9fbd31dfdff00ce8",
-    "addedAt": "2026-08-28T06:28:11.126Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9802678544",
-    "category": "Console",
-    "title": "Ps4  avec fil d’alimentation",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9802678544-ps4-avec-fil-dalimentation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_004db_QGzPvfJ5hau5RfjWBuP7uy64/310x430/818a68fe.webp?s=7cc23ac23acf7dabbdb545931013209a676ef8d7",
-    "addedAt": "2026-08-28T06:28:11.126Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "icità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 avec fil d’alimentation\nBuone·PlayStation·Caricato 4 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nNégociation possible\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
-    "id": "9802701441",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9802701441-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01116_KQgybvRnpTpkNuB7UeFgoGfz/310x430/e71df97c.webp?s=cb92ede2a440e21f857afd879d4fddf546a55f5a",
-    "addedAt": "2026-08-28T06:34:22.448Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9802741067",
     "category": "Console",
     "title": "Laccetti Nintendo switch 2 pad sx e pad dx oroginali",
@@ -12058,8 +12010,13 @@
     "url": "https://www.vinted.it/items/9849746997-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_021bd_KqsumfFHKAkroU3r9DYMAvUW/310x430/194f3103.webp?s=3a0a591bfda8722e9515d15a0791ba508bbe47da",
     "addedAt": "2026-09-01T01:44:36.725Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato 4 ore fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n4 ore fa\nElle lag un peu manette, neuf nom d’origine.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Elle lag un peu manette, neuf nom d’origine.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   },
   {
     "id": "9849788858",
@@ -12071,8 +12028,10 @@
     "url": "https://www.vinted.it/items/9849788858-cerco-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01530_a1bhaFBHcrJX9eMRHXHesE1g/310x430/7e0619f7.webp?s=801ebae6f56e01762f587487573034d63ccb7d6e",
     "addedAt": "2026-09-01T02:05:29.210Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   },
   {
     "id": "9849836826",
@@ -12084,8 +12043,13 @@
     "url": "https://www.vinted.it/items/9849836826-nintendo-switch-tres-bon-etat-general-jeux-et-accessoires?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01250_UJa5i3t91PGxQqMgbQ5isEMb/310x430/e83cbd88.webp?s=e5c8f7c413b094148862c6f73898a949d185328b",
     "addedAt": "2026-09-01T02:30:32.439Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\n🎮 Nintendo Switch – Très bon état général + jeux et accessoires\nBuone·Nintendo·Caricato 3 ore fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 ore fa\nJe vends ma Nintendo Switch en bon état général, avec plusieurs accessoires et jeux visibles sur les photos.\n\nInclus :\n\n* Console Nintendo Switch\n* Paire de Joy-Con rouge et bleu\n* Pochette de transport\n* 3 jeux :\n* FIFA 23\n* Pokémon Épée\n* Minecraft\n* Médaille / pièce Pokémon visible sur les photos\n* Son câble HDMI d’origine et le chargeur d’origine\n\nÉtat de la console :\n\n* L’écran est intact et ne présente aucune rayure.\n* Le dos de la console présente quelques petites rayures d’utilisation.\n* Les Joy-Con présentent un léger joystick drift, à prendre en compte avant l’achat.\n* La console fonctionne et est vendue conformément aux photos.\n\nSi vous avez d’autres questions ou besoin d’autres photos n’hésitez pas !!\n... altro\nSpedizione\nda 9,49 €",
+    "geminiFault": "Léger joystick drift sui Joy-Con",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.05
   },
   {
     "id": "9850014482",
@@ -12097,8 +12061,10 @@
     "url": "https://www.vinted.it/items/9850014482-switch-light-avec-un-jeu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_002a3_mwJaN29D4RzVvfYiwVPhkUsF/310x430/03e14a6d.webp?s=6a5040c77d202f7b1abec69c396068f3b1fa73a8",
     "addedAt": "2026-09-01T04:31:06.462Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9849280867",
@@ -12110,8 +12076,13 @@
     "url": "https://www.vinted.it/items/9849280867-xbox-series-x?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00b1f_Sa9y6E5LaS2zcXMQLsUNKBUo/310x430/25f9fb18.webp?s=9d9501da856b54d03f181f38806e907fdb8b54dc",
     "addedAt": "2026-09-01T05:21:03.247Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Uomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox series x\nNuovo con cartellino·Xbox·Caricato 7 ore fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nNuovo con cartellino\nCaricato\n7 ore fa\nContattatemi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 338
   },
   {
     "id": "9850266804",
@@ -12123,7 +12094,9 @@
     "url": "https://www.vinted.it/items/9850266804-cubiertas-ps5-cosmic-red?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00f15_bVzH3oNCaf78hcf6ajvdAqMS/310x430/20c426ad.webp?s=aa294bfa00c12de8c4bf6ea13f3ba00f957f3332",
     "addedAt": "2026-09-01T06:26:50.733Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
   }
 ]
