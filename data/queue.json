@@ -14360,5 +14360,38 @@
     "geminiFault": "Segni di usura/graffi sulla scocca e pezzo mancante nella striscia lucida centrale",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "9859339133",
+    "category": "Console",
+    "title": "🎮 Suscripción Nintendo Switch Online 3 meses – 8 € | Precio negociable",
+    "price": 8,
+    "totalPrice": 8,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9859339133-suscripcion-nintendo-switch-online-3-meses-8-eur-precio-negociable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02547_jmaD6QXbZMFMvtHWxfq6kiVK/310x430/d06d364e.webp?s=c882042b884d996fce4da5ba22cb1099b0c83343",
+    "addedAt": "2026-09-01T20:58:59.028Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8€, sotto soglia"
+  },
+  {
+    "id": "9859348663",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9859348663-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004b7_PGRGTYK6Bas8423MBxi2B5vY/310x430/cc7833d3.webp?s=0ad60bbbf1445d695fb356d737a77d0779ee058c",
+    "addedAt": "2026-09-01T21:00:01.506Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nDiscrete·PlayStation·Caricato un minuto fa\n\n10,00 €\n\n11,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPlayStation usada\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 68.8
   }
 ]
