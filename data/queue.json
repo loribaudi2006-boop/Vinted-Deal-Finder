@@ -13400,5 +13400,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9854336766",
+    "category": "Console",
+    "title": "Xbox One S inkl Controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9854336766-xbox-one-s-inkl-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_001ee_KQ2eJMMsgM9bxU27B9xzekJg/310x430/5b509f74.webp?s=19e1a57182257a8ca0269fae1af2a3288acf9bce",
+    "addedAt": "2026-09-01T13:55:54.133Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9854358967",
+    "category": "Console",
+    "title": "Un mando de ps4",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9854358967-un-mando-de-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00695_vVsUqmGzzEdJoyDdvEwp83tk/310x430/b1a05542.webp?s=a89cf5af5dd34d40155e42d6f4364a23c370dbd0",
+    "addedAt": "2026-09-01T13:58:00.108Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-17.95€, sotto soglia"
   }
 ]
