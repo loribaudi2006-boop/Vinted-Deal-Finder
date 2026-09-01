@@ -14288,5 +14288,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-12.2€, sotto soglia"
+  },
+  {
+    "id": "9860067778",
+    "category": "Console",
+    "title": "Nintendo switch rouge et bleu",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860067778-nintendo-switch-rouge-et-bleu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013ef_YPX191yx8pTXacMKVXvnDeQ4/310x430/a00463bf.webp?s=99377b181c180ed129acef024ace440ed42f24a4",
+    "addedAt": "2026-09-01T23:51:27.181Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
