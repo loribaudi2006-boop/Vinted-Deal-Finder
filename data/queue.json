@@ -12207,5 +12207,18 @@
     "addedAt": "2026-09-01T01:44:36.725Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9849788858",
+    "category": "Console",
+    "title": "cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9849788858-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01530_a1bhaFBHcrJX9eMRHXHesE1g/310x430/7e0619f7.webp?s=801ebae6f56e01762f587487573034d63ccb7d6e",
+    "addedAt": "2026-09-01T02:05:29.210Z",
+    "processed": false,
+    "triaged": false
   }
 ]
