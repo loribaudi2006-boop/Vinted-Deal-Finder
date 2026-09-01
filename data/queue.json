@@ -12140,5 +12140,20 @@
     "geminiFault": "Tiene un pixel muerto en la pantalla",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.05
+  },
+  {
+    "id": "9850635558",
+    "category": "Console",
+    "title": "Nintendo Switch Lite bleu avec protection",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9850635558-nintendo-switch-lite-bleu-avec-protection?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a3e_u7JfMbzXRJnkDvNznALFQXBN/310x430/bb67571f.webp?s=f9921280ffc6ded79545231026834c4a3044e0f4",
+    "addedAt": "2026-09-01T07:46:08.021Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
