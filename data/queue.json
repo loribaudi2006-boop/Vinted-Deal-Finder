@@ -14393,5 +14393,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 68.8
+  },
+  {
+    "id": "9859398246",
+    "category": "Console",
+    "title": "Switch Tasche",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9859398246-switch-tasche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_002c5_XHwgoZiuyJoXPwN638FppbTz/310x430/fed23e57.webp?s=43117f13d538bc9d9bdadd15b534b612cb897b86",
+    "addedAt": "2026-09-01T21:07:21.666Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~9.2€, sotto soglia"
   }
 ]
