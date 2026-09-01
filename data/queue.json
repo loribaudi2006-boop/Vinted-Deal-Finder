@@ -14117,5 +14117,48 @@
     "geminiFault": "Il tasto B del secondo controller richiede pressione decisa per funzionare",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 68.8
+  },
+  {
+    "id": "9845390164",
+    "category": "Console",
+    "title": "Dual usb switch 2",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9845390164-dual-usb-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026cc_iS9cD9QyiRxjnJuDA96fH9ny/310x430/f1f7778b.webp?s=aabe6d74b938321e13d226023ab40ddb8f879fd2",
+    "addedAt": "2026-09-01T20:05:21.950Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13.3€, sotto soglia"
+  },
+  {
+    "id": "9858942249",
+    "category": "Console",
+    "title": "Cover black ps5 Fat",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9858942249-cover-black-ps5-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01570_JeBFJ8hU5PZ4RyEgNLHzJ81C/310x430/96b7f360.webp?s=cf74832f8e49dbe302f92b64458313c64e5679b4",
+    "addedAt": "2026-09-01T20:10:38.290Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10.2€, sotto soglia"
+  },
+  {
+    "id": "9858964612",
+    "category": "Console",
+    "title": "Console Ps5 standard",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9858964612-console-ps5-standard?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a02_uUhG2H379V1DM32msSVXM8TU/310x430/a5ce7f71.webp?s=32e0884cbd2192e06f7739d6c1d0434fec58c6f7",
+    "addedAt": "2026-09-01T20:12:43.789Z",
+    "processed": false,
+    "triaged": false
   }
 ]
