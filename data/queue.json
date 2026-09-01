@@ -12269,5 +12269,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "9851024841",
+    "category": "Console",
+    "title": "Mad bullets kit (jeu nintendo switch + 2 pistolets)",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9851024841-mad-bullets-kit-jeu-nintendo-switch-2-pistolets?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004bd_HdCPoTk4esqTAaJr8fbHoD96/310x430/1abf5979.webp?s=0670a44f176782b97094de738a91f324dee506d4",
+    "addedAt": "2026-09-01T08:40:30.970Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.6€, sotto soglia"
+  },
+  {
+    "id": "9851032855",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9851032855-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00423_hqzh23qgXZ57q6weFCfv9ZDo/310x430/0a1f2ae4.webp?s=b952d8ad76ba9cdf1ccd22259295a0a3885653f0",
+    "addedAt": "2026-09-01T08:41:33.755Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nController non originale e senza cavo per la ricarica mai aperta / mai pulita ancora con il sigillo per il resto perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller non originale e senza cavo per la ricarica, mai aperta / mai pulita (sigillo integro)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
   }
 ]
