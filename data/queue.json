@@ -1,35 +1,5 @@
 [
   {
-    "id": "9802765577",
-    "category": "Console",
-    "title": "PS4 slim",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9802765577-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01caf_vHggmMLchjP8zTztqLeh6zE7/310x430/e3449a7d.webp?s=640719778088c7aefbf6da3bfa66b9eb3a465bac",
-    "addedAt": "2026-08-28T06:48:52.068Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9802758072",
-    "category": "Console",
-    "title": "PS4 - gameconsole",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9802758072-ps4-gameconsole?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01959_N7MhmBQrUu6vkDQJsSLDoKxo/310x430/9ed39f3d.webp?s=55f9e464be60e60ebb14f2ad0d2e955fecb7dbfa",
-    "addedAt": "2026-08-28T06:48:52.069Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9805765900",
     "category": "Console",
     "title": "Scatola VUOTA ps5 slim  ottime condizioni",
@@ -12083,5 +12053,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-5€, sotto soglia"
+  },
+  {
+    "id": "9850367996",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9850367996-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_023a9_QbDWByGfn1WyP5FZ2cjESjrQ/310x430/412fab32.webp?s=1f76b9f4f3583fa58743bb120dcf806aa2121dbc",
+    "addedAt": "2026-09-01T06:53:59.668Z",
+    "processed": false,
+    "triaged": false
   }
 ]
