@@ -12188,5 +12188,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.05
+  },
+  {
+    "id": "9850742003",
+    "category": "Console",
+    "title": "Xbox One S 1tb",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9850742003-xbox-one-s-1tb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01832_BUnkj8bhE7NCAnpynZAksutG/310x430/fcd2e2b3.webp?s=934b3cc19ec20f00c023fbc6464f066ab32edea6",
+    "addedAt": "2026-09-01T08:02:51.642Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
