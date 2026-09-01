@@ -14255,5 +14255,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "9860020404",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860020404-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02579_4JnKGHh6tuj3tCbGozw2bZZj/310x430/c6ca3ae6.webp?s=271f5c4e831f71943d72b95da8e3b5662740ca1f",
+    "addedAt": "2026-09-01T23:33:42.087Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nvendo , ha vari difetti\nnon conette alla tv ( o al meno per quanto ci abbia provato )\nmanca un po’ di plastica dove esce la ventilazione ( vedi foto)\nha una case non originale ( trasparente)\ndunque la console funziona , legge giochi riconosce i controller ed é utilizzabile\nper chi vuole solo giocare in portatile o vuole ripararla ?\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non si connette alla TV, manca pezzo di plastica sulla ventola, scocca non originale trasparente",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.55
+  },
+  {
+    "id": "9860023020",
+    "category": "Console",
+    "title": "Caja Nintendo Switch 2 + Grip y correas",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860023020-caja-nintendo-switch-2-grip-y-correas?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01993_6U26LpYPWsDburCRKzcKmSR3/310x430/02c45dd0.webp?s=1798fc65a73b21dc149bddfecb76e16e907b346f",
+    "addedAt": "2026-09-01T23:34:45.760Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12.2€, sotto soglia"
   }
 ]
