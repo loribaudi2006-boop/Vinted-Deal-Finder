@@ -12716,5 +12716,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.55
+  },
+  {
+    "id": "9851838882",
+    "category": "Console",
+    "title": "Soul Calibur VI 6 - Collector's Edition Xbox no PS4 PS5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9851838882-soul-calibur-vi-6-collectors-edition-xbox-no-ps4-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00e6a_AV3zqoHCgBDSWjsdXTN5M87w/310x430/eaf1917e.webp?s=3205bd23f4bfd662984aa90b0e7cc0354055224e",
+    "addedAt": "2026-09-01T10:05:04.024Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSoul Calibur VI 6 - Collector's Edition Xbox no PS4 PS5\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nTutto presente come fosse uscita dal negozio.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "9851847129",
+    "category": "Console",
+    "title": "Console Xbox One S + Controller Wireless + Cavi Originali",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9851847129-console-xbox-one-s-controller-wireless-cavi-originali?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b41_8KoEmyYFmKHmVfLZcFmgjw73/310x430/be427db9.webp?s=b871f81f922385c4c7b6275632834637489244f0",
+    "addedAt": "2026-09-01T10:06:07.326Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.8€, sotto soglia"
   }
 ]
