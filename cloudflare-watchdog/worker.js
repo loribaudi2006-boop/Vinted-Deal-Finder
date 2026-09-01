@@ -69,27 +69,39 @@ async function dispatch(env) {
 }
 
 async function check(env) {
-  const r = await gh(env, `actions/workflows/${WORKFLOW}/runs?per_page=5`);
+  // per_page alto: quando GitHub e' lento accumula parecchi dispatch in coda che
+  // vengono cancellati subito dalla "concurrency"; il job VERO che gira puo' finire
+  // parecchie posizioni piu' in basso. Guardare solo runs[0] faceva credere il bot
+  // morto ad ogni giro -> valanga di "fermo da ~9 min, riavvio fatto" (2026-09-01).
+  const r = await gh(env, `actions/workflows/${WORKFLOW}/runs?per_page=20`);
   if (!r.ok) return `errore API runs: ${r.status}`;
   const runs = (await r.json()).workflow_runs || [];
+
+  // Segnale n.1 di "bot vivo": committa data/ ogni ~10 min. Se il commit e' fresco
+  // il bot sta girando, punto e basta - non importa cosa dice la lista dei run.
+  const stall = await stateStaleMinutes(env);
+  if (stall != null && stall < GAP_MIN) {
+    return `vivo: ultimo sync ${Math.round(stall)}m fa, ok`;
+  }
 
   if (!runs.length) {
     const ok = await dispatch(env);
     return `nessun run trovato -> dispatch(${ok})`;
   }
 
-  const latest = runs[0];
-
-  if (latest.status === "queued") return "un run e' in coda, ok";
-
-  if (latest.status === "in_progress") {
+  // C'e' gia' un job attivo (in esecuzione o in coda) da qualche parte nella lista?
+  const active = runs.find(
+    (x) => x.status === "in_progress" || x.status === "queued"
+  );
+  if (active) {
+    if (active.status === "queued") return "un run e' in coda, ok";
     const runAge =
-      (Date.now() - new Date(latest.run_started_at || latest.created_at).getTime()) / 60000;
-    const stall = await stateStaleMinutes(env);
+      (Date.now() - new Date(active.run_started_at || active.created_at).getTime()) / 60000;
     if (runAge < STALL_MIN || stall == null || stall < STALL_MIN) {
       return `attivo (run ${Math.round(runAge)}m, ultimo sync ${stall == null ? "?" : Math.round(stall) + "m"}), ok`;
     }
-    await gh(env, `actions/runs/${latest.id}/cancel`, { method: "POST" }).catch(() => {});
+    // in esecuzione da un po' MA non salva stato da > STALL_MIN -> piantato davvero
+    await gh(env, `actions/runs/${active.id}/cancel`, { method: "POST" }).catch(() => {});
     const ok = await dispatch(env);
     await tg(
       env,
@@ -98,9 +110,17 @@ async function check(env) {
     return `zombie (stall ${Math.round(stall)}m) -> cancel + dispatch(${ok})`;
   }
 
-  // ultimo run completato
+  // Nessun job attivo. Prendi l'ultimo run che ha DAVVERO girato (salta i dispatch
+  // annullati subito dalla concurrency: durata < 60s = non e' mai partito).
+  const ran = (x) => {
+    const secs =
+      (new Date(x.updated_at).getTime() - new Date(x.created_at).getTime()) / 1000;
+    return !(x.conclusion === "cancelled" && secs < 60);
+  };
+  const realRuns = runs.filter(ran);
+  const latest = realRuns[0] || runs[0];
+  const prev = realRuns[1];
   const ageMin = (Date.now() - new Date(latest.updated_at).getTime()) / 60000;
-  const prev = runs[1];
   const realFail = (c) => c === "failure" || c === "startup_failure";
 
   if (realFail(latest.conclusion) && prev && realFail(prev.conclusion)) {
