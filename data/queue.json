@@ -12203,5 +12203,18 @@
     "addedAt": "2026-09-01T02:30:32.439Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9850014482",
+    "category": "Console",
+    "title": "Switch light avec un jeu",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9850014482-switch-light-avec-un-jeu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_002a3_mwJaN29D4RzVvfYiwVPhkUsF/310x430/03e14a6d.webp?s=6a5040c77d202f7b1abec69c396068f3b1fa73a8",
+    "addedAt": "2026-09-01T04:31:06.462Z",
+    "processed": false,
+    "triaged": false
   }
 ]
