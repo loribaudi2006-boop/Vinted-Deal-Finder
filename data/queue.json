@@ -12064,7 +12064,27 @@
     "url": "https://www.vinted.it/items/9850367996-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_023a9_QbDWByGfn1WyP5FZ2cjESjrQ/310x430/412fab32.webp?s=1f76b9f4f3583fa58743bb120dcf806aa2121dbc",
     "addedAt": "2026-09-01T06:53:59.668Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9850418934",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9850418934-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010c4_5ocwztd2BV3ub22PNCEA4zUL/310x430/afa37a03.webp?s=85c829148d2674d60fbc69c0e1d9c7d6f652f5ed",
+    "addedAt": "2026-09-01T07:05:29.557Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlaystation 4 slim 1TB\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
