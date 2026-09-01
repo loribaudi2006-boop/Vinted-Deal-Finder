@@ -1,38 +1,5 @@
 [
   {
-    "id": "9802643182",
-    "category": "Console",
-    "title": "Nintendo Switch lite",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9802643182-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_011e4_mPgz9ccRsfKXukzyotHFNGtK/310x430/c3bd864b.webp?s=9e88ab1294692dd37b31a25310a549f06079610d",
-    "addedAt": "2026-08-28T06:17:52.004Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch lite\nBuone·Nintendo·Caricato 15 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n15 min fa\nperfettamente funzionante solo danni estetici\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "danni estetici",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
-    "id": "9802666136",
-    "category": "Console",
-    "title": "Support ps4",
-    "price": 22,
-    "totalPrice": 23.8,
-    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9802666136-support-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00815_rKrHaCPNt3wNEdWMUGCxhgXu/310x430/68798c2a.webp?s=0a8c6ba3ff7f7042c4d68eac3ef1ed0a1218cdf9",
-    "addedAt": "2026-08-28T06:24:03.891Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.8€, sotto soglia"
-  },
-  {
     "id": "9802683702",
     "category": "Console",
     "title": "Ps4 slim",
@@ -12143,6 +12110,19 @@
     "url": "https://www.vinted.it/items/9849280867-xbox-series-x?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00b1f_Sa9y6E5LaS2zcXMQLsUNKBUo/310x430/25f9fb18.webp?s=9d9501da856b54d03f181f38806e907fdb8b54dc",
     "addedAt": "2026-09-01T05:21:03.247Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9850266804",
+    "category": "Console",
+    "title": "Cubiertas PS5 Cosmic Red",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9850266804-cubiertas-ps5-cosmic-red?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f15_bVzH3oNCaf78hcf6ajvdAqMS/310x430/20c426ad.webp?s=aa294bfa00c12de8c4bf6ea13f3ba00f957f3332",
+    "addedAt": "2026-09-01T06:26:50.733Z",
     "processed": false,
     "triaged": false
   }
