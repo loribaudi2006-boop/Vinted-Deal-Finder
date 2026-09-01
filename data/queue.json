@@ -12203,5 +12203,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9850837616",
+    "category": "Console",
+    "title": "Poignet pour switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9850837616-poignet-pour-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00abf_dRyQF9PWH2jNNg39E5rud7bz/310x430/5ea66b8e.webp?s=6f175cf31ca65a7dbbeee7077fb26693899960c1",
+    "addedAt": "2026-09-01T08:16:27.924Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.95€, sotto soglia"
   }
 ]
