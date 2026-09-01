@@ -12,6 +12,14 @@
 set -uo pipefail
 cd "$(dirname "$0")"
 
+# Il runner GitHub non ha un'identita' git globale. Senza questa, "git pull --rebase"
+# fallisce con "fatal: empty ident name not allowed" NON appena deve ribasare davvero
+# (cioe' quando nel frattempo e' stato pushato del codice) -> lo stato smette di
+# salvarsi per il resto del job (bug del 2026-09-01). I -c sui singoli commit non
+# bastano: e' il rebase interno al pull che ha bisogno dell'identita'.
+git config --global user.name "vinted-bot"
+git config --global user.email "bot@users.noreply.github.com"
+
 DURATION_SECONDS=$((5 * 3600 + 50 * 60))
 END_TIME=$(($(date +%s) + DURATION_SECONDS))
 
