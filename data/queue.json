@@ -12875,5 +12875,53 @@
     "geminiFault": "una delle manette ha la freccia del basso non funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "9852092633",
+    "category": "Console",
+    "title": "Switch controllers en hoes",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9852092633-switch-controllers-en-hoes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020a4_66zzDqYD1hMYTmyCowK98wEu/310x430/fc895e62.webp?s=05d9bfd36858bf9439d35f35bff57642c9e378ae",
+    "addedAt": "2026-09-01T10:30:11.709Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.8€, sotto soglia"
+  },
+  {
+    "id": "9852087620",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9852087620-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02474_U5AEw5FRQV3HwsetMSyawuzw/310x430/38695c91.webp?s=067ca63d659cca2a123e48a04fd13796a3155adf",
+    "addedAt": "2026-09-01T10:30:11.709Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9852128200",
+    "category": "Console",
+    "title": "Xbox One nera",
+    "price": 32.5,
+    "totalPrice": 34.83,
+    "reason": "prezzo 68% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9852128200-xbox-one-nera?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d44_p7LmdvAs24wxzNKe7tECC5ks/310x430/9cb2f6d4.webp?s=3bc65cd54706ca741c38cfa1f3dc1f29b8a50d04",
+    "addedAt": "2026-09-01T10:33:20.019Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One nera\nOttime·Xbox·Caricato proprio adesso\n\n32,50 €\n\n34,83 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nBellissima Xbox nera usata ma in ottime condizioni.\nChiedete per altre foto, info o altro...\nSpedizione sicura e veloce in 48 h\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.17
   }
 ]
