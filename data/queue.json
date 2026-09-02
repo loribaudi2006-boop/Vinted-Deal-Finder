@@ -16069,7 +16069,39 @@
     "url": "https://www.vinted.it/items/9865836751-playstation-5-compresa-di-3-joystick-e-valigia-porta-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_009ef_zy25LmwK2hnXJUXKESTpECVz/310x430/97fd2a45.webp?s=843134dca064897610353c9efc568b5b25eaf819",
     "addedAt": "2026-09-02T14:46:45.066Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9865870661",
+    "category": "Console",
+    "title": "Carcasa edición 30 Aniversario para Consola Sony PS5 FAT con LECTOR",
+    "price": 44.95,
+    "totalPrice": 47.9,
+    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9865870661-carcasa-edicion-30-aniversario-para-consola-sony-ps5-fat-con-lector?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_012a3_5eSaHvbDzqdhPrUGZSqgsiwb/310x430/73e35242.webp?s=56ae9f7c94ead38db49c8b384c38d0326afe1df9",
+    "addedAt": "2026-09-02T14:49:53.358Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "9865900116",
+    "category": "Console",
+    "title": "Xbox One s 500 GB bianca console e cavi",
+    "price": 54.9,
+    "totalPrice": 58.35,
+    "reason": "prezzo 45% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9865900116-xbox-one-s-500-gb-bianca-console-e-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_021f2_1ru1pi17zhzDUd6nw5Zd5UNg/310x430/1892fb55.webp?s=c91c7e075be8eeab6075327f196d868964231ad1",
+    "addedAt": "2026-09-02T14:51:58.699Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
