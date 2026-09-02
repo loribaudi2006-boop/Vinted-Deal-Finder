@@ -14600,5 +14600,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 75
+  },
+  {
+    "id": "9862336848",
+    "category": "Console",
+    "title": "Soporte nintendo switch y soporte de mandos",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9862336848-soporte-nintendo-switch-y-soporte-de-mandos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_006ca_nYyfXiS3z38DsFyZ2N4a4oLL/310x430/07e73ade.webp?s=2d2b10081343dd24ca41f3287a1bf8e53246322e",
+    "addedAt": "2026-09-02T09:44:21.104Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13€, sotto soglia"
+  },
+  {
+    "id": "9862371027",
+    "category": "Console",
+    "title": "Playstation 4 + joystick",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9862371027-playstation-4-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00eeb_BBvKNi3kpRozED6Z7822HbpN/310x430/61fc8b7a.webp?s=63697dfed3b686a537bdd087f399d2d533758fec",
+    "addedAt": "2026-09-02T09:47:29.218Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "iffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 + joystick\nOttime·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nIn piu con la stessa console arrivano 2 giochi ,che sono:\nGTA 5\nCOD infinity warfare\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
+  },
+  {
+    "id": "9862379260",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9862379260-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02381_FNYGKYgfCDM1W23as94Rr1XL/310x430/4149e252.webp?s=f85c95f97fa38275b47b528c85dd2796e589d71a",
+    "addedAt": "2026-09-02T09:48:31.657Z",
+    "processed": false,
+    "triaged": false
   }
 ]
