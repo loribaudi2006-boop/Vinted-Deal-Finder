@@ -14912,5 +14912,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 79.95
+  },
+  {
+    "id": "9862822886",
+    "category": "Console",
+    "title": "Gioistik ps4",
+    "price": 27,
+    "totalPrice": 29.05,
+    "reason": "prezzo 79% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9862822886-gioistik-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f6d_P4UtUVWaQWrp8idTTFNgzfiK/310x430/c5716e0d.webp?s=4b9de130a289f9572fd6c8386cc4b7a8636e37f4",
+    "addedAt": "2026-09-02T10:31:23.702Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0.95€, sotto soglia"
+  },
+  {
+    "id": "9862832775",
+    "category": "Console",
+    "title": "Poche de switch",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9862832775-poche-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02626_2Dx45cWJoMNqBqYzCHmhLPk8/310x430/2a5090c3.webp?s=17c39ace215fc4e59721a3974ee90443a765e2bd",
+    "addedAt": "2026-09-02T10:32:26.054Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.85€, sotto soglia"
   }
 ]
