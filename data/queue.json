@@ -1,20 +1,5 @@
 [
   {
-    "id": "9812603357",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9812603357-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0058f_HSwKpFyxpvrziCqP2WEgkozn/310x430/2d872d03.webp?s=857ba55f5927b11e8224fb2b8b01f977c6de2328",
-    "addedAt": "2026-08-29T04:43:02.487Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9812623079",
     "category": "Console",
     "title": "Nintendo Switch inklusive Zubehör",
@@ -14412,6 +14397,19 @@
     "url": "https://www.vinted.it/items/9860570668-scatola-vuota-ps5-slim-ottime-condizioni?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b4f_JiGPrBb34QRph1ofJYoAXRbr/310x430/d9053391.webp?s=ba926517c46d3c4f4f1c29d29b21d84fcffb2151",
     "addedAt": "2026-09-02T04:17:55.876Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9860609921",
+    "category": "Console",
+    "title": "Ps4 sin mando",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9860609921-ps4-sin-mando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015eb_fAyAz5vcqRmEQ1VVDXVYt8YW/310x430/9973f9e8.webp?s=af7d38db782cb0cbba0d2bb74f494c9f1cda38a3",
+    "addedAt": "2026-09-02T04:41:55.149Z",
     "processed": false,
     "triaged": false
   }
