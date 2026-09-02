@@ -1,20 +1,5 @@
 [
   {
-    "id": "9813738969",
-    "category": "Console",
-    "title": "Xbox One S + manette",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9813738969-xbox-one-s-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01d8c_LQ5zbokMb6FYZ1RWBDKpsr38/310x430/ca2cecec.webp?s=ac94fdbe04f19d2eb5ba22aaabed97d7ba3081b3",
-    "addedAt": "2026-08-29T08:43:26.377Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.8€, sotto soglia"
-  },
-  {
     "id": "9813809788",
     "category": "Console",
     "title": "Ps4 slim mit controller",
@@ -14513,5 +14498,41 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 48.9
+  },
+  {
+    "id": "9861716603",
+    "category": "Console",
+    "title": "Ps4 pour pièces",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9861716603-ps4-pour-pieces?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01295_nwdqmCxPKfavvgmkAYENGuWu/310x430/ba8490ab.webp?s=8f188f3f14b56088156f3d272794e00ddc6dd1e0",
+    "addedAt": "2026-09-02T08:41:36.174Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 pour pièces\nBuone·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nAucune idée si elle fonctionne stoker depuis un bon moment\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Aucune idée si elle fonctionne stoker depuis un bon moment",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 38.05
+  },
+  {
+    "id": "9861772654",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9861772654-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01598_E3n8Q9Q2TCNwh4Rxy7A33LAB/310x430/628776b1.webp?s=7cf1e81cc7f4d40648853df418c19bdef1a11667",
+    "addedAt": "2026-09-02T08:46:48.490Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo per inutilizzo Nintendo switch con modifica, funziona sia in modalità custom firmware ( da aggiornare per farlo funzionare ) che normale.\n\nPresenta segni di usura come nelle foto, viene venduta con dock station, cavo HDMI, carica batterie originale, scatola originale e un paio di joycon in più.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni di usura, custom firmware da aggiornare",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.55
   }
 ]
