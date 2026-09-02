@@ -16034,5 +16034,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9870769297",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 82% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9870769297-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00af0_JrfQcWhEHn4455p1GKhqFJvK/310x430/015c1802.webp?s=347faec90492456851f27af902b43471a0385b98",
+    "addedAt": "2026-09-02T23:13:37.613Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nNuovo senza cartellino·Sony·Caricato un minuto fa\n\n23,00 €\n\n24,85 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nCome nuova\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 75.15
   }
 ]
