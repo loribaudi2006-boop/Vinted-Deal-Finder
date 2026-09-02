@@ -15788,5 +15788,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9870473622",
+    "category": "Console",
+    "title": "Slim ps4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9870473622-slim-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01563_z1x43M14MTFc5c6dcPCYkjvy/310x430/82e57cf3.webp?s=05642ef0b29b2fc5e2f8432ad0e538ce1f838054",
+    "addedAt": "2026-09-02T21:54:26.346Z",
+    "processed": false,
+    "triaged": false
   }
 ]
