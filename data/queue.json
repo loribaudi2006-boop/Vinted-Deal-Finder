@@ -15818,5 +15818,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.65€, sotto soglia"
+  },
+  {
+    "id": "9870529176",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9870529176-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cfc_sfdGvBgocSELoekAR6AghMoA/310x430/d8f02024.webp?s=d60c22dfdbb8f82d14f03917a732ca7909c7a760",
+    "addedAt": "2026-09-02T22:05:53.744Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSwitch lite\nBon état ✅\nAucun défaut mise à part les caoutchouc qui son enlevée sur les joy stick ❌\nEnvoi rapide et soigné ⚡️📦\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "gommini degli stick analogici mancanti",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "9870527859",
+    "category": "Console",
+    "title": "Scheda madre Nintendo switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9870527859-scheda-madre-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00cdc_FdFMhBpjzARccWVvVqQc8mmb/310x430/1575f6f1.webp?s=75259c60d22b81c30578e26ce157fec96910445f",
+    "addedAt": "2026-09-02T22:05:53.744Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\n+ 12\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nScheda madre Nintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nLa scheda madre è funzionante, lo schermo è rovinato e non so se funziona, manca la rotaia destra (motivo per cui non si accende) tutto ciò che è in foto è presente nell'ordine\nPer informazioni chiedete pure 😉\nSe chiedete posso abbassare il prezzo di spedizione\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Schermo rovinato (funzionamento incerto), manca la rotaia destra (motivo per cui non si accende)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.05
   }
 ]
