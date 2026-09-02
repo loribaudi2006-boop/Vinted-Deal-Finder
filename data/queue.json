@@ -14324,5 +14324,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "9860138679",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860138679-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d80_XUWpjLf4vro2qPvC2RGvLiMQ/310x430/5cb5f07b.webp?s=83eb5b6420fb0d9c5ab3110832dbb19ccde82d2a",
+    "addedAt": "2026-09-02T00:19:41.435Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch\nOttime·Nintendo Switch·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsole complète en très bon état, avec tous ses accessoires (le câble HDMI n'est pas officiel mais tout à fait fonctionnel)\nJe fournis en plus une housse et une station de charge\nBien qu'il s'agisse de la première génération ce n'est pas un modèle modifiable, ne pas acheter dans ce but\n... altro\nSpedizione\n9,49 €",
+    "geminiFault": "Cavo HDMI non originale",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 65.25
   }
 ]
