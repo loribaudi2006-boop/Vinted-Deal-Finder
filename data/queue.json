@@ -14390,5 +14390,18 @@
     "geminiFault": "le lecteur cd ne fonctionne plus la mise à jour ne veut pas ce faire",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.5
+  },
+  {
+    "id": "9860465875",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9860465875-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00267_a5qpi3h1cmhEnpPjHrZCL8Wp/310x430/5752be9a.webp?s=b4662bbdda7e332566bbdeaf0a3fb50002d7c544",
+    "addedAt": "2026-09-02T03:02:38.241Z",
+    "processed": false,
+    "triaged": false
   }
 ]
