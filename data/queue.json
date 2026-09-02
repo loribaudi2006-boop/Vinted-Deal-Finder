@@ -1,20 +1,5 @@
 [
   {
-    "id": "9812693281",
-    "category": "Console",
-    "title": "Support Console / Support PS5 pour PlayStation Portal",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9812693281-support-console-support-ps5-pour-playstation-portal?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01030_9ybL3tSAjWC1aXMmd3nPEJ7Z/310x430/dd9841eb.webp?s=4633075f3c260f67850601958e9536efb2d19215",
-    "addedAt": "2026-08-29T05:38:54.645Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5.9€, sotto soglia"
-  },
-  {
     "id": "9812774659",
     "category": "Console",
     "title": "Xbox one series X cover",
@@ -14440,6 +14425,19 @@
     "url": "https://www.vinted.it/items/9849208661-lot-switch-neuf?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0185a_Ygs6ogJNLSvyxHGQ4BEgUrfN/310x430/e5138579.webp?s=ec1f686636efd8de618b8f23729158b2c78c531e",
     "addedAt": "2026-09-02T05:21:36.378Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9860717067",
+    "category": "Console",
+    "title": "Xbox One 500gb Schwarz",
+    "price": 18,
+    "totalPrice": 19.6,
+    "reason": "prezzo 82% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9860717067-xbox-one-500gb-schwarz?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0147b_bqiMpDFa9zTcCKbPiasYJme7/310x430/aa1f3acd.webp?s=278240ca195403e4618437eed8525f95cd4358c7",
+    "addedAt": "2026-09-02T05:36:14.449Z",
     "processed": false,
     "triaged": false
   }
