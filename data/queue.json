@@ -14692,8 +14692,10 @@
     "url": "https://www.vinted.it/items/9862436406-scocche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0174d_xA5d1Zfr7oarPN4yfprmwRxq/310x430/8e0542a8.webp?s=a6ec2393acdbfbdf320c1e725415daf33562a781",
     "addedAt": "2026-09-02T09:53:45.900Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13.5€, sotto soglia"
   },
   {
     "id": "9862453291",
@@ -14720,8 +14722,10 @@
     "url": "https://www.vinted.it/items/9862479247-pochette-switch-stitch-en-cuir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_001a1_2W2Pd6QLC83A1yXeRDHA2FFT/310x430/52e17dd8.webp?s=e5eb639438b253ab766d0011643ff19a7d0e7700",
     "addedAt": "2026-09-02T09:57:56.373Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
   },
   {
     "id": "9862477825",
@@ -14733,7 +14737,60 @@
     "url": "https://www.vinted.it/items/9862477825-carcasa-protectora-con-diseno-de-balon-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_007c6_y3BJBqbEL9eYE2wRr6gYz3K2/310x430/644e81f7.webp?s=3caa1021efb889cefbdce09aa84828acb9d9478b",
     "addedAt": "2026-09-02T09:57:56.373Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
+  },
+  {
+    "id": "9862538346",
+    "category": "Console",
+    "title": "Console ps4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9862538346-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e67_M1aJ8UoVVM4gUF9ZKiNSw8Fy/310x430/82c77ec2.webp?s=1c030a4afa43e356a3ff543dd31a2970875a057e",
+    "addedAt": "2026-09-02T10:03:09.398Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nConsole ps4 fonctionne parfaitement, bien entretenu régulièrement nettoyer.\nAvec tous les câbles.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9862556919",
+    "category": "Console",
+    "title": "Xbox original per pezzi",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/9862556919-xbox-original-per-pezzi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00788_DmMJuQSL5LCnUq8XCm13vy4A/310x430/e163279d.webp?s=138f4cd4ecaa769cbbab94b19b7be6791c5f5d7d",
+    "addedAt": "2026-09-02T10:05:14.606Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.8€, sotto soglia"
+  },
+  {
+    "id": "9862553327",
+    "category": "Console",
+    "title": "Nintendo Switch lite",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9862553327-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02149_bmTUfp3y43JD4ofgzdEPs3vB/310x430/517f7492.webp?s=eaf9e94a3a9c311289e8f80aa3cc7159cadc3a7a",
+    "addedAt": "2026-09-02T10:05:14.606Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch lite\nOttime·Nintendo·Caricato 2 min fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nNintendo switch azul\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 93.25
   }
 ]
