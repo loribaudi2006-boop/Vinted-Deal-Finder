@@ -15269,5 +15269,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.25€, sotto soglia"
+  },
+  {
+    "id": "9863453057",
+    "category": "Console",
+    "title": "Jeu switch fifa 23",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9863453057-jeu-switch-fifa-23?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01e40_3K4HS8PvRfBrqArXamBhNegb/310x430/2aee2792.webp?s=9c3ce42542064c362c20548763faecb8131ca424",
+    "addedAt": "2026-09-02T11:31:05.164Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "9863449253",
+    "category": "Console",
+    "title": "console PS4 Pro Blanche 1To - Très bon état",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 81% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/9863449253-console-ps4-pro-blanche-1to-tres-bon-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_009c5_wugsVmH17uqLjYeJMKcP8Q5F/310x430/aa2ae502.webp?s=c99d68bc6e5bc19ba9f26453dae6302b94a05e30",
+    "addedAt": "2026-09-02T11:31:05.165Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nconsole PS4 Pro Blanche 1To - Très bon état\nOttime·PlayStation·Caricato 2 min fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nJe vends ma console Sony PlayStation 4 Pro (PS4 Pro) de couleur blanche (modèle Glacier White). C'est le modèle le plus puissant de la gamme PS4.\n​Je l'ai utilisée quelques fois et elle est en très bon état de fonctionnement. Elle sera bien évidemment réinitialisée en mode d'usine pour la vente, prête pour son nouveau propriétaire. La console est propre, même si un léger dépoussiérage peut être nécessaire au niveau des aérations (visible sur les photos)\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 102.55
+  },
+  {
+    "id": "9862371784",
+    "category": "Console",
+    "title": "Caja nintendo switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9862371784-caja-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cfb_bsrbd2qGKTLDwnFcLw46q7yT/310x430/81d70dad.webp?s=1b69bf3a5bfc72fa34abdc5f1265854db7618878",
+    "addedAt": "2026-09-02T11:34:13.738Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
