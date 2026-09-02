@@ -14429,5 +14429,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9849208661",
+    "category": "Console",
+    "title": "Lot Switch neuf",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9849208661-lot-switch-neuf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0185a_Ygs6ogJNLSvyxHGQ4BEgUrfN/310x430/e5138579.webp?s=ec1f686636efd8de618b8f23729158b2c78c531e",
+    "addedAt": "2026-09-02T05:21:36.378Z",
+    "processed": false,
+    "triaged": false
   }
 ]
