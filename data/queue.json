@@ -15901,7 +15901,30 @@
     "url": "https://www.vinted.it/items/9869342319-ps4-com-um-comando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02610_eAZZbyjr4WkYhL2ofmvHc5J9/310x430/79acebdc.webp?s=c1e20c1aa843f8da548ac70ca82fd8d6b5b8a04e",
     "addedAt": "2026-09-02T19:27:43.174Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "li griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 com um comando\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nAinda funciona bem\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9869367353",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 61.5,
+    "totalPrice": 65.28,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9869367353-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fce_gkg1STZXFKAAr3ZSvSdfeYXT/310x430/5c6233df.webp?s=9c75358659cbbd2177b23fd5d6038f610c284c0f",
+    "addedAt": "2026-09-02T19:29:48.560Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n61,50 €\n\n65,28 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nWerkt perfect heb een nieuwe gekocht vandaar dat ik hem verkoop\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
