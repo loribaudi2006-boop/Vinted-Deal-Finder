@@ -15470,5 +15470,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-0.7€, sotto soglia"
+  },
+  {
+    "id": "9863770290",
+    "category": "Console",
+    "title": "Ps5 usb cooling fan",
+    "price": 14.99,
+    "totalPrice": 16.44,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9863770290-ps5-usb-cooling-fan?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00321_muCiZFzGXqXTe9tE9kAaXa7s/310x430/d91d8e20.webp?s=b3b04f0c7a6024ff4ffde045b9b754a599a03c7a",
+    "addedAt": "2026-09-02T11:59:18.305Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.44€, sotto soglia"
+  },
+  {
+    "id": "9863862718",
+    "category": "Console",
+    "title": "PlayStation 4 (PS4)",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9863862718-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02447_1AdebetaNjSKiq9wZSE6TEzD/310x430/b4d8003c.webp?s=41b97ab46f70c18d4332919ca391ee8df066edad",
+    "addedAt": "2026-09-02T12:07:40.204Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.05€, sotto soglia"
   }
 ]
