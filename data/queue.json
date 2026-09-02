@@ -14324,5 +14324,38 @@
     "geminiFault": "Cavo HDMI non originale",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 65.25
+  },
+  {
+    "id": "9860172579",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860172579-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00576_n8vb8X6Ktb6V17NVZWQqowy8/310x430/0c7f60cf.webp?s=8d7ef30442f2d2e741a440ff4e09d769579d6a10",
+    "addedAt": "2026-09-02T00:34:17.906Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo Switch·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends cette Nintendo Switch V1 noire, accompagnée d'une manette Pro Controller personnalisée aux couleurs bleu et rouge. Console fonctionnelle et prête à jouer\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "9860181715",
+    "category": "Console",
+    "title": "Alimentatore Originale Xbox One (Fat) + Cavo - Testato e Funzionante",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 87% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9860181715-alimentatore-originale-xbox-one-fat-cavo-testato-e-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_013cf_RVmNfZtWtgmhhQTnx2eL96LV/310x430/36b3dc95.webp?s=1c767637dac971dfdf08923c9ad9636f7b4d6bf1",
+    "addedAt": "2026-09-02T00:38:28.325Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.65€, sotto soglia"
   }
 ]
