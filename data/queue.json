@@ -1,20 +1,5 @@
 [
   {
-    "id": "9812774659",
-    "category": "Console",
-    "title": "Xbox one series X cover",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/9812774659-xbox-one-series-x-cover?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01c8f_nVVj3gsiqpbJQiUAU1ZC8q8J/310x430/69cd0f79.webp?s=e6d06a0cd4d64bd5246e7d7263b7bcd3769cc605",
-    "addedAt": "2026-08-29T06:10:01.627Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "9812810117",
     "category": "Console",
     "title": "Nintendo Switch Docking Station",
@@ -14438,6 +14423,19 @@
     "url": "https://www.vinted.it/items/9860717067-xbox-one-500gb-schwarz?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0147b_bqiMpDFa9zTcCKbPiasYJme7/310x430/aa1f3acd.webp?s=278240ca195403e4618437eed8525f95cd4358c7",
     "addedAt": "2026-09-02T05:36:14.449Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9860784772",
+    "category": "Console",
+    "title": "PSP-1004 non funzionante",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/9860784772-psp-1004-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00603_siCW1tuWEmornK52zmTfvzwd/310x430/78e77a2b.webp?s=0f26ec0258db1ed58327913125b5538c89666881",
+    "addedAt": "2026-09-02T06:01:21.991Z",
     "processed": false,
     "triaged": false
   }
