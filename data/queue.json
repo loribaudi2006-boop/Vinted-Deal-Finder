@@ -15221,5 +15221,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "9863335726",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9863335726-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0139e_TXt1jFnUi5CniSnK8AqmGMn8/310x430/951737b8.webp?s=adb5ca4648c652c780d170b860d0560303ee656a",
+    "addedAt": "2026-09-02T11:20:35.588Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nTenuta molto bene e dotata di scatola originale.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 30
+  },
+  {
+    "id": "9842285586",
+    "category": "Console",
+    "title": "Lot de 2 paires de dragonnes de switch 1",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9842285586-lot-de-2-paires-de-dragonnes-de-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02535_YVH7iWb7Mr4PCqj2pEdaKeuH/310x430/cd2ef370.webp?s=49ed6a9e1922f300cbff57fdf7723e9c585a520f",
+    "addedAt": "2026-09-02T11:26:53.641Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
+  },
+  {
+    "id": "9842502397",
+    "category": "Console",
+    "title": "boite rangement 24 jeux switch.",
+    "price": 11,
+    "totalPrice": 12.25,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9842502397-boite-rangement-24-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01dca_NayLoA1zEgL2igWDyQiAXWmV/310x430/8ebe6964.webp?s=c70c80bcde136cb39f75c737e9d57c049ec99704",
+    "addedAt": "2026-09-02T11:27:56.286Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.25€, sotto soglia"
   }
 ]
