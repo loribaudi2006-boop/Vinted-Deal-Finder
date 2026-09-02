@@ -1,20 +1,5 @@
 [
   {
-    "id": "9822959078",
-    "category": "Console",
-    "title": "Chargeur switch Oled",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 94% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/9822959078-chargeur-switch-oled?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0003c_2aHjySBHCPck7592EzEFSNL9/310x430/7fc01524.webp?s=3ae0337a551f5f2660888aa98fbb462a247a05dd",
-    "addedAt": "2026-08-29T21:07:47.303Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9823870251",
     "category": "Console",
     "title": "Playstation 4",
@@ -15695,5 +15680,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "9870218773",
+    "category": "Console",
+    "title": "Switch + pochette en mousse",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9870218773-switch-pochette-en-mousse?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0135f_SV4NBM7nSho1tfU7bmAhNUwm/310x430/1aabd9f2.webp?s=6a4e68367ca1c7f7c416e172005d3ff1307caa75",
+    "addedAt": "2026-09-02T21:08:33.984Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9870193651",
+    "category": "Console",
+    "title": "Playstation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9870193651-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01613_BCJwviswpTMbtLeBrSNYJCEJ/310x430/e1c25c20.webp?s=f56a221c69e10d675b2a9fdf0fe1f2659da3e1cd",
+    "addedAt": "2026-09-02T21:09:36.487Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
