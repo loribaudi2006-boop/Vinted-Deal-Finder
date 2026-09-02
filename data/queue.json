@@ -14403,5 +14403,18 @@
     "addedAt": "2026-09-02T03:02:38.241Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9860496793",
+    "category": "Console",
+    "title": "Switch V1 - modèle HAC-001",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860496793-switch-v1-modele-hac-001?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_001ae_Xv1qtfyzuifzHisTu42Bzv6C/310x430/9c1e802e.webp?s=86337a892844317cba22be45b4ae40bb3fe8983c",
+    "addedAt": "2026-09-02T03:22:30.820Z",
+    "processed": false,
+    "triaged": false
   }
 ]
