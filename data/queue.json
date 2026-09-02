@@ -1,38 +1,5 @@
 [
   {
-    "id": "9819975098",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9819975098-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01664_9om5JeN8rRxvh9bymzFSP4Xm/310x430/f0c53ac5.webp?s=f39518dba1a95e959ad8bc7e736467534c0b9462",
-    "addedAt": "2026-08-29T16:23:04.020Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlay Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·Play·Caricato 4 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlay\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nPS4 avec câbles – Bon état 🎮🔥\n\nJe vends ma PlayStation 4 avec ses câbles, prête à être utilisée.\n\n🎮 PS4\n🔌 Câbles fournis\n✅ Bon état et fonctionnelle\n🧪 Possibilité de la tester avant l’achat\n\n🕹️ Des manettes PS4 ainsi que plusieurs jeux sont également disponibles sur mon profil si vous souhaitez compléter votre console.\n\nN’hésitez pas à me contacter pour plus d’informations ou de photos !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
-    "id": "9820017543",
-    "category": "Console",
-    "title": "Xbox One Spiele Paket – Crash Bandicoot 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9820017543-xbox-one-spiele-paket-crash-bandicoot-4-cod-black-ops-4-mudrunner-destiny-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00ad2_nt8VqZpTPNjeQGQmYMybYjws/310x430/ecb80b69.webp?s=bbf39bdcf1d24a74205f7878f33dd95700195229",
-    "addedAt": "2026-08-29T16:25:08.543Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-23.2€, sotto soglia"
-  },
-  {
     "id": "9820057341",
     "category": "Console",
     "title": "PlayStation 4 🎮",
@@ -15986,5 +15953,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.2€, sotto soglia"
+  },
+  {
+    "id": "9867081612",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9867081612-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00859_un3JdVDa9KaE5qMEmns6JNE6/310x430/d000e1ae.webp?s=bebad9bd1565f834c14f64eeca29dfd11eff5f42",
+    "addedAt": "2026-09-02T16:19:40.656Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9867172684",
+    "category": "Console",
+    "title": "Ps4 pro colore nero in condizioni usata",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 64% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/9867172684-ps4-pro-colore-nero-in-condizioni-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0134b_MvWMv3aM4MaAUqvAhCJBhEbP/310x430/9eb37f6e.webp?s=1e705bb8e9cada89642d446a98315ba6650dc13f",
+    "addedAt": "2026-09-02T16:26:58.654Z",
+    "processed": false,
+    "triaged": false
   }
 ]
