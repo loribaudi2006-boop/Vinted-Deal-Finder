@@ -16103,5 +16103,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9865257368",
+    "category": "Console",
+    "title": "Une ps5 blanc",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 83% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9865257368-une-ps5-blanc?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_025d0_eqP4v8TvFuf3dcbyw14wSj9A/310x430/5bdf0959.webp?s=972e444c2c4087e63bb869c0b51073fed9c996d2",
+    "addedAt": "2026-09-02T14:57:11.613Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nUne ps5 blanc\nBuone·PlayStation·Caricato un'ora fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nPour jouer\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 250
+  },
+  {
+    "id": "9866035223",
+    "category": "Console",
+    "title": "Manette ps4 + casque",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9866035223-manette-ps4-casque?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00abf_PYoHZ7LPYLaZ17W6MupEyGCU/310x430/6c840880.webp?s=0fe9970a10bcf4783b3308cdb3c94245cdab63df",
+    "addedAt": "2026-09-02T15:02:25.326Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.2€, sotto soglia"
   }
 ]
