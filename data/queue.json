@@ -14567,5 +14567,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9862228403",
+    "category": "Console",
+    "title": "Diverse PS4 Spiele",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 97% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9862228403-diverse-ps4-spiele?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00071_jEDFJ1YGqL9WxFLA9Es5Ecpj/310x430/11295346.webp?s=12c7681c5b2f4bd50c9e4c7899370be514c31baf",
+    "addedAt": "2026-09-02T09:33:53.301Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.1€, sotto soglia"
+  },
+  {
+    "id": "9862238844",
+    "category": "Console",
+    "title": "Vendo Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9862238844-vendo-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d0f_KgXdnrL2EFyhB11BENhWEwZX/310x430/48e7741d.webp?s=6c7a00e8a5af9d68351a44a76781c27b98d7eda6",
+    "addedAt": "2026-09-02T09:34:55.958Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n2\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVendo Nintendo switch\nOttime·Nintendo·Caricato 2 min fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nConsole regalata al compleanno ma usata pochissima in buone condizioni all'interno troverete 2 controller con le apposite basi per ricaricare cavo per collegarla alla TV basetta della console ed il caricatore della console con tre giochi Zelda - Minecraft - ed sports\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 75
   }
 ]
