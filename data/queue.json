@@ -1,20 +1,5 @@
 [
   {
-    "id": "9812810117",
-    "category": "Console",
-    "title": "Nintendo Switch Docking Station",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9812810117-nintendo-switch-docking-station?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_006b9_f3NksN25CKZcomkVQ3ikeDrn/310x430/3ed68350.webp?s=11a525d1f838ff7439b27bb6af5b2ab4f178666f",
-    "addedAt": "2026-08-29T06:20:22.230Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.05€, sotto soglia"
-  },
-  {
     "id": "9812858830",
     "category": "Console",
     "title": "Nintendo Switch  pour pièces ou réparation.",
@@ -14436,6 +14421,32 @@
     "url": "https://www.vinted.it/items/9860784772-psp-1004-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00603_siCW1tuWEmornK52zmTfvzwd/310x430/78e77a2b.webp?s=0f26ec0258db1ed58327913125b5538c89666881",
     "addedAt": "2026-09-02T06:01:21.991Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9860842572",
+    "category": "Console",
+    "title": "Ps4 Slim 1Tb sin mando",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9860842572-ps4-slim-1tb-sin-mando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00fa7_YNa6uqcm3QSEQGzMBDcScbH1/310x430/e92de523.webp?s=d9627728d27402b0e6b2d29c28cb43a7b9b02f1f",
+    "addedAt": "2026-09-02T06:19:06.158Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9860841878",
+    "category": "Console",
+    "title": "Console Sony PlayStation 4",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9860841878-console-sony-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_020f5_ra1J3TzJGq9dWLfA9KPwCrPV/310x430/eb42a56d.webp?s=73d3ad3ea581217a725eee4108bcf454b445318f",
+    "addedAt": "2026-09-02T06:19:06.158Z",
     "processed": false,
     "triaged": false
   }
