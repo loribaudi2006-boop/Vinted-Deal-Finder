@@ -1,65 +1,5 @@
 [
   {
-    "id": "9819194900",
-    "category": "Console",
-    "title": "Nintendo Switch lite Grey",
-    "price": 59.9,
-    "totalPrice": 63.6,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9819194900-nintendo-switch-lite-grey?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b7e_Fh5dSb1SMhgDgPVHnbqd4orH/310x430/619aef52.webp?s=6ac4bef929f2fd953c90aac9736d7bf6d73ef58c",
-    "addedAt": "2026-08-29T15:29:02.527Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
-    "id": "9819265362",
-    "category": "Console",
-    "title": "Jeu dragon ball 2 switch plus grande pochette avec beaucoup de rangement",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9819265362-jeu-dragon-ball-2-switch-plus-grande-pochette-avec-beaucoup-de-rangement?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01516_qYJSKaSRk5FEVAY27nLWuq5m/310x430/a4282604.webp?s=f78883ab267d30b09ff84a0e16e827f5a717528c",
-    "addedAt": "2026-08-29T15:33:10.648Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.05€, sotto soglia"
-  },
-  {
-    "id": "9819302512",
-    "category": "Console",
-    "title": "Vendo Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9819302512-vendo-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_000a4_5H3Z9SyZbugVfodGLit62HpB/310x430/3ba56104.webp?s=b7044c03f8c9d4bb58951bd9c7dc2fc821a666aa",
-    "addedAt": "2026-08-29T15:35:14.435Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
-    "id": "9819278838",
-    "category": "Console",
-    "title": "Nintendo Switch V2 (Patch) Console seule",
-    "price": 59.95,
-    "totalPrice": 63.65,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9819278838-nintendo-switch-v2-patch-console-seule?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00509_PrjxmUh9mqD9oZ5mj5TtmPE7/310x430/82e90af7.webp?s=2267b20b95e11d8cf4164178ab4df2d21757a4b9",
-    "addedAt": "2026-08-29T15:35:14.435Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "8477971050",
     "category": "Console",
     "title": "Jeu Guitar Hero Live PS4 - Jeu seul (sans guitare)",
@@ -15824,5 +15764,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30.52€, sotto soglia"
+  },
+  {
+    "id": "9866496416",
+    "category": "Console",
+    "title": "Funda protectora para la switch crystal case",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9866496416-funda-protectora-para-la-switch-crystal-case?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00187_A3sd3iDHhoEAUYAszBWYmKKn/310x430/f47e505e.webp?s=a38fa8273534568211664974e715bcc32224dd80",
+    "addedAt": "2026-09-02T15:36:52.647Z",
+    "processed": false,
+    "triaged": false
   }
 ]
