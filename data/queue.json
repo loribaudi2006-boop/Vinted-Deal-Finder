@@ -14395,8 +14395,10 @@
     "url": "https://www.vinted.it/items/9849208661-lot-switch-neuf?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0185a_Ygs6ogJNLSvyxHGQ4BEgUrfN/310x430/e5138579.webp?s=ec1f686636efd8de618b8f23729158b2c78c531e",
     "addedAt": "2026-09-02T05:21:36.378Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   },
   {
     "id": "9860717067",
@@ -14408,8 +14410,13 @@
     "url": "https://www.vinted.it/items/9860717067-xbox-one-500gb-schwarz?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0147b_bqiMpDFa9zTcCKbPiasYJme7/310x430/aa1f3acd.webp?s=278240ca195403e4618437eed8525f95cd4358c7",
     "addedAt": "2026-09-02T05:36:14.449Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nXbox One 500gb Schwarz\nOttime·Xbox·Caricato un'ora fa\n\n18,00 €\n\n19,60 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun'ora fa\nFunktioniert und ist ohne zubehör das weisse ist nur farbe geht weg\nSpedizione\nda 7,49 €\nChiedi info",
+    "geminiFault": "senza accessori, presenza di vernice bianca rimovibile",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.4
   },
   {
     "id": "9860784772",
@@ -14421,8 +14428,10 @@
     "url": "https://www.vinted.it/items/9860784772-psp-1004-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00603_siCW1tuWEmornK52zmTfvzwd/310x430/78e77a2b.webp?s=0f26ec0258db1ed58327913125b5538c89666881",
     "addedAt": "2026-09-02T06:01:21.991Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.2€, sotto soglia"
   },
   {
     "id": "9860842572",
@@ -14434,8 +14443,13 @@
     "url": "https://www.vinted.it/items/9860842572-ps4-slim-1tb-sin-mando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00fa7_YNa6uqcm3QSEQGzMBDcScbH1/310x430/e92de523.webp?s=d9627728d27402b0e6b2d29c28cb43a7b9b02f1f",
     "addedAt": "2026-09-02T06:19:06.158Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Slim 1Tb sin mando\nOttime·PlayStation·Caricato 5 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nPs4 Slim negra con capacidad de 1 Tb con poco uso, pero lamentablemente el mando dejo de funcionar despues de que la formateara\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "il mando dejo de funcionar despues de que la formateara (controller non funzionante)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
   },
   {
     "id": "9860841878",
@@ -14447,7 +14461,27 @@
     "url": "https://www.vinted.it/items/9860841878-console-sony-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_020f5_ra1J3TzJGq9dWLfA9KPwCrPV/310x430/eb42a56d.webp?s=73d3ad3ea581217a725eee4108bcf454b445318f",
     "addedAt": "2026-09-02T06:19:06.158Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Sony PlayStation 4\nBuone·PlayStation·Caricato 5 min fa\n\n59,99 €\n\n63,69 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n5 min fa\nSony PlayStation 4 Console aggiornamento 11.02\nPerfettamente funzionante\nCon controller nacon cablato che funziona benissimo\n\nFa fatica a leggere il disco ma appena entra lo carica bene e si può giocare.Credo sia solo il meccanismo che fa entrata e uscita.\nIl cavo hdmi va messo in una determinata posizione altrimenti il segnale va e viene.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Fa fatica a leggere il disco in inserimento/espulsione; cavo HDMI sensibile alla posizione.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
+  },
+  {
+    "id": "9860846013",
+    "category": "Console",
+    "title": "Cámara PlayStation 4 - PS4 V2",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9860846013-camara-playstation-4-ps4-v2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ad8_1WWNRftS2na7XvTu12ynzLgC/310x430/9a2e1cf7.webp?s=e6c19f1d7a2f2883e555a7f6bb74f08f7fbb2774",
+    "addedAt": "2026-09-02T06:23:16.775Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.7€, sotto soglia"
   }
 ]
