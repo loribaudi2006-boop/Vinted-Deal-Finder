@@ -15799,7 +15799,24 @@
     "url": "https://www.vinted.it/items/9870473622-slim-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01563_z1x43M14MTFc5c6dcPCYkjvy/310x430/82e57cf3.webp?s=05642ef0b29b2fc5e2f8432ad0e538ce1f838054",
     "addedAt": "2026-09-02T21:54:26.346Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9870480100",
+    "category": "Console",
+    "title": "Kinetic xbox one",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 87% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9870480100-kinetic-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00804_YXrtppLGy7sJ69LWGSRVEVxn/310x430/a4635baf.webp?s=218c095cd524c8704bfb24772aad7d1cf63a85cd",
+    "addedAt": "2026-09-02T21:55:29.452Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.65€, sotto soglia"
   }
 ]
