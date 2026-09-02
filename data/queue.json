@@ -15500,5 +15500,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "9863965189",
+    "category": "Console",
+    "title": "Ps3 non funzionante",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/9863965189-ps3-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01f47_2k2GQatueoErbCjiveqpDErE/310x430/a86d85eb.webp?s=851a1eb8bd43ac0561f0948c0223a454b55ff9d2",
+    "addedAt": "2026-09-02T12:17:05.619Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.8€, sotto soglia"
+  },
+  {
+    "id": "9863982200",
+    "category": "Console",
+    "title": "Giochi vari switch (non comprate i prezzi variano",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9863982200-giochi-vari-switch-non-comprate-i-prezzi-varianoinfo-in-chat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01409_GATn486waRFp2GSgmpnKr1Kz/310x430/4390ff7e.webp?s=567cc1ea4489f7194a11e5ff6efcaaf75f5722a2",
+    "addedAt": "2026-09-02T12:18:08.171Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "9863998089",
+    "category": "Console",
+    "title": "🎮 PS4 500 Go – Modèle CUH-1116A",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9863998089-ps4-500-go-modele-cuh-1116a?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022da_wn6ovQpWqjHF7SrD66zwSbhV/310x430/a77d401a.webp?s=40f4adf973b9d6d95d8cfe3154adbf0a4aaa40b3",
+    "addedAt": "2026-09-02T12:19:10.903Z",
+    "processed": false,
+    "triaged": false
   }
 ]
