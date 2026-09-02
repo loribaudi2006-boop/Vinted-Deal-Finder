@@ -16082,5 +16082,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~12.25€, sotto soglia"
+  },
+  {
+    "id": "9870843997",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9870843997-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00c3c_N2erJSd6tKvibpm6ej7ym6qe/310x430/9f9c4595.webp?s=d8c067e51bd5b1bc4a53a7ba7726629a51964b6f",
+    "addedAt": "2026-09-02T23:39:39.784Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
