@@ -1,20 +1,5 @@
 [
   {
-    "id": "9812962718",
-    "category": "Console",
-    "title": "Coque complète ps4 slim",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9812962718-coque-complete-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01573_6Tj9m9xF13Akm6vpC3UaNcJQ/310x430/4964f6e7.webp?s=0f3f6481f9913679b969e55fab20fe7073c9a7b1",
-    "addedAt": "2026-08-29T06:55:34.489Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "9813025364",
     "category": "Console",
     "title": "Nintendo Switch Zubehör",
@@ -14461,7 +14446,42 @@
     "url": "https://www.vinted.it/items/9860901566-console-sony-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01e38_KbyVMekjri4RsiJkv1WbRJBH/310x430/5a5eef37.webp?s=485346f02fa55ab656aa88c70afee3487eec6db9",
     "addedAt": "2026-09-02T06:33:42.572Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9860992822",
+    "category": "Console",
+    "title": "PS4 Slim 11.00 1To (Lire Description)",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9860992822-ps4-slim-1100-1to-lire-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0095e_HHAGHnuVCBYfVqYQRF5a4eVe/310x430/314629c8.webp?s=8ceef8d70d543fb9119cfc141e1a4c1150f612be",
+    "addedAt": "2026-09-02T06:54:37.550Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim 11.00 1To (Lire Description)\nDiscrete·PlayStation·Caricato 6 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n6 min fa\nPlayStation 4 Slim 1To\n\nMise à jour 11.00 ✨\n\nLe lecteur CD ne fonctionne pas, il manque le couvercle et la coque est en mauvaise état ❌\n\nMise à part cela, elle\nFonctionne Parfaitement ✅\n\nEnvoie Possible Et Rapide 📦\nPour + de questions n'hésitez pas ^^\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore CD non funzionante, manca il couvercle (sportellino), coque in cattivo stato",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "9860991845",
+    "category": "Console",
+    "title": "moddo switch e switch lite",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9860991845-moddo-switch-e-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018c3_7cVL7EFCgYy67V6Hv9HeSiZV/310x430/86cd836c.webp?s=2bedb06bf8fe19a4c6a01833b26a007deb5d17fb",
+    "addedAt": "2026-09-02T06:54:37.550Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
