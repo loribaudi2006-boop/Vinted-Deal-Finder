@@ -16301,5 +16301,35 @@
     "geminiFault": "senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "9872710426",
+    "category": "Console",
+    "title": "Nintendo dsi bianco console ds completo di caricatore schermo superiore danneggiato",
+    "price": 39.9,
+    "totalPrice": 42.6,
+    "reason": "parola chiave: \"danneggiato\"",
+    "url": "https://www.vinted.it/items/9872710426-nintendo-dsi-bianco-console-ds-completo-di-caricatore-schermo-superiore-danneggiato?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01076_1SN3TQNPdKDj21kvUQu9UWSa/310x430/4e7f2ba9.webp?s=6364e85caee871d5f03c6f3c99ab6c3d2f89f7c0",
+    "addedAt": "2026-09-03T09:06:38.765Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.6€, sotto soglia"
+  },
+  {
+    "id": "9872724533",
+    "category": "Console",
+    "title": "Accessoire switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9872724533-accessoire-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c4a_AM7hp2Q89TYFdKPMS5tHqQMu/310x430/061259d8.webp?s=be7b8e4d7b2e8ee3399484846e1e510e573a8879",
+    "addedAt": "2026-09-03T09:08:44.166Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   }
 ]
