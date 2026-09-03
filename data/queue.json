@@ -16066,8 +16066,10 @@
     "url": "https://www.vinted.it/items/9871494495-festpreis-playstation-4-konsole-cuh-1004a-standard-fat-modell-ps4-500-gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00564_fRwqNaKkUB3q75qW3qq2Drdu/310x430/1ae91ab9.webp?s=25ae93681536c066a1d69b2f645856f2b8fb023b",
     "addedAt": "2026-09-03T05:23:31.319Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   },
   {
     "id": "9871509828",
@@ -16079,8 +16081,10 @@
     "url": "https://www.vinted.it/items/9871509828-festpreis-playstation-4-konsole-cuh-1004a-standard-fat-modell-ps4-500-gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00564_fRwqNaKkUB3q75qW3qq2Drdu/310x430/1ae91ab9.webp?s=25ae93681536c066a1d69b2f645856f2b8fb023b",
     "addedAt": "2026-09-03T05:30:48.990Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   },
   {
     "id": "9871520532",
@@ -16092,8 +16096,10 @@
     "url": "https://www.vinted.it/items/9871520532-playstation-4-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01573_34A1nfWFuJ4m1Lajyoyg1WYk/310x430/a1687cad.webp?s=653c2962e29ed175d789603d808b688239c01d13",
     "addedAt": "2026-09-03T05:34:58.295Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9871525238",
@@ -16105,8 +16111,10 @@
     "url": "https://www.vinted.it/items/9871525238-ps4-slim-2-manettes-7-jeux?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01e2e_mjSY2Qs3Tc3vyi3jcAReptGa/310x430/fe69f6ff.webp?s=a3fa18e5c3fdc30260d36bfa6768879f5eed797c",
     "addedAt": "2026-09-03T05:37:03.154Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9871533892",
@@ -16119,6 +16127,26 @@
     "photoUrl": "https://images1.vinted.net/t/02_0147c_teoT91XEdeC4jd3LzqN3yAAq/310x430/2a21eb03.webp?s=a5fce0c937e83eb94245a05ac2731f484a5e5b7b",
     "addedAt": "2026-09-03T05:41:12.928Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "by e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One s\nBuone·Xbox·Caricato 16 min fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\n16 min fa\nVendo per inutilizzo Xbox s\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.05
+  },
+  {
+    "id": "9871572173",
+    "category": "Console",
+    "title": "Base PlayStation 5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9871572173-base-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015c3_iv8PKUjzdqjwhtMEDA4uWYDe/310x430/5ef84f1a.webp?s=a5aecd0dab570f663e5616944398d0719136247e",
+    "addedAt": "2026-09-03T05:55:47.017Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
   }
 ]
