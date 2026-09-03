@@ -16097,5 +16097,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9870898854",
+    "category": "Console",
+    "title": "Nintendo switch 2 Dock",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9870898854-nintendo-switch-2-dock-with-hdmi-cable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_011f3_wpKRCyxC6xfRyWnPTYj1f7Md/310x430/f3fd9d35.webp?s=fad0c233288a00428289d3602487cb77acd576c3",
+    "addedAt": "2026-09-03T00:01:31.074Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10.2€, sotto soglia"
   }
 ]
