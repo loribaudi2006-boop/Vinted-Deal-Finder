@@ -16174,5 +16174,31 @@
     "addedAt": "2026-09-03T06:18:41.202Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9871681003",
+    "category": "Console",
+    "title": "Carcasa ps5 slim 30 aniversario",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9871681003-carcasa-ps5-slim-30-aniversario?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e8d_3TfF5r6o4cDSAhKrgTofPLrG/310x430/f3cab12f.webp?s=4b050155a4fdc96eab1f266a6e777386b079b8f1",
+    "addedAt": "2026-09-03T06:28:03.144Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9871689152",
+    "category": "Console",
+    "title": "Bloc d'alimentation ps4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9871689152-bloc-dalimentation-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0078e_pudE438kVHo7TPNcLrsi2fXm/310x430/98457624.webp?s=15f9bb1a7b46d8ab6fb49df4ec5e2cfb7a2b65cb",
+    "addedAt": "2026-09-03T06:31:10.485Z",
+    "processed": false,
+    "triaged": false
   }
 ]
