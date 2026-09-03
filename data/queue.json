@@ -17039,5 +17039,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "9880547095",
+    "category": "Console",
+    "title": "switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9880547095-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c8b_foF69MLysM1xdPNSiS3NtxwL/310x430/6b4e9167.webp?s=cd768b28eb7e9c6260965b1bf876dffa533603d8",
+    "addedAt": "2026-09-03T22:18:46.141Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-28.2€, sotto soglia"
+  },
+  {
+    "id": "9880746050",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9880746050-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01acf_8GBjkVKpbTgNvnSXQknC5tYB/310x430/e61c4d88.webp?s=593d6f3a53cdcb49fc3f4612a9ef3e5aa22accdb",
+    "addedAt": "2026-09-03T22:19:48.802Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato 2 min fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nNintendo Switch muy buena me costó 320 euros hace 5 años y casi no la e utilizado el único defecto que tiene es que el mando izquierdo el botón para sacarlo está roto si tiras para arriba sale solo\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il tasto di sblocco del Joy-Con sinistro è rotto e si sfila tirando",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.25
   }
 ]
