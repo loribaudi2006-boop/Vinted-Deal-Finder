@@ -16145,5 +16145,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "9870971903",
+    "category": "Console",
+    "title": "Console ps4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9870971903-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00e97_wQfdP2pmMjMfKa5e6ztRu4c9/310x430/74eedb30.webp?s=03bbe6a701c6f96381bae83d9f452d116509cceb",
+    "addedAt": "2026-09-03T00:31:41.578Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nEnvoie rapide\nPlus de manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.55
   }
 ]
