@@ -1,20 +1,5 @@
 [
   {
-    "id": "9836252059",
-    "category": "Console",
-    "title": "Ps4 lire la description svp",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9836252059-ps4-lire-la-description-svp?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0176f_EGWckcerjEmosX5KPYT8rBfj/310x430/a06788b2.webp?s=27cf94bf2d7cb65d966c11bb2d7408487fe54913",
-    "addedAt": "2026-08-30T20:06:10.356Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "9836295262",
     "category": "Console",
     "title": "PlayStation due joystick mancanti",
@@ -17005,7 +16990,42 @@
     "url": "https://www.vinted.it/items/9879871289-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00a5e_BqX2zy6nxbYnt1xxq2HLLQZy/310x430/96c2d405.webp?s=3b8864f159b62e3c9105c43cbb83885f60c80fa9",
     "addedAt": "2026-09-03T19:59:18.317Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nVends PlayStation 4 très bon état sans le câble d’alimentation, ni la manette avec si je porte manette et une pochette PlayStation\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il cavo d'alimentazione e la manette (anche se menziona confusamente una manette e una pochette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.3
+  },
+  {
+    "id": "9879939655",
+    "category": "Console",
+    "title": "2 mandos y puerto de carga PS4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9879939655-2-mandos-y-puerto-de-carga-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00bc3_zWtkj6TpPC32aCq4oCfvmGuj/310x430/7a837532.webp?s=f2fcf51b524cd196a97e275d7eeecdadbb8f7eb6",
+    "addedAt": "2026-09-03T20:06:39.158Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.85€, sotto soglia"
+  },
+  {
+    "id": "9879936047",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9879936047-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01f21_u4xPKdyjb1MTYPqtGbXWz5R9/310x430/c9228f36.webp?s=6daad7fd16f3383937af90de62a1e2130dbcb91b",
+    "addedAt": "2026-09-03T20:06:39.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
