@@ -1,20 +1,5 @@
 [
   {
-    "id": "9824252330",
-    "category": "Console",
-    "title": "xbox one",
-    "price": 36,
-    "totalPrice": 38.5,
-    "reason": "prezzo 64% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9824252330-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02181_cLz2RnjP7LQMEBcMKLju45dE/310x430/f4d5e43f.webp?s=2d0629bc3b43aa9ac72189cf776220f4dd4c8daa",
-    "addedAt": "2026-08-30T05:41:40.235Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.5€, sotto soglia"
-  },
-  {
     "id": "9824276572",
     "category": "Console",
     "title": "Nintendo Switch senza controller",
@@ -16112,6 +16097,45 @@
     "url": "https://www.vinted.it/items/9871509828-festpreis-playstation-4-konsole-cuh-1004a-standard-fat-modell-ps4-500-gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00564_fRwqNaKkUB3q75qW3qq2Drdu/310x430/1ae91ab9.webp?s=25ae93681536c066a1d69b2f645856f2b8fb023b",
     "addedAt": "2026-09-03T05:30:48.990Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9871520532",
+    "category": "Console",
+    "title": "playstation 4 + controller",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9871520532-playstation-4-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01573_34A1nfWFuJ4m1Lajyoyg1WYk/310x430/a1687cad.webp?s=653c2962e29ed175d789603d808b688239c01d13",
+    "addedAt": "2026-09-03T05:34:58.295Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9871525238",
+    "category": "Console",
+    "title": "PS4 Slim + 2 manettes + 7 jeux",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9871525238-ps4-slim-2-manettes-7-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01e2e_mjSY2Qs3Tc3vyi3jcAReptGa/310x430/fe69f6ff.webp?s=a3fa18e5c3fdc30260d36bfa6768879f5eed797c",
+    "addedAt": "2026-09-03T05:37:03.154Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9871533892",
+    "category": "Console",
+    "title": "Xbox One s",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9871533892-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0147c_teoT91XEdeC4jd3LzqN3yAAq/310x430/2a21eb03.webp?s=a5fce0c937e83eb94245a05ac2731f484a5e5b7b",
+    "addedAt": "2026-09-03T05:41:12.928Z",
     "processed": false,
     "triaged": false
   }
