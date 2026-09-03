@@ -16112,5 +16112,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10.2€, sotto soglia"
+  },
+  {
+    "id": "9870948902",
+    "category": "Console",
+    "title": "Ps4 usato poco",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9870948902-ps4-usato-poco?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cf2_F1g6boJSSn2nmuMrts6AtGVv/310x430/e21a09ba.webp?s=81ed7c80416528694b3f6589ea9dc046b2287b8a",
+    "addedAt": "2026-09-03T00:22:19.926Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 usato poco\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 500gb\nWith controller led light\nUsato poco\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31
+  },
+  {
+    "id": "9870953259",
+    "category": "Console",
+    "title": "Ps4 controllers",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 90% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9870953259-ps4-controllers?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0015a_JJDAwtqUnKygFCU1ZX9VSM1G/310x430/ed3b4b28.webp?s=259d4c11d9b73bbd4af9e7983f387db325f15f6e",
+    "addedAt": "2026-09-03T00:24:24.830Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   }
 ]
