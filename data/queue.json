@@ -17020,7 +17020,27 @@
     "url": "https://www.vinted.it/items/9875679674-chassis-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01fd0_kTAwyTnsQyvbXiKx9Y36a2mS/310x430/8b65928a.webp?s=43cf1f99ebdc1eff91bff4c5392eca9c2239c034",
     "addedAt": "2026-09-03T13:51:13.809Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "9875744199",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9875744199-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e81_a5twGxXLtUQdXf2rdRQFZ1uJ/310x430/3920500c.webp?s=d2fc8eec60ee68578ed7024f48dbff27707a02d7",
+    "addedAt": "2026-09-03T13:56:29.521Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nNitendo\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 60.05
   }
 ]
