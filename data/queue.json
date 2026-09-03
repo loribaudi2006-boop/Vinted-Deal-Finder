@@ -16024,8 +16024,10 @@
     "url": "https://www.vinted.it/items/9871050716-ps4-slim-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e6d_GRSGyyRVaYB1i9mU3S1kc9vb/310x430/07a173ab.webp?s=ad5ee49eb8837746b97494fbfbd8d6405ee6ed6f",
     "addedAt": "2026-09-03T01:07:07.007Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9871073801",
@@ -16037,8 +16039,10 @@
     "url": "https://www.vinted.it/items/9871073801-staffe-x-appendere-ps5-e-pad-al-muro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01807_AAXMyYKbeSCwHk1p93JeEU3y/310x430/b79e7e2b.webp?s=576faa525a2abd50f119630f2800aec9f327de20",
     "addedAt": "2026-09-03T01:17:30.599Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-18.2€, sotto soglia"
   },
   {
     "id": "9871249117",
@@ -16050,8 +16054,10 @@
     "url": "https://www.vinted.it/items/9871249117-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0209e_7fAvTz991cttCz6bvx5fFSTT/310x430/2d1c256e.webp?s=881d4e87ed6eaaca9e630d5fd20300ac4ee34eb4",
     "addedAt": "2026-09-03T02:48:28.504Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9871255354",
@@ -16064,7 +16070,12 @@
     "photoUrl": "https://images1.vinted.net/t/03_00bb7_W68thWLCNPNnYubUTaaJNCi3/310x430/e96c0f8d.webp?s=c93805dcf4813ca32c83e6b363f2a2949fb18642",
     "addedAt": "2026-09-03T02:52:38.189Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "licità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4\nDiscrete·PlayStation·Caricato 2 ore fa\n\n25,00 €\n\n26,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 ore fa\nPs4 molto vecchia può essere buona per pezzi di ricambio\nSpedizione\nda 4,09 €",
+    "geminiFault": "Ps4 molto vecchia può essere buona per pezzi di ricambio",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 38.05
   },
   {
     "id": "9871421151",
@@ -16076,7 +16087,24 @@
     "url": "https://www.vinted.it/items/9871421151-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00e7d_xuJxNG27qQckGCSwSGAUQrFg/310x430/e8fa382d.webp?s=042b7b41b0a26b53638705debd2ecc202dd8cce9",
     "addedAt": "2026-09-03T04:45:00.279Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9870432619",
+    "category": "Console",
+    "title": "Cambio de carcasa para Nintendo Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9870432619-cambio-de-carcasa-para-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01da4_ZZcPex2g7abwsk4cka7MRbE4/310x430/72b49aa8.webp?s=61c60131ef82b50dec72158ba3f57c241fa60f68",
+    "addedAt": "2026-09-03T05:09:58.824Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
   }
 ]
