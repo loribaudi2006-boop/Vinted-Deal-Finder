@@ -16331,5 +16331,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "9872945035",
+    "category": "Console",
+    "title": "PlayStation 4 + Bundle giochi",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9872945035-playstation-4-bundle-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00df2_57F7Qqr7zGk3WoBazedN4bao/310x430/776ac982.webp?s=fcf692eabda021550435cbc49043bc892baa13c5",
+    "addedAt": "2026-09-03T09:31:41.396Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 + Bundle giochi\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4 + bundle giochi come in foto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.55
   }
 ]
