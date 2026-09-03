@@ -16658,5 +16658,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "9874668793",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9874668793-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00f7a_HjADFvrSLMPMWqGGMUSpfd8d/310x430/3faf94ec.webp?s=4e712913d8cdc8a71396fc93c1a42150d293a227",
+    "addedAt": "2026-09-03T12:21:07.563Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nVend Nintendo switch bleu\nAvec son chargeur\nTrès bonne état mise apart une légère griffe sur l'écran voir photos\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "leggera griffe sur l'écran",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
