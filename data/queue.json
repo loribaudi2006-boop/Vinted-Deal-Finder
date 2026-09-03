@@ -16903,7 +16903,45 @@
     "url": "https://www.vinted.it/items/9875436284-ps4-slim-perfettamente-funzionante-completa-piu-in-gioco?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00956_PDXVEnWCdCzox7CaMcwAWYYe/310x430/894fad11.webp?s=66230d8c7e50f9586308c28da3c10a7edb39905a",
     "addedAt": "2026-09-03T13:31:18.193Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 slim perfettamente funzionante completa più in gioco\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 3\nCondizioni\nOttime\nCaricato\n2 min fa\nCompleta controller originale più mirror s Edge\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9875503194",
+    "category": "Console",
+    "title": "Xbox One controller",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 62% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9875503194-xbox-one-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01610_KjB9BdSXkcd9vLFHGPChNPN2/310x430/b23ee18a.webp?s=b66f7a3aca78bd2ebd55f8c47c0ca7ced7ceddcd",
+    "addedAt": "2026-09-03T13:35:30.265Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10.6€, sotto soglia"
+  },
+  {
+    "id": "9875512420",
+    "category": "Console",
+    "title": "Ps4 Slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9875512420-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01507_BmHEni9vXYZLrWLH6Fp3pd6U/310x430/ff9434d7.webp?s=b47074857fb73605fd4bae4e5793c38a5e4d57a1",
+    "addedAt": "2026-09-03T13:36:33.085Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Slim\nDiscrete·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nVerkaufe meine alte Ps4 slim\nFunktioniert einwandfrei, wird etwas lauter bei langer Benutzung ( typisch für das Alter)\nGibt 2 Controller sowie ein paar Spiele dazu\n\nPrivatverkauf daher keine Garantie oder Gewährleistung\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Diventa un po' rumorosa durante l'uso prolungato (tipico dell'età)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
