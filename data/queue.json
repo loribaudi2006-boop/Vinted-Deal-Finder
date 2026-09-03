@@ -16349,5 +16349,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.55
+  },
+  {
+    "id": "9873073208",
+    "category": "Console",
+    "title": "ps4+3giochi",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9873073208-ps43giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01178_ysxMCvdT1Qjxt1PTHZRrLfgB/310x430/7d8d3738.webp?s=6eae47c34fdab8dffbb3dba97fc77ef9f4dee8c3",
+    "addedAt": "2026-09-03T09:47:21.831Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
+  },
+  {
+    "id": "9873065709",
+    "category": "Console",
+    "title": "Vends console PlayStation 4 + 1 manette + 2 jeux",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9873065709-vends-console-playstation-4-1-manette-2-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00732_Mp8ZXJWcgJYrxFNdJrVDGUPH/310x430/fe910fdf.webp?s=3663ad51b98b38643408444fff0e9c79bfee8d51",
+    "addedAt": "2026-09-03T09:47:21.832Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVends console PlayStation 4 + 1 manette + 2 jeux\nOttime·PlayStation·Caricato 4 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nJe vends une ps4, fonctionne super bien, légère trace d’usure sur le dessus voir photo.\nLe bouton pour sortir les disques ne fonctionne plus mais toutefois vous pouvez enlever le disque quand vous êtes connecter à la ps4 avec le bouton option donc aucune gêne occasionné par ce bouton\nIl y a également fifa 18 + call of duty infinite warfare sans griffe\n1 câble d’alimentation\n1 câble hdmi\n1 manette sans fil\nEnvoie rapide et soigner\nN’hésitez pas\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tasto eject disco non funzionante (espulsione possibile via software), lievi segni di usura sulla scocca",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
   }
 ]
