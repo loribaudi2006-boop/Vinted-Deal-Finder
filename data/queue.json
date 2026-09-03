@@ -16765,8 +16765,10 @@
     "url": "https://www.vinted.it/items/9875094727-nintendo-switch-lite-bleu-fonctionnelle-reinitialisee?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_023bf_WsB4ZhRf3jaoPeACxmegxS7N/310x430/01d19cfe.webp?s=a14fa03c36755a63d45ff1fa0e251a2b869cea93",
     "addedAt": "2026-09-03T12:59:53.247Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
   },
   {
     "id": "9875105567",
@@ -16778,7 +16780,27 @@
     "url": "https://www.vinted.it/items/9875105567-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00038_7qczjwgVgc5GMiRccQXy9QKA/310x430/270601a4.webp?s=d73028cf4b1a88f0ed0c35dfce1c22807d7c293e",
     "addedAt": "2026-09-03T13:00:56.828Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPlayStation 4 funzionante, cambiato pasta termica di recente, vendo con alimentazione senza controller\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9875118818",
+    "category": "Console",
+    "title": "Boîte PlayStation Portal PS5 Remote Player neuf",
+    "price": 3.9,
+    "totalPrice": 4.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9875118818-boite-playstation-portal-ps5-remote-player-neuf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c3b_5KUj5DmveovcN9Mnr3MvPVBD/310x430/5d7514a7.webp?s=853bee2d80220647368599fbfd8f77b377a412bb",
+    "addedAt": "2026-09-03T13:02:00.378Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.4€, sotto soglia"
   }
 ]
