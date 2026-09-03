@@ -1,38 +1,5 @@
 [
   {
-    "id": "9836404889",
-    "category": "Console",
-    "title": "Ps5 blanc",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9836404889-ps5-blanc?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_016ea_6sZuiFcc42YJFeuhttBbjsjJ/310x430/b1c7ff3d.webp?s=b0f1ed4fd2779ff52d5edf20e00932398e377d7c",
-    "addedAt": "2026-08-30T20:29:09.540Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 blanc\nNuovo senza cartellino·Sony·Caricato 10 min fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\n10 min fa\nps5 neuve\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 340
-  },
-  {
-    "id": "9836556207",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9836556207-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00733_NXnmsYdLVkKTgouYP3me5Zhv/310x430/6c20a4cf.webp?s=2727a24989216bca8e77cb3508e45b6235d93bfc",
-    "addedAt": "2026-08-30T20:37:31.126Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9836573445",
     "category": "Console",
     "title": "Nintendo switch",
@@ -17030,5 +16997,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~16.05€, sotto soglia"
+  },
+  {
+    "id": "9880135124",
+    "category": "Console",
+    "title": "Boîte ps5 slim",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9880135124-boite-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01e03_m6ApPCzRugnULb2eFtcrSNSW/310x430/03fe13da.webp?s=1edebbeae40c354d677836ef969aa2d138453ddc",
+    "addedAt": "2026-09-03T20:30:46.286Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "9880198586",
+    "category": "Console",
+    "title": "Ps4 Folie",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 97% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9880198586-ps4-folie?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_014f8_8TtTvk61GN6cSXh51RsDpYbu/310x430/fc80f664.webp?s=97665e2888c03aad6a056609a304e4515e295dc7",
+    "addedAt": "2026-09-03T20:39:10.763Z",
+    "processed": false,
+    "triaged": false
   }
 ]
