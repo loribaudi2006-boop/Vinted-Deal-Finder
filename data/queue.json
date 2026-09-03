@@ -16691,5 +16691,46 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9874930444",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9874930444-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02646_XUdBizgxaJ87MzcuBGHw55YZ/310x430/7d5f0455.webp?s=630917f29783e52aa11677f2008812b233cf057c",
+    "addedAt": "2026-09-03T12:45:14.261Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9874988987",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9874988987-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01e0e_xBQpCDtmCMo9c6ynQ6i8aUDb/310x430/a03a92c0.webp?s=177c0f010ce9cc080623d8ad411a93f2eb8c1ae8",
+    "addedAt": "2026-09-03T12:50:27.621Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9874631868",
+    "category": "Console",
+    "title": "PlayStation 4 Slim + Controller + Headset – Komplettes Gaming‑Set",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9874631868-playstation-4-slim-controller-headset-komplettes-gaming-set?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0257e_h1mFtgQzUb988iBzhvDaubH3/310x430/3e3eb2f7.webp?s=27ba6d12d2c026dcb0d06e0f3c3465fcb5736814",
+    "addedAt": "2026-09-03T12:50:27.621Z",
+    "processed": false,
+    "triaged": false
   }
 ]
