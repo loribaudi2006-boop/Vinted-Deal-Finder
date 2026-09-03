@@ -16676,5 +16676,20 @@
     "geminiFault": "leggera griffe sur l'écran",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "9874855347",
+    "category": "Console",
+    "title": "Steam deck+ps5 base por una ps5 pro",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9874855347-steam-deckps5-base-por-una-ps5-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00893_Vd4rFUbHNpuRDgRAb2Dh4ogk/310x430/75c7e635.webp?s=831e698e0508fb2c154a1f76f3d9bedc8ad87ce5",
+    "addedAt": "2026-09-03T12:38:57.621Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
