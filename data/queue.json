@@ -16145,5 +16145,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-11.7€, sotto soglia"
+  },
+  {
+    "id": "9873547505",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9873547505-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c49_rfwJBSggm1he91GGTGkDm75j/310x430/f518f815.webp?s=91b9426acd357edf86d2354a5406fb85465ce9f6",
+    "addedAt": "2026-09-03T10:32:16.654Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.8€, sotto soglia"
+  },
+  {
+    "id": "9873570502",
+    "category": "Console",
+    "title": "PlayStation 4 pro",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9873570502-playstation-4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00e38_862vusxZjNMVMC61GhNGQfYG/310x430/16531696.webp?s=7ffa9b504da767223f64eae8aa876a4b7e30bcde",
+    "addedAt": "2026-09-03T10:34:21.831Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 pro\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPer giochi guardate nel mio profilo senza joystick e senza cavi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza joystick e senza cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
