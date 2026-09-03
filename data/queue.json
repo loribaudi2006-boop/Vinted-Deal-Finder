@@ -1,35 +1,5 @@
 [
   {
-    "id": "9824147892",
-    "category": "Console",
-    "title": "Xbox one S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9824147892-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a5d_4u1WP7B9Yhn4UEJfiV5gAkKn/310x430/b261aaf6.webp?s=d102a6a9f57f77f3b3ca50e36de5422546442b54",
-    "addedAt": "2026-08-30T04:35:22.745Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
-    "id": "9824154437",
-    "category": "Console",
-    "title": "Cargador de dualshock-ps4",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9824154437-cargador-de-dualshock-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_026d7_Fr7NoXGPdWwu7ft9cgwgV5ma/310x430/d0a9714a.webp?s=8cea355217855c369b856d7a39234266af1b9b41",
-    "addedAt": "2026-08-30T04:39:33.168Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-14.95€, sotto soglia"
-  },
-  {
     "id": "9824231531",
     "category": "Console",
     "title": "Complete PlayStation 4 set",
