@@ -17042,5 +17042,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 60.05
+  },
+  {
+    "id": "9875876473",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9875876473-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015de_a7fpkhNLp7JCifUgmMyqkQnw/310x430/5dc1d382.webp?s=179ccd093d4a6608d0ccb98321b90ee892b9e8a6",
+    "addedAt": "2026-09-03T14:08:03.791Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n25,00 €\n\n26,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\ncarica ma la batteria non immagazzina energia\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "carica ma la batteria non immagazzina energia",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 93.05
   }
 ]
