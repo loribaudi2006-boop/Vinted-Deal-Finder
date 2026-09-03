@@ -1,23 +1,5 @@
 [
   {
-    "id": "9824468385",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9824468385-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0210a_eCnJvjJ5UWtUsFk8Pi2jfAwA/310x430/4b100623.webp?s=d64a7ffcebf853a13abae903926efddb6f588116",
-    "addedAt": "2026-08-30T06:47:56.959Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato 15 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n15 min fa\nPS4 usata ma funzionante\nMotivo della vendita: Preso PS5\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "9824759086",
     "category": "Console",
     "title": "Xbox One",
@@ -16211,5 +16193,18 @@
     "geminiFault": "Manca il caricabatterie originale (funziona con un normale cavo USB-C)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "9871751845",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9871751845-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_025ff_WmPGbb99U81CKMwNY5P8qveF/310x430/b5825a9b.webp?s=aef66d5dee0c6755a979b71157aae56a49eeaae2",
+    "addedAt": "2026-09-03T06:46:48.742Z",
+    "processed": false,
+    "triaged": false
   }
 ]
