@@ -16161,5 +16161,18 @@
     "addedAt": "2026-09-03T06:06:11.596Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9871644830",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9871644830-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_002c5_Fukrp7FrGeXz38M2nGzbk9fn/310x430/4e7ec6fe.webp?s=3c394dc31023b8803dc908e5e0de318655d1b760",
+    "addedAt": "2026-09-03T06:18:41.202Z",
+    "processed": false,
+    "triaged": false
   }
 ]
