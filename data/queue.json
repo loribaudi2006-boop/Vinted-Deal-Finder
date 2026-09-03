@@ -16229,5 +16229,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-4€, sotto soglia"
+  },
+  {
+    "id": "9873862701",
+    "category": "Console",
+    "title": "PS4 Fat 500GB - Perfetto",
+    "price": 65.99,
+    "totalPrice": 69.99,
+    "reason": "prezzo 49% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9873862701-ps4-fat-500gb-perfetto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00284_BCv4YGnuCiCMBef2QrCru5Nj/310x430/4532d93f.webp?s=61ce7e378808fa4b921f195295e1481dc5a6030b",
+    "addedAt": "2026-09-03T11:03:37.538Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
