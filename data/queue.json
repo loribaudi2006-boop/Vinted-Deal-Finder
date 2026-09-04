@@ -1,23 +1,5 @@
 [
   {
-    "id": "9840152588",
-    "category": "Console",
-    "title": "Nintendo switch spada e scudo",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9840152588-nintendo-switch-spada-e-scudo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00222_8LymwhtPq2YVf7kRsbscWRap/310x430/4f69645a.webp?s=3e09896d4b46317683955f1ee9bfd13b1217b092",
-    "addedAt": "2026-08-31T10:09:38.655Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch spada e scudo\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nUsata ma in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 86.8
-  },
-  {
     "id": "9840241287",
     "category": "Console",
     "title": "PS4 + Controller",
@@ -17035,5 +17017,35 @@
     "geminiFault": "Une carte est bloquée dans le lecteur CD",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9883451163",
+    "category": "Console",
+    "title": "Carcasa de color madera PS5 Pro para consolas con lector",
+    "price": 40.95,
+    "totalPrice": 43.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9883451163-carcasa-de-color-madera-ps5-pro-para-consolas-con-lector?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018b2_VTwj5CvjoFqhViNds3NDe56N/310x430/bea447be.webp?s=ea4f8abf91e156708260e40a90f36c75f9d00e75",
+    "addedAt": "2026-09-04T10:10:08.621Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.7€, sotto soglia"
+  },
+  {
+    "id": "9883469041",
+    "category": "Console",
+    "title": "Caja ps5",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9883469041-caja-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0078a_CfUXwjheyiGpRpfpEfdbPQur/310x430/997d414a.webp?s=2e5f81965093bd7247ec318207842770e9383b32",
+    "addedAt": "2026-09-04T10:12:13.732Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
