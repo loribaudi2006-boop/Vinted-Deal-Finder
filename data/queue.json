@@ -17201,7 +17201,12 @@
     "photoUrl": "https://images1.vinted.net/t/06_0065f_iUDr7CASYVwiDa4htAh2EFkf/310x430/9f6d525e.webp?s=370f9b2e40d3d334ec13ba7609d8bb6d7d6b652c",
     "addedAt": "2026-09-04T13:54:42.597Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch Console seule\nOttime·Nintendo·Caricato un'ora fa\n\n62,00 €\n\n65,80 €\nInclude la Protezione acquisti Pro\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun'ora fa\nNintendo switch console seule\nSans accessoires\nPetites traces sur lecran invible ecran allumé\n100 % fonctionnelle\nEntièrement testé\nGarantie 14 jours retour gratuit\nEnvoi rapide\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Petites traces sur l'écran invisibles écran allumé",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 54.2
   },
   {
     "id": "9885842678",
@@ -17304,7 +17309,12 @@
     "photoUrl": "https://images1.vinted.net/t/05_01d1b_ujNTcepEhnxa19MXTP4ma3pM/310x430/4199c905.webp?s=cb04b33e986c35d0822fd0494bbf12a8cf624933",
     "addedAt": "2026-09-04T14:18:43.403Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 24 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n24 min fa\nPS4+ manette×1 🎮\nUne carte est bloquée dans le lecteur CD mais peu sûrement être enlevée assez facilement.\n\n🧽 | Les steakers présents sur la play peuvent être enlevés avant l'envoi.\nLa play sera bien nettaoyé avec brosse et produits adaptés. 🧼\n\n😊Si vous avez la moindre question n'hésitez surtout pas à me contacter😊\n\n❌ Tentative d'arnaque inutile, envois filmés ❌\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Disco bloccato nel lettore CD, adesivi sulla scocca",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   },
   {
     "id": "9886091846",
@@ -17360,8 +17370,10 @@
     "url": "https://www.vinted.it/items/9886171414-xbox-360-fat-funzionante-scocca-rotta?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_001ec_ritrPgDNS12V5U8jSU1U9tZJ/310x430/2ec323ae.webp?s=a8253a9972f84388e7c0b5ff796cf8cea848d3ce",
     "addedAt": "2026-09-04T14:27:05.506Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.8€, sotto soglia"
   },
   {
     "id": "9886182661",
@@ -17386,8 +17398,10 @@
     "url": "https://www.vinted.it/items/9886225926-console-ps3-super-slim-12-gb-controller-non-originale6-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01b5d_EKzVUx4pSFqsKLkuvPg551SM/310x430/6926fed3.webp?s=321966c97dd5c8a97095739073f54c80cead8f50",
     "addedAt": "2026-09-04T14:32:18.070Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.3€, sotto soglia"
   },
   {
     "id": "9886257737",
@@ -17399,6 +17413,45 @@
     "url": "https://www.vinted.it/items/9886257737-ps4-pro-soporte?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_004c2_LSupNrJ4Q5Z6gxJ7sd4XFNr4/310x430/d6dc9c41.webp?s=0ff4e5771a7bd10c7cac957c473f891d04833523",
     "addedAt": "2026-09-04T14:34:24.515Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886356512",
+    "category": "Console",
+    "title": "Soporte PS4 Fat Negro",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9886356512-soporte-ps4-fat-negro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0038f_Sf2oMNELR28JCVnQj1dTjovo/310x430/29ebf50d.webp?s=9303f533d89478a86207591e396aa311deae5702",
+    "addedAt": "2026-09-04T14:42:53.046Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886346894",
+    "category": "Console",
+    "title": "Scatola Nintendo switch",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 90% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9886346894-scatola-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02256_kZSjTEa2b6iic5hHpSJVTGBk/310x430/6eb82616.webp?s=6433612ad4f189f6d62b7d5b819a5b3f5f47d5c5",
+    "addedAt": "2026-09-04T14:42:53.046Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886345173",
+    "category": "Console",
+    "title": "Battletron Gaming - Car Bracket for Nintendo Switch",
+    "price": 2.5,
+    "totalPrice": 3.33,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9886345173-battletron-gaming-car-bracket-for-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011cd_e3DCg6SmziGtbmxAz5FzN7sM/r3/310x430/a48ac864.webp?s=b796a485ddc30efe84845cf11770735d4c0155f1",
+    "addedAt": "2026-09-04T14:42:53.046Z",
     "processed": false,
     "triaged": false
   }
