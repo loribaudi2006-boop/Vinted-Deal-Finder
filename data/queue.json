@@ -1,20 +1,5 @@
 [
   {
-    "id": "9838236854",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9838236854-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02074_qV5PL6dJCFa4iZxdsdDLzmms/310x430/5e58a326.webp?s=eb14411542602d902593344219826e88cefae894",
-    "addedAt": "2026-08-31T05:53:43.090Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "9838279423",
     "category": "Console",
     "title": "Nintendo switch 1",
@@ -16948,6 +16933,19 @@
     "url": "https://www.vinted.it/items/9881633949-ps4-quasi-nuova?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01c32_XfdYFSdQigNtWXf3fwX5dQrb/310x430/78d2ff8b.webp?s=1fd615bf18367e81b70e0a893ac6c389f6a02789",
     "addedAt": "2026-09-04T05:24:45.191Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9881695231",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9881695231-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a89_vpHWT5wLqXtvybprc18wioZ2/310x430/8120350c.webp?s=868785598a2be53f0118fcae434da25f6ba6e07f",
+    "addedAt": "2026-09-04T05:50:47.979Z",
     "processed": false,
     "triaged": false
   }
