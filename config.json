@@ -14,6 +14,7 @@
   "minMarginEuro": 30,
   "flashAlertMaxPrice": 15,
   "maxBuyPrice": 70,
+  "maxCandidateAgeMinutes": 30,
   "alertRetentionHours": 46,
   "nightHours": { "start": 1, "end": 7 },
   "nightMinBatchTriage": 6,

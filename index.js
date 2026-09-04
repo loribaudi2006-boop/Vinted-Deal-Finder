@@ -11,6 +11,7 @@ const { withLock, atomicWriteJson } = require('./lock.js');
 const { loadConfig } = require('./config_loader.js');
 const stats = require('./stats.js');
 const health = require('./health.js');
+const staleGuard = require('./queue_stale_guard.js');
 
 const SEEN_PATH = path.join(__dirname, 'data', 'seen.json');
 const QUEUE_PATH = path.join(__dirname, 'data', 'queue.json');
@@ -82,17 +83,25 @@ function findFaultKeyword(text, faultKeywords) {
 // Ne approfitta per togliere dalla coda gli item ormai processati e vecchi (>14 giorni):
 // senza questo, queue.json crescerebbe all'infinito girando 24/7, rallentando ogni
 // lettura/scrittura (fatta ad ogni ciclo, sotto lock).
-function mergeNewCandidatesIntoQueue(newCandidates) {
+function mergeNewCandidatesIntoQueue(newCandidates, config) {
+  let staleDiscardedCount = 0;
   withLock(() => {
     const current = loadJson(QUEUE_PATH, []);
     const existingIds = new Set(current.map(x => x.id));
     for (const c of newCandidates) {
       if (!existingIds.has(c.id)) current.push(c);
     }
+    // Se in coda si sono accumulati candidati (di qualunque stato: non ancora
+    // triagiati, o promettenti in attesa dell'analisi definitiva) rimasti fermi
+    // troppo a lungo, sono quasi certamente gia' venduti: scartarli subito libera
+    // la coda per i nuovi annunci, invece di lasciare che il ritardo si accumuli.
+    const staleResult = staleGuard.discardStaleCandidates(current, config);
+    staleDiscardedCount = staleResult.discardedCount;
     const cutoff = Date.now() - QUEUE_PRUNE_DAYS * 24 * 60 * 60 * 1000;
-    const pruned = current.filter(x => !(x.processed && new Date(x.addedAt).getTime() < cutoff));
+    const pruned = staleResult.queue.filter(x => !(x.processed && new Date(x.addedAt).getTime() < cutoff));
     atomicWriteJson(QUEUE_PATH, pruned);
   });
+  return staleDiscardedCount;
 }
 
 // Stesso principio per seen.json: unisce i nuovi id visti in questo giro dentro
@@ -244,7 +253,8 @@ async function main() {
     }
 
     mergeNewSeenIds(newSeenEntries);
-    mergeNewCandidatesIntoQueue(newCandidates);
+    const staleDiscardedCount = mergeNewCandidatesIntoQueue(newCandidates, config);
+    staleGuard.maybeNotify(staleDiscardedCount, config, log);
     health.checkScraperHealth(totalRawItems, log);
     stats.bumpFound(candidatesFound);
     log(`Fine ciclo. Nuovi candidati aggiunti alla coda: ${candidatesFound}.`);
