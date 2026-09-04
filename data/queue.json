@@ -16876,5 +16876,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "9884159382",
+    "category": "Console",
+    "title": "Nintendo Switch Completa",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9884159382-nintendo-switch-completa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d23_RviamEEXaJq8W6bEvRMUXjFJ/310x430/a0b4ea51.webp?s=5a1d8713ca7fd674b2a6372ada302a255c6a250d",
+    "addedAt": "2026-09-04T11:22:09.291Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9884172482",
+    "category": "Console",
+    "title": "Sony PlayStation 4 PS4 500GB Jet Black inkl. OVP Controller Teildefekt",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9884172482-sony-playstation-4-ps4-500gb-jet-black-inkl-ovp-controller-teildefekt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_025fb_dzhA1WLvwsiEQTgRYSLNLKQg/310x430/03a7ae82.webp?s=164d62f317f70da1a6a95cace046659ea22e36d6",
+    "addedAt": "2026-09-04T11:24:14.379Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "leConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 PS4 500GB Jet Black inkl. OVP Controller Teildefekt\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nSony PlayStation 4 PS4 500GB Jet Black inkl. OVP & Controller (Teildefekt)\n​Beschreibung:\nVerkaufe hier eine Sony PS4 (500 GB) in Schwarz mit OVP, Controller und Kabeln. 🖤🎮\n​• Optik: Hat einen Folien-Skin im Totenkopf-Look drauf.\n• Zustand: Die Konsole läuft an sich gut, aber das Laufwerk spinnt ab und an, Disc wird sporadisch ausgeworfen. Perfekt für Bastler oder für Leute, die Spiele direkt digital nutzen!\n​Verkauf ausdrücklich als teildefekt.\n​Privatverkauf – keine Garantie, Gewährleistung oder Rücknahme.\n... altro\nSpedizione\n7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Laufwerk spinnt ab und an, Disc wird sporadisch ausgeworfen (teildeffekt)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
   }
 ]
