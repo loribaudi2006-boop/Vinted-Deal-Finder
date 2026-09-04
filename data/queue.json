@@ -16988,7 +16988,12 @@
     "photoUrl": "https://images1.vinted.net/t/06_00577_kPwD8WZs8PnwL5Lx1Jp9b4uF/310x430/9385a048.webp?s=229a7b7f01b90adf64b875333305e0de7240aee4",
     "addedAt": "2026-09-04T11:45:08.426Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nC’est une PlayStation 4 Slim (PS4 Slim) noire.\nOttime·PlayStation·Caricato 12 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n12 min fa\nPs4 en bonne état 500go avec sa manette original\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   },
   {
     "id": "9884377301",
@@ -17015,6 +17020,32 @@
     "url": "https://www.vinted.it/items/9884421755-playstation-4-fat-500-gb-funcionando-perfectamente?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00993_YpxNPfQ6musrGZahp1175Xkm/310x430/49e99725.webp?s=9f802c9dfcc0953be00865fd8ef6fe405acb8d61",
     "addedAt": "2026-09-04T11:49:18.801Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9884570143",
+    "category": "Console",
+    "title": "Ps4 con formula uno",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9884570143-ps4-con-formula-uno?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0023b_r6mfBXtPPsT1p3ZacNGra9Sp/310x430/ea333cff.webp?s=67cf7386bda36e70e3b7a0e2e7b0e525e0546fcf",
+    "addedAt": "2026-09-04T12:02:54.465Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9884564448",
+    "category": "Console",
+    "title": "nintendo switch lite",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9884564448-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02329_Ska9QKw5tU6m7ciTnnYtsiQ8/310x430/47624834.webp?s=5ddc51462b49cbc7ce8a2635b885c6780f95c889",
+    "addedAt": "2026-09-04T12:02:54.465Z",
     "processed": false,
     "triaged": false
   }
