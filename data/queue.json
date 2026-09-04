@@ -17153,5 +17153,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "9881304852",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9881304852-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f6e_fCb7M1pr1GqVFk4Gicz2ciiV/310x430/31a3bb07.webp?s=bb94fa0d726f8753eca6d55c4aaadfb8171bea01",
+    "addedAt": "2026-09-04T02:02:20.009Z",
+    "processed": false,
+    "triaged": false
   }
 ]
