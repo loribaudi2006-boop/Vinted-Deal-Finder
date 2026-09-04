@@ -17020,8 +17020,10 @@
     "url": "https://www.vinted.it/items/9884421755-playstation-4-fat-500-gb-funcionando-perfectamente?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00993_YpxNPfQ6musrGZahp1175Xkm/310x430/49e99725.webp?s=9f802c9dfcc0953be00865fd8ef6fe405acb8d61",
     "addedAt": "2026-09-04T11:49:18.801Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   },
   {
     "id": "9884570143",
@@ -17046,6 +17048,19 @@
     "url": "https://www.vinted.it/items/9884564448-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02329_Ska9QKw5tU6m7ciTnnYtsiQ8/310x430/47624834.webp?s=5ddc51462b49cbc7ce8a2635b885c6780f95c889",
     "addedAt": "2026-09-04T12:02:54.465Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9884677833",
+    "category": "Console",
+    "title": "Ps4 zu verkaufen hab sie nie fast benutzt ist guten Zustand",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9884677833-ps4-zu-verkaufen-hab-sie-nie-fast-benutzt-ist-guten-zustand?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004fa_1oXg6SuV5s5f1ud9uYawC4vV/310x430/735c3141.webp?s=93b9361f5d9e819b3b728e05e318b58779dfd971",
+    "addedAt": "2026-09-04T12:13:21.647Z",
     "processed": false,
     "triaged": false
   }
