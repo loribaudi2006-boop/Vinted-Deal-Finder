@@ -17069,5 +17069,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "9882889492",
+    "category": "Console",
+    "title": "ps4 slim  + due controller",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9882889492-ps4-slim-due-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_025b0_2tvHZeQYZznRfbsQkZUtg28Z/310x430/bc3f870b.webp?s=339d0538ce890653df62ca97d73cd8e715ec680f",
+    "addedAt": "2026-09-04T09:11:18.094Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4 slim + due controller\nBuone·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nvendo ps4 slim più due controller\ninclusi cavi di alimentazione e hdmi + fifa 21\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "9882887459",
+    "category": "Console",
+    "title": "Carcasa transparente con rejillas ventilacion para PS5 FAT consola con lector",
+    "price": 52.95,
+    "totalPrice": 56.3,
+    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9882887459-carcasa-transparente-con-rejillas-ventilacion-para-ps5-fat-consola-con-lector?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00cd4_tsRPoL6oi65cjMhZX56g3DDE/310x430/909bf390.webp?s=c8296cbd3645741a33402169b1d9e780e7461d15",
+    "addedAt": "2026-09-04T09:11:18.094Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-35.3€, sotto soglia"
   }
 ]
