@@ -19254,5 +19254,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-22.45€, sotto soglia"
+  },
+  {
+    "id": "9889945019",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9889945019-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00463_4Hz4R7npJ6R6pnPoWXxxewAq/310x430/6a585904.webp?s=f1405b0b24e527c4b73abee3ed5f0ab095ffaa1c",
+    "addedAt": "2026-09-04T20:29:21.933Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n59,99 €\n\n63,69 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nswitch avec quelques griffures mais marche comme si elle était neuf\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "griffures (graffi)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.31
+  },
+  {
+    "id": "9889961930",
+    "category": "Console",
+    "title": "Ps4 utilisé 2 fois",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9889961930-ps4-utilise-2-fois?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007a4_GABihZz9iGsRgU9e3suckDFw/310x430/bd283e07.webp?s=a4c644be876755fc14c8cfc76a133f55269cae0f",
+    "addedAt": "2026-09-04T20:31:28.428Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "so!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 utilisé 2 fois\nNuovo senza cartellino·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nJe l’ai plus utilise car j’ai la\nPs5 je l’ai utilisé moin de 1 mois elle a 1tera\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
