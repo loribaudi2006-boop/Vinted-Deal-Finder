@@ -18960,5 +18960,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9889492034",
+    "category": "Console",
+    "title": "Xbox Series S",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 78% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/9889492034-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c94_tpkiGHqMTYYKVndozu3vsc1K/310x430/32891b8d.webp?s=4eaef57454fd52a71347beb3a392a2422f86ed03",
+    "addedAt": "2026-09-04T19:33:25.315Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox Series S\nOttime·Xbox·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nun minuto fa\nPerfecto estado viene con HDMI y el cable que hace que funcione funciona perfecta\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 92.05
   }
 ]
