@@ -16909,5 +16909,18 @@
     "geminiFault": "Laufwerk spinnt ab und an, Disc wird sporadisch ausgeworfen (teildeffekt)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "9884277344",
+    "category": "Console",
+    "title": "Nintendo Switch Lite gebraucht",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 80% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9884277344-nintendo-switch-lite-gebraucht?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02157_kHsCnLia6fd9wYue6fkLAe6p/310x430/9489e75f.webp?s=39886396c0d29eb152710aa71906661a897271de",
+    "addedAt": "2026-09-04T11:34:40.925Z",
+    "processed": false,
+    "triaged": false
   }
 ]
