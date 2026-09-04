@@ -17067,7 +17067,7 @@
     "url": "https://www.vinted.it/items/9885556569-playstation-4-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e54_iPZkymdbQqHYaRDx61wVTxSr/310x430/4b918603.webp?s=a28a6b0150cc71cd0973481b6943630686b48648",
     "addedAt": "2026-09-04T13:33:50.511Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "imosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 500Gb\nNuovo senza cartellino·PlayStation·Caricato 14 min fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n14 min fa\nPlayStation 4 Skin marmo da 500Gb di memoria con joypad allegato. Purtroppo non munito di scatola.\nDettagli prodotto: Custom, pulizia interna fatta di recente con sostituzione della pasta termica e scheda Bluetooth.\nFornisco anche cavo di alimentazione e HDMI e 2 cavi di ricarica per il Joypad.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -17603,7 +17603,12 @@
     "photoUrl": "https://images1.vinted.net/t/05_00107_Ddz7NaZBNYRM1TduWZ9GsNJu/310x430/4fcdacb8.webp?s=9fdd6724ac3eff5429292a99962f322dbd6fa381",
     "addedAt": "2026-09-04T15:15:30.744Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nDiscrete·PlayStation·Caricato 18 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n18 min fa\nIch verkaufe meine alte PlayStation 4 weil ich neben dem Studium keine Zeit dafür habe. Läuft ohne Probleme. Gebrauchter Zustand\n\nKein Kontroller dabei!\n... altro\nSpedizione\nda 11,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (Kein Kontroller dabei)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "9886734321",
@@ -17667,6 +17672,45 @@
     "url": "https://www.vinted.it/items/9886842601-jeu-roller-costes-tycon-aventure-sur-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00eb8_YVSfbtzQxsbzFpZLU3pxkFke/310x430/8a133649.webp?s=d81cb79b4edfe734eba1743a5a49baca522caacf",
     "addedAt": "2026-09-04T15:25:58.053Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886853829",
+    "category": "Console",
+    "title": "Xbox Series S",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 78% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/9886853829-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c94_tpkiGHqMTYYKVndozu3vsc1K/310x430/32891b8d.webp?s=4eaef57454fd52a71347beb3a392a2422f86ed03",
+    "addedAt": "2026-09-04T15:27:00.588Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886873142",
+    "category": "Console",
+    "title": "PS4 con dos mandos y 3 juegos",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9886873142-ps4-con-dos-mandos-y-3-juegos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0020c_GHyiskHBSg8gfzoV7NTfJMs5/310x430/a6ba4ce4.webp?s=75c05e1fcc5b145920e84e0f846ca029cf9f146e",
+    "addedAt": "2026-09-04T15:28:03.681Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886889808",
+    "category": "Console",
+    "title": "Ecran nintendo switch V2",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9886889808-ecran-nintendo-switch-v2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00291_NirYmAbf6jyWSZwx4LZLv5xi/310x430/5bbfd3ac.webp?s=61fc21564499224844add3963ef0f27801bacfc4",
+    "addedAt": "2026-09-04T15:29:06.341Z",
     "processed": false,
     "triaged": false
   }
