@@ -18834,5 +18834,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10.3€, sotto soglia"
+  },
+  {
+    "id": "9889200552",
+    "category": "Console",
+    "title": "Mala / Estojo para Nintendo Switch – Excelente Estado",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9889200552-mala-estojo-para-nintendo-switch-excelente-estado?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a0d_siqLw8azN6MU3xx6qhshx1D4/310x430/bb3da666.webp?s=beb5e61dbc212dfa4e4d9cde8131bdc1b09afcbd",
+    "addedAt": "2026-09-04T19:00:53.388Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.7€, sotto soglia"
+  },
+  {
+    "id": "9888096158",
+    "category": "Console",
+    "title": "Nintendo Wii Rossa Loose Console Funzionante Ma Con Problemi Ai Tasti Fisici",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "parola chiave: \"problemi\"",
+    "url": "https://www.vinted.it/items/9888096158-nintendo-wii-rossa-loose-console-funzionante-ma-con-problemi-ai-tasti-fisici?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e16_9k4U2xSjewkt45txecq1oEht/310x430/7b324762.webp?s=fa66798fa068ebd032ada001eb6ef6f08de1b839",
+    "addedAt": "2026-09-04T19:00:53.388Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.55€, sotto soglia"
   }
 ]
