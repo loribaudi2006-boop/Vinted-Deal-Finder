@@ -16987,7 +16987,7 @@
     "url": "https://www.vinted.it/items/9884388797-cest-une-playstation-4-slim-ps4-slim-noire?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00577_kPwD8WZs8PnwL5Lx1Jp9b4uF/310x430/9385a048.webp?s=229a7b7f01b90adf64b875333305e0de7240aee4",
     "addedAt": "2026-09-04T11:45:08.426Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "ttronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nC’est une PlayStation 4 Slim (PS4 Slim) noire.\nOttime·PlayStation·Caricato 12 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n12 min fa\nPs4 en bonne état 500go avec sa manette original\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -17103,7 +17103,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_0072b_BxB4s3B6p8D4HwprVbBXTWDW/310x430/65e6f214.webp?s=389b6f98a6e3b527a70160c3e7e92234a486ac9c",
     "addedAt": "2026-09-04T12:37:24.306Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "iffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n10\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nSwitch, Nintendo\nOttime·Nintendo·Caricato 15 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n15 min fa\nSwitch, Nintendo, très bon état, plus un jeu FIFA\nSpedizione\nda 9,49 €\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
   },
   {
     "id": "9884959892",
@@ -17115,8 +17120,10 @@
     "url": "https://www.vinted.it/items/9884959892-xbox-one-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01f93_Un3HkR12YeJpfvQ8nVKUDwvJ/310x430/c044dbc3.webp?s=f5e4f04a9147a835cfe979fd2d3b1621a3b6807a",
     "addedAt": "2026-09-04T12:39:30.275Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.31€, sotto soglia"
   },
   {
     "id": "9884972681",
@@ -17206,6 +17213,32 @@
     "url": "https://www.vinted.it/items/9885011296-etui-xxl-switch-1-protection-maximale-pret-pour-le-voyage?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_019be_nA3ZXDWzaybZJ5LWQPvx5NwP/310x430/574d4bde.webp?s=2e4102eabeb05ecf3f58143a37f6db9d39fcaf95",
     "addedAt": "2026-09-04T12:44:43.547Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885088796",
+    "category": "Console",
+    "title": "Nintendo Switch NON funzionante",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9885088796-nintendo-switch-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00298_b7F5H8a8hqLh5bi4PKMJ2V7j/310x430/3c90b9f8.webp?s=7be36679140c94f2366d3b3f65254be1d24b0bb9",
+    "addedAt": "2026-09-04T12:52:02.619Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885130647",
+    "category": "Console",
+    "title": "Ps4 500 gb pack killzone",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9885130647-ps4-500-gb-pack-killzone?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01529_rjNG5MVMx62T1uMQKxSgGRLr/310x430/97dd6a1a.webp?s=d6b3485fcb19c0b6782e00ad2488264c932b3a39",
+    "addedAt": "2026-09-04T12:55:10.382Z",
     "processed": false,
     "triaged": false
   }
