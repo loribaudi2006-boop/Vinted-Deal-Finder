@@ -19290,5 +19290,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "9890066030",
+    "category": "Console",
+    "title": "PS4 500GB 13.52fw",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9890066030-ps4-500gb-1352fw?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01db5_v2QhBziNzJq3R1sCkBo8GyTg/310x430/7976ec9e.webp?s=447add858ca5510515a7980fb3bc710c54395547",
+    "addedAt": "2026-09-04T20:46:13.594Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 500GB 13.52fw\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nHas some scratches but works perfectly fine\n2 controllers\nGames are included\nAll cables are included\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Some scratches",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.3
+  },
+  {
+    "id": "9890074558",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9890074558-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ca4_sCN2PagEq4Gh6k5JkyngrJ6a/310x430/37c987d1.webp?s=50019085f70b5bebe9fae5f0c1250c8c44fbc90d",
+    "addedAt": "2026-09-04T20:47:16.496Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
