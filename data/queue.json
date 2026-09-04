@@ -19401,5 +19401,36 @@
     "geminiFault": "Lecteur de disque/CD ne fonctionne pas",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.85
+  },
+  {
+    "id": "9890155035",
+    "category": "Console",
+    "title": "Xbox One S non funzionante",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9890155035-xbox-one-s-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0111a_3BYYhWp2HbDxcmxny9tSY2pR/310x430/fc515d65.webp?s=35dc86a033b4fd3a5d2de4c388ed93dc379c7b9a",
+    "addedAt": "2026-09-04T20:59:54.327Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S non funzionante\nDiscrete·Xbox·Caricato un minuto fa\n\n20,00 €\n\n21,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nNon si accende. Manca la parte inferiore della scocca.\nPresa in un lotto, era già così, non conosco la sua storia. È palesemente stata maltrattata.\nNon funzionante, per pezzi di ricambio o riparazione.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non si accende. Manca la parte inferiore della scocca. Maltrattata.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.3
+  },
+  {
+    "id": "9890208073",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9890208073-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b43_qEHBkyH283R629x6BaakGjKQ/310x430/cd31cc0e.webp?s=de0fac7a23ddea1bd632337737258439207995a5",
+    "addedAt": "2026-09-04T21:08:15.850Z",
+    "processed": false,
+    "triaged": false
   }
 ]
