@@ -16967,5 +16967,31 @@
     "geminiFault": "La manette rose ne se connecte plus",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 92.3
+  },
+  {
+    "id": "9881819429",
+    "category": "Console",
+    "title": "Cover Ps5 Fat Bianca - Lettore Disco",
+    "price": 24.5,
+    "totalPrice": 26.43,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9881819429-cover-ps5-fat-bianca-lettore-disco?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00eb5_vnMG8ZuLwkjbLCLGStBrRPV1/310x430/85597dcd.webp?s=923cb9e393bc18b6200eae86141183da15062b34",
+    "addedAt": "2026-09-04T06:29:28.574Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9881825400",
+    "category": "Console",
+    "title": "playstation 4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9881825400-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004fc_4Se7ZQWAMEE819vozgadRmWw/310x430/80813fed.webp?s=c72118b87bf75c3e91e19e1af12e78ffebb78d1c",
+    "addedAt": "2026-09-04T06:30:31.017Z",
+    "processed": false,
+    "triaged": false
   }
 ]
