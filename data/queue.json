@@ -17443,8 +17443,10 @@
     "url": "https://www.vinted.it/items/9886346894-scatola-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02256_kZSjTEa2b6iic5hHpSJVTGBk/310x430/6eb82616.webp?s=6433612ad4f189f6d62b7d5b819a5b3f5f47d5c5",
     "addedAt": "2026-09-04T14:42:53.046Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.65€, sotto soglia"
   },
   {
     "id": "9886345173",
@@ -17495,8 +17497,10 @@
     "url": "https://www.vinted.it/items/9886473830-soporte-techo-ps4-pro-rojo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01248_sUa6ptaHkXRSZBoGsQhJRHya/310x430/48248347.webp?s=ca9fe2e44b43df5ed918191e6f2d8d7441eae82d",
     "addedAt": "2026-09-04T14:53:27.945Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.8€, sotto soglia"
   },
   {
     "id": "9886473591",
@@ -17521,6 +17525,19 @@
     "url": "https://www.vinted.it/items/9886491539-console-playstation-4-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_007e1_NJkeneMDzehGZDt5V5SEYWtG/310x430/6ea4e2fb.webp?s=e8a98e4b1658d3eebcaf1ea2278b508b10945a77",
     "addedAt": "2026-09-04T14:55:34.849Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886511572",
+    "category": "Console",
+    "title": "Soporte Techo PS4 FAT",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9886511572-soporte-techo-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fa6_JJd4u4JxxL7F4wpqtros7qSh/310x430/ee540cfc.webp?s=b5dbd083483b00535d1ec3b5dabafc1fc9f9edd2",
+    "addedAt": "2026-09-04T14:57:42.789Z",
     "processed": false,
     "triaged": false
   }
