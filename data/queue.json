@@ -1,23 +1,5 @@
 [
   {
-    "id": "9849416356",
-    "category": "Console",
-    "title": "PS4",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9849416356-ps4-plus-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_002cf_TXaEMDjxYtkaF3gJkhdEXnEb/310x430/605f117e.webp?s=937c388035290847bf168666aa0343b4f77cb8f2",
-    "addedAt": "2026-08-31T23:26:32.742Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "licità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4, plus manette\nDiscrete·PlayStation·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPS4, plus manette, plus câblage, HDMI surchauffe de temps en temps bouton pour l’allumer cassé, obligé de retirer la coque gauche et surélever la coque droit pour appuyer sur le bouton d’allumage, mais sinon elle marche parfaitement\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Surriscaldamento occasionale, tasto di accensione rotto (richiede rimozione/sollevamento scocca per accenderla)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "9849428286",
     "category": "Console",
     "title": "Ps4 fat  lire l'annonce",
@@ -19278,5 +19260,23 @@
     "geminiFault": "Non legge i dischi (lettore ottico guasto), ma installa i giochi e funziona bene per il resto",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "9890766699",
+    "category": "Console",
+    "title": "PlayStation 4 lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9890766699-playstation-4-lite-500-gb-speicher-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01933_u1z6iyzBA2CXzQ6rhpVjaSFT/310x430/98777aa7.webp?s=73de3759ead2718620862445d51f8d9d3ddab571",
+    "addedAt": "2026-09-04T23:22:06.447Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 lite, 500 gb speicher + Controller\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nVerkaufe PlayStation mit Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
