@@ -18864,5 +18864,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.55€, sotto soglia"
+  },
+  {
+    "id": "9889313694",
+    "category": "Console",
+    "title": "Ps5 psg",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9889313694-ps5-psg?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a4f_NeYVmEvbzb2XnSc4uUKknxjA/310x430/b263e4f5.webp?s=c2ce02771527ee1d069bdab2fa5b6e6461b8bca0",
+    "addedAt": "2026-09-04T19:13:24.397Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.45€, sotto soglia"
+  },
+  {
+    "id": "9889321089",
+    "category": "Console",
+    "title": "Scocca laterale PS5 slim",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9889321089-scocca-laterale-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00cc8_rCeweBXRQBE8d4UQc9y87pwB/310x430/7e8bd10b.webp?s=1f8e9dbe4fb1a9e98f7456ab6af9831263ef9f84",
+    "addedAt": "2026-09-04T19:14:27.311Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   }
 ]
