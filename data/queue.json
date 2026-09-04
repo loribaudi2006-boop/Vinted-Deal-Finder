@@ -1,23 +1,5 @@
 [
   {
-    "id": "9838453035",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9838453035-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0080b_5wSJSxHHt4pzyidRX4mrFzbg/310x430/fbe3f3d9.webp?s=e80d3da9fc2fbef57abc6b2fc7da6b769bdf26aa",
-    "addedAt": "2026-08-31T06:57:39.977Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nNuovo senza cartellino·PlayStation·Caricato 5 min fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n5 min fa\nfonctionne parfaitement sans manette avec les cables et trois jeux passer en privé, me demandait des jeux si la Play est acheté, les jeux sont offerts\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza manette (funziona perfettamente)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "9838575996",
     "category": "Console",
     "title": "Boite PS5 fat + lecteur God Of War Ragnarok",
@@ -16915,8 +16897,10 @@
     "url": "https://www.vinted.it/items/9881819429-cover-ps5-fat-bianca-lettore-disco?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00eb5_vnMG8ZuLwkjbLCLGStBrRPV1/310x430/85597dcd.webp?s=923cb9e393bc18b6200eae86141183da15062b34",
     "addedAt": "2026-09-04T06:29:28.574Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.57€, sotto soglia"
   },
   {
     "id": "9881825400",
@@ -16928,8 +16912,13 @@
     "url": "https://www.vinted.it/items/9881825400-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_004fc_4Se7ZQWAMEE819vozgadRmWw/310x430/80813fed.webp?s=c72118b87bf75c3e91e19e1af12e78ffebb78d1c",
     "addedAt": "2026-09-04T06:30:31.017Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 slim\nOttime·PlayStation·Caricato 31 min fa\n\n100,00 €\n\n105,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n31 min fa\ntoute propre 0 bruit\n0 bug\npas de surchauffe\n\nbonne qualité prix\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.3
   },
   {
     "id": "9881885346",
@@ -16941,8 +16930,10 @@
     "url": "https://www.vinted.it/items/9881885346-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00664_ic1TELV2wqp68vcJPrG9N55z/310x430/3e45e8ca.webp?s=6918a7cc49f8904fc9fa6757619b17269dfbd427",
     "addedAt": "2026-09-04T06:49:18.437Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9881922300",
@@ -16954,7 +16945,27 @@
     "url": "https://www.vinted.it/items/9881922300-ecran-switch-hackable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0140e_qWU2ZQ1migA6KoL2xk5xY46k/310x430/838421c4.webp?s=b94dd48ccb563e69a75a75c3e1fc9f86c508228c",
     "addedAt": "2026-09-04T06:54:32.281Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nEcran switch hackable\nNuovo senza cartellino·Nintendo·Caricato 7 min fa\n\n44,99 €\n\n47,94 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n7 min fa\nBlue screen\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Blue screen",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.06
+  },
+  {
+    "id": "9838453581",
+    "category": "Console",
+    "title": "Cerco PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9838453581-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016b4_DUw1ret3ZsYbhsiHiGUSY93S/310x430/fadc5724.webp?s=375a118e45bddee90d2bfc11578e08d323d7debf",
+    "addedAt": "2026-09-04T07:00:48.186Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
