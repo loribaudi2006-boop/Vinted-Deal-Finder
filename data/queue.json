@@ -1,20 +1,5 @@
 [
   {
-    "id": "9838930735",
-    "category": "Console",
-    "title": "Jeu fifa 14 ps4",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9838930735-jeu-fifa-14-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_018a7_x9LtyiBHomKh8UYf1gNkiPk9/310x430/181d1dc5.webp?s=545e12648fb5453c105dc1cfcc1fe734d12f55fa",
-    "addedAt": "2026-08-31T08:14:06.457Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9838968494",
     "category": "Console",
     "title": "Vend ps4 slim avec manette et deux joue ps4",
@@ -16934,5 +16919,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9882361715",
+    "category": "Console",
+    "title": "Soporte mando ps5 GTA6",
+    "price": 9.95,
+    "totalPrice": 11.15,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9882361715-soporte-mando-ps5-gta6?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010d7_3bK1YUgZgKgENxSsY4zaCqox/310x430/6f1a0640.webp?s=d493d177f564f30c92eb73d8acc44de2160d3630",
+    "addedAt": "2026-09-04T08:08:36.858Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.85€, sotto soglia"
   }
 ]
