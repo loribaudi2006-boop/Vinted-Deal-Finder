@@ -1,20 +1,5 @@
 [
   {
-    "id": "9838968494",
-    "category": "Console",
-    "title": "Vend ps4 slim avec manette et deux joue ps4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9838968494-vend-ps4-slim-avec-manette-et-deux-joue-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_007b3_XeWLZ8CM9TRhDUAna4EnZcmT/310x430/6c810b54.webp?s=9267dbb7cd3d12c11aa1e60359be20acd59c8ae1",
-    "addedAt": "2026-08-31T08:18:16.694Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9839811214",
     "category": "Console",
     "title": "Manette console ps4",
@@ -16934,5 +16919,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2.85€, sotto soglia"
+  },
+  {
+    "id": "9882441524",
+    "category": "Console",
+    "title": "4 pezzi staffe per PS4",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 98% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9882441524-4-pezzi-staffe-per-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0046c_pahPngVT4uEherVbcDTnfnWJ/310x430/059a88c5.webp?s=1ce0fe63adb4d0dedd4a795567f5324690db17f0",
+    "addedAt": "2026-09-04T08:19:04.417Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.2€, sotto soglia"
+  },
+  {
+    "id": "9882486164",
+    "category": "Console",
+    "title": "Ps4 Slim",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9882486164-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00629_M2tVAQ1exXP9u2bNWTgNouaC/310x430/8e329e06.webp?s=64473dfd746cf14540c2f59742198f0a315cd4e9",
+    "addedAt": "2026-09-04T08:24:17.273Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Slim\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlay 4 Slim très bon état avec manette d'origine en bon état aussi\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 57.85
   }
 ]
