@@ -44,7 +44,7 @@ function isNightThrottled(pendingCount) {
 function pickCandidates(queue) {
   return queue
     .filter(x => x.triageResult === 'promising' && !x.processed)
-    .sort((a, b) => new Date(b.addedAt) - new Date(a.addedAt))
+    .sort((a, b) => new Date(a.addedAt) - new Date(b.addedAt))
     .slice(0, MAX_PER_RUN);
 }
 

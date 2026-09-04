@@ -97,7 +97,7 @@ function pickCandidates(queue) {
     .sort((a, b) => a.totalPrice - b.totalPrice);
   const rest = untriaged
     .filter(x => x.totalPrice > config.flashAlertMaxPrice)
-    .sort((a, b) => new Date(b.addedAt) - new Date(a.addedAt));
+    .sort((a, b) => new Date(a.addedAt) - new Date(b.addedAt));
   return [...cheap, ...rest].slice(0, MAX_PER_RUN);
 }
 
