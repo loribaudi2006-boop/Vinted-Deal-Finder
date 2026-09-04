@@ -16939,7 +16939,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_0123a_B91AmCxBChUpys4Rwj5Sje4J/310x430/4d2cebe2.webp?s=9cbd8759651de69f5099d713c18ee3ff027e1c6c",
     "addedAt": "2026-09-04T11:41:59.805Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\n+ 7\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 Fat\nBuone·PlayStation·Caricato 4 min fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nVendo Ps4 Fat in condizioni molto buone, per inutilizzo\nCon Dualshock e cavo di alimentazione, il Pad mostra un piccolo difetto sull’impugnatura sinistra\nRegalo anche Spider-Man per Ps4 e GTA V.\nOttima per chi vuole interfacciarsi al mondo di gioco e risparmiare…\nAvendola da molti anni ho smarrito lo scatolo originale\n... altro\nSpedizione\nda 4,09 €",
+    "geminiFault": "Il Pad mostra un piccolo difetto sull'impugnatura sinistra, manca lo scatolo originale",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   },
   {
     "id": "9884347170",
@@ -16964,8 +16969,13 @@
     "url": "https://www.vinted.it/items/9884343787-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0257c_Gp3K1cdTGTHnDue6ZzoSgGjc/310x430/f23e020a.webp?s=260e8e63d349382bd8f5b7257ff966e78073b6ab",
     "addedAt": "2026-09-04T11:41:59.805Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 5 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nPlayStation 4 + manette compatible + câbles\nEn très bon état de marche, seulement un problème : les CD ne fonctionnent pas…\nNon négociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "i CD non funzionano (problema al lettore ottico)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   },
   {
     "id": "9884388797",
@@ -16990,6 +17000,21 @@
     "url": "https://www.vinted.it/items/9884377301-ps4-a-vendre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a3a_A7xy1oRA6dD1QANKAJP8nvRu/310x430/5ea198d5.webp?s=8e38a13a4ffe3be14f6a25b52a0fecffa8ddd3d5",
     "addedAt": "2026-09-04T11:45:08.426Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9884421755",
+    "category": "Console",
+    "title": "🎮 PlayStation 4 FAT 500 GB – Funcionando perfectamente",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9884421755-playstation-4-fat-500-gb-funcionando-perfectamente?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00993_YpxNPfQ6musrGZahp1175Xkm/310x430/49e99725.webp?s=9f802c9dfcc0953be00865fd8ef6fe405acb8d61",
+    "addedAt": "2026-09-04T11:49:18.801Z",
     "processed": false,
     "triaged": false
   }
