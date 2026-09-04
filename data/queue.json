@@ -17109,7 +17109,7 @@
     "url": "https://www.vinted.it/items/9884924418-switch-nintendo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0072b_BxB4s3B6p8D4HwprVbBXTWDW/310x430/65e6f214.webp?s=389b6f98a6e3b527a70160c3e7e92234a486ac9c",
     "addedAt": "2026-09-04T12:37:24.306Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "iffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n10\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nSwitch, Nintendo\nOttime·Nintendo·Caricato 15 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n15 min fa\nSwitch, Nintendo, très bon état, plus un jeu FIFA\nSpedizione\nda 9,49 €\nChiedi info",
@@ -17142,8 +17142,10 @@
     "url": "https://www.vinted.it/items/9884972681-nintendo-switch-hulle?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02143_MemfvEty3iP5cWkCaAKtfEnJ/310x430/e8bdb5b8.webp?s=f1a68f500c98276900b2c4c97a80cb1ece5686e5",
     "addedAt": "2026-09-04T12:40:32.780Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.1€, sotto soglia"
   },
   {
     "id": "9884981368",
@@ -17181,8 +17183,13 @@
     "url": "https://www.vinted.it/items/9884991469-ps4-slim-1tb-2-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02102_YAHteM9RfbKJ6a5TFAqs7pF4/310x430/0a47e544.webp?s=c01294a82e09bc2e72a57e9469d2064d07bf3302",
     "addedAt": "2026-09-04T12:42:38.221Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Bambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim 1tb + 2 controller + cavi\nBuone·PlayStation·Caricato 26 min fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n26 min fa\nNON COMPRARE A 1 EURO! Fate offerte.\n\nVendo PlayStation 4 Slim da 1tb perfettamente funzionante, aggiornata al firmware 12.50 + 2 controller originali.\n\nCosa include l'annuncio:\n- Console PS4 Slim: condizioni ottime, silenziosa, pulita e testata al 100%. È possibile il jailbreak (posso fornire anche il bluray per farlo)\n- 2 Controller DualShock 4 originali moddati con levette Hall Effect: zero rischio di stick drift grazie. ai sensori magnetici, risposta precisa e durata nettamente superiore rispetto agli analogici tradizionali.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 130
   },
   {
     "id": "9884986539",
@@ -17207,8 +17214,10 @@
     "url": "https://www.vinted.it/items/9885005549-playstation-2-slim-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02312_8fGKdkASMhttrcs5fCQpDC8W/310x430/65ecb6ed.webp?s=2793568976dd8a803a98ca8fed1b63c025bf4e74",
     "addedAt": "2026-09-04T12:43:40.830Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.05€, sotto soglia"
   },
   {
     "id": "9885011296",
@@ -17266,8 +17275,10 @@
     "url": "https://www.vinted.it/items/9885155203-pochette-nintendo-switch-1-super-mario-odyssey?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01e95_eAggacuFFtpn5zVoKyipJEEk/310x430/326c6d6c.webp?s=0701f99b5ba1b8a7b879f390001645e1cf1243cc",
     "addedAt": "2026-09-04T12:57:15.423Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9885165687",
@@ -17279,8 +17290,10 @@
     "url": "https://www.vinted.it/items/9885165687-xbox-one-s-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d18_7XyoaDpHoWxDzuR1Pu85Nd8y/310x430/d49b1fea.webp?s=c18fecd6c9dccebed4db05fd927a5b6bf098bf02",
     "addedAt": "2026-09-04T12:58:17.839Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   },
   {
     "id": "9885161181",
@@ -17331,6 +17344,73 @@
     "url": "https://www.vinted.it/items/9885227162-switch-tres-bon-etat-vendu-avec-animal-crossing?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01980_y67mDSKA9S1cqoJQxVSqMPAJ/310x430/6522e05f.webp?s=398bea5a6e36cca5a4913602d08fa1432975ca2d",
     "addedAt": "2026-09-04T13:04:33.621Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885249585",
+    "category": "Console",
+    "title": "Jeux Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9885249585-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0218b_2N2CEnrUAWTi32ur3x14mydf/310x430/e4fc119d.webp?s=54b8ea6c597ffe08ac20275f9f39417322eb5e05",
+    "addedAt": "2026-09-04T13:06:39.157Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.8€, sotto soglia"
+  },
+  {
+    "id": "9885266466",
+    "category": "Console",
+    "title": "Jeux Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9885266466-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01ad4_3AyuMEp7TmD8GnDi1f1mrPYQ/310x430/199a211a.webp?s=44acae0f7acb2fc64e8c9f6bbe84da5e25659bae",
+    "addedAt": "2026-09-04T13:07:41.695Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885313992",
+    "category": "Console",
+    "title": "Jeux Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9885313992-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00c91_BhrJ9YbxWCQTU9xCKkVRGJ4W/310x430/b5f2dfde.webp?s=c25fafa1d4fe47388f0537dff36ffe6f797500d9",
+    "addedAt": "2026-09-04T13:11:52.698Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885298780",
+    "category": "Console",
+    "title": "Jeux Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9885298780-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01006_ZTCXhFgP7pEYdrTzMMNzckxS/310x430/d148eec5.webp?s=926e3bf4414863a45847ec4e49e8fbdb0047a70c",
+    "addedAt": "2026-09-04T13:11:52.698Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885280552",
+    "category": "Console",
+    "title": "Xbox One 2016",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9885280552-xbox-one-2016?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00343_1ZuAgcxjvYAwzub4jWC6pmid/310x430/42536113.webp?s=72c7ab6d3db58686a46008347a490d03b91141b7",
+    "addedAt": "2026-09-04T13:11:52.698Z",
     "processed": false,
     "triaged": false
   }
