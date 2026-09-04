@@ -1,20 +1,5 @@
 [
   {
-    "id": "9838619204",
-    "category": "Console",
-    "title": "Manuale della guida veloce per PS4",
-    "price": 3,
-    "totalPrice": 3.85,
-    "reason": "prezzo 98% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9838619204-manuale-della-guida-veloce-per-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0054e_DCx2jrSc5tQn4g1GgfscAQsd/310x430/36f7c3cc.webp?s=b94530c8caee3e7a37a6eeaf7bdb8ebdeacd217f",
-    "addedAt": "2026-08-31T07:28:40.638Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.15€, sotto soglia"
-  },
-  {
     "id": "9838685424",
     "category": "Console",
     "title": "Switch lite",
@@ -16970,5 +16955,54 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.55
+  },
+  {
+    "id": "9882099707",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 97% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9882099707-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0189c_qCU7xY75xhxYCmKdGWmhN1xd/310x430/0254f093.webp?s=0ee11b82d45c66d2650063eb08acc4ba084e876e",
+    "addedAt": "2026-09-04T07:27:55.242Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "y e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nOttime·Xbox·Caricato un minuto fa\n\n3,00 €\n\n3,85 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nVENDO CONSOLE FUNZIONANTE( COME IN FOTO)\n\nJOYSTICK NON È COMPRESO!!!\n\nIL PREZZO NON SI RIFERISCE AL LOTTO\n\nSI ACCETTANO OFFERTE\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il joystick",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 36.15
+  },
+  {
+    "id": "9882127610",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 97% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9882127610-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0189c_qCU7xY75xhxYCmKdGWmhN1xd/310x430/0254f093.webp?s=0ee11b82d45c66d2650063eb08acc4ba084e876e",
+    "addedAt": "2026-09-04T07:33:08.174Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "y e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nOttime·Xbox·Caricato un minuto fa\n\n3,00 €\n\n3,85 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nVENDO CONSOLE FUNZIONANTE( COME IN FOTO)\n\nJOYSTICK NON È COMPRESO!!!\n\nIL PREZZO NON SI RIFERISCE AL LOTTO\n\nSI ACCETTANO OFFERTE\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick non compreso, ma console dichiarata funzionante",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 45.15
+  },
+  {
+    "id": "9882150536",
+    "category": "Console",
+    "title": "Playstation 4 sans manette",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9882150536-playstation-4-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01533_uhcGJi9Nebp6daEv2cM3YQ1U/310x430/8ef36a54.webp?s=c7d6be8a7511c75887e9cdbb09a137d091a7f9eb",
+    "addedAt": "2026-09-04T07:36:15.685Z",
+    "processed": false,
+    "triaged": false
   }
 ]
