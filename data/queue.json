@@ -17003,5 +17003,18 @@
     "geminiFault": "smontata, manca l'hard disk",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "9882747780",
+    "category": "Console",
+    "title": "ps4 slim+cavi+controller",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9882747780-ps4-slimcavicontroller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00c81_AQKUrEfADBk891TavrSGRHsP/310x430/d7a2785c.webp?s=a757d0ce8811aeea4051755bbdaf80344a5ae75d",
+    "addedAt": "2026-09-04T08:56:39.754Z",
+    "processed": false,
+    "triaged": false
   }
 ]
