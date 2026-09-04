@@ -17464,8 +17464,10 @@
     "url": "https://www.vinted.it/items/9886345173-battletron-gaming-car-bracket-for-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_011cd_e3DCg6SmziGtbmxAz5FzN7sM/r3/310x430/a48ac864.webp?s=b796a485ddc30efe84845cf11770735d4c0155f1",
     "addedAt": "2026-09-04T14:42:53.046Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.17€, sotto soglia"
   },
   {
     "id": "9885962800",
@@ -17559,8 +17561,10 @@
     "url": "https://www.vinted.it/items/9886625815-soporte-techo-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_001fd_3V4dDwKoKuxWHH2o64Nt6jer/310x430/cbc2abdb.webp?s=b3e848fe5c3db4a05a4b58fb94d44e34ec161bf3",
     "addedAt": "2026-09-04T15:07:09.103Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.8€, sotto soglia"
   },
   {
     "id": "9886373754",
@@ -17598,6 +17602,71 @@
     "url": "https://www.vinted.it/items/9886722063-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00107_Ddz7NaZBNYRM1TduWZ9GsNJu/310x430/4fcdacb8.webp?s=9fdd6724ac3eff5429292a99962f322dbd6fa381",
     "addedAt": "2026-09-04T15:15:30.744Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886734321",
+    "category": "Console",
+    "title": "Fifa 23 ps4",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9886734321-fifa-23-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_026e3_5yhkHrr4itwfjQkd2eL467pL/310x430/848d289b.webp?s=8819a494eecc6c6a0d1452fab46624cdd7a1d079",
+    "addedAt": "2026-09-04T15:16:33.233Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886765834",
+    "category": "Console",
+    "title": "PS4 nera 500gb",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9886765834-ps4-nera-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00d69_yTke5vtqX9DHo8G7qjnXHdXs/310x430/8e261e7e.webp?s=201f9385cfc00df5d26035dda4a74fecb11cab20",
+    "addedAt": "2026-09-04T15:19:41.062Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886824254",
+    "category": "Console",
+    "title": "ps4 slim 500Go",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9886824254-ps4-slim-500go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0130b_TXtghDyNC1DgdZ4mGNqHFhHE/310x430/8f31e04a.webp?s=c9304a5f4c3b411a409a4ce6d21c50e1b1a979b5",
+    "addedAt": "2026-09-04T15:23:52.199Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886850122",
+    "category": "Console",
+    "title": "Coque ps5 fat",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9886850122-coque-ps5-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00fa4_FegYHHzpKojJaLn6Phk8Hpf2/310x430/68024652.webp?s=812e0898168bb5575a9d33d95590be83b1a98fda",
+    "addedAt": "2026-09-04T15:25:58.052Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9886842601",
+    "category": "Console",
+    "title": "Jeu roller Costes Tycon aventure sur switch",
+    "price": 13.5,
+    "totalPrice": 14.88,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9886842601-jeu-roller-costes-tycon-aventure-sur-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00eb8_YVSfbtzQxsbzFpZLU3pxkFke/310x430/8a133649.webp?s=d81cb79b4edfe734eba1743a5a49baca522caacf",
+    "addedAt": "2026-09-04T15:25:58.053Z",
     "processed": false,
     "triaged": false
   }
