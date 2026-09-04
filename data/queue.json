@@ -18738,5 +18738,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "9889000306",
+    "category": "Console",
+    "title": "Base ps5",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9889000306-base-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0067b_wassNDyfy7bkiLorWM8j8Tqi/310x430/7606a55a.webp?s=8a80d70bd49fe6899402d3c408fc90304cf074ca",
+    "addedAt": "2026-09-04T18:39:57.637Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.4€, sotto soglia"
+  },
+  {
+    "id": "9889058950",
+    "category": "Console",
+    "title": "Jeux PS4",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 97% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9889058950-jeux-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00308_9VksneTkyo64NTnbeQprd9js/310x430/94069296.webp?s=f939a31b70a1be22981fd097aa11536b72ec1144",
+    "addedAt": "2026-09-04T18:46:13.005Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.1€, sotto soglia"
+  },
+  {
+    "id": "9889078131",
+    "category": "Console",
+    "title": "PS4 500GB con Cavi - PlayStation 4 Fat HS",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9889078131-ps4-500gb-con-cavi-playstation-4-fat-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_012af_WAthFsKtUN59Qskmm4T7U9od/310x430/925af3c8.webp?s=4d8fb300f7b3a9d93c9b53bae911275a1b941cf2",
+    "addedAt": "2026-09-04T18:48:18.488Z",
+    "processed": false,
+    "triaged": false
   }
 ]
