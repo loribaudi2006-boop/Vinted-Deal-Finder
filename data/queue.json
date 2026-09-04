@@ -17041,7 +17041,12 @@
     "photoUrl": "https://images1.vinted.net/t/06_0023b_r6mfBXtPPsT1p3ZacNGra9Sp/310x430/ea333cff.webp?s=67cf7386bda36e70e3b7a0e2e7b0e525e0546fcf",
     "addedAt": "2026-09-04T12:02:54.465Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 con formula uno\nBuone·PlayStation·Caricato un'ora fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nPs4 messa bene solo gli analogici un po rovinati e formula uno usata pochissime volte quasi nuova\nSpedizione\nda 4,09 €",
+    "geminiFault": "Analogici un po' rovinati",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.85
   },
   {
     "id": "9884564448",
@@ -17212,8 +17217,10 @@
     "url": "https://www.vinted.it/items/9884986539-ps4-con-mando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00e58_rcpf7shKqdfbjELKJRNK365f/310x430/d0a73d80.webp?s=1b7ffebde31bb010e1d46e2221e8802cb03c0d54",
     "addedAt": "2026-09-04T12:42:38.221Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9885005549",
@@ -17255,7 +17262,7 @@
     "url": "https://www.vinted.it/items/9885088796-nintendo-switch-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00298_b7F5H8a8hqLh5bi4PKMJ2V7j/310x430/3c90b9f8.webp?s=7be36679140c94f2366d3b3f65254be1d24b0bb9",
     "addedAt": "2026-09-04T12:52:02.619Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "‌\n\n10\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch NON funzionante\nBuone·Nintendo·Caricato 12 min fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n12 min fa\nVendo Nintendo Switch NON funzionante. Non so quale sia il problema ma quando è in carica non si accende. Potrebbe essere un danno grave o no (non mi sono informata).\nVendo per pezzi di ricambio o per integrazione di accessori che sono tutti in ottime condizioni come da foto, pari al nuovo. Vendo tutto insieme, NON PEZZI SINGOLI.\nPer qualsiasi altra informazione scrivetemi✨\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -17321,8 +17328,10 @@
     "url": "https://www.vinted.it/items/9885161181-playstation-4-1t?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01d82_Y8G2k7jSsL1hwaLFrT9tL2x7/310x430/b8528267.webp?s=a0523ebf49373d58e14da0981d02a2bc6a482416",
     "addedAt": "2026-09-04T12:58:17.839Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9885196902",
@@ -17408,8 +17417,10 @@
     "url": "https://www.vinted.it/items/9885313992-jeux-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00c91_BhrJ9YbxWCQTU9xCKkVRGJ4W/310x430/b5f2dfde.webp?s=c25fafa1d4fe47388f0537dff36ffe6f797500d9",
     "addedAt": "2026-09-04T13:11:52.698Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
   },
   {
     "id": "9885298780",
@@ -17434,8 +17445,10 @@
     "url": "https://www.vinted.it/items/9885280552-xbox-one-2016?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00343_1ZuAgcxjvYAwzub4jWC6pmid/310x430/42536113.webp?s=72c7ab6d3db58686a46008347a490d03b91141b7",
     "addedAt": "2026-09-04T13:11:52.698Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   },
   {
     "id": "9885387941",
@@ -17447,6 +17460,52 @@
     "url": "https://www.vinted.it/items/9885387941-playstation-4-fat-500gb-firmware-1102-legge-solo-digitale-lettore-da-sistemare?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02533_ZB5VpNjTtT5wnLcRW6Kf5cUR/310x430/001f3c4e.webp?s=15724f10be6c8fd6979878fcface37cd9b692f3a",
     "addedAt": "2026-09-04T13:18:08.136Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9885517307",
+    "category": "Console",
+    "title": "playstation 4 + 5 giochi + un pad completamente funzionante",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9885517307-playstation-4-5-giochi-un-pad-completamente-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00505_ZDAqj8rBzY6Hn3EkesV3VFKL/310x430/9d3c02a6.webp?s=f79294998848a595baab998a5a6af4f640e33127",
+    "addedAt": "2026-09-04T13:29:37.652Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 + 5 giochi + un pad completamente funzionante\nOttime·PlayStation·Caricato 5 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nil pad non c’è nelle foto poiché l’ho lasciato nella mia seconda casa, ma qualora fosse interessati lo recupero e vi posso mostrare le foto assolutamente\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il pad non è visibile in foto perché nella seconda casa, ma il venditore offre di recuperarlo.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "9885556569",
+    "category": "Console",
+    "title": "PlayStation 4 500Gb",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9885556569-playstation-4-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e54_iPZkymdbQqHYaRDx61wVTxSr/310x430/4b918603.webp?s=a28a6b0150cc71cd0973481b6943630686b48648",
+    "addedAt": "2026-09-04T13:33:50.511Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9885582075",
+    "category": "Console",
+    "title": "Rangement jeu switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9885582075-rangement-jeu-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c37_Xom2Nga1pgLJCXoaEmMik9FA/310x430/2a33e99b.webp?s=8de83696389a3276499b7bb98e8af4f11f79677a",
+    "addedAt": "2026-09-04T13:35:55.770Z",
     "processed": false,
     "triaged": false
   }
