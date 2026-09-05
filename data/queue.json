@@ -1,35 +1,5 @@
 [
   {
-    "id": "9850837616",
-    "category": "Console",
-    "title": "Poignet pour switch",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9850837616-poignet-pour-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00abf_dRyQF9PWH2jNNg39E5rud7bz/310x430/5ea66b8e.webp?s=6f175cf31ca65a7dbbeee7077fb26693899960c1",
-    "addedAt": "2026-09-01T08:16:27.924Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.95€, sotto soglia"
-  },
-  {
-    "id": "9850893234",
-    "category": "Console",
-    "title": "dragonnes switch 1",
-    "price": 12,
-    "totalPrice": 13.3,
-    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9850893234-dragonnes-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0149d_PP7aVPngABSmJUgwBfYJ1qn7/310x430/a70346f3.webp?s=812a48ebfab175a1c1545bceec59d1a9c8494b7d",
-    "addedAt": "2026-09-01T08:23:47.288Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.3€, sotto soglia"
-  },
-  {
     "id": "9850955028",
     "category": "Console",
     "title": "Nintendo Switch Lite Corail",
@@ -19419,5 +19389,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10.63€, sotto soglia"
+  },
+  {
+    "id": "9892333584",
+    "category": "Console",
+    "title": "Nintendo Switch 1 & 2 accessoires",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9892333584-nintendo-switch-1-2-accessoires?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00270_qgVfPg4xcuRvsHSnff5AUqxL/310x430/5969ffd3.webp?s=245656b21870d9030d3622139b023f56c0401901",
+    "addedAt": "2026-09-05T08:16:57.022Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.7€, sotto soglia"
+  },
+  {
+    "id": "9853236660",
+    "category": "Console",
+    "title": "PS4 500GO",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9853236660-ps4-500go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_022a4_fKSaMgTxCp4QniMmsSFWgaC3/310x430/953762db.webp?s=08a52e3fe4a8d95c464fd2179d6c00d5ab499559",
+    "addedAt": "2026-09-05T08:22:09.423Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "llezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 500GO\nOttime·Sony·Caricato un minuto fa\n\n59,00 €\n\n62,65 €\nInclude la Protezione acquisti Pro\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsole Playstation 4 modèle CUH-1116A (500 GO) en très bon état.\n\n-La console fonctionne parfaitement.\n-Vendue avec le câble d'alimentation.\n-Quelques légères traces d'utilisation sur la coque de la console.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.35
   }
 ]
