@@ -1,20 +1,5 @@
 [
   {
-    "id": "9849788858",
-    "category": "Console",
-    "title": "cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9849788858-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01530_a1bhaFBHcrJX9eMRHXHesE1g/310x430/7e0619f7.webp?s=801ebae6f56e01762f587487573034d63ccb7d6e",
-    "addedAt": "2026-09-01T02:05:29.210Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "9849836826",
     "category": "Console",
     "title": "🎮 Nintendo Switch – Très bon état général + jeux et accessoires",
@@ -19263,5 +19248,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "9891120746",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891120746-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02665_8Mnn39vQTZgKiCGvpZZCFQFy/310x430/42d91f7a.webp?s=a9f3a9972db14635d72b4f93bab3de5838e43182",
+    "addedAt": "2026-09-05T02:01:30.188Z",
+    "processed": false,
+    "triaged": false
   }
 ]
