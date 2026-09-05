@@ -19779,5 +19779,50 @@
     "geminiFault": "Stick manette plastique abimee (controller stick plastic damaged)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.06
+  },
+  {
+    "id": "9896820728",
+    "category": "Console",
+    "title": "Firmware 13.50 PlayStation 4 PS4 500gb",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9896820728-firmware-1350-playstation-4-ps4-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01630_Mhn8Fi17D2M3Gb8Y8i2QpAFL/310x430/c441152d.webp?s=4e4d27e92399c14837fefbef146980abe5f28684",
+    "addedAt": "2026-09-05T14:15:15.642Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "9896912902",
+    "category": "Console",
+    "title": "Sonic the Hedgehog 2 – Steelbook – PS5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9896912902-sonic-the-hedgehog-2-steelbook-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01d96_CcGvqstCfxct4squaMRfyLFN/310x430/5323706a.webp?s=02b70d1abdb61c1d666425a5e88f1ace52a4ef6b",
+    "addedAt": "2026-09-05T14:21:31.819Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.3€, sotto soglia"
+  },
+  {
+    "id": "9896900278",
+    "category": "Console",
+    "title": "Nintendo switch light",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9896900278-nintendo-switch-light?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02314_nQ7bTXZTQEeaNMmGrm6YnJBB/310x430/22d6c10d.webp?s=ca20e508650958670e3dabf5a0b792de5dae1b5a",
+    "addedAt": "2026-09-05T14:21:31.819Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
