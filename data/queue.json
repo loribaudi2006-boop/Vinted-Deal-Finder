@@ -19272,8 +19272,11 @@
     "url": "https://www.vinted.it/items/9891392807-supporto-a-muro-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0005a_N133FYwBCssSQtgUUDYKbEy5/310x430/a7577466.webp?s=c67058b3a1029c27872e4bd2188c2d4354e5fd5f",
     "addedAt": "2026-09-05T04:57:16.728Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9891400780",
@@ -19285,8 +19288,11 @@
     "url": "https://www.vinted.it/items/9891400780-nintendo-switch-oled?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00ad2_KGqpeu2neEUpxcCEFRWDkBHr/310x430/10c8bbe8.webp?s=b5a33d8a6bf8f2ecac3bbdc9f8452ac9aa7db88d",
     "addedAt": "2026-09-05T05:01:25.957Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9891440136",
