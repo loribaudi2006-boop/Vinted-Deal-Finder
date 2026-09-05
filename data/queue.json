@@ -19404,5 +19404,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "9892280382",
+    "category": "Console",
+    "title": "Xbox One Spiele-Paket (4 Spiele): Forza Motorsport 7",
+    "price": 28.5,
+    "totalPrice": 30.63,
+    "reason": "prezzo 72% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9892280382-xbox-one-spiele-paket-4-spiele-forza-motorsport-7-rocket-league-ce-f1-2018-destiny?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014d8_UN7zkzrfQ2n44m1b1S4DSa8n/310x430/a8b71d24.webp?s=c6c3bde7e807c5f2f9d84acc8fd2a7b8e4128e25",
+    "addedAt": "2026-09-05T08:10:41.943Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10.63€, sotto soglia"
   }
 ]
