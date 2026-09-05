@@ -1,23 +1,5 @@
 [
   {
-    "id": "9850506177",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 27,
-    "totalPrice": 29.05,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9850506177-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01eb5_9JaY6JmUb6xwhPwdDNneoP1p/310x430/75e138c3.webp?s=acafc8637077ce8413ccc3819a1c41d18c6c26cd",
-    "addedAt": "2026-09-01T07:23:12.810Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch lite\nBuone·Nintendo·Caricato proprio adesso\n\n27,00 €\n\n29,05 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nNera. Tenuta bene ma il tasto analogico direzionale non funziona.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Tasto analogico direzionale non funziona",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60.95
-  },
-  {
     "id": "9850251963",
     "category": "Console",
     "title": "Xbox Series S 512 GB come nuova",
@@ -19413,5 +19395,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~18.05€, sotto soglia"
+  },
+  {
+    "id": "9891926518",
+    "category": "Console",
+    "title": "Nintendo Switch lite Protection neuf",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891926518-nintendo-switch-lite-protection-neuf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0071d_ft5bJBhPyipDCRQP2RzBpDKg/310x430/f1794b65.webp?s=e23bb2df77c8708fabe364bc67f5a5edc83a9833",
+    "addedAt": "2026-09-05T07:23:46.255Z",
+    "processed": false,
+    "triaged": false
   }
 ]
