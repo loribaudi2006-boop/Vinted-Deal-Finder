@@ -1,38 +1,5 @@
 [
   {
-    "id": "9851735559",
-    "category": "Console",
-    "title": "Xbox 360 slim non si accende",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "parola chiave: \"non si accende\"",
-    "url": "https://www.vinted.it/items/9851735559-xbox-360-slim-non-si-accende?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0265c_VBcgfpohYPNqNK2xQHKur8Uc/310x430/f519ab21.webp?s=5fba0303592594450481be6c0dd15e916eda3373",
-    "addedAt": "2026-09-01T09:54:37.333Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.3€, sotto soglia"
-  },
-  {
-    "id": "9851753611",
-    "category": "Console",
-    "title": "Vend ps4",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9851753611-vend-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01be9_12sq1ADKQEgPmZt3MvExEEnZ/310x430/c3bd01a3.webp?s=516efaf8dd45c88cee70b71a9a8aff9b8406fd72",
-    "addedAt": "2026-09-01T09:56:42.313Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVend ps4\nBuone·PlayStation·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVend ps4 500g\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 52.55
-  },
-  {
     "id": "9851838882",
     "category": "Console",
     "title": "Soul Calibur VI 6 - Collector's Edition Xbox no PS4 PS5",
@@ -19500,5 +19467,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "9893384946",
+    "category": "Console",
+    "title": "Écouteurs micro ps4",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9893384946-ecouteurs-micro-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00966_XQeTE1Xbgxmx64w51QfrGKq8/310x430/37282b21.webp?s=f879463b8ca68eaa3eec56475b8cdf737da98f6e",
+    "addedAt": "2026-09-05T09:55:02.856Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "9893410498",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9893410498-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00e4b_Ea9Z9aGE1CP3iJat7v4DExhG/310x430/cfd5bf1c.webp?s=f63ffd7b361b976a05aae44d1de94efd6b35f45c",
+    "addedAt": "2026-09-05T09:57:08.138Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
