@@ -1,23 +1,5 @@
 [
   {
-    "id": "9859495745",
-    "category": "Console",
-    "title": "PlayStation 4 funzionante + 2 controller e cavi",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9859495745-playstation-4-funzionante-2-controller-e-cavi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02509_ryvBY9Mmp34vw6rDWEvJRCdX/310x430/1637847c.webp?s=aeda7996d6a6eed736c1f6eec6e6b9eecb456539",
-    "addedAt": "2026-09-01T21:23:06.152Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "onicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 funzionante + 2 controller e cavi\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nendo PlayStation 4 perfettamente funzionante, testata di recente. Inclusi 2 controller originali, cavo di alimentazione e cavi AV.\n\n⚠️ Condizioni oneste: la scocca presenta alcuni segni di usura/graffi (vedi foto). Inoltre nella striscia lucida centrale manca un piccolo pezzo che si è staccato (visibile in foto ravvicinata). Nessun problema di funzionamento, solo estetico.\n\nIdeale per chi cerca una console economica e già pronta all'uso. Spedizione curata, imballo sicuro.\n\nPrezzo trattabile — chiedi pure info!\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Segni di usura/graffi sulla scocca e pezzo mancante nella striscia lucida centrale",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "9859164634",
     "category": "Console",
     "title": "nintendo switch lite jaune",
@@ -19506,5 +19488,20 @@
     "geminiFault": "Graffi e ammaccature estetiche, tasto fisico di espulsione disco non funzionante (espulsione via software), controller con scocca sollevata/ammaccata sotto",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "9901754589",
+    "category": "Console",
+    "title": "Soporte Nintendo Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9901754589-soporte-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a58_1JaHoH4b2UQ2FrDFjgcqbcry/310x430/73e1f1c8.webp?s=962f7a31f8134927642048c29ddeb25fb1547437",
+    "addedAt": "2026-09-05T21:25:39.064Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.8€, sotto soglia"
   }
 ]
