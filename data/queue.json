@@ -1,20 +1,5 @@
 [
   {
-    "id": "9859398246",
-    "category": "Console",
-    "title": "Switch Tasche",
-    "price": 2,
-    "totalPrice": 2.8,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9859398246-switch-tasche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_002c5_XHwgoZiuyJoXPwN638FppbTz/310x430/fed23e57.webp?s=43117f13d538bc9d9bdadd15b534b612cb897b86",
-    "addedAt": "2026-09-01T21:07:21.666Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~9.2€, sotto soglia"
-  },
-  {
     "id": "9859495745",
     "category": "Console",
     "title": "PlayStation 4 funzionante + 2 controller e cavi",
@@ -19445,7 +19430,27 @@
     "url": "https://www.vinted.it/items/9901592277-playstation-ps4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_000e5_CDRgkMADDyCGSki5pKFvQZaf/310x430/f9019fff.webp?s=65fd00166f6b2e3e7186c328d05dc4277c38f8e2",
     "addedAt": "2026-09-05T21:00:34.205Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "licità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation ps4 pro\nOttime·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 pro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.3
+  },
+  {
+    "id": "9901639774",
+    "category": "Console",
+    "title": "Boite VIDE Xbox series s",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 88% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/9901639774-boite-vide-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01c26_3659LhwrRYJsjAQp6CmUd8N8/310x430/4ad27928.webp?s=d0453fefb506c0908d1da30aebced9d587bcced5",
+    "addedAt": "2026-09-05T21:07:53.144Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
   }
 ]
