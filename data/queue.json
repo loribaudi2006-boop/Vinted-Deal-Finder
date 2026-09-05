@@ -1,23 +1,5 @@
 [
   {
-    "id": "9849836826",
-    "category": "Console",
-    "title": "🎮 Nintendo Switch – Très bon état général + jeux et accessoires",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9849836826-nintendo-switch-tres-bon-etat-general-jeux-et-accessoires?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01250_UJa5i3t91PGxQqMgbQ5isEMb/310x430/e83cbd88.webp?s=e5c8f7c413b094148862c6f73898a949d185328b",
-    "addedAt": "2026-09-01T02:30:32.439Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\n🎮 Nintendo Switch – Très bon état général + jeux et accessoires\nBuone·Nintendo·Caricato 3 ore fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 ore fa\nJe vends ma Nintendo Switch en bon état général, avec plusieurs accessoires et jeux visibles sur les photos.\n\nInclus :\n\n* Console Nintendo Switch\n* Paire de Joy-Con rouge et bleu\n* Pochette de transport\n* 3 jeux :\n* FIFA 23\n* Pokémon Épée\n* Minecraft\n* Médaille / pièce Pokémon visible sur les photos\n* Son câble HDMI d’origine et le chargeur d’origine\n\nÉtat de la console :\n\n* L’écran est intact et ne présente aucune rayure.\n* Le dos de la console présente quelques petites rayures d’utilisation.\n* Les Joy-Con présentent un léger joystick drift, à prendre en compte avant l’achat.\n* La console fonctionne et est vendue conformément aux photos.\n\nSi vous avez d’autres questions ou besoin d’autres photos n’hésitez pas !!\n... altro\nSpedizione\nda 9,49 €",
-    "geminiFault": "Léger joystick drift sui Joy-Con",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60.05
-  },
-  {
     "id": "9850014482",
     "category": "Console",
     "title": "Switch light avec un jeu",
@@ -19259,7 +19241,10 @@
     "url": "https://www.vinted.it/items/9891120746-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02665_8Mnn39vQTZgKiCGvpZZCFQFy/310x430/42d91f7a.webp?s=a9f3a9972db14635d72b4f93bab3de5838e43182",
     "addedAt": "2026-09-05T02:01:30.188Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
