@@ -19227,5 +19227,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "9890941784",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9890941784-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00200_NBtXcRELgYVh7ZwYirgXQ7kG/310x430/a6d605a7.webp?s=e25b63d58bf9f824c8926a0cadebfe127c8478e1",
+    "addedAt": "2026-09-05T00:34:09.970Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch\nOttime·Nintendo Switch·Caricato un minuto fa\n\n64,00 €\n\n67,90 €\nInclude la Protezione acquisti\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends cette Nintendo Switch grise avec sa boîte d'origine et tous ses accessoires SAUF le câble (facilement trouvable pour 3fois rien)\nÉcran de protection offert puisque déjà installé.\nSpedizione\n9,49 €",
+    "geminiFault": "Manca il cavo di alimentazione/ricarica",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.1
   }
 ]
