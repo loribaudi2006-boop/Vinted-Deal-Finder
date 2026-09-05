@@ -1,20 +1,5 @@
 [
   {
-    "id": "9850742003",
-    "category": "Console",
-    "title": "Xbox One S 1tb",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9850742003-xbox-one-s-1tb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01832_BUnkj8bhE7NCAnpynZAksutG/310x430/fcd2e2b3.webp?s=934b3cc19ec20f00c023fbc6464f066ab32edea6",
-    "addedAt": "2026-09-01T08:02:51.642Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
     "id": "9850837616",
     "category": "Console",
     "title": "Poignet pour switch",
@@ -19383,5 +19368,41 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "9892179918",
+    "category": "Console",
+    "title": "Ps4 bon état et fonctionnelle",
+    "price": 43,
+    "totalPrice": 45.85,
+    "reason": "prezzo 67% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9892179918-ps4-bon-etat-et-fonctionnelle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01fc1_NzoMD4xpvfzHerSKMGHh8PUa/310x430/86094bc7.webp?s=b44308cd1401d75f063b852d9ac0f10de4699202",
+    "addedAt": "2026-09-05T07:58:10.477Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 bon état et fonctionnelle\nBuone·PlayStation·Caricato proprio adesso\n\n43,00 €\n\n45,85 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPs4 fonctionnelle\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.15
+  },
+  {
+    "id": "9892208592",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9892208592-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0131b_A1ecdV8xrHRiZJNwfi4BfJdt/310x430/d0c23382.webp?s=14321af72d7cef8d9faef3c36c0f2d916aa6ac0f",
+    "addedAt": "2026-09-05T08:02:20.603Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nguter Zustand\nfür mehr bilder anschreiben\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
