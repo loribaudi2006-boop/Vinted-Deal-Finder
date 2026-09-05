@@ -19325,5 +19325,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9891533414",
+    "category": "Console",
+    "title": "Xbox one sans manette",
+    "price": 39.99,
+    "totalPrice": 42.69,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9891533414-xbox-one-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f93_Un3HkR12YeJpfvQ8nVKUDwvJ/310x430/c044dbc3.webp?s=f5e4f04a9147a835cfe979fd2d3b1621a3b6807a",
+    "addedAt": "2026-09-05T05:59:42.503Z",
+    "processed": false,
+    "triaged": false
   }
 ]
