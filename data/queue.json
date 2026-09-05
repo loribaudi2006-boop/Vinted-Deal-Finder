@@ -19258,6 +19258,35 @@
     "url": "https://www.vinted.it/items/9891334288-une-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e67_7qKXdtsXR1CSVu4mereFSHWY/310x430/da9a73be.webp?s=dc6347152aa53504c04eb4b29f56eddd9aa127ed",
     "addedAt": "2026-09-05T04:17:44.472Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9891384701",
+    "category": "Console",
+    "title": "🎮 Nintendo Switch Lite jaune – Très bon état",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891384701-nintendo-switch-lite-jaune-tres-bon-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_007bc_3KvsnEGdY1xDwAmfFYBe7BeS/310x430/807cb2cd.webp?s=d05b55e53c2c9453933834e903f45414fd12fc24",
+    "addedAt": "2026-09-05T04:52:04.951Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9891392807",
+    "category": "Console",
+    "title": "Supporto a muro PS5 Slim",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9891392807-supporto-a-muro-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0005a_N133FYwBCssSQtgUUDYKbEy5/310x430/a7577466.webp?s=c67058b3a1029c27872e4bd2188c2d4354e5fd5f",
+    "addedAt": "2026-09-05T04:57:16.728Z",
     "processed": false,
     "triaged": false
   }
