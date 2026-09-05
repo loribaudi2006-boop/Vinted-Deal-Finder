@@ -1,20 +1,5 @@
 [
   {
-    "id": "9850266804",
-    "category": "Console",
-    "title": "Cubiertas PS5 Cosmic Red",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9850266804-cubiertas-ps5-cosmic-red?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00f15_bVzH3oNCaf78hcf6ajvdAqMS/310x430/20c426ad.webp?s=aa294bfa00c12de8c4bf6ea13f3ba00f957f3332",
-    "addedAt": "2026-09-01T06:26:50.733Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5€, sotto soglia"
-  },
-  {
     "id": "9850367996",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -19336,6 +19321,61 @@
     "url": "https://www.vinted.it/items/9891533414-xbox-one-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01f93_Un3HkR12YeJpfvQ8nVKUDwvJ/310x430/c044dbc3.webp?s=f5e4f04a9147a835cfe979fd2d3b1621a3b6807a",
     "addedAt": "2026-09-05T05:59:42.503Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9891646413",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891646413-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01969_ZVCiBgNcHMtkSpMu7hzvHPiG/310x430/61f735b1.webp?s=97c4cc78cad929a2e35db8c7445113cce6b0eca2",
+    "addedAt": "2026-09-05T06:34:43.722Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9891628198",
+    "category": "Console",
+    "title": "Accessoire Nintendo Switch",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891628198-accessoire-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_006c0_Yg8YEQ8Etbb1LYRxt61QrHvr/310x430/778c93ba.webp?s=0151e57b3895684b40d2be69f2ad43aa6854ebce",
+    "addedAt": "2026-09-05T06:34:43.723Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9891574236",
+    "category": "Console",
+    "title": "Xbox one 365gb",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9891574236-xbox-one-365gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e64_pfAs2ZraWLoLuLSgJ57m1qSQ/310x430/bda8a094.webp?s=74869051a2e1aca1ce7aed49987871efc6a98627",
+    "addedAt": "2026-09-05T06:34:43.723Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9891289929",
+    "category": "Console",
+    "title": "Nintendo Switch AC Adapter Oficial - Adaptador de Corriente - Nuevo",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891289929-nintendo-switch-ac-adapter-oficial-adaptador-de-corriente-nuevo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02241_XjE5P4Hc7Bxn3fui8uqwsUzh/310x430/a2eff68d.webp?s=aae02d7e9d4570934a6f823bc0c7c647a6bdd178",
+    "addedAt": "2026-09-05T06:40:58.824Z",
     "processed": false,
     "triaged": false
   }
