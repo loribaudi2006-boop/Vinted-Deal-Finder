@@ -19304,8 +19304,11 @@
     "url": "https://www.vinted.it/items/9891440136-playstation-4-slim-1tb-jet-black-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_004c5_ys9uBT2ZyQc6ihHsnxVxgvvE/310x430/9ae42a87.webp?s=00ecf1b3b66c04547e3af41b49b80fd194045596",
     "addedAt": "2026-09-05T05:22:13.912Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9891447563",
@@ -19317,7 +19320,10 @@
     "url": "https://www.vinted.it/items/9891447563-ps4-fat-500-gb-revisionata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01922_PDsChyBS5QkhW62oSWzw6DHo/310x430/842e9677.webp?s=78b7f6660df9c1317cebd7381be6cc3a7f0059fb",
     "addedAt": "2026-09-05T05:26:23.523Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
