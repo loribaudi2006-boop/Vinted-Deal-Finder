@@ -19781,7 +19781,9 @@
     "url": "https://www.vinted.it/items/9894871169-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0005f_KhYtqJoHJtovciUv6EHCDKmw/310x430/a77017d5.webp?s=c889080eae5a7dc67a4b4fdbca99c1dd31a1ac37",
     "addedAt": "2026-09-05T11:55:03.633Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
   }
 ]
