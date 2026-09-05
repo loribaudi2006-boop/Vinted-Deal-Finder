@@ -1,20 +1,5 @@
 [
   {
-    "id": "9850367996",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9850367996-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_023a9_QbDWByGfn1WyP5FZ2cjESjrQ/310x430/412fab32.webp?s=1f76b9f4f3583fa58743bb120dcf806aa2121dbc",
-    "addedAt": "2026-09-01T06:53:59.668Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9850418934",
     "category": "Console",
     "title": "Playstation 4",
@@ -19337,8 +19322,10 @@
     "url": "https://www.vinted.it/items/9891646413-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01969_ZVCiBgNcHMtkSpMu7hzvHPiG/310x430/61f735b1.webp?s=97c4cc78cad929a2e35db8c7445113cce6b0eca2",
     "addedAt": "2026-09-05T06:34:43.722Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9891628198",
@@ -19350,8 +19337,10 @@
     "url": "https://www.vinted.it/items/9891628198-accessoire-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_006c0_Yg8YEQ8Etbb1LYRxt61QrHvr/310x430/778c93ba.webp?s=0151e57b3895684b40d2be69f2ad43aa6854ebce",
     "addedAt": "2026-09-05T06:34:43.723Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.1€, sotto soglia"
   },
   {
     "id": "9891574236",
@@ -19363,8 +19352,10 @@
     "url": "https://www.vinted.it/items/9891574236-xbox-one-365gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00e64_pfAs2ZraWLoLuLSgJ57m1qSQ/310x430/bda8a094.webp?s=74869051a2e1aca1ce7aed49987871efc6a98627",
     "addedAt": "2026-09-05T06:34:43.723Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.55€, sotto soglia"
   },
   {
     "id": "9891289929",
@@ -19376,8 +19367,10 @@
     "url": "https://www.vinted.it/items/9891289929-nintendo-switch-ac-adapter-oficial-adaptador-de-corriente-nuevo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02241_XjE5P4Hc7Bxn3fui8uqwsUzh/310x430/a2eff68d.webp?s=aae02d7e9d4570934a6f823bc0c7c647a6bdd178",
     "addedAt": "2026-09-05T06:40:58.824Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
   },
   {
     "id": "9891721630",
@@ -19389,7 +19382,24 @@
     "url": "https://www.vinted.it/items/9891721630-playstation-4-white-edition-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0038f_JEjvwhTX9Devv2z3juyy89Qh/310x430/7c726144.webp?s=d467f2cf21c00e11b5753643d00f8b7bdd0178d7",
     "addedAt": "2026-09-05T06:47:13.635Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9891772833",
+    "category": "Console",
+    "title": "Scatole vuote Nintendo Switch + Box Joy-Con + Vetro temperato (Solo Imballaggi)",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9891772833-scatole-vuote-nintendo-switch-box-joy-con-vetro-temperato-solo-imballaggi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0139c_ktFMYG5QCnodaxFKNkLb96gs/310x430/a93cffb0.webp?s=ba4dbfe844ac6a32115dacfda9fd40bd15c954b6",
+    "addedAt": "2026-09-05T06:57:40.093Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3€, sotto soglia"
   }
 ]
