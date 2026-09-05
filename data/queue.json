@@ -19246,5 +19246,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9891332932",
+    "category": "Console",
+    "title": "Solo Scatola PS5 825 GB GO",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 90% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9891332932-solo-scatola-ps5-825-gb-go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_005df_WKHEVJrTTBwvXx6WaGRvfm7L/310x430/ac05c039.webp?s=63379694d71e15a174f98b90a1c1c7eee4fa1794",
+    "addedAt": "2026-09-05T04:16:42.030Z",
+    "processed": false,
+    "triaged": false
   }
 ]
