@@ -19091,8 +19091,11 @@
     "url": "https://www.vinted.it/items/9902975523-nintendo-switch-oled?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00ad2_KGqpeu2neEUpxcCEFRWDkBHr/310x430/10c8bbe8.webp?s=b5a33d8a6bf8f2ecac3bbdc9f8452ac9aa7db88d",
     "addedAt": "2026-09-06T05:28:33.951Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9902996694",
@@ -19130,6 +19133,19 @@
     "url": "https://www.vinted.it/items/9899258515-nintendo-switch-2-solo-caja-y-manuales?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d31_vQaNKA9iiAWZvSjuj8t6LwZE/310x430/4f456e8d.webp?s=2f1915c99b2f479f70b43d6132694d1c2cb19987",
     "addedAt": "2026-09-06T05:48:24.072Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9903029801",
+    "category": "Console",
+    "title": "Ps4 rigenerata",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9903029801-ps4-rigenerata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d37_mcVavN8UC2ZPKji75gJd9WPd/310x430/b8968ff3.webp?s=7c173da156b0c9e111661ee1bc438307602b4471",
+    "addedAt": "2026-09-06T05:50:29.535Z",
     "processed": false,
     "triaged": false
   }
