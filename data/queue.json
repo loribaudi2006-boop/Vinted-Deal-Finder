@@ -19162,7 +19162,10 @@
     "url": "https://www.vinted.it/items/9902842105-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02083_C2kPzjYd3XdS5S6nNvCAHiN8/310x430/716ff8e7.webp?s=e1401e9c7227462cbc891a6bb16706310d6d8e95",
     "addedAt": "2026-09-06T03:58:51.558Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
