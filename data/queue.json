@@ -1,20 +1,5 @@
 [
   {
-    "id": "9849208661",
-    "category": "Console",
-    "title": "Lot Switch neuf",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9849208661-lot-switch-neuf?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0185a_Ygs6ogJNLSvyxHGQ4BEgUrfN/310x430/e5138579.webp?s=ec1f686636efd8de618b8f23729158b2c78c531e",
-    "addedAt": "2026-09-02T05:21:36.378Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "9860717067",
     "category": "Console",
     "title": "Xbox One 500gb Schwarz",
@@ -19113,5 +19098,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9902975523",
+    "category": "Console",
+    "title": "nintendo switch oled",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/9902975523-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ad2_KGqpeu2neEUpxcCEFRWDkBHr/310x430/10c8bbe8.webp?s=b5a33d8a6bf8f2ecac3bbdc9f8452ac9aa7db88d",
+    "addedAt": "2026-09-06T05:28:33.951Z",
+    "processed": false,
+    "triaged": false
   }
 ]
