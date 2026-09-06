@@ -20407,7 +20407,9 @@
     "url": "https://www.vinted.it/items/9915970314-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0188c_aD5myUs9V6XstYxZAXWQ6M3x/310x430/da370aba.webp?s=de79239eb563928fd0f36beac4a720782ccd2ef0",
     "addedAt": "2026-09-06T22:35:45.451Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
