@@ -1,23 +1,5 @@
 [
   {
-    "id": "9861716603",
-    "category": "Console",
-    "title": "Ps4 pour pièces",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9861716603-ps4-pour-pieces?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01295_nwdqmCxPKfavvgmkAYENGuWu/310x430/ba8490ab.webp?s=8f188f3f14b56088156f3d272794e00ddc6dd1e0",
-    "addedAt": "2026-09-02T08:41:36.174Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 pour pièces\nBuone·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nAucune idée si elle fonctionne stoker depuis un bon moment\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Aucune idée si elle fonctionne stoker depuis un bon moment",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 38.05
-  },
-  {
     "id": "9861772654",
     "category": "Console",
     "title": "Nintendo switch",
@@ -18902,5 +18884,35 @@
     "geminiFault": "pas de jeux ni de chargeur (nessun gioco né caricabatterie)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9904121382",
+    "category": "Console",
+    "title": "Nintendo Switch Hülle",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9904121382-nintendo-switch-hulle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0097b_kvY1AfYEYPaL1kGeENEwX9Wy/310x430/ad804470.webp?s=7f10db76e8ba30df7dc465481306151cdc96e3a7",
+    "addedAt": "2026-09-06T08:37:46.090Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.1€, sotto soglia"
+  },
+  {
+    "id": "9904176161",
+    "category": "Console",
+    "title": "Pochette pour switch oled.",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 98% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/9904176161-pochette-pour-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_007d1_rrWK26wP6WocM69Wd37qsbeg/310x430/796bc70d.webp?s=598ce95acd98226f2cd17f0e78e929bc1a7edaee",
+    "addedAt": "2026-09-06T08:41:55.952Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
   }
 ]
