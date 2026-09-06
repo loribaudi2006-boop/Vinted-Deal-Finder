@@ -1,50 +1,5 @@
 [
   {
-    "id": "9863734961",
-    "category": "Console",
-    "title": "Boîte pour switch",
-    "price": 7,
-    "totalPrice": 8.05,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9863734961-boite-pour-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01eb4_3BLv38bwH65iJ9jooNQfe9ij/310x430/f7613b25.webp?s=249db7c5d697c3384cbe1099163a195b332bd41b",
-    "addedAt": "2026-09-02T11:56:10.516Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.95€, sotto soglia"
-  },
-  {
-    "id": "9846284333",
-    "category": "Console",
-    "title": "Jeux de switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9846284333-jeux-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00932_ZSpFsYuPyJuzE9xDszu2W97U/310x430/e23b597e.webp?s=1f9bdab597114487b8e81b2f867900aec51a25cf",
-    "addedAt": "2026-09-02T11:57:13.589Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.7€, sotto soglia"
-  },
-  {
-    "id": "9863770290",
-    "category": "Console",
-    "title": "Ps5 usb cooling fan",
-    "price": 14.99,
-    "totalPrice": 16.44,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9863770290-ps5-usb-cooling-fan?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00321_muCiZFzGXqXTe9tE9kAaXa7s/310x430/d91d8e20.webp?s=b3b04f0c7a6024ff4ffde045b9b754a599a03c7a",
-    "addedAt": "2026-09-02T11:59:18.305Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.44€, sotto soglia"
-  },
-  {
     "id": "9863862718",
     "category": "Console",
     "title": "PlayStation 4 (PS4)",
@@ -19166,5 +19121,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9907066142",
+    "category": "Console",
+    "title": "Xbox One Netzteil Kabel",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 78% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9907066142-xbox-one-netzteil-kabel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_004aa_4JyS32TJkRQXCF1giFjhPuKg/310x430/2a8b281e.webp?s=6b97404be1d550f01c2aeaaf428d59cebb50748b",
+    "addedAt": "2026-09-06T11:59:12.420Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8.8€, sotto soglia"
   }
 ]
