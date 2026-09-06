@@ -19161,7 +19161,10 @@
     "url": "https://www.vinted.it/items/9902766924-nintendo-switch-noire?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0122e_Yyyk5qyRksSjbFWiUqqovH9d/310x430/7937bde9.webp?s=dfa1a4b56e5cb1e046d9f08d05a6f76e95d41a51",
     "addedAt": "2026-09-06T03:07:45.623Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
