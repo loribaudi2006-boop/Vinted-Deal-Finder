@@ -1,20 +1,5 @@
 [
   {
-    "id": "9870801541",
-    "category": "Console",
-    "title": "Xbox one fat",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9870801541-xbox-one-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a71_vUGsCCwZcU8rzCKrFrcQUEKe/310x430/04ede370.webp?s=f8599ac2037105a6fda91a2ecaf283a0bb8a37f5",
-    "addedAt": "2026-09-02T23:24:02.146Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "9870821640",
     "category": "Console",
     "title": "Mando PS5 seminuevo",
@@ -20312,5 +20297,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9916111312",
+    "category": "Console",
+    "title": "Je vends ce socle de switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9916111312-je-vends-ce-socle-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01948_6ogFFNoZc2uV6ZsWjkcqHE8f/310x430/a4ccc9bb.webp?s=7cf345642a0ec6e69802d07f5d30cb11962cf9bc",
+    "addedAt": "2026-09-06T23:16:19.519Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.55€, sotto soglia"
+  },
+  {
+    "id": "9916117231",
+    "category": "Console",
+    "title": "Je vends ce socle de switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9916117231-je-vends-ce-socle-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00402_QuajipA8twHRGPc3We3eCwq3/310x430/9bd36533.webp?s=d82491b3324455c90060122100d81c823be2d2a7",
+    "addedAt": "2026-09-06T23:18:24.439Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.55€, sotto soglia"
   }
 ]
