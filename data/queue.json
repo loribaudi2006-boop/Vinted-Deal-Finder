@@ -19089,8 +19089,11 @@
     "url": "https://www.vinted.it/items/9903152596-jeux-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_002b5_Jedvf6auoaR3Phhm5FAJknsm/310x430/b1388221.webp?s=b9a1baae707ffbe6016483c218020414e54f3ee1",
     "addedAt": "2026-09-06T06:29:05.708Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9903263947",
@@ -19102,7 +19105,9 @@
     "url": "https://www.vinted.it/items/9903263947-solo-caja-vacia-ps4-slim-1tb-playstation-hits-con-insertos?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0266d_qKf3im597D29QggXvMppragK/310x430/6524e66e.webp?s=0767db7702969726dd9500e78dde31c3b17dbd79",
     "addedAt": "2026-09-06T06:53:07.386Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.45€, sotto soglia"
   }
 ]
