@@ -1,20 +1,5 @@
 [
   {
-    "id": "9870473622",
-    "category": "Console",
-    "title": "Slim ps4",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9870473622-slim-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01563_z1x43M14MTFc5c6dcPCYkjvy/310x430/82e57cf3.webp?s=05642ef0b29b2fc5e2f8432ad0e538ce1f838054",
-    "addedAt": "2026-09-02T21:54:26.346Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9870480100",
     "category": "Console",
     "title": "Kinetic xbox one",
@@ -20426,5 +20411,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.25
+  },
+  {
+    "id": "9915771511",
+    "category": "Console",
+    "title": "PlayStation 4 a vendr",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9915771511-playstation-4-a-vendr?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01836_brf3LpDPLFkL74U2eP2YAdNa/310x430/caea271a.webp?s=c49cae7dca4feb6d855447dceb9d176ab91a229b",
+    "addedAt": "2026-09-06T21:51:57.285Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 a vendr\nOttime·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nElle marche très bien aucun problème mais je n'ai pas de manette et j'ai des jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (manette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.05
   }
 ]
