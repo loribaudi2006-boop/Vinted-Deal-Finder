@@ -19211,7 +19211,10 @@
     "url": "https://www.vinted.it/items/9902537095-playstation-4-pas-une-photo-sur-un-papier-une-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0028f_2x6MWZK9whd8tdp9JxiwRUwB/310x430/3c79f1e3.webp?s=e134b21c12c63b09cdf449e2db9210323437e371",
     "addedAt": "2026-09-06T01:28:38.510Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
