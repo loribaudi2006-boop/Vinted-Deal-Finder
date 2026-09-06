@@ -1,20 +1,5 @@
 [
   {
-    "id": "9862336848",
-    "category": "Console",
-    "title": "Soporte nintendo switch y soporte de mandos",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9862336848-soporte-nintendo-switch-y-soporte-de-mandos?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_006ca_nYyfXiS3z38DsFyZ2N4a4oLL/310x430/07e73ade.webp?s=2d2b10081343dd24ca41f3287a1bf8e53246322e",
-    "addedAt": "2026-09-02T09:44:21.104Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-13€, sotto soglia"
-  },
-  {
     "id": "9862371027",
     "category": "Console",
     "title": "Playstation 4 + joystick",
@@ -19025,5 +19010,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.85€, sotto soglia"
+  },
+  {
+    "id": "9904984441",
+    "category": "Console",
+    "title": "Playstation 4 incl controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9904984441-playstation-4-incl-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b58_d7GNJwofDHtihSDrSnxEgi8a/310x430/1744c2ca.webp?s=d97c6a77c53c7fee84a6d3eebbd98c12177f2cb0",
+    "addedAt": "2026-09-06T09:42:28.353Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 incl controller\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlaystation 4 incl controler\nNiet vaak gebruikt\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "9905015542",
+    "category": "Console",
+    "title": "Ps4 mit 2 Controller (Beschreibung)",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9905015542-ps4-mit-2-controller-beschreibung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01929_pjqBG6UA3WZBLQxS4zG5EPMP/310x430/f2616c8d.webp?s=218a6c7e09c8a2b92a8e1c92c95251732491ff5c",
+    "addedAt": "2026-09-06T09:44:33.833Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "osso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 mit 2 Controller (Beschreibung)\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nDie Ps4 lief immer gut aber wenn ich sie anschalte kann ich sie nicht mehr bedienen und nur der blaue Striche auf der PlayStation wird mir angezeigt. Die beiden Controller funktionieren normal nur beide haben eine leichte Delle ist auf den Bildern zu erkennen\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Luce blu (blu line of death), si accende ma non risponde ai comandi. 2 controller con leggera ammaccatura.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
