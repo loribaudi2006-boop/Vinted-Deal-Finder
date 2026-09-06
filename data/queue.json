@@ -1,20 +1,5 @@
 [
   {
-    "id": "9860784772",
-    "category": "Console",
-    "title": "PSP-1004 non funzionante",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/9860784772-psp-1004-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00603_siCW1tuWEmornK52zmTfvzwd/310x430/78e77a2b.webp?s=0f26ec0258db1ed58327913125b5538c89666881",
-    "addedAt": "2026-09-02T06:01:21.991Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3.2€, sotto soglia"
-  },
-  {
     "id": "9860842572",
     "category": "Console",
     "title": "Ps4 Slim 1Tb sin mando",
@@ -19107,8 +19092,11 @@
     "url": "https://www.vinted.it/items/9902996694-support-camera-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_018ec_r1PTc6sHcjwrviJ6ijQ8Y8Pr/310x430/e2096d50.webp?s=f7823475be343d8148f94489bac8540f4c159e2e",
     "addedAt": "2026-09-06T05:36:54.873Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9902227287",
