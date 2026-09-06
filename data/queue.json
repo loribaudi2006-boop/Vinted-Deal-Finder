@@ -1,20 +1,5 @@
 [
   {
-    "id": "9860465875",
-    "category": "Console",
-    "title": "Xbox one S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9860465875-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00267_a5qpi3h1cmhEnpPjHrZCL8Wp/310x430/5752be9a.webp?s=b4662bbdda7e332566bbdeaf0a3fb50002d7c544",
-    "addedAt": "2026-09-02T03:02:38.241Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.8€, sotto soglia"
-  },
-  {
     "id": "9860496793",
     "category": "Console",
     "title": "Switch V1 - modèle HAC-001",
@@ -19183,5 +19168,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9902766924",
+    "category": "Console",
+    "title": "Nintendo switch noire",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9902766924-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0122e_Yyyk5qyRksSjbFWiUqqovH9d/310x430/7937bde9.webp?s=dfa1a4b56e5cb1e046d9f08d05a6f76e95d41a51",
+    "addedAt": "2026-09-06T03:07:45.623Z",
+    "processed": false,
+    "triaged": false
   }
 ]
