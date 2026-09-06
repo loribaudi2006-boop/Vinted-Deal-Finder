@@ -1,50 +1,5 @@
 [
   {
-    "id": "9870383856",
-    "category": "Console",
-    "title": "Je me débarrasse de ma PS4 prsk j’ai la 5 mtn 😁",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9870383856-je-me-debarrasse-de-ma-ps4-prsk-jai-la-5-mtn?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02426_2CXkHCcL6d4rzcLmz6PQDAsg/310x430/70c57730.webp?s=a14eab8397a7e1241c06d412e2ca904176d53907",
-    "addedAt": "2026-09-02T21:36:43.034Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9870382407",
-    "category": "Console",
-    "title": "Scatola Ps5 vuota",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9870382407-scatola-ps5-vuota?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0266f_ce9qyMf6rEqerz5LRZDEfVDg/310x430/9a75b448.webp?s=34d239ddc4a7bc7126dc472d70622f483534f729",
-    "addedAt": "2026-09-02T21:36:43.035Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.7€, sotto soglia"
-  },
-  {
-    "id": "9870398855",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9870398855-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01160_1US5ybG4wQHpL8z217JNse43/310x430/11ea102b.webp?s=a5b99059002fc04026829c862417fc62c88850fb",
-    "addedAt": "2026-09-02T21:39:50.901Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "9870473622",
     "category": "Console",
     "title": "Slim ps4",
@@ -20453,5 +20408,23 @@
     "geminiFault": "Senza controller, solo la console",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 130
+  },
+  {
+    "id": "9915685011",
+    "category": "Console",
+    "title": "Console Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9915685011-console-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01aab_KkT2F1ksdShp1DgsrbFFH3pQ/310x430/f9d4bd7e.webp?s=65795ea2c7a53ed85ffe04ede1d18bd51f226a9d",
+    "addedAt": "2026-09-06T21:36:18.821Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Nintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch sans jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.25
   }
 ]
