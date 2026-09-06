@@ -1,38 +1,5 @@
 [
   {
-    "id": "9860992822",
-    "category": "Console",
-    "title": "PS4 Slim 11.00 1To (Lire Description)",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9860992822-ps4-slim-1100-1to-lire-description?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0095e_HHAGHnuVCBYfVqYQRF5a4eVe/310x430/314629c8.webp?s=8ceef8d70d543fb9119cfc141e1a4c1150f612be",
-    "addedAt": "2026-09-02T06:54:37.550Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim 11.00 1To (Lire Description)\nDiscrete·PlayStation·Caricato 6 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n6 min fa\nPlayStation 4 Slim 1To\n\nMise à jour 11.00 ✨\n\nLe lecteur CD ne fonctionne pas, il manque le couvercle et la coque est en mauvaise état ❌\n\nMise à part cela, elle\nFonctionne Parfaitement ✅\n\nEnvoie Possible Et Rapide 📦\nPour + de questions n'hésitez pas ^^\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Lettore CD non funzionante, manca il couvercle (sportellino), coque in cattivo stato",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
-    "id": "9860991845",
-    "category": "Console",
-    "title": "moddo switch e switch lite",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9860991845-moddo-switch-e-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_018c3_7cVL7EFCgYy67V6Hv9HeSiZV/310x430/86cd836c.webp?s=2bedb06bf8fe19a4c6a01833b26a007deb5d17fb",
-    "addedAt": "2026-09-02T06:54:37.550Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "9861102633",
     "category": "Console",
     "title": "Playstation 4 Konsole CUH-1004A Standard / FAT-Modell",
@@ -19090,8 +19057,11 @@
     "url": "https://www.vinted.it/items/9903119326-boite-transport-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01939_eA9NXerfcEitmXU1VnSAMivw/310x430/e8b674e0.webp?s=1eeea4821e80f4dc7b689b58018d8253b322661f",
     "addedAt": "2026-09-06T06:19:41.781Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9903138636",
@@ -19103,8 +19073,11 @@
     "url": "https://www.vinted.it/items/9903138636-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_003ef_B2JLschuST7dJG1K6m5w2W3R/310x430/40a1b0d9.webp?s=1969dd1963af953fbe0a4d4bfbf2da38f9b5647f",
     "addedAt": "2026-09-06T06:24:55.212Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9903152596",
@@ -19116,6 +19089,19 @@
     "url": "https://www.vinted.it/items/9903152596-jeux-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_002b5_Jedvf6auoaR3Phhm5FAJknsm/310x430/b1388221.webp?s=b9a1baae707ffbe6016483c218020414e54f3ee1",
     "addedAt": "2026-09-06T06:29:05.708Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9903263947",
+    "category": "Console",
+    "title": "Solo Caja Vacía PS4 Slim 1TB \"Playstation Hits\" (Con Insertos)",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9903263947-solo-caja-vacia-ps4-slim-1tb-playstation-hits-con-insertos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0266d_qKf3im597D29QggXvMppragK/310x430/6524e66e.webp?s=0767db7702969726dd9500e78dde31c3b17dbd79",
+    "addedAt": "2026-09-06T06:53:07.386Z",
     "processed": false,
     "triaged": false
   }
