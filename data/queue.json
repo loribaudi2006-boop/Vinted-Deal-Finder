@@ -20348,5 +20348,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "9916210687",
+    "category": "Console",
+    "title": "Ps4 avec manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9916210687-ps4-avec-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0200a_PTDPUq9qyd9Kqw5jN9A5uwB4/310x430/ad463e84.webp?s=1eca324aad961592ac0722bd089a971b1762a1e1",
+    "addedAt": "2026-09-06T23:50:38.723Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 avec manette\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPS4 fonctionne sans fil avec une manette. Très bon état.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9916217347",
+    "category": "Console",
+    "title": "Nintendo switch et jeux",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9916217347-nintendo-switch-et-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0060e_yhj5kTQNN22sx1zT1tPs7ZdY/310x430/f6e37f83.webp?s=e49280337ddef0fcbb77ce1b8c0b78b3a25e5009",
+    "addedAt": "2026-09-06T23:52:43.316Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
