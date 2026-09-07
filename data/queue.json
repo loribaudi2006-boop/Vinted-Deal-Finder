@@ -1,41 +1,5 @@
 [
   {
-    "id": "9872075387",
-    "category": "Console",
-    "title": "PS5 SLIM",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9872075387-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00eab_xUSu47pizQNc8Dqc2rPPSDXV/310x430/00673359.webp?s=845f0069d246eac25781c1e95920aeb971d49dd2",
-    "addedAt": "2026-09-03T07:46:11.182Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Uomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS5 SLIM\nOttime·PlayStation·Caricato un minuto fa\n\n10,00 €\n\n11,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo PS5 SLIM IN OTTIME CONDIZIONI\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 328.8
-  },
-  {
-    "id": "9872113107",
-    "category": "Console",
-    "title": "PlayStation 4 Slim PS4 slim con 2 joystick",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9872113107-playstation-4-slim-ps4-slim-con-2-joystick?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00f77_Gthr59Scfq6pxuBgjnEdA9sy/310x430/7e6095bf.webp?s=9c4c841063ab230dd776ff28912ee5adc3864b42",
-    "addedAt": "2026-09-03T07:52:26.208Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "a\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Slim PS4 slim con 2 joystick\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsole in perfette condizioni, 2 joystick inclusi funzionanti. Se si necessitano altre info, a disposizione. Vendo per inutilizzo\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "9872147326",
     "category": "Console",
     "title": "Captain Tsubasa 2 PS5",
@@ -20122,5 +20086,20 @@
     "geminiFault": "graffi visibili sulla parte lucida della scocca",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "9917449403",
+    "category": "Console",
+    "title": "solo scatola VUOTA PlayStation 5 Slim - Bundle Astro Bot (CFI-2016)",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9917449403-solo-scatola-vuota-playstation-5-slim-bundle-astro-bot-cfi-2016?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0226f_ur4kGJ18eN6R1ZPPeesZFtvd/310x430/ce21ef46.webp?s=5041da937a353073858b449e8c3ebd287be95a33",
+    "addedAt": "2026-09-07T07:53:34.089Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.7€, sotto soglia"
   }
 ]
