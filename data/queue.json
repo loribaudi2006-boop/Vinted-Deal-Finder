@@ -20295,7 +20295,24 @@
     "url": "https://www.vinted.it/items/9918992913-xbox-one-s-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00130_BNh3z1P7FGKXbLgChPxR2vW8/310x430/c1ce1368.webp?s=06bebad9cefaffc041fd397fbe46d2c2f84262da",
     "addedAt": "2026-09-07T10:41:01.411Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.8€, sotto soglia"
+  },
+  {
+    "id": "9919072646",
+    "category": "Console",
+    "title": "Playstation 4 500 mb",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9919072646-playstation-4-500-mb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00df6_1MTGbBas5TCtTrWEbfbmPUSY/310x430/b4013063.webp?s=51984f272777c0a342ce2cbd29c9570b7f661997",
+    "addedAt": "2026-09-07T10:48:19.115Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
