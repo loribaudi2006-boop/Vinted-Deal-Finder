@@ -1,23 +1,5 @@
 [
   {
-    "id": "9872555393",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9872555393-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02559_ge4bRbeMT9QxZZDXbABNN5dg/310x430/cb8fde36.webp?s=f036be20abb438869cb3d34a91117e44350d574c",
-    "addedAt": "2026-09-03T08:49:55.019Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nPlaystation 4 come nuova funzionante CD di fifa\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "9872617424",
     "category": "Console",
     "title": "playstation 4 pro 1TB+2 controller+ base di ricarica pad e cavi- testata",
@@ -20053,5 +20035,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10.2€, sotto soglia"
+  },
+  {
+    "id": "9917908681",
+    "category": "Console",
+    "title": "Caja vacía PlayStation 5( PS5)",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9917908681-caja-vacia-playstation-5-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c09_BjtGyxCMuhwZuLZh7ssBe3Jj/310x430/27751fb5.webp?s=a2a39b979ceb9fa8102c1ac304052076428145e3",
+    "addedAt": "2026-09-07T08:50:18.065Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
   }
 ]
