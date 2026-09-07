@@ -1,20 +1,5 @@
 [
   {
-    "id": "9871572173",
-    "category": "Console",
-    "title": "Base PlayStation 5",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9871572173-base-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015c3_iv8PKUjzdqjwhtMEDA4uWYDe/310x430/5ef84f1a.webp?s=a5aecd0dab570f663e5616944398d0719136247e",
-    "addedAt": "2026-09-03T05:55:47.017Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2€, sotto soglia"
-  },
-  {
     "id": "9871604045",
     "category": "Console",
     "title": "Ps4 +2 manettes +2 jeux",
@@ -20271,6 +20256,19 @@
     "url": "https://www.vinted.it/items/9916953320-ps5-disc-drive?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01e5e_LFAPn8iUiTBB7yKebSicPMNk/310x430/593ff311.webp?s=6f2978d159ee10ad9ef0c2d1a363a13c9f99a055",
     "addedAt": "2026-09-07T05:51:37.941Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9916974196",
+    "category": "Console",
+    "title": "Nintendo Switch Light linker controller zou gerepareerd kunnen worden",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9916974196-nintendo-switch-light-linker-controller-zou-gerepareerd-kunnen-worden?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00820_Es6TUkNbGjt8feEgj624DjWc/310x430/7e79d92a.webp?s=87dff2492a6c05ece1f79d94e4e92c69086a4522",
+    "addedAt": "2026-09-07T05:59:58.986Z",
     "processed": false,
     "triaged": false
   }
