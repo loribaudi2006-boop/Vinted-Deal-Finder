@@ -1,20 +1,5 @@
 [
   {
-    "id": "9871644830",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9871644830-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_002c5_Fukrp7FrGeXz38M2nGzbk9fn/310x430/4e7ec6fe.webp?s=3c394dc31023b8803dc908e5e0de318655d1b760",
-    "addedAt": "2026-09-03T06:18:41.202Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
     "id": "9871681003",
     "category": "Console",
     "title": "Carcasa ps5 slim 30 aniversario",
@@ -20241,8 +20226,11 @@
     "url": "https://www.vinted.it/items/9916953320-ps5-disc-drive?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01e5e_LFAPn8iUiTBB7yKebSicPMNk/310x430/593ff311.webp?s=6f2978d159ee10ad9ef0c2d1a363a13c9f99a055",
     "addedAt": "2026-09-07T05:51:37.941Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9916974196",
@@ -20280,6 +20268,19 @@
     "url": "https://www.vinted.it/items/9917000881-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0087f_d8BSkwAZdQJpoH9QXK6ctj3Q/310x430/2a309e75.webp?s=57be687aa33635342ad6b7fc914da2c1425f80da",
     "addedAt": "2026-09-07T06:08:20.810Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9917049342",
+    "category": "Console",
+    "title": "Xbox One Console – Fully Functional – No Controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9917049342-xbox-one-console-fully-functional-no-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00891_eMpKaRQdCrTKpPXfqDnYUxu7/310x430/0fdd8940.webp?s=25e9c128385272018e9a28e21f6fea3ad22960f4",
+    "addedAt": "2026-09-07T06:22:57.305Z",
     "processed": false,
     "triaged": false
   }
