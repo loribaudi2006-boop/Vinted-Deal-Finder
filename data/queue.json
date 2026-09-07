@@ -1,20 +1,5 @@
 [
   {
-    "id": "9880511126",
-    "category": "Console",
-    "title": "Nintendo DS Lite Bianco - Si Accende - NON legge giochi - Con Caricabatterie - Per Ricambi",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/9880511126-nintendo-ds-lite-bianco-si-accende-non-legge-giochi-con-caricabatterie-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01014_fE51pmRGRj1BApFLX1yecUii/310x430/7fcf0d5b.webp?s=b447fc5ec611afc6d8d677179bfb81cdb62fa450",
-    "addedAt": "2026-09-03T21:28:30.441Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18.3€, sotto soglia"
-  },
-  {
     "id": "9880556013",
     "category": "Console",
     "title": "playstation 4 slim",
@@ -20814,7 +20799,12 @@
     "url": "https://www.vinted.it/items/9926665720-ps4giochi-vari?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02062_fvuAAqR8BvG7xaFxiuiSftsS/310x430/66639bc2.webp?s=23b8df595fdcdc380c4e2fef5db49793bcd99d75",
     "addedAt": "2026-09-07T21:27:20.341Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4+giochi vari\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nps4 con cavi buone condizioni con giochi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
