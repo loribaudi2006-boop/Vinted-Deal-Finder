@@ -20722,5 +20722,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "9927085276",
+    "category": "Console",
+    "title": "Ps4 slim + controller compatibile",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9927085276-ps4-slim-controller-compatibile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d53_Dop2P4bAGakxWAEzeZoN95cy/310x430/707174cd.webp?s=b0037838c1203ce5dd03c0483919ce52833232d6",
+    "addedAt": "2026-09-07T22:53:57.182Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
