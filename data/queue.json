@@ -20307,5 +20307,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9916691034",
+    "category": "Console",
+    "title": "Xbox one offerte",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9916691034-xbox-one-offerte?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00215_aiq7nfWkZCoTNqtBDoDoF9ct/310x430/dd3d9441.webp?s=da8d836478759e88b99e756f178b07a3425fceb7",
+    "addedAt": "2026-09-07T03:30:44.615Z",
+    "processed": false,
+    "triaged": false
   }
 ]
