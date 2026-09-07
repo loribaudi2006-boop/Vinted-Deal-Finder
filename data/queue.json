@@ -1,20 +1,5 @@
 [
   {
-    "id": "9870432619",
-    "category": "Console",
-    "title": "Cambio de carcasa para Nintendo Switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9870432619-cambio-de-carcasa-para-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01da4_ZZcPex2g7abwsk4cka7MRbE4/310x430/72b49aa8.webp?s=61c60131ef82b50dec72158ba3f57c241fa60f68",
-    "addedAt": "2026-09-03T05:09:58.824Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-53.2€, sotto soglia"
-  },
-  {
     "id": "9871494495",
     "category": "Console",
     "title": "Festpreis! Playstation 4 Konsole CUH-1004A Standard / FAT-Modell",
@@ -20324,5 +20309,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9916859009",
+    "category": "Console",
+    "title": "Boite Switch Oled Vide",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/9916859009-boite-switch-oled-vide?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a12_x7MxwnATM3qxqBHPub4tmerD/310x430/ed39ca22.webp?s=cb9ed936627cef31a153198e91d96be7d959bb16",
+    "addedAt": "2026-09-07T05:10:55.315Z",
+    "processed": false,
+    "triaged": false
   }
 ]
