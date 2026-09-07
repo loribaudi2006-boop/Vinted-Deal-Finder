@@ -20589,7 +20589,42 @@
     "url": "https://www.vinted.it/items/9924039673-playstation-54-controller-grip?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00523_kUYpsokncw7zicAqvBGUwqrs/310x430/385be4fc.webp?s=739e3e6db5797fef639191f1f2453a27ab27775a",
     "addedAt": "2026-09-07T17:29:45.859Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.19€, sotto soglia"
+  },
+  {
+    "id": "9924142121",
+    "category": "Console",
+    "title": "Câmara PS4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9924142121-camara-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0160f_B13CegsnRHW1yws3pKSBhdbB/310x430/758fd215.webp?s=a0a92c675f96ba982ea3a8684e5a45988ee22654",
+    "addedAt": "2026-09-07T17:37:05.110Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "9924157269",
+    "category": "Console",
+    "title": "Playstation 4 mit Spielen",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9924157269-playstation-4-mit-spielen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02709_qadn8FXFykkjcv6ni2q4VnnS/310x430/8f31994d.webp?s=b6cc2705cd2d6ebdffc3f13bb5d8d5269b958ec0",
+    "addedAt": "2026-09-07T17:38:08.117Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 mit Spielen\nDiscrete·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nVerkauft wird die Playsi 4 von meinem Sohn . Sie funktioniert noch - aber wird manchmal laut .\nFür Bastler oder sonst wen der sie möchte :) VB\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Diventa rumorosa a volte",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.8
   }
 ]
