@@ -20323,5 +20323,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9916721290",
+    "category": "Console",
+    "title": "Game Boy Advance SP tribale",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"non si accende\"",
+    "url": "https://www.vinted.it/items/9916721290-game-boy-advance-sp-tribale-da-testare-non-si-accende?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02632_FdEhY9Gneh3EzbtS6bbssJaF/310x430/1a2710a6.webp?s=366958379a486d0aabae5a85a346183e3594edbd",
+    "addedAt": "2026-09-07T04:23:57.736Z",
+    "processed": false,
+    "triaged": false
   }
 ]
