@@ -1,38 +1,5 @@
 [
   {
-    "id": "9873547505",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9873547505-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c49_rfwJBSggm1he91GGTGkDm75j/310x430/f518f815.webp?s=91b9426acd357edf86d2354a5406fb85465ce9f6",
-    "addedAt": "2026-09-03T10:32:16.654Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.8€, sotto soglia"
-  },
-  {
-    "id": "9873570502",
-    "category": "Console",
-    "title": "PlayStation 4 pro",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9873570502-playstation-4-pro?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00e38_862vusxZjNMVMC61GhNGQfYG/310x430/16531696.webp?s=7ffa9b504da767223f64eae8aa876a4b7e30bcde",
-    "addedAt": "2026-09-03T10:34:21.831Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 pro\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPer giochi guardate nel mio profilo senza joystick e senza cavi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza joystick e senza cavi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.05
-  },
-  {
     "id": "9873771888",
     "category": "Console",
     "title": "PS4 Spielkonsole",
@@ -20287,5 +20254,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "9918908308",
+    "category": "Console",
+    "title": "Batman Arkham Knight ps4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9918908308-batman-arkham-knight-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a17_fs5hZzPdiEZxuiwNMopc3iBp/310x430/5b2ba008.webp?s=9b11809e13752b88d836e3cf932f6b92e168efba",
+    "addedAt": "2026-09-07T10:32:36.942Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12.95€, sotto soglia"
+  },
+  {
+    "id": "9918906491",
+    "category": "Console",
+    "title": "Nintendo switch lite corallo",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9918906491-nintendo-switch-lite-corallo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b0e_2FPebGfoN3UzhnG93k3pcgwU/310x430/1b4ecf42.webp?s=34bf08b295dce59f57f9d925b1eb8f6b36dcafa3",
+    "addedAt": "2026-09-07T10:32:36.942Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9918992913",
+    "category": "Console",
+    "title": "Xbox One S 500GB",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9918992913-xbox-one-s-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00130_BNh3z1P7FGKXbLgChPxR2vW8/310x430/c1ce1368.webp?s=06bebad9cefaffc041fd397fbe46d2c2f84262da",
+    "addedAt": "2026-09-07T10:41:01.411Z",
+    "processed": false,
+    "triaged": false
   }
 ]
