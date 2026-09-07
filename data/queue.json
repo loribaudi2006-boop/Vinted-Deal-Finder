@@ -20149,5 +20149,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9918211830",
+    "category": "Console",
+    "title": "xbox one",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9918211830-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02065_k3t2WCYJwKVCAP4FT14AS5Ay/310x430/f647762c.webp?s=ce3c5b9eb5ba9aaf66b42ad2086e1efcf5097031",
+    "addedAt": "2026-09-07T09:22:39.131Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "y e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nxbox one\nBuone·Xbox·Caricato un minuto fa\n\n20,00 €\n\n21,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nnon ha hdmi e cavo per collegarsi a internet\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "non ha hdmi e cavo per collegarsi a internet",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 43.3
   }
 ]
