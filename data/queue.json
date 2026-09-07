@@ -1,23 +1,5 @@
 [
   {
-    "id": "9862841586",
-    "category": "Console",
-    "title": "PlayStation 4 Blanca",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9862841586-playstation-4-blanca?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00aaf_xHxCh5RrpR7uEhVhnDxBN1zm/310x430/0671512d.webp?s=78e927d623521fdbaf9c9d5f3fca4c043fb6bdfd",
-    "addedAt": "2026-09-03T06:59:18.045Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Blanca\nOttime·PlayStation·Caricato 20 ore fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nOttime\nCaricato\n20 ore fa\nVendo PS4 blanca por no usarla. Funciona perfectamente y está bien cuidada.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
     "id": "9871835731",
     "category": "Console",
     "title": "Xbox one S funzionante",
@@ -20222,7 +20204,10 @@
     "url": "https://www.vinted.it/items/9917063561-ps4-fat-gioco?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_003ac_CyXYG4x1DQR1E3GUu3EiRCat/310x430/b820cd5e.webp?s=5b1a109de71e3f51115f30e3c798ac17ece10271",
     "addedAt": "2026-09-07T06:27:07.490Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
