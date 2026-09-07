@@ -20335,7 +20335,10 @@
     "url": "https://www.vinted.it/items/9916387087-servizio-pulizia-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0085e_g4GkwAkCoNpdf6RZvP2d1Luy/310x430/fedd9567.webp?s=8c0369c990be1a8676f49631ee2d2044cdcfa4ad",
     "addedAt": "2026-09-07T01:01:23.689Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
