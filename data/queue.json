@@ -1,20 +1,5 @@
 [
   {
-    "id": "9882361715",
-    "category": "Console",
-    "title": "Soporte mando ps5 GTA6",
-    "price": 9.95,
-    "totalPrice": 11.15,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9882361715-soporte-mando-ps5-gta6?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_010d7_3bK1YUgZgKgENxSsY4zaCqox/310x430/6f1a0640.webp?s=d493d177f564f30c92eb73d8acc44de2160d3630",
-    "addedAt": "2026-09-04T08:08:36.858Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.85€, sotto soglia"
-  },
-  {
     "id": "9882441524",
     "category": "Console",
     "title": "4 pezzi staffe per PS4",
@@ -21005,5 +20990,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-9€, sotto soglia"
+  },
+  {
+    "id": "9928748927",
+    "category": "Console",
+    "title": "Xbox one pad giochi",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9928748927-xbox-one-pad-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_000dc_NGCkLsc8FcJFfpoj53q96r7p/310x430/0f615e79.webp?s=faa70eebfe075aa47315d2a31eb01e368c2d3398",
+    "addedAt": "2026-09-08T08:15:01.883Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.25€, sotto soglia"
+  },
+  {
+    "id": "9928732340",
+    "category": "Console",
+    "title": "Playstation 4 + controller e gioco (trattabile)",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9928732340-playstation-4-controller-e-gioco-trattabile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ec6_RzSkpp4bUft8w2eTNRMxwDsW/310x430/cff81ed1.webp?s=4d926e91be7119646a077f46a13da94e3d052b71",
+    "addedAt": "2026-09-08T08:16:05.472Z",
+    "processed": false,
+    "triaged": false
   }
 ]
