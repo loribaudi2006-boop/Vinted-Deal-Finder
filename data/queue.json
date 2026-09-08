@@ -20907,7 +20907,10 @@
     "url": "https://www.vinted.it/items/9927494422-ps4gta5rdr2-larticolo-non-e-a-1eur-non-comprare?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01008_AdqRWdssdFrHqHmYaQakaVgy/310x430/040339ba.webp?s=409a2b7499932603832a7b7c0185354d80ee8574",
     "addedAt": "2026-09-08T01:04:35.286Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
