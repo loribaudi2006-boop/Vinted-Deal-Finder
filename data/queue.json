@@ -1,38 +1,5 @@
 [
   {
-    "id": "9881819429",
-    "category": "Console",
-    "title": "Cover Ps5 Fat Bianca - Lettore Disco",
-    "price": 24.5,
-    "totalPrice": 26.43,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9881819429-cover-ps5-fat-bianca-lettore-disco?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00eb5_vnMG8ZuLwkjbLCLGStBrRPV1/310x430/85597dcd.webp?s=923cb9e393bc18b6200eae86141183da15062b34",
-    "addedAt": "2026-09-04T06:29:28.574Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.57€, sotto soglia"
-  },
-  {
-    "id": "9881825400",
-    "category": "Console",
-    "title": "playstation 4 slim",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9881825400-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004fc_4Se7ZQWAMEE819vozgadRmWw/310x430/80813fed.webp?s=c72118b87bf75c3e91e19e1af12e78ffebb78d1c",
-    "addedAt": "2026-09-04T06:30:31.017Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 slim\nOttime·PlayStation·Caricato 31 min fa\n\n100,00 €\n\n105,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n31 min fa\ntoute propre 0 bruit\n0 bug\npas de surchauffe\n\nbonne qualité prix\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.3
-  },
-  {
     "id": "9881885346",
     "category": "Console",
     "title": "PS4 slim",
@@ -20968,8 +20935,11 @@
     "url": "https://www.vinted.it/items/9928096283-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_006e7_ZrjD2MvQjkZedpLYLYYFQfpM/310x430/7a7b0659.webp?s=76ffc2606216978c7c29f5f83d8cb92c878b743f",
     "addedAt": "2026-09-08T06:02:39.622Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9928159322",
@@ -20994,6 +20964,32 @@
     "url": "https://www.vinted.it/items/9928172271-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_005e6_5DjmuYbzKymhB8eJKsXSJPqE/310x430/b30883be.webp?s=30b42a7d4f2eb1fdac28d1281e20ed75ffe117b5",
     "addedAt": "2026-09-08T06:24:32.111Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9928187368",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9928187368-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00ef1_tYG57csMa5tUZfCHgFgq1ijU/310x430/ff405bc4.webp?s=1e778280493c44dad2c5105dc6b1a5c85403bac9",
+    "addedAt": "2026-09-08T06:28:41.843Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9928208895",
+    "category": "Console",
+    "title": "Doc switch oled",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 92% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/9928208895-doc-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018b6_xAJKSCZwbQmwP7pmA943HVv7/310x430/4f31b2c0.webp?s=334783903ac89188459ba7dc4fdfd3de1ec55d51",
+    "addedAt": "2026-09-08T06:33:54.145Z",
     "processed": false,
     "triaged": false
   }
