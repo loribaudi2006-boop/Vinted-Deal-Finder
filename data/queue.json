@@ -1,38 +1,5 @@
 [
   {
-    "id": "9881885346",
-    "category": "Console",
-    "title": "PS4 slim",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9881885346-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00664_ic1TELV2wqp68vcJPrG9N55z/310x430/3e45e8ca.webp?s=6918a7cc49f8904fc9fa6757619b17269dfbd427",
-    "addedAt": "2026-09-04T06:49:18.437Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9881922300",
-    "category": "Console",
-    "title": "Ecran switch hackable",
-    "price": 44.99,
-    "totalPrice": 47.94,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9881922300-ecran-switch-hackable?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0140e_qWU2ZQ1migA6KoL2xk5xY46k/310x430/838421c4.webp?s=b94dd48ccb563e69a75a75c3e1fc9f86c508228c",
-    "addedAt": "2026-09-04T06:54:32.281Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nEcran switch hackable\nNuovo senza cartellino·Nintendo·Caricato 7 min fa\n\n44,99 €\n\n47,94 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n7 min fa\nBlue screen\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Blue screen",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 62.06
-  },
-  {
     "id": "9838453581",
     "category": "Console",
     "title": "Cerco PS5",
@@ -21047,6 +21014,19 @@
     "url": "https://www.vinted.it/items/9925870505-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00d97_aVvMJHRQVqqAEwC5a714Weng/310x430/6d15656b.webp?s=d46ed1c4c396a70c6c873c3620ea6e38c22ba2cc",
     "addedAt": "2026-09-08T06:45:21.191Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9928263720",
+    "category": "Console",
+    "title": "Console Xbox One 500GB Perfettamente Funzionante + Controller",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9928263720-console-xbox-one-500gb-perfettamente-funzionante-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e31_u6uEomkN4iWtLedEg7DKjfEL/310x430/e63cde53.webp?s=8f3deb0bb84b23dd8ec0b9638f93b063fcff8d9f",
+    "addedAt": "2026-09-08T06:47:26.271Z",
     "processed": false,
     "triaged": false
   }
