@@ -1,20 +1,5 @@
 [
   {
-    "id": "9884159382",
-    "category": "Console",
-    "title": "Nintendo Switch Completa",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9884159382-nintendo-switch-completa?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01d23_RviamEEXaJq8W6bEvRMUXjFJ/310x430/a0b4ea51.webp?s=5a1d8713ca7fd674b2a6372ada302a255c6a250d",
-    "addedAt": "2026-09-04T11:22:09.291Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9884172482",
     "category": "Console",
     "title": "Sony PlayStation 4 PS4 500GB Jet Black inkl. OVP Controller Teildefekt",
@@ -21154,7 +21139,27 @@
     "url": "https://www.vinted.it/items/9930531102-ps4-slim-nuova-trattabile?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01182_4ZtoCLUArqoA8crrzL4E1aas/310x430/3e473b05.webp?s=60450732ac32848fc9b9ac94014acbb44e9407e6",
     "addedAt": "2026-09-08T11:13:18.428Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim nuova trattabile\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 slim+4 giochi+cavi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 115.25
+  },
+  {
+    "id": "9930591686",
+    "category": "Console",
+    "title": "Nintendo Switch Docking Station Dock Set mit Garantie",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9930591686-nintendo-switch-docking-station-dock-set-mit-garantie?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01ce8_pEm9BxcgdwjJTwVRYvWTujbC/310x430/33a20083.webp?s=7a3cbc385bcd3bd7757a7f9fbb93545f3ae15cb8",
+    "addedAt": "2026-09-08T11:20:36.171Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.2€, sotto soglia"
   }
 ]
