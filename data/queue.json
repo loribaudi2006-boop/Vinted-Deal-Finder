@@ -1,20 +1,5 @@
 [
   {
-    "id": "9838453581",
-    "category": "Console",
-    "title": "Cerco PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9838453581-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016b4_DUw1ret3ZsYbhsiHiGUSY93S/310x430/fadc5724.webp?s=375a118e45bddee90d2bfc11578e08d323d7debf",
-    "addedAt": "2026-09-04T07:00:48.186Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9882050419",
     "category": "Console",
     "title": "Playstation 4+ Accessori e cavi + 6 giochi",
@@ -20948,13 +20933,15 @@
     "url": "https://www.vinted.it/items/9928187368-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00ef1_tYG57csMa5tUZfCHgFgq1ijU/310x430/ff405bc4.webp?s=1e778280493c44dad2c5105dc6b1a5c85403bac9",
     "addedAt": "2026-09-08T06:28:41.843Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "port\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato 14 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n14 min fa\nPs4 fourni avec manette et câble hdmi\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
+    "geminiRoughMargin": 31.55,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9928208895",
@@ -20981,7 +20968,7 @@
     "url": "https://www.vinted.it/items/9928221210-console-de-poche-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01ab1_sL4ebQF2Y3TqeVZFhYXTUY4M/310x430/ea5a3c0a.webp?s=e450abe7c1ad717da8d857746b41478f05d863c3",
     "addedAt": "2026-09-08T06:37:01.396Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "osso!\n+ 7\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nConsole de poche nintendo switch\nOttime·Nintendo·Caricato 5 min fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 min fa\nConsole de poche on peut l'emporter partout avec deux jeux elle a servi 4 fois mais sans le chargeur c'est un chargeur de portable je donne la sacoche pour mettre la console et les deux jeux\n... altro\nSpedizione\nda 9,49 €",
@@ -21014,8 +21001,10 @@
     "url": "https://www.vinted.it/items/9925870505-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00d97_aVvMJHRQVqqAEwC5a714Weng/310x430/6d15656b.webp?s=d46ed1c4c396a70c6c873c3620ea6e38c22ba2cc",
     "addedAt": "2026-09-08T06:45:21.191Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9928263720",
@@ -21027,7 +21016,27 @@
     "url": "https://www.vinted.it/items/9928263720-console-xbox-one-500gb-perfettamente-funzionante-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e31_u6uEomkN4iWtLedEg7DKjfEL/310x430/e63cde53.webp?s=8f3deb0bb84b23dd8ec0b9638f93b063fcff8d9f",
     "addedAt": "2026-09-08T06:47:26.271Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Xbox One 500GB Perfettamente Funzionante + Controller\nOttime·Xbox·Caricato 14 min fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n14 min fa\nVendo console Xbox One nera, perfettamente funzionante e pronta all'uso!\n\nNON COMPRARE DALL’ ANNUNCIO FARE OFFERTA\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "9928333877",
+    "category": "Console",
+    "title": "Xbox one kinect Kamera",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9928333877-xbox-one-kinect-kamera?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018aa_LxK8HWV7xDjqfKvSdJ6He4iv/310x430/84c004d3.webp?s=c9fa8e556960b38e27baab4a3ac37fdce406ae5e",
+    "addedAt": "2026-09-08T07:02:02.642Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.3€, sotto soglia"
   }
 ]
