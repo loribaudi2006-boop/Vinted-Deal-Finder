@@ -21002,5 +21002,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.05€, sotto soglia"
+  },
+  {
+    "id": "9929015870",
+    "category": "Console",
+    "title": "PS5 slim (lire la description)",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9929015870-ps5-slim-lire-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012d8_VL6G1dwok1ashQDgEaeYStQA/310x430/9de1e413.webp?s=699af568268130aadab319c2b1d5ec40cf6e5c7b",
+    "addedAt": "2026-09-08T08:42:08.193Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
