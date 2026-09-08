@@ -21444,5 +21444,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "9937099062",
+    "category": "Console",
+    "title": "Xbox one s digital",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9937099062-xbox-one-s-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0118d_yhN3qxxcMnoojU4p7sF58mXz/310x430/36346735.webp?s=9e5b3bb1cddff36e697232f9780d3ad640745dc8",
+    "addedAt": "2026-09-08T23:36:40.279Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
