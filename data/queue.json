@@ -20806,5 +20806,41 @@
     "geminiFault": "non funziona il tasto di accensione, non so se funziona, venduta così com'è",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "9927402846",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9927402846-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b09_3ejCenxsjCkSct6qbuBTLsBV/310x430/9d018cd4.webp?s=a1f17459fd473f8e0c4cbc196ee8a1ab2c619456",
+    "addedAt": "2026-09-08T00:29:01.701Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato 2 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nC'è solo un piccolo difetto... per inserire un disco bisogna inserirlo a metà e riavviare la play, mentre si riaccende che inizia a girare il \"motore\" bisogna spingere leggermente il disco. È l'unico difetto che presenta, per il resto funziona tutto. SENZA JOYSTICK\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Problema al lettore disco: bisogna inserirlo a metà, riavviare la console e spingere leggermente quando parte il motore. Senza joystick.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "9927411196",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9927411196-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00cf7_vx52FqbwUB1K3vuErt7yfE6q/310x430/d38a673f.webp?s=9783e0ec823d926b7dc86db303e60a188dbe592e",
+    "addedAt": "2026-09-08T00:32:09.398Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo Switch·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\n2 min fa\nJe vends cette Nintendo Switch noire avec sa boîte d'origine et tous ses accessoires. Console complète et fonctionnelle, prête à jouer !\n- Type de produit : Console portable et de salon\n- Marque : Nintendo\n- Modèle : Switch (V1)\n- Couleur : Noir\n- Accessoires inclus : Station d'accueil, 2 Joy-Con (bleu et rouge), Câbles (alimentation, HDMI, USB-\nC), Boîte d'origine\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
   }
 ]
