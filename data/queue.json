@@ -1,23 +1,5 @@
 [
   {
-    "id": "9881723572",
-    "category": "Console",
-    "title": "Lot base + accessoires Nintendo switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9881723572-lot-base-accessoires-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00415_PYRyHGc13NUCySXtU5XWX34H/310x430/7198b23d.webp?s=73602478417f0b4359f315b51e5499990cf5c568",
-    "addedAt": "2026-09-04T06:00:11.489Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot base + accessoires Nintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\n** PAS D’ENVOI PAR VINTED GO SVP **\n\nVend lot pour Nintendo switch\n\nTout fonctionne sauf la manette rose qui ne ce connecte plus\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "La manette rose ne se connecte plus",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 92.3
-  },
-  {
     "id": "9881819429",
     "category": "Console",
     "title": "Cover Ps5 Fat Bianca - Lettore Disco",
@@ -20954,8 +20936,11 @@
     "url": "https://www.vinted.it/items/9928017256-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01caf_AmvVvvtwMX7hz6jFS2sY2R4m/310x430/b6c068c4.webp?s=4574229720407100e49d8406ecabf9a90ea991ea",
     "addedAt": "2026-09-08T05:33:30.755Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9928069008",
@@ -20967,6 +20952,19 @@
     "url": "https://www.vinted.it/items/9928069008-ps5-slim-2-comandos-dualsense?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01f42_1om8UVrpguytNraW25qs7U5h/310x430/5e01ddf9.webp?s=7ae19fd7f44c026975a0aeb652575a8bb1e90436",
     "addedAt": "2026-09-08T05:53:17.091Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9928096283",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9928096283-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_006e7_ZrjD2MvQjkZedpLYLYYFQfpM/310x430/7a7b0659.webp?s=76ffc2606216978c7c29f5f83d8cb92c878b743f",
+    "addedAt": "2026-09-08T06:02:39.622Z",
     "processed": false,
     "triaged": false
   }
