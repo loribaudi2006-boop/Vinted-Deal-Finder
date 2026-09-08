@@ -1,20 +1,5 @@
 [
   {
-    "id": "9885387941",
-    "category": "Console",
-    "title": "PlayStation 4 Fat 500GB – Firmware 11.02 (Legge solo digitale / Lettore da sistemare)",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9885387941-playstation-4-fat-500gb-firmware-1102-legge-solo-digitale-lettore-da-sistemare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02533_ZB5VpNjTtT5wnLcRW6Kf5cUR/310x430/001f3c4e.webp?s=15724f10be6c8fd6979878fcface37cd9b692f3a",
-    "addedAt": "2026-09-04T13:18:08.136Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "9885517307",
     "category": "Console",
     "title": "playstation 4 + 5 giochi + un pad completamente funzionante",
@@ -21209,5 +21194,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~1.8€, sotto soglia"
+  },
+  {
+    "id": "9931467373",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9931467373-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_003b1_gyZLKPL95CBYqCi8VQuM2gfQ/310x430/32d90329.webp?s=38136420fcbdae7616d78641e24a92f361c8f5a4",
+    "addedAt": "2026-09-08T13:17:09.350Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9931884766",
+    "category": "Console",
+    "title": "Xbox One 500 GB con scatola originale – Ottime condizioni",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 51% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9931884766-xbox-one-500-gb-con-scatola-originale-ottime-condizioni?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01e2f_drXSHMiAu4FtypP5wtykQNoQ/310x430/86a5b4fb.webp?s=9ab9646b59cb6057aff9b5fa782d59f78d34fa18",
+    "addedAt": "2026-09-08T13:20:17.234Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
