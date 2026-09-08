@@ -20971,7 +20971,10 @@
     "url": "https://www.vinted.it/items/9927888042-ps4-set-2-controller-fifa-21-nba19?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00cd4_XPrq6zgbkvUYNttcrCTFWFMk/310x430/982354e0.webp?s=93ec701760444622f27c81d5207885c046b08e2e",
     "addedAt": "2026-09-08T04:27:54.481Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
