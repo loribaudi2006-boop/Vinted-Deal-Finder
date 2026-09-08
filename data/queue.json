@@ -21038,5 +21038,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.3€, sotto soglia"
+  },
+  {
+    "id": "9928398515",
+    "category": "Console",
+    "title": "Xbox one s à vendre bon état",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9928398515-xbox-one-s-a-vendre-bon-etat-elle-a-deja-servit-mais-sert-toujours-et-peux-marche-toujours-bien?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_022fa_7Lmo9YbJoEVsA5CYjMVAQd2e/310x430/64b79f18.webp?s=8c6c05d499865e95bb0047c9a1750ba05b694859",
+    "addedAt": "2026-09-08T07:14:32.848Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sole\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s à vendre bon état , elle a déjà servit , mais sert toujours et peux marche toujours bien\nOttime·Xbox·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox one s , avec câble , manette et piles.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   }
 ]
