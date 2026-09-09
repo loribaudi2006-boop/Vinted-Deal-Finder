@@ -20702,5 +20702,53 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 87.35
+  },
+  {
+    "id": "9941031674",
+    "category": "Console",
+    "title": "Console PlayStation 4 (PS4) Noire 250Go + 1 Manette et Câbles",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9941031674-console-playstation-4-ps4-noire-250go-1-manette-et-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0214c_e9YyKFisghwia4qDuLzSjFNo/310x430/2ccceda7.webp?s=38b91b2dd64fa50839b66f3a807833b50b993e2a",
+    "addedAt": "2026-09-09T11:57:23.747Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9941107948",
+    "category": "Console",
+    "title": "PS4 HS + Manette + Câbles 🎮",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9941107948-ps4-hs-manette-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01fd6_esXcsAXN8NpJgM784CyMjUhk/310x430/7feca818.webp?s=f317624050a9f0dc00a583cafe88d1f326636bd4",
+    "addedAt": "2026-09-09T12:03:41.047Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 HS + Manette + Câbles 🎮\nDiscrete·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPS4 noire HS 🎮\nVendue avec une manette qui fonctionne, le câble d’alimentation et le câble d’origine pour recharger la manette.\nPS4 non fonctionnelle, vendue en l’état.\n📦 Envoi rapide et soigné.\n💬 Je peux arranger pour le prix, n’hésite pas à me faire une offre !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console non fonctionnelle (HS)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "9941103016",
+    "category": "Console",
+    "title": "Ps4 bon état avec câble mes pas de manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9941103016-ps4-bon-etat-avec-cable-mes-pas-de-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01bbe_cu7aQ1iWzMzRAsmBRgVjwywb/310x430/e03aba3c.webp?s=bf892b46162df1aebb86a34a7a056684b1ff4a72",
+    "addedAt": "2026-09-09T12:03:41.048Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   }
 ]
