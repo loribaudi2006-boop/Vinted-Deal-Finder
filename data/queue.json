@@ -20600,5 +20600,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.05
+  },
+  {
+    "id": "9948037280",
+    "category": "Console",
+    "title": "Bolsa e volantes Nintendo switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9948037280-bolsa-e-volantes-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00391_twMJCrFu7kNd3PUnS3qTfZ9o/310x430/3452d7ff.webp?s=c7d8207934183f167ce9cfd113ad45f390397fe0",
+    "addedAt": "2026-09-09T22:17:21.806Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
   }
 ]
