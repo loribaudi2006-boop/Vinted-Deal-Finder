@@ -1,37 +1,5 @@
 [
   {
-    "id": "9891332932",
-    "category": "Console",
-    "title": "Solo Scatola PS5 825 GB GO",
-    "price": 39,
-    "totalPrice": 41.65,
-    "reason": "prezzo 90% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9891332932-solo-scatola-ps5-825-gb-go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_005df_WKHEVJrTTBwvXx6WaGRvfm7L/310x430/ac05c039.webp?s=63379694d71e15a174f98b90a1c1c7eee4fa1794",
-    "addedAt": "2026-09-05T04:16:42.030Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "9891334288",
-    "category": "Console",
-    "title": "Une Nintendo switch",
-    "price": 57,
-    "totalPrice": 60.55,
-    "reason": "prezzo 70% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9891334288-une-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e67_7qKXdtsXR1CSVu4mereFSHWY/310x430/da9a73be.webp?s=dc6347152aa53504c04eb4b29f56eddd9aa127ed",
-    "addedAt": "2026-09-05T04:17:44.472Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9891384701",
     "category": "Console",
     "title": "🎮 Nintendo Switch Lite jaune – Très bon état",
@@ -21397,8 +21365,11 @@
     "url": "https://www.vinted.it/items/9937702029-vendo-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_023e4_WxBmQx9fb8m4HXY7KAUcRLMV/310x430/4d4f7544.webp?s=0989bc65f3550be98403fb71811a7dfe26f248c4",
     "addedAt": "2026-09-09T04:07:48.152Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9937703964",
@@ -21410,6 +21381,22 @@
     "url": "https://www.vinted.it/items/9937703964-vendo-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00627_kGLkBPWy7NDhtWhznGHDPexa/310x430/7e09431c.webp?s=a4d03a72c158e1702ee73fe8ebcfe374fb7b83b3",
     "addedAt": "2026-09-09T04:08:50.436Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9937753633",
+    "category": "Console",
+    "title": "Boite ps5 vide",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9937753633-boite-ps5-vide?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_004c7_sPYHMwcmPpJQnChdyv212eUb/310x430/9f609706.webp?s=de28527744c4e557f14ebda65a1b183e8358e4e6",
+    "addedAt": "2026-09-09T04:38:46.282Z",
     "processed": false,
     "triaged": false
   }
