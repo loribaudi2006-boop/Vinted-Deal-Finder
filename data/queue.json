@@ -21359,5 +21359,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5.4€, sotto soglia"
+  },
+  {
+    "id": "9938556289",
+    "category": "Console",
+    "title": "Xbox One Prima serie",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9938556289-xbox-one-prima-serie?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a70_tyjVoQGqe1sD3L8R5VjRa8KK/310x430/fee28f84.webp?s=c1e5f71aad7df231a172deab17fba762e8347aba",
+    "addedAt": "2026-09-09T07:54:39.064Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
