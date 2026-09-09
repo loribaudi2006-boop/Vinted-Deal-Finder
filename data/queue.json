@@ -20542,7 +20542,27 @@
     "url": "https://www.vinted.it/items/9946279802-reconditionnee-xbox-one-originale-500-go?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_021ea_f5VP6fpiTY1aFs9axoFoDjY2/310x430/7f182b15.webp?s=f60eabe8024d9e33e94b49dddafd3ad975d3842f",
     "addedAt": "2026-09-09T18:43:59.400Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9946294077",
+    "category": "Console",
+    "title": "Lot Nintendo Switch – Console + Dock + Joy-Con + Housse",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9946294077-lot-nintendo-switch-console-dock-joy-con-housse?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0158a_WHadXt5p5yKBqE25UtwunzRN/310x430/af3780d6.webp?s=79d36537585c873aaa11d2bae89345ccf4d01d31",
+    "addedAt": "2026-09-09T18:45:02.021Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "caVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot Nintendo Switch – Console + Dock + Joy-Con + Housse\nOttime·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends un lot Nintendo Switch comprenant :\n\n* 🎮 Console Nintendo Switch\n* 🕹️ 2 Joy-Con\n* 📺 Station d’accueil (dock)\n* 🧳 Housse de transport officielle Nintendo Switch\n* 🔌 Éléments visibles sur les photo\nPRIX NÉGOCIABLE!!\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.3
   }
 ]
