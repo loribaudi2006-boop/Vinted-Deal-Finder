@@ -20597,5 +20597,38 @@
     "geminiFault": "Controller con stick drift e tasto start rotto. La console si accende solo tramite controller o inserendo un disco.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "9948187674",
+    "category": "Console",
+    "title": "xbox one",
+    "price": 34,
+    "totalPrice": 36.4,
+    "reason": "prezzo 66% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9948187674-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0140e_p7UVaWQHenPTTvVjdraDi2Z3/310x430/067974fb.webp?s=29bd2abe35aef03387cc8b5da898b8eb6e65ed24",
+    "addedAt": "2026-09-09T22:58:00.477Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nxbox one\nOttime·Xbox·Caricato proprio adesso\n\n34,00 €\n\n36,40 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nperfecta\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.6
+  },
+  {
+    "id": "9948193488",
+    "category": "Console",
+    "title": "xbox one y mando",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9948193488-xbox-one-y-mando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e8f_vRVGCjFeKN3J3GKAunNW8yxA/310x430/6dd05e7e.webp?s=5947e530115a29657918281742b6c75d1780f8b2",
+    "addedAt": "2026-09-09T23:00:05.282Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
