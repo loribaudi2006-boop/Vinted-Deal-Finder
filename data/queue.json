@@ -21386,5 +21386,31 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-12€, sotto soglia"
+  },
+  {
+    "id": "9937702029",
+    "category": "Console",
+    "title": "Vendo ps4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9937702029-vendo-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023e4_WxBmQx9fb8m4HXY7KAUcRLMV/310x430/4d4f7544.webp?s=0989bc65f3550be98403fb71811a7dfe26f248c4",
+    "addedAt": "2026-09-09T04:07:48.152Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9937703964",
+    "category": "Console",
+    "title": "Vendo ps4",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9937703964-vendo-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00627_kGLkBPWy7NDhtWhznGHDPexa/310x430/7e09431c.webp?s=a4d03a72c158e1702ee73fe8ebcfe374fb7b83b3",
+    "addedAt": "2026-09-09T04:08:50.436Z",
+    "processed": false,
+    "triaged": false
   }
 ]
