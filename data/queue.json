@@ -20798,5 +20798,20 @@
     "geminiFault": "petit pète (piccolo segno/segnetto)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.25
+  },
+  {
+    "id": "9929011613",
+    "category": "Console",
+    "title": "Adattatore Nintendo Switch a TV 4K 60Hz Eluteng - Hdmi + USB + Ricarica 100W - Nuovo",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9929011613-adattatore-nintendo-switch-a-tv-4k-60hz-eluteng-hdmi-usb-ricarica-100w-nuovo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0238d_gixFp679ahZHwoDd8bBzH7YL/310x430/b59aa9ab.webp?s=cdd7ef959db1d3d39b433b563d3fdf8dd1395c68",
+    "addedAt": "2026-09-09T12:42:21.293Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.55€, sotto soglia"
   }
 ]
