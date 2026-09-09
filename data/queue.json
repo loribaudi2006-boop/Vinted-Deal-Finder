@@ -21333,8 +21333,10 @@
     "url": "https://www.vinted.it/items/9936895990-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01f10_NeP8L97vdmTL72DzD5qVkZSY/310x430/cf888e3b.webp?s=5c7103c82b6a1edf70d3b179ce4d6cbb0b327390",
     "addedAt": "2026-09-09T05:35:00.850Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9937887222",
@@ -21346,8 +21348,10 @@
     "url": "https://www.vinted.it/items/9937887222-boite-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_015d9_xjzatvENeQL78goNCra8vAky/310x430/36b2a1df.webp?s=2c5c9ed43d0cc3b67e5c5a2e2cb0ded0f0591374",
     "addedAt": "2026-09-09T05:40:13.255Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.17€, sotto soglia"
   },
   {
     "id": "9937886362",
@@ -21359,8 +21363,13 @@
     "url": "https://www.vinted.it/items/9937886362-ps4-complet-sans-jeux-prix-negociable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02276_CjcS9Xhb6hbUcqNgpiM8JAgJ/310x430/2d2b66e2.webp?s=e6c028b8e7aef5d67fbe194a28fd6353ebed887b",
     "addedAt": "2026-09-09T05:40:13.255Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Complet sans Jeux Prix Négociable\nBuone·PlayStation·Caricato 16 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n16 min fa\nPS4 complet juste sans carton\nPrix négociable\nVends aussi jeux PS4 et jeux ps5 pour ce qui sont intéressés peut faire des offre console plus jeux\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
   },
   {
     "id": "9937082704",
@@ -21372,7 +21381,48 @@
     "url": "https://www.vinted.it/items/9937082704-ps4-nera?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015a4_Kb1oK9C3YKR4GbnJNps4jgwP/310x430/d74141af.webp?s=a3b3dca0d437391aa8756b33a630bf43a4412716",
     "addedAt": "2026-09-09T05:45:24.781Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nismo\nSport\nPubblicità\n‌\n\n8\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4 nera\nBuone·PlayStation·Caricato 6 ore fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n6 ore fa\nps4 nera\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.55
+  },
+  {
+    "id": "9937923378",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9937923378-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00796_BcdVs2kY2nygGPdfN4PrMwEU/310x430/1d11ed2a.webp?s=a05354df49e0812f70824b80dc2a3ab685693e20",
+    "addedAt": "2026-09-09T05:53:44.504Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Hobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nBuone·Xbox·Caricato 3 min fa\n\n15,00 €\n\n16,45 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\n3 min fa\nVendu sans manette sans jeux sans câble console non testé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Vendu sans manette sans jeux sans câble console non testé",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.55
+  },
+  {
+    "id": "9937934204",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9937934204-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0079b_kjvAHVJS6otTsQYDRYnUo7t2/310x430/6aaeff89.webp?s=2197e169b752ee43ecde298ce337ac316b659cd3",
+    "addedAt": "2026-09-09T05:55:49.379Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo PlayStation 4 con Joystick\nSenza nessun filo . Funzionante\nSpedizione\nda 4,09 €",
+    "geminiFault": "Senza nessun filo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.05
   }
 ]
