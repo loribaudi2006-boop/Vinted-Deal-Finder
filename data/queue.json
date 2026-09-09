@@ -20579,5 +20579,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.05€, sotto soglia"
+  },
+  {
+    "id": "9948156446",
+    "category": "Console",
+    "title": "Ps4 mit und Fifa 20 und Controller",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9948156446-ps4-mit-und-fifa-20-und-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02475_ik3EERMqAmBcXH7XH3YARK3e/310x430/8a8ccee1.webp?s=763aa055833b62048af7feee5954db87f964ff2c",
+    "addedAt": "2026-09-09T22:48:38.046Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Casa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 mit und Fifa 20 und Controller\nDiscrete·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nPs4 mit Fifa 20\nProbleme sind Controller hat Stick Drift\nUnd der Start Button ist kaputt es geht nur an mit den Controller und indem man eine Disc rein tut\nFür Fragen gerne melden ☺️\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller con stick drift e tasto start rotto. La console si accende solo tramite controller o inserendo un disco.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.3
   }
 ]
