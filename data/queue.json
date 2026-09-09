@@ -21322,5 +21322,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9936895990",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 58,
+    "totalPrice": 61.6,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9936895990-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01f10_NeP8L97vdmTL72DzD5qVkZSY/310x430/cf888e3b.webp?s=5c7103c82b6a1edf70d3b179ce4d6cbb0b327390",
+    "addedAt": "2026-09-09T05:35:00.850Z",
+    "processed": false,
+    "triaged": false
   }
 ]
