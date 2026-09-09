@@ -1,20 +1,5 @@
 [
   {
-    "id": "9891289929",
-    "category": "Console",
-    "title": "Nintendo Switch AC Adapter Oficial - Adaptador de Corriente - Nuevo",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9891289929-nintendo-switch-ac-adapter-oficial-adaptador-de-corriente-nuevo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02241_XjE5P4Hc7Bxn3fui8uqwsUzh/310x430/a2eff68d.webp?s=aae02d7e9d4570934a6f823bc0c7c647a6bdd178",
-    "addedAt": "2026-09-05T06:40:58.824Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-20€, sotto soglia"
-  },
-  {
     "id": "9891721630",
     "category": "Console",
     "title": "PlayStation 4 white edition 500gb",
@@ -21406,8 +21391,11 @@
     "url": "https://www.vinted.it/items/9937988773-lotto-8-giochi-xbox-one-xbox-series-x?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00925_tdxg6BfaWaBYWVCCJ6ooA4rM/310x430/0ca31abd.webp?s=9a15ba3d10c990483f013bf2c77740c6b522623b",
     "addedAt": "2026-09-09T06:11:28.781Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9938013107",
@@ -21445,6 +21433,19 @@
     "url": "https://www.vinted.it/items/9938075408-ps4sl?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00e3a_d9GDJjS2jeNfSuwnrhZQ2KZu/310x430/aad8a47a.webp?s=406453f48a8484f310188091bdfab2756d8ddd95",
     "addedAt": "2026-09-09T06:33:22.416Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9938108692",
+    "category": "Console",
+    "title": "Suporte PlayStation 5 Original",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9938108692-suporte-playstation-5-original?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0027e_jtRiaMSqfKT6mEjUkjN2AeGa/310x430/bbe17051.webp?s=0f86d92e4ed3fe3bf1dfd17d59745f63f9781675",
+    "addedAt": "2026-09-09T06:40:39.550Z",
     "processed": false,
     "triaged": false
   }
