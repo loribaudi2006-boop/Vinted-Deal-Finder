@@ -1,20 +1,5 @@
 [
   {
-    "id": "9891857836",
-    "category": "Console",
-    "title": "Scocca spiderman ps5",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9891857836-scocca-spiderman-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_003ce_aNk9tUWoVC8pxfBBn5pMtsJ5/310x430/90935c65.webp?s=78e5f2922314a13bab1e2dca770a6d81c108e1bd",
-    "addedAt": "2026-09-05T07:12:16.631Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18.05€, sotto soglia"
-  },
-  {
     "id": "9891926518",
     "category": "Console",
     "title": "Nintendo Switch lite Protection neuf",
@@ -21431,5 +21416,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~4.85€, sotto soglia"
+  },
+  {
+    "id": "9938263893",
+    "category": "Console",
+    "title": "G-Story Lüfter für Xbox Series X mit Temperatursteuerung",
+    "price": 18,
+    "totalPrice": 19.6,
+    "reason": "prezzo 95% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/9938263893-g-story-lufter-fur-xbox-series-x-mit-temperatursteuerung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01791_kU4KY5pmwyGJGUFrVXAAK7oC/310x430/25f28d47.webp?s=84b6574dd8f3d66530ba4f085d9556a6419638ce",
+    "addedAt": "2026-09-09T07:09:49.480Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.4€, sotto soglia"
   }
 ]
