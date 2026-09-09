@@ -1,35 +1,5 @@
 [
   {
-    "id": "9891772833",
-    "category": "Console",
-    "title": "Scatole vuote Nintendo Switch + Box Joy-Con + Vetro temperato (Solo Imballaggi)",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9891772833-scatole-vuote-nintendo-switch-box-joy-con-vetro-temperato-solo-imballaggi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0139c_ktFMYG5QCnodaxFKNkLb96gs/310x430/a93cffb0.webp?s=ba4dbfe844ac6a32115dacfda9fd40bd15c954b6",
-    "addedAt": "2026-09-05T06:57:40.093Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3€, sotto soglia"
-  },
-  {
-    "id": "9891802010",
-    "category": "Console",
-    "title": "Micro SDXC Nintendo Switch 250GO Mario",
-    "price": 24,
-    "totalPrice": 25.9,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9891802010-micro-sdxc-nintendo-switch-250go-mario?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_017b2_acAqLLbEo48kdCviosfGAerE/310x430/9d612958.webp?s=757fa58283eb7017a862de801502032a02845bdb",
-    "addedAt": "2026-09-05T07:06:01.035Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "9891857836",
     "category": "Console",
     "title": "Scocca spiderman ps5",
@@ -21408,8 +21378,11 @@
     "url": "https://www.vinted.it/items/9938055175-dock-caricatore-originale-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02034_ymnn3R4SDcKwmMvTtWwW3WwS/310x430/f30309c5.webp?s=5f163242557433b7452ac5e916bc8e464127fb94",
     "addedAt": "2026-09-09T06:28:08.161Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9938075408",
@@ -21421,8 +21394,13 @@
     "url": "https://www.vinted.it/items/9938075408-ps4sl?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00e3a_d9GDJjS2jeNfSuwnrhZQ2KZu/310x430/aad8a47a.webp?s=406453f48a8484f310188091bdfab2756d8ddd95",
     "addedAt": "2026-09-09T06:33:22.416Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Donna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4sl\nBuone·PlayStation·Caricato 28 min fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n28 min fa\nMannette ps4\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   },
   {
     "id": "9938108692",
@@ -21434,8 +21412,10 @@
     "url": "https://www.vinted.it/items/9938108692-suporte-playstation-5-original?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0027e_jtRiaMSqfKT6mEjUkjN2AeGa/310x430/bbe17051.webp?s=0f86d92e4ed3fe3bf1dfd17d59745f63f9781675",
     "addedAt": "2026-09-09T06:40:39.550Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   },
   {
     "id": "9938183103",
@@ -21447,7 +21427,9 @@
     "url": "https://www.vinted.it/items/9938183103-sacoche-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00601_kmGJ2PD4Am5LQGBojrurwENi/310x430/0b98ee72.webp?s=7778764e5c8cb5f883252d155ec2599bf113f97c",
     "addedAt": "2026-09-09T06:55:14.298Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.85€, sotto soglia"
   }
 ]
