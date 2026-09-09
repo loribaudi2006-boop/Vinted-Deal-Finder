@@ -1,21 +1,5 @@
 [
   {
-    "id": "9891533414",
-    "category": "Console",
-    "title": "Xbox one sans manette",
-    "price": 39.99,
-    "totalPrice": 42.69,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9891533414-xbox-one-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01f93_Un3HkR12YeJpfvQ8nVKUDwvJ/310x430/c044dbc3.webp?s=f5e4f04a9147a835cfe979fd2d3b1621a3b6807a",
-    "addedAt": "2026-09-05T05:59:42.503Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9891646413",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -21424,5 +21408,31 @@
     "geminiFault": "Senza nessun filo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.05
+  },
+  {
+    "id": "9937947697",
+    "category": "Console",
+    "title": "Support PS Portal pour Console PS5 Crochet Accroche Suspension Blanc",
+    "price": 6.99,
+    "totalPrice": 8.04,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9937947697-support-ps-portal-pour-console-ps5-crochet-accroche-suspension-blanc?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01553_25AtMZNY7aypRVt2w6yjzyjk/310x430/079f3553.webp?s=148fb2581835e907ae48e3bd28291bb570f077bb",
+    "addedAt": "2026-09-09T05:59:58.669Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9937940623",
+    "category": "Console",
+    "title": "Ps4 slim 500 gb con mando",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9937940623-ps4-slim-500-gb-con-mando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014fb_XCwiZXXTcKxNinfbS5E9Dz3v/310x430/caa4ed46.webp?s=243c88e672cafa14ccae79e65456f4a99d2824e3",
+    "addedAt": "2026-09-09T06:05:12.353Z",
+    "processed": false,
+    "triaged": false
   }
 ]
