@@ -20608,7 +20608,10 @@
     "url": "https://www.vinted.it/items/9948637741-xbox-one-500-gb-7-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01232_UA1FATgiyGkwWfMkZ7Rkhysn/310x430/c5ab25a7.webp?s=d4258f2ab5030bc46cefd79709ae07ae1b6bcf18",
     "addedAt": "2026-09-10T01:44:39.422Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
