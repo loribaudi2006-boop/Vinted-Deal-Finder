@@ -20628,5 +20628,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9949679915",
+    "category": "Console",
+    "title": "Psp 1004 schermo rotto",
+    "price": 39.99,
+    "totalPrice": 42.69,
+    "reason": "parola chiave: \"rotto\"",
+    "url": "https://www.vinted.it/items/9949679915-psp-1004-schermo-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c85_jufA45bhzDk3cUHTpdDNSUop/310x430/bd8a3a8a.webp?s=9e4e87654f563ab55e06e27b09146d3cf13356ce",
+    "addedAt": "2026-09-10T07:49:48.576Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~7.31€, sotto soglia"
   }
 ]
