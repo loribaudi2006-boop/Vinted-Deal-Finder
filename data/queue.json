@@ -1,20 +1,5 @@
 [
   {
-    "id": "9903926638",
-    "category": "Console",
-    "title": "Volant de ps4",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9903926638-volant-de-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01b02_fbzz8Z58ZxBsCMBNff5Xj7B9/310x430/5bd14c05.webp?s=09f16332e79a8d172643532e56bbedab6dbb8a28",
-    "addedAt": "2026-09-06T08:20:01.933Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13€, sotto soglia"
-  },
-  {
     "id": "9904042274",
     "category": "Console",
     "title": "Nintendo Switch Lite Portable Grise",
@@ -20691,5 +20676,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "9949961037",
+    "category": "Console",
+    "title": "Vends Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9949961037-vends-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00cfd_LzCZHJzx96SyLSqMY3VfySGj/310x430/f24454d7.webp?s=db670138cc1d26e5543708d6c4828006a1619c45",
+    "addedAt": "2026-09-10T08:25:23.387Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVends Nintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nBonjour, je vends ma Nintendo switch sans manette sur les côtés mais avec une manette pro il y a un petit truc bleu dans l’écran\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca dei joy-con laterali (ha solo un Pro Controller) e c'è un piccolo difetto blu nello schermo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
