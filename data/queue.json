@@ -20560,8 +20560,11 @@
     "url": "https://www.vinted.it/items/9949206772-pack-2-volantes-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01346_QaSR3oMUt9SYwG3hMejMdgAY/310x430/d3d158cb.webp?s=939cb7cd9a975bbe7bd08773af5a615c9db2ba67",
     "addedAt": "2026-09-10T06:18:43.666Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9949273390",
