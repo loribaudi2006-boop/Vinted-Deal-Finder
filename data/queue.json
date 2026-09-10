@@ -1,20 +1,5 @@
 [
   {
-    "id": "9916117231",
-    "category": "Console",
-    "title": "Je vends ce socle de switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9916117231-je-vends-ce-socle-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00402_QuajipA8twHRGPc3We3eCwq3/310x430/9bd36533.webp?s=d82491b3324455c90060122100d81c823be2d2a7",
-    "addedAt": "2026-09-06T23:18:24.439Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.55€, sotto soglia"
-  },
-  {
     "id": "9916177230",
     "category": "Console",
     "title": "Nintendo switch 1",
@@ -19731,5 +19716,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9958854945",
+    "category": "Console",
+    "title": "Xbox one + GTA V",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 72% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9958854945-xbox-one-gta-v?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00377_WJ8wrB7cuZ8Y7pFTcAECerdm/310x430/38485249.webp?s=01b6b66332a5f3dc624679755d95541b47c42979",
+    "addedAt": "2026-09-10T23:18:41.544Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one + GTA V\nBuone·Xbox·Caricato un minuto fa\n\n28,00 €\n\n30,10 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nOriginals Xbox One ohne Zubehör + GTA V dazu.\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ohne Zubehör (senza accessori)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
   }
 ]
