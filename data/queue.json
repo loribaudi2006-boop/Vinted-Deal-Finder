@@ -1,21 +1,5 @@
 [
   {
-    "id": "9902537095",
-    "category": "Console",
-    "title": "PlayStation 4 (pas une photo sur un papier une console)",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9902537095-playstation-4-pas-une-photo-sur-un-papier-une-console?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0028f_2x6MWZK9whd8tdp9JxiwRUwB/310x430/3c79f1e3.webp?s=e134b21c12c63b09cdf449e2db9210323437e371",
-    "addedAt": "2026-09-06T01:28:38.510Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9902766924",
     "category": "Console",
     "title": "Nintendo switch noire",
@@ -20597,5 +20581,18 @@
     "geminiFault": "Weisse punkte sind nur Wandfarbe (macchie bianche sono solo pittura da muro)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "9948604714",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9948604714-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_005c1_pQ8bj6M5cut2HYYYtp9TwZrQ/310x430/ec73154c.webp?s=60656bea645882010ad16db4f6ec5308c06c4bb1",
+    "addedAt": "2026-09-10T01:31:06.130Z",
+    "processed": false,
+    "triaged": false
   }
 ]
