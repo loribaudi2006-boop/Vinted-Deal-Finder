@@ -1,38 +1,5 @@
 [
   {
-    "id": "9904042274",
-    "category": "Console",
-    "title": "Nintendo Switch Lite Portable Grise",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9904042274-nintendo-switch-lite-portable-grise?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00dfa_jLq2KMHVLJVFDCWthfxt8ZYq/310x430/8e720fc2.webp?s=5fc680fba9b6ede49d82772e640799c2cde40cd6",
-    "addedAt": "2026-09-06T08:30:27.547Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Lite Portable Grise\nBuone·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nConsole nintendo Switch Lite portable fonctionnel peu utiliser en bon etat (pas de jeux ni de chargeur)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "pas de jeux ni de chargeur (nessun gioco né caricabatterie)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "9904121382",
-    "category": "Console",
-    "title": "Nintendo Switch Hülle",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9904121382-nintendo-switch-hulle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0097b_kvY1AfYEYPaL1kGeENEwX9Wy/310x430/ad804470.webp?s=7f10db76e8ba30df7dc465481306151cdc96e3a7",
-    "addedAt": "2026-09-06T08:37:46.090Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.1€, sotto soglia"
-  },
-  {
     "id": "9904176161",
     "category": "Console",
     "title": "Pochette pour switch oled.",
@@ -20694,5 +20661,35 @@
     "geminiFault": "Manca dei joy-con laterali (ha solo un Pro Controller) e c'è un piccolo difetto blu nello schermo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "9950048876",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9950048876-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d52_EXtn8tZ9k16VnSyDBEfQuRLX/310x430/be032ead.webp?s=ca5a7cc189d8ca1d8686f1d69cad4d344b438349",
+    "addedAt": "2026-09-10T08:35:49.789Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.05€, sotto soglia"
+  },
+  {
+    "id": "9950048687",
+    "category": "Console",
+    "title": "🎮 PS4 nera + 1 cavo di alimentazione+ 1 cavo HDMI🎮",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9950048687-ps4-nera-1-cavo-di-alimentazione-1-cavo-hdmi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_010d1_mRyMroGdcL4HFXgmPJAQr91t/310x430/60e202c6.webp?s=7dd68353d2805a3878e1008783c35834e99574f9",
+    "addedAt": "2026-09-10T08:35:49.789Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
   }
 ]
