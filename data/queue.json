@@ -1,23 +1,5 @@
 [
   {
-    "id": "9888987911",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9888987911-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_008b6_U4Lpuc1xpgpFUZ8JvVNEvJdm/310x430/b90f6294.webp?s=59801db00edff313e824d407b3f3c6a0d3e15dcf",
-    "addedAt": "2026-09-06T20:56:44.080Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "blicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPS4 sem comandos\nBom estado com algum uso.\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "sem comandos (senza controller)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
     "id": "9915497626",
     "category": "Console",
     "title": "Xbox one Konsole 500gb Schwarz",
@@ -19671,5 +19653,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 76.8
+  },
+  {
+    "id": "9958258693",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9958258693-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019f4_vP1Lb2s9PPZCRj6iCFQMnCNW/310x430/2071af3a.webp?s=1fca5b9f1a6e93ae42f94def4e1e0a2123e6ca7e",
+    "addedAt": "2026-09-10T21:01:55.151Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\n+ 8\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch Usada!\nTem alguns defeitos nos comandos porém está funcionando normalmente , aconselhava a comprar uns novos , !bateria está viciada ! Mas de resto está tudo normal , jogos funcionam normalmente sem travar 👇\nSuporte para Nintendo = +5€\nJogo mario rabbits = +6€\nMicrocard SD = +3€\nMala 💼 para Nintendo = +7\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Difetti nei Joy-Con (consigliato acquisto nuovi), batteria viziata",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
