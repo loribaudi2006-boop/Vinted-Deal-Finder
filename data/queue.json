@@ -19497,5 +19497,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 47.85
+  },
+  {
+    "id": "9957996884",
+    "category": "Console",
+    "title": "Nintendo switch vendita",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9957996884-nintendo-switch-vendita?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f01_tLb8JQaTndgZuojkLYNvXhct/310x430/e4abe6f6.webp?s=ac6270b5e825b96a44ca6673e6118860f042e166",
+    "addedAt": "2026-09-10T20:27:19.788Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9958060588",
+    "category": "Console",
+    "title": "PS4 avec manette et les fils",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9958060588-ps4-avec-manette-et-les-fils?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_000ff_J8pPwfCzNKLx1mu8Wi7kDQnk/310x430/6f062123.webp?s=661d724d31e5666653391c0be730559a8baecc7c",
+    "addedAt": "2026-09-10T20:34:40.487Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 avec manette et les fils\nDiscrete·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nPs4 avec manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Condizioni discrete, probabile usura generale",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "9958069066",
+    "category": "Console",
+    "title": "Boîte de Nintendo switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9958069066-boite-de-nintendo-switch-super-mario-odyssey?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024e0_RqyZ71oTK1MDMsWWmYjTmRgC/310x430/3bbd67ca.webp?s=21c70b4ce9b1e99d110377d3e2e38ca44b9c722b",
+    "addedAt": "2026-09-10T20:35:43.245Z",
+    "processed": false,
+    "triaged": false
   }
 ]
