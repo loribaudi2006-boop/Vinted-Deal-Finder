@@ -20561,8 +20561,10 @@
     "url": "https://www.vinted.it/items/9949273390-boite-cale-seule-playstation-4-fat-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00304_NYndj9vcS7CGLvyoZvBbfNvm/310x430/bb7e77c9.webp?s=03eb5f6a4512a47b50891c26a9552311ecf5af26",
     "addedAt": "2026-09-10T06:36:29.398Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9949332385",
@@ -20574,7 +20576,24 @@
     "url": "https://www.vinted.it/items/9949332385-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00be3_wL7ygF8kh5Nxvz1agkyDrx6g/310x430/dc04ed74.webp?s=eba66e74c001b74ab67d77d70c1ff7d19e1fc77d",
     "addedAt": "2026-09-10T06:50:13.549Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
+  },
+  {
+    "id": "9949419506",
+    "category": "Console",
+    "title": "Nintendo Switch Leerkarton",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9949419506-nintendo-switch-leerkarton?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0056d_ZdR3mEy4B3ntTus69ezYEfFR/310x430/bebaaa56.webp?s=96eefdb69ca72ca5db4264e31288c9afe6215b92",
+    "addedAt": "2026-09-10T07:06:56.459Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
   }
 ]
