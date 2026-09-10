@@ -1,21 +1,5 @@
 [
   {
-    "id": "9902842105",
-    "category": "Console",
-    "title": "Xbox One S",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9902842105-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02083_C2kPzjYd3XdS5S6nNvCAHiN8/310x430/716ff8e7.webp?s=e1401e9c7227462cbc891a6bb16706310d6d8e95",
-    "addedAt": "2026-09-06T03:58:51.558Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9902975523",
     "category": "Console",
     "title": "nintendo switch oled",
@@ -20645,5 +20629,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9948885836",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9948885836-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00148_6PzL28Dgqfiwvj7dL4dc2McQ/310x430/f7a28469.webp?s=a877bbcd11cd0edcf41b1453080efbf9be49e449",
+    "addedAt": "2026-09-10T03:56:09.479Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9948889914",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9948889914-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0077c_KxA9vww63kj7a8qjsBB6z12D/310x430/117b379f.webp?s=5833c7bcabe1e6e65b8a3721496b0f6068926150",
+    "addedAt": "2026-09-10T03:58:14.804Z",
+    "processed": false,
+    "triaged": false
   }
 ]
