@@ -20154,5 +20154,20 @@
     "geminiFault": "Si accende solo in determinate posizioni dello schermo, si spegne se aperto ulteriormente (probabile problema al flat cable). Venduto per pezzi di ricambio.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "9953438659",
+    "category": "Console",
+    "title": "console microsoft xbox one 500 gb nera completa di alimentatore testata - funzionante",
+    "price": 49.9,
+    "totalPrice": 53.1,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9953438659-console-microsoft-xbox-one-500-gb-nera-completa-di-alimentatore-testata-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01fd4_BP3E4D2rzwRo29hqzaJkgykY/310x430/b2dca0d8.webp?s=ecc32f9a14a5801adb1e04c7eb96b75f048c032f",
+    "addedAt": "2026-09-10T13:54:04.662Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.9€, sotto soglia"
   }
 ]
