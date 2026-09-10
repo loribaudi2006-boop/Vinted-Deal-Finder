@@ -1,20 +1,5 @@
 [
   {
-    "id": "9915970314",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9915970314-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0188c_aD5myUs9V6XstYxZAXWQ6M3x/310x430/da370aba.webp?s=de79239eb563928fd0f36beac4a720782ccd2ef0",
-    "addedAt": "2026-09-06T22:35:45.451Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "9916111312",
     "category": "Console",
     "title": "Je vends ce socle de switch",
@@ -19710,5 +19695,38 @@
     "geminiFault": "Si surriscalda facilmente, richiede pulizia interna e fa un rumore strano all'accensione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9958693336",
+    "category": "Console",
+    "title": "PS5 Covers Cosmic Red",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9958693336-ps5-covers-cosmic-red?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e2e_Qmbzj6QPdXpKkZnXxokh27uk/310x430/ce9c288e.webp?s=829805a1fbf7ba4f4c644c11fc052c543a278ca8",
+    "addedAt": "2026-09-10T22:29:39.342Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "9958701379",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9958701379-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0074d_t8Px1zECxf1KbFc8CLJh8Axw/310x430/e4f81709.webp?s=18a868dc46cfd2495772110703110d5da550c88b",
+    "addedAt": "2026-09-10T22:31:44.572Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nPS4 non funzionante – da riparare o per pezzi di ricambio\n\nVendo PlayStation 4 non funzionante. La console presenta un problema e viene venduta così com’è, per essere riparata o utilizzata come ricambio.\n\n✅ Cavo di alimentazione incluso\n❌ Joystick non incluso\n❌ Scatola originale non disponibile\n❌ Altri cavi non inclusi\n\nPer qualsiasi informazione o foto aggiuntiva, scrivetemi.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console non funzionante, da riparare o per pezzi di ricambio",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
