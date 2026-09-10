@@ -1,38 +1,5 @@
 [
   {
-    "id": "9915856888",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 23,
-    "totalPrice": 24.85,
-    "reason": "prezzo 77% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9915856888-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01506_8QkBU3r3VrntcorKH9BgHjKr/310x430/434421b6.webp?s=9b342ebc239dfd11e39e5c382fd30ff6ce94b15f",
-    "addedAt": "2026-09-06T22:08:37.998Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.15€, sotto soglia"
-  },
-  {
-    "id": "9915888014",
-    "category": "Console",
-    "title": "Ps4 con controller",
-    "price": 48,
-    "totalPrice": 51.1,
-    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9915888014-ps4-con-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016b5_guUNebC5Rvojv7Ca1otxhmSn/310x430/a4867c8e.webp?s=1a150b827f1e0d9f7461b53ba164573123d5f582",
-    "addedAt": "2026-09-06T22:15:55.143Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "cità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 con controller\nOttime·PlayStation·Caricato proprio adesso\n\n100,00 €\n\n105,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo ps4 usata con controller ricondizionato\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 68.9
-  },
-  {
     "id": "9915925901",
     "category": "Console",
     "title": "Socle de switch 1",
@@ -19704,5 +19671,20 @@
     "geminiFault": "Graffiata, senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "9958611737",
+    "category": "Console",
+    "title": "Recherche de ventilateur foxconn pour ma ps5 slim",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9958611737-recherche-de-ventilateur-foxconn-pour-ma-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014a4_SjnLe2oCp3mfRPMYficZX5a9/310x430/d220a2e5.webp?s=0e69ad6a44e42b74ee00fb61baf361bdc9cbb29c",
+    "addedAt": "2026-09-10T22:08:46.669Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
