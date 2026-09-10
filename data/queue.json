@@ -1,23 +1,5 @@
 [
   {
-    "id": "9915771511",
-    "category": "Console",
-    "title": "PlayStation 4 a vendr",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9915771511-playstation-4-a-vendr?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01836_brf3LpDPLFkL74U2eP2YAdNa/310x430/caea271a.webp?s=c49cae7dca4feb6d855447dceb9d176ab91a229b",
-    "addedAt": "2026-09-06T21:51:57.285Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 a vendr\nOttime·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nElle marche très bien aucun problème mais je n'ai pas de manette et j'ai des jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller (manette)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.05
-  },
-  {
     "id": "9915789464",
     "category": "Console",
     "title": "Playstation 4 - 500 GB",
@@ -19743,5 +19725,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "9958544695",
+    "category": "Console",
+    "title": "Lotto giochi PS4",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 89% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9958544695-lotto-giochi-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01eef_nNvrNKzfcr2S3UBCeSHpVBiV/310x430/1f7edf2a.webp?s=42bdc51a33c4a169e21f56e06c4ed6da1bbff255",
+    "addedAt": "2026-09-10T21:53:06.722Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~14.6€, sotto soglia"
+  },
+  {
+    "id": "9958547259",
+    "category": "Console",
+    "title": "Ps4 or",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9958547259-ps4-or?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00315_YyBV2FaNFGgSisxBgPVSCchK/310x430/da75ef13.webp?s=42082b019cf978619e524de1d7bc44e5ca874d75",
+    "addedAt": "2026-09-10T21:54:09.128Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 or\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 encore en bonne état juste que la PlayStation eh rayé mais elle marche parfaitement je n’es juste pas la manette car je l’ai casser donc je vend ma ps4 si intéressée venez prv négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Graffiata, senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
