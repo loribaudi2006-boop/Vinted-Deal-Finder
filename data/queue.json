@@ -20613,5 +20613,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9948795282",
+    "category": "Console",
+    "title": "Nintendo switch joy con holders",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9948795282-nintendo-switch-joy-con-holders?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f65_8oySFT9XenuqxwdPDJBpr9Ks/310x430/f3826a43.webp?s=a3af0c9fcfe71b4384f30e55d1b863fd77df1718",
+    "addedAt": "2026-09-10T03:00:53.488Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9948794623",
+    "category": "Console",
+    "title": "Nintendo switch et mario",
+    "price": 66,
+    "totalPrice": 70,
+    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9948794623-nintendo-switch-et-mario?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01f5c_NG18WJpyNQ6Qnk7Cj3u9v9hr/310x430/c6aa7b2c.webp?s=e26039b35c1fc5562e6a4d75ea6bd24656d42082",
+    "addedAt": "2026-09-10T03:00:53.488Z",
+    "processed": false,
+    "triaged": false
   }
 ]
