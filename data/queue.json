@@ -1,38 +1,5 @@
 [
   {
-    "id": "9905960046",
-    "category": "Console",
-    "title": "Playstation 4 Konsole",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9905960046-playstation-4-konsole?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c32_UR78mb2qBFQ5HXLPts4febvh/310x430/7fb5a9a9.webp?s=ee75d813992f3fc996e8a4650c61f68b498f5dda",
-    "addedAt": "2026-09-06T10:47:10.343Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 Konsole\nBuone·PlayStation·Caricato proprio adesso\n\n10,00 €\n\n11,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPS4 geht, leider ist mir der HDMI Stecker kaputt gegangen siehe Bilder.\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "HDMI Stecker kaputt (connettore HDMI rotto)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 68.8
-  },
-  {
-    "id": "9905995263",
-    "category": "Console",
-    "title": "Support Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9905995263-support-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00448_pZi5MFuH47vbaNikeASXHUsC/310x430/5e692e63.webp?s=b00fce3c80979571a86e1ab0ecedd8ca9b5452cb",
-    "addedAt": "2026-09-06T10:49:15.296Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-30€, sotto soglia"
-  },
-  {
     "id": "9906002944",
     "category": "Console",
     "title": "Titre : Pochette de Transport Nintendo Switch Pikachu  comme neuve",
@@ -20502,5 +20469,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "9951306894",
+    "category": "Console",
+    "title": "Vends Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9951306894-vends-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0133e_iLsiehrZwQPjyyZgSb6bDih7/310x430/2d75aaa7.webp?s=94281fbb9efa63fd4fcda92560b85b7064d8f932",
+    "addedAt": "2026-09-10T10:42:26.792Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVends Nintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nBonjour, je vends ma Nintendo switch sans manette sur les côtés mais avec une manette pro il y a un petit truc bleu dans l’écran\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano i joy-con laterali (inclusi controller Pro), presence d'un petit truc bleu dans l'écran",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 61.55
   }
 ]
