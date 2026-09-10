@@ -1,23 +1,5 @@
 [
   {
-    "id": "9905421836",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9905421836-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01b72_SmhKBDaWLBS5mv9rD5KjdAec/310x430/bc8fddd1.webp?s=727bea2afa86f22350736a5f7a5b5af2c25de251",
-    "addedAt": "2026-09-06T10:11:42.905Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo Switch\nDiscrete·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNintendo switch\nConsole werkt nog prima, controllers werken nog maar zijn aan vervanging toe.\n\nZal perfect werken met nieuwe joy-con’s of voor onderdelen.\n\nPakket: console, dock en stroomkabel.\n... altro\nSpedizione\nda 5,29 €",
-    "geminiFault": "Joy-con da sostituire o per parti di ricambio; la console funziona bene, include dock e cavo di alimentazione",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.8
-  },
-  {
     "id": "9905561211",
     "category": "Console",
     "title": "base Nintendo switch classica",
@@ -20550,5 +20532,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "9951054949",
+    "category": "Console",
+    "title": "Console R36SX nuova con scatola caricabatterie manca la SD",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"manca\"",
+    "url": "https://www.vinted.it/items/9951054949-console-r36sx-nuova-con-scatola-caricabatterie-manca-la-sd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_017f9_JqhTVV3sUL7UJ6qrvrYac8bs/310x430/6326ce00.webp?s=aa11580a1c8479fc90ad10bce1550cbd81be3b33",
+    "addedAt": "2026-09-10T10:18:22.473Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.05€, sotto soglia"
   }
 ]
