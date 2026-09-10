@@ -1,20 +1,5 @@
 [
   {
-    "id": "9903263947",
-    "category": "Console",
-    "title": "Solo Caja Vacía PS4 Slim 1TB \"Playstation Hits\" (Con Insertos)",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9903263947-solo-caja-vacia-ps4-slim-1tb-playstation-hits-con-insertos?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0266d_qKf3im597D29QggXvMppragK/310x430/6524e66e.webp?s=0767db7702969726dd9500e78dde31c3b17dbd79",
-    "addedAt": "2026-09-06T06:53:07.386Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3.45€, sotto soglia"
-  },
-  {
     "id": "9903572499",
     "category": "Console",
     "title": "Xbox one con alimentatore",
@@ -20576,6 +20561,19 @@
     "url": "https://www.vinted.it/items/9949273390-boite-cale-seule-playstation-4-fat-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00304_NYndj9vcS7CGLvyoZvBbfNvm/310x430/bb7e77c9.webp?s=03eb5f6a4512a47b50891c26a9552311ecf5af26",
     "addedAt": "2026-09-10T06:36:29.398Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9949332385",
+    "category": "Console",
+    "title": "xbox one",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9949332385-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00be3_wL7ygF8kh5Nxvz1agkyDrx6g/310x430/dc04ed74.webp?s=eba66e74c001b74ab67d77d70c1ff7d19e1fc77d",
+    "addedAt": "2026-09-10T06:50:13.549Z",
     "processed": false,
     "triaged": false
   }
