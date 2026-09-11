@@ -1,21 +1,5 @@
 [
   {
-    "id": "9916974196",
-    "category": "Console",
-    "title": "Nintendo Switch Light linker controller zou gerepareerd kunnen worden",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9916974196-nintendo-switch-light-linker-controller-zou-gerepareerd-kunnen-worden?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00820_Es6TUkNbGjt8feEgj624DjWc/310x430/7e79d92a.webp?s=87dff2492a6c05ece1f79d94e4e92c69086a4522",
-    "addedAt": "2026-09-07T05:59:58.986Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9916996906",
     "category": "Console",
     "title": "Mooie Nintendo switch",
@@ -19700,6 +19684,32 @@
     "url": "https://www.vinted.it/items/9959697986-boite-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015ba_sWJK3tMpQRTMKJXj8ZiKfzNM/310x430/c4ff4205.webp?s=72530a0a4f2488cdabb5f8c1bf6a8f0054500285",
     "addedAt": "2026-09-11T05:53:12.555Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959705372",
+    "category": "Console",
+    "title": "Boîte Nintendo Switch lite",
+    "price": 1.8,
+    "totalPrice": 2.59,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9959705372-boite-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_015ba_sWJK3tMpQRTMKJXj8ZiKfzNM/310x430/c4ff4205.webp?s=72530a0a4f2488cdabb5f8c1bf6a8f0054500285",
+    "addedAt": "2026-09-11T05:56:18.915Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959711972",
+    "category": "Console",
+    "title": "Ps4 Slim + Controller",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959711972-ps4-slim-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0241a_TdduyWNvKbVMDkrExvHqNUq8/310x430/c955a95f.webp?s=579dbea90edd4a76b1166a4c79c54506294d2fcd",
+    "addedAt": "2026-09-11T05:58:23.426Z",
     "processed": false,
     "triaged": false
   }
