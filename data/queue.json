@@ -1,38 +1,5 @@
 [
   {
-    "id": "9927118065",
-    "category": "Console",
-    "title": "Ps4 + controller",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9927118065-ps4-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0051e_DSCqkPVTwC58mEr5wdMH7NCK/310x430/f20672ca.webp?s=41e333e273a1bbc9f32bf3f13ee29a74f065f9a4",
-    "addedAt": "2026-09-07T22:58:07.978Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9927130330",
-    "category": "Console",
-    "title": "Playstation 4 a réparer",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9927130330-playstation-4-a-reparer?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01528_PbJFMzMLwdAbwYfusZ6CRa98/310x430/a0520a6c.webp?s=e0a874d17451f82aad6430a23f6c2c601fa628e5",
-    "addedAt": "2026-09-07T23:01:15.815Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 a réparer\nDiscrete·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPour piéces ou réparation,ne s alume pas.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Pour piéces ou réparation,ne s alume pas.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.55
-  },
-  {
     "id": "9927280381",
     "category": "Console",
     "title": "Nintendo Switch Lite Nueva",
@@ -20016,5 +19983,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "9968971631",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9968971631-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01092_54zygNM2FtAehtz1LdUqinFb/310x430/7537206b.webp?s=f986843abc3ff7cf411d25a11603ed6e6d492f7a",
+    "addedAt": "2026-09-11T23:04:38.770Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nOttima crossing come Bella foto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 86.8
   }
 ]
