@@ -1,21 +1,5 @@
 [
   {
-    "id": "9917063561",
-    "category": "Console",
-    "title": "PS4 fat + gioco",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9917063561-ps4-fat-gioco?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_003ac_CyXYG4x1DQR1E3GUu3EiRCat/310x430/b820cd5e.webp?s=5b1a109de71e3f51115f30e3c798ac17ece10271",
-    "addedAt": "2026-09-07T06:27:07.490Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9917242270",
     "category": "Console",
     "title": "PS4 Slim mit 2 Controllern",
@@ -19738,6 +19722,32 @@
     "url": "https://www.vinted.it/items/9959745229-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01c9a_PRpzCPiJJ4S2rxW69KM6GxB6/310x430/cf35c1d5.webp?s=bda962ce6bf22125f05cd2c7546c40d2f7ce7bd6",
     "addedAt": "2026-09-11T06:21:12.351Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959820156",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959820156-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0266b_Hxyzov6XMjF4tNGdYxgYrte6/310x430/848951b7.webp?s=8f5fe638c257f981bc96b6dc3b438ffed2478299",
+    "addedAt": "2026-09-11T06:27:26.215Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959818273",
+    "category": "Console",
+    "title": "PSP 2000 argento per ricambi schermo difettoso si accende non vede bene",
+    "price": 19.9,
+    "totalPrice": 21.6,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/9959818273-psp-2000-argento-per-ricambi-schermo-difettoso-si-accende-non-vede-bene?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_024e0_zMwBT6eTdEWvgJcoQ3GUuGo2/310x430/72185252.webp?s=eae0c20171862394b291e9063e4af19a9e7e46c1",
+    "addedAt": "2026-09-11T06:27:26.215Z",
     "processed": false,
     "triaged": false
   }
