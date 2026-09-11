@@ -19740,5 +19740,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 100.25
+  },
+  {
+    "id": "9960229249",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9960229249-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_005fa_oKQLeLpPxECgA4Ng6uNdSxZM/310x430/11f9af1d.webp?s=0ab91e8fa4b5d4436384ccfc9c48f7ea167a8564",
+    "addedAt": "2026-09-11T07:43:49.774Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "9960227410",
+    "category": "Console",
+    "title": "Ps4 pro peut être réparer si on si connais",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 72% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/9960227410-ps4-pro-peut-etre-reparer-si-on-si-connais?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00459_xFtWH5R1j5cK35GEvm2K17g9/310x430/3f53a485.webp?s=a546ed319cb16ded3a2b88e6b90f3640b78a564b",
+    "addedAt": "2026-09-11T07:43:49.774Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "giochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 pro peut être réparer si on si connais\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nPs4 pro neuf juste 3 câble a changé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "peut être réparer / juste 3 câble a changé",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
