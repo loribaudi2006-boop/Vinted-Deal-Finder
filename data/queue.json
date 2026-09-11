@@ -19917,5 +19917,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.3€, sotto soglia"
+  },
+  {
+    "id": "9968419951",
+    "category": "Console",
+    "title": "Funziona perfettamente non ha nessun problema",
+    "price": 42,
+    "totalPrice": 44.8,
+    "reason": "parola chiave: \"problema\"",
+    "url": "https://www.vinted.it/items/9968419951-funziona-perfettamente-non-ha-nessun-problema?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00199_J7HCoXtGTyD9XwjN1Tic9jS8/310x430/1bee30bb.webp?s=46332dfc800eed76d5e276bec7419c95abbe4f92",
+    "addedAt": "2026-09-11T21:00:14.816Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "9968442676",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9968442676-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ae1_LviqEr5r3Jcf9FXD83u8Lyk5/310x430/94cbc3e4.webp?s=443a4f68036ffb01edd1ca79078ae6fb147acfbf",
+    "addedAt": "2026-09-11T21:03:22.947Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
   }
 ]
