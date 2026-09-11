@@ -19631,5 +19631,18 @@
     "geminiFault": "micro rayures sur l'ecran et a l’arrière",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.15
+  },
+  {
+    "id": "9959260779",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9959260779-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01aca_rc5iJ41xKCciU9HDDfqe5MJZ/310x430/728063fa.webp?s=2e1163da5046f73bdc92f22b309743288f7dc0e7",
+    "addedAt": "2026-09-11T02:02:13.948Z",
+    "processed": false,
+    "triaged": false
   }
 ]
