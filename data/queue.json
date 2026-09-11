@@ -1,21 +1,5 @@
 [
   {
-    "id": "9916927328",
-    "category": "Console",
-    "title": "🎮 Station de recharge 5-en-1 Xbox Series X – Double charge",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/9916927328-station-de-recharge-5-en-1-xbox-series-x-double-charge?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01c4d_vDJuUnJq4GhZbgaCe8VzYsR8/310x430/50d693d6.webp?s=e22ef57b3df28e6d76159c8406b20bb91b8c4542",
-    "addedAt": "2026-09-07T05:42:14.809Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9916953320",
     "category": "Console",
     "title": "PS5 Disc Drive",
@@ -19695,5 +19679,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9959659785",
+    "category": "Console",
+    "title": "Ps4 Slim + Controller",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959659785-ps4-slim-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_002d3_2ydi7CMijjq5cjWYXEGc4f9r/310x430/b704b7a5.webp?s=b3c5cafe093b368c9da43895813bb5d8e32ac877",
+    "addedAt": "2026-09-11T05:39:45.073Z",
+    "processed": false,
+    "triaged": false
   }
 ]
