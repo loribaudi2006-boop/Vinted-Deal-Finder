@@ -19884,5 +19884,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 108.25
+  },
+  {
+    "id": "9968347559",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9968347559-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01018_AUzXgbB9f95efwWX7bJqG5ZZ/310x430/a7807495.webp?s=c05e0b837490def29efa6a9cc29fadc4fafa35a1",
+    "addedAt": "2026-09-11T20:48:42.226Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nvendo per inutilizzo con pad e stazione di ricarica\n\n\nla console presenta segni evidenti di usura i controller non vanno e manca lo stendino\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni evidenti di usura, controller non funzionanti, manca lo stand (piedino posteriore)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "9968359342",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9968359342-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0199e_KAcwGNSm9939kYdM7vcyBaU5/310x430/47a3179c.webp?s=bdb2cd037cbb49f1ead1a410cfb753c11359a4c0",
+    "addedAt": "2026-09-11T20:50:47.766Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
   }
 ]
