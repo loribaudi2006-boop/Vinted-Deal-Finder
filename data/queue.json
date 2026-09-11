@@ -19658,8 +19658,11 @@
     "url": "https://www.vinted.it/items/9959322723-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02011_kEzpohjnBMHnS7gof5ZgkQGZ/310x430/603ea6bd.webp?s=847134b6cf18c6dfbc06ef65176d226de5dc0339",
     "addedAt": "2026-09-11T02:32:17.437Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9959339607",
@@ -19671,6 +19674,19 @@
     "url": "https://www.vinted.it/items/9959339607-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01292_zmm6Rou3A1TJofoFhZmdxLEz/310x430/fd078389.webp?s=7d1b5e8c47e20f85aedb441c1072803e5c750f3f",
     "addedAt": "2026-09-11T02:41:36.841Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959380364",
+    "category": "Console",
+    "title": "PlayStation 4 non funzionante",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959380364-playstation-4-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00367_BYcXmntr5n85WxqQtrM9UqX2/310x430/84a67d63.webp?s=f5ed1361237abe43bba866e56bf5a194058960be",
+    "addedAt": "2026-09-11T03:03:21.914Z",
     "processed": false,
     "triaged": false
   }
