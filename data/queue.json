@@ -19674,8 +19674,11 @@
     "url": "https://www.vinted.it/items/9959339607-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01292_zmm6Rou3A1TJofoFhZmdxLEz/310x430/fd078389.webp?s=7d1b5e8c47e20f85aedb441c1072803e5c750f3f",
     "addedAt": "2026-09-11T02:41:36.841Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9959380364",
