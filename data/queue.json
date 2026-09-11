@@ -20019,5 +20019,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "9969024803",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9969024803-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00618_Q4ekEfvKd1k6Vi2k13VuJfLZ/310x430/d4b3c074.webp?s=73e95847b943b61dedb6d7776edb870ec879d0cc",
+    "addedAt": "2026-09-11T23:22:26.224Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9969034642",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9969034642-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0186a_9TyqeQgeiRdSuzy7P393NfRy/310x430/16ed73f3.webp?s=fbe47ea6625e2e44bdf3a91cd4fb2e2fc09667d3",
+    "addedAt": "2026-09-11T23:26:36.000Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nNuova vedi foto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
