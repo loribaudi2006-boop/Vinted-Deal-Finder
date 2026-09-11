@@ -1,20 +1,5 @@
 [
   {
-    "id": "9918035812",
-    "category": "Console",
-    "title": "Switch TV Dock",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9918035812-switch-tv-dock?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01265_7yWYiJhTTjybaRByTE6YNQsE/310x430/ae2555b9.webp?s=88417372f678e3f74b2fbe334caa3dd1de95010b",
-    "addedAt": "2026-09-07T09:04:55.497Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.55€, sotto soglia"
-  },
-  {
     "id": "9918130246",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -19683,5 +19668,18 @@
     "geminiFault": "Schermo difettoso a meta (meta sinistra non visualizza immagini)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 37.85
+  },
+  {
+    "id": "9960948367",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9960948367-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00b95_ng2qUUaLyZPYSH3BseoY3Jic/310x430/c9cec462.webp?s=be76f70df3833c6feebad62b157990423e6e74df",
+    "addedAt": "2026-09-11T09:10:25.217Z",
+    "processed": false,
+    "triaged": false
   }
 ]
