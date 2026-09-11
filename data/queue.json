@@ -1,21 +1,5 @@
 [
   {
-    "id": "9916953320",
-    "category": "Console",
-    "title": "PS5 Disc Drive",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9916953320-ps5-disc-drive?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e5e_LFAPn8iUiTBB7yKebSicPMNk/310x430/593ff311.webp?s=6f2978d159ee10ad9ef0c2d1a363a13c9f99a055",
-    "addedAt": "2026-09-07T05:51:37.941Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9916974196",
     "category": "Console",
     "title": "Nintendo Switch Light linker controller zou gerepareerd kunnen worden",
@@ -19690,6 +19674,32 @@
     "url": "https://www.vinted.it/items/9959659785-ps4-slim-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_002d3_2ydi7CMijjq5cjWYXEGc4f9r/310x430/b704b7a5.webp?s=b3c5cafe093b368c9da43895813bb5d8e32ac877",
     "addedAt": "2026-09-11T05:39:45.073Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959698127",
+    "category": "Console",
+    "title": "Ps4 Slim + Controller",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959698127-ps4-slim-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_002d3_2ydi7CMijjq5cjWYXEGc4f9r/310x430/b704b7a5.webp?s=b3c5cafe093b368c9da43895813bb5d8e32ac877",
+    "addedAt": "2026-09-11T05:53:12.555Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959697986",
+    "category": "Console",
+    "title": "Boîte Nintendo Switch lite",
+    "price": 1.8,
+    "totalPrice": 2.59,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9959697986-boite-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_015ba_sWJK3tMpQRTMKJXj8ZiKfzNM/310x430/c4ff4205.webp?s=72530a0a4f2488cdabb5f8c1bf6a8f0054500285",
+    "addedAt": "2026-09-11T05:53:12.555Z",
     "processed": false,
     "triaged": false
   }
