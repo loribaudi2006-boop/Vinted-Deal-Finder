@@ -1,21 +1,5 @@
 [
   {
-    "id": "9917049342",
-    "category": "Console",
-    "title": "Xbox One Console – Fully Functional – No Controller",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9917049342-xbox-one-console-fully-functional-no-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00891_eMpKaRQdCrTKpPXfqDnYUxu7/310x430/0fdd8940.webp?s=25e9c128385272018e9a28e21f6fea3ad22960f4",
-    "addedAt": "2026-09-07T06:22:57.305Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9917063561",
     "category": "Console",
     "title": "PS4 fat + gioco",
@@ -19717,5 +19701,44 @@
     "geminiFault": "Joy-con molto difettosi ma riparabili, console senza accessori",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "9959771235",
+    "category": "Console",
+    "title": "Ps5 Fat placca (Rashford)",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 83% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9959771235-ps5-fat-placca-rashford?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01633_1WfXrWx9jHod2ZTGiL9tZNfC/310x430/eb80697c.webp?s=4e0f395f95e453f90498615239cf042377b49774",
+    "addedAt": "2026-09-11T06:16:00.556Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959786063",
+    "category": "Console",
+    "title": "Boite + Cale seule Playstation 4 FAT (PS4)",
+    "price": 16.5,
+    "totalPrice": 18.03,
+    "reason": "prezzo 87% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959786063-boite-cale-seule-playstation-4-fat-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00ad1_4GJNp5ZsEPnh7UbXAfAdKyhU/310x430/7cf4faf6.webp?s=22002072ce151c452f56e41f6947ef333698891a",
+    "addedAt": "2026-09-11T06:19:07.494Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9959745229",
+    "category": "Console",
+    "title": "PS4 Fat",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959745229-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01c9a_PRpzCPiJJ4S2rxW69KM6GxB6/310x430/cf35c1d5.webp?s=bda962ce6bf22125f05cd2c7546c40d2f7ce7bd6",
+    "addedAt": "2026-09-11T06:21:12.351Z",
+    "processed": false,
+    "triaged": false
   }
 ]
