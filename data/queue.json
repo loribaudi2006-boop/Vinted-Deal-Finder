@@ -1,23 +1,5 @@
 [
   {
-    "id": "9918211830",
-    "category": "Console",
-    "title": "xbox one",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9918211830-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02065_k3t2WCYJwKVCAP4FT14AS5Ay/310x430/f647762c.webp?s=ce3c5b9eb5ba9aaf66b42ad2086e1efcf5097031",
-    "addedAt": "2026-09-07T09:22:39.131Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "y e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nxbox one\nBuone·Xbox·Caricato un minuto fa\n\n20,00 €\n\n21,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nnon ha hdmi e cavo per collegarsi a internet\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "non ha hdmi e cavo per collegarsi a internet",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 43.3
-  },
-  {
     "id": "9918314755",
     "category": "Console",
     "title": "Nitendo switch 1",
@@ -19638,5 +19620,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.55€, sotto soglia"
+  },
+  {
+    "id": "9961146555",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9961146555-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0001f_fkmAmfk2CZFbfEAzufVVdt39/310x430/5b66fc3a.webp?s=eb2b97082683f4aced2a6314ac64f2fe0e5db6ac",
+    "addedAt": "2026-09-11T09:30:13.700Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato proprio adesso\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nBlue and Red Controller Nintendo Switch Works Perfectly\n\n*Please note this has an Irish Plug and No Docking Station* Only Console and Controllers and Plug*\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca la base dock e ha spina inglese",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
