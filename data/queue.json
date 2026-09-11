@@ -19695,5 +19695,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9959561438",
+    "category": "Console",
+    "title": "Ps4 en panne pour pieces ou reparateur",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9959561438-ps4-en-panne-pour-pieces-ou-reparateur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01387_NZNcqox8xvFn5qxCtiJ2NuAA/310x430/43c20a96.webp?s=c5871eb7d059959ec5070adece3a9353cbfe3e0c",
+    "addedAt": "2026-09-11T04:55:13.240Z",
+    "processed": false,
+    "triaged": false
   }
 ]
