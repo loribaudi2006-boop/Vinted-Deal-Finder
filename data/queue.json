@@ -1,37 +1,5 @@
 [
   {
-    "id": "9916996906",
-    "category": "Console",
-    "title": "Mooie Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9916996906-mooie-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0202c_gVtGmJbDzz6oTxb8d3sg7UYM/310x430/669f0a35.webp?s=6e495cb307b6ac18dbb0260e01356d253a67a9c0",
-    "addedAt": "2026-09-07T06:07:18.242Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "9917000881",
-    "category": "Console",
-    "title": "Nintendo Switch Lite",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9917000881-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0087f_d8BSkwAZdQJpoH9QXK6ctj3Q/310x430/2a309e75.webp?s=57be687aa33635342ad6b7fc914da2c1425f80da",
-    "addedAt": "2026-09-07T06:08:20.810Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9917049342",
     "category": "Console",
     "title": "Xbox One Console – Fully Functional – No Controller",
@@ -19658,8 +19626,13 @@
     "url": "https://www.vinted.it/items/9959659785-ps4-slim-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_002d3_2ydi7CMijjq5cjWYXEGc4f9r/310x430/b704b7a5.webp?s=b3c5cafe093b368c9da43895813bb5d8e32ac877",
     "addedAt": "2026-09-11T05:39:45.073Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 Slim + Controller\nOttime·PlayStation·Caricato 28 min fa\n\n49,99 €\n\n53,19 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n28 min fa\nPs4 slim + controller in ottime condizioni\nSpedizione\nda 4,09 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   },
   {
     "id": "9959698127",
@@ -19671,8 +19644,13 @@
     "url": "https://www.vinted.it/items/9959698127-ps4-slim-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_002d3_2ydi7CMijjq5cjWYXEGc4f9r/310x430/b704b7a5.webp?s=b3c5cafe093b368c9da43895813bb5d8e32ac877",
     "addedAt": "2026-09-11T05:53:12.555Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 Slim + Controller\nOttime·PlayStation·Caricato 14 min fa\n\n49,99 €\n\n53,19 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n14 min fa\nPs4 slim + controller in ottime condizioni\nSpedizione\nda 4,09 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.81
   },
   {
     "id": "9959697986",
@@ -19684,8 +19662,10 @@
     "url": "https://www.vinted.it/items/9959697986-boite-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015ba_sWJK3tMpQRTMKJXj8ZiKfzNM/310x430/c4ff4205.webp?s=72530a0a4f2488cdabb5f8c1bf6a8f0054500285",
     "addedAt": "2026-09-11T05:53:12.555Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "9959705372",
@@ -19697,8 +19677,10 @@
     "url": "https://www.vinted.it/items/9959705372-boite-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015ba_sWJK3tMpQRTMKJXj8ZiKfzNM/310x430/c4ff4205.webp?s=72530a0a4f2488cdabb5f8c1bf6a8f0054500285",
     "addedAt": "2026-09-11T05:56:18.915Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.41€, sotto soglia"
   },
   {
     "id": "9959711972",
@@ -19710,7 +19692,30 @@
     "url": "https://www.vinted.it/items/9959711972-ps4-slim-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0241a_TdduyWNvKbVMDkrExvHqNUq8/310x430/c955a95f.webp?s=579dbea90edd4a76b1166a4c79c54506294d2fcd",
     "addedAt": "2026-09-11T05:58:23.426Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Slim + Controller\nOttime·PlayStation·Caricato 10 min fa\n\n74,99 €\n\n79,44 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n10 min fa\nPs4 slim + controller in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.81
+  },
+  {
+    "id": "9959739488",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9959739488-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003d3_LkFDU9JTVkj3MJsoW29JT65R/310x430/cb0dca05.webp?s=a8f3445c116aeb5510bee85b9ba51c702961b57b",
+    "addedAt": "2026-09-11T06:06:41.229Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch presque neuve mais joycon très très nul mais réparable la console sans joystick marche parfaitement 0 accessoires en plus.( Prix négociable)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joy-con molto difettosi ma riparabili, console senza accessori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
