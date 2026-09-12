@@ -1,21 +1,5 @@
 [
   {
-    "id": "9928096283",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9928096283-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_006e7_ZrjD2MvQjkZedpLYLYYFQfpM/310x430/7a7b0659.webp?s=76ffc2606216978c7c29f5f83d8cb92c878b743f",
-    "addedAt": "2026-09-08T06:02:39.622Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9928159322",
     "category": "Console",
     "title": "PlayStation 4 Verticale standard",
