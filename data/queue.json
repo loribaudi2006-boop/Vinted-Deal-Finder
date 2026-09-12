@@ -1,21 +1,5 @@
 [
   {
-    "id": "9927888042",
-    "category": "Console",
-    "title": "PS4 Set: 2 Controller & FIFA 21 + NBA19",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9927888042-ps4-set-2-controller-fifa-21-nba19?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00cd4_XPrq6zgbkvUYNttcrCTFWFMk/310x430/982354e0.webp?s=93ec701760444622f27c81d5207885c046b08e2e",
-    "addedAt": "2026-09-08T04:27:54.481Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9928017256",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19843,8 +19827,11 @@
     "url": "https://www.vinted.it/items/9969523107-lotto-ps4-ps2-6-giochi-wii-u-da-testare-leggi-descrizione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b2f_qwHyebQgXo1Wrq2BFEGcmU8P/310x430/390d99c4.webp?s=fb0836be83db1d0bf11010766768e1c712e59ae4",
     "addedAt": "2026-09-12T03:59:10.806Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9969618354",
