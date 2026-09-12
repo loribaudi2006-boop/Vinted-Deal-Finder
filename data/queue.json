@@ -1,23 +1,5 @@
 [
   {
-    "id": "9928398515",
-    "category": "Console",
-    "title": "Xbox one s à vendre bon état",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9928398515-xbox-one-s-a-vendre-bon-etat-elle-a-deja-servit-mais-sert-toujours-et-peux-marche-toujours-bien?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_022fa_7Lmo9YbJoEVsA5CYjMVAQd2e/310x430/64b79f18.webp?s=8c6c05d499865e95bb0047c9a1750ba05b694859",
-    "addedAt": "2026-09-08T07:14:32.848Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "sole\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s à vendre bon état , elle a déjà servit , mais sert toujours et peux marche toujours bien\nOttime·Xbox·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox one s , avec câble , manette et piles.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
     "id": "9928454630",
     "category": "Console",
     "title": "Nintendo Switch Lite pink korall",
@@ -19701,5 +19683,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9970115267",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9970115267-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00e1c_D3jZFjBCXbRqjLtvshTyKqzB/310x430/21cf3832.webp?s=f5396cf959c4f5c380880ec70c46ee263f21efd9",
+    "addedAt": "2026-09-12T07:07:44.050Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "9965574451",
+    "category": "Console",
+    "title": "Cartone Nintendo Switch",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9965574451-cartone-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0141d_nrhS3cUtzHsfZd6rmU63wvQe/310x430/fa357655.webp?s=2cd43de2501ccca1afff5ceae3bd971628e8a930",
+    "addedAt": "2026-09-12T07:07:44.050Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
   }
 ]
