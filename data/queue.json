@@ -1,23 +1,5 @@
 [
   {
-    "id": "9929319144",
-    "category": "Console",
-    "title": "PlayStation 4 500gb",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9929319144-playstation-4-500gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a3d_k97z1trmM4jbY7yzcAc9Qaz2/310x430/10b1938e.webp?s=f598b0c37f93576765c027008d13b3c9a05a56b6",
-    "addedAt": "2026-09-08T09:14:28.399Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "tà\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 500gb\nDiscrete·PlayStation·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nLa console si accende e funziona, ma presenta un problema di surriscaldamento con ventola rumorosa e all'avvio mostra alcuni avvisi prima di avviarsi correttamente.\nVendo con controller (non ufficiale) e cavo di alimentazione.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Problema di surriscaldamento con ventola rumorosa e avvisi all'avvio",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.05
-  },
-  {
     "id": "9929599905",
     "category": "Console",
     "title": "Nintendo Switch Bildschirm kaputt",
@@ -20037,5 +20019,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "9971275007",
+    "category": "Console",
+    "title": "Range jeux switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9971275007-range-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0139d_EwubGyK86Rfnpijc1dipEPrv/310x430/ec60fd12.webp?s=ae9663051800a04ce43e6e8258d2014f481c05c7",
+    "addedAt": "2026-09-12T09:18:20.677Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
+  },
+  {
+    "id": "9971335890",
+    "category": "Console",
+    "title": "Nintendo Switch Lite Jaune",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9971335890-nintendo-switch-lite-jaune?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01f68_WLPTFbaW3WbWFvDXHG6h1cpV/310x430/99078a33.webp?s=395c192f91cc8aaef2c7945ba49a182b0137fddb",
+    "addedAt": "2026-09-12T09:22:31.696Z",
+    "processed": false,
+    "triaged": false
   }
 ]
