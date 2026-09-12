@@ -19843,7 +19843,10 @@
     "url": "https://www.vinted.it/items/9969618354-ps4-b1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e72_8YUKe1f1V7FwqiuZU7ivpdHx/310x430/51a7dee8.webp?s=c54cfdfed8df6bbbb6344737ab26f387717bfde9",
     "addedAt": "2026-09-12T04:24:10.593Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
