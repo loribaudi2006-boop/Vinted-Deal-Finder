@@ -1,23 +1,5 @@
 [
   {
-    "id": "9928454630",
-    "category": "Console",
-    "title": "Nintendo Switch Lite pink korall",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9928454630-nintendo-switch-lite-pink-korall?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01bdb_VTPfne6Kqh8AgnQqqXucxxHS/310x430/ce73cab8.webp?s=9b6dcdf64acfbd565a3866234be26a7ff0fded0a",
-    "addedAt": "2026-09-08T07:24:58.547Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Lite pink korall\nOttime·Nintendo·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nEinwandfreier Zustand, wurde vielleicht 5x gespielt und lag sonst nur im Regal.\nLeider kein Zubehör dabei, der Akku Anschluss ist aber der gängige 0815 usbc.\nBei Fragen gern melden\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Nessun accessorio incluso (manca caricabatterie)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.3
-  },
-  {
     "id": "9928525527",
     "category": "Console",
     "title": "Console Ps4",
@@ -19713,5 +19695,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-20€, sotto soglia"
+  },
+  {
+    "id": "9970214466",
+    "category": "Console",
+    "title": "Scatola Nintendo Switch 2",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9970214466-scatola-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_005f2_SX2DvyxvMGNamFv6D5GPUVZH/310x430/1ee4f587.webp?s=3f705f4efbbc1b707b11e5467076919da27239ad",
+    "addedAt": "2026-09-12T07:23:21.382Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9970211722",
+    "category": "Console",
+    "title": "Ps4 Spiele & 2 Controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9970211722-ps4-spiele-2-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02021_K8jCJ7vbsw5pJZFS2CZFRSJL/310x430/1b5a5900.webp?s=c7eaa1f6b49b7509c7c74744de55506eec1c6c95",
+    "addedAt": "2026-09-12T07:23:21.382Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.2€, sotto soglia"
   }
 ]
