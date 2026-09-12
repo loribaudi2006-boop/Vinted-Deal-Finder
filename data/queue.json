@@ -19848,5 +19848,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9969708671",
+    "category": "Console",
+    "title": "Nintendo Switch sans chargeur",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9969708671-nintendo-switch-sans-chargeur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019b9_A3qv8rsgZZqcqWEcRqbsVmCt/310x430/a5708f86.webp?s=d48f88840a1a9a8ca01ba1eacab08ec929573d8f",
+    "addedAt": "2026-09-12T05:19:23.903Z",
+    "processed": false,
+    "triaged": false
   }
 ]
