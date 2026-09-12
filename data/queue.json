@@ -20550,5 +20550,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "9980692511",
+    "category": "Console",
+    "title": "Ps4 plus ces 3 jeux",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9980692511-ps4-plus-ces-3-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014b9_1x69nw9pNabtCtAqLArdC5bU/310x430/89571988.webp?s=70f99d73ef8c4afa32de2ffff1f73b1240870a7e",
+    "addedAt": "2026-09-12T23:54:46.349Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "licità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 plus ces 3 jeux\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 plus ces 3jeux je presi pas de manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il controller (manette), menziona giochi inclusi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
