@@ -1,21 +1,5 @@
 [
   {
-    "id": "9927877730",
-    "category": "Console",
-    "title": "Microsoft Xbox one révisée ok + chargeur secteur",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9927877730-microsoft-xbox-one-revisee-ok-chargeur-secteur?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_02346_mFFCuAT7vv59YoqGz61vpFpu/310x430/35494329.webp?s=91a0e2037b974838c2bab7f40cbf676498a3eb1c",
-    "addedAt": "2026-09-08T04:20:36.817Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9927888042",
     "category": "Console",
     "title": "PS4 Set: 2 Controller & FIFA 21 + NBA19",
@@ -19859,6 +19843,19 @@
     "url": "https://www.vinted.it/items/9969523107-lotto-ps4-ps2-6-giochi-wii-u-da-testare-leggi-descrizione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b2f_qwHyebQgXo1Wrq2BFEGcmU8P/310x430/390d99c4.webp?s=fb0836be83db1d0bf11010766768e1c712e59ae4",
     "addedAt": "2026-09-12T03:59:10.806Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9969618354",
+    "category": "Console",
+    "title": "PS4 B1",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9969618354-ps4-b1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e72_8YUKe1f1V7FwqiuZU7ivpdHx/310x430/51a7dee8.webp?s=c54cfdfed8df6bbbb6344737ab26f387717bfde9",
+    "addedAt": "2026-09-12T04:24:10.593Z",
     "processed": false,
     "triaged": false
   }
