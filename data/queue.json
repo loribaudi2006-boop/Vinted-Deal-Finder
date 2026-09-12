@@ -20619,5 +20619,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 78.3
+  },
+  {
+    "id": "9980490596",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9980490596-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cc4_PcDgZJPcUTZZrcZJnExtqAWs/310x430/93aa0b53.webp?s=ecf2a06c15236556a87a4300fc644b3904836a00",
+    "addedAt": "2026-09-12T22:51:13.444Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nDiscrete·PlayStation·Caricato un minuto fa\n\n59,99 €\n\n63,69 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\n-es sind noch 2 Accounts drauf kriege sie nicht runter aber Man kann neues Konto erstellen\n- Kein Controller\n-mit Stromkabel und hdmi Kabel\n-hat oben auf der Plattform paar Macken\n-klappt noch sehr gut hat keine Probleme\nbei Fragen melden !📩\n... altro\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Scorciatoie tedesche: account inclusi non rimovibili ma si può creare un nuovo account, senza controller, graffi sulla scocca superiore",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.31
   }
 ]
