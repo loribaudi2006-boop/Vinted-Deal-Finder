@@ -1,20 +1,5 @@
 [
   {
-    "id": "9928333877",
-    "category": "Console",
-    "title": "Xbox one kinect Kamera",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9928333877-xbox-one-kinect-kamera?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_018aa_LxK8HWV7xDjqfKvSdJ6He4iv/310x430/84c004d3.webp?s=c9fa8e556960b38e27baab4a3ac37fdce406ae5e",
-    "addedAt": "2026-09-08T07:02:02.642Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.3€, sotto soglia"
-  },
-  {
     "id": "9928398515",
     "category": "Console",
     "title": "Xbox one s à vendre bon état",
@@ -19696,8 +19681,11 @@
     "url": "https://www.vinted.it/items/9969908302-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01960_MdATM4f6BrYHYE1UPSabcdQp/310x430/a8e7f2e7.webp?s=ae9d5a3115d382ea6171164dee3b49bc41f2d622",
     "addedAt": "2026-09-12T06:27:06.289Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9969992301",
@@ -19709,7 +19697,9 @@
     "url": "https://www.vinted.it/items/9969992301-nintendo-switch-jeu-mystere?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01f0a_rz7hxZYQanY5AbdLPc38ZajN/310x430/d8a260a6.webp?s=9a9be832f782c84c149077498f097ef36ff91ce9",
     "addedAt": "2026-09-12T06:44:48.606Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
