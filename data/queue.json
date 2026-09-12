@@ -20559,5 +20559,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 65.25
+  },
+  {
+    "id": "9980100923",
+    "category": "Console",
+    "title": "Gioco Xbox One",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9980100923-gioco-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0000e_i28PteKF4pRabcrDvB7ro6Qr/310x430/7de96628.webp?s=2497c8499282b1d1b93de7b98896a6944ffe1640",
+    "addedAt": "2026-09-12T21:40:18.861Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "9980205300",
+    "category": "Console",
+    "title": "Setup Ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9980205300-setup-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01b99_eggKDwV3gR5zmeMpHCNstJ6g/310x430/e2977ee0.webp?s=5fb5f635d331b99ba218f9142d4971f56ded1bd9",
+    "addedAt": "2026-09-12T21:46:34.131Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Uomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSetup Ps5\nOttime·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\nCerco offerte per l’intero setup , comprende : PS5, tastiera aula f75 , mouse logitech , cuffie logitech g335, 2 controller , monitor 144hz aoc 27 pollici curvo , microfono fifine , preferibilmente ritiro a mano o non vendo , zona corato provincia di bari\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 500
   }
 ]
