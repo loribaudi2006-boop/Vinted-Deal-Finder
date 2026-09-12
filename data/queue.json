@@ -20001,5 +20001,23 @@
     "geminiFault": "spinotto del caricatore non funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 57.3
+  },
+  {
+    "id": "9969145610",
+    "category": "Console",
+    "title": "Console Nintendo Switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9969145610-console-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02129_bKLdD9NkzkAbzbMmRGkY5RcT/310x430/53822bd2.webp?s=395874722f98a3657cdd5184c9f55974c3dbc3eb",
+    "addedAt": "2026-09-12T00:10:23.600Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Nintendo Switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nConsole Nintendo Switch couleur grise vendue en l’état. L’écran inférieur reste bleu et ne s’affiche pas correctement. Les joysticks présentent des défauts et peuvent nécessiter une réparation. Convient pour pièces ou réparation.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Schermo blu (schermo inferiore non si visualizza correttamente), joysticks difettosi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.8
   }
 ]
