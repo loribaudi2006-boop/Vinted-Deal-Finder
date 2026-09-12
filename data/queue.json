@@ -19725,5 +19725,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-3.2€, sotto soglia"
+  },
+  {
+    "id": "9970231324",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 72% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9970231324-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00efe_f4kZcPp8rz5AUVqkFhLqBNNS/310x430/0f3375f5.webp?s=d7bf63128b4ab438289d5f35006575d3577660f2",
+    "addedAt": "2026-09-12T07:26:28.896Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S\nDiscrete·Microsoft·Caricato un minuto fa\n\n28,00 €\n\n30,10 €\nInclude la Protezione acquisti\nBrandMicrosoft\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nXbox One S\nCon sistema operativo Microsoft bloccato per cause sconosciute.\nComponenti funzionanti.\nSprovvista di cablaggio.\n\nBuona per pezzi di ricambio, o un eventuale sblocco del sistema operativo.\n... altro\nSpedizione\nda 4,69 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sistema operativo Microsoft bloccato per cause sconosciute, sprovvista di cablaggio",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 34.9
+  },
+  {
+    "id": "9970240510",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9970240510-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_017d6_5dPVMzEyZr6sQE8DSAesTVEr/310x430/00e5be4b.webp?s=a356e3c2c6bcad5c2de008819e4a2d7e409d1fcd",
+    "addedAt": "2026-09-12T07:27:31.446Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVecchia ma in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   }
 ]
