@@ -1,21 +1,5 @@
 [
   {
-    "id": "9928069008",
-    "category": "Console",
-    "title": "Ps5 Slim + 2 comandos DualSense",
-    "price": 22,
-    "totalPrice": 23.8,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9928069008-ps5-slim-2-comandos-dualsense?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01f42_1om8UVrpguytNraW25qs7U5h/310x430/5e01ddf9.webp?s=7ae19fd7f44c026975a0aeb652575a8bb1e90436",
-    "addedAt": "2026-09-08T05:53:17.091Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9928096283",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19843,7 +19827,10 @@
     "url": "https://www.vinted.it/items/9969708671-nintendo-switch-sans-chargeur?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_019b9_A3qv8rsgZZqcqWEcRqbsVmCt/310x430/a5708f86.webp?s=d48f88840a1a9a8ca01ba1eacab08ec929573d8f",
     "addedAt": "2026-09-12T05:19:23.903Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
