@@ -20535,5 +20535,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9980662215",
+    "category": "Console",
+    "title": "Ps5 Normal Achetez la via l’annonces",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9980662215-ps5-normal-achetez-la-via-lannonces?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02548_iE7Eu4C1JLVhCiYgLJSGZN9R/310x430/927b0350.webp?s=a4702ac2851f452b4cdefa5110749c6e773be475",
+    "addedAt": "2026-09-12T23:44:20.955Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
   }
 ]
