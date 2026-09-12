@@ -1,23 +1,5 @@
 [
   {
-    "id": "9928525527",
-    "category": "Console",
-    "title": "Console Ps4",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9928525527-console-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0077c_EhHqL9HxRAfMLeDsyDtQND9b/310x430/7660defa.webp?s=3fa266db1d84da7ef1077fdcf557441705ce14c1",
-    "addedAt": "2026-09-08T07:36:28.514Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Ps4\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVend ps4 fonctionne très bien , juste le dessous qui est fissuré. Elle a été réinitialisé. Sans manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "dessous fissuré (scocca inferiore fessurata), sans manette",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.05
-  },
-  {
     "id": "9928582431",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19761,5 +19743,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "9970319478",
+    "category": "Console",
+    "title": "Scatola Ps4 Slim",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9970319478-scatola-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023ec_Lx3a8zU5X4qA6zkVJim3DjVT/310x430/d0a7f193.webp?s=3ac481d1c1cf6f8db8c78bb2ccb95824b10afe75",
+    "addedAt": "2026-09-12T07:38:59.320Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
