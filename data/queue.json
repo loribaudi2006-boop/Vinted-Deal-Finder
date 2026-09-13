@@ -1,20 +1,5 @@
 [
   {
-    "id": "9938556289",
-    "category": "Console",
-    "title": "Xbox One Prima serie",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9938556289-xbox-one-prima-serie?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01a70_tyjVoQGqe1sD3L8R5VjRa8KK/310x430/fee28f84.webp?s=c1e5f71aad7df231a172deab17fba762e8347aba",
-    "addedAt": "2026-09-09T07:54:39.064Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
     "id": "9938614902",
     "category": "Console",
     "title": "Lector de discos ps5 slim y pro",
@@ -20690,7 +20675,12 @@
     "url": "https://www.vinted.it/items/9981989355-sony-playstation-4-slim-con-due-controller-e-cavi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_000b8_oNkaDvaKwNc4gXcrT8wZenqi/310x430/02b6fda5.webp?s=e050964d5f22487f01f09bb7ebb203474c0489a5",
     "addedAt": "2026-09-13T07:47:29.007Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Videogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 Slim con due controller e cavi\nOttime·PlayStation·Caricato proprio adesso\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nConsole Sony PS4 Slim nera con due controller uno blu e uno mimetico grigio.\n\nInclusi cavo di alimentazione e cavo HDMI.\n\nUsata con segni estetici sulla scocca e segni di utilizzo sui controller come visibile nelle foto.\n\nFunziona perfettamente\n\nSpedizione con imballaggio accurato in pacco grande.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni estetici sulla scocca e segni di utilizzo sui controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.85
   }
 ]
