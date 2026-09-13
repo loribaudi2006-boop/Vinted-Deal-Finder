@@ -20621,5 +20621,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9981042434",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9981042434-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0094a_EhYBj8baGi9KCi7Z5ay1eMc6/310x430/86b0ae87.webp?s=f3331a24691de78abfe830812ec04bba85b97505",
+    "addedAt": "2026-09-13T02:24:58.500Z",
+    "processed": false,
+    "triaged": false
   }
 ]
