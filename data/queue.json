@@ -20646,5 +20646,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "9981956894",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9981956894-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01c52_TLBb2mL23YHi1g48mopG1a1r/310x430/e9d756e8.webp?s=4578d49e8c9c8d60e7d65a8f3280c82ab73e9924",
+    "addedAt": "2026-09-13T07:44:21.054Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nFonctionne tres bien et a une bonne autonomie\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "9981973188",
+    "category": "Console",
+    "title": "Étui pour Switch 1 et 2",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9981973188-etui-pour-switch-1-et-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02482_zU9QatMspVhdXEmnquzrGipg/310x430/c7f5a54b.webp?s=84a51b540d1ec92c67e4222f4ee201d920301c7e",
+    "addedAt": "2026-09-13T07:45:24.082Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
+  },
+  {
+    "id": "9981989355",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Slim con due controller e cavi",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9981989355-sony-playstation-4-slim-con-due-controller-e-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_000b8_oNkaDvaKwNc4gXcrT8wZenqi/310x430/02b6fda5.webp?s=e050964d5f22487f01f09bb7ebb203474c0489a5",
+    "addedAt": "2026-09-13T07:47:29.007Z",
+    "processed": false,
+    "triaged": false
   }
 ]
