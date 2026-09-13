@@ -1,21 +1,5 @@
 [
   {
-    "id": "9937988773",
-    "category": "Console",
-    "title": "Lotto 8 Giochi Xbox One / Xbox Series X",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/9937988773-lotto-8-giochi-xbox-one-xbox-series-x?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00925_tdxg6BfaWaBYWVCCJ6ooA4rM/310x430/0ca31abd.webp?s=9a15ba3d10c990483f013bf2c77740c6b522623b",
-    "addedAt": "2026-09-09T06:11:28.781Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9938013107",
     "category": "Console",
     "title": "Nintendo 2ds con schermo rotto",
@@ -20578,6 +20562,19 @@
     "url": "https://www.vinted.it/items/9981411942-nintendo-switch-lite-inclusa-si-caricatore-e-scatola-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_011c1_7gtFXRoUNVxJRUPby28dG8sG/310x430/94151f67.webp?s=bbf715aae699c2e191072ac57683187f46871415",
     "addedAt": "2026-09-13T06:02:10.298Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981465104",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9981465104-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_016cf_goYLT2gbpzHkj7tHTyhkf68n/310x430/6f4bc15e.webp?s=91d7279053bf727340debcacab5835169408f50e",
+    "addedAt": "2026-09-13T06:16:45.272Z",
     "processed": false,
     "triaged": false
   }
