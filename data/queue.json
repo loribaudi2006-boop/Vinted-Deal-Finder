@@ -20586,5 +20586,38 @@
     "geminiFault": "No joycons or accessories, comes only with the console itself",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.25
+  },
+  {
+    "id": "9980788070",
+    "category": "Console",
+    "title": "boite de ps5 vide",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9980788070-boite-de-ps5-vide?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01f76_F2swQRCeoT7sS8MS8FFzGcc1/310x430/f7632f4e.webp?s=6e8f1bbe379af378edcc87f558cb63fced5eddcf",
+    "addedAt": "2026-09-13T00:31:24.217Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3€, sotto soglia"
+  },
+  {
+    "id": "9980782391",
+    "category": "Console",
+    "title": "Nintendo Switch 2018 model (possibilmente patchata)",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9980782391-nintendo-switch-2018-model-possibilmente-patchata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_007c5_JixuDjo72h3LrEyr673ZzDRN/310x430/40b637d5.webp?s=32af26220ef36c03a27cb482270607223c6ebee1",
+    "addedAt": "2026-09-13T00:31:24.217Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch 2018 model (possibilmente patchata)\nDiscrete·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nè il modello originale, non ha i joycon ne accessori altrui, ho solo la scatola originale, pero la console è possibilmente jailbreakable è ha un HAC-001 ed il modello è del 2018, ha alcuni graffi e segni notabili molto, li vedete anche nella foto, essendo pure che la tengo dal 2018\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Graffi e segni evidenti sulla scocca, assenza di joycon e accessori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.25
   }
 ]
