@@ -20600,8 +20600,11 @@
     "url": "https://www.vinted.it/items/9980881080-ps4-con-joystick-ho-anche-i-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0033a_NxomciC29mXNqJ3tCAiEu94Y/310x430/f5179b40.webp?s=923835dfdab88fd97842ed90c3129626af21b11f",
     "addedAt": "2026-09-13T01:09:56.640Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9980921786",
