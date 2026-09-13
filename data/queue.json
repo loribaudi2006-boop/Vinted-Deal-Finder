@@ -20580,5 +20580,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.55€, sotto soglia"
+  },
+  {
+    "id": "9981769153",
+    "category": "Console",
+    "title": "Playstation 4 mit Controller und allen nötigen Kabeln+ 4 Spiele",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9981769153-playstation-4-mit-controller-und-allen-notigen-kabeln-4-spiele?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00fcf_dMRNpy6rsCs3Pw9gb4hGB58o/310x430/78e3e847.webp?s=fc4785d285221b6a951062fa65ede47c8a0eab28",
+    "addedAt": "2026-09-13T07:18:16.100Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 mit Controller und allen nötigen Kabeln+ 4 Spiele\nDiscrete·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nDie Playstation 4 wurde des öfteren über\neinen langen Zeitraum benutzt und hat daher\nGebrauchsspuren.\nDie Kabel funktionieren alle aber haben die ein oder andere Macke.\nDer Controller hat das ein oder andere Mal\nStickdrift gehabt als ich aber dieses Wochenende Mal wieder gespielt habe ist\nDavon nichts mit nichts aufgefallen.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni di usura per utilizzo prolungato, cavi con qualche difetto ma funzionanti, occasionale stickdrift al controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "9981787063",
+    "category": "Console",
+    "title": "Nitrodeck switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9981787063-nitrodeck-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0134e_oquqYPXATWXBbvVECGgcz3WY/310x430/1a3bf867.webp?s=6d0b072dda78fe2f88bb0de6b248a36495f4f039",
+    "addedAt": "2026-09-13T07:21:23.616Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.3€, sotto soglia"
   }
 ]
