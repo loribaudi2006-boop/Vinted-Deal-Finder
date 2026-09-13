@@ -1,39 +1,5 @@
 [
   {
-    "id": "9938055175",
-    "category": "Console",
-    "title": "DOCK + Caricatore originale Nintendo switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9938055175-dock-caricatore-originale-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02034_ymnn3R4SDcKwmMvTtWwW3WwS/310x430/f30309c5.webp?s=5f163242557433b7452ac5e916bc8e464127fb94",
-    "addedAt": "2026-09-09T06:28:08.161Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "9938075408",
-    "category": "Console",
-    "title": "PS4sl",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9938075408-ps4sl?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00e3a_d9GDJjS2jeNfSuwnrhZQ2KZu/310x430/aad8a47a.webp?s=406453f48a8484f310188091bdfab2756d8ddd95",
-    "addedAt": "2026-09-09T06:33:22.416Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Donna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4sl\nBuone·PlayStation·Caricato 28 min fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n28 min fa\nMannette ps4\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "9938108692",
     "category": "Console",
     "title": "Suporte PlayStation 5 Original",
@@ -20546,8 +20512,11 @@
     "url": "https://www.vinted.it/items/9981411942-nintendo-switch-lite-inclusa-si-caricatore-e-scatola-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_011c1_7gtFXRoUNVxJRUPby28dG8sG/310x430/94151f67.webp?s=bbf715aae699c2e191072ac57683187f46871415",
     "addedAt": "2026-09-13T06:02:10.298Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9981465104",
@@ -20572,6 +20541,19 @@
     "url": "https://www.vinted.it/items/9981474549-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_008a5_7oJMqw1Meg1iijQQgvtQai8r/310x430/3fed3a15.webp?s=b3d20cd71da9cbc204754837b9cdb94b4d4e6866",
     "addedAt": "2026-09-13T06:18:50.548Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981507272",
+    "category": "Console",
+    "title": "Carte sd Nintendo switch 256go",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9981507272-carte-sd-nintendo-switch-256go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01298_Q23X8rC3GxqE8CaXEPtVCs16/310x430/828598c9.webp?s=42a321e0c85798b02a3450303d175ad92e520c22",
+    "addedAt": "2026-09-13T06:28:12.712Z",
     "processed": false,
     "triaged": false
   }
