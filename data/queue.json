@@ -1,20 +1,5 @@
 [
   {
-    "id": "9938108692",
-    "category": "Console",
-    "title": "Suporte PlayStation 5 Original",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9938108692-suporte-playstation-5-original?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0027e_jtRiaMSqfKT6mEjUkjN2AeGa/310x430/bbe17051.webp?s=0f86d92e4ed3fe3bf1dfd17d59745f63f9781675",
-    "addedAt": "2026-09-09T06:40:39.550Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.8€, sotto soglia"
-  },
-  {
     "id": "9938183103",
     "category": "Console",
     "title": "sacoche switch",
@@ -20528,8 +20513,11 @@
     "url": "https://www.vinted.it/items/9981465104-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_016cf_goYLT2gbpzHkj7tHTyhkf68n/310x430/6f4bc15e.webp?s=91d7279053bf727340debcacab5835169408f50e",
     "addedAt": "2026-09-13T06:16:45.272Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9981474549",
@@ -20554,6 +20542,19 @@
     "url": "https://www.vinted.it/items/9981507272-carte-sd-nintendo-switch-256go?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01298_Q23X8rC3GxqE8CaXEPtVCs16/310x430/828598c9.webp?s=42a321e0c85798b02a3450303d175ad92e520c22",
     "addedAt": "2026-09-13T06:28:12.712Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981561994",
+    "category": "Console",
+    "title": "Sacoche PlayStation 5 slime",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9981561994-sacoche-playstation-5-slime?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01def_vdQygYw5d5ta1xSw5GFV4rHn/310x430/61ab672d.webp?s=3833006358c3168ca2314aca283f211d43d62715",
+    "addedAt": "2026-09-13T06:40:43.515Z",
     "processed": false,
     "triaged": false
   }
