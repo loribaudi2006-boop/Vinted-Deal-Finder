@@ -21039,5 +21039,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "9984130536",
+    "category": "Console",
+    "title": "Scatola nintendo switch 2",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9984130536-scatola-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0226f_WLAzbp7YuEcjRbUP5ARSN1zD/310x430/1e4f343a.webp?s=ee91dd904cea7f202f4c0227556d5c56af5c5b2b",
+    "addedAt": "2026-09-13T10:27:45.628Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-18.55€, sotto soglia"
+  },
+  {
+    "id": "9984269075",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9984269075-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_015b4_7wQFrCpY9GNiAKnHhyR3kdN4/310x430/9a0f6fd5.webp?s=753286eb1c8b63f9d6ceae26522fd104b4d48a10",
+    "addedAt": "2026-09-13T10:36:07.296Z",
+    "processed": false,
+    "triaged": false
   }
 ]
