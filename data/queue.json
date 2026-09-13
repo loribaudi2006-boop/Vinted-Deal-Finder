@@ -1,50 +1,5 @@
 [
   {
-    "id": "9945912688",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9945912688-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01173_2fBx4sfH5WynSP8mLCbGQBqv/310x430/ad1f1fcc.webp?s=e897605363ceee72cef847af521e1d4d88c87ec0",
-    "addedAt": "2026-09-09T18:12:29.037Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
-    "id": "9945909772",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9945909772-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01a2a_Hmmf1GpN7XsuPcGswiZCmr1m/310x430/0e6b3da3.webp?s=f55bf87bdd27668fda03b549df5d0ec60afcc15f",
-    "addedAt": "2026-09-09T18:12:29.037Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9945974658",
-    "category": "Console",
-    "title": "Boîte vide Nintendo Switch",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9945974658-boite-vide-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c62_mmhx7U8TjoUVNEvNdTbjYBM2/310x430/bb361607.webp?s=33c8a7606e3ac943c843f91efb04e5f3a965b543",
-    "addedAt": "2026-09-09T18:17:43.614Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-11.95€, sotto soglia"
-  },
-  {
     "id": "9946017013",
     "category": "Console",
     "title": "Articulos para mandos Nintendo Switch",
@@ -22532,7 +22487,39 @@
     "url": "https://www.vinted.it/items/9992116324-playstation-5-slim-description?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01545_ChhwjJ1527bC1PR4nHnRcyck/310x430/50e2d670.webp?s=f6351eb5a3c3941c0107c20718f5dd55c578ec96",
     "addedAt": "2026-09-13T18:09:57.755Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
+  },
+  {
+    "id": "9992439385",
+    "category": "Console",
+    "title": "Adaptateur télé switch",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9992439385-adaptateur-tele-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0223c_vskY7s2dv7WnAUJSP2vRcNaG/310x430/1f04a1ed.webp?s=dd50a08b1d4e6f2d74acff35b738d707df6f8d10",
+    "addedAt": "2026-09-13T18:13:06.447Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3€, sotto soglia"
+  },
+  {
+    "id": "9992472900",
+    "category": "Console",
+    "title": "consoles : ps4 pro/ ps4 slim/ switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/9992472900-consoles-ps4-pro-ps4-slim-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01def_n3G1ptpj1nZH6aZ6SVzbpjKN/310x430/9fbb8a11.webp?s=0ff147379e1d75b150e4087b14e308db90ea7022",
+    "addedAt": "2026-09-13T18:15:13.843Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
