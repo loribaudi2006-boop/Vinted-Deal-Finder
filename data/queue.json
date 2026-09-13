@@ -1,35 +1,5 @@
 [
   {
-    "id": "9938614902",
-    "category": "Console",
-    "title": "Lector de discos ps5 slim y pro",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9938614902-lector-de-discos-ps5-slim-y-pro?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_026a0_km6ktxRVgW2oCesanKdfFMxA/310x430/e2d2d695.webp?s=54ea5c6a8602745adcae757741f869d20fcced26",
-    "addedAt": "2026-09-09T08:01:56.957Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
-    "id": "9938647148",
-    "category": "Console",
-    "title": "Vendo console Nintendo Wii (purtroppo senza telecomando poiché rotto)",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "parola chiave: \"rotto\"",
-    "url": "https://www.vinted.it/items/9938647148-vendo-console-nintendo-wii-purtroppo-senza-telecomando-poiche-rotto?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01a3d_PZkHdr4TD1t9CyXxSJEFUCgW/310x430/ef2da047.webp?s=c3552344d9b424ee7006f0df6d5e33420fcf5015",
-    "addedAt": "2026-09-09T08:06:06.677Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18.3€, sotto soglia"
-  },
-  {
     "id": "9938663615",
     "category": "Console",
     "title": "Décoration switch 2",
@@ -20682,5 +20652,20 @@
     "geminiFault": "Segni estetici sulla scocca e segni di utilizzo sui controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.85
+  },
+  {
+    "id": "9982078615",
+    "category": "Console",
+    "title": "Fuente alimentación XBox one original",
+    "price": 24,
+    "totalPrice": 25.9,
+    "reason": "prezzo 76% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9982078615-fuente-alimentacion-xbox-one-original?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02224_jjmLZsBGyfp3ybhqCY6R6N8J/310x430/bfb20227.webp?s=c74e3d40d2c36f284dc1fd7041e7671d533c8dad",
+    "addedAt": "2026-09-13T07:57:55.589Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
