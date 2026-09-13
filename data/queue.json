@@ -20680,8 +20680,11 @@
     "url": "https://www.vinted.it/items/9981206191-ps5-edition-disque-echange-contre-meta-quest-3-pas-3s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0267c_zQqhJLx88QKkjSxLswqGqPBp/310x430/1f92f4db.webp?s=2b8d5bebdcf48a81b8d11926b5111a3d703d3972",
     "addedAt": "2026-09-13T04:04:25.119Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9981207795",
@@ -20693,7 +20696,10 @@
     "url": "https://www.vinted.it/items/9981207795-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0081a_frVSVTWYnSfg79eobfY57pWJ/310x430/a27287eb.webp?s=332a840411eea848f0d3758b15f9822650b8d8b0",
     "addedAt": "2026-09-13T04:06:30.364Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
