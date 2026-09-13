@@ -1,23 +1,5 @@
 [
   {
-    "id": "9947526603",
-    "category": "Console",
-    "title": "Switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9947526603-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0214e_vsiUsFYB2AX8GPiiPB7VMz9j/310x430/497b70a3.webp?s=7b98a57a7305f0467e5e9ba5f729ce9d24e8d769",
-    "addedAt": "2026-09-09T20:47:34.678Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nSwitch\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVend switch avec coque de protection Trousse et jeux super mario bros deluxe\nFonctionne t’es bien\nSans chargeur\nSpedizione\nda 9,49 €",
-    "geminiFault": "Sans chargeur",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 86.8
-  },
-  {
     "id": "9947582894",
     "category": "Console",
     "title": "Nintendo switch",
@@ -22368,5 +22350,20 @@
     "geminiFault": "controller non originale (ma funzionante)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 62.85
+  },
+  {
+    "id": "9994262422",
+    "category": "Console",
+    "title": "Ps3 fat Con cavo Di alimentazione - Non Funzionante - Pezzi ricambio",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/9994262422-ps3-fat-con-cavo-di-alimentazione-non-funzionante-pezzi-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0055e_nFhgxHyAPwJL3hKN8tRGKwC6/310x430/9d647081.webp?s=f0f07c59dac8b9779162234bac4b6ad3011eafed",
+    "addedAt": "2026-09-13T20:46:25.885Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.3€, sotto soglia"
   }
 ]
