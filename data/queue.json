@@ -1,20 +1,5 @@
 [
   {
-    "id": "9938183103",
-    "category": "Console",
-    "title": "sacoche switch",
-    "price": 9,
-    "totalPrice": 10.15,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9938183103-sacoche-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00601_kmGJ2PD4Am5LQGBojrurwENi/310x430/0b98ee72.webp?s=7778764e5c8cb5f883252d155ec2599bf113f97c",
-    "addedAt": "2026-09-09T06:55:14.298Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~4.85€, sotto soglia"
-  },
-  {
     "id": "9938263893",
     "category": "Console",
     "title": "G-Story Lüfter für Xbox Series X mit Temperatursteuerung",
@@ -20529,8 +20514,11 @@
     "url": "https://www.vinted.it/items/9981474549-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_008a5_7oJMqw1Meg1iijQQgvtQai8r/310x430/3fed3a15.webp?s=b3d20cd71da9cbc204754837b9cdb94b4d4e6866",
     "addedAt": "2026-09-13T06:18:50.548Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9981507272",
@@ -20555,6 +20543,45 @@
     "url": "https://www.vinted.it/items/9981561994-sacoche-playstation-5-slime?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01def_vdQygYw5d5ta1xSw5GFV4rHn/310x430/61ab672d.webp?s=3833006358c3168ca2314aca283f211d43d62715",
     "addedAt": "2026-09-13T06:40:43.515Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981596505",
+    "category": "Console",
+    "title": "PS4 Ventola di Raffreddamento",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9981596505-ps4-ventola-di-raffreddamento?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_014bb_poZLohynCt5Bjw32Easw5N9W/310x430/e0e784a5.webp?s=433d764725dd7d8f688e4351cd32030dd14718cc",
+    "addedAt": "2026-09-13T06:48:01.686Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981612301",
+    "category": "Console",
+    "title": "PlayStation 5 PRO non comprare",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9981612301-playstation-5-pro-non-comprare-leggi-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01aa2_yvj5aU7ZKEenNujQNujURaPv/310x430/0bca5f11.webp?s=2f9dbfcb19287fd53d703811f6301fe0f9f3be88",
+    "addedAt": "2026-09-13T06:51:09.111Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981630301",
+    "category": "Console",
+    "title": "wii non testata",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/9981630301-wii-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0008e_YAgKkX4k5ZSiBpkfuSTaGLF3/310x430/18ddd267.webp?s=59b2069ee8557467addac907466261b95db77747",
+    "addedAt": "2026-09-13T06:55:19.260Z",
     "processed": false,
     "triaged": false
   }
