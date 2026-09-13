@@ -20530,8 +20530,11 @@
     "url": "https://www.vinted.it/items/9981507272-carte-sd-nintendo-switch-256go?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01298_Q23X8rC3GxqE8CaXEPtVCs16/310x430/828598c9.webp?s=42a321e0c85798b02a3450303d175ad92e520c22",
     "addedAt": "2026-09-13T06:28:12.712Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "9981561994",
@@ -20543,8 +20546,10 @@
     "url": "https://www.vinted.it/items/9981561994-sacoche-playstation-5-slime?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01def_vdQygYw5d5ta1xSw5GFV4rHn/310x430/61ab672d.webp?s=3833006358c3168ca2314aca283f211d43d62715",
     "addedAt": "2026-09-13T06:40:43.515Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.8€, sotto soglia"
   },
   {
     "id": "9981596505",
@@ -20556,8 +20561,10 @@
     "url": "https://www.vinted.it/items/9981596505-ps4-ventola-di-raffreddamento?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014bb_poZLohynCt5Bjw32Easw5N9W/310x430/e0e784a5.webp?s=433d764725dd7d8f688e4351cd32030dd14718cc",
     "addedAt": "2026-09-13T06:48:01.686Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   },
   {
     "id": "9981612301",
@@ -20569,8 +20576,10 @@
     "url": "https://www.vinted.it/items/9981612301-playstation-5-pro-non-comprare-leggi-descrizione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01aa2_yvj5aU7ZKEenNujQNujURaPv/310x430/0bca5f11.webp?s=2f9dbfcb19287fd53d703811f6301fe0f9f3be88",
     "addedAt": "2026-09-13T06:51:09.111Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
   },
   {
     "id": "9981630301",
@@ -20582,7 +20591,9 @@
     "url": "https://www.vinted.it/items/9981630301-wii-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0008e_YAgKkX4k5ZSiBpkfuSTaGLF3/310x430/18ddd267.webp?s=59b2069ee8557467addac907466261b95db77747",
     "addedAt": "2026-09-13T06:55:19.260Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.55€, sotto soglia"
   }
 ]
