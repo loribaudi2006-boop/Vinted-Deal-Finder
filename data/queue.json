@@ -1,20 +1,5 @@
 [
   {
-    "id": "9947700290",
-    "category": "Console",
-    "title": "Équipement de switch 1",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9947700290-equipement-de-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02535_KH19BBQvZq1aF2Vxm7CnqmG4/310x430/74c60b57.webp?s=a5196df483ecbfcc2f0b91018c9d1ff56a04cebb",
-    "addedAt": "2026-09-09T21:12:40.469Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "9947759815",
     "category": "Console",
     "title": "PlayStation 4 slim 500gb",
@@ -22359,5 +22344,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9994470654",
+    "category": "Console",
+    "title": "Xbox One con alimentatore e cavo HDMI funzionante",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9994470654-xbox-one-con-alimentatore-e-cavo-hdmi-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02198_fdhVvPE7SewqKEbHFu1Bn7Js/310x430/64a610d6.webp?s=dcc49d78cfb461715a6a616e0d8bfc4b8767f201",
+    "addedAt": "2026-09-13T21:12:59.020Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "9994479832",
+    "category": "Console",
+    "title": "Switch lite - bonne état",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9994479832-switch-lite-bonne-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01bcc_ANc5xa6k6soSWtbPB2KD7t4A/310x430/494b2e4b.webp?s=f8012006ce0d94ad0083740c2980c3d235ca0c71",
+    "addedAt": "2026-09-13T21:15:04.511Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "coli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite - bonne état\nBuone·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch lite en bonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.25
   }
 ]
