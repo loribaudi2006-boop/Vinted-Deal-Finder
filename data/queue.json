@@ -1,21 +1,5 @@
 [
   {
-    "id": "9938013107",
-    "category": "Console",
-    "title": "Nintendo 2ds con schermo rotto",
-    "price": 24.99,
-    "totalPrice": 26.94,
-    "reason": "parola chiave: \"rotto\"",
-    "url": "https://www.vinted.it/items/9938013107-nintendo-2ds-con-schermo-rotto?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00221_6j69yRJLxSiide4iosfiCa2N/310x430/98e44c79.webp?s=78b57ae5a2b9bea77c7e1075c09ba6bdacae1967",
-    "addedAt": "2026-09-09T06:17:43.549Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9938055175",
     "category": "Console",
     "title": "DOCK + Caricatore originale Nintendo switch",
@@ -20575,6 +20559,19 @@
     "url": "https://www.vinted.it/items/9981465104-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_016cf_goYLT2gbpzHkj7tHTyhkf68n/310x430/6f4bc15e.webp?s=91d7279053bf727340debcacab5835169408f50e",
     "addedAt": "2026-09-13T06:16:45.272Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981474549",
+    "category": "Console",
+    "title": "Switch Lite",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9981474549-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_008a5_7oJMqw1Meg1iijQQgvtQai8r/310x430/3fed3a15.webp?s=b3d20cd71da9cbc204754837b9cdb94b4d4e6866",
+    "addedAt": "2026-09-13T06:18:50.548Z",
     "processed": false,
     "triaged": false
   }
