@@ -20663,5 +20663,31 @@
     "addedAt": "2026-09-13T03:16:28.517Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "9981152501",
+    "category": "Console",
+    "title": "Console PSP non si accende+NO caricatore (vedi descrizione)",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "parola chiave: \"non si accende\"",
+    "url": "https://www.vinted.it/items/9981152501-console-psp-non-si-accendeno-caricatore-vedi-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015ea_K5Z3wS1PWvTCpJP8j77E7BAL/310x430/027c0921.webp?s=e064276dcc84e1d0304b3efdd1e33e9924e08698",
+    "addedAt": "2026-09-13T03:27:55.894Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9981154879",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9981154879-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0094a_EhYBj8baGi9KCi7Z5ay1eMc6/310x430/86b0ae87.webp?s=f3331a24691de78abfe830812ec04bba85b97505",
+    "addedAt": "2026-09-13T03:30:00.989Z",
+    "processed": false,
+    "triaged": false
   }
 ]
