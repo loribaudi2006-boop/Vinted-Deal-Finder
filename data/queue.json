@@ -1,23 +1,5 @@
 [
   {
-    "id": "9958226138",
-    "category": "Console",
-    "title": "Schermo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9958226138-schermo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_010ad_4P1t7k5ATBp9aNJUfHHUJmPy/310x430/c854e541.webp?s=5a84651c6c30210de15e45a5658944d0d28c9cd2",
-    "addedAt": "2026-09-10T21:36:24.863Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSchermo switch\nOttime·Nintendo·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nFunziona tutto assolo il problema del portoncino per mettere l’ST che tende andare in giù\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Il portoncino (slot) per inserire le cartucce (ST) tende ad andare in giù",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.3
-  },
-  {
     "id": "9958503136",
     "category": "Console",
     "title": "Ps4 à vendre + manette",
@@ -22347,5 +22329,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.3€, sotto soglia"
+  },
+  {
+    "id": "10005761013",
+    "category": "Console",
+    "title": "2x Nintendo Switch microSD Kartenleser",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10005761013-2x-nintendo-switch-microsd-kartenleser?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00cea_4ayujwBS196jRLRxV4toQGea/310x430/974ac2af.webp?s=8d981bc77706d784b51ec43cc7a457ff50c31741",
+    "addedAt": "2026-09-14T21:37:30.680Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
