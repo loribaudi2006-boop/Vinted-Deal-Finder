@@ -1,20 +1,5 @@
 [
   {
-    "id": "9950196143",
-    "category": "Console",
-    "title": "Nintendo Switch Lite \"leere Originalhülle\"",
-    "price": 7.5,
-    "totalPrice": 8.58,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9950196143-nintendo-switch-lite-leere-originalhulle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01fc4_55zqUoQAAg9uX6sf9QzVM8iy/310x430/67c2ded9.webp?s=ad0ff194c012c5220d90a9fd7be5a419405c985c",
-    "addedAt": "2026-09-10T08:52:37.513Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-9€, sotto soglia"
-  },
-  {
     "id": "9950249323",
     "category": "Console",
     "title": "Sony PSP Slim (Non si accende / Da riparare) + GTA Vice City Stories + Accessori",
@@ -22422,5 +22407,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "9996952580",
+    "category": "Console",
+    "title": "Ps5 digital",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9996952580-ps5-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01345_2qXF1rYPKcLjkYXoRwXY582E/310x430/fd48f921.webp?s=3b66c2fb2f10c3090ea4471e298006c79aff4a2c",
+    "addedAt": "2026-09-14T08:48:13.745Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 digital\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nPs5 digital 1 tb\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 338.25
+  },
+  {
+    "id": "9996993671",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/9996993671-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01cdc_MApfLAa6aeAWeAdoYo8x8MTU/310x430/224c9e52.webp?s=96a9cac6bcea99f5f4477497572519513c318549",
+    "addedAt": "2026-09-14T08:52:23.849Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nBuone·Xbox·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nProprio adesso\nXbox one. Werkt nog naar behoren. Geen controllers. Wel 2 accus + oplaad systeem\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (inclusi 2 accumulatori con sistema di ricarica)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.05
   }
 ]
