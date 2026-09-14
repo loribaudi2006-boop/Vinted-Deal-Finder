@@ -22334,5 +22334,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9996058350",
+    "category": "Console",
+    "title": "Ps4 blanche + 1 manette",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9996058350-ps4-blanche-1-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00426_LhVpJ4wMHH4QALh8NENfZp9k/310x430/8aaebc21.webp?s=94107dddb4781ce62620104e66276ae5ae54d60d",
+    "addedAt": "2026-09-14T06:30:22.404Z",
+    "processed": false,
+    "triaged": false
   }
 ]
