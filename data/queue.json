@@ -22398,5 +22398,18 @@
     "geminiFault": "Funktioniert einwandfrei",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "9995385465",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9995385465-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02017_ZcchA4feAnDpNiK3jpySBuuS/310x430/c00b36ea.webp?s=94c88768da99535e942e7c13fc543065ed4a1afe",
+    "addedAt": "2026-09-14T01:06:16.599Z",
+    "processed": false,
+    "triaged": false
   }
 ]
