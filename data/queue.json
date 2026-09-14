@@ -1,20 +1,5 @@
 [
   {
-    "id": "9949419506",
-    "category": "Console",
-    "title": "Nintendo Switch Leerkarton",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9949419506-nintendo-switch-leerkarton?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0056d_ZdR3mEy4B3ntTus69ezYEfFR/310x430/bebaaa56.webp?s=96eefdb69ca72ca5db4264e31288c9afe6215b92",
-    "addedAt": "2026-09-10T07:06:56.459Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6€, sotto soglia"
-  },
-  {
     "id": "9949555317",
     "category": "Console",
     "title": "Set Joy-Con compatibili Nintendo Switch verdi + Custodia rigida",
@@ -22353,5 +22338,20 @@
     "geminiFault": "Joy-con non originali cambiati 6 mesi fa; un joy-con non ha il cran d'arresto in modalità portatile.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 81.55
+  },
+  {
+    "id": "9996217860",
+    "category": "Console",
+    "title": "Suporte para controle de PS5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9996217860-suporte-para-controle-de-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01777_zxVrvrXD4cL2u2jDxh4Hz6ti/310x430/173823b1.webp?s=382f7566ea10a1db2322e75d2976012d8a11565d",
+    "addedAt": "2026-09-14T07:06:51.833Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
   }
 ]
