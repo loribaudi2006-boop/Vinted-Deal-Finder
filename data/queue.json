@@ -1,21 +1,5 @@
 [
   {
-    "id": "9949206772",
-    "category": "Console",
-    "title": "Pack 2 volantes Nintendo Switch",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9949206772-pack-2-volantes-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01346_QaSR3oMUt9SYwG3hMejMdgAY/310x430/d3d158cb.webp?s=939cb7cd9a975bbe7bd08773af5a615c9db2ba67",
-    "addedAt": "2026-09-10T06:18:43.666Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9949273390",
     "category": "Console",
     "title": "Boite + Cale seule Playstation 4 FAT (PS4)",
@@ -22345,7 +22329,10 @@
     "url": "https://www.vinted.it/items/9995861706-playstation-4-in-schwarz-mit-1-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01a07_3qf9hAYE4ZYSj2kgLXE4SQfS/310x430/4f162efb.webp?s=1d53830d26d509cd8398049e94e4eb279b66120d",
     "addedAt": "2026-09-14T05:55:56.806Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
