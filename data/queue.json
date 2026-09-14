@@ -1,35 +1,5 @@
 [
   {
-    "id": "9950369528",
-    "category": "Console",
-    "title": "Console portatile Game Boy Color Atomic Purple (trasparente) da restaurare / per pezzi di ricambio",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "parola chiave: \"per pezzi\"",
-    "url": "https://www.vinted.it/items/9950369528-console-portatile-game-boy-color-atomic-purple-trasparente-da-restaurare-per-pezzi-di-ricambio?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01d8f_6Z9FWAGLrHmzSENJAmz2bFR9/310x430/eb363a2c.webp?s=5c1d1f0f6fc3947f49bd7f6f2ccc2a5775bd09df",
-    "addedAt": "2026-09-10T09:10:25.317Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.55€, sotto soglia"
-  },
-  {
-    "id": "9950400024",
-    "category": "Console",
-    "title": "Scatola non originale game boy Classic",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "parola chiave: \"non originale\"",
-    "url": "https://www.vinted.it/items/9950400024-scatola-non-originale-game-boy-classic?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00bc9_e58i7fsAZK7Dor3hPmXfRjQ2/310x430/dc8167e2.webp?s=c9bed85af54a75debf65b0ebdc8b323f2b11f361",
-    "addedAt": "2026-09-10T09:13:33.786Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.45€, sotto soglia"
-  },
-  {
     "id": "9950437354",
     "category": "Console",
     "title": "Zijkant beschermkap ps5",
@@ -22415,7 +22385,45 @@
     "url": "https://www.vinted.it/items/9997128204-nintendo-switch-zubehor?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0262b_vXCDXFeoQ8cc5EoTJ22skNLz/310x430/47422f7d.webp?s=c2b62b253d7b560b1d0e1f74c7d5065eef2d46b0",
     "addedAt": "2026-09-14T09:05:58.335Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "9997168271",
+    "category": "Console",
+    "title": "Playstation 5 Controller + 2 Spiele",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9997168271-playstation-5-controller-2-spiele?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ed6_bEfJCEZGbvutZEHuew6rarFF/310x430/06cfe89d.webp?s=6dc204945be400259c53ccfdd556d5e176d56ed5",
+    "addedAt": "2026-09-14T09:10:11.385Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 5 Controller + 2 Spiele\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nBuone\nCaricato\nun minuto fa\n⚠️ Im Kontroler ist ein kleines Plastik Teil am Rascheln! Also es ist von innen etwas abgebrochen!\nAber er funktioniert einwandfrei es gibt keine Einschränkungen!!\nDazu Ladekabel + Kopfhörer und 2 Top Spiele!\nNur komplett!\nBei Fragen gerne melden!\n... altro\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Pezzetto di plastica rotto all'interno del controller che tintinna, ma funziona perfettamente",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.05
+  },
+  {
+    "id": "9997188811",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9997188811-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a76_dBwND6GNXyqNSquE9Nbs2awU/310x430/cfcaf109.webp?s=cacea25e55452e18dce8c9d4ae6181adff00c663",
+    "addedAt": "2026-09-14T09:12:17.016Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo PlayStation 4 funzionante+ controller non originale ma funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
