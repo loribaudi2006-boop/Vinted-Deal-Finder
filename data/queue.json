@@ -1,23 +1,5 @@
 [
   {
-    "id": "9950742782",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 38,
-    "totalPrice": 40.6,
-    "reason": "prezzo 80% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9950742782-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01319_tKEfEhvhcEEFJNnJhCKuYtEQ/310x430/add00291.webp?s=22a5118e0d6985fc9e91f0c2ebed7879d911489a",
-    "addedAt": "2026-09-10T09:47:00.866Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n38,00 €\n\n40,60 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nVendo come da foto Nintendo switch funzionante con cavo rete,a base più custodia per joystick\nN.b. mancano joystick e cavo USB\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Mancano i joycon e il cavo USB",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 69.4
-  },
-  {
     "id": "9950849995",
     "category": "Console",
     "title": "Nintendo switch 260 go très bon état",
@@ -22488,5 +22470,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "9997599753",
+    "category": "Console",
+    "title": "Anthem PlayStation 4 ps4",
+    "price": 4.5,
+    "totalPrice": 5.43,
+    "reason": "prezzo 97% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9997599753-anthem-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01de6_SyWMLzVxRqfkHuVbfrTL5Eig/310x430/0a51a169.webp?s=fd2059fc095bfff880da8fda727732df9f3cecb7",
+    "addedAt": "2026-09-14T09:51:58.502Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
   }
 ]
