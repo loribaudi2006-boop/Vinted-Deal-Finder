@@ -22382,5 +22382,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "9995592881",
+    "category": "Console",
+    "title": "PS5 Wandbeugel - voor PlayStation 5 pro",
+    "price": 24.95,
+    "totalPrice": 26.9,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9995592881-ps5-wandbeugel-voor-playstation-5-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_006e5_eiWv899eZXcCBBGCjbVLAXky/310x430/0206bfdd.webp?s=58009d97b46c7a8c89175826f09257919f8c6e39",
+    "addedAt": "2026-09-14T02:35:51.767Z",
+    "processed": false,
+    "triaged": false
   }
 ]
