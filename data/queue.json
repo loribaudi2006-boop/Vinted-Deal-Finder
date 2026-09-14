@@ -1,23 +1,5 @@
 [
   {
-    "id": "9953341470",
-    "category": "Console",
-    "title": "nintendo 3ds xl per ricambi",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/9953341470-nintendo-3ds-xl-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00065_gvstCVyVhYdFTfq4d9KsDM2N/310x430/6c25c597.webp?s=83c37e03e906013bde92f0d3f4a69f0e72f0eb3d",
-    "addedAt": "2026-09-10T13:45:41.445Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo 3ds xl per ricambi\nDiscrete·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo 3DS\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nil nintendo si accende solo se lo schermo è in determinate posizioni se lo si apre ulteriormente mentre è acceso si spegne.Viene venduto per pezzi di ricambio come non funzionante non accetto resi\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Si accende solo in determinate posizioni dello schermo, si spegne se aperto ulteriormente (probabile problema al flat cable). Venduto per pezzi di ricambio.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35
-  },
-  {
     "id": "9953438659",
     "category": "Console",
     "title": "console microsoft xbox one 500 gb nera completa di alimentatore testata - funzionante",
@@ -22080,5 +22062,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.55€, sotto soglia"
+  },
+  {
+    "id": "10000302292",
+    "category": "Console",
+    "title": "Playstation 5 sticker trabzonspor",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10000302292-playstation-5-sticker-trabzonspor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011ea_gsWz2xuSRzYrH9RxJi6PoghB/310x430/a5eae92c.webp?s=79ddd6e6023a0c752e7fbf680b6ece66bf5531bb",
+    "addedAt": "2026-09-14T13:46:42.530Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13.7€, sotto soglia"
   }
 ]
