@@ -22356,5 +22356,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~11.8€, sotto soglia"
+  },
+  {
+    "id": "10006095968",
+    "category": "Console",
+    "title": "Bloc d'Alimentation Origine Sony PS5 – Modèle ADP-400ER (Pour châssis CFI-12xx)",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10006095968-bloc-dalimentation-origine-sony-ps5-modele-adp-400er-pour-chassis-cfi-12xx?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01be8_696XW6KN4EPfFdxAXEZtBfq9/310x430/19e9d9d6.webp?s=bf7de16792123624731bb0107a96b38f8915e24c",
+    "addedAt": "2026-09-14T22:50:38.087Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
