@@ -22374,5 +22374,33 @@
     "geminiFault": "Funziona solo su TV tramite dock, la modalità portatile (schermo della console) non funziona.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40
+  },
+  {
+    "id": "10005617563",
+    "category": "Console",
+    "title": "Nintendo switch lite rosa (leggere descrizione)",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10005617563-nintendo-switch-lite-rosa-leggere-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0118b_QPGupHXQS37Qb9aLLYahumLz/310x430/c35618e6.webp?s=0eff406a3de7361309c5eee869e9f092cf997d45",
+    "addedAt": "2026-09-14T21:13:27.992Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10005674667",
+    "category": "Console",
+    "title": "PlayStation 5 Slim (Lire la description)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10005674667-playstation-5-slim-lire-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_021a5_WkfnSkfKPEupd9N2FCzN7Z4y/310x430/1a33cd7a.webp?s=6a72d3de1e1fefadf80417ce1b92acc14a31652e",
+    "addedAt": "2026-09-14T21:22:52.150Z",
+    "processed": false,
+    "triaged": false
   }
 ]
