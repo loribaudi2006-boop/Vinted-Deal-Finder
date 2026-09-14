@@ -1,38 +1,5 @@
 [
   {
-    "id": "9952607743",
-    "category": "Console",
-    "title": "PS4 PRO",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 72% sotto il tipico per PS4 Pro (~180€)",
-    "url": "https://www.vinted.it/items/9952607743-ps4-pro?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d3e_mMZHcEVRboEgTCzYuRnovYbD/310x430/91747b10.webp?s=da09366c86b5b4808b8e78559f0e66e987ec1f36",
-    "addedAt": "2026-09-10T12:42:48.710Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9952581048",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9952581048-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0213f_cajKunTFjSRdFrPtARx2TRfw/310x430/76c7dac3.webp?s=a05c042a93228d9e479a49345c0bf7d2c076971c",
-    "addedAt": "2026-09-10T12:43:51.214Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nBuone·PlayStation·Caricato 4 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nvendo ps4 in ottima condizione con un gioco gratis ghost recon breakpoint\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "9952638752",
     "category": "Console",
     "title": "Xbox one",
@@ -22251,5 +22218,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "9999427507",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9999427507-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011e3_18fhPYvExX4tcWA1nUFoGcU9/310x430/a8834a5d.webp?s=6c7527427a7b4cfcaa820941bd2459d9dd668b06",
+    "addedAt": "2026-09-14T12:36:39.607Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nJe vends cette Nintendo Switch turquoise ,accompagnée d'une housse de transport stylisée. Parfaite pour les amateurs de jeux portables !\n- Type de produit : Console portable et de salon\n- Marque : Nintendo\n- Modèle : Switch\n- Couleur : Turquoise\n- Année : 2020\n- Accessoires inclus : Housse de transport\nÉtat satisfaisant\nN'hésitez pas à me contacter pour plus d'informations ou de Photoshop\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Condizioni discrete, stato satisfaisant, viene fornita con housse di trasporto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "9999525028",
+    "category": "Console",
+    "title": "Caja con sus plásticos Playstation 5 slim",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/9999525028-caja-con-sus-plasticos-playstation-5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00eb6_Nmu3JW9DjYjn9ZdjQbkSdEs1/310x430/378942af.webp?s=55cd914131ff287e9da33f2174f531139dd7b56a",
+    "addedAt": "2026-09-14T12:43:59.728Z",
+    "processed": false,
+    "triaged": false
   }
 ]
