@@ -1,41 +1,5 @@
 [
   {
-    "id": "9959075688",
-    "category": "Console",
-    "title": "Switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9959075688-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0097a_gUpNAtWQex813mn7P6cUQMae/310x430/4454b1b5.webp?s=cc45e415bc4f856fbdf79168ef7f2b9916ac1838",
-    "addedAt": "2026-09-11T00:43:27.419Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nJe vend ma switch,en bonne état .\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80
-  },
-  {
-    "id": "9959057768",
-    "category": "Console",
-    "title": "Ecran Nintendo switch V1",
-    "price": 63,
-    "totalPrice": 66.85,
-    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9959057768-ecran-nintendo-switch-v1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0267f_mt8VfagMRC5c1515CjH6jTGg/310x430/e3f89903.webp?s=b05729439052790a9415d9aba90c19c81ab53c97",
-    "addedAt": "2026-09-11T00:43:27.420Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "blicità\n‌\n\n1\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nEcran Nintendo switch V1\nBuone·Nintendo·Caricato 10 min fa\n\n63,00 €\n\n66,85 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n10 min fa\nA vendre écran Switch V1 XAJ10035513567 en bon état 100% fonctionnel.\n\nL’écran a des micro rayures sur l'ecran et a l’arrière (voir photos), mais pas gênant en jeu. A part ça tout est ok\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "micro rayures sur l'ecran et a l’arrière",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.15
-  },
-  {
     "id": "9959260779",
     "category": "Console",
     "title": "Nintendo switch",
@@ -22422,5 +22386,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-65.8€, sotto soglia"
+  },
+  {
+    "id": "10006377623",
+    "category": "Console",
+    "title": "🎮 Boîte originale PS4 Pro Blanche 1 To+ notices & papiers",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10006377623-boite-originale-ps4-pro-blanche-1-to-notices-papiers?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00925_YhJu9xCNUQRL3PQQNmQxBoCR/310x430/c4ef1359.webp?s=2c3ee808e9ac047cf86ac5cc91cd8a79d196af1f",
+    "addedAt": "2026-09-15T00:40:10.550Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~9.2€, sotto soglia"
   }
 ]
