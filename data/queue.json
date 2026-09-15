@@ -22382,5 +22382,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "10007930444",
+    "category": "Console",
+    "title": "Playstation 5 with controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10007930444-playstation-5-with-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01baa_fL7EUjpMTt6heE3BUu2ZAR8B/310x430/f222255f.webp?s=fd3b05d016e290d05d41c2580cd4c7c62561b00d",
+    "addedAt": "2026-09-15T08:20:33.293Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10007928275",
+    "category": "Console",
+    "title": "Étui console pour Nintendo switch 1",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10007928275-etui-console-pour-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00dcb_cShjJF6wrNVDGQdcR93MZhi7/310x430/e3255d1b.webp?s=27ab8245c41ae5b032c1652379f82e82837cb04f",
+    "addedAt": "2026-09-15T08:20:33.293Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10007950654",
+    "category": "Console",
+    "title": "Pack switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10007950654-pack-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a83_VefJbHiAvfuTajnWK5DfEkXd/310x430/7a1b6493.webp?s=0c63b3b692765bbaa03cb20366a04c4115426024",
+    "addedAt": "2026-09-15T08:22:38.646Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPack switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nSwitch fonctionnelle manette rouge non fonctionnelle Switch à réinitialiser\nPochette de rangement ainsi que Nintendo Switch sport fc24 fc25 minecraft et Mario Bros wonder\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manette rouge non fonctionnelle (joy-con rosso non funzionante), Switch à réinitialiser",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
