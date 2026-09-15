@@ -1,20 +1,5 @@
 [
   {
-    "id": "9963722909",
-    "category": "Console",
-    "title": "PS5 Versione disco",
-    "price": 22,
-    "totalPrice": 23.8,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9963722909-ps5-versione-disco?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00169_wRfcYe2CuS34Lfd3duZprhGa/310x430/495b1246.webp?s=c3de07a4e60270bf1dac4aa8b3646500d3a1d6db",
-    "addedAt": "2026-09-11T13:33:01.167Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-23.8€, sotto soglia"
-  },
-  {
     "id": "9963795414",
     "category": "Console",
     "title": "PS4 Konsole – 3 Controller + 3 Spiele + Zubehör",
@@ -22295,5 +22280,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10011251725",
+    "category": "Console",
+    "title": "Accessori ps4-ps4 pro",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10011251725-accessori-ps4-ps4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018de_DUiFi3dXHKvXcWxe9Ue3D5kY/310x430/5d27728e.webp?s=da16bfc206c5f6cd8399657681b363bbc92f3e5e",
+    "addedAt": "2026-09-15T13:36:11.129Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.45€, sotto soglia"
+  },
+  {
+    "id": "10011272007",
+    "category": "Console",
+    "title": "kinect Sensor Xbox One",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10011272007-kinect-sensor-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_005f0_qmTsgf82xeCsop9iELjKDWdf/310x430/2b17bf25.webp?s=bd36e911a7935397680af21b1ec23ad8bc988c0b",
+    "addedAt": "2026-09-15T13:38:16.593Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10011290149",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10011290149-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f31_3k65seaQVc2rKh2nT1da7Sxd/310x430/2b094aae.webp?s=f5735be15b93d856891e6230101afb1a4d1ca88f",
+    "addedAt": "2026-09-15T13:39:19.541Z",
+    "processed": false,
+    "triaged": false
   }
 ]
