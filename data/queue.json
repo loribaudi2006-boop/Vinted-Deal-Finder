@@ -22430,5 +22430,38 @@
     "geminiFault": "Manette rouge non fonctionnelle (joy-con rosso non funzionante), Switch à réinitialiser",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10008020308",
+    "category": "Console",
+    "title": "PS4 più due giochi",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10008020308-ps4-piu-due-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00de7_gzo2MsnBQmsRnPvoPv1JgcHt/310x430/e4459989.webp?s=98a252913eb56032dae5e7aa25a3504fa9c2a165",
+    "addedAt": "2026-09-15T08:30:59.892Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10008049140",
+    "category": "Console",
+    "title": "Playstation 5 mit spiele und zubehör",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10008049140-playstation-5-mit-spiele-und-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010b1_Cc7AX3XNd7MBTSx1LtMVEaZr/310x430/b185c4a7.webp?s=a631168f5a3ad5b15f672dbcfaf0481fabd48d77",
+    "addedAt": "2026-09-15T08:35:10.046Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Videogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 5 mit spiele und zubehör\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5 Pro\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nVerkaufe meine Playstation 5 mit spiele und zubehör\n\nPreis per Anfrage\nBezahlen nur über Echtzeit Überweisung\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 500
   }
 ]
