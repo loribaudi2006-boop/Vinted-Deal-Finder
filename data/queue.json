@@ -1,21 +1,5 @@
 [
   {
-    "id": "9959380364",
-    "category": "Console",
-    "title": "PlayStation 4 non funzionante",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "parola chiave: \"non funzionante\" + prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9959380364-playstation-4-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00367_BYcXmntr5n85WxqQtrM9UqX2/310x430/84a67d63.webp?s=f5ed1361237abe43bba866e56bf5a194058960be",
-    "addedAt": "2026-09-11T03:03:21.914Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9959414686",
     "category": "Console",
     "title": "Nintendo switch",
@@ -22385,5 +22369,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10006787696",
+    "category": "Console",
+    "title": "Ps2 playstation2 completa + gioco Kill Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10006787696-ps2-playstation2-completa-gioco-kill-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01f88_2vSzeMwVajiv9ajQfBSx3xYy/310x430/a4575f6d.webp?s=b6fee4f60f2639de5d4576dd7ea257cc59c71f26",
+    "addedAt": "2026-09-15T03:02:14.007Z",
+    "processed": false,
+    "triaged": false
   }
 ]
