@@ -22346,5 +22346,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.3€, sotto soglia"
+  },
+  {
+    "id": "10010066208",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10010066208-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ff3_1tiZYhEfPLZkYeJVrYTW4Uus/310x430/cce21c55.webp?s=2bc535b032234bfc662e93afa77df152d9c93701",
+    "addedAt": "2026-09-15T11:51:51.962Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nTe koop omdat ik er niks meer mee doe met controller erbij alles doet het nog goed!\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.55
+  },
+  {
+    "id": "10010095314",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10010095314-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00384_SVXmTmzSFXmu7DGV8GG3pK7b/310x430/7cb561bc.webp?s=12c0b05bf2396471600540628a5bff137377c6ce",
+    "addedAt": "2026-09-15T11:55:00.482Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10010141664",
+    "category": "Console",
+    "title": "Conector switch directo a TV",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10010141664-conector-switch-directo-a-tv?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_017d2_WrYKJJWstHxr5Q8b6mdRFRrW/310x430/c35639ff.webp?s=91b51f7f4265bff34660af40d4a7978d7bc0ed16",
+    "addedAt": "2026-09-15T11:59:10.976Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.8€, sotto soglia"
   }
 ]
