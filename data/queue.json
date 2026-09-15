@@ -22406,5 +22406,50 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10007444470",
+    "category": "Console",
+    "title": "Xbox One - Ongetest",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10007444470-xbox-one-ongetest?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022f6_gtPNXJMNEHCo7qW2TfmbACR4/310x430/7a8974c5.webp?s=b0684360e9c04f8d57731389abacdc41558e3c18",
+    "addedAt": "2026-09-15T07:10:20.515Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.8€, sotto soglia"
+  },
+  {
+    "id": "10007462036",
+    "category": "Console",
+    "title": "station de charge switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10007462036-station-de-charge-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0004d_eiwhHZ6DZA2HEYNzMnAhWsQX/310x430/8e089861.webp?s=89dfd7f5944e14bc55b57583f4ce36f8505fa755",
+    "addedAt": "2026-09-15T07:13:28.480Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10007473807",
+    "category": "Console",
+    "title": "PlayStation 5 Ersatzgehäuse",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10007473807-playstation-5-ersatzgehause?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01b6b_dAHWZi83Qw9BgrcS3tL59BaR/310x430/5aa83e10.webp?s=a30a0280b930f2272b9baab5eee58a49319ff263",
+    "addedAt": "2026-09-15T07:15:34.192Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6€, sotto soglia"
   }
 ]
