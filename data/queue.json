@@ -1,21 +1,5 @@
 [
   {
-    "id": "9959561438",
-    "category": "Console",
-    "title": "Ps4 en panne pour pieces ou reparateur",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9959561438-ps4-en-panne-pour-pieces-ou-reparateur?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01387_NZNcqox8xvFn5qxCtiJ2NuAA/310x430/43c20a96.webp?s=c5871eb7d059959ec5070adece3a9353cbfe3e0c",
-    "addedAt": "2026-09-11T04:55:13.240Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9959659785",
     "category": "Console",
     "title": "Ps4 Slim + Controller",
@@ -22380,6 +22364,19 @@
     "url": "https://www.vinted.it/items/10006954779-sony-playstation-4-slim-konsole-mit-hdmi-stromkabel?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01ca0_xPaheYbZkmdbAxDvtYWSYqgn/310x430/8f1a49df.webp?s=8d2a8866f6fd534a751e5feda25cb37c7749b74c",
     "addedAt": "2026-09-15T04:39:42.487Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10006986548",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10006986548-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023a2_UZTvHSpbgfBjH37cDvyJb9Ha/310x430/d77d019f.webp?s=bc50dc0b06007ea231d5436fa3dbf4260d6c4c83",
+    "addedAt": "2026-09-15T04:56:17.821Z",
     "processed": false,
     "triaged": false
   }
