@@ -22337,8 +22337,11 @@
     "url": "https://www.vinted.it/items/10007233558-ps4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_005c9_pmikRbjwU8cFP8GdZ3JHi55P/310x430/a0e6ccdc.webp?s=b2f8e94e2f5b0445e1d14f4f19d8be1f54bb1586",
     "addedAt": "2026-09-15T06:24:31.727Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10007236694",
@@ -22350,8 +22353,11 @@
     "url": "https://www.vinted.it/items/10007236694-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01c32_gAxafiEnRVFy12Mest2zjLtv/310x430/981d11ba.webp?s=82afa58f8ccca0d45ba854354510c57266e19fa2",
     "addedAt": "2026-09-15T06:25:34.067Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10007291756",
@@ -22376,6 +22382,45 @@
     "url": "https://www.vinted.it/items/10007306497-ps4-blanche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0133c_YDnSkfnkKVSeT3BANGAU9yU1/310x430/86926dcd.webp?s=2d5b23e666fd4d80463deb2140d908b8963d6214",
     "addedAt": "2026-09-15T06:42:07.083Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10007348952",
+    "category": "Console",
+    "title": "Nintendo switch Zubehör",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10007348952-nintendo-switch-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00f00_XkbUitidF9Uxve34e7SVP2Zv/310x430/6b0dec10.webp?s=fad22d42117c1f0b5b92e0f06c96d9bfa0236663",
+    "addedAt": "2026-09-15T06:51:31.623Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10007381218",
+    "category": "Console",
+    "title": "Nintendo Switch gelb",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10007381218-nintendo-switch-gelb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00f19_xJiKq9y8Nfp4fBtuASKCCp68/310x430/87ff70fe.webp?s=0a69e14a7ff10eb60d5388778273bdda369c70d4",
+    "addedAt": "2026-09-15T06:57:47.127Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10007381074",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10007381074-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c24_SxGoE57LUZD81sg5YH3vP5bu/310x430/cf1419d4.webp?s=bc4f4c894edd1befc9cd6966b623a554af29904d",
+    "addedAt": "2026-09-15T06:57:47.127Z",
     "processed": false,
     "triaged": false
   }
