@@ -1,23 +1,5 @@
 [
   {
-    "id": "9959739488",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9959739488-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_003d3_LkFDU9JTVkj3MJsoW29JT65R/310x430/cb0dca05.webp?s=a8f3445c116aeb5510bee85b9ba51c702961b57b",
-    "addedAt": "2026-09-11T06:06:41.229Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch presque neuve mais joycon très très nul mais réparable la console sans joystick marche parfaitement 0 accessoires en plus.( Prix négociable)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joy-con molto difettosi ma riparabili, console senza accessori",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.3
-  },
-  {
     "id": "9959771235",
     "category": "Console",
     "title": "Ps5 Fat placca (Rashford)",
@@ -22398,8 +22380,11 @@
     "url": "https://www.vinted.it/items/10007071665-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0100a_TBpJGQTGR6jjN2ZW3151ghuT/310x430/abaa8499.webp?s=bb7a315667c7666ca025bb97285569dee9cc7a7f",
     "addedAt": "2026-09-15T05:34:41.385Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10007097270",
