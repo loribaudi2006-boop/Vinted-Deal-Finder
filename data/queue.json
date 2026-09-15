@@ -22349,5 +22349,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10007878246",
+    "category": "Console",
+    "title": "PS4 sans mallettes",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10007878246-ps4-sans-mallettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00de7_EujLfRynJp5iiG6u57tv9LJy/310x430/e27be2d3.webp?s=6151f63a8ca89a6afa9afe296901d9c996e3edf5",
+    "addedAt": "2026-09-15T08:16:22.001Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 sans mallettes\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nEn fonction mais ne possède pas de mallette.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "ne possède pas de mallette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10007900594",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10007900594-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00bba_4GGzT5k6PmcUkJNPL4Dmj1zz/310x430/bec1cd71.webp?s=9092f80cc5cbf2491e8c10b9c9a1e0d4f9c268c3",
+    "addedAt": "2026-09-15T08:17:24.670Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
