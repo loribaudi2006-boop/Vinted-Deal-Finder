@@ -1,23 +1,5 @@
 [
   {
-    "id": "9960137508",
-    "category": "Console",
-    "title": "vendo ps4 slim",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9960137508-vendo-ps4-slim-leggi-descrizione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0166b_A9uQEvRj6Ujm2AvG6n6MVyLR/310x430/7b9117f1.webp?s=be026b95f0fd1664ada5325db55299dd17f0c9ca",
-    "addedAt": "2026-09-11T07:30:16.473Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nvendo ps4 slim, leggi descrizione\nOttime·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nper info e prezzi in privato\nspedizione o scambio a mano su reggio calabria\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 100.25
-  },
-  {
     "id": "9960229249",
     "category": "Console",
     "title": "Xbox One",
@@ -22421,5 +22403,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6€, sotto soglia"
+  },
+  {
+    "id": "10007620130",
+    "category": "Console",
+    "title": "Xbox One senza joystick",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10007620130-xbox-one-senza-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b0d_YHSadbT3b3NrL4tr3fvVJ79w/310x430/d6e456b3.webp?s=13aa2cc2d5f249d02d6bab043c6842b03ecf0f0a",
+    "addedAt": "2026-09-15T07:38:33.447Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
