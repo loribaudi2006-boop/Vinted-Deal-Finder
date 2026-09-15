@@ -22199,5 +22199,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 345
+  },
+  {
+    "id": "10016339699",
+    "category": "Console",
+    "title": "PS3 non funzionante",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10016339699-ps3-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_021af_UcjMmzyXpUisyPWEuGEdQLqW/310x430/692ad38c.webp?s=aa00d5f094d73a57757cbbe403548301003f2e1a",
+    "addedAt": "2026-09-15T20:39:48.103Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10016402015",
+    "category": "Console",
+    "title": "Sony Playstation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10016402015-sony-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_014ec_4wTRrPj3TLwrvP1zCTQLQiAC/310x430/8ccd50f1.webp?s=106ad1ed74d1a515ab4a2dfc47df2e001ea25620",
+    "addedAt": "2026-09-15T20:47:08.052Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
