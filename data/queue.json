@@ -1,20 +1,5 @@
 [
   {
-    "id": "9961285319",
-    "category": "Console",
-    "title": "Xbox One S 512go",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9961285319-xbox-one-s-512go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_004bd_Bid9xNBuMFNjvcfTGoWEDwtH/310x430/33ad3206.webp?s=931c693b178e72cf11a3c25d164a93deccdca9f6",
-    "addedAt": "2026-09-11T09:43:46.256Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
     "id": "9961500464",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22657,7 +22642,9 @@
     "url": "https://www.vinted.it/items/10008686003-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01b72_fVS84Fx8v2Wcq73R4tgfqgW5/310x430/86956f35.webp?s=7ec499e4181bf7cfb4a091e2b123359afd084d60",
     "addedAt": "2026-09-15T09:39:59.831Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
