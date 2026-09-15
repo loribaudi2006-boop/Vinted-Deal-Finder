@@ -22364,8 +22364,11 @@
     "url": "https://www.vinted.it/items/10006919646-switch-lite-hs?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00d3b_qxa4QVes87Jhq7pjmeRh7Gy1/310x430/4bc92599.webp?s=b2a9628c915fd1ef580daa68a4ea747fa0aa58d7",
     "addedAt": "2026-09-15T04:18:58.452Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10006954779",
