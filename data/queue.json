@@ -1,20 +1,5 @@
 [
   {
-    "id": "9958981050",
-    "category": "Console",
-    "title": "Caja original ps5",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9958981050-caja-original-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00849_9gMTJdyhnfE6oHEysoomiffL/310x430/7d665fb2.webp?s=710c48cb8ea7e08ee3ffb38daa000be1d4150061",
-    "addedAt": "2026-09-11T00:04:36.517Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-22.94€, sotto soglia"
-  },
-  {
     "id": "9959075688",
     "category": "Console",
     "title": "Switch",
@@ -22422,5 +22407,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 180
+  },
+  {
+    "id": "10006334050",
+    "category": "Console",
+    "title": "Wolverine Ps5",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10006334050-wolverine-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0045c_VDLs25p7F1rGwubJ4rs6hQ13/310x430/8e79dfbd.webp?s=16169ecb21db018d8d3d7effcac45f7ead1e532e",
+    "addedAt": "2026-09-15T00:05:44.949Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-65.8€, sotto soglia"
   }
 ]
