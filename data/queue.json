@@ -22646,5 +22646,38 @@
     "geminiFault": "normali segni di utilizzo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10008517199",
+    "category": "Console",
+    "title": "Switch lite noir",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 75% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10008517199-switch-lite-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_024c1_F6VAWckMc2zqa3UFNpwCzY8L/310x430/1e4463b3.webp?s=fbfa3bb9326d09dfac30330bd645df4f513c36b2",
+    "addedAt": "2026-09-15T09:23:16.176Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite noir\nBuone·Nintendo·Caricato un minuto fa\n\n48,00 €\n\n51,10 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vends ma Nintendo Switch Lite grise.\nLa console fonctionne parfaitement.\n\nÀ noter concernant l'état :\n\nJoystick gauche manquant la tige est absent.\nprésente quelques rayures et légères traces d'usure sur la coque.\n\nVendue en l'état. Envoi rapide et soigné.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick sinistro mancante (t tige assente), graffi e lievi segni di usura sulla scocca",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.9
+  },
+  {
+    "id": "10008553562",
+    "category": "Console",
+    "title": "2 packs Battletron Gaming 9H screenprotector compatibel met switch (Nintendo Switch)",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10008553562-2-packs-battletron-gaming-9h-screenprotector-compatibel-met-switch-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023f9_8bkbc5W2EZdHTVrjQEizCgrw/310x430/34a72675.webp?s=a25377beb34596e192decd80e5ca7eba61f23dfd",
+    "addedAt": "2026-09-15T09:27:27.131Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
   }
 ]
