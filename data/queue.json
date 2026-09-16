@@ -1,38 +1,5 @@
 [
   {
-    "id": "9980025403",
-    "category": "Console",
-    "title": "Écran nintendo switch",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9980025403-ecran-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00ddb_RmxXewrV1oZWagSQJJgXJzZH/310x430/15121fc5.webp?s=8d1db6757c356035b836165f0a3cad75c71ddb0b",
-    "addedAt": "2026-09-12T21:16:17.831Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nÉcran nintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nA vendre écran nintendo switch 1 , en très bon état avec chargeur, problème de connecteur de charge a réparer,\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "problème de connecteur de charge a réparer",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 72.55
-  },
-  {
-    "id": "9980042893",
-    "category": "Console",
-    "title": "Nintendo DS Lite Argento Silver + Custodia Originale + R4 N5 - scarica non testata",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/9980042893-nintendo-ds-lite-argento-silver-custodia-originale-r4-n5-scarica-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0083d_gCoCDsDgnacdVZR42BvycRpv/310x430/8fa263ad.webp?s=d2e4cb02d7f0c767c83e3fa442d61e80e4535fd7",
-    "addedAt": "2026-09-12T21:18:23.628Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~17€, sotto soglia"
-  },
-  {
     "id": "9980070805",
     "category": "Console",
     "title": "Nintendo Switch Console Only",
@@ -22076,7 +22043,9 @@
     "url": "https://www.vinted.it/items/10027977920-console-xbox-360-fat-bianca-non-testata-da-testare-per-parti-di-ricambio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0127b_DENy6qoYqsVcSEPNK5beLWyZ/310x430/977d45f3.webp?s=4787414c69fa27e3d7088e2be5d047c9096dd1bd",
     "addedAt": "2026-09-16T21:11:19.936Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.05€, sotto soglia"
   }
 ]
