@@ -1,21 +1,5 @@
 [
   {
-    "id": "9969618354",
-    "category": "Console",
-    "title": "PS4 B1",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9969618354-ps4-b1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e72_8YUKe1f1V7FwqiuZU7ivpdHx/310x430/51a7dee8.webp?s=c54cfdfed8df6bbbb6344737ab26f387717bfde9",
-    "addedAt": "2026-09-12T04:24:10.593Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9969708671",
     "category": "Console",
     "title": "Nintendo Switch sans chargeur",
@@ -22115,8 +22099,11 @@
     "url": "https://www.vinted.it/items/10017846341-xbox-one-erreur-100-a-repare?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_008c4_VxQV6cgBWXbshCf8Sfz6NGBZ/310x430/1be39be4.webp?s=a0691e4b086fdfffd1b9b3fe86028bdea7c739a8",
     "addedAt": "2026-09-16T03:57:11.802Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10017858836",
