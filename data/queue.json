@@ -1,21 +1,5 @@
 [
   {
-    "id": "9969708671",
-    "category": "Console",
-    "title": "Nintendo Switch sans chargeur",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9969708671-nintendo-switch-sans-chargeur?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_019b9_A3qv8rsgZZqcqWEcRqbsVmCt/310x430/a5708f86.webp?s=d48f88840a1a9a8ca01ba1eacab08ec929573d8f",
-    "addedAt": "2026-09-12T05:19:23.903Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9969908302",
     "category": "Console",
     "title": "Nintendo switch",
@@ -22120,5 +22104,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10018017656",
+    "category": "Console",
+    "title": "PS5 Games/Spiele",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10018017656-ps5-gamesspiele?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01907_6ksLaWjC3M99iugB5ibX65VR/310x430/28f63ac5.webp?s=4c072d0589c2b2dd3b85afabee8019691d4a9c07",
+    "addedAt": "2026-09-16T05:26:28.699Z",
+    "processed": false,
+    "triaged": false
   }
 ]
