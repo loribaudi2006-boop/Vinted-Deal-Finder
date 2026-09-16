@@ -22099,6 +22099,22 @@
     "url": "https://www.vinted.it/items/10017470744-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00148_PP6JjrV1378W7MhNoGwjButY/310x430/d37997cc.webp?s=54f3dab3ee54c682398807842bc066b3af9fea14",
     "addedAt": "2026-09-16T01:04:47.934Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10017520849",
+    "category": "Console",
+    "title": "Code Pre Order Content Wolverine PS5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10017520849-code-pre-order-content-wolverine-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02373_YqafL7UJn51n2d7HPnakKRJ3/310x430/7a9b16f7.webp?s=1633abe92f4da8b2e0ffce527a799b6fbb6b2c51",
+    "addedAt": "2026-09-16T01:37:01.655Z",
     "processed": false,
     "triaged": false
   }
