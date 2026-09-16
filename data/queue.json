@@ -1,20 +1,5 @@
 [
   {
-    "id": "9969992301",
-    "category": "Console",
-    "title": "Nintendo switch + jeu mystère",
-    "price": 64,
-    "totalPrice": 67.9,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9969992301-nintendo-switch-jeu-mystere?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01f0a_rz7hxZYQanY5AbdLPc38ZajN/310x430/d8a260a6.webp?s=9a9be832f782c84c149077498f097ef36ff91ce9",
-    "addedAt": "2026-09-12T06:44:48.606Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9970115267",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22147,8 +22132,11 @@
     "url": "https://www.vinted.it/items/10018152965-nintendo-switch-console-seule?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00551_kQmGtEm9BBxiihpTiCx5aCvu/310x430/75361f0a.webp?s=25b4e509d09f4652debad558f15d000e19812e57",
     "addedAt": "2026-09-16T06:11:09.820Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10018254858",
