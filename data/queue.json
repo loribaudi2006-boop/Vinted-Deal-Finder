@@ -21909,5 +21909,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10028594035",
+    "category": "Console",
+    "title": "Nintendo Switch sans manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10028594035-nintendo-switch-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_001cb_DBAL5ycwhdFZiD12V81qio51/310x430/782c8ef1.webp?s=6b22937a4ade18fd17f560c0585da3f6e7914a63",
+    "addedAt": "2026-09-16T23:28:17.174Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "licità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch sans manette\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nBonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (sans manette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10028605203",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 66,
+    "totalPrice": 70,
+    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10028605203-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01de8_WHBx1KkeqSr9MgzTFkJwhnJE/310x430/310f1ab2.webp?s=189f66455ac05e1b16947932743f134d720a119f",
+    "addedAt": "2026-09-16T23:31:25.051Z",
+    "processed": false,
+    "triaged": false
   }
 ]
