@@ -1,21 +1,5 @@
 [
   {
-    "id": "9969908302",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9969908302-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01960_MdATM4f6BrYHYE1UPSabcdQp/310x430/a8e7f2e7.webp?s=ae9d5a3115d382ea6171164dee3b49bc41f2d622",
-    "addedAt": "2026-09-12T06:27:06.289Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9969992301",
     "category": "Console",
     "title": "Nintendo switch + jeu mystère",
@@ -22147,8 +22131,11 @@
     "url": "https://www.vinted.it/items/10018113361-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0128e_U2scYkdqevthQhs9mLS5w78M/310x430/37eefd8b.webp?s=f4690c3e3f65a532c27108970860bbcf84c1fce6",
     "addedAt": "2026-09-16T06:02:50.078Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10018152965",
@@ -22160,6 +22147,19 @@
     "url": "https://www.vinted.it/items/10018152965-nintendo-switch-console-seule?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00551_kQmGtEm9BBxiihpTiCx5aCvu/310x430/75361f0a.webp?s=25b4e509d09f4652debad558f15d000e19812e57",
     "addedAt": "2026-09-16T06:11:09.820Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10018254858",
+    "category": "Console",
+    "title": "PS4 fat",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10018254858-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_010c5_f2WrLNgEnyMswqrhaTtq3GQW/310x430/aa146337.webp?s=ff7f8406be909ce9c82aa130d17fed475d194b6b",
+    "addedAt": "2026-09-16T06:36:06.282Z",
     "processed": false,
     "triaged": false
   }
