@@ -22120,5 +22120,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10017846341",
+    "category": "Console",
+    "title": "Xbox one Erreur 100 a réparé",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10017846341-xbox-one-erreur-100-a-repare?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_008c4_VxQV6cgBWXbshCf8Sfz6NGBZ/310x430/1be39be4.webp?s=a0691e4b086fdfffd1b9b3fe86028bdea7c739a8",
+    "addedAt": "2026-09-16T03:57:11.802Z",
+    "processed": false,
+    "triaged": false
   }
 ]
