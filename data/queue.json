@@ -1,41 +1,5 @@
 [
   {
-    "id": "9978005231",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9978005231-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02418_wsttXzQbhAL4QKqGE1QPuyu7/310x430/e7b7cea0.webp?s=88901f5d37a3e9f1ecc096920c7c738372717727",
-    "addedAt": "2026-09-12T17:37:27.877Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\n1\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4 platinium funciona perfectamente + mando\nSpedizione\nda 5,49 €",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "9978047732",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9978047732-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00867_AQcbN5pHFomEQc9tKhhSyctF/310x430/66a1cd20.webp?s=4cc256daf8b13fb042fdfd43cd9ae5f5c733d8ba",
-    "addedAt": "2026-09-12T17:41:38.269Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nParfait\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 93.25
-  },
-  {
     "id": "9978164181",
     "category": "Console",
     "title": "PlayStation 5 Cover / Cincinnati Bangals",
@@ -22059,5 +22023,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-18.2€, sotto soglia"
+  },
+  {
+    "id": "10025678776",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10025678776-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f2a_df3JaEFDimneN5c8MiNYtRPc/310x430/96926dfc.webp?s=4f55fcf05ada8e74b078300114178f907d381ec1",
+    "addedAt": "2026-09-16T17:36:09.877Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
   }
 ]
