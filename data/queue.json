@@ -22148,8 +22148,10 @@
     "url": "https://www.vinted.it/items/10018254858-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_010c5_f2WrLNgEnyMswqrhaTtq3GQW/310x430/aa146337.webp?s=ff7f8406be909ce9c82aa130d17fed475d194b6b",
     "addedAt": "2026-09-16T06:36:06.282Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10018319110",
@@ -22161,8 +22163,10 @@
     "url": "https://www.vinted.it/items/10018319110-ps4-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01015_L63QfJi9qDVjcFFydBXRkagW/310x430/e3eff5fe.webp?s=2dc7f7ee8ea37a9a6e92428de6c115acb3d6b7a9",
     "addedAt": "2026-09-16T06:48:36.380Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10018319045",
@@ -22174,8 +22178,13 @@
     "url": "https://www.vinted.it/items/10018319045-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0090c_uwnMCnUcYKsmTpYsyZwqGAJd/310x430/f4d5aa83.webp?s=a55b69554c8a00ce052b540fd6a8e47e93761f52",
     "addedAt": "2026-09-16T06:48:36.381Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nDiscrete·Nintendo·Caricato 12 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n12 min fa\nVends switch lite hs ne s'allume plus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "ne s'allume plus (non si accende)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   },
   {
     "id": "10018339318",
@@ -22187,7 +22196,24 @@
     "url": "https://www.vinted.it/items/10018339318-playstation-3-in-buone-condizioni-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00c9b_znmEQY96ycHbnV8UAhjzNp1C/310x430/f04c9483.webp?s=ba2ae2ef8ae006338c0405f9484bc3f75be8739f",
     "addedAt": "2026-09-16T06:52:45.780Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10018373986",
+    "category": "Console",
+    "title": "(Annuncio non acquistare) PlayStation 5 Slim 1 T",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10018373986-annuncio-non-acquistare-playstation-5-slim-1-t?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02282_zWkyy37TisJzkF5oq6x8Q195/310x430/daae0890.webp?s=005783948d70e706b01ab0c57cd7beb1393d3e87",
+    "addedAt": "2026-09-16T06:58:59.506Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~340€, sotto soglia"
   }
 ]
