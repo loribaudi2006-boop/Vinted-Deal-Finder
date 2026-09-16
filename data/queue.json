@@ -21912,5 +21912,38 @@
     "geminiFault": "Manca il joystick",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10028405927",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10028405927-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02571_sbzrYAFgTe2ZMbDADz7YfSoA/310x430/357f51da.webp?s=136a5a4400d0db699b5a8cbadbf8611846582c00",
+    "addedAt": "2026-09-16T22:33:54.389Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nCom algum uso mas funciona perfeitamente\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 57.85
+  },
+  {
+    "id": "10028416317",
+    "category": "Console",
+    "title": "Ps5 Gehäuse",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10028416317-ps5-gehause?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0143c_Zo8RCqtbrEVNFQNKiTYaBMUG/310x430/cce4ace4.webp?s=5defa0c64992b7c972d890a107cf991db25fe79b",
+    "addedAt": "2026-09-16T22:37:02.250Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.3€, sotto soglia"
   }
 ]
