@@ -1,23 +1,5 @@
 [
   {
-    "id": "9979938710",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9979938710-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01ab0_QkzdhvazM2QmveGDgyBZpSzM/310x430/a17b0497.webp?s=594a2247e273f06cec508d28de708e9aa7093a3c",
-    "addedAt": "2026-09-12T21:02:43.971Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nNintendo switch in discrete condizioni ma funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Discrete condizioni ma funzionante",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.3
-  },
-  {
     "id": "9980025403",
     "category": "Console",
     "title": "Écran nintendo switch",
@@ -22083,5 +22065,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 71.05
+  },
+  {
+    "id": "10027977920",
+    "category": "Console",
+    "title": "Console Xbox 360 Fat Bianca - Non testata (Da testare / Per parti di ricambio)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10027977920-console-xbox-360-fat-bianca-non-testata-da-testare-per-parti-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0127b_DENy6qoYqsVcSEPNK5beLWyZ/310x430/977d45f3.webp?s=4787414c69fa27e3d7088e2be5d047c9096dd1bd",
+    "addedAt": "2026-09-16T21:11:19.936Z",
+    "processed": false,
+    "triaged": false
   }
 ]
