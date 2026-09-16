@@ -22052,5 +22052,20 @@
     "geminiFault": "Nessun guasto menzionato, 100% funzionante. Venduta senza controller ma con cavi.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.85
+  },
+  {
+    "id": "10017357671",
+    "category": "Console",
+    "title": "🇵🇹 Catálogo PS4 Oficial PlayStation Portugal 🇵🇹",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10017357671-catalogo-ps4-oficial-playstation-portugal?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0028e_XjZgbkt8Kbpbg7Yyu5p4GvCo/310x430/0a697420.webp?s=0de32083c0df3c663ec5a8e3f15b640ccbde3761",
+    "addedAt": "2026-09-16T00:23:06.942Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.45€, sotto soglia"
   }
 ]
