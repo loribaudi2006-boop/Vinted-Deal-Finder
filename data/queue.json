@@ -22131,6 +22131,22 @@
     "url": "https://www.vinted.it/items/10018034848-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01a88_ED2raWsZziepeXJCjKyTEE6n/310x430/4f694517.webp?s=9b60b3d2df049d0b626443e30734eb0a0469f7c0",
     "addedAt": "2026-09-16T05:32:42.875Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10018113361",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10018113361-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0128e_U2scYkdqevthQhs9mLS5w78M/310x430/37eefd8b.webp?s=f4690c3e3f65a532c27108970860bbcf84c1fce6",
+    "addedAt": "2026-09-16T06:02:50.078Z",
     "processed": false,
     "triaged": false
   }
