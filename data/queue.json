@@ -22176,5 +22176,20 @@
     "geminiFault": "senza manette",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.2
+  },
+  {
+    "id": "10027181176",
+    "category": "Console",
+    "title": "Cargador baterias Xbox Series X/S con 2 Baterias",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 97% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/10027181176-cargador-baterias-xbox-series-xs-con-2-baterias?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00bec_oVPDNBA7X2DVweyjHjq7JHJt/310x430/cf4e86c5.webp?s=d50a897ec89a9d8cde427f687b332292472c81e1",
+    "addedAt": "2026-09-16T19:42:19.478Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4€, sotto soglia"
   }
 ]
