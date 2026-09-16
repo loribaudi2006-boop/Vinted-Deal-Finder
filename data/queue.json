@@ -22115,7 +22115,10 @@
     "url": "https://www.vinted.it/items/10017520849-code-pre-order-content-wolverine-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02373_YqafL7UJn51n2d7HPnakKRJ3/310x430/7a9b16f7.webp?s=1633abe92f4da8b2e0ffce527a799b6fbb6b2c51",
     "addedAt": "2026-09-16T01:37:01.655Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
