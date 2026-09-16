@@ -1,35 +1,5 @@
 [
   {
-    "id": "9978430746",
-    "category": "Console",
-    "title": "Ecran nintendo switch",
-    "price": 20.99,
-    "totalPrice": 22.74,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9978430746-ecran-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00db2_hbbi1QTyTVL41udj6ouA6D1t/310x430/a20077b1.webp?s=4f17c85aa0461454c5e37375346cb2801e03bab2",
-    "addedAt": "2026-09-12T18:15:08.216Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.26€, sotto soglia"
-  },
-  {
-    "id": "9978463965",
-    "category": "Console",
-    "title": "PlayStation camera ps4",
-    "price": 18,
-    "totalPrice": 19.6,
-    "reason": "prezzo 86% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9978463965-playstation-camera-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00779_Jxwy7kfjFG9ey9w3BwshdLUE/310x430/6af7048c.webp?s=98fbd371fff01f3fec7178975f18ecccacd2c80f",
-    "addedAt": "2026-09-12T18:18:16.352Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "9978526981",
     "category": "Console",
     "title": "Console ps4",
@@ -22035,5 +22005,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-9.45€, sotto soglia"
+  },
+  {
+    "id": "10026230872",
+    "category": "Console",
+    "title": "Xbox One 500gb White",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10026230872-xbox-one-500gb-white?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_001a4_FhR8UrugibBjFFw22nT9fa49/310x430/6f0b37c8.webp?s=ebcce04c16d377df4f76dfedd4df24de6ff5c2ad",
+    "addedAt": "2026-09-16T18:21:15.563Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
