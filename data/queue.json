@@ -21807,6 +21807,22 @@
     "url": "https://www.vinted.it/items/10029306299-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a23_fr5PfVtcmKW8WFJbzCUM9xHG/310x430/5aa12087.webp?s=5c2ec3c42027df8be2f1ad55d90b3b18d875cfa1",
     "addedAt": "2026-09-17T04:33:31.156Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10029368725",
+    "category": "Console",
+    "title": "PS4 Slim 1To",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10029368725-ps4-slim-1to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d8d_qpJXBEFfyoeVDcLKhcXxrYfm/310x430/e37eca9f.webp?s=78f6aeb47e0f85aac55109a2a91c272c8d9affb0",
+    "addedAt": "2026-09-17T05:05:55.387Z",
     "processed": false,
     "triaged": false
   }
