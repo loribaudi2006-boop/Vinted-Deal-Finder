@@ -1,53 +1,5 @@
 [
   {
-    "id": "9983966403",
-    "category": "Console",
-    "title": "Boîte vide Nintendo Switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9983966403-boite-vide-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00ed2_z2WJbtA7sXwAYmYnQ1YMBVZm/310x430/0e6b8800.webp?s=11734620b65e8348a2108d964afd500f1d50c0cc",
-    "addedAt": "2026-09-13T10:17:18.132Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-35€, sotto soglia"
-  },
-  {
-    "id": "9984003665",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9984003665-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_014e0_7nv9rdys98HBQx86AYLvySDs/310x430/a298f7bb.webp?s=da03b1f3146ad6a24970854ca50dfa1aa59310da",
-    "addedAt": "2026-09-13T10:19:24.062Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "icità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nNette PlayStation 4, inclusief 2 controllers en FIFA 21, 22 en 23.\nIs niet defect en werkt nog naar behoren.\nSpedizione\nda 5,19 €",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 61.55
-  },
-  {
-    "id": "9828084670",
-    "category": "Console",
-    "title": "Ps4 + manettes + jeux",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9828084670-ps4-manettes-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00b9c_H22YFtxcfWtuoPrpeAKnjcMs/310x430/384170d1.webp?s=45edf5d32665c8e99abfcda0cac69197779922ab",
-    "addedAt": "2026-09-13T10:23:34.884Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~30€, sotto soglia"
-  },
-  {
     "id": "9984130536",
     "category": "Console",
     "title": "Scatola nintendo switch 2",
@@ -21554,5 +21506,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "10031502854",
+    "category": "Console",
+    "title": "Playstation bakje voor Playstation 4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10031502854-playstation-bakje-voor-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02222_bXmA1xfirh5Sz81pg4UfHJjZ/310x430/e6bdd26f.webp?s=d3b1d21a8576cdbd9abbd860ed9c5d12eb7c6d09",
+    "addedAt": "2026-09-17T10:18:23.038Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.45€, sotto soglia"
   }
 ]
