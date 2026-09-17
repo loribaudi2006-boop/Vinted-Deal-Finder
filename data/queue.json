@@ -1,21 +1,5 @@
 [
   {
-    "id": "9981411942",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9981411942-nintendo-switch-lite-inclusa-si-caricatore-e-scatola-originale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_011c1_7gtFXRoUNVxJRUPby28dG8sG/310x430/94151f67.webp?s=bbf715aae699c2e191072ac57683187f46871415",
-    "addedAt": "2026-09-13T06:02:10.298Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9981465104",
     "category": "Console",
     "title": "Xbox One",
@@ -21812,5 +21796,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10029513622",
+    "category": "Console",
+    "title": "Playstation 5 mit spiele und zubehör",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10029513622-playstation-5-mit-spiele-und-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010b1_Cc7AX3XNd7MBTSx1LtMVEaZr/310x430/b185c4a7.webp?s=a631168f5a3ad5b15f672dbcfaf0481fabd48d77",
+    "addedAt": "2026-09-17T06:02:20.130Z",
+    "processed": false,
+    "triaged": false
   }
 ]
