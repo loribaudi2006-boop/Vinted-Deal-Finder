@@ -1,35 +1,5 @@
 [
   {
-    "id": "9994424105",
-    "category": "Console",
-    "title": "cerco ps5 disc",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9994424105-cerco-ps5-disc?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_003af_afcwXUzM6u32xjtJ72uA1UsN/310x430/d7324441.webp?s=ce9839cd716ed055df284ef64c2f708401fa71e9",
-    "addedAt": "2026-09-13T21:06:34.039Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "9994470654",
-    "category": "Console",
-    "title": "Xbox One con alimentatore e cavo HDMI funzionante",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9994470654-xbox-one-con-alimentatore-e-cavo-hdmi-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02198_fdhVvPE7SewqKEbHFu1Bn7Js/310x430/64a610d6.webp?s=dcc49d78cfb461715a6a616e0d8bfc4b8767f201",
-    "addedAt": "2026-09-13T21:12:59.020Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
     "id": "9994479832",
     "category": "Console",
     "title": "Switch lite - bonne état",
@@ -20369,5 +20339,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5.25€, sotto soglia"
+  },
+  {
+    "id": "10039003809",
+    "category": "Console",
+    "title": "Nintendo Switch con Joy-Con blu/rosso – con",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10039003809-nintendo-switch-con-joy-con-blurosso-con?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c13_7LSZwvs8zB7fAcSunbE2L35N/310x430/e1955bc3.webp?s=ea047acf3bedefb7dbb67232b7e83b70c15da563",
+    "addedAt": "2026-09-17T21:11:24.297Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10039020061",
+    "category": "Console",
+    "title": "Nintendo Switch avec jeu Minecraft",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10039020061-nintendo-switch-avec-jeu-minecraft?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0252a_JpdWiqpfkkbphZTZfXbKxhuD/310x430/ad16dc8f.webp?s=6854b01dc8a29edd46b54bc2c90fb4fffc0e7263",
+    "addedAt": "2026-09-17T21:14:32.659Z",
+    "processed": false,
+    "triaged": false
   }
 ]
