@@ -1,35 +1,5 @@
 [
   {
-    "id": "9981561994",
-    "category": "Console",
-    "title": "Sacoche PlayStation 5 slime",
-    "price": 22,
-    "totalPrice": 23.8,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9981561994-sacoche-playstation-5-slime?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01def_vdQygYw5d5ta1xSw5GFV4rHn/310x430/61ab672d.webp?s=3833006358c3168ca2314aca283f211d43d62715",
-    "addedAt": "2026-09-13T06:40:43.515Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.8€, sotto soglia"
-  },
-  {
-    "id": "9981596505",
-    "category": "Console",
-    "title": "PS4 Ventola di Raffreddamento",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9981596505-ps4-ventola-di-raffreddamento?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_014bb_poZLohynCt5Bjw32Easw5N9W/310x430/e0e784a5.webp?s=433d764725dd7d8f688e4351cd32030dd14718cc",
-    "addedAt": "2026-09-13T06:48:01.686Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8€, sotto soglia"
-  },
-  {
     "id": "9981612301",
     "category": "Console",
     "title": "PlayStation 5 PRO non comprare",
@@ -21775,8 +21745,10 @@
     "url": "https://www.vinted.it/items/10029626159-mando-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00399_SCuR3DrAMUspsHEFA11HFmNV/310x430/cc4bdd4d.webp?s=698bcb5c2a029f3c53609fe7da36ded8d389739e",
     "addedAt": "2026-09-17T06:32:40.613Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10029643238",
@@ -21788,8 +21760,10 @@
     "url": "https://www.vinted.it/items/10029643238-mando-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00399_SCuR3DrAMUspsHEFA11HFmNV/310x430/cc4bdd4d.webp?s=698bcb5c2a029f3c53609fe7da36ded8d389739e",
     "addedAt": "2026-09-17T06:36:51.833Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10029649513",
@@ -21802,7 +21776,12 @@
     "photoUrl": "https://images1.vinted.net/t/05_00cf1_3ufZcthBp6iU59MFqkYLH2n1/310x430/670614c1.webp?s=86805cab3783577b79018aa15cfefb61e2746468",
     "addedAt": "2026-09-17T06:37:54.355Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "coli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n4 jeux de switche 1 2jeux pokémon et un jeux assassins creed the ezio et un jeux mario odyssey\nNuovo senza cartellino·Nintendo·Caricato 4 min fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n4 min fa\n4 JEUX DE SWITCHE\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.25
   },
   {
     "id": "10029654171",
@@ -21814,8 +21793,10 @@
     "url": "https://www.vinted.it/items/10029654171-xbox-one-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00f42_GzcvMjSSxdfLXRYcJFLrt4hk/310x430/5e34aac1.webp?s=3267877a0e372c7aadd3c2be56d73ab969d8b81c",
     "addedAt": "2026-09-17T06:38:57.175Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.55€, sotto soglia"
   },
   {
     "id": "10029652076",
@@ -21827,6 +21808,52 @@
     "url": "https://www.vinted.it/items/10029652076-componenti-ricambio-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01f2c_NqBk6hEbikjo35b4MrQCEMmw/310x430/7149a4d8.webp?s=0bceb04cc96e3d49b070adb2bb604766e29aad62",
     "addedAt": "2026-09-17T06:38:57.175Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.25€, sotto soglia"
+  },
+  {
+    "id": "10029642874",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10029642874-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_009a5_pmRznU4rt3V6WGqoMXbYVL1T/310x430/939a2b5b.webp?s=4ab6409369770ae3b84249a6e902478c0303fe6a",
+    "addedAt": "2026-09-17T06:41:02.448Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S\nOttime·Xbox·Caricato 6 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n6 min fa\nBiete hier eine Xbox One S in der Farbe lila schwarz an\n\nDie Konsole kommt mit 1 TB her und hat ein Laufwerk\n\nDazu 1 Controller HDMI Kabel Strom Kabel und Daten Kabel\n\nPlus zwei Spiele von NBA 2K 15/19 mit Hülle\nUnd Forza 3 leider ohne Hülle\n\nBei weiteren Fragen stehe ich gerne zur Verfügung\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45
+  },
+  {
+    "id": "10029667328",
+    "category": "Console",
+    "title": "PS4 + Controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10029667328-ps4-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01494_GgsHPmcFhEvppWVYXrNL7tTu/310x430/7cbaaaf6.webp?s=85a438ad751e9d11952d787f35cd78eb739565c4",
+    "addedAt": "2026-09-17T06:42:05.265Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10029687057",
+    "category": "Console",
+    "title": "PS4 Slim + Controller SCUF Battletron + Cavi",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10029687057-ps4-slim-controller-scuf-battletron-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0212f_t8npeQLo5Bwiu54hE5bKc2UJ/310x430/ee0d8357.webp?s=beb2966935a53314439b91d9eabf0e1852fb88af",
+    "addedAt": "2026-09-17T06:46:16.873Z",
     "processed": false,
     "triaged": false
   }
