@@ -21807,7 +21807,10 @@
     "url": "https://www.vinted.it/items/10029368725-ps4-slim-1to?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01d8d_qpJXBEFfyoeVDcLKhcXxrYfm/310x430/e37eca9f.webp?s=78f6aeb47e0f85aac55109a2a91c272c8d9affb0",
     "addedAt": "2026-09-17T05:05:55.387Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
