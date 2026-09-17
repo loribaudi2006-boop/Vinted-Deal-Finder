@@ -1,23 +1,5 @@
 [
   {
-    "id": "9994941281",
-    "category": "Console",
-    "title": "Ps4 plus ces 3 jeux",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9994941281-ps4-plus-ces-3-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_014b9_1x69nw9pNabtCtAqLArdC5bU/310x430/89571988.webp?s=70f99d73ef8c4afa32de2ffff1f73b1240870a7e",
-    "addedAt": "2026-09-13T22:40:22.058Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "licità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 plus ces 3 jeux\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 plus ces 3jeux je presi pas de manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca il controller (manette), menzionato 'je presi pas de manette'",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "9994989697",
     "category": "Console",
     "title": "Playstation 4",
@@ -20279,5 +20261,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10039430848",
+    "category": "Console",
+    "title": "playstation 4 slim",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10039430848-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00f6b_UY5DqsYJ3cs9C4AAVcPSR3Si/310x430/feec266b.webp?s=56f11ad60420836061721f269019a2a9494c9b1f",
+    "addedAt": "2026-09-17T22:37:19.440Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "oli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nvendo playstation 4 slim da 500gb funzionante, mancante solamente il controller, e 2 giochi compresi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancante del controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.55
   }
 ]
