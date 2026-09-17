@@ -1,21 +1,5 @@
 [
   {
-    "id": "9981133210",
-    "category": "Console",
-    "title": "Ps4 + manette",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9981133210-ps4-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00416_8x9N1s3wj8bLQmUQ1Q5UotTn/310x430/04509665.webp?s=a3eb7d4636bcd1954edf39f430a7deded088d941",
-    "addedAt": "2026-09-13T03:16:28.517Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9981152501",
     "category": "Console",
     "title": "Console PSP non si accende+NO caricatore (vedi descrizione)",
@@ -21844,5 +21828,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10029160450",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10029160450-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02445_ZmxJJmxbPaCbfEKX1EVD3Ltm/310x430/99550c27.webp?s=00a8e7fddae60310f9e9284a3e9acaf7c5e013d5",
+    "addedAt": "2026-09-17T03:09:52.129Z",
+    "processed": false,
+    "triaged": false
   }
 ]
