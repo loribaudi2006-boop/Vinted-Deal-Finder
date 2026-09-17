@@ -1,20 +1,5 @@
 [
   {
-    "id": "9981787063",
-    "category": "Console",
-    "title": "Nitrodeck switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9981787063-nitrodeck-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0134e_oquqYPXATWXBbvVECGgcz3WY/310x430/1a3bf867.webp?s=6d0b072dda78fe2f88bb0de6b248a36495f4f039",
-    "addedAt": "2026-09-13T07:21:23.616Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.3€, sotto soglia"
-  },
-  {
     "id": "9981860404",
     "category": "Console",
     "title": "Xbox one",
@@ -21893,5 +21878,36 @@
     "geminiFault": "Segni di adesivi sulla scocca in plastica esterna",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10029912506",
+    "category": "Console",
+    "title": "PS4 - 500go entièrement révisée",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10029912506-ps4-500go-entierement-revisee?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_012b0_hdmMTqsAJccusu6uht5vGZfV/310x430/9353ed49.webp?s=c9f080618fb9925cef9a288cde0cd61fc2db9016",
+    "addedAt": "2026-09-17T07:27:04.251Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "osso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 - 500go entièrement révisée\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nBonjour,\n\nJe vends cette PS4 entièrement révisée et dans un excellent état de fonctionnement.\n\n✅ entièrement dépoussiérer y compris le lecteur.\n✅ pâte thermique du processeur neuve.\n✅ Pad thermique des Ram neuve.\n⚠️ il manque deux vis torx, qui ne change en rien le bon fonctionnement de la console.\n\nLa console lit parfaitement les CD, le bouton d’éjection fonctionne correctement.\nLa PS4 a été testée sur plus d’une heure de jeu (the last of us remastered) et elle est restée silencieuse.\n\nCe qui est compris :\n- Console PS4\n- cordon d’alimentation\n- câble HDMI\n- câble de recharge de manette Dualshock\n\nPrix non négociable.\n\nColis bien protégé et envoie rapide.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano due viti torx (difetto estetico/strutturale minore che non influisce sul funzionamento)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10029926751",
+    "category": "Console",
+    "title": "ps4 nera",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10029926751-ps4-nera?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006e7_3yzyWwTQSuqKgt2NFcE3aEgy/310x430/6b3729c8.webp?s=f9b53ac92d824660c20153556965c9b7ac9ff24a",
+    "addedAt": "2026-09-17T07:29:09.630Z",
+    "processed": false,
+    "triaged": false
   }
 ]
