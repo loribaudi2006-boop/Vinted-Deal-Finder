@@ -21855,7 +21855,10 @@
     "url": "https://www.vinted.it/items/10028916936-nintendo-switch-joycon-gebraucht?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00191_xsBd2y6fRZEm8K9GgdsdpoZL/r2/310x430/a83d14b7.webp?s=c851aae58c96f8769a23aff6bf9f2fe225fc0cdf",
     "addedAt": "2026-09-17T01:23:05.622Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
