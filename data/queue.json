@@ -1,35 +1,5 @@
 [
   {
-    "id": "9982191602",
-    "category": "Console",
-    "title": "Nintendo Switch OLED Original Dock HEG-007 + Netzteil + HDMI",
-    "price": 39,
-    "totalPrice": 41.65,
-    "reason": "prezzo 85% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/9982191602-nintendo-switch-oled-original-dock-heg-007-netzteil-hdmi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02152_vShJvuDgx1cBGGFqYPtxkFFC/310x430/76ad41b3.webp?s=b82838fd159cec117a3374d75b1fdcca05f37351",
-    "addedAt": "2026-09-13T08:09:24.501Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
-    "id": "9982276891",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9982276891-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004e2_jS7C3wrToqEkCnLLNUdyw1nZ/310x430/ea1fd210.webp?s=8114add26e9aa7516d28b6f950762cb1000ea92b",
-    "addedAt": "2026-09-13T08:17:54.961Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9982313140",
     "category": "Console",
     "title": "PlayStation 4",
@@ -21908,5 +21878,20 @@
     "geminiFault": "funktionsbereit, ohne Kabel, ohne Controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 38.9
+  },
+  {
+    "id": "10030257580",
+    "category": "Console",
+    "title": "cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10030257580-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d8d_crXNYwW5HMyD8hJifCFmLRLZ/310x430/9089d565.webp?s=7b54474c6ebd56a375e7d9f4da73b0eb98316f9c",
+    "addedAt": "2026-09-17T08:14:07.107Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
