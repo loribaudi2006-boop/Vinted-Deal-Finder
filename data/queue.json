@@ -1,23 +1,5 @@
 [
   {
-    "id": "10004023154",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10004023154-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02025_pJyBtYVQfNt56rMZawZd5G2i/310x430/9640ab5a.webp?s=d50f52da842b240712e351d761a2638988ad2f14",
-    "addedAt": "2026-09-14T18:27:42.895Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nTe koop aangeboden: een PlayStation 4 console in goede staat, compleet met twee controllers (één zwart, één blauw) en een selectie van zes populaire games. De games die zijn inbegrepen zijn FIFA 16, FIFA 18, Call of Duty: Advanced Warfare, Call of Duty: WWII, Mortal Kombat X en NBA Live 14. Ideaal voor urenlang speelplezier. De console is gebruikt, maar werkt nog perfect. Een geweldige set voor elke gamer!\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "10004125657",
     "category": "Console",
     "title": "playstation 4",
@@ -19835,7 +19817,45 @@
     "url": "https://www.vinted.it/items/10048153169-ps4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0102c_dDFX6YV53rTdrfqoYuwQUqB6/310x430/5f6f3ca2.webp?s=a87252bb42983e6443d2c4720f1d9b0eff2f7614",
     "addedAt": "2026-09-18T18:27:18.923Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim 1TB\nBuone·Sony·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nVerkaufe meine PS4 Slim Konsole mit 1TB Speicher. Nur die Konsole mit entsprechenden Kabeln aber keinen Controller.\n\nFunktioniert einwandfrei, normale Gebrauchsspuren (siehe Fotos).\n\nPrivatverkauf, keine Garantie/Rücknahme.\n... altro\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il controller (solo console e cavi)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
+  },
+  {
+    "id": "10048228037",
+    "category": "Console",
+    "title": "Consola Nintendo Switch 2 256GB pronta a jogar",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10048228037-consola-nintendo-switch-2-256gb-pronta-a-jogar?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015a1_BbamtuHkaGRQKA53skuYbHJh/310x430/a993c085.webp?s=da6a965beff65efd264a5d9ab9bce602fd09bdc1",
+    "addedAt": "2026-09-18T18:34:39.308Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10048238343",
+    "category": "Console",
+    "title": "xbox one series s edition fortnite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10048238343-xbox-one-series-s-edition-fortnite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d03_5zxEzTtT124QcJFF9vAm7drh/310x430/aedece1b.webp?s=1ce948b5cb0b3abb5757f11bf03b981c6750a1d0",
+    "addedAt": "2026-09-18T18:35:42.920Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nxbox one series s edition fortnite\nBuone·Xbox·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nBuone\nCaricato\n2 min fa\nxbox one series s edition fortnite\n\nBon état vendu sans aucun accessoires\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "vendu sans aucun accessoires",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.8
   }
 ]
