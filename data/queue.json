@@ -1,50 +1,5 @@
 [
   {
-    "id": "9996504957",
-    "category": "Console",
-    "title": "Xbox One modèle 1540 HS – Pour pièces / réparation",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9996504957-xbox-one-modele-1540-hs-pour-pieces-reparation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0264d_2JBQWHuxQP5jNgD6qiRaWHtc/310x430/e264badc.webp?s=7125c9d5437d864a503429dd9880a6daeb1a65f5",
-    "addedAt": "2026-09-14T08:01:10.605Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~17.8€, sotto soglia"
-  },
-  {
-    "id": "9996545200",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9996545200-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02118_hDF4U3PhrjzKfxQcqcmKwdgN/310x430/15e689dd.webp?s=66a977698092d7aa6ed57305f43c59276414266e",
-    "addedAt": "2026-09-14T08:01:10.606Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.05€, sotto soglia"
-  },
-  {
-    "id": "9996576990",
-    "category": "Console",
-    "title": "Caja Sony PlayStation 5",
-    "price": 12.25,
-    "totalPrice": 13.56,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9996576990-caja-sony-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016ba_KM4txChEyr4qyCVUBHymhaiC/310x430/ce372406.webp?s=0a6bc9717c5ffbea16eefa01e12ec285fe1a0126",
-    "addedAt": "2026-09-14T08:04:18.450Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.56€, sotto soglia"
-  },
-  {
     "id": "9996747584",
     "category": "Console",
     "title": "Carton vide switch",
@@ -20379,5 +20334,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.2€, sotto soglia"
+  },
+  {
+    "id": "10041216913",
+    "category": "Console",
+    "title": "PS4 Camera",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10041216913-ps4-camera?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00e14_NXuSr9uEojB3rcuKn22dt6L6/310x430/391b16f3.webp?s=27e468c22b52840af0aba320f64cfb1552d8a454",
+    "addedAt": "2026-09-18T08:06:10.310Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
