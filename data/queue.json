@@ -1,21 +1,5 @@
 [
   {
-    "id": "9995385465",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9995385465-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02017_ZcchA4feAnDpNiK3jpySBuuS/310x430/c00b36ea.webp?s=94c88768da99535e942e7c13fc543065ed4a1afe",
-    "addedAt": "2026-09-14T01:06:16.599Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9995592881",
     "category": "Console",
     "title": "PS5 Wandbeugel - voor PlayStation 5 pro",
@@ -20330,5 +20314,18 @@
     "geminiFault": "normali segni di utilizzo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.8
+  },
+  {
+    "id": "10039875066",
+    "category": "Console",
+    "title": "Switch lite animal crossing edition",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10039875066-switch-lite-animal-crossing-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0217c_hbFmKYPTyDoXCT3AdP4LrGN6/310x430/8b9d72cc.webp?s=90eec7820e3cb0ce7597d5636d81508df1cd3df1",
+    "addedAt": "2026-09-18T01:04:29.849Z",
+    "processed": false,
+    "triaged": false
   }
 ]
