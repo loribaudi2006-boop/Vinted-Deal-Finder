@@ -1,20 +1,5 @@
 [
   {
-    "id": "10005720637",
-    "category": "Console",
-    "title": "Socle dé switche",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10005720637-socle-de-switche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_019dd_Ax4heVNz3u34e7cgk1CjfH9J/310x430/448e1f69.webp?s=fbbedae2c185ea2cf500d2bca76929031451b4d7",
-    "addedAt": "2026-09-14T21:32:15.643Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.3€, sotto soglia"
-  },
-  {
     "id": "10005761013",
     "category": "Console",
     "title": "2x Nintendo Switch microSD Kartenleser",
@@ -20156,6 +20141,24 @@
     "url": "https://www.vinted.it/items/10049719765-ps4-500go?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02501_2kiPrVEewSs6XJAywMPigKUs/310x430/4260dabc.webp?s=9a407b0d98bd68de5833c49eba9256d6859f4a3f",
     "addedAt": "2026-09-18T21:27:56.505Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 - 500go\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 toujours utilisé soigneusement , bien entretenu et fonctionne parfaitement :)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10049776146",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10049776146-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00043_5PyFqDB41ryTqYxYqxTDm6cw/310x430/c76a1ec5.webp?s=999ce0cd485c599f39eff6c0c3b4be9c545384e3",
+    "addedAt": "2026-09-18T21:37:23.165Z",
     "processed": false,
     "triaged": false
   }
