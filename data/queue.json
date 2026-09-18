@@ -1,21 +1,5 @@
 [
   {
-    "id": "9995791995",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9995791995-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00265_hpGaSqty42h3cG4VJ7UPbGqV/310x430/d1d075d4.webp?s=c653f5b391dffe2955d31c5e66eedefbd37b6fd9",
-    "addedAt": "2026-09-14T04:37:40.998Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9995861706",
     "category": "Console",
     "title": "PlayStation 4 in schwarz mit 1 Controller",
@@ -20309,8 +20293,11 @@
     "url": "https://www.vinted.it/items/10038898927-base-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0028b_P1PRHN27G67Vxz8Wcwebnp3i/310x430/abe2e224.webp?s=cdb091afc67aecdfb076b720f480050ab08a18d3",
     "addedAt": "2026-09-18T04:00:54.741Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10040246257",
@@ -20322,8 +20309,11 @@
     "url": "https://www.vinted.it/items/10040246257-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0121e_jCcwGinX1uEGBMrKXaSVRs3L/310x430/99c98e8a.webp?s=40b1085e2ac08b0ba636fc8b1f6d7fdc95ca7c10",
     "addedAt": "2026-09-18T04:00:54.741Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10040260562",
@@ -20335,8 +20325,11 @@
     "url": "https://www.vinted.it/items/10040260562-nintendo-switch-console-seule?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0036a_fGQpUkktFkLceFCeS91JzGWm/310x430/c15a297c.webp?s=2f3ab6ee148c61f1230fcf98e3f0bad4cff07bd9",
     "addedAt": "2026-09-18T04:04:02.374Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10040271068",
@@ -20348,7 +20341,10 @@
     "url": "https://www.vinted.it/items/10040271068-boite-switch-oled-vide?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0202c_AzMbZiLgsByo4PuwWgMZJp7r/310x430/db28b110.webp?s=4827acba3ddf553542f6a50ebe4c7a4a1ce71ccb",
     "addedAt": "2026-09-18T04:09:15.454Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
