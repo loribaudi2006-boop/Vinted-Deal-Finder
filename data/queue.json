@@ -1,20 +1,5 @@
 [
   {
-    "id": "9996311961",
-    "category": "Console",
-    "title": "Mando Switch",
-    "price": 13,
-    "totalPrice": 14.35,
-    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9996311961-mando-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_014c9_hbUZoUVPdSmHPAAc4wR82n74/310x430/e979245c.webp?s=15a22a92c1ef77230110eb44cb031e2fb2b375fc",
-    "addedAt": "2026-09-14T07:23:33.556Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.15€, sotto soglia"
-  },
-  {
     "id": "9996353848",
     "category": "Console",
     "title": "Ps4 slim",
@@ -20430,5 +20415,38 @@
     "geminiFault": "mancano 4 cavi, pasta termica da cambiare",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 81.55
+  },
+  {
+    "id": "10040920166",
+    "category": "Console",
+    "title": "Écran switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10040920166-ecran-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ca4_Cy9eH1w5BYBZmvo3gBRi2XXc/310x430/29763276.webp?s=f5df38ba6e12408e13de8196945222d631c47cf8",
+    "addedAt": "2026-09-18T07:25:25.900Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nÉcran switch\nBuone·Nintendo·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nÉcran switch qui fonctionne parfaitement, mais sans les manettes\nTraces d’usure sur le devant et derrière mais qui n’empêchent pas de jouer\nPrix négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tracce d'usura su parte anteriore e posteriore, venduta senza joy-con",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10040927337",
+    "category": "Console",
+    "title": "Nintendo Switch Controller",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10040927337-nintendo-switch-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_003b7_5iLnwZ7WdyeAX7s7DzFoYKg7/310x430/431c822b.webp?s=75f55e7f041c545a81362fb231b86bafefa89684",
+    "addedAt": "2026-09-18T07:29:36.528Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.8€, sotto soglia"
   }
 ]
