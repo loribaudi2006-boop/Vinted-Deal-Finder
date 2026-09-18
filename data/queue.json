@@ -1,50 +1,5 @@
 [
   {
-    "id": "10005949356",
-    "category": "Console",
-    "title": "Videogioco Jump Force deluxe edition per Nintendo Switch",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10005949356-videogioco-jump-force-deluxe-edition-per-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0075e_euNrfKhfkoq2awUaqTT7oX4f/310x430/2fb2f4c4.webp?s=255b742788a88f5e449ef40bff2d2aed2b78e1eb",
-    "addedAt": "2026-09-14T22:14:06.536Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
-    "id": "10005858962",
-    "category": "Console",
-    "title": "PlayStation 4 - câble d’alimentation - Testée et Fonctionnel Sans Manette",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10005858962-playstation-4-cable-dalimentation-testee-et-fonctionnel-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0143f_qhAFFEK6oCEJH6UwfjMdh7sk/310x430/0464ba74.webp?s=61e09ddfa4344d109fba4c5f82df8bdea9d74cd7",
-    "addedAt": "2026-09-14T22:16:11.531Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.55€, sotto soglia"
-  },
-  {
-    "id": "10005960687",
-    "category": "Console",
-    "title": "Caja ps5 slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10005960687-caja-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02638_ReYrtx8aRWJunpVpTdj3rHD1/310x430/56c5b25c.webp?s=1d9d28f78cad96ffdb3833d11ed0223cb5ce28c2",
-    "addedAt": "2026-09-14T22:16:11.531Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-41.2€, sotto soglia"
-  },
-  {
     "id": "10006004275",
     "category": "Console",
     "title": "Cerco PS5 slim max",
@@ -20106,5 +20061,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10049954164",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10049954164-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01af0_EBGbnMxo59vsZCPhJuDDvKmV/310x430/ec35b4a9.webp?s=392ac24b1cb68fde474d3d6e21ca380461ccdbb2",
+    "addedAt": "2026-09-18T22:13:04.068Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlay avec 7 jeux Minecraft n'est pas sur la photo\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
