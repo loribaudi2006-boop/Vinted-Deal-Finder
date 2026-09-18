@@ -20142,5 +20142,23 @@
     "geminiFault": "lettore dischi ammaccato",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10050184884",
+    "category": "Console",
+    "title": "Ps4 senza pad",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10050184884-ps4-senza-pad?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0082a_TfQFggRMfcZRFyMUptvMCyiF/310x430/098aca3b.webp?s=dabfce27cdff7d9d9662ef8b30acd29ef88fdaed",
+    "addedAt": "2026-09-18T23:14:56.828Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 senza pad\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 usata con tutti i fili e senza pad\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza pad",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
   }
 ]
