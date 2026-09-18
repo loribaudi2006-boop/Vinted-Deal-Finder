@@ -1,35 +1,5 @@
 [
   {
-    "id": "9996747584",
-    "category": "Console",
-    "title": "Carton vide switch",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9996747584-carton-vide-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00a21_XjXd7MAyBvs7Etbmw5FqwypS/310x430/9fde2026.webp?s=fff553619f526a6dae9b35bde28274e27546952c",
-    "addedAt": "2026-09-14T08:25:11.621Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
-    "id": "9996755684",
-    "category": "Console",
-    "title": "Ps5 orginal coverplate",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9996755684-ps5-orginal-coverplate?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00301_ayiKmvBJtnPPiaFh384HSQam/310x430/3e9a4b1b.webp?s=3b7541729a623aabca03cfe257e101f9cba89530",
-    "addedAt": "2026-09-14T08:26:14.123Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
     "id": "9996832863",
     "category": "Console",
     "title": "Nintendo Switch 3DS (pink)",
@@ -20349,5 +20319,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10041346903",
+    "category": "Console",
+    "title": "Pochette Nintendo switch Zelda",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10041346903-pochette-nintendo-switch-zelda?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01254_Eaqe7NSs9eaHbmAugY9rbW9S/310x430/154017c2.webp?s=7f4eb2f03cb6b1c1d9e2e682b0557b137c3d88da",
+    "addedAt": "2026-09-18T08:21:51.905Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10041387128",
+    "category": "Console",
+    "title": "Xbox one s hs pour pieces",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10041387128-xbox-one-s-hs-pour-pieces?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00fd2_zEa4yteSSmMog3njPCVDRWF6/310x430/7c14821c.webp?s=eaa59d6f0c86d4168559eeb1005578aa62bce6ed",
+    "addedAt": "2026-09-18T08:27:04.909Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
   }
 ]
