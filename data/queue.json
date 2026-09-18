@@ -1,38 +1,5 @@
 [
   {
-    "id": "9996993671",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/9996993671-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01cdc_MApfLAa6aeAWeAdoYo8x8MTU/310x430/224c9e52.webp?s=96a9cac6bcea99f5f4477497572519513c318549",
-    "addedAt": "2026-09-14T08:52:23.849Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nBuone·Xbox·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nProprio adesso\nXbox one. Werkt nog naar behoren. Geen controllers. Wel 2 accus + oplaad systeem\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller (inclusi 2 accumulatori con sistema di ricarica)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.05
-  },
-  {
-    "id": "9949983130",
-    "category": "Console",
-    "title": "PlayStation 5",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9949983130-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00894_ndrb7JQJeum9ga2up8L8NGM7/310x430/57c90061.webp?s=69ddc09be56b8b2d08fbfc52a6e71aa4eedb152d",
-    "addedAt": "2026-09-14T09:00:44.745Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9997128204",
     "category": "Console",
     "title": "Nintendo Switch Zubehör",
@@ -20295,5 +20262,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.25€, sotto soglia"
+  },
+  {
+    "id": "10041639622",
+    "category": "Console",
+    "title": "Pochette de switch avec 3 jeux",
+    "price": 53,
+    "totalPrice": 56.35,
+    "reason": "prezzo 72% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10041639622-pochette-de-switch-avec-3-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00adb_G5cMz3N41fpKXdwivEvtKSih/310x430/8a1260a7.webp?s=28e308f89f589f4e45e546e14a740b0b6377d430",
+    "addedAt": "2026-09-18T08:54:14.649Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.65€, sotto soglia"
+  },
+  {
+    "id": "10041690711",
+    "category": "Console",
+    "title": "Xbox one S seul sans manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10041690711-xbox-one-s-seul-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01065_GrBXJNgDLXHdV72pUJxZXDfd/310x430/9cc62d2a.webp?s=78515f439f1755e8890cad63ba60a5d10641e43b",
+    "addedAt": "2026-09-18T08:59:31.657Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
