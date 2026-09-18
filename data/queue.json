@@ -1,20 +1,5 @@
 [
   {
-    "id": "10006004275",
-    "category": "Console",
-    "title": "Cerco PS5 slim max",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10006004275-cerco-ps5-slim-max?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0006f_h6zRWfuMEJaRAueemWeZ3Wcf/310x430/fe34eaf9.webp?s=b671675f9176974c8a47b3819eaef92a6d66b63e",
-    "addedAt": "2026-09-14T22:26:37.643Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10006014027",
     "category": "Console",
     "title": "Scocca ps5 base",
@@ -20079,5 +20064,54 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10049978143",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10049978143-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_022b1_YYLKvxQRHYKaa42JEFu5XTFT/310x430/1484b04b.webp?s=36689b776d7e6fd82182712138e0fbbdf991c9ae",
+    "addedAt": "2026-09-18T22:18:18.177Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 5\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 5 bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
+  },
+  {
+    "id": "10049985974",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 44.95,
+    "totalPrice": 47.9,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10049985974-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01662_iThxQCXLFFCDY3Sas3fa4Rg3/310x430/2063d0c8.webp?s=5462530b2cd69943ffa71ccf7c5782a0daecbbef",
+    "addedAt": "2026-09-18T22:20:23.739Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n44,95 €\n\n47,90 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 goed onderhouden komt zonder controller wel kabels voor ps4\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller, presenti solo i cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.1
+  },
+  {
+    "id": "10050012426",
+    "category": "Console",
+    "title": "PlayStation 4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10050012426-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0191d_SiUEcptnKas4gSoTj6YEiPv9/310x430/acaec09d.webp?s=67ca3e5aef6195094f42a8c28b9902db3bcd031d",
+    "addedAt": "2026-09-18T22:26:40.856Z",
+    "processed": false,
+    "triaged": false
   }
 ]
