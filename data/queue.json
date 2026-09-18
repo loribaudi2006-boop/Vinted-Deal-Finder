@@ -20373,8 +20373,11 @@
     "url": "https://www.vinted.it/items/10040441681-playstation-5-pro-2tb-ovp-beschreibung-lesen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01c15_VGSVwoQXZzZ4YmKjc3ceT9YH/310x430/43e1f702.webp?s=3a97fe37aca92503993629eead66d290eb78341b",
     "addedAt": "2026-09-18T05:33:41.521Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10040465979",
