@@ -1,41 +1,5 @@
 [
   {
-    "id": "10006294460",
-    "category": "Console",
-    "title": "Nintendo Switch Oled Edición Mario roja",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10006294460-nintendo-switch-oled-edicion-mario-roja?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d44_788vVZhuMyx3yHsnJYdEVwaJ/310x430/fc909fa7.webp?s=1d227b99ede3ddebd5c5eadcf43fe24168a09279",
-    "addedAt": "2026-09-14T23:52:11.016Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "icaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Oled Edición Mario roja\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nConsola Nintendo Switch OLED en su edición especial Mario Red.\n- Diseño inspirado en Mario.\n- Modelo OLED.\n- Nueva nunca se usado para jugar solo de exposición.\n-Funda roja dura\n... altro\nSpedizione\nda 5,99 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 200
-  },
-  {
-    "id": "10006302126",
-    "category": "Console",
-    "title": "Nintendo Switch Oled Edición Mario roja",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10006302126-nintendo-switch-oled-edicion-mario-roja?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d44_788vVZhuMyx3yHsnJYdEVwaJ/310x430/fc909fa7.webp?s=1d227b99ede3ddebd5c5eadcf43fe24168a09279",
-    "addedAt": "2026-09-14T23:54:16.131Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "aVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Oled Edición Mario roja\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nConsola Nintendo Switch OLED en su edición especial Mario Red.\n- Diseño inspirado en Mario.\n- Modelo OLED.\n- Nueva nunca se usado para jugar solo de exposición.\n-Funda roja dura\n... altro\nSpedizione\nda 5,99 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 210
-  },
-  {
     "id": "10006309977",
     "category": "Console",
     "title": "Fc 27 Ps5 Estándar",
@@ -20106,5 +20070,20 @@
     "geminiFault": "Senza pad",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10050285152",
+    "category": "Console",
+    "title": "Tony hawks pro skater switch",
+    "price": 11,
+    "totalPrice": 12.25,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10050285152-tony-hawks-pro-skater-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_002f0_qUvjQpEsMD1FqQThhbrwWpYU/310x430/9eaae183.webp?s=4aa5c09e89f07999b1e0042fb4d8e9bf13e33ac9",
+    "addedAt": "2026-09-18T23:48:22.316Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.5€, sotto soglia"
   }
 ]
