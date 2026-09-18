@@ -1,21 +1,5 @@
 [
   {
-    "id": "9995861706",
-    "category": "Console",
-    "title": "PlayStation 4 in schwarz mit 1 Controller",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/9995861706-playstation-4-in-schwarz-mit-1-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01a07_3qf9hAYE4ZYSj2kgLXE4SQfS/310x430/4f162efb.webp?s=1d53830d26d509cd8398049e94e4eb279b66120d",
-    "addedAt": "2026-09-14T05:55:56.806Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "9996058350",
     "category": "Console",
     "title": "Ps4 blanche + 1 manette",
@@ -20373,8 +20357,11 @@
     "url": "https://www.vinted.it/items/10040421439-boite-vide-de-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01f7a_1JHTbRQunavZHA3mXZ2qDQ1E/310x430/0850ad50.webp?s=bf0a3d120c291842f5372e06363607eb419affa2",
     "addedAt": "2026-09-18T05:26:24.118Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10040441681",
@@ -20412,6 +20399,32 @@
     "url": "https://www.vinted.it/items/10040467779-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_012b3_aiANwPb6JWYXUT5VFQCjgo4C/310x430/cbc8fa69.webp?s=1cb2db7683dedecc638d60d1dc40429094728aec",
     "addedAt": "2026-09-18T05:44:07.571Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10040497320",
+    "category": "Console",
+    "title": "Case Protector Nintendo Switch 2 - Nova",
+    "price": 39.9,
+    "totalPrice": 42.6,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10040497320-case-protector-nintendo-switch-2-nova?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00742_7aZzs5wGNP1B9zrA6UdAHaYh/310x430/cc27bb4f.webp?s=e11a773d4d811ad91ee608d641fa6891b5a20611",
+    "addedAt": "2026-09-18T05:53:31.791Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10040510461",
+    "category": "Console",
+    "title": "Nintendo Switch 2",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10040510461-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01ac9_KrBxfLJpPk8Chxjj8jYa3ZNA/310x430/e1b72fde.webp?s=b2e399de091164b1f564f3d30ec9c61d977fcfa0",
+    "addedAt": "2026-09-18T05:57:42.060Z",
     "processed": false,
     "triaged": false
   }
