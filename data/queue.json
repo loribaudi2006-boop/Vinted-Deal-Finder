@@ -1,20 +1,5 @@
 [
   {
-    "id": "9996113466",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9996113466-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0043d_AR2ZBp44RnSHRztESFvVveXE/310x430/44c36e77.webp?s=6b58ceb6e013188c3c23816ac9ab6bcf08c896e9",
-    "addedAt": "2026-09-14T06:43:55.561Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "9996215414",
     "category": "Console",
     "title": "Nintendo Switch 1",
@@ -20437,6 +20422,19 @@
     "url": "https://www.vinted.it/items/10040620026-case-protector-nintendo-switch-2-nova?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00742_7aZzs5wGNP1B9zrA6UdAHaYh/310x430/cc27bb4f.webp?s=e11a773d4d811ad91ee608d641fa6891b5a20611",
     "addedAt": "2026-09-18T06:26:55.433Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10040682422",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10040682422-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00844_RMw8hcZyWoZRrrvzfwqVrh8o/310x430/198ebb47.webp?s=efa11992c90da84abfe30fa9e74abd803f0f974e",
+    "addedAt": "2026-09-18T06:41:33.042Z",
     "processed": false,
     "triaged": false
   }
