@@ -1,38 +1,5 @@
 [
   {
-    "id": "9996931872",
-    "category": "Console",
-    "title": "PS5 Halterung",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9996931872-ps5-halterung?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0205b_2Rz4J5tiUw2KBggPyas7aGcQ/310x430/e4940b1c.webp?s=b4e13cb41c0f38625bb0a7583e53bd049a82f981",
-    "addedAt": "2026-09-14T08:46:08.441Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
-    "id": "9996952580",
-    "category": "Console",
-    "title": "Ps5 digital",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9996952580-ps5-digital?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01345_2qXF1rYPKcLjkYXoRwXY582E/310x430/fd48f921.webp?s=3b66c2fb2f10c3090ea4471e298006c79aff4a2c",
-    "addedAt": "2026-09-14T08:48:13.745Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 digital\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nPs5 digital 1 tb\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 338.25
-  },
-  {
     "id": "9996993671",
     "category": "Console",
     "title": "Xbox one",
@@ -20313,5 +20280,20 @@
     "geminiFault": "joystick non originale, manca cavo HDMI (incluso solo cavo alimentazione)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.45
+  },
+  {
+    "id": "10041588978",
+    "category": "Console",
+    "title": "Ps5 fat con lettore disco (solo scatola originale)",
+    "price": 11,
+    "totalPrice": 12.25,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10041588978-ps5-fat-con-lettore-disco-solo-scatola-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00930_DvsikjRkBBdKmPovHB9SPaX1/310x430/23c4455f.webp?s=b41367c42be3db8e7349e1619f6db4a76fa30a90",
+    "addedAt": "2026-09-18T08:49:01.500Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.25€, sotto soglia"
   }
 ]
