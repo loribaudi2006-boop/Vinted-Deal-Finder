@@ -1,20 +1,5 @@
 [
   {
-    "id": "10005761013",
-    "category": "Console",
-    "title": "2x Nintendo Switch microSD Kartenleser",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10005761013-2x-nintendo-switch-microsd-kartenleser?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00cea_4ayujwBS196jRLRxV4toQGea/310x430/974ac2af.webp?s=8d981bc77706d784b51ec43cc7a457ff50c31741",
-    "addedAt": "2026-09-14T21:37:30.680Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "10005826549",
     "category": "Console",
     "title": "PS4 + Tous les câbles fourni",
@@ -20159,7 +20144,9 @@
     "url": "https://www.vinted.it/items/10049776146-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00043_5PyFqDB41ryTqYxYqxTDm6cw/310x430/c76a1ec5.webp?s=999ce0cd485c599f39eff6c0c3b4be9c545384e3",
     "addedAt": "2026-09-18T21:37:23.165Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.3€, sotto soglia"
   }
 ]
