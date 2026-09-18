@@ -1,20 +1,5 @@
 [
   {
-    "id": "9999696384",
-    "category": "Console",
-    "title": "Nintendo switch + Jeux  FIFA 19",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9999696384-nintendo-switch-jeux-fifa-19?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c1d_W8Zx6nE5zRjkr9ausTExNKo4/310x430/3082e235.webp?s=231aa5ea7aeb94b3062cbfdf75a2eb5219112b7e",
-    "addedAt": "2026-09-14T13:01:45.831Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-53.2€, sotto soglia"
-  },
-  {
     "id": "9999870652",
     "category": "Console",
     "title": "ps4 pro",
@@ -20219,8 +20204,10 @@
     "url": "https://www.vinted.it/items/10044168373-ps4-playstation-4-usata-console-cavo-alimentazione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00a34_3nZsKrLKR82iojns7fo5qhD8/310x430/9b33b87b.webp?s=76b7900cb71848f2fa0412df734b94ee70dc7633",
     "addedAt": "2026-09-18T12:58:10.580Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   },
   {
     "id": "10044185743",
@@ -20232,7 +20219,45 @@
     "url": "https://www.vinted.it/items/10044185743-ps4controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_023b8_mkGaPos2a1B1YLkc2qbogsjw/310x430/acabe047.webp?s=a6885cc8bb7c94b5d341beb28e5bed5cd92fc1e8",
     "addedAt": "2026-09-18T12:59:13.297Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10044218675",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10044218675-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_007ad_aKgY7AYKcsBNkiriQE4Lnnj9/310x430/a2f66403.webp?s=c86d2086d8124c75f079ca4c222d7e50d9d24eb3",
+    "addedAt": "2026-09-18T13:02:21.706Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato 3 min fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 min fa\nNintendo switch\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.25
+  },
+  {
+    "id": "10044256530",
+    "category": "Console",
+    "title": "Nintendo Switch con Joy-Con blu/rosso – con",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10044256530-nintendo-switch-con-joy-con-blurosso-con?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c13_7LSZwvs8zB7fAcSunbE2L35N/310x430/e1955bc3.webp?s=ea047acf3bedefb7dbb67232b7e83b70c15da563",
+    "addedAt": "2026-09-18T13:05:30.963Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch con Joy-Con blu/rosso – con\nBuone·Nintendo·Caricato 3 min fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch 2\nCondizioni\nBuone\nCaricato\n3 min fa\nNintendo Switch con Joy-Con originali blu e rosso neon, come da foto.\n\n* 🎮 Console Nintendo Switch\n* 🔵🔴 Joy-Con blu e rosso\n* 🖥️ Schermo integrato\n* 📸 Presenta normali segni di utilizzo visibili nelle foto\n* ⚠️ Venduta come da foto, senza accessori non presenti nell’immagine\n\nIdeale per chi cerca una Switch da utilizzare o da completare con gli accessori mancanti.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "normali segni di utilizzo visibili nelle foto, senza accessori non presenti nell'immagine",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 82.55
   }
 ]
