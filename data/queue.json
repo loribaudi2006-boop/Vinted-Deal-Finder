@@ -1,50 +1,5 @@
 [
   {
-    "id": "10005266931",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10005266931-xbox-one-lisez-la-description?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00379_6CYteSNjERcrkXamt9QznqjT/310x430/a7a416c6.webp?s=aee8ddeb06ba59dc347ad50e4e0194dd81ee64fa",
-    "addedAt": "2026-09-14T20:30:34.029Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
-    "id": "10005289883",
-    "category": "Console",
-    "title": "PS4 sans manettes",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10005289883-ps4-sans-manettes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_011e9_dUk4SZM262TEDuexePJRytKq/310x430/57b9c21c.webp?s=687c2520eec91806b3a6800c32dac8c18fcef9f8",
-    "addedAt": "2026-09-14T20:32:39.313Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
-    "id": "10005301577",
-    "category": "Console",
-    "title": "Nintendo Switch Lade Station",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10005301577-nintendo-switch-lade-station?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00474_TvHGzU9mzhUoTCBSGuNdFrE4/310x430/514b88ed.webp?s=c0813e817b4b99cd45d5afba163b1c50f11325d4",
-    "addedAt": "2026-09-14T20:33:41.936Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "10005345914",
     "category": "Console",
     "title": "Comandos Nintendo switch",
@@ -20165,7 +20120,12 @@
     "url": "https://www.vinted.it/items/10049298908-ps4-a-vendre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_004c4_vezzHJ7DQwH8XHERvJmU4is2/310x430/2532c4d2.webp?s=9cafaed24b10daf2a6da3721efabbe22290f7d03",
     "addedAt": "2026-09-18T20:27:04.938Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 à vendre\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPS4 à vendre quelques problèmes de disque, je pense qu’il me manque une pièce -10 € pour ça\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "quelques problèmes de disque, je pense qu’il me manque une pièce -10 € pour ça",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.05
   }
 ]
