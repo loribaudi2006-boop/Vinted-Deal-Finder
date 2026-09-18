@@ -1,38 +1,5 @@
 [
   {
-    "id": "9996215414",
-    "category": "Console",
-    "title": "Nintendo Switch 1",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/9996215414-nintendo-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_006bf_jiqLuzYaXF22YupvWadJT5WY/310x430/e1ae4718.webp?s=25e53984f1b7d041b8fa0c52eca790a40d156b1e",
-    "addedAt": "2026-09-14T07:05:49.110Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\nRimosso!\n+ 7\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch 1\nOttime·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendue dans sa boîte d’origine avec tous les éléments d’origine sauf les Joy Cons changés il y a 6 mois\nÉcran ne présente aucune rayure\nSeul défaut un joy con n’a plus le cran d’arrêt lorsque l’on joue en mode nomade mais cela n’empêche aucunement de jouer avec la console\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joy-con non originali cambiati 6 mesi fa; un joy-con non ha il cran d'arresto in modalità portatile.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 81.55
-  },
-  {
-    "id": "9996217860",
-    "category": "Console",
-    "title": "Suporte para controle de PS5",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9996217860-suporte-para-controle-de-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01777_zxVrvrXD4cL2u2jDxh4Hz6ti/310x430/173823b1.webp?s=382f7566ea10a1db2322e75d2976012d8a11565d",
-    "addedAt": "2026-09-14T07:06:51.833Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2€, sotto soglia"
-  },
-  {
     "id": "9979172222",
     "category": "Console",
     "title": "Doc Nintendo switch",
@@ -20471,7 +20438,12 @@
     "url": "https://www.vinted.it/items/10040776656-ps4-pro-neuf-lire-la-description?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00d4b_XB1rdNpaTNyDHCbudFhvZxpM/310x430/78c70a30.webp?s=141d7859d033de00a7c904226b26c1d626976168",
     "addedAt": "2026-09-18T07:00:21.137Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 pro neuf lire la description\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nJe vend cette ps4 pro neuf tout marche malheureusement sen fait exprès j’ai enlever 4 cable sinon la console fonctionne parfaitement pâte thermique a changé sinon tout fonctionne bien prix négociable dans la limite du négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "mancano 4 cavi, pasta termica da cambiare",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.55
   }
 ]
