@@ -1,23 +1,5 @@
 [
   {
-    "id": "10016936206",
-    "category": "Console",
-    "title": "Écran de switch",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10016936206-ecran-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0037d_6b7DyfSfUyP32KE5hEUXncq2/310x430/278987e3.webp?s=532de5bec3e4f2ae8de9279887459529e2e0c690",
-    "addedAt": "2026-09-15T22:15:50.138Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nÉcran de switch\nBuone·Nintendo·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nÉcran de switch sans manette car je l’ai est perdu elle marche encore très bien elle est déjà réinitialisé !\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Mancano i controller (Joy-Con), ma la console funziona ed è stata ripristinata",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 52.55
-  },
-  {
     "id": "10016974496",
     "category": "Console",
     "title": "Estuche Nintendo switch",
@@ -20799,5 +20781,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.15
+  },
+  {
+    "id": "10062395492",
+    "category": "Console",
+    "title": "Super quiet ps4 with 3 games (fifa 15",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10062395492-super-quiet-ps4-with-3-games-fifa-1518-and-mortal-combat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a4b_LiP67QtdrcxB9qHkwgcuVPdf/310x430/306e12aa.webp?s=7bc1f47fde3655effc4fad9f1e7f6400df216c14",
+    "addedAt": "2026-09-19T22:13:39.892Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "chi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSuper quiet ps4 with 3 games (fifa 15,18 and mortal combat)\nOttime·PlayStation·Caricato un minuto fa\n\n49,99 €\n\n53,19 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nIt may be the quietest ps4 there is u cant hear it at all (without disk)\ntheres a crack on the side of the power button but it doesnt affect it at all\n\nThe controller only charges at an angle may be broken so i dont recomend to trust thal i’ll work\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Crack on the side of the power button, controller charges only at an angle",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
+  },
+  {
+    "id": "10062404777",
+    "category": "Console",
+    "title": "xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10062404777-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0021a_gt6ZMKTDW5e8saSwZvjxAuLy/310x430/b16db70d.webp?s=0581d75df3daa5401fc6775d72645e9fac0f9f15",
+    "addedAt": "2026-09-19T22:15:44.896Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
