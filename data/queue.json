@@ -20325,5 +20325,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.8€, sotto soglia"
+  },
+  {
+    "id": "10053109658",
+    "category": "Console",
+    "title": "playstation 4 sony e controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10053109658-playstation-4-sony-e-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00f5d_ayWttDyfsd7fBmFnKW8nZD5e/310x430/2c9e8207.webp?s=5d41532357effe021ecb404332731480e60de8fa",
+    "addedAt": "2026-09-19T09:56:19.987Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "osso!\n+ 5\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 sony e controller\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nps4 sony,\ncomprata su vinted, presenta dei difetti:\n-il controller si scollega facilmente dalla console\n- é un po’ datata\nper il resto é funzionante però il difetto del controller può dare fastidio, si può però sistemare (così mi é stato detto).\nIn vendita c’è anche il controller originale con il proprio cavo di ricarica.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "il controller si scollega facilmente dalla console, console un po' datata",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
