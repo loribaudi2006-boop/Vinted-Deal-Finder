@@ -1,38 +1,5 @@
 [
   {
-    "id": "10007291756",
-    "category": "Console",
-    "title": "Nintendo Switch ladestation für mehrere Joy con Paris",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10007291756-nintendo-switch-ladestation-fur-mehrere-joy-con-paris?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00423_bYDQDn3iXzHdfSeyjqNJd93S/310x430/8defc782.webp?s=d94b329994a2b5f24bce738551c5fc66ad94c22e",
-    "addedAt": "2026-09-15T06:40:01.959Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-15€, sotto soglia"
-  },
-  {
-    "id": "10007306497",
-    "category": "Console",
-    "title": "Ps4 blanche",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10007306497-ps4-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0133c_YDnSkfnkKVSeT3BANGAU9yU1/310x430/86926dcd.webp?s=2d5b23e666fd4d80463deb2140d908b8963d6214",
-    "addedAt": "2026-09-15T06:42:07.083Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "blicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nPs4 blanche\nOttime·PlayStation·Caricato 19 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n19 min fa\nje vends cette ps4 car mon fils a eu le mode «  sans échec » il ne savais pas en sortir donc il a acheté une ps5 sinon elle est fonctionnel\nSpedizione\nda 9,49 €\nChiedi info",
-    "geminiFault": "Entrata in modalità senza échec (safe mode), il figlio non sapeva uscire e ha comprato una PS5",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
     "id": "10007348952",
     "category": "Console",
     "title": "Nintendo switch Zubehör",
@@ -19886,8 +19853,11 @@
     "url": "https://www.vinted.it/items/10051102038-nintendo-switch-oled?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0125b_dp56LEnEALCiDsjFuYUACr1x/310x430/ef7b9e5d.webp?s=8d203f1313171c1fe29a80c67c15ce31f5250107",
     "addedAt": "2026-09-19T06:04:01.806Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10051194978",
@@ -19912,6 +19882,19 @@
     "url": "https://www.vinted.it/items/10051210838-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0026b_DGCsqrazUYSc9SwxL857BUKM/310x430/da0af7f3.webp?s=762656718e63b03ac1fc0a3f3994f03d393197ec",
     "addedAt": "2026-09-19T06:31:14.007Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10051237379",
+    "category": "Console",
+    "title": "Ps4 pro a réparé si on si connais neuve",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 72% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10051237379-ps4-pro-a-repare-si-on-si-connais-neuve?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02034_22rQzZMxuCMfTRMwndHYWaJD/310x430/9cb6685d.webp?s=06ad967a91eaafa85321b005e1b16613e2e7d96d",
+    "addedAt": "2026-09-19T06:36:28.035Z",
     "processed": false,
     "triaged": false
   }
