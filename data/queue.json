@@ -20036,7 +20036,10 @@
     "url": "https://www.vinted.it/items/10050698242-playstation-5-face-plate-noir-standard?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02593_TCLBDUPfL8sktUixDRfFC2XG/310x430/e2694edf.webp?s=c2b58da2a25b8b0e220f57e0a5746846118def21",
     "addedAt": "2026-09-19T02:39:46.189Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
