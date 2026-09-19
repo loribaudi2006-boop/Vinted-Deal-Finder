@@ -1,20 +1,5 @@
 [
   {
-    "id": "10007348952",
-    "category": "Console",
-    "title": "Nintendo switch Zubehör",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10007348952-nintendo-switch-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00f00_XkbUitidF9Uxve34e7SVP2Zv/310x430/6b0dec10.webp?s=fad22d42117c1f0b5b92e0f06c96d9bfa0236663",
-    "addedAt": "2026-09-15T06:51:31.623Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
     "id": "10007381218",
     "category": "Console",
     "title": "Nintendo Switch gelb",
@@ -19895,6 +19880,19 @@
     "url": "https://www.vinted.it/items/10051237379-ps4-pro-a-repare-si-on-si-connais-neuve?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02034_22rQzZMxuCMfTRMwndHYWaJD/310x430/9cb6685d.webp?s=06ad967a91eaafa85321b005e1b16613e2e7d96d",
     "addedAt": "2026-09-19T06:36:28.035Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10051276688",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 42,
+    "totalPrice": 44.8,
+    "reason": "prezzo 78% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10051276688-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01171_ewRDn5JyivCSovMKhWGRwqpG/310x430/d2823fb6.webp?s=e871158798e51f1bb662b6976a96d480d2ce873d",
+    "addedAt": "2026-09-19T06:44:49.300Z",
     "processed": false,
     "triaged": false
   }
