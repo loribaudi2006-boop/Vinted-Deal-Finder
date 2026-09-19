@@ -1,20 +1,5 @@
 [
   {
-    "id": "10016174874",
-    "category": "Console",
-    "title": "Comando PS4 e para PC",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10016174874-comando-ps4-e-para-pc?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_001cc_CYqwtZ3Z1fxGTeb6wp1jPafJ/310x430/4cf36e3d.webp?s=a6a4c5f36b4bfcdaa17e0eb6e24dfb74a1696a6b",
-    "addedAt": "2026-09-15T20:20:59.169Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.8€, sotto soglia"
-  },
-  {
     "id": "10016264328",
     "category": "Console",
     "title": "Playstation 5 Slim 1T",
@@ -20718,5 +20703,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.2€, sotto soglia"
+  },
+  {
+    "id": "10061608082",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10061608082-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020ad_BcF29NyBjVCAibN2PXoCMuJy/310x430/b2767430.webp?s=4dd8148707261049573df0a8eb5ee245cb8da5b2",
+    "addedAt": "2026-09-19T20:22:24.162Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nwerkt goed\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 75.25
+  },
+  {
+    "id": "10061671752",
+    "category": "Console",
+    "title": "Nintendo DS fat - Leggi descrizione (schermo superiore non funzionante)",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10061671752-nintendo-ds-fat-leggi-descrizione-schermo-superiore-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0192c_iMASJyoDJfaycmj97BjiYxsH/310x430/7757b932.webp?s=52ed2b10e989ee39a2e31981f85119b7be53a0c7",
+    "addedAt": "2026-09-19T20:28:42.354Z",
+    "processed": false,
+    "triaged": false
   }
 ]
