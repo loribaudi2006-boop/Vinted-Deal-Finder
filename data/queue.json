@@ -1,21 +1,5 @@
 [
   {
-    "id": "10007071665",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10007071665-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0100a_TBpJGQTGR6jjN2ZW3151ghuT/310x430/abaa8499.webp?s=bb7a315667c7666ca025bb97285569dee9cc7a7f",
-    "addedAt": "2026-09-15T05:34:41.385Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10007097270",
     "category": "Console",
     "title": "Ps4 slim bianca funzionante",
@@ -19918,6 +19902,19 @@
     "url": "https://www.vinted.it/items/10050930249-ps4-fat-controller-a-50?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00d10_YDQvBXsB8DdvdoHPhmG5sF78/310x430/f3fda430.webp?s=8c74d0fc11c6a9121321afb02575590ec39eac4d",
     "addedAt": "2026-09-19T05:12:50.182Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10049625405",
+    "category": "Console",
+    "title": "Soporte original Nintendo switch",
+    "price": 11,
+    "totalPrice": 12.25,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10049625405-soporte-original-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02388_R7jAthXjy7qKFxJTLZ2LzGaY/310x430/e38e9640.webp?s=1144e0a4f09c7c9a0181c1aafc192a161ce198f0",
+    "addedAt": "2026-09-19T05:38:55.607Z",
     "processed": false,
     "triaged": false
   }
