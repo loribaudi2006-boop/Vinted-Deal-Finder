@@ -19902,8 +19902,11 @@
     "url": "https://www.vinted.it/items/10051053820-volent-et-protection-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01f2c_mtUrcYnEP6KYJq54xAdqhg83/310x430/83cb1e46.webp?s=7d77baf80a07f79d37de844430e2a0fc9b4466cd",
     "addedAt": "2026-09-19T05:49:23.210Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10051102038",
