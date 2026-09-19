@@ -20310,5 +20310,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 338.25
+  },
+  {
+    "id": "10052975971",
+    "category": "Console",
+    "title": "Xbox One Fat",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10052975971-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0171b_W7fDtAiYxwbPESe7vjHFXwuA/310x430/e5051e57.webp?s=c1e78de36c7274099fc42058bf4f4cd0c4659147",
+    "addedAt": "2026-09-19T09:45:52.348Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.8€, sotto soglia"
   }
 ]
