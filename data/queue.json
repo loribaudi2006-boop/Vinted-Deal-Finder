@@ -1,23 +1,5 @@
 [
   {
-    "id": "10016264328",
-    "category": "Console",
-    "title": "Playstation 5 Slim 1T",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10016264328-playstation-5-slim-1t?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01220_CbVvwUAhv8cwxmgn2Hdxo9xR/310x430/b842ecf9.webp?s=dd686579ed24652fba78054ea6893617508a0785",
-    "addedAt": "2026-09-15T20:31:27.151Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 5 Slim 1T\nOttime·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\n⚠️È SOLO UN ANNUNCIO NON ACQUISTARE, INFO IN PRIVATO⚠️\n\nPlayStation 5 Slim 1T perfette condizioni , per maggiori info contattare in privato.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 345
-  },
-  {
     "id": "10016339699",
     "category": "Console",
     "title": "PS3 non funzionante",
@@ -20732,7 +20714,39 @@
     "url": "https://www.vinted.it/items/10061671752-nintendo-ds-fat-leggi-descrizione-schermo-superiore-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0192c_iMASJyoDJfaycmj97BjiYxsH/310x430/7757b932.webp?s=52ed2b10e989ee39a2e31981f85119b7be53a0c7",
     "addedAt": "2026-09-19T20:28:42.354Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.3€, sotto soglia"
+  },
+  {
+    "id": "10061681278",
+    "category": "Console",
+    "title": "Boîte vide Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10061681278-boite-vide-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_009ec_eABqQKKXxVsQ5YsV4sEpo6ZK/310x430/847c5816.webp?s=aa4b27144d5cb16462f6fa08885cbcc15383383a",
+    "addedAt": "2026-09-19T20:30:50.138Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.45€, sotto soglia"
+  },
+  {
+    "id": "10061700892",
+    "category": "Console",
+    "title": "Boîte vide Switch",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 90% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10061700892-boite-vide-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01128_Q968R8NAhcu5ttnids36ZfPY/310x430/992b4601.webp?s=131a647eb1847ba15f22e880d946323b29b5cd39",
+    "addedAt": "2026-09-19T20:33:01.476Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-25€, sotto soglia"
   }
 ]
