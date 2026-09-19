@@ -1,35 +1,5 @@
 [
   {
-    "id": "10015641607",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10015641607-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0141e_mazGRLKJpHH4zFVzphm8yW6w/310x430/31c9817b.webp?s=1248316cfd34025d3abb96e170ed4a3b9f594091",
-    "addedAt": "2026-09-15T19:29:40.328Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.8€, sotto soglia"
-  },
-  {
-    "id": "10015666710",
-    "category": "Console",
-    "title": "Console XBOX One s",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10015666710-console-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00d0b_aXc4arsb1jCS3zYqvyV5VUGA/310x430/1c237fb6.webp?s=978a27e4cb24cbbe064438420a3c44c9dbf1b286",
-    "addedAt": "2026-09-15T19:31:45.709Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10015743779",
     "category": "Console",
     "title": "Lot de jeux switch",
