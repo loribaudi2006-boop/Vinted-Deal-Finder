@@ -19886,8 +19886,11 @@
     "url": "https://www.vinted.it/items/10049625405-soporte-original-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02388_R7jAthXjy7qKFxJTLZ2LzGaY/310x430/e38e9640.webp?s=1144e0a4f09c7c9a0181c1aafc192a161ce198f0",
     "addedAt": "2026-09-19T05:38:55.607Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10051053820",
@@ -19899,6 +19902,19 @@
     "url": "https://www.vinted.it/items/10051053820-volent-et-protection-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01f2c_mtUrcYnEP6KYJq54xAdqhg83/310x430/83cb1e46.webp?s=7d77baf80a07f79d37de844430e2a0fc9b4466cd",
     "addedAt": "2026-09-19T05:49:23.210Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10051102038",
+    "category": "Console",
+    "title": "Nintendo Switch OLED",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 81% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10051102038-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0125b_dp56LEnEALCiDsjFuYUACr1x/310x430/ef7b9e5d.webp?s=8d203f1313171c1fe29a80c67c15ce31f5250107",
+    "addedAt": "2026-09-19T06:04:01.806Z",
     "processed": false,
     "triaged": false
   }
