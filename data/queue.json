@@ -20058,5 +20058,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10050462205",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10050462205-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00da1_uGrcGsR11rc8ZLoxsQD9BpHS/310x430/9f869e60.webp?s=16c5c16e99982c26106c54afa13e18bbc7b27004",
+    "addedAt": "2026-09-19T00:56:17.057Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
