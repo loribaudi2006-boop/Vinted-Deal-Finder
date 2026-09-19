@@ -1,38 +1,5 @@
 [
   {
-    "id": "10015871360",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10015871360-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00f6b_oLjgVYqJhvqqE2ihq4wtHjPo/310x430/1d15ee3b.webp?s=cfb5e36718d7bb3c61fe8fef086a8d54ffe8870b",
-    "addedAt": "2026-09-15T19:50:39.155Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
-    "id": "10015940807",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10015940807-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02703_pM8TRWB9qapVGmPSoowrW9hV/310x430/30ebde38.webp?s=9aa00f17546b5d268abe3fe866d95cad6ba9e83f",
-    "addedAt": "2026-09-15T19:56:55.279Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "cità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nRéinitialiser, en bon état pas de boîte ni chargeur manque a l'arrière la petite béquille de maintien . Hors réduction vinted de mon compte\nSpedizione\nda 9,49 €",
-    "geminiFault": "senza scatola né caricabatterie, manca la béquille posteriore",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.8
-  },
-  {
     "id": "10015959022",
     "category": "Console",
     "title": "Ps4 mit Kabelzubehör",
@@ -20850,5 +20817,23 @@
     "geminiFault": "Console con tracce d'usura, un analogico privo di gommino, joy-con vissuti ma funzionanti, solo console e manette",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10061380766",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10061380766-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0176e_4ov12bz6sF8LsoL5fPjJdFi6/310x430/214ff6ac.webp?s=4b8094e8328dd3ac7978ae7cbc63800bd8f8666c",
+    "addedAt": "2026-09-19T19:57:13.488Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nDiscrete·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nLa consola tiene algúnos defectos,nesecita un mantenimiento y una reparación en la parte donde se meten los CD,pero la consola enciende con total normalidad y es silenciosa ,cuando enciende parece que va a hacer uido pero luego no se escucha nada\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Necessita di manutenzione e riparazione nella parte del lettore CD",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
