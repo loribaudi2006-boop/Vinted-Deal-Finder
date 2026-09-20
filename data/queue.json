@@ -20759,5 +20759,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10063471729",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10063471729-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00920_K8TcyiGP7y9TuA2a1tQ8xRXb/310x430/ce5a3526.webp?s=83d2638a2d09400b893d031fa7e868d339df73de",
+    "addedAt": "2026-09-20T04:50:09.503Z",
+    "processed": false,
+    "triaged": false
   }
 ]
