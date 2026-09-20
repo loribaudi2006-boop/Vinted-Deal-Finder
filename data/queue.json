@@ -24072,5 +24072,20 @@
     "geminiFault": "Pas de câble nis mannette , un peut poussière",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10078238427",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10078238427-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01247_1jWwXX89WmYCAyJnnEcUzYrY/310x430/9a606d2f.webp?s=3e090694bca7610538215a25a0a83796f5a1f533",
+    "addedAt": "2026-09-20T22:50:05.734Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.55€, sotto soglia"
   }
 ]
