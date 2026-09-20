@@ -23757,5 +23757,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6.55€, sotto soglia"
+  },
+  {
+    "id": "10077201246",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10077201246-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00fba_5GWzSG8zJfVqiJXCCMw2yR4T/310x430/6fc039ea.webp?s=3d203acf5cf132d5a08cba646458fdba2fd468df",
+    "addedAt": "2026-09-20T20:26:22.413Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ollezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·Sony·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nAvevo già messo questo annuncio, ma con il gioco the last of us (mi sono accorto che non fosse presente il CD dentro).\nLa console funziona perfettamente.\nIl controller funziona ma a volte l'analogico di sinistra fa' capricci.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller con analogico sinistro che a volte fa capricci, gioco The Last of Us assente",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
