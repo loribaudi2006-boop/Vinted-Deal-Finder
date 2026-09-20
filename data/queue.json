@@ -1,37 +1,5 @@
 [
   {
-    "id": "10018113361",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10018113361-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0128e_U2scYkdqevthQhs9mLS5w78M/310x430/37eefd8b.webp?s=f4690c3e3f65a532c27108970860bbcf84c1fce6",
-    "addedAt": "2026-09-16T06:02:50.078Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10018152965",
-    "category": "Console",
-    "title": "Nintendo switch Console seule",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10018152965-nintendo-switch-console-seule?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00551_kQmGtEm9BBxiihpTiCx5aCvu/310x430/75361f0a.webp?s=25b4e509d09f4652debad558f15d000e19812e57",
-    "addedAt": "2026-09-16T06:11:09.820Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10018254858",
     "category": "Console",
     "title": "PS4 fat",
@@ -20743,5 +20711,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10063717674",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10063717674-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02221_xwHewiT8GLmCj38RCZNsWRG6/310x430/b758be01.webp?s=f99cce1e36d1332060e431aacc71a5fb9787179b",
+    "addedAt": "2026-09-20T06:26:09.865Z",
+    "processed": false,
+    "triaged": false
   }
 ]
