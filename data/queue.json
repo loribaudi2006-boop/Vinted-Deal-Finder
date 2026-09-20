@@ -1,20 +1,5 @@
 [
   {
-    "id": "10018373986",
-    "category": "Console",
-    "title": "(Annuncio non acquistare) PlayStation 5 Slim 1 T",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10018373986-annuncio-non-acquistare-playstation-5-slim-1-t?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02282_zWkyy37TisJzkF5oq6x8Q195/310x430/daae0890.webp?s=005783948d70e706b01ab0c57cd7beb1393d3e87",
-    "addedAt": "2026-09-16T06:58:59.506Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~340€, sotto soglia"
-  },
-  {
     "id": "10018445166",
     "category": "Console",
     "title": "Ps4 sony",
@@ -20659,7 +20644,25 @@
     "url": "https://www.vinted.it/items/10063717674-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02221_xwHewiT8GLmCj38RCZNsWRG6/310x430/b758be01.webp?s=f99cce1e36d1332060e431aacc71a5fb9787179b",
     "addedAt": "2026-09-20T06:26:09.865Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10063910806",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10063910806-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_017d2_HeEbvZct7Bg2v64ZZmnvoFAN/310x430/22b5e277.webp?s=0a02713d8a321be1f2e12b71157e4f928d13eeea",
+    "addedAt": "2026-09-20T07:03:44.544Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
   }
 ]
