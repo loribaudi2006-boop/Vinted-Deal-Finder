@@ -1,23 +1,5 @@
 [
   {
-    "id": "10028594035",
-    "category": "Console",
-    "title": "Nintendo Switch sans manette",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10028594035-nintendo-switch-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_001cb_DBAL5ycwhdFZiD12V81qio51/310x430/782c8ef1.webp?s=6b22937a4ade18fd17f560c0585da3f6e7914a63",
-    "addedAt": "2026-09-16T23:28:17.174Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "licità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch sans manette\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nBonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller (sans manette)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 56.3
-  },
-  {
     "id": "10028605203",
     "category": "Console",
     "title": "Nintendo switch",
@@ -24123,5 +24105,33 @@
     "geminiFault": "Schermo graffiato, manca il Joycon destro, presente solo il dock",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10078399593",
+    "category": "Console",
+    "title": "Ps4 problème de ventilation et pour pièces deux manettes et je sais pas quelles sont les problèmes",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 67% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10078399593-ps4-probleme-de-ventilation-et-pour-pieces-deux-manettes-et-je-sais-pas-quelles-sont-les-problemes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022a4_qDvBegnMbqWa2ZVAMGWe2teU/310x430/65b3ddf7.webp?s=79d3f05472bf2d6489dde30da61b789b0b9216b0",
+    "addedAt": "2026-09-20T23:29:49.996Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10078401901",
+    "category": "Console",
+    "title": "Scocca bianca ps5 originale",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10078401901-scocca-bianca-ps5-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01be4_ijcie3P8GYkjzBJx2Zh3h9nx/310x430/4c84f90d.webp?s=28baebb380cfd474a48cf2117be7264a0be90ea3",
+    "addedAt": "2026-09-20T23:30:52.674Z",
+    "processed": false,
+    "triaged": false
   }
 ]
