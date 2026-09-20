@@ -1,20 +1,5 @@
 [
   {
-    "id": "10027977920",
-    "category": "Console",
-    "title": "Console Xbox 360 Fat Bianca - Non testata (Da testare / Per parti di ricambio)",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10027977920-console-xbox-360-fat-bianca-non-testata-da-testare-per-parti-di-ricambio?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0127b_DENy6qoYqsVcSEPNK5beLWyZ/310x430/977d45f3.webp?s=4787414c69fa27e3d7088e2be5d047c9096dd1bd",
-    "addedAt": "2026-09-16T21:11:19.936Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.05€, sotto soglia"
-  },
-  {
     "id": "10028044041",
     "category": "Console",
     "title": "Xbox one s",
@@ -23817,5 +23802,66 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10077661890",
+    "category": "Console",
+    "title": "Nintendo switch light",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10077661890-nintendo-switch-light?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0254a_BawYYyfqGzBvj4PW5JKGzsbA/310x430/31d9253d.webp?s=28d3b9ca1d2ef930ed70b097679ba8e308a84a40",
+    "addedAt": "2026-09-20T21:14:41.111Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch light\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nBon etat\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10077660560",
+    "category": "Console",
+    "title": "Socle Nintendo Switch blanc",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10077660560-socle-nintendo-switch-blanc?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_011af_YCxevQiwPUMSUvBiybGEqBFw/310x430/9755ef4a.webp?s=189bcdb43658e65f94da81d9b20348423678584b",
+    "addedAt": "2026-09-20T21:14:41.112Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.3€, sotto soglia"
+  },
+  {
+    "id": "10077678216",
+    "category": "Console",
+    "title": "Étui switch 2",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10077678216-etui-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006ff_ZrFV9UgnEEE75ot4UKRXTTLm/310x430/bf6f8662.webp?s=727f1edd75c4ebbd3d933c8dd751ec9b96d14117",
+    "addedAt": "2026-09-20T21:16:47.397Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
+  },
+  {
+    "id": "10077709641",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10077709641-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0180f_ur43mpj6PrRjG8j5fayZf8Up/310x430/3547e723.webp?s=87fb4dd04693e652f256c9e91fdf505497e827d3",
+    "addedAt": "2026-09-20T21:20:59.405Z",
+    "processed": false,
+    "triaged": false
   }
 ]
