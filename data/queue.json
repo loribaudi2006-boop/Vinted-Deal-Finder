@@ -21177,5 +21177,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10065663722",
+    "category": "Console",
+    "title": "Xbox One usata",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10065663722-xbox-one-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b80_Gvd1xtPwWy1DV6L7yf45aAuF/310x430/0473e468.webp?s=7b3a7fa462e21bb8deaed8665763daca3fcbaf2c",
+    "addedAt": "2026-09-20T09:36:17.109Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
