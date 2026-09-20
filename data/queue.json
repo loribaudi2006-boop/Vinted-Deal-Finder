@@ -20787,5 +20787,20 @@
     "geminiFault": "piccolo colpo sullo schermo che non pregiudica l'utilizzo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10064184906",
+    "category": "Console",
+    "title": "Nintendo Switch Joy con Controller zubehör",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10064184906-nintendo-switch-joy-con-controller-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01bd7_HY9rgBx31NqGjYHFxQSQFRsr/310x430/2d902f70.webp?s=6f235fccb50ba6f21833e69aec79aacc4fe2b476",
+    "addedAt": "2026-09-20T07:42:21.667Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-38.2€, sotto soglia"
   }
 ]
