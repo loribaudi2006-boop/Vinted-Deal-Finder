@@ -23787,5 +23787,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10077566093",
+    "category": "Console",
+    "title": "Nintendo Switch Ring-Con + Beingurt / Leg Strap - Ring Fit Adventure Zubehör",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10077566093-nintendo-switch-ring-con-beingurt-leg-strap-ring-fit-adventure-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_002cd_TaUm9D7kLAg3pJWqUEDd9xGK/310x430/bcd71fad.webp?s=845a47af92c20ff8926541ab736f40f53dcb082f",
+    "addedAt": "2026-09-20T21:03:09.210Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10077619466",
+    "category": "Console",
+    "title": "PlayStation 4 + manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10077619466-playstation-4-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007c2_i1mcriRUi6Rquj5LEbEBy5kX/310x430/e6d1646b.webp?s=426202470ff1e47ebc1a463ef16e94d8e6ff8b69",
+    "addedAt": "2026-09-20T21:09:26.534Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
