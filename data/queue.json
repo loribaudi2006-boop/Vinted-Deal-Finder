@@ -20770,8 +20770,11 @@
     "url": "https://www.vinted.it/items/10063308628-ps4-leggi-descizione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0107c_mAVQtQDpK214Hy39oVHDd874/310x430/619075b0.webp?s=d00fe8a50e092620165a38d94ce65f06e5fe66fd",
     "addedAt": "2026-09-20T03:13:03.263Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10063319809",
