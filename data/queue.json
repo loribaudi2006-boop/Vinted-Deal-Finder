@@ -20754,7 +20754,10 @@
     "url": "https://www.vinted.it/items/10063130199-lot-de-2-ps4-a-reparer-pour-pieces?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_023eb_gwCLdmTPaDGtA1kiiYBNU9ao/310x430/dafd61aa.webp?s=a7a284c4df56664befe988f5cde387028707b93b",
     "addedAt": "2026-09-20T01:53:36.951Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
