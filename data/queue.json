@@ -20720,8 +20720,10 @@
     "url": "https://www.vinted.it/items/10064006083-personalisiertes-nintendo-case-deine-wunschhulle-switch-3ds-ds-game-boy?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_024b4_9Z9Dx31S82q5Rf7gdfLDJ29P/310x430/7c03fc75.webp?s=29a3077680d3bd9e76a2bbe7305ef70f6a505233",
     "addedAt": "2026-09-20T07:24:37.571Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   },
   {
     "id": "10064048379",
@@ -20733,7 +20735,57 @@
     "url": "https://www.vinted.it/items/10064048379-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00f3d_ggn6e2VfVBRtTwj5KnKjZy8V/310x430/cedd859b.webp?s=ef1841fe746449a3e17f35558d0fefc12e238a8c",
     "addedAt": "2026-09-20T07:24:37.572Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
+  },
+  {
+    "id": "10064068764",
+    "category": "Console",
+    "title": "Until down PS4",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10064068764-until-down-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f56_uR4sGFfRdZhNWtM3jSs68EfH/310x430/8874e6f3.webp?s=8cb040334101f53912a7491ec0b6cb83882c672d",
+    "addedAt": "2026-09-20T07:26:42.628Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.55€, sotto soglia"
+  },
+  {
+    "id": "10064089088",
+    "category": "Console",
+    "title": "Gameboy Advance + 2 giochi",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "parola chiave: \"non si accende\"",
+    "url": "https://www.vinted.it/items/10064089088-gameboy-advance-2-giochi-la-console-non-si-accende?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01134_izQd2z3shhExfHswAkZZBTxv/310x430/af8a2c76.webp?s=1f9104c3408372403d0f89d10efe71fb307321e5",
+    "addedAt": "2026-09-20T07:29:50.148Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.85€, sotto soglia"
+  },
+  {
+    "id": "10064101526",
+    "category": "Console",
+    "title": "Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10064101526-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0187e_bMURaJyEb5spChZaKefuSUDz/310x430/fb229234.webp?s=d679d5aaa449ed0bb3665641d18cba79c149fb93",
+    "addedAt": "2026-09-20T07:30:52.756Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSwitch fonctionne parfaitement juste un petit coup sur l'écran comme sur la photo ne gêne en rein a sont utilisations\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "piccolo colpo sullo schermo che non pregiudica l'utilizzo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
