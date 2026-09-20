@@ -1,21 +1,5 @@
 [
   {
-    "id": "10018017656",
-    "category": "Console",
-    "title": "PS5 Games/Spiele",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10018017656-ps5-gamesspiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01907_6ksLaWjC3M99iugB5ibX65VR/310x430/28f63ac5.webp?s=4c072d0589c2b2dd3b85afabee8019691d4a9c07",
-    "addedAt": "2026-09-16T05:26:28.699Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10018034848",
     "category": "Console",
     "title": "Ps4 slim",
@@ -20770,7 +20754,10 @@
     "url": "https://www.vinted.it/items/10063471729-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00920_K8TcyiGP7y9TuA2a1tQ8xRXb/310x430/ce5a3526.webp?s=83d2638a2d09400b893d031fa7e868d339df73de",
     "addedAt": "2026-09-20T04:50:09.503Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
