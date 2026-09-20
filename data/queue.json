@@ -1,20 +1,5 @@
 [
   {
-    "id": "10017357671",
-    "category": "Console",
-    "title": "🇵🇹 Catálogo PS4 Oficial PlayStation Portugal 🇵🇹",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10017357671-catalogo-ps4-oficial-playstation-portugal?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0028e_XjZgbkt8Kbpbg7Yyu5p4GvCo/310x430/0a697420.webp?s=0de32083c0df3c663ec5a8e3f15b640ccbde3761",
-    "addedAt": "2026-09-16T00:23:06.942Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.45€, sotto soglia"
-  },
-  {
     "id": "10017432670",
     "category": "Console",
     "title": "PS4 + Comando + Cabos + 3 jogos",
@@ -20807,6 +20792,21 @@
     "url": "https://www.vinted.it/items/10062841944-switch-2-xxl-bundle-bald-erhaltlich?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0038d_cgeLhQwfHtd8dTuAzwDxBLj1/310x430/a5322588.webp?s=78d0d587478ac13c1038fd9a73780a1c63d7944f",
     "addedAt": "2026-09-20T00:08:05.725Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10062873539",
+    "category": "Console",
+    "title": "Nintendo Switch 2 XXL-Bundle",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10062873539-nintendo-switch-2-xxl-bundle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02499_et3YurKGh1WQ2f1NM8CWhjRr/310x430/72d5dd3d.webp?s=31f390916b466e366dd70d62cf4ad8583780628a",
+    "addedAt": "2026-09-20T00:19:35.431Z",
     "processed": true,
     "triaged": true,
     "triageResult": "discard",
