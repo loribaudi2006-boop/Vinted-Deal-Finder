@@ -20772,5 +20772,18 @@
     "addedAt": "2026-09-20T03:13:03.263Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10063319809",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10063319809-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01061_MFuoFvT1KMRLTWkkPwm7kuGg/310x430/e0e5c472.webp?s=9b31a874e6eb29fb1531bb399446f3b845af91fb",
+    "addedAt": "2026-09-20T03:19:18.688Z",
+    "processed": false,
+    "triaged": false
   }
 ]
