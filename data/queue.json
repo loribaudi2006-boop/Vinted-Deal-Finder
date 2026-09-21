@@ -1,21 +1,5 @@
 [
   {
-    "id": "10029160450",
-    "category": "Console",
-    "title": "PlayStation 5",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10029160450-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02445_ZmxJJmxbPaCbfEKX1EVD3Ltm/310x430/99550c27.webp?s=00a8e7fddae60310f9e9284a3e9acaf7c5e013d5",
-    "addedAt": "2026-09-17T03:09:52.129Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10029184778",
     "category": "Console",
     "title": "PlayStation 4",
@@ -24195,7 +24179,10 @@
     "url": "https://www.vinted.it/items/10078989271-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01299_FzuiEfGHQLLXibWfFBoQJPmz/310x430/88297c29.webp?s=6334731b76de4f15717613d11943d687eba9204a",
     "addedAt": "2026-09-21T02:43:16.118Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
