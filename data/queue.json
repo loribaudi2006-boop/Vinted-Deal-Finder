@@ -1,20 +1,5 @@
 [
   {
-    "id": "10031057210",
-    "category": "Console",
-    "title": "Playstztion2 per ricambi",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/10031057210-playstztion2-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00475_Ww3927wWfR2Dvz2tRV3hsoeR/310x430/b7f75e35.webp?s=e6c1a94820c0aef9390dd6eec1887789f2c2767a",
-    "addedAt": "2026-09-17T09:36:30.920Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.55€, sotto soglia"
-  },
-  {
     "id": "10031137152",
     "category": "Console",
     "title": "Nintendo switch",
@@ -24202,5 +24187,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10080865717",
+    "category": "Console",
+    "title": "Nintendo Switch Lite Gelb inklusive Animal Crossing",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10080865717-nintendo-switch-lite-gelb-inklusive-animal-crossing?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_014ad_61KfXfcP9sd3DgUDQdyzrE64/310x430/6a8847dd.webp?s=d806c83db9ff3eacd51dd3fc2bd2f894e9fe2696",
+    "addedAt": "2026-09-21T09:29:20.499Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Lite Gelb inklusive Animal Crossing\nBuone·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nMit Originalkarton, Schutzhülle und Tasche. Funktioniert einwandfrei, nur optische Gebrauchsspuren. Inklusive dem Spiel Animal Crossing (ohne Verpackung!)\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "solo optische Gebrauchsspuren",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 30.25
+  },
+  {
+    "id": "10080945952",
+    "category": "Console",
+    "title": "Gaming-Headset für PS4 ISY IC-1001",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10080945952-gaming-headset-fur-ps4-isy-ic-1001?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e08_SZu2oWzThoCXcCD2ZRvx3f5v/310x430/90053115.webp?s=90d93686d51137c3b0e1e66bdef67e81502a9d49",
+    "addedAt": "2026-09-21T09:36:40.511Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
   }
 ]
