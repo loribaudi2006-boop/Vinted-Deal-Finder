@@ -1,23 +1,5 @@
 [
   {
-    "id": "10039478270",
-    "category": "Console",
-    "title": "Ps4 weiß nur heute 60€",
-    "price": 60,
-    "totalPrice": 60,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10039478270-ps4-weiss-nur-heute-60eur?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00df3_Tn2tySMDphJoonw41Jymit67/310x430/4b99db89.webp?s=6e1ee6ccebf88db4d27bff88a480266e060cf667",
-    "addedAt": "2026-09-17T22:49:51.589Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "licità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 weiß nur heute 60€\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nFunktioniert einwandfrei\nHat aber Gebrauchsspuren\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Gebrauchsspuren (segni d'uso)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35
-  },
-  {
     "id": "10039511282",
     "category": "Console",
     "title": "Xbox One mit Spiel und Zubehör",
@@ -24739,5 +24721,20 @@
     "geminiFault": "joystick un po' rivedendo levetta movimento",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 57.85
+  },
+  {
+    "id": "10090113225",
+    "category": "Console",
+    "title": "Soporte PS4 slim",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10090113225-soporte-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01493_xbcJYEPZwndpQdbQ7rpHZV22/310x430/6aea4ad3.webp?s=8f4cc294aaeef1377a8965536ba56a0991b053f4",
+    "addedAt": "2026-09-21T22:50:59.914Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.8€, sotto soglia"
   }
 ]
