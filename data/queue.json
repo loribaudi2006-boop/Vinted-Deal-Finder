@@ -24211,8 +24211,11 @@
     "url": "https://www.vinted.it/items/10079329801-sony-playstation-4-ps4-500gb-cuh-1004a-schwarz-kabel-gebraucht?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0002b_cwYMBmmpdpWcQvTg445v9TRE/310x430/7b9ec1f8.webp?s=b11e67acafa7138e20df3af849a3ff21e2c498f1",
     "addedAt": "2026-09-21T05:42:38.096Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10079384239",
@@ -24224,6 +24227,32 @@
     "url": "https://www.vinted.it/items/10079384239-console-playstation-4-ps4-fat-modello-originale-cph-1004a?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01c72_BKJVjLGrhhiMz8NmKy3h8saP/310x430/351bcca5.webp?s=5079460f25fa3a318cb485fa795719892a473257",
     "addedAt": "2026-09-21T06:01:24.182Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10079420996",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10079420996-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003a6_NTTf9aNR8TGKScWBNswZhm2y/310x430/e22c16a5.webp?s=c20be234870e5beff4a4b891dccf11f91c2edc27",
+    "addedAt": "2026-09-21T06:12:53.052Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10079438043",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Slim Konsole",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10079438043-sony-playstation-4-slim-konsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0032b_ZHZkiJwQBYyyGvZWCnfYrbrJ/310x430/6d92caef.webp?s=c7357749fd82fba6a3468f83422b6ca5434a93d1",
+    "addedAt": "2026-09-21T06:18:05.699Z",
     "processed": false,
     "triaged": false
   }
