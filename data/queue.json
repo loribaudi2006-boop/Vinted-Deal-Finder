@@ -24721,5 +24721,23 @@
     "geminiFault": "Untested (non testato)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10089923886",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10089923886-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0207b_eEUysSQKckyE4NCdKHGK5szh/310x430/2854ed05.webp?s=86d459a9fa125a6d97398c63039002f8e43aceff",
+    "addedAt": "2026-09-21T22:08:06.712Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nJe vends cette Nintendo Switch avec ses Joy-Con colorés (bleu, vert et rose). Console fonctionnelle, idéale pour les amateurs de jeux Nintendo !\n- Type de produit : Console portable et de salon\n- Marque : Nintendo\n- Modèle : Switch\n- Couleur : Noir avec Joy-Con bleu, vert et rose\n- Accessoires inclus : 5 Joy-Con (bleu, vert, rose et noir ), Station d'accueil, et chargeur fonctionne parfaitement en mode docké\nÉtat satisfaisant.\nJe donne également avec une deuxième console pour pieces car elle ne s'allume plus\nN'hésitez pas à me contacter pour plus d'informations ou de photos !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Una console non si accende (per pezzi di ricambio), Joy-Con extra, condizioni estetiche e funzionali da verificare",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80
   }
 ]
