@@ -24135,5 +24135,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "10078507075",
+    "category": "Console",
+    "title": "Soporte carga Nintendo switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10078507075-soporte-carga-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01fc6_Xw5rxsZcLqHUgDyT9ZPb8LtZ/310x430/664ddb1b.webp?s=630d0a7a08e8d5f2538bb2d2eed802c028d30f80",
+    "addedAt": "2026-09-21T00:00:08.758Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
   }
 ]
