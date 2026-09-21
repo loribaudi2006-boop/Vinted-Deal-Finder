@@ -24168,5 +24168,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10079138620",
+    "category": "Console",
+    "title": "Nintendo switch avec jeux digitaux dessus",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10079138620-nintendo-switch-avec-jeux-digitaux-dessus?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01576_TPPo4KiNggRT2ESbs8S45K12/310x430/a367a8c5.webp?s=d87b647a407298c0fff6bdd9aa19fe8c7f2bfa82",
+    "addedAt": "2026-09-21T04:04:36.393Z",
+    "processed": false,
+    "triaged": false
   }
 ]
