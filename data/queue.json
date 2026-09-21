@@ -1,23 +1,5 @@
 [
   {
-    "id": "10039406994",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10039406994-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00ac5_W5CXiHhiCxHFmkPcbJmpjsKP/310x430/11a5b3da.webp?s=b4d6c8de467bb55415996403208e9f5525b1165d",
-    "addedAt": "2026-09-17T22:31:04.053Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nweg wegens geen gebruik wij hebben een 5 nu\n500gb\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10039430848",
     "category": "Console",
     "title": "playstation 4 slim",
@@ -24724,5 +24706,20 @@
     "geminiFault": "Audio non funzionante, un joystick leggermente scollato, senza caricabatterie",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.25
+  },
+  {
+    "id": "10090026811",
+    "category": "Console",
+    "title": "PS4 Move em caixa - Playstation 4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10090026811-ps4-move-em-caixa-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00956_ddvvyNx5eajZtkQ1uEpfySS2/310x430/5acdadec.webp?s=e618bb1dc96ed21d46debfd83f72c0fd5016dbe0",
+    "addedAt": "2026-09-21T22:30:05.903Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
