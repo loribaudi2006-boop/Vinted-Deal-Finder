@@ -1,35 +1,5 @@
 [
   {
-    "id": "10039114735",
-    "category": "Console",
-    "title": "Switch 1. Weißer",
-    "price": 19.99,
-    "totalPrice": 21.69,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10039114735-switch-1-weisser-schachtel-und-anleger?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_014cc_ynkt7dfUkLFBHtMBQMu9RYob/310x430/53716e1b.webp?s=1b793a5ec85f50df8f2120af098ba45fb2af961e",
-    "addedAt": "2026-09-17T21:42:57.590Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.31€, sotto soglia"
-  },
-  {
-    "id": "10039105833",
-    "category": "Console",
-    "title": "Switch lite noire pour pièce",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10039105833-switch-lite-noire-pour-piece?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00f9a_gtMwU3exAjeVF9m8ETfrG5op/310x430/9de286d0.webp?s=09eaef0713a54c89b4b2b4faf968df30d31add07",
-    "addedAt": "2026-09-17T21:42:57.590Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10039265704",
     "category": "Console",
     "title": "Nintendo Switch Lite",
@@ -24681,7 +24651,12 @@
     "url": "https://www.vinted.it/items/10089727447-nintendo-switch-con-giochi-riservata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_005a1_V8RWDqMNRrstNFxfVoxLS7qJ/310x430/ae8e82e9.webp?s=5a9179751cef4d91df3b6752576a34c25e0e39b1",
     "addedAt": "2026-09-21T21:33:35.908Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch con Giochi Riservata\nOttime·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nOttime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 60.05
   }
 ]
