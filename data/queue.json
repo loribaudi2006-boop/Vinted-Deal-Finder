@@ -1,21 +1,5 @@
 [
   {
-    "id": "10028916936",
-    "category": "Console",
-    "title": "Nintendo Switch Joycon",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10028916936-nintendo-switch-joycon-gebraucht?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00191_xsBd2y6fRZEm8K9GgdsdpoZL/r2/310x430/a83d14b7.webp?s=c851aae58c96f8769a23aff6bf9f2fe225fc0cdf",
-    "addedAt": "2026-09-17T01:23:05.622Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10029033771",
     "category": "Console",
     "title": "Ps4 spiele zu verkaufen",
@@ -24168,5 +24152,31 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.3
+  },
+  {
+    "id": "10078710128",
+    "category": "Console",
+    "title": "Soporte mando ps5",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10078710128-soporte-mando-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00448_UCsf9oZoR8qsRz7Xo9p51L5Y/310x430/53ef160b.webp?s=2090077aebecf137bf4b6ad209cb553488247cf9",
+    "addedAt": "2026-09-21T01:18:49.375Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10078694490",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10078694490-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_024fa_uts6NBCjEWY3MbC2fNvMyLMV/310x430/9463b726.webp?s=0c32c07ab727a9cc252254d044342ff5d7ff94b7",
+    "addedAt": "2026-09-21T01:18:49.376Z",
+    "processed": false,
+    "triaged": false
   }
 ]
