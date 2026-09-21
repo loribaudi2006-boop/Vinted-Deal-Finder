@@ -1,20 +1,5 @@
 [
   {
-    "id": "10032191145",
-    "category": "Console",
-    "title": "Sony Playstation 4 CUH-2216B PS4 Konsole 1TB Slim Spielekonsole",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10032191145-sony-playstation-4-cuh-2216b-ps4-konsole-1tb-slim-spielekonsole?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_025d3_QZkmCXqrLqTRoQ13enNUtD7t/310x430/9cc5ff3f.webp?s=7f959f07b0bd46c7f3bbf5c0ac95b57789302c8b",
-    "addedAt": "2026-09-17T11:24:18.572Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10032231404",
     "category": "Console",
     "title": "Kinect - xbox 360 (per pezzi di ricambio)",
@@ -24652,5 +24637,38 @@
     "geminiFault": "alcuni bottoni rotti, parzialmente funzionale, sistema funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10082127480",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10082127480-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024d1_bdwcU29oeU2dUW2qLjT6pWtw/310x430/9d6694a1.webp?s=1330910dd8594bdcb23c8989227eb32db88bc246",
+    "addedAt": "2026-09-21T11:22:42.337Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch en muy buen estado, con funda, mando, cargador oficial, y complemento para poder jugar en la televesion. Viene con dos juegos, el fifa 20 y el Super Mario Odissey. Tiene dos grietas muy pequeñas apenas visibles que no molestan nada para jugar.\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Due crepe molto piccole appena visibili",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 75.25
+  },
+  {
+    "id": "10082151709",
+    "category": "Console",
+    "title": "Laccetti nintendo switch",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10082151709-laccetti-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0015f_xrM3JSuD5g1tU53ERKdoE7jm/310x430/882fbbcc.webp?s=4cfca44a6681fbe3c63f63803fd108d6080cfd5a",
+    "addedAt": "2026-09-21T11:25:49.854Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.1€, sotto soglia"
   }
 ]
