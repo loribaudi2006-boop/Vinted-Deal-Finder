@@ -1,21 +1,5 @@
 [
   {
-    "id": "10029306299",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10029306299-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a23_fr5PfVtcmKW8WFJbzCUM9xHG/310x430/5aa12087.webp?s=5c2ec3c42027df8be2f1ad55d90b3b18d875cfa1",
-    "addedAt": "2026-09-17T04:33:31.156Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10029368725",
     "category": "Console",
     "title": "PS4 Slim 1To",
@@ -24179,8 +24163,11 @@
     "url": "https://www.vinted.it/items/10079138620-nintendo-switch-avec-jeux-digitaux-dessus?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01576_TPPo4KiNggRT2ESbs8S45K12/310x430/a367a8c5.webp?s=d87b647a407298c0fff6bdd9aa19fe8c7f2bfa82",
     "addedAt": "2026-09-21T04:04:36.393Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10079158324",
