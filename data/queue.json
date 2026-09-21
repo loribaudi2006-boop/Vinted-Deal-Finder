@@ -24163,8 +24163,11 @@
     "url": "https://www.vinted.it/items/10078710128-soporte-mando-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00448_UCsf9oZoR8qsRz7Xo9p51L5Y/310x430/53ef160b.webp?s=2090077aebecf137bf4b6ad209cb553488247cf9",
     "addedAt": "2026-09-21T01:18:49.375Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10078694490",
@@ -24176,6 +24179,22 @@
     "url": "https://www.vinted.it/items/10078694490-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_024fa_uts6NBCjEWY3MbC2fNvMyLMV/310x430/9463b726.webp?s=0c32c07ab727a9cc252254d044342ff5d7ff94b7",
     "addedAt": "2026-09-21T01:18:49.376Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10078857861",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10078857861-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00762_8J8csGz6um5psEa39zyoBNRx/310x430/b48ace3f.webp?s=6815b314e43f9084b18584170ad3328212634772",
+    "addedAt": "2026-09-21T01:51:08.732Z",
     "processed": false,
     "triaged": false
   }
