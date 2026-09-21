@@ -1,21 +1,5 @@
 [
   {
-    "id": "10029513622",
-    "category": "Console",
-    "title": "Playstation 5 mit spiele und zubehör",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10029513622-playstation-5-mit-spiele-und-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_010b1_Cc7AX3XNd7MBTSx1LtMVEaZr/310x430/b185c4a7.webp?s=a631168f5a3ad5b15f672dbcfaf0481fabd48d77",
-    "addedAt": "2026-09-17T06:02:20.130Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10029626159",
     "category": "Console",
     "title": "Mando ps4",
@@ -24227,6 +24211,19 @@
     "url": "https://www.vinted.it/items/10079329801-sony-playstation-4-ps4-500gb-cuh-1004a-schwarz-kabel-gebraucht?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0002b_cwYMBmmpdpWcQvTg445v9TRE/310x430/7b9ec1f8.webp?s=b11e67acafa7138e20df3af849a3ff21e2c498f1",
     "addedAt": "2026-09-21T05:42:38.096Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10079384239",
+    "category": "Console",
+    "title": "Console PlayStation 4 (PS4 Fat) - Modello Originale CPH-1004A",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10079384239-console-playstation-4-ps4-fat-modello-originale-cph-1004a?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c72_BKJVjLGrhhiMz8NmKy3h8saP/310x430/351bcca5.webp?s=5079460f25fa3a318cb485fa795719892a473257",
+    "addedAt": "2026-09-21T06:01:24.182Z",
     "processed": false,
     "triaged": false
   }
