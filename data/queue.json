@@ -24121,5 +24121,41 @@
     "geminiFault": "Latenza su un Joy-Con e problema al sistema di aggancio/rilascio del Joy-Con stesso",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "10080009493",
+    "category": "Console",
+    "title": "Nintendo switch qui ne s’allume plus",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10080009493-nintendo-switch-qui-ne-sallume-plus?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00cb8_D4Jh8dYDrDmi9mN9SbSja13o/310x430/14f8f5ea.webp?s=7f892ea4ad07530b629237149821c5d99bb4a8b1",
+    "addedAt": "2026-09-21T08:00:11.056Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch qui ne s’allume plus\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vend ma Nintendo switch avec accessoires elle ne s’allume plus\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ne s'allume plus",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.05
+  },
+  {
+    "id": "10080008431",
+    "category": "Console",
+    "title": "Xbox one s  guasta",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"guasta\" + prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10080008431-xbox-one-s-guasta?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00aeb_4rGM4qKqBFH7z7zfaXRQEUzf/310x430/602ef481.webp?s=861151bbe6b53ea8a93fb7bf4384ea5971c0a866",
+    "addedAt": "2026-09-21T08:00:11.056Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s guasta\nDiscrete·Xbox·Caricato 2 min fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\n2 min fa\nXbox one s con batteria da sostituire. Per il resto, è stata pulita e non fa alcun rumore.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "batteria da sostituire",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.8
   }
 ]
