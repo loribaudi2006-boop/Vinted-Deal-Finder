@@ -1,53 +1,5 @@
 [
   {
-    "id": "10032376207",
-    "category": "Console",
-    "title": "Caja nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10032376207-caja-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_024fc_hRE9hMEAucWyxbcYMh5rJApB/310x430/ec98b40d.webp?s=892e5be7fc5eec6efd149dde8185a6b94db669aa",
-    "addedAt": "2026-09-17T11:42:06.051Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
-    "id": "10032374429",
-    "category": "Console",
-    "title": "Ps4 noir",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10032374429-ps4-noir?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00e0d_YZkG9nnZnGBZBaEw7xziFWSY/310x430/bae29f58.webp?s=b5dbd9e7723e5a40ff1bfb92f3c8c67eea62cbb2",
-    "addedAt": "2026-09-17T11:42:06.051Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 noir\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 Sony PlayStation 4 – Console noire\nJe vends ma PS4 Sony PlayStation 4 noire, idéale pour profiter de vos jeux préférés 🎮\nÉtat\nConsole d'occasion.\nPrésente des rayures et traces d'utilisation visibles sur les photos.\nDesign noir classique.\nDescription\nConsole PlayStation 4 à vendre. Parfaite pour jouer à FIFA, Call of Duty, GTA, Fortnite et bien d'autres jeux.\n📸 Les photos montrent l'état réel de la console. C'est une console de 500 go.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Rayures et traces d'utilisation visibles sur les photos",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.55
-  },
-  {
-    "id": "10032398552",
-    "category": "Console",
-    "title": "Verre trempé Switch 1",
-    "price": 3,
-    "totalPrice": 3.85,
-    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10032398552-verre-trempe-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c93_jWuG37LBYRaNeYKX6cKtvpJz/310x430/b4c48cb0.webp?s=8204dd12ab01ee011b3f40bf4b3642fd1a565eb1",
-    "addedAt": "2026-09-17T11:44:11.585Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.85€, sotto soglia"
-  },
-  {
     "id": "10032465267",
     "category": "Console",
     "title": "Bügelperlen switch",
@@ -24672,7 +24624,24 @@
     "url": "https://www.vinted.it/items/10082292939-echange-xbox-one-serie-s-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0225f_C927grNz2NunErUweE2iztMU/310x430/20b7e1c4.webp?s=3acea8d11ed40a7560d9d9464b04286ab2c86b54",
     "addedAt": "2026-09-21T11:37:19.828Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10082398016",
+    "category": "Console",
+    "title": "Xbox one para peças",
+    "price": 24.99,
+    "totalPrice": 26.94,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10082398016-xbox-one-para-pecas?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_020d1_bQew6rr22ib9WhT1nSk9gpS6/310x430/e1abc657.webp?s=1d3bbfa2bbb9761c16c9e54747c6a213d10d491b",
+    "addedAt": "2026-09-21T11:45:44.391Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.06€, sotto soglia"
   }
 ]
