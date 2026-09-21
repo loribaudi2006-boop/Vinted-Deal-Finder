@@ -1,20 +1,5 @@
 [
   {
-    "id": "10038171893",
-    "category": "Console",
-    "title": "Xbox One originale 500GB – Ricondizionata",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 51% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10038171893-xbox-one-originale-500gb-ricondizionata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e4e_eXRmFo4RyokwM5oqmqX6K3Te/310x430/735edf04.webp?s=e2a6435d45adaf0697863193c3a9226bf3625fdc",
-    "addedAt": "2026-09-17T19:36:06.331Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.85€, sotto soglia"
-  },
-  {
     "id": "10038262435",
     "category": "Console",
     "title": "Switch Kontrollor",
@@ -24642,7 +24627,39 @@
     "url": "https://www.vinted.it/items/10088652237-gta-5-voor-de-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00385_f2epum2ZSCokYq6KqG83h3VC/310x430/acd3ccf8.webp?s=f3aab5f1f87fcfa604ff30aa0727d282091a782e",
     "addedAt": "2026-09-21T19:36:01.547Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.95€, sotto soglia"
+  },
+  {
+    "id": "10088662656",
+    "category": "Console",
+    "title": "Super Mario maker 2 per Nintendo switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10088662656-super-mario-maker-2-per-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00fd2_QayAtwphxFN41X2kVurhoME9/310x430/bbcfcf71.webp?s=6dc3da4b7d0b33a381bbacd70ac12bb67aab3411",
+    "addedAt": "2026-09-21T19:37:06.717Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
+  },
+  {
+    "id": "10088697840",
+    "category": "Console",
+    "title": "PS4 Slim 500Go + 1 Manette  | Port HDMI à réparer | Pour pièces ou réparation",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10088697840-ps4-slim-500go-1-manette-port-hdmi-a-reparer-pour-pieces-ou-reparation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0270f_KsDbRsjFFnBEGpQe4Qhki7ZZ/310x430/80eab7ce.webp?s=be3de3cac76512ab89a28578e40fe3c8a679d5fd",
+    "addedAt": "2026-09-21T19:41:18.762Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.55€, sotto soglia"
   }
 ]
