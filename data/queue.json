@@ -1,53 +1,5 @@
 [
   {
-    "id": "10029642874",
-    "category": "Console",
-    "title": "Xbox One S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10029642874-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_009a5_pmRznU4rt3V6WGqoMXbYVL1T/310x430/939a2b5b.webp?s=4ab6409369770ae3b84249a6e902478c0303fe6a",
-    "addedAt": "2026-09-17T06:41:02.448Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "to\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S\nOttime·Xbox·Caricato 6 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n6 min fa\nBiete hier eine Xbox One S in der Farbe lila schwarz an\n\nDie Konsole kommt mit 1 TB her und hat ein Laufwerk\n\nDazu 1 Controller HDMI Kabel Strom Kabel und Daten Kabel\n\nPlus zwei Spiele von NBA 2K 15/19 mit Hülle\nUnd Forza 3 leider ohne Hülle\n\nBei weiteren Fragen stehe ich gerne zur Verfügung\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 45
-  },
-  {
-    "id": "10029667328",
-    "category": "Console",
-    "title": "PS4 + Controller",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10029667328-ps4-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01494_GgsHPmcFhEvppWVYXrNL7tTu/310x430/7cbaaaf6.webp?s=85a438ad751e9d11952d787f35cd78eb739565c4",
-    "addedAt": "2026-09-17T06:42:05.265Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10029687057",
-    "category": "Console",
-    "title": "PS4 Slim + Controller SCUF Battletron + Cavi",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10029687057-ps4-slim-controller-scuf-battletron-cavi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0212f_t8npeQLo5Bwiu54hE5bKc2UJ/310x430/ee0d8357.webp?s=beb2966935a53314439b91d9eabf0e1852fb88af",
-    "addedAt": "2026-09-17T06:46:16.873Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10029722223",
     "category": "Console",
     "title": "PlayStation 4",
@@ -24165,8 +24117,11 @@
     "url": "https://www.vinted.it/items/10079420996-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_003a6_NTTf9aNR8TGKScWBNswZhm2y/310x430/e22c16a5.webp?s=c20be234870e5beff4a4b891dccf11f91c2edc27",
     "addedAt": "2026-09-21T06:12:53.052Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10079438043",
@@ -24178,8 +24133,11 @@
     "url": "https://www.vinted.it/items/10079438043-sony-playstation-4-slim-konsole?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0032b_ZHZkiJwQBYyyGvZWCnfYrbrJ/310x430/6d92caef.webp?s=c7357749fd82fba6a3468f83422b6ca5434a93d1",
     "addedAt": "2026-09-21T06:18:05.699Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10079458420",
@@ -24204,6 +24162,32 @@
     "url": "https://www.vinted.it/items/10079507840-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_014fd_jSA1UyYJFZByrRDU6aTpnk3L/310x430/86c655fa.webp?s=39376ab039e5946bd620baedcdd9564b5938cbf0",
     "addedAt": "2026-09-21T06:38:58.013Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10079530764",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10079530764-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022df_JWqbRCbaALTBz5yc6BXwEjPM/310x430/799319df.webp?s=9865023c29b527351fa95b1c48a8aa11c7371c74",
+    "addedAt": "2026-09-21T06:41:03.136Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10079558699",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10079558699-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018b2_YHgrgv1jXPC2XJS5s5qAg3Zx/310x430/4dcac35c.webp?s=f2c2c013bc433afee92293eca588dcc3602ff0ad",
+    "addedAt": "2026-09-21T06:47:18.611Z",
     "processed": false,
     "triaged": false
   }
