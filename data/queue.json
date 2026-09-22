@@ -1,37 +1,5 @@
 [
   {
-    "id": "10040465979",
-    "category": "Console",
-    "title": "Complete Nintendo Switch Set met Super Mario Opbergtas",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10040465979-complete-nintendo-switch-set-met-super-mario-opbergtas?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01b15_SKbj5dJkJDwcUzrAxG4j2ih9/310x430/1f225e73.webp?s=c1bce744c27badb2337f7b81d18b6408767221a2",
-    "addedAt": "2026-09-18T05:43:04.725Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10040467779",
-    "category": "Console",
-    "title": "Nintendo Switch Lite",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10040467779-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_012b3_aiANwPb6JWYXUT5VFQCjgo4C/310x430/cbc8fa69.webp?s=1cb2db7683dedecc638d60d1dc40429094728aec",
-    "addedAt": "2026-09-18T05:44:07.571Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10040497320",
     "category": "Console",
     "title": "Case Protector Nintendo Switch 2 - Nova",
@@ -24696,8 +24664,11 @@
     "url": "https://www.vinted.it/items/10091200768-sony-playstation-camera-para-ps4ps-vr-con-sus-dos-lentes-y-cable-usb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0140b_nWeJ52PudyZF1UXYs3V8Eiip/310x430/d0342be4.webp?s=832362f823025524d01db3022df5b5830ed1ee89",
     "addedAt": "2026-09-22T05:17:56.100Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10091247893",
@@ -24709,6 +24680,19 @@
     "url": "https://www.vinted.it/items/10091247893-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_017ca_jGaJVzqCweH1cos5Z6GMoh5U/310x430/bece61e3.webp?s=783a88f0d996e1846b2bdb880c281a7a66fedfe2",
     "addedAt": "2026-09-22T05:36:43.744Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10091279229",
+    "category": "Console",
+    "title": "Hello Neighbor 2 Xbox One",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10091279229-hello-neighbor-2-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b46_KWn2KTuJNXcEjSaMmQJGkNcC/310x430/b557bdf3.webp?s=34e5fd8b2d0465f76d45562b9bc284c254772f2b",
+    "addedAt": "2026-09-22T05:47:09.319Z",
     "processed": false,
     "triaged": false
   }
