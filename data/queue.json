@@ -24690,5 +24690,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "10093167939",
+    "category": "Console",
+    "title": "Psp non si accende",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"non si accende\"",
+    "url": "https://www.vinted.it/items/10093167939-psp-non-si-accende?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ff2_zqodVEDhULbk1inNcAJXL4jv/310x430/9e98e404.webp?s=2f6eb6d33fa863922100e80584ba3faafe3bff4b",
+    "addedAt": "2026-09-22T10:00:07.971Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10093233807",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10093233807-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0102e_ChXdWvc9ai6K1PPG9t7PB8rQ/310x430/3bb18c75.webp?s=a98d62936272b4d81c02a807d29e05d76223c53b",
+    "addedAt": "2026-09-22T10:06:24.666Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4\nBuone·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nEstou a vender porque já não dou uso, ela tem 1TB. Tem um pequeno defeito atras abriu ligeiramente mas nao afeta nada no desempenho. Esta a funcionar perfeitamente.\nSpedizione\nda 6,09 €",
+    "geminiFault": "piccolo difetto dietro, si è aperta leggermente ma non influisce sulle prestazioni",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.3
   }
 ]
