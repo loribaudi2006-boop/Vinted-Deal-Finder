@@ -24728,7 +24728,10 @@
     "url": "https://www.vinted.it/items/10091119861-ps4-in-buoni-conditioni?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00348_H2jHp95QnFh2aPSDJTfQxez7/310x430/991d901d.webp?s=9f1e499af9dba65b2fc8051dd652c3912cb485e2",
     "addedAt": "2026-09-22T04:40:21.194Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
