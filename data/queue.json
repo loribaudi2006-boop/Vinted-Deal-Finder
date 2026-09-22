@@ -24680,8 +24680,11 @@
     "url": "https://www.vinted.it/items/10090635866-xbox-one-original-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0260e_yKDAnfjYAR8C76UPMGW1CGpq/310x430/48a59248.webp?s=9df3938ba1d36da50eaeeea515743d7b08024ddf",
     "addedAt": "2026-09-22T01:18:13.472Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10090677158",
