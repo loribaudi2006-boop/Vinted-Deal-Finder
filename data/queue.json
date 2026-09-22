@@ -1,23 +1,5 @@
 [
   {
-    "id": "10050184884",
-    "category": "Console",
-    "title": "Ps4 senza pad",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10050184884-ps4-senza-pad?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0082a_TfQFggRMfcZRFyMUptvMCyiF/310x430/098aca3b.webp?s=dabfce27cdff7d9d9662ef8b30acd29ef88fdaed",
-    "addedAt": "2026-09-18T23:14:56.828Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 senza pad\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 usata con tutti i fili e senza pad\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza pad",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.8
-  },
-  {
     "id": "10050285152",
     "category": "Console",
     "title": "Tony hawks pro skater switch",
@@ -25145,5 +25127,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 120
+  },
+  {
+    "id": "10101842136",
+    "category": "Console",
+    "title": "Lot accessoires Nintendo Switch + câbles + outils",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10101842136-lot-accessoires-nintendo-switch-cables-outils?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_023ff_CKHeREfXYkyftFfhHmWxmrTh/310x430/2e190f84.webp?s=3d5735a499ee5d6126adab5f945556491bdb0d9b",
+    "addedAt": "2026-09-22T23:20:52.218Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.3€, sotto soglia"
   }
 ]
