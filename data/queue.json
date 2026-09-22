@@ -24744,7 +24744,10 @@
     "url": "https://www.vinted.it/items/10089979813-nintendo-switch-joycons-und-joycons-halter?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0179a_56v7VJdQvMJzKwfYC5dmbyNX/310x430/f1c4dadf.webp?s=3e13d33fefc1cfd114097243e938abe9a44ee4e1",
     "addedAt": "2026-09-22T03:19:00.420Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
