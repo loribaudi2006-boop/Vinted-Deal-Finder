@@ -1,23 +1,5 @@
 [
   {
-    "id": "10042188942",
-    "category": "Console",
-    "title": "PlayStation 4 mit Controller",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10042188942-playstation-4-mit-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_000cf_4E2ttxgDLAz2ubMz4cTfVq1t/310x430/5648c121.webp?s=2db7528587af1bcb2ff8ca22e09b8ab675ac117d",
-    "addedAt": "2026-09-18T09:49:41.291Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "icoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 mit Controller\nOttime·Sony·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nSie wurde kaum genutzt war ein Geburtstagsgeschenk funktioniert auch einwandfrei\nIch kann damit leider nichts anfangen\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10042438435",
     "category": "Console",
     "title": "Xbox One 500GB + Sensore Kinect 2.0 (Nero)",
@@ -24693,5 +24675,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10093105532",
+    "category": "Console",
+    "title": "Xbox One s blanche 1 to – console microsoft",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10093105532-xbox-one-s-blanche-1-to-console-microsoft?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025d0_seKV4M6ZAXr35mi1rPR3sE5N/310x430/65f937e6.webp?s=30ee5f933efdb0c809658c019dc099821ab098c2",
+    "addedAt": "2026-09-22T09:54:54.505Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
