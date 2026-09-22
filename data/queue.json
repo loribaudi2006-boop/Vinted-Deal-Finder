@@ -24648,8 +24648,11 @@
     "url": "https://www.vinted.it/items/10091247893-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_017ca_jGaJVzqCweH1cos5Z6GMoh5U/310x430/bece61e3.webp?s=783a88f0d996e1846b2bdb880c281a7a66fedfe2",
     "addedAt": "2026-09-22T05:36:43.744Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10091279229",
