@@ -1,35 +1,5 @@
 [
   {
-    "id": "10041086439",
-    "category": "Console",
-    "title": "Giochi per Nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10041086439-giochi-per-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02644_gSEcD9dTQAWoPE9NqDAUVqkC/310x430/56f75222.webp?s=4e4b5dcbdaaf93fb2b6c5c9911d9182be3a69c47",
-    "addedAt": "2026-09-18T07:49:26.850Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.45€, sotto soglia"
-  },
-  {
-    "id": "10041097278",
-    "category": "Console",
-    "title": "Nintendo switch accessoires",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10041097278-nintendo-switch-accessoires?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_013cc_ePWwivs29j9wdGc3XYBN7rQ1/310x430/2f56fd48.webp?s=762b561d57a11dcf44c0061c385ff72dda44bdd9",
-    "addedAt": "2026-09-18T07:50:29.485Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.2€, sotto soglia"
-  },
-  {
     "id": "10041216913",
     "category": "Console",
     "title": "PS4 Camera",
@@ -24630,5 +24600,23 @@
     "geminiFault": "senza manette senza kinect",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 30.15
+  },
+  {
+    "id": "10091874048",
+    "category": "Console",
+    "title": "Ps4 con pad blu",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10091874048-ps4-con-pad-blu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_023c4_MCGFY2xQ7MmLe84RhwDPXMoo/310x430/093201f9.webp?s=226bc5e3e14a63e3bcbbb4893caa7faee60b9b69",
+    "addedAt": "2026-09-22T07:46:10.824Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Donna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 con pad blu\nBuone·Sony·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo per inutilizzo perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
