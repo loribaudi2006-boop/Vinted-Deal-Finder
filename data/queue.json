@@ -1,20 +1,5 @@
 [
   {
-    "id": "10050285152",
-    "category": "Console",
-    "title": "Tony hawks pro skater switch",
-    "price": 11,
-    "totalPrice": 12.25,
-    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10050285152-tony-hawks-pro-skater-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_002f0_qUvjQpEsMD1FqQThhbrwWpYU/310x430/9eaae183.webp?s=4aa5c09e89f07999b1e0042fb4d8e9bf13e33ac9",
-    "addedAt": "2026-09-18T23:48:22.316Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.5€, sotto soglia"
-  },
-  {
     "id": "10023480963",
     "category": "Console",
     "title": "Ps4 pro",
@@ -25142,5 +25127,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~18.3€, sotto soglia"
+  },
+  {
+    "id": "10101937522",
+    "category": "Console",
+    "title": "Xbox one s 500 gb",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10101937522-xbox-one-s-500-gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e1d_bRa4AKoN6RoC4xUMzxHLXhdP/310x430/70a367fc.webp?s=5f70c95aba9927c01cf22aabc3c54d61de9dffd2",
+    "addedAt": "2026-09-22T23:46:52.707Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   }
 ]
