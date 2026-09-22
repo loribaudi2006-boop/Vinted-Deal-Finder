@@ -24712,6 +24712,22 @@
     "url": "https://www.vinted.it/items/10090767289-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_004c2_AW4usBdSq971VAjXdGTwJ5nV/310x430/47413fce.webp?s=84d2338bf054b1abe2f42d6b4247a638edef5a2d",
     "addedAt": "2026-09-22T02:00:59.818Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10090796539",
+    "category": "Console",
+    "title": "Auricolare Sony PS4",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10090796539-auricolare-sony-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0170b_LZf9nzVZ5LVLZL6abbjxSdqM/310x430/28b49292.webp?s=43632093573036653451d34c86700d6e61b13b2d",
+    "addedAt": "2026-09-22T02:31:03.028Z",
     "processed": false,
     "triaged": false
   }
