@@ -25181,5 +25181,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10101677857",
+    "category": "Console",
+    "title": "Nintendo Switch OLED con accessori",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 81% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10101677857-nintendo-switch-oled-con-accessori?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0262a_MHhuDGEWtYhVn9otib1ihfaE/310x430/9fe780f6.webp?s=93c410b972498eaf0b116fc91b264c004b8d0a9c",
+    "addedAt": "2026-09-22T22:40:21.147Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "imosso!\n+ 5\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch OLED con accessori\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo per inutilizzo e cambio console!\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 120
   }
 ]
