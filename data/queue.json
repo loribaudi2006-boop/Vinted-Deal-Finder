@@ -1,38 +1,5 @@
 [
   {
-    "id": "10042732455",
-    "category": "Console",
-    "title": "PlayStation 4 avec une manette",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10042732455-playstation-4-avec-une-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00eaf_9MQxApUJapSGb58MJr2ZNnYC/310x430/bb86630f.webp?s=12456aaf7f446f1a84a3d6ba9f407a282ef942c0",
-    "addedAt": "2026-09-18T10:42:56.340Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "osso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 avec une manette\nDiscrete·PlayStation·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nBon état\nAvec câbles et 1 manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Bon état",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 52.55
-  },
-  {
-    "id": "10042765768",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10042765768-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0188a_xupNt5WggUoWaG76QG4qcN4R/310x430/1374dec5.webp?s=e60deabf89a68bb469e63ff5e965ee82bab9a622",
-    "addedAt": "2026-09-18T10:47:09.582Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10042811948",
     "category": "Console",
     "title": "Nueuw PS4 schoudertas",
@@ -24713,7 +24680,9 @@
     "url": "https://www.vinted.it/items/10093578214-box-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0092c_AphrhZPeZ6jgVjXrnjVQEBso/310x430/4e5fb76f.webp?s=d9ec4758a7a00f1d4cd2c745fc36e30829c870ad",
     "addedAt": "2026-09-22T10:38:54.043Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.8€, sotto soglia"
   }
 ]
