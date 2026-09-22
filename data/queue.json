@@ -25289,5 +25289,23 @@
     "geminiFault": "manca una delle due cover dei controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10100869007",
+    "category": "Console",
+    "title": "Nintendo switch + jeu Pokémon diamant étincelant (joystick gauche manquant)",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10100869007-nintendo-switch-jeu-pokemon-diamant-etincelant-joystick-gauche-manquant?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0122f_pdcthHb7iUsg6USFiA2W3kAY/310x430/a926a86c.webp?s=264d2d2ccdff5e167471fd9a5f6b19a725fe490e",
+    "addedAt": "2026-09-22T20:32:59.408Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch + jeu Pokémon diamant étincelant (joystick gauche manquant)\nDiscrete·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nNintendo switch grise bonne état ( joystick gauche cassé) + jeu Pokémon\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "joystick gauche manquant/cassé",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.55
   }
 ]
