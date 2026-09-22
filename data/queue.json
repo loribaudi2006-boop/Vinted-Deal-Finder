@@ -24696,8 +24696,11 @@
     "url": "https://www.vinted.it/items/10091068433-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_013be_md7vyoGRSpox9re9CBsXM8Ko/310x430/b6ae4a06.webp?s=d6340c52841209c6ff8a43f86582bda854f441f7",
     "addedAt": "2026-09-22T04:13:14.970Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10091086213",
