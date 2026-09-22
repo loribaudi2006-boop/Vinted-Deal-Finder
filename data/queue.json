@@ -24728,7 +24728,10 @@
     "url": "https://www.vinted.it/items/10090796539-auricolare-sony-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0170b_LZf9nzVZ5LVLZL6abbjxSdqM/310x430/28b49292.webp?s=43632093573036653451d34c86700d6e61b13b2d",
     "addedAt": "2026-09-22T02:31:03.028Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
