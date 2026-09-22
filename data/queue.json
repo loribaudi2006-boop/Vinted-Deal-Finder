@@ -1,38 +1,5 @@
 [
   {
-    "id": "10049923280",
-    "category": "Console",
-    "title": "Joy con switch + petit soutien manette.",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10049923280-joy-con-switch-petit-soutien-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015a6_oWTh4S3HKwwr2rcbrfsB52ei/310x430/4b2edfb5.webp?s=25277cff2400063d43747356a9ab7aa7032654aa",
-    "addedAt": "2026-09-18T22:06:47.099Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
-    "id": "10049954164",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10049954164-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01af0_EBGbnMxo59vsZCPhJuDDvKmV/310x430/ec35b4a9.webp?s=392ac24b1cb68fde474d3d6e21ca380461ccdbb2",
-    "addedAt": "2026-09-18T22:13:04.068Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlay avec 7 jeux Minecraft n'est pas sur la photo\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.05
-  },
-  {
     "id": "10049978143",
     "category": "Console",
     "title": "PlayStation 5",
@@ -25235,5 +25202,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 108.25
+  },
+  {
+    "id": "10101541580",
+    "category": "Console",
+    "title": "PS4 + 2 manettes + Kung Fu Panda",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10101541580-ps4-2-manettes-kung-fu-panda?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018b2_bdmvHcHFKEu5hmiFpX2no3tA/310x430/6968abd5.webp?s=58340c9085568883406f0ebd35801a11cc979c76",
+    "addedAt": "2026-09-22T22:11:10.702Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 + 2 manettes + Kung Fu Panda\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nConsole PS4 vendue avec :\n• 🎮 2 manettes\n• 🐼 Jeu Kung Fu Panda\n• 🔌 Câbles nécessaires\n\n📸 Merci de bien regarder les photos pour voir l’état exact du lot.\n\n📦 Envoi rapide et soigneusement protégé.\n\n💬 N’hésitez pas à me contacter si vous avez des questions ou si vous souhaitez d’autres photos.\n\n✨ Idéal pour jouer seul ou à deux !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.85
   }
 ]
