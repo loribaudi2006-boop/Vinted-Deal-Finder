@@ -1,20 +1,5 @@
 [
   {
-    "id": "10040682422",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10040682422-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00844_RMw8hcZyWoZRrrvzfwqVrh8o/310x430/198ebb47.webp?s=efa11992c90da84abfe30fa9e74abd803f0f974e",
-    "addedAt": "2026-09-18T06:41:33.042Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10040765184",
     "category": "Console",
     "title": "PlayStation 4 (PS4) Sony Konsole Schwarz",
@@ -24664,8 +24649,11 @@
     "url": "https://www.vinted.it/items/10091385607-switch-sans-jostik?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0243f_kvkR79Ebspd5WiURoL5inaAV/310x430/1af91326.webp?s=9174dfc3ba184c954fe99acafccb5ce9335977af",
     "addedAt": "2026-09-22T06:18:29.645Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10091303408",
