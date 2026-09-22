@@ -1,20 +1,5 @@
 [
   {
-    "id": "10042924234",
-    "category": "Console",
-    "title": "PlayStation 4 + 2 controller",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10042924234-playstation-4-2-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0077c_h2ExWVSKjCb67LkZ75mdNugQ/310x430/0ccc99cf.webp?s=c2c6aeef930d34355683e3583e17d171fca7beee",
-    "addedAt": "2026-09-18T11:02:52.520Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10043024672",
     "category": "Console",
     "title": "🎮 Nintendo Switch OLED Bianca + Joy-Con + Dock",
@@ -24677,7 +24662,9 @@
     "url": "https://www.vinted.it/items/10093772699-socle-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01122_7pGCSyvHSJr6vXrDhn3eXfV7/310x430/019ef52f.webp?s=ce6a78706ce52c7f8a9ee503df2b1b1216120399",
     "addedAt": "2026-09-22T10:58:48.890Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.55€, sotto soglia"
   }
 ]
