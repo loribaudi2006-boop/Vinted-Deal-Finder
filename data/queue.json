@@ -1,23 +1,5 @@
 [
   {
-    "id": "10047767390",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10047767390-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a45_Am84sWjWxnK4BvgwbfX4u7ok/310x430/30191e7d.webp?s=f11b0484d6bcff0f396263cebfb287f5b0fbecfb",
-    "addedAt": "2026-09-18T17:50:36.587Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n5,00 €\n\n5,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nNintendo switch\nPeu utilisé\nJoy stick un peu abîmé mais fonctionne tout de meme Ses simplement le plastique du dessus abîmer\nJeux à vendre aussi un lot potentiellement\nZelda , Mario kart et heave ho\nComplet avec accessoires pour connecter à la télévision\nFaire proposition de prix\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joy-stick un peu abîmé mais fonctionne tout de meme (plastique du dessus abîmé)",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 134.05
-  },
-  {
     "id": "10047864034",
     "category": "Console",
     "title": "EA Sports FC 25 – PS5 – Neuf sous blister",
@@ -25256,5 +25238,50 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~13.8€, sotto soglia"
+  },
+  {
+    "id": "10098957455",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10098957455-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0043d_mzYWMWVqmqq2Tb2J3NvjfpUT/310x430/5267f5de.webp?s=00f963ced9a8423771cdbe070b4e9dcf7bc8e981",
+    "addedAt": "2026-09-22T17:48:35.683Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10099052704",
+    "category": "Console",
+    "title": "Ps4 bon état",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10099052704-ps4-bon-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00987_zcJWd2Uas194XqGVsgjTn3Un/310x430/10eb74b6.webp?s=e034cc1c49302e763b5b845503a773729b44d37b",
+    "addedAt": "2026-09-22T17:55:54.321Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10098825555",
+    "category": "Console",
+    "title": "Cerco PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10098825555-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0260d_2WihVPUwt5krrWyYVu9paHY1/310x430/b9454570.webp?s=1ca3324cab02598dc6d2ae2f636245c5f9b86320",
+    "addedAt": "2026-09-22T17:55:54.321Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
