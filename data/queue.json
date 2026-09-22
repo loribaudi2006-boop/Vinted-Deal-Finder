@@ -24669,5 +24669,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10090635866",
+    "category": "Console",
+    "title": "Xbox One Original 500GB",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10090635866-xbox-one-original-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0260e_yKDAnfjYAR8C76UPMGW1CGpq/310x430/48a59248.webp?s=9df3938ba1d36da50eaeeea515743d7b08024ddf",
+    "addedAt": "2026-09-22T01:18:13.472Z",
+    "processed": false,
+    "triaged": false
   }
 ]
