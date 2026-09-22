@@ -24613,5 +24613,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10090452159",
+    "category": "Console",
+    "title": "Ps4 slim édition FF XV Limited",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10090452159-ps4-slim-edition-ff-xv-limited?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01409_n1UJ9VYD6VVPjVmpQRheD3MJ/310x430/9bebc1c8.webp?s=45f0920567d159c70e5aadf942a117886488d157",
+    "addedAt": "2026-09-22T00:24:00.586Z",
+    "processed": false,
+    "triaged": false
   }
 ]
