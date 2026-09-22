@@ -1,23 +1,5 @@
 [
   {
-    "id": "10049855307",
-    "category": "Console",
-    "title": "nintendo switch lite nera 2020",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10049855307-nintendo-switch-lite-nera-2020-maggiori-dettagli-in-descrizione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00e47_koD9EtyRi8zntSrYz3MqWnPk/310x430/ffeac4f5.webp?s=fe7fa248fab9c2058198fe51fc2faf5b409fc5b7",
-    "addedAt": "2026-09-18T21:52:05.209Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch lite nera 2020, maggiori dettagli in descrizione\nBuone·Nintendo·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nnintendo switch lite nera 2020 con problema allo schermo che NON influenza l’uso, è successo a caso non ha né graffi né segni di usura particolari, è come nuova con poco riuscite a cambiare lo schermo anche se non influisce niente\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "problema allo schermo che non influenza l'uso",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 52.55
-  },
-  {
     "id": "10049908837",
     "category": "Console",
     "title": "Carton playstation 5",
@@ -25228,7 +25210,9 @@
     "url": "https://www.vinted.it/items/10101401154-nintendo-switch-xaj?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_003b8_ng8JVsDhxYLH5R56mC27C3qF/310x430/b9deb351.webp?s=b98b291f7f00a1306e25593f437eabb3a8193ea9",
     "addedAt": "2026-09-22T21:45:09.642Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
