@@ -24698,5 +24698,18 @@
     "addedAt": "2026-09-22T04:13:14.970Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10091086213",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10091086213-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01908_4KVMUk9dutLP6Sgs78fKwQG8/310x430/e9a83e7c.webp?s=195e6b3f6b4cdf853aaef586d797eb705a365372",
+    "addedAt": "2026-09-22T04:22:37.518Z",
+    "processed": false,
+    "triaged": false
   }
 ]
