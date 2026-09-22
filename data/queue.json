@@ -1,23 +1,5 @@
 [
   {
-    "id": "10046536846",
-    "category": "Console",
-    "title": "Console Ps4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10046536846-console-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a71_xRk88ZwPwHpejBZMoX85BFbo/310x430/065ae720.webp?s=c876c69ef8b5fd893e3c4b34a903288d75c14587",
-    "addedAt": "2026-09-18T16:08:05.955Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Ps4\nOttime·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nQualsiasi informazione contattatemi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.55
-  },
-  {
     "id": "10046856524",
     "category": "Console",
     "title": "Jeu PlayStation 4",
@@ -24621,13 +24603,15 @@
     "url": "https://www.vinted.it/items/10097171288-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01fca_9hkvAPswFtHkeLxHzk1nUXbX/310x430/df264a70.webp?s=a30cbe4cf179ddf153c7b107ec2e2b79dce32e7f",
     "addedAt": "2026-09-22T15:38:47.810Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "port\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nOttime·PlayStation·Caricato 14 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n14 min fa\nvendo playstation 4 per cambio a 5 ,si presenta in ottime condizioni senza alcun problema vendo con 2 joystick di cui uno personalizzato per un maggiore greep un cavo extra lungo per l’alimentazione e ovviamente i suoi cavi di alimentazione\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
+    "geminiRoughMargin": 46.3,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10097209454",
@@ -24697,8 +24681,10 @@
     "url": "https://www.vinted.it/items/10097309521-ps3-fat-40gb-non-funzionante-ylod-per-pezzi-di-ricambio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0120b_k271hjEzG6E6KG2r8rujbJUc/310x430/34c0f1d2.webp?s=a7985382766194566839483f973e6ed0d8001c33",
     "addedAt": "2026-09-22T15:49:14.874Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   },
   {
     "id": "10097335450",
@@ -24723,8 +24709,10 @@
     "url": "https://www.vinted.it/items/10097325279-nitendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00009_kzibbaPqaCN26Hgm5L9AKbbZ/310x430/f77aa689.webp?s=726071a6ad015883fd2652d53ca389be730daf44",
     "addedAt": "2026-09-22T15:50:17.540Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10097402017",
@@ -24736,8 +24724,10 @@
     "url": "https://www.vinted.it/items/10097402017-chargeur-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_026fe_qKEjmKGoY6LNSYvmuxqBLuVN/310x430/722e07b8.webp?s=ac3e469d23419d308671ebbfb852cf509469330c",
     "addedAt": "2026-09-22T15:55:31.404Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~9.05€, sotto soglia"
   },
   {
     "id": "10097429226",
@@ -24750,7 +24740,12 @@
     "photoUrl": "https://images1.vinted.net/t/04_00d9e_2b8MuEbEvTi1JDynsaRk3f7k/310x430/cdb8e5f5.webp?s=635f8ea638421977fd3d3ad035b41f4663c555fe",
     "addedAt": "2026-09-22T15:57:36.584Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim Negra (Solo Consola) Funciona Perfecta\nBuone·PlayStation·Caricato 16 min fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n16 min fa\nLa consola está en buen estado estético, muy cuidada y funciona perfectamente sin ruidos raros ni sobrecalentamientos. Es el modelo Slim, mucho más compacto, silencioso y eficiente que el primer modelo que salió.\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.05
   },
   {
     "id": "10097520137",
@@ -24801,6 +24796,102 @@
     "url": "https://www.vinted.it/items/10097558232-lecteur-cd-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00ddb_NzxCLVdpSucNFeNzKYBKpFaM/310x430/d3cee766.webp?s=7f0351263afbcd9e6a083f1148bab018877c926c",
     "addedAt": "2026-09-22T16:07:00.963Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097596377",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10097596377-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f85_PFtZvKf26wARwqh7CjERm8X7/310x430/d3b29a6f.webp?s=88df4e87cd85e3ac64b30a9263e4493d5041625a",
+    "addedAt": "2026-09-22T16:09:06.414Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\n4\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nOttime·Nintendo·Caricato 7 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n7 min fa\nSwitch lite\nQuelque coup comme sur les photo numéro de série illisible\nVendu avec chargeur et la boîte .\nJuste plus le jeux .\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Qualche graffio/segno come in foto, numero di serie illeggibile",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10097600900",
+    "category": "Console",
+    "title": "Caja Switch OLED",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 95% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10097600900-caja-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0087d_653fypxPHWof3dev98dfoWU3/310x430/015f959a.webp?s=ec9faf3628ccdc874c23c659635dd20c6b84bf13",
+    "addedAt": "2026-09-22T16:10:09.627Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9939070906",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/9939070906-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0156f_Z48bRoa2RiJYw8xkBywWLt1u/310x430/a849c7cd.webp?s=0c9ddbbb76cab3cd23d5779f1d1d1db0eff19693",
+    "addedAt": "2026-09-22T16:12:14.939Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097341350",
+    "category": "Console",
+    "title": "🎮 Set accessori Nintendo Switch compatibili – 2 controller + volante + supporto",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10097341350-set-accessori-nintendo-switch-compatibili-2-controller-volante-supporto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d7d_UN3LhocPpD7kFdDE3g5vfanM/310x430/35f318a6.webp?s=70011ffd89ee868aac45a7ef811b49975c75ba27",
+    "addedAt": "2026-09-22T16:12:14.940Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097649446",
+    "category": "Console",
+    "title": "Vendo nintendo switch+ alimentatore + supporti",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10097649446-vendo-nintendo-switch-alimentatore-supporti?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_000b5_iUKKB7f5Um15aesAwFs5pScD/310x430/dccc5dc3.webp?s=73255507920b1b67e9af2083bd898006f50d3842",
+    "addedAt": "2026-09-22T16:13:17.576Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097680069",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10097680069-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_023e3_tv8hdNtwyjWjwihJtFpnTa3q/310x430/78eac11c.webp?s=172a96c2b8ebe98fa4ba5b05dce1c17e5b913343",
+    "addedAt": "2026-09-22T16:15:23.668Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097674081",
+    "category": "Console",
+    "title": "nintendo switch lite packung",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10097674081-nintendo-switch-lite-packung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00672_7PjVppXuBTfTKMTTaFHncDDH/310x430/9e41b991.webp?s=84db1b81c1379fd93b7f3d63bbbb94122dc1872e",
+    "addedAt": "2026-09-22T16:15:23.669Z",
     "processed": false,
     "triaged": false
   }
