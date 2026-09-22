@@ -24668,8 +24668,12 @@
     "url": "https://www.vinted.it/items/10097314073-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00d22_Dra8e4aUUGPnmciQX8rZrR2e/310x430/5f498929.webp?s=96aca634ca4699bd3f1783b497328939cdfae57d",
     "addedAt": "2026-09-22T15:49:14.874Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10097309521",
@@ -24696,8 +24700,11 @@
     "url": "https://www.vinted.it/items/10097335450-ps4-500gb-ottime-condizioni-fifa-20-no-pad?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_022c6_8RoSbBbGsFCQxEkS42niSr9N/310x430/28683865.webp?s=40260dbea9aaa36751ce35ba9005347b02f43ce2",
     "addedAt": "2026-09-22T15:50:17.540Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10097325279",
@@ -24770,8 +24777,10 @@
     "url": "https://www.vinted.it/items/10097516528-ps4-slim-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02415_fbAGXKpW3QhQyeUYwaCtPpor/310x430/0d5d7aa5.webp?s=39808486776cd1128a1e1b123173d533ee10c8de",
     "addedAt": "2026-09-22T16:03:52.268Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10097556567",
@@ -24783,8 +24792,10 @@
     "url": "https://www.vinted.it/items/10097556567-playstation-4-cavo-hdmi-cavo-ethernet-internet?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01d80_RAi68XSEkorJYFTcJCBuBD8m/310x430/3a35fd28.webp?s=3fb75a0960e340162b3052e39aead754371e38c9",
     "addedAt": "2026-09-22T16:05:58.124Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   },
   {
     "id": "10097558232",
@@ -24796,8 +24807,10 @@
     "url": "https://www.vinted.it/items/10097558232-lecteur-cd-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00ddb_NzxCLVdpSucNFeNzKYBKpFaM/310x430/d3cee766.webp?s=7f0351263afbcd9e6a083f1148bab018877c926c",
     "addedAt": "2026-09-22T16:07:00.963Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.55€, sotto soglia"
   },
   {
     "id": "10097596377",
@@ -24809,7 +24822,7 @@
     "url": "https://www.vinted.it/items/10097596377-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00f85_PFtZvKf26wARwqh7CjERm8X7/310x430/d3b29a6f.webp?s=88df4e87cd85e3ac64b30a9263e4493d5041625a",
     "addedAt": "2026-09-22T16:09:06.414Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "smo\nSport\nPubblicità\n‌\n\n4\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nOttime·Nintendo·Caricato 7 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n7 min fa\nSwitch lite\nQuelque coup comme sur les photo numéro de série illisible\nVendu avec chargeur et la boîte .\nJuste plus le jeux .\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -24841,7 +24854,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_0156f_Z48bRoa2RiJYw8xkBywWLt1u/310x430/a849c7cd.webp?s=0c9ddbbb76cab3cd23d5779f1d1d1db0eff19693",
     "addedAt": "2026-09-22T16:12:14.939Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4\nOttime·PlayStation·Caricato 12 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti Pro\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n12 min fa\nVends une ps4 fat sans les cables mais qui fonctionne très bien pour tout renseignements me contacter\nSpedizione\nda 9,49 €",
+    "geminiFault": "sans les cables",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
   },
   {
     "id": "10097341350",
@@ -24853,8 +24871,10 @@
     "url": "https://www.vinted.it/items/10097341350-set-accessori-nintendo-switch-compatibili-2-controller-volante-supporto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01d7d_UN3LhocPpD7kFdDE3g5vfanM/310x430/35f318a6.webp?s=70011ffd89ee868aac45a7ef811b49975c75ba27",
     "addedAt": "2026-09-22T16:12:14.940Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   },
   {
     "id": "10097649446",
@@ -24866,8 +24886,13 @@
     "url": "https://www.vinted.it/items/10097649446-vendo-nintendo-switch-alimentatore-supporti?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_000b5_iUKKB7f5Um15aesAwFs5pScD/310x430/dccc5dc3.webp?s=73255507920b1b67e9af2083bd898006f50d3842",
     "addedAt": "2026-09-22T16:13:17.576Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "so!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVendo nintendo switch+ alimentatore + supporti\nOttime·Nintendo·Caricato 6 min fa\n\n10,00 €\n\n11,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n6 min fa\npNON ACQUISTARE PREZZO INDICATIVO PER IO BOOST\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 128.8
   },
   {
     "id": "10097680069",
@@ -24879,8 +24904,10 @@
     "url": "https://www.vinted.it/items/10097680069-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_023e3_tv8hdNtwyjWjwihJtFpnTa3q/310x430/78eac11c.webp?s=172a96c2b8ebe98fa4ba5b05dce1c17e5b913343",
     "addedAt": "2026-09-22T16:15:23.668Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10097674081",
@@ -24892,6 +24919,58 @@
     "url": "https://www.vinted.it/items/10097674081-nintendo-switch-lite-packung?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00672_7PjVppXuBTfTKMTTaFHncDDH/310x430/9e41b991.webp?s=84db1b81c1379fd93b7f3d63bbbb94122dc1872e",
     "addedAt": "2026-09-22T16:15:23.669Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097722858",
+    "category": "Console",
+    "title": "lotto nintendo wii+wii balance controller NON funzionandi",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "parola chiave: \"non funziona\"",
+    "url": "https://www.vinted.it/items/10097722858-lotto-nintendo-wiiwii-balance-controller-non-funzionandi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0023d_FdmzxAbUmQBEcj1LWj9e9JJD/310x430/213cf8d2.webp?s=cd5a8d75ede760567d1f2f25f29a8d8bbc03b3be",
+    "addedAt": "2026-09-22T16:18:32.239Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097742626",
+    "category": "Console",
+    "title": "Boîte console ps4 uncharted 4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10097742626-boite-console-ps4-uncharted-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_009b1_bivizFwScQcGteMtByCDoNaD/310x430/89ec41fa.webp?s=86d024d0c7e31c1cced19ec6517f8a026547d039",
+    "addedAt": "2026-09-22T16:19:34.998Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097765524",
+    "category": "Console",
+    "title": "Procesador Playstation 4 VR",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10097765524-procesador-playstation-4-vr?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_005ad_uoLidLgKKqpGTMXPGEkgNrej/310x430/535b1732.webp?s=2008724155674d56ab23d71b0c62a569e3a9135d",
+    "addedAt": "2026-09-22T16:21:40.290Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10097786615",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10097786615-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_019d4_dBACbJ8dmQ2YeywC7BgtuRm8/310x430/242be041.webp?s=a2ebfb86aefaa2e2e3d9e6ea4d9cea0c224c224e",
+    "addedAt": "2026-09-22T16:22:43.000Z",
     "processed": false,
     "triaged": false
   }
