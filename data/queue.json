@@ -1,20 +1,5 @@
 [
   {
-    "id": "10041876894",
-    "category": "Console",
-    "title": "coque PS5 slim édition",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10041876894-coque-ps5-slim-edition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02053_4eVqxkRvzsbAieRwBuY35Jve/310x430/3fdf0e09.webp?s=13fd0c7b85964048fd19ede665f89153c1e22404",
-    "addedAt": "2026-09-18T09:19:21.955Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-9.2€, sotto soglia"
-  },
-  {
     "id": "10041979411",
     "category": "Console",
     "title": "Ps5 fat con lettore disco (solo scatola originale)",
@@ -24699,5 +24684,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10092742756",
+    "category": "Console",
+    "title": "Nintendo Switch Lite - Türkis/Blau",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10092742756-nintendo-switch-lite-turkisblau?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01c66_onAEKKhN5jyi7NUenikF6WjQ/310x430/cedf184c.webp?s=45ed9b560716641fd23a00a8bd2f980b8c64bde7",
+    "addedAt": "2026-09-22T09:20:20.645Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nNintendo Switch Lite - Türkis/Blau\nBuone·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\n- 1 1/2 Jahre in Benutzung, aber auch nicht regelmäßig\n- Batterie geht schneller runter aber es hält sich in Grenzen\n- Konsole ist in einem Top Zustand und funktioniert einwandfrei\n- leichte Kratzer an Rückseite u. Display\n- Karton hat 1/2 Dellen\n- Kabel und stabilisierender Inhalt der Box ist nicht mehr vorhanden\n... altro\nSpedizione\nda 10,25 €\nChiedi info",
+    "geminiFault": "batteria usurata, lievi graffi su retro e display, scatola con ammaccature, cavi e supporto interno mancanti",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.3
   }
 ]
