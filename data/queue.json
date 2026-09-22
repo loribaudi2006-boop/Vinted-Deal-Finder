@@ -24664,6 +24664,22 @@
     "url": "https://www.vinted.it/items/10091279229-hello-neighbor-2-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01b46_KWn2KTuJNXcEjSaMmQJGkNcC/310x430/b557bdf3.webp?s=34e5fd8b2d0465f76d45562b9bc284c254772f2b",
     "addedAt": "2026-09-22T05:47:09.319Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10091385607",
+    "category": "Console",
+    "title": "Switch sans jostik",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10091385607-switch-sans-jostik?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0243f_kvkR79Ebspd5WiURoL5inaAV/310x430/1af91326.webp?s=9174dfc3ba184c954fe99acafccb5ce9335977af",
+    "addedAt": "2026-09-22T06:18:29.645Z",
     "processed": false,
     "triaged": false
   }
