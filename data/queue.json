@@ -1,21 +1,5 @@
 [
   {
-    "id": "10040395165",
-    "category": "Console",
-    "title": "Case Protector Nintendo Switch 2 - Nova",
-    "price": 39.9,
-    "totalPrice": 42.6,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10040395165-case-protector-nintendo-switch-2-nova?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00742_7aZzs5wGNP1B9zrA6UdAHaYh/310x430/cc27bb4f.webp?s=e11a773d4d811ad91ee608d641fa6891b5a20611",
-    "addedAt": "2026-09-18T05:14:56.032Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10040421439",
     "category": "Console",
     "title": "Boite vide de ps4 slim",
@@ -24733,5 +24717,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10091200768",
+    "category": "Console",
+    "title": "Sony PlayStation Camera para PS4/PS VR",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 78% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10091200768-sony-playstation-camera-para-ps4ps-vr-con-sus-dos-lentes-y-cable-usb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0140b_nWeJ52PudyZF1UXYs3V8Eiip/310x430/d0342be4.webp?s=832362f823025524d01db3022df5b5830ed1ee89",
+    "addedAt": "2026-09-22T05:17:56.100Z",
+    "processed": false,
+    "triaged": false
   }
 ]
