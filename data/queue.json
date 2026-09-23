@@ -1,53 +1,5 @@
 [
   {
-    "id": "10051906127",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10051906127-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_017f5_eaQEGPq1H6ZpxyaZ9b1VoZR5/310x430/8339716f.webp?s=5fa190cd577d42fcf186b9b310fec64825cbdce7",
-    "addedAt": "2026-09-19T08:14:47.828Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "licità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n3 min fa\nNintendo Switch Lite, modello HDH-001, nella colorazione Blu. 🎮💙\ni Joy-Con sono integrati nella console e non removibili. Modello HDH-001 è la Switch Lite. Si vende senza caricatore ma con custodia come da foto\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza caricatore, ma con custodia",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
-    "id": "10051965899",
-    "category": "Console",
-    "title": "Xbox One Elite Wireless Controller Scuf Original Xbox",
-    "price": 34,
-    "totalPrice": 36.4,
-    "reason": "prezzo 66% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10051965899-xbox-one-elite-wireless-controller-scuf-original-xbox?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02218_HQ8BuR2rNH5spTPAYvqpawp6/310x430/46c1973c.webp?s=1c51058c440f3ca77a44c91b1c6343f3bd59af66",
-    "addedAt": "2026-09-19T08:18:59.304Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20.6€, sotto soglia"
-  },
-  {
-    "id": "10051982911",
-    "category": "Console",
-    "title": "psp fat ROTTA",
-    "price": 18,
-    "totalPrice": 19.6,
-    "reason": "parola chiave: \"rotta\"",
-    "url": "https://www.vinted.it/items/10051982911-psp-fat-rotta?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00653_VjpY9DYzoLfpHg9nutpUx97g/310x430/6d5f714f.webp?s=9eed8deaf489b6badd9d93d62a686eb83178c184",
-    "addedAt": "2026-09-19T08:21:05.518Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.4€, sotto soglia"
-  },
-  {
     "id": "10052040941",
     "category": "Console",
     "title": "Vendo per inutilizzo PS4 Sony",
@@ -24991,7 +24943,24 @@
     "url": "https://www.vinted.it/items/10103734798-ps5-a-vendre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0266c_a8ojAyvqqoKoEabbgZBn5V5S/310x430/c0ee262a.webp?s=8d4d7cb4ce352a97aa443375f92e956008d7794d",
     "addedAt": "2026-09-23T08:13:08.075Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10103748023",
+    "category": "Console",
+    "title": "Écouteurs PS4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10103748023-ecouteurs-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02291_ju71NVtoVsNkx2iCX2K2FV47/310x430/71f07f45.webp?s=5ff9c6dbf2602234ebc71987d60c23ae06ff76b0",
+    "addedAt": "2026-09-23T08:15:13.344Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.45€, sotto soglia"
   }
 ]
