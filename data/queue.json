@@ -1,21 +1,5 @@
 [
   {
-    "id": "10051053820",
-    "category": "Console",
-    "title": "Volent et protection Nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10051053820-volent-et-protection-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01f2c_mtUrcYnEP6KYJq54xAdqhg83/310x430/83cb1e46.webp?s=7d77baf80a07f79d37de844430e2a0fc9b4466cd",
-    "addedAt": "2026-09-19T05:49:23.210Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10051102038",
     "category": "Console",
     "title": "Nintendo Switch OLED",
@@ -25198,8 +25182,11 @@
     "url": "https://www.vinted.it/items/10102816978-ps4-con-aggiuntivi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0129b_EYxvUtFs7KKxbySvikMN4erp/310x430/3546c812.webp?s=dd4c69e10451b3bed2658cc964718f29c047881d",
     "addedAt": "2026-09-23T05:17:58.174Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102823051",
@@ -25211,8 +25198,11 @@
     "url": "https://www.vinted.it/items/10102823051-ps4-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_019cd_e38vbmovjxaNp5sGWW7WeCyJ/310x430/10a57f32.webp?s=eb69cd86733a9be4aafe3792472e492c73f992b0",
     "addedAt": "2026-09-23T05:21:05.870Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102838605",
