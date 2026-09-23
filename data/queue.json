@@ -25180,5 +25180,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~20.85€, sotto soglia"
+  },
+  {
+    "id": "10113180513",
+    "category": "Console",
+    "title": "Xbox One S 500GB + 2 giochi + controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10113180513-xbox-one-s-500gb-2-giochi-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015fa_aRMqmH5kbsXGKZaJupm5gNtt/310x430/9bbd1f67.webp?s=91e77f77b783199c3bd0d779c0a0d3e397ef8c5a",
+    "addedAt": "2026-09-23T21:41:08.232Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
