@@ -1,35 +1,5 @@
 [
   {
-    "id": "10062619204",
-    "category": "Console",
-    "title": "Support PS5 Cyber Core – Impression 3D",
-    "price": 16,
-    "totalPrice": 17.5,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10062619204-support-ps5-cyber-core-impression-3d?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a1f_EsjqN9YSN7YkrKv73Pi2eY3j/310x430/614c59ab.webp?s=9caf1690733894bde770f4bd9bffaa219a19493f",
-    "addedAt": "2026-09-19T23:03:46.425Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
-    "id": "10062641639",
-    "category": "Console",
-    "title": "Support PS5 Croissant de Lune – Impression 3D",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10062641639-support-ps5-croissant-de-lune-impression-3d?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_005fe_gwBhjwEoZky41PyFfxvz68aJ/310x430/531a3c8e.webp?s=3d5a7d6f312218a55320fc31b5d7d2838663fc10",
-    "addedAt": "2026-09-19T23:08:59.426Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
     "id": "10062701372",
     "category": "Console",
     "title": "Sony PlayStation 4 PS4 500GB – Negra – Consola",
@@ -25153,5 +25123,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 67.85
+  },
+  {
+    "id": "10113561739",
+    "category": "Console",
+    "title": "Sony PlayStation 4 origineel",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10113561739-sony-playstation-4-origineel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a65_EkJ9PRVj3FWu5UfE4CQhyMAm/310x430/7411f6c7.webp?s=159cf95b5b2f4d8b6c6d0974ac204795e5d3e384",
+    "addedAt": "2026-09-23T23:09:08.958Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.85€, sotto soglia"
   }
 ]
