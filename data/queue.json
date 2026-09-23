@@ -24526,7 +24526,30 @@
     "url": "https://www.vinted.it/items/10105600989-playstation-4-tres-bon-etat-avec-jeu-gta?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01ef8_QwRYo1sCqdLajRsdXZ5RRJym/310x430/cb5e47f2.webp?s=1e54d78bcf457fad2b6cd12f38835638815dff82",
     "addedAt": "2026-09-23T11:11:01.095Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 // Très bon état avec Jeu GTA\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4 à vendre en très bon état à part une légère rayure devant (voir photo).\nAvec manette, câbles et jeu GTA.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "leggera rayure devant",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10105711419",
+    "category": "Console",
+    "title": "PS Vita 2000 trading for switch or 3ds",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10105711419-ps-vita-2000-trading-for-switch-or-3ds?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00253_gPCMcmpb7LXGJ3WHUv6Wk7ox/310x430/82b59acb.webp?s=f01174a07532c7bab08098223583a68a8851f01d",
+    "addedAt": "2026-09-23T11:20:24.751Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS Vita 2000 trading for switch or 3ds\nOttime·Sony·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation Vita\nCondizioni\nOttime\nCaricato\nProprio adesso\nim trading my modded ps vita with 3 games, a bag and 16gb memory card for a nintendo switch or new 3ds, i have preference for a modded console,\n\nPs vita in very good condition with screen protector and no scratches\n\nMessage me for more information\n... altro\nSpedizione\n6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 120
   }
 ]
