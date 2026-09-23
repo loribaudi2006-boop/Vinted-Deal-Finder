@@ -25118,7 +25118,10 @@
     "url": "https://www.vinted.it/items/10102483620-playstation-4-slim-1tb-con-mando-v2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01fd1_ZkxsRqvuh7vAySgbtYDdyk1L/310x430/849e3d3f.webp?s=decbdfd7e065047e370d145a94fef08023127f1e",
     "addedAt": "2026-09-23T02:38:39.746Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
