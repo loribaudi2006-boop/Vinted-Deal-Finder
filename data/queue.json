@@ -1,40 +1,5 @@
 [
   {
-    "id": "10051194978",
-    "category": "Console",
-    "title": "Ps4pro neuf a réparé si on si connais",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10051194978-ps4pro-neuf-a-repare-si-on-si-connais?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02367_1iHqctUKoUVzYkhNB7utM3du/310x430/1ad3e141.webp?s=5a4779c921afdb83cc59e32c04a3a0a81f160d78",
-    "addedAt": "2026-09-19T06:27:02.553Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "giochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4pro neuf a réparé si on si connais\nNuovo con cartellino·PlayStation·Caricato 29 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo con cartellino\nCaricato\n29 min fa\nPs4 pro neuf juste 4 câble dans la console a changé\nSpedizione\nda 9,49 €",
-    "geminiFault": "4 cavi all'interno della console da cambiare",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.8,
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10051210838",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10051210838-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0026b_DGCsqrazUYSc9SwxL857BUKM/310x430/da0af7f3.webp?s=762656718e63b03ac1fc0a3f3994f03d393197ec",
-    "addedAt": "2026-09-19T06:31:14.007Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10051237379",
     "category": "Console",
     "title": "Ps4 pro a réparé si on si connais neuve",
@@ -25246,8 +25211,11 @@
     "url": "https://www.vinted.it/items/10102904988-sterzo-volante-manubrio-nintendo-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_010cf_ZxXmELwQvpeNP6puvNHrLfWj/310x430/d4996637.webp?s=b8a48d7501aec60122a2b8f063f90f669f050563",
     "addedAt": "2026-09-23T05:53:37.354Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102926541",
@@ -25259,7 +25227,10 @@
     "url": "https://www.vinted.it/items/10102926541-ps4-plus-manette-plus-jeux-call-of-duty?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_009da_viLAde2fkWZi92tmJtKvrbuu/310x430/2cc30e8f.webp?s=4ca5247ce2f1e4e619f1a1703cc918a653366aa5",
     "addedAt": "2026-09-23T05:56:45.458Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
