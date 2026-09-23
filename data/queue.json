@@ -24830,5 +24830,38 @@
     "geminiFault": "se desconoce si funciona",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.3
+  },
+  {
+    "id": "10104030512",
+    "category": "Console",
+    "title": "switch1",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 80% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10104030512-switch1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c54_ikdFYTSAQKGLkkZEKCbAWirn/310x430/4058b07b.webp?s=64e3ddd65c54b3d65644dd339f01e755c02af16c",
+    "addedAt": "2026-09-23T08:45:31.810Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nswitch1\nDiscrete·Nintendo·Caricato un minuto fa\n\n38,00 €\n\n40,60 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nhaut parleur a l'arrière abime mais fonctionnel\necran avec rayures\nsans chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "haut parleur a l'arrière abime mais fonctionnel, ecran avec rayures, sans chargeur",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 79.4
+  },
+  {
+    "id": "10104043440",
+    "category": "Console",
+    "title": "Set accessori Nintendo Switch: Joy-Con blu (SX) + Grip + Laccetti",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10104043440-set-accessori-nintendo-switch-joy-con-blu-sx-grip-laccetti?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d48_4BooHcsqj36RY53uEJHFC1hm/310x430/8355402a.webp?s=15345e990dbfe8d6f3220dc17802ed2e20cdcaad",
+    "addedAt": "2026-09-23T08:46:34.426Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
   }
 ]
