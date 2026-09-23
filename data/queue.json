@@ -1,20 +1,5 @@
 [
   {
-    "id": "10051276688",
-    "category": "Console",
-    "title": "Nintendo Switch Lite",
-    "price": 42,
-    "totalPrice": 44.8,
-    "reason": "prezzo 78% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10051276688-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01171_ewRDn5JyivCSovMKhWGRwqpG/310x430/d2823fb6.webp?s=e871158798e51f1bb662b6976a96d480d2ce873d",
-    "addedAt": "2026-09-19T06:44:49.300Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10051326792",
     "category": "Console",
     "title": "Nintendo Switch Lite",
@@ -25214,5 +25199,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10103131850",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10103131850-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b78_JoPYZzNXh8Bh3w6fdPfHAagw/310x430/6023c5b3.webp?s=62a3967ba8dbaec3ae1e016aecea222d29d9cf3b",
+    "addedAt": "2026-09-23T06:45:50.897Z",
+    "processed": false,
+    "triaged": false
   }
 ]
