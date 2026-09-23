@@ -25118,7 +25118,10 @@
     "url": "https://www.vinted.it/items/10102383617-ps4-manette-ses-cables?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01dd1_2WZboCa6LUVDSuVLXG4qjPgz/310x430/8c55c776.webp?s=cf026d1fabe269982fc3a5ec1eaff365719373bd",
     "addedAt": "2026-09-23T02:02:06.619Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
