@@ -1,20 +1,5 @@
 [
   {
-    "id": "10061823086",
-    "category": "Console",
-    "title": "Soporte PS5 con LEDs",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10061823086-soporte-ps5-con-leds?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0015a_51fxAL3fsTsUKbG6vG8egdME/310x430/915da4d1.webp?s=b2df9dd90ce6c2165b9631acabed8288ed1216a3",
-    "addedAt": "2026-09-19T20:46:45.099Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.8€, sotto soglia"
-  },
-  {
     "id": "10061903000",
     "category": "Console",
     "title": "Nintendo Switch Con-Handgelenksschlaufen",
@@ -25159,5 +25144,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-9.6€, sotto soglia"
+  },
+  {
+    "id": "10108326059",
+    "category": "Console",
+    "title": "ps5 avec manette",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10108326059-ps5-avec-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01260_JyTtP4ksi3Hpu9B7ANSBoe6g/310x430/a441b018.webp?s=87611f4ae8178ab7b4f0338ceb0e7bb298c805fd",
+    "addedAt": "2026-09-23T20:47:49.390Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps5 avec manette\nNuovo con cartellino·PlayStation·Caricato 5 ore fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\n5 ore fa\nJe vend ma ps5 avec la manette et tout les cables, malheureusement mon portefeuille vinted et bloqué ducoup pour le paiement je prend banque et paypal, pour vous assurer de bien recevoir la play l'envoi se feras avant\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
   }
 ]
