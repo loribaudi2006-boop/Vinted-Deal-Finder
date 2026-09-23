@@ -25214,8 +25214,11 @@
     "url": "https://www.vinted.it/items/10102838605-switch-lite-bonne-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01bcc_ANc5xa6k6soSWtbPB2KD7t4A/310x430/494b2e4b.webp?s=f8012006ce0d94ad0083740c2980c3d235ca0c71",
     "addedAt": "2026-09-23T05:26:18.982Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102865410",
@@ -25240,6 +25243,32 @@
     "url": "https://www.vinted.it/items/10102870606-vends-ps4-ne-pas-acheter-lannonce-a-1eur?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_015c7_yWR8RMYvU9MFX96K3vmAnWAX/310x430/bfdf0be4.webp?s=0c041806e80d54a09d8ecf51e05b76584a17a338",
     "addedAt": "2026-09-23T05:38:50.628Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10102904988",
+    "category": "Console",
+    "title": "Sterzo volante manubrio Nintendo Switch 2",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10102904988-sterzo-volante-manubrio-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_010cf_ZxXmELwQvpeNP6puvNHrLfWj/310x430/d4996637.webp?s=b8a48d7501aec60122a2b8f063f90f669f050563",
+    "addedAt": "2026-09-23T05:53:37.354Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10102926541",
+    "category": "Console",
+    "title": "PS4 plus manette plus jeux call of duty",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10102926541-ps4-plus-manette-plus-jeux-call-of-duty?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_009da_viLAde2fkWZi92tmJtKvrbuu/310x430/2cc30e8f.webp?s=4ca5247ce2f1e4e619f1a1703cc918a653366aa5",
+    "addedAt": "2026-09-23T05:56:45.458Z",
     "processed": false,
     "triaged": false
   }
