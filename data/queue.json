@@ -1,21 +1,5 @@
 [
   {
-    "id": "10049625405",
-    "category": "Console",
-    "title": "Soporte original Nintendo switch",
-    "price": 11,
-    "totalPrice": 12.25,
-    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10049625405-soporte-original-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02388_R7jAthXjy7qKFxJTLZ2LzGaY/310x430/e38e9640.webp?s=1144e0a4f09c7c9a0181c1aafc192a161ce198f0",
-    "addedAt": "2026-09-19T05:38:55.607Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10051053820",
     "category": "Console",
     "title": "Volent et protection Nintendo switch",
@@ -25240,6 +25224,32 @@
     "url": "https://www.vinted.it/items/10102838605-switch-lite-bonne-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01bcc_ANc5xa6k6soSWtbPB2KD7t4A/310x430/494b2e4b.webp?s=f8012006ce0d94ad0083740c2980c3d235ca0c71",
     "addedAt": "2026-09-23T05:26:18.982Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10102865410",
+    "category": "Console",
+    "title": "Dragonnes officiel Nintendo Switch",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10102865410-dragonnes-officiel-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01d26_Dz8qKfMSkBcFuzrC5JxBqjan/310x430/5421578c.webp?s=e11cc97c916151cda257e1ae1ab466a73eacff84",
+    "addedAt": "2026-09-23T05:36:45.372Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10102870606",
+    "category": "Console",
+    "title": "Vends ps4 ( ne pas acheter l’annonce a 1€ )",
+    "price": 1,
+    "totalPrice": 1,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10102870606-vends-ps4-ne-pas-acheter-lannonce-a-1eur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015c7_yWR8RMYvU9MFX96K3vmAnWAX/310x430/bfdf0be4.webp?s=0c041806e80d54a09d8ecf51e05b76584a17a338",
+    "addedAt": "2026-09-23T05:38:50.628Z",
     "processed": false,
     "triaged": false
   }
