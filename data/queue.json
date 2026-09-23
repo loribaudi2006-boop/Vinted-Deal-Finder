@@ -25187,5 +25187,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10102769973",
+    "category": "Console",
+    "title": "PlayStation 4 PS4",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10102769973-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0156d_XijKyscV28vwFCvXQfsaTnjv/310x430/89833f53.webp?s=e0a2596a9712c5bc9982c55ae659444e5c936750",
+    "addedAt": "2026-09-23T04:57:06.819Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10102769588",
+    "category": "Console",
+    "title": "Ps5 slim muur standaard",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10102769588-ps5-slim-muur-standaard?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01bf5_LMbkVxVvy5J4JpWJwSUEocuY/310x430/f4802b14.webp?s=797eded549a34c2b2eeafce7ba023a8fea3b33c6",
+    "addedAt": "2026-09-23T04:57:06.819Z",
+    "processed": false,
+    "triaged": false
   }
 ]
