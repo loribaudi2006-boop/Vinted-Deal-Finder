@@ -25182,8 +25182,11 @@
     "url": "https://www.vinted.it/items/10102769973-playstation-4-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0156d_XijKyscV28vwFCvXQfsaTnjv/310x430/89833f53.webp?s=e0a2596a9712c5bc9982c55ae659444e5c936750",
     "addedAt": "2026-09-23T04:57:06.819Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102769588",
@@ -25195,8 +25198,11 @@
     "url": "https://www.vinted.it/items/10102769588-ps5-slim-muur-standaard?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01bf5_LMbkVxVvy5J4JpWJwSUEocuY/310x430/f4802b14.webp?s=797eded549a34c2b2eeafce7ba023a8fea3b33c6",
     "addedAt": "2026-09-23T04:57:06.819Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102816978",
@@ -25221,6 +25227,19 @@
     "url": "https://www.vinted.it/items/10102823051-ps4-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_019cd_e38vbmovjxaNp5sGWW7WeCyJ/310x430/10a57f32.webp?s=eb69cd86733a9be4aafe3792472e492c73f992b0",
     "addedAt": "2026-09-23T05:21:05.870Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10102838605",
+    "category": "Console",
+    "title": "Switch lite - bonne état",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10102838605-switch-lite-bonne-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01bcc_ANc5xa6k6soSWtbPB2KD7t4A/310x430/494b2e4b.webp?s=f8012006ce0d94ad0083740c2980c3d235ca0c71",
+    "addedAt": "2026-09-23T05:26:18.982Z",
     "processed": false,
     "triaged": false
   }
