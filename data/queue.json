@@ -1,23 +1,5 @@
 [
   {
-    "id": "10062102508",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10062102508-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_011d9_sgt7WyakFtMNxMTqk6JynaY4/310x430/89011412.webp?s=d15578a706386c0523ac48f637875761ea6328d1",
-    "addedAt": "2026-09-19T21:24:28.231Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nUsato\nSpedizione\nda 6,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 65.25
-  },
-  {
     "id": "10062221692",
     "category": "Console",
     "title": "PlayStation 4 PS4 (Non Funzionante / Da Sistemare) + Controller Compatibile + F1 20",
@@ -25183,5 +25165,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 338.25
+  },
+  {
+    "id": "10113114300",
+    "category": "Console",
+    "title": "Xbox One (Originalmodell) - 500GB (Aufbereitet)",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 51% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10113114300-xbox-one-originalmodell-500gb-aufbereitet?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a74_zPNWrw51t4PWL7HuJUSnwNMS/310x430/116beae2.webp?s=8fa668d63c54a434a98223a0769ac0b91305b4b9",
+    "addedAt": "2026-09-23T21:29:39.752Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.85€, sotto soglia"
   }
 ]
