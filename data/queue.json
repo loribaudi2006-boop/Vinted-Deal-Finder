@@ -1,21 +1,5 @@
 [
   {
-    "id": "10051102038",
-    "category": "Console",
-    "title": "Nintendo Switch OLED",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 81% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10051102038-nintendo-switch-oled?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0125b_dp56LEnEALCiDsjFuYUACr1x/310x430/ef7b9e5d.webp?s=8d203f1313171c1fe29a80c67c15ce31f5250107",
-    "addedAt": "2026-09-19T06:04:01.806Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10051194978",
     "category": "Console",
     "title": "Ps4pro neuf a réparé si on si connais",
@@ -25230,8 +25214,11 @@
     "url": "https://www.vinted.it/items/10102865410-dragonnes-officiel-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01d26_Dz8qKfMSkBcFuzrC5JxBqjan/310x430/5421578c.webp?s=e11cc97c916151cda257e1ae1ab466a73eacff84",
     "addedAt": "2026-09-23T05:36:45.372Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102870606",
@@ -25243,8 +25230,11 @@
     "url": "https://www.vinted.it/items/10102870606-vends-ps4-ne-pas-acheter-lannonce-a-1eur?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_015c7_yWR8RMYvU9MFX96K3vmAnWAX/310x430/bfdf0be4.webp?s=0c041806e80d54a09d8ecf51e05b76584a17a338",
     "addedAt": "2026-09-23T05:38:50.628Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102904988",
