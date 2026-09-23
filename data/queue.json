@@ -25166,8 +25166,11 @@
     "url": "https://www.vinted.it/items/10102685050-nintendo-switch-et-jeux?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00a35_PwQHTDiecLLGPFXK1TM2XnSq/310x430/47e16cd0.webp?s=f46ac4c443b0402509e6a4de03772f52d8490132",
     "addedAt": "2026-09-23T04:14:15.586Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102683605",
@@ -25179,7 +25182,10 @@
     "url": "https://www.vinted.it/items/10102683605-nintendo-switch-1-avec-manette-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_025dd_qYnt7TfxW2ViCF8H2nRret78/310x430/dde3bc79.webp?s=7d9d7d2b1e59d48de25d8cf566f316d7d4ef75a7",
     "addedAt": "2026-09-23T04:14:15.586Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
