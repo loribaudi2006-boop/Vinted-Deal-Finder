@@ -25102,8 +25102,11 @@
     "url": "https://www.vinted.it/items/10102343356-playstation-42-joystick?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_014d2_7cz5qGAVdpsYVTXKthWBj4rt/310x430/cca6b51f.webp?s=a09308ab668ca351c5041f805f0d5d70b0cee2fd",
     "addedAt": "2026-09-23T01:48:35.362Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10102383617",
