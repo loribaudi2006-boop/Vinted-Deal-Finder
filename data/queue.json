@@ -1,21 +1,5 @@
 [
   {
-    "id": "10050698242",
-    "category": "Console",
-    "title": "PlayStation 5 face plate noir standard",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10050698242-playstation-5-face-plate-noir-standard?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02593_TCLBDUPfL8sktUixDRfFC2XG/310x430/e2694edf.webp?s=c2b58da2a25b8b0e220f57e0a5746846118def21",
-    "addedAt": "2026-09-19T02:39:46.189Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10050930249",
     "category": "Console",
     "title": "PS4 fat-controller a 50",
@@ -25123,5 +25107,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10102483620",
+    "category": "Console",
+    "title": "PlayStation 4 Slim 1TB con Mando V2",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10102483620-playstation-4-slim-1tb-con-mando-v2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01fd1_ZkxsRqvuh7vAySgbtYDdyk1L/310x430/849e3d3f.webp?s=decbdfd7e065047e370d145a94fef08023127f1e",
+    "addedAt": "2026-09-23T02:38:39.746Z",
+    "processed": false,
+    "triaged": false
   }
 ]
