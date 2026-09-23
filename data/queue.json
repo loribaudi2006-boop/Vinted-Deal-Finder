@@ -1,23 +1,5 @@
 [
   {
-    "id": "10051519449",
-    "category": "Console",
-    "title": "PS4 slim",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10051519449-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01ce6_PtNqeuDduYuz7rA8Zq5YTToa/310x430/9b63c124.webp?s=230bf649ac7a3df30b39925405b6a53c9d9d2a5c",
-    "addedAt": "2026-09-19T07:25:35.248Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nAvec deux manettte\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
     "id": "10051599289",
     "category": "Console",
     "title": "Nintendo Switch mit Spielen",
@@ -25148,5 +25130,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "10103397976",
+    "category": "Console",
+    "title": "Chargeur Nintendo Switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10103397976-chargeur-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00c56_Z7yuuPK7ZJABXJWMrsPV4HLE/310x430/527db674.webp?s=955c52385bc7c98cefb12ae0db1ae65a3696c167",
+    "addedAt": "2026-09-23T07:29:46.344Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.95€, sotto soglia"
   }
 ]
