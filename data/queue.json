@@ -25311,8 +25311,10 @@
     "url": "https://www.vinted.it/items/10114604150-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
     "addedAt": "2026-09-24T05:33:46.757Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10114612350",
@@ -25324,6 +25326,24 @@
     "url": "https://www.vinted.it/items/10114612350-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
     "addedAt": "2026-09-24T05:36:55.701Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 8\nCondizioni\nOttime\nCaricato\nun minuto fa\nGute Qualität keine Gebrauchsspuren\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.3
+  },
+  {
+    "id": "10114627586",
+    "category": "Console",
+    "title": "Pochette Switch",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10114627586-pochette-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00875_7XNHk4fEHMC49YvmzDpKLFsW/310x430/75a3d16f.webp?s=fc000d78bffd168d28a10794a7571fe326770e5f",
+    "addedAt": "2026-09-24T05:42:09.153Z",
     "processed": false,
     "triaged": false
   }
