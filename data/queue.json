@@ -21457,5 +21457,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 150
+  },
+  {
+    "id": "10124523395",
+    "category": "Console",
+    "title": "Scatola Nintendo switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10124523395-scatola-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a54_mAUumqeHcionLNRSpH4tNRGD/310x430/9aa64d72.webp?s=531fb373d659b5d4b448a5d896d0c7983dbc8067",
+    "addedAt": "2026-09-24T22:28:28.356Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.45€, sotto soglia"
   }
 ]
