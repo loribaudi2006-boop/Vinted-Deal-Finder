@@ -1,21 +1,5 @@
 [
   {
-    "id": "10063717674",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10063717674-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02221_xwHewiT8GLmCj38RCZNsWRG6/310x430/b758be01.webp?s=f99cce1e36d1332060e431aacc71a5fb9787179b",
-    "addedAt": "2026-09-20T06:26:09.865Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10063910806",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -25362,8 +25346,11 @@
     "url": "https://www.vinted.it/items/10114671687-playstation-4-pro-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_009b3_N7UjsvazBhfxKKo4c3v6R6Pe/310x430/29bb491d.webp?s=dcc36d49091ac62545dbb7e940a6ece6ac67a0fa",
     "addedAt": "2026-09-24T05:56:46.437Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10114670747",
@@ -25375,7 +25362,10 @@
     "url": "https://www.vinted.it/items/10114670747-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0247d_xhYigxiD3CKQWkmsGH9h32Ut/310x430/ae341ee1.webp?s=1217c5eb306cc24ede5cc93aeb710bb076f788f0",
     "addedAt": "2026-09-24T05:56:46.437Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
