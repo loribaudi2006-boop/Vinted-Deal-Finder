@@ -1,21 +1,5 @@
 [
   {
-    "id": "10063471729",
-    "category": "Console",
-    "title": "Nintendo Switch Lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10063471729-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00920_K8TcyiGP7y9TuA2a1tQ8xRXb/310x430/ce5a3526.webp?s=83d2638a2d09400b893d031fa7e868d339df73de",
-    "addedAt": "2026-09-20T04:50:09.503Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10063717674",
     "category": "Console",
     "title": "Nintendo switch",
@@ -25136,8 +25120,11 @@
     "url": "https://www.vinted.it/items/10114414235-nintendo-switch-1ere-generation?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00fa1_dMpSVqNGrAHrJZHEYcNKSYyg/310x430/e3174a55.webp?s=55ef236833c92b6d649c2232a15d04323b1045cb",
     "addedAt": "2026-09-24T04:01:53.123Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10113107140",
@@ -25149,7 +25136,10 @@
     "url": "https://www.vinted.it/items/10113107140-paire-de-joy-con-nintendo-switch-bleu-rouge-neon-support-joy-con-grip-avec-boite-dorigine?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_02101_roVaL9sENW8FbXTePAgRZwHf/310x430/6f8e4f61.webp?s=98c6f594a385bf64ef466725d51b933985e55b8d",
     "addedAt": "2026-09-24T04:19:38.503Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
