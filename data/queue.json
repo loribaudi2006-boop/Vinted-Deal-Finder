@@ -25240,5 +25240,57 @@
     "geminiFault": "lettore CD non funzionnel, vendue sans manette",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10114566238",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10114566238-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
+    "addedAt": "2026-09-24T05:18:06.214Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10114569940",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10114569940-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
+    "addedAt": "2026-09-24T05:20:12.408Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10114577023",
+    "category": "Console",
+    "title": "Ps4 playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10114577023-ps4-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00896_gcwxpdiGoyybr5WShpFWChfj/310x430/7d96c8a4.webp?s=d29408639b23557f3e7e9f6c90da6d121d8b9f5a",
+    "addedAt": "2026-09-24T05:23:20.111Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10114581009",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10114581009-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
+    "addedAt": "2026-09-24T05:24:22.826Z",
+    "processed": false,
+    "triaged": false
   }
 ]
