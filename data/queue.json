@@ -1,20 +1,5 @@
 [
   {
-    "id": "10062873539",
-    "category": "Console",
-    "title": "Nintendo Switch 2 XXL-Bundle",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10062873539-nintendo-switch-2-xxl-bundle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02499_et3YurKGh1WQ2f1NM8CWhjRr/310x430/72d5dd3d.webp?s=31f390916b466e366dd70d62cf4ad8583780628a",
-    "addedAt": "2026-09-20T00:19:35.431Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10063130199",
     "category": "Console",
     "title": "Lot de 2 PS4 – à réparer / pour pièces",
@@ -25087,5 +25072,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.85€, sotto soglia"
+  },
+  {
+    "id": "10113833310",
+    "category": "Console",
+    "title": "Ps5 2021",
+    "price": 1.5,
+    "totalPrice": 2.28,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10113833310-ps5-2021?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_007c9_QpAzfWQPx1Gc5vuYv3h1QqEP/310x430/3d8833e4.webp?s=42cfb0e26ab0c2eb90b71c3fd2ab312ee0d1abd7",
+    "addedAt": "2026-09-24T00:21:26.735Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 2021\nOttime·PlayStation·Caricato un minuto fa\n\n1,50 €\n\n2,28 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs5 quasi nuova\nSpedizione\nda 5,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
+  },
+  {
+    "id": "10113835942",
+    "category": "Console",
+    "title": "Lots pièce switch lite & oled",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10113835942-lots-piece-switch-lite-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0263a_mUEpRM1yWYzghyh7g6cWGK8i/310x430/5d1dd56c.webp?s=08b4b23b40ca9c8f5977781057ee907891c4735b",
+    "addedAt": "2026-09-24T00:22:29.822Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLots pièce switch lite & oled\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nBonjour\nÉnorme lots de pièce certaine en bonne état d’autre moins\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Pezzi di ricambio vari per Nintendo Switch Lite e OLED, condizioni miste (alcune buone, altre meno)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
