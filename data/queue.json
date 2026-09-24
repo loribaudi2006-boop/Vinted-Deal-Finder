@@ -25108,5 +25108,20 @@
     "geminiFault": "Pezzi di ricambio vari per Nintendo Switch Lite e OLED, condizioni miste (alcune buone, altre meno)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10113896198",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10113896198-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01368_H61SQ7jXCK3N1PmJFdkxTgtx/310x430/e0e52f43.webp?s=230d913f60a3a167822f3bdfd79d918b3a7dc7a2",
+    "addedAt": "2026-09-24T00:40:16.243Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
