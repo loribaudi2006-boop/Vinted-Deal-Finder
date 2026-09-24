@@ -1,35 +1,5 @@
 [
   {
-    "id": "10063910806",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10063910806-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_017d2_HeEbvZct7Bg2v64ZZmnvoFAN/310x430/22b5e277.webp?s=0a02713d8a321be1f2e12b71157e4f928d13eeea",
-    "addedAt": "2026-09-20T07:03:44.544Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.05€, sotto soglia"
-  },
-  {
-    "id": "10063927482",
-    "category": "Console",
-    "title": "Insert ps5 fortnite",
-    "price": 9.99,
-    "totalPrice": 11.19,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10063927482-insert-ps5-fortnite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00ed8_a9aFTRiqG5qr5zDxRQdXcVCU/310x430/6dd77130.webp?s=046fe75a07850cb2e95c2ef84cdf5a753600c902",
-    "addedAt": "2026-09-20T07:06:52.367Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.19€, sotto soglia"
-  },
-  {
     "id": "10063959729",
     "category": "Console",
     "title": "PS4 fat 500Go + câbles+ 1 manette+ 2 jeux",
@@ -25378,8 +25348,10 @@
     "url": "https://www.vinted.it/items/10114798074-box-fur-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b44_TJYy3ZJfAnFYmwGmi8mjFHqy/310x430/9e7a4237.webp?s=b5bed5f1854a701ec0a81b067d08f22effebf3d0",
     "addedAt": "2026-09-24T06:31:16.687Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.9€, sotto soglia"
   },
   {
     "id": "10114508436",
@@ -25391,6 +25363,36 @@
     "url": "https://www.vinted.it/items/10114508436-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00855_ur24rUKeazShH1Vth1wbPgtk/310x430/274ca2ba.webp?s=3ac4365418199e1231d5267307d8cbd6295ed4e7",
     "addedAt": "2026-09-24T06:38:36.976Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.5€, sotto soglia"
+  },
+  {
+    "id": "10114973908",
+    "category": "Console",
+    "title": "Supporti per PS5 in orrizontale",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10114973908-supporti-per-ps5-in-orrizontale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02600_PjkY1Qm1mxmqTFHCZzoWCpyd/310x430/ff1dd2e2.webp?s=805609ccd97cc54f2e4fa9f73c2ef7d6cc6814c0",
+    "addedAt": "2026-09-24T07:06:49.976Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6€, sotto soglia"
+  },
+  {
+    "id": "10114981637",
+    "category": "Console",
+    "title": "Bundle PlayStation non funzionanti",
+    "price": 49.9,
+    "totalPrice": 53.1,
+    "reason": "parola chiave: \"non funziona\"",
+    "url": "https://www.vinted.it/items/10114981637-bundle-playstation-non-funzionanti?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00805_YARC76UbzrCY65EYRQE7Hx6b/310x430/f583c75d.webp?s=146136ee23932106fbbdf943893cab779d766be1",
+    "addedAt": "2026-09-24T07:07:53.059Z",
     "processed": false,
     "triaged": false
   }
