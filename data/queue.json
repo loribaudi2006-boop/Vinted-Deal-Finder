@@ -25367,5 +25367,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10114798074",
+    "category": "Console",
+    "title": "Box für Nintendo switch",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10114798074-box-fur-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b44_TJYy3ZJfAnFYmwGmi8mjFHqy/310x430/9e7a4237.webp?s=b5bed5f1854a701ec0a81b067d08f22effebf3d0",
+    "addedAt": "2026-09-24T06:31:16.687Z",
+    "processed": false,
+    "triaged": false
   }
 ]
