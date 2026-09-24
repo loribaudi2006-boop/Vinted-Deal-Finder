@@ -1,68 +1,5 @@
 [
   {
-    "id": "10072617524",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10072617524-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0178f_yMYpLt2mKWug9pQDcHyHSbAW/310x430/c75c6dc1.webp?s=9b9712a235645cc342a5571db1454bc67dd6dd84",
-    "addedAt": "2026-09-20T15:48:13.536Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "cità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nManque cordon manette il y a prise HDMI plus cordon internet et prise de secteur inclus\nSpedizione\nda 9,49 €",
-    "geminiFault": "Manque cordon manette",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
-    "id": "10072704937",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10072704937-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00304_JH4mgCHKoAq4mzjrPdnkGbfA/310x430/01a821b4.webp?s=f6ae6ee56f39b4b9b17c9e7531c6bf8962c69947",
-    "addedAt": "2026-09-20T15:52:24.394Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10072738314",
-    "category": "Console",
-    "title": "Housse de protection switch",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10072738314-housse-de-protection-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0253f_uXD2DrTdK6UtRtw3SWAdQfRy/310x430/aebaa178.webp?s=67a3dd15f6c47378b8fb16cd4920cfbcd4a34aa7",
-    "addedAt": "2026-09-20T15:53:27.593Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.2€, sotto soglia"
-  },
-  {
-    "id": "10072788560",
-    "category": "Console",
-    "title": "Boîte vide Nintendo Switch Oled",
-    "price": 19,
-    "totalPrice": 20.65,
-    "reason": "prezzo 93% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10072788560-boite-vide-nintendo-switch-oled?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b22_RFtkmyeYWxjQWBdDgKsmvjGS/310x430/ad23241f.webp?s=219160ddb1f6f7f786896f5babb84b3c7b3ed4d8",
-    "addedAt": "2026-09-20T15:55:33.392Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6€, sotto soglia"
-  },
-  {
     "id": "10072828912",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22379,8 +22316,10 @@
     "url": "https://www.vinted.it/items/10120244081-tab-s6-lite-xbox-one-s-1tb-avec-jeux-pour-un-meta-quest-3-ou-3s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01035_2pnHu6n4ug3zZHCuCprkTgtm/310x430/71c54b41.webp?s=7ac6f9f839b5994ff05a621960b7f1a97e580c03",
     "addedAt": "2026-09-24T15:30:35.418Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1€, sotto soglia"
   },
   {
     "id": "10120242592",
@@ -22434,7 +22373,12 @@
     "photoUrl": "https://images1.vinted.net/t/04_022d5_kWhj4jV8YswjmUQ9a4bL6oPL/310x430/ad38fd62.webp?s=3de71d38b2321f8914a000319c3778910a491036",
     "addedAt": "2026-09-24T15:39:58.391Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "llezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nBuone·Sony·Caricato 14 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n14 min fa\nConsole ps4, avec câble d'alimentation et HDMI\nParfaitement fonctionnelle, lecteur ok\nVendu sans manette et sans jeu\n\nPlayStation PS1 PS2 PS3 ps4 ps5 vintage rétro gaming nintendo GameCube Xbox Switch playstation ds dsi PSP ps vita wii wii u pokémon GameBoy advance super Nintendo NES SNES\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Vendu sans manette et sans jeu",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   },
   {
     "id": "10120370153",
@@ -22459,8 +22403,10 @@
     "url": "https://www.vinted.it/items/10119586499-cover-protettiva-per-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00175_i3Z4f4eeURbawqj21Gz9dY9m/310x430/662cfed3.webp?s=d115468db3331304cdd7664afc82a44531d9fc34",
     "addedAt": "2026-09-24T15:42:03.791Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8.45€, sotto soglia"
   },
   {
     "id": "10120396280",
