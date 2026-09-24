@@ -1,38 +1,5 @@
 [
   {
-    "id": "10077967796",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10077967796-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01caf_Qg4sPaYwb33xkaBadpSfodyr/310x430/537b897c.webp?s=d4d65b2d3964d5e04418795a2f124a0ba5ea8954",
-    "addedAt": "2026-09-20T21:57:41.068Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10077981039",
-    "category": "Console",
-    "title": "PS4 slim 1tb + gta 5",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10077981039-ps4-slim-1tb-gta-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_025cb_kuzVMmKX5qyiM1XvMvNzKYQ3/310x430/39f66eee.webp?s=8cc495e0c09f8432d9549f51b50cdcc4ee139608",
-    "addedAt": "2026-09-20T21:59:47.070Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 slim 1tb + gta 5\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nmodello da 1 TB (1000 GB - CUH-2016B)\nUsata e funzionante\n1 joystick\nGTA disco funzionante\nCavo hdmi e alimentazione incluso\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.05
-  },
-  {
     "id": "10078044962",
     "category": "Console",
     "title": "playstation 4",
@@ -21528,7 +21495,9 @@
     "url": "https://www.vinted.it/items/10124373209-xbox-one-s-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0253f_6K2LZcjVsBKTop8BTYxC2yvm/310x430/cf0f73a1.webp?s=1a568128ad130793bb4c2b1bbe46e5cebbcfc3fd",
     "addedAt": "2026-09-24T21:57:16.328Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
