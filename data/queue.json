@@ -1,23 +1,5 @@
 [
   {
-    "id": "10078044962",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10078044962-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01472_xgDXaA4bWUysx8wfqkBJWoQC/310x430/94dcc6d9.webp?s=c91932d186bad81c6c603463dcb8bc1ed3b06a1c",
-    "addedAt": "2026-09-20T22:11:21.143Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nusata con un joystick niente cavi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "senza cavi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.8
-  },
-  {
     "id": "10078077802",
     "category": "Console",
     "title": "Ps4 pro slim blanche",
@@ -21499,5 +21481,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10124430568",
+    "category": "Console",
+    "title": "Due Psp per pezzi di ricambio",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10124430568-due-psp-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0180e_FjKM47S9ZgMoEMKHAa36HtQg/310x430/827a6631.webp?s=bd8ed7484b1dc4f8ceaacc0e6b5f4ef25b9b715d",
+    "addedAt": "2026-09-24T22:09:46.685Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.3€, sotto soglia"
+  },
+  {
+    "id": "10124467543",
+    "category": "Console",
+    "title": "PlayStation 4 PS4 Fat – À tester / vendue en l’état",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10124467543-playstation-4-ps4-fat-a-tester-vendue-en-letat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_010dd_BuWEHbz6Vs1fRMAsNdAaccwi/310x430/afaed063.webp?s=0d602127398fd285c6dfc5c44a4a61286b5e88bf",
+    "addedAt": "2026-09-24T22:16:00.079Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
   }
 ]
