@@ -22119,7 +22119,12 @@
     "url": "https://www.vinted.it/items/10121495520-ps4-a-vendre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00f32_WMZYeWGGAfCSakQRvdHeKK7p/310x430/cdf30890.webp?s=651c2b099bc92053d6eda8998fa052b39b00b692",
     "addedAt": "2026-09-24T17:04:36.250Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 à vendre\nBuone·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPs4 marche bien avec tous les câbles plus manette noir à vendre parce que j’ai acheté la ps5. Prix négocier\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.3
   }
 ]
