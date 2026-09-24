@@ -25326,13 +25326,15 @@
     "url": "https://www.vinted.it/items/10114612350-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
     "addedAt": "2026-09-24T05:36:55.701Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 8\nCondizioni\nOttime\nCaricato\nun minuto fa\nGute Qualität keine Gebrauchsspuren\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 87.3
+    "geminiRoughMargin": 87.3,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10114627586",
