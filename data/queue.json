@@ -25346,8 +25346,11 @@
     "url": "https://www.vinted.it/items/10114627586-pochette-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00875_7XNHk4fEHMC49YvmzDpKLFsW/310x430/75a3d16f.webp?s=fc000d78bffd168d28a10794a7571fe326770e5f",
     "addedAt": "2026-09-24T05:42:09.153Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10114671687",
