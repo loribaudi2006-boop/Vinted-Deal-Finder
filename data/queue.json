@@ -25104,8 +25104,11 @@
     "url": "https://www.vinted.it/items/10114353934-ps4-fat-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_020fc_aHsgk9iwB3xfCxA7jQfUipwv/310x430/e5a3f122.webp?s=c53ccb2e0e093360ead9a45ee7b2140268aec1bc",
     "addedAt": "2026-09-24T03:30:31.600Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10114364862",
@@ -25117,6 +25120,22 @@
     "url": "https://www.vinted.it/items/10114364862-ps4-1-joystick-originale-fallout-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_006f6_KhpnyDpgB4CvUNphwTrdzLv4/310x430/6a3ee8fa.webp?s=4ac23ffd87541e3b5cea2f14441e1ab9348472af",
     "addedAt": "2026-09-24T03:35:44.936Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10114414235",
+    "category": "Console",
+    "title": "Nintendo switch 1ere génération",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10114414235-nintendo-switch-1ere-generation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00fa1_dMpSVqNGrAHrJZHEYcNKSYyg/310x430/e3174a55.webp?s=55ef236833c92b6d649c2232a15d04323b1045cb",
+    "addedAt": "2026-09-24T04:01:53.123Z",
     "processed": false,
     "triaged": false
   }
