@@ -1,35 +1,5 @@
 [
   {
-    "id": "10079644925",
-    "category": "Console",
-    "title": "Metal Gear Solid Delta: Snake Eater – Day One Edition per PS5",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10079644925-metal-gear-solid-delta-snake-eater-day-one-edition-per-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d69_seyU1DEA3gAVaJtmnibSY6hu/310x430/efb7e0dd.webp?s=507c1f1aab3f0996265726d7ebf6bb7c8e7e0be2",
-    "addedAt": "2026-09-21T07:05:03.746Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.3€, sotto soglia"
-  },
-  {
-    "id": "10079664551",
-    "category": "Console",
-    "title": "Lot Nintendo Switch – Mario + Rabbids Kingdom Battle + accessoires",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10079664551-lot-nintendo-switch-mario-rabbids-kingdom-battle-accessoires?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_025a5_DjU5YtGFrgLZU6YivRomDVvp/310x430/cbe95021.webp?s=0e8bb2e2e88c4aad81caf2945f74e1dc42a51e0b",
-    "addedAt": "2026-09-21T07:08:11.539Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10079837855",
     "category": "Console",
     "title": "PS4 Konsole",
@@ -21287,5 +21257,23 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10126025196",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10126025196-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00b27_RppAMfvRgLebg16btDPt96f5/310x430/d3b42b99.webp?s=a838e24be023e520d3e97e2ddcd1147442385e64",
+    "addedAt": "2026-09-25T07:04:05.023Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVendo PlayStation 4 500 gb, in perfette condizioni di funzionamento, con 2 joystick in più e la chiave \"golden hack\"\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
