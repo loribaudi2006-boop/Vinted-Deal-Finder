@@ -1,50 +1,5 @@
 [
   {
-    "id": "10088607622",
-    "category": "Console",
-    "title": "Nintendo switch protective case",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10088607622-nintendo-switch-protective-case?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_020b3_nSCjKHA6XvPUUFJSvZfrHRM4/310x430/9a91a678.webp?s=7e206c66957ff3ce42862254e3c582803f485ae4",
-    "addedAt": "2026-09-21T19:31:49.262Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~4.05€, sotto soglia"
-  },
-  {
-    "id": "10088652237",
-    "category": "Console",
-    "title": "gta 5 voor de ps5",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10088652237-gta-5-voor-de-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00385_f2epum2ZSCokYq6KqG83h3VC/310x430/acd3ccf8.webp?s=f3aab5f1f87fcfa604ff30aa0727d282091a782e",
-    "addedAt": "2026-09-21T19:36:01.547Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.95€, sotto soglia"
-  },
-  {
-    "id": "10088662656",
-    "category": "Console",
-    "title": "Super Mario maker 2 per Nintendo switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10088662656-super-mario-maker-2-per-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00fd2_QayAtwphxFN41X2kVurhoME9/310x430/bbcfcf71.webp?s=6dc3da4b7d0b33a381bbacd70ac12bb67aab3411",
-    "addedAt": "2026-09-21T19:37:06.717Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.2€, sotto soglia"
-  },
-  {
     "id": "10088697840",
     "category": "Console",
     "title": "PS4 Slim 500Go + 1 Manette  | Port HDMI à réparer | Pour pièces ou réparation",
@@ -20623,7 +20578,9 @@
     "url": "https://www.vinted.it/items/10133873253-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00bbf_bTfXqA1H9hrDUfMe9mCP3icY/310x430/6cf17aba.webp?s=71184cc7d8ad10c1ea0c77d1f8703e4e401e5ef3",
     "addedAt": "2026-09-25T19:29:11.524Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
