@@ -20633,5 +20633,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10134298675",
+    "category": "Console",
+    "title": "Ps4 2010",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10134298675-ps4-2010?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_025a5_VUHLPpVsDkxa1iUBgjm83Uox/310x430/422564ff.webp?s=54b2a4f997c0306e1e8a36ac2e91a1e6555a9788",
+    "addedAt": "2026-09-25T20:15:11.073Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 2010\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 2003\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 80
   }
 ]
