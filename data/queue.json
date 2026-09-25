@@ -1,23 +1,5 @@
 [
   {
-    "id": "10080123764",
-    "category": "Console",
-    "title": "PS4 Playstastion 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10080123764-ps4-playstastion-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_011f3_p22ZMY9rgz1M4aKrYURRjVip/310x430/0cfe0541.webp?s=705e38f45fe59a2010edfccac5c7ee531acd841f",
-    "addedAt": "2026-09-21T08:13:47.543Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "oli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Playstastion 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nHey verkaufe hier meine ps4 mit einem controller sie funktioniert einwandfrei bei weiterem fragen gerne melden\n\nBezahlung :\nBar bei abholung\nPer bankverbindung\n\nNicht per vinted\n... altro\nSpedizione\nda 13,59 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40
-  },
-  {
     "id": "10080237813",
     "category": "Console",
     "title": "Nintendo switch console seule",
@@ -21320,5 +21302,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10126513577",
+    "category": "Console",
+    "title": "PlayStation 4 (PS4)",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10126513577-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01cf7_9VkLYJ1Z7fB58JYCpgwZunQt/310x430/5ac32bad.webp?s=5f19a3f414a184d1bbf8fbf1174545bd8bb88130",
+    "addedAt": "2026-09-25T08:15:02.343Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 (PS4)\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nil prezzo è già scontato\nnon accetto le proposte\nVendo PlayStation 4, come visibile in foto. Il dispositivo si accende, ma non è stato testato con un TV per vedere il suo funzionamento per questo motivo lo vendo a questo prezzo basso, non garantisco funzionamento può essere che è tutto a posto può essere che abbia problemi non lo so, se ti interessa così, ok se no nessun problema cercati qualcosa che ti va bene per te, può essere utile anche per i pezzi di ricambio il controller in regalo\nScrivi solo se veramente sei\ninteressato\nIl prezzo è già scontato non accetto le proposte\nSiccome è una vendita fra i privati e quindi:\nNon c'è la garanzia\nNessuna restituzione\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non testata con TV, funzionamento non garantito, venduta come vista e piaciuta o per ricambi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
