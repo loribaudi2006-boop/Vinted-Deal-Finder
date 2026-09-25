@@ -20618,5 +20618,20 @@
     "geminiFault": "Controller non inbegrepen (manca il controller)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10134123812",
+    "category": "Console",
+    "title": "Xbox One + Kinect + cavetteria",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10134123812-xbox-one-kinect-cavetteria?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_013f2_n94zJsKU6LZ2yHSa5FEypcGc/310x430/fb036029.webp?s=abff9601910c4f2ddcb46881c2ead66dbfb2344f",
+    "addedAt": "2026-09-25T19:55:20.352Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
