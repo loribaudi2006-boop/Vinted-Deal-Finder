@@ -20687,5 +20687,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-20.19€, sotto soglia"
+  },
+  {
+    "id": "10135099598",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10135099598-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01528_25CuFqXA1F2ZQKfvB8RzEjdL/310x430/783f257d.webp?s=915f8db82fc333274aac722130b73f20c357a8c4",
+    "addedAt": "2026-09-25T22:20:35.585Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch funzionante con caricatore, custodia e adattatore controller per i joycon\n\nATTENZIONE:\nUnico difetto i joycon hanno un po' di problemi quando connessi alla console, quando la uso tengo i joycon connessi all'adattatore e funziona perfettamente, motivo per il basso prezzo\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "I joy-con hanno problemi quando connessi direttamente alla console",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "10135126117",
+    "category": "Console",
+    "title": "Xbox one avec palette pour manette",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10135126117-xbox-one-avec-palette-pour-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_020f4_6zd8AhCcXiUBFRXyiisw8neY/310x430/241dd36f.webp?s=0c4f1d44a504cee04084096472bb664df956eb4c",
+    "addedAt": "2026-09-25T22:26:50.903Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one avec palette pour manette\nDiscrete·Xbox·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nXbox one 500GO\n⚠️ le lecteur CD est capricieux et fait un peu de bruit parfois⚠️\nLe reste fonctionne parfaitement.\nVendu dans sa boîte d’origine avec une manette ( joystick usés ) et un câble d’alimentation.\nPossibilité de rajouter un casque Turtle Beach pour 15 €.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore CD capricioso e rumoroso, joystick usurati",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
   }
 ]
