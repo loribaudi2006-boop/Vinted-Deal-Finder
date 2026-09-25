@@ -21320,5 +21320,33 @@
     "geminiFault": "Non testata con TV, funzionamento non garantito, venduta come vista e piaciuta o per ricambi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10126607708",
+    "category": "Console",
+    "title": "PS5  No console !!",
+    "price": 29.99,
+    "totalPrice": 32.19,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10126607708-ps5-no-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0093e_F53SYZSHTXbyV5WSVVWPSjxk/310x430/7f811af7.webp?s=1a0a396a73c086cb7500c8f38dc06b65e222d110",
+    "addedAt": "2026-09-25T08:26:30.625Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
+  },
+  {
+    "id": "10126664083",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 24,
+    "totalPrice": 25.9,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10126664083-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0163a_ZoK7XMqAjdWeDSjWV7UjEsK7/310x430/d107859b.webp?s=63ebc23000916ab24d655694d6d3cbd56ddb1856",
+    "addedAt": "2026-09-25T08:32:46.412Z",
+    "processed": false,
+    "triaged": false
   }
 ]
