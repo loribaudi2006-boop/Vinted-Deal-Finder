@@ -20687,5 +20687,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-12.45€, sotto soglia"
+  },
+  {
+    "id": "10135345511",
+    "category": "Console",
+    "title": "Ps5 gt",
+    "price": 24,
+    "totalPrice": 25.9,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10135345511-ps5-gt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_006fd_kqj5Uoa6ca2tAbh4WW2KcEoN/310x430/7c904fd7.webp?s=ac163277b9ebbbf57a2203e9c9b76e79fd9c9a25",
+    "addedAt": "2026-09-25T23:25:18.514Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 gt\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n24,00 €\n\n25,90 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nPs5 five\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
+  },
+  {
+    "id": "10135349294",
+    "category": "Console",
+    "title": "Sony PlayStation 4 – Schwarz",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10135349294-sony-playstation-4-schwarz?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0230a_mnrT4wgNNUApCw9mLbvVDDhE/310x430/1f491baf.webp?s=5d1bdeb3b52663d96df452e332e012b309abe474",
+    "addedAt": "2026-09-25T23:26:20.891Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ti\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 – Schwarz\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nIch verkaufe meine schwarze PS4 in gutem gebrauchten Zustand.\n\n🎮 Details:\n\n* Farbe: Schwarz\n* Funktioniert einwandfrei\n* HDMI-Anschluss vorhanden\n* Stromkabel inklusive\n* Controller inklusive\n* Gebrauchsspuren vorhanden (siehe Bilder)\n\nDie PS4 wurde pfleglich behandelt und funktioniert ohne Probleme.\n\nBei Fragen gerne schreiben. 😊\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Gebrauchsspuren vorhanden (normale usura da utilizzo)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
   }
 ]
