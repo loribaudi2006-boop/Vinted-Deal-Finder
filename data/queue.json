@@ -1,38 +1,5 @@
 [
   {
-    "id": "10083350838",
-    "category": "Console",
-    "title": "Ps4 1to slim dans son emballage avec câble d alimentation sans manette",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10083350838-ps4-1to-slim-dans-son-emballage-avec-cable-d-alimentation-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_014ca_xSm4KRx2zkr1vZhEL97MeeJj/310x430/058d8288.webp?s=a4d0ee4a911c4a3dc2823c9b476340f0cc9a5577",
-    "addedAt": "2026-09-21T13:04:24.103Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "obby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 1to slim dans son emballage avec câble d alimentation sans manette\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPs4 slim 1to sans manette dans sa boîte\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca la manette",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.8
-  },
-  {
-    "id": "10083376107",
-    "category": "Console",
-    "title": "Boite rangement jeux switch Pokemon",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10083376107-boite-rangement-jeux-switch-pokemon?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00f3b_BzMVXGQwzHh6YQYUzzCEvxPm/310x430/4a5fc606.webp?s=f864284127376eb9a03743ba80806760247148ed",
-    "addedAt": "2026-09-21T13:06:30.910Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.45€, sotto soglia"
-  },
-  {
     "id": "10083450946",
     "category": "Console",
     "title": "PlayStation 4",
@@ -20921,5 +20888,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30.05€, sotto soglia"
+  },
+  {
+    "id": "10129409928",
+    "category": "Console",
+    "title": "playstation 5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10129409928-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00141_ZKK7zDGcf58cWWgJgAHbWfJ6/310x430/d2039829.webp?s=90af94cdbeccc2734591939c4fabcf12c8cd95a4",
+    "addedAt": "2026-09-25T13:02:38.192Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 5\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nvendo ps5 compreso di scatolo e controller\nperfetto stato\n1 mese di vita\nunica foto\npagamento anticipato sia vinted che tramite bonifico\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 276.8
   }
 ]
