@@ -1,21 +1,5 @@
 [
   {
-    "id": "10079270535",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10079270535-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_026fb_7e1oX68MS72KRLLG91dBjDa2/310x430/dc2e1db5.webp?s=a08722bad89c4b9c2c4f4bcccb601a5c60d9af37",
-    "addedAt": "2026-09-21T05:17:35.704Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10079329801",
     "category": "Console",
     "title": "Sony PlayStation 4 PS4 500GB CUH-1004A Schwarz + Kabel – gebraucht",
@@ -21361,7 +21345,10 @@
     "url": "https://www.vinted.it/items/10125576566-scatola-vuota-originale-sony-ps5-digital-edition-825gb-cfi-1216b-box-empty?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_005ca_PefoA5BKyPjWXCtVT2qnx8rS/310x430/6c7618a7.webp?s=c6d04a6d1f06b81f2aa38e89b7e4a4ddb8cdef13",
     "addedAt": "2026-09-25T04:50:47.648Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
