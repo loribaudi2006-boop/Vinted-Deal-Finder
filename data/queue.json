@@ -20990,5 +20990,50 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10129894939",
+    "category": "Console",
+    "title": "Nintendo Switch Hülle",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10129894939-nintendo-switch-hulle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d4e_A5EQcHLYFpDEhrRNGUBQwckn/310x430/8871d4c4.webp?s=219f79b926f39ff09c99e765362e97a5d33a6c56",
+    "addedAt": "2026-09-25T13:44:25.662Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10129912360",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10129912360-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00b64_9nbjAYJMQkVxGBB3es33W27P/310x430/f997f094.webp?s=acf295b344748801dbd8973c680969d6ec8c3894",
+    "addedAt": "2026-09-25T13:45:28.510Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.81€, sotto soglia"
+  },
+  {
+    "id": "10129961610",
+    "category": "Console",
+    "title": "Xbox one para peças",
+    "price": 24.99,
+    "totalPrice": 26.94,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10129961610-xbox-one-para-pecas?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_020ce_QV4KeNv8U2Q82Dy41TUUaxJf/310x430/b1f4cb04.webp?s=e2a7c6e2ee92a9106600c79d9caf457fa2301ce6",
+    "addedAt": "2026-09-25T13:49:38.896Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.06€, sotto soglia"
   }
 ]
