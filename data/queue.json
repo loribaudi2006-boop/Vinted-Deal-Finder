@@ -20975,5 +20975,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10129789381",
+    "category": "Console",
+    "title": "Cambio de cuerpo Switch1 V2 por switch 1 V1",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10129789381-cambio-de-cuerpo-switch1-v2-por-switch-1-v1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0062f_GHCybeRYvFsvif9SCAAddANZ/310x430/86988e45.webp?s=4042326b21e5563c6408ef871f0b9161d27f646d",
+    "addedAt": "2026-09-25T13:35:01.189Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
