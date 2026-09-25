@@ -21345,8 +21345,11 @@
     "url": "https://www.vinted.it/items/10125549100-jeux-ps4-uniquement?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02370_76wtjNTqbmHAJ4Caes5xvhqy/310x430/d792c6b4.webp?s=9d3f07dda663658216cf1b862b43925d2b1e1d5c",
     "addedAt": "2026-09-25T04:37:13.419Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10125576566",
