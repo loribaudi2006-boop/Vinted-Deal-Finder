@@ -1,20 +1,5 @@
 [
   {
-    "id": "10089854033",
-    "category": "Console",
-    "title": "Dock Nintendo Switch Oficial + Carregador / Transformador Original",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10089854033-dock-nintendo-switch-oficial-carregador-transformador-original?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00706_jh3zcat96EC62QhGKgdWBDbp/310x430/b23b8892.webp?s=bd2a52230f5cc9392ef92d5a9887c77fe0b9d1e1",
-    "addedAt": "2026-09-21T21:54:30.325Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.05€, sotto soglia"
-  },
-  {
     "id": "10089883996",
     "category": "Console",
     "title": "Xbox one",
@@ -20726,5 +20711,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10134962408",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10134962408-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01813_aJS7Hg5DAZvzmmoo89w42ETC/310x430/c5178ed5.webp?s=f492b1da00fc45a2f61f644faa0b85df0c50e9a4",
+    "addedAt": "2026-09-25T21:52:24.469Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
