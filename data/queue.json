@@ -1,50 +1,5 @@
 [
   {
-    "id": "10085487633",
-    "category": "Console",
-    "title": "Xbox One S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10085487633-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0010c_g2Dr1piwFNcTCepd1GiyjrqH/310x430/9fd9768b.webp?s=e313021c2c718ac74b46aa9b2c51c330f469efee",
-    "addedAt": "2026-09-21T15:43:45.561Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
-    "id": "10085505802",
-    "category": "Console",
-    "title": "PlayVital Schutzzubehör für Nintendo Switch  NEU",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10085505802-playvital-schutzzubehor-fur-nintendo-switch-neu?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00f0d_qKDNCuV9otuCwgHkEK2vqsjc/310x430/ab42c019.webp?s=4e3a1a52f14f63968941ee75febb07b4398659f8",
-    "addedAt": "2026-09-21T15:45:50.783Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.45€, sotto soglia"
-  },
-  {
-    "id": "10085525670",
-    "category": "Console",
-    "title": "PlayStation 4 + jeux",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10085525670-playstation-4-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01d3e_CikppMZnsxSiY9hU3AnmiHQd/310x430/8bc04b5c.webp?s=c616b9ac49f016263003a1c6b3a034e21ff8205b",
-    "addedAt": "2026-09-21T15:46:53.612Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.05€, sotto soglia"
-  },
-  {
     "id": "10085633286",
     "category": "Console",
     "title": "Caixa de Xbox series x",
@@ -20735,5 +20690,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "10131397031",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10131397031-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ce5_x8HtwmFLBTY9jwWkUyjjMe7v/310x430/e146e14f.webp?s=82e89b681d08dc99eb0deff5f79502ebfd97d27f",
+    "addedAt": "2026-09-25T15:47:58.712Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVend ps4 qui fonctionne très bien, elle ne rame pas s'allume en 1 clic elle sera nettoyé avant la vente\nVendu avec une manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10131437816",
+    "category": "Console",
+    "title": "CityDriver für PS5 – Fahrsimulation in München",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10131437816-citydriver-fur-ps5-fahrsimulation-in-munchen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01086_TCAK7BUfQ5zHnCLFgGZBk5XV/310x430/31a55119.webp?s=1f3aecfaa7d1495a4fd67a4654ca874334d1159b",
+    "addedAt": "2026-09-25T15:51:06.609Z",
+    "processed": false,
+    "triaged": false
   }
 ]
