@@ -1,20 +1,5 @@
 [
   {
-    "id": "10079558699",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10079558699-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_018b2_YHgrgv1jXPC2XJS5s5qAg3Zx/310x430/4dcac35c.webp?s=f2c2c013bc433afee92293eca588dcc3602ff0ad",
-    "addedAt": "2026-09-21T06:47:18.611Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10079618162",
     "category": "Console",
     "title": "PS4 for Parts – Not Working",
@@ -21251,8 +21236,11 @@
     "url": "https://www.vinted.it/items/10125776299-playstation-4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_009d8_aeHpnQX3Yf5UfdBzBpHQmd1w/310x430/e1263beb.webp?s=840278e91040779b233c0baf1a6bd8d9c5c3d0de",
     "addedAt": "2026-09-25T06:13:00.329Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10125770424",
@@ -21264,8 +21252,11 @@
     "url": "https://www.vinted.it/items/10125770424-nintendo-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00dad_rSdrvNUKcYFKywffuAhzWQYf/310x430/2ef4c972.webp?s=9e6db2d0d432f668759089925f26865e8e5accfa",
     "addedAt": "2026-09-25T06:13:00.329Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10125753369",
@@ -21277,8 +21268,11 @@
     "url": "https://www.vinted.it/items/10125753369-ps5-pro-a-donne?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_011a3_D5ggvPDELFJdZJUnMkr3fRC4/310x430/e6f1a13b.webp?s=9373f6ae849365e1306b51ea52c653f527277b37",
     "addedAt": "2026-09-25T06:13:00.330Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10125750359",
@@ -21290,8 +21284,11 @@
     "url": "https://www.vinted.it/items/10125750359-instalacion-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01a24_BN5dDr4PaP3vz5USp86oMwqU/310x430/c75e24e8.webp?s=94f711ef2938650b4a515470615dc9e45d1f7333",
     "addedAt": "2026-09-25T06:13:00.330Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10125828210",
@@ -21303,7 +21300,10 @@
     "url": "https://www.vinted.it/items/10125828210-chip-para-nintendo-switch-de-todo-tipo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0052e_4zRU1Ugp4JcdLidHFpgYvt3j/310x430/18a07173.webp?s=7a9e8e866006b39daa179b05276d8dc6e4898f16",
     "addedAt": "2026-09-25T06:21:20.598Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
