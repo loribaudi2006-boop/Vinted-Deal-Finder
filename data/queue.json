@@ -1,21 +1,5 @@
 [
   {
-    "id": "10091068433",
-    "category": "Console",
-    "title": "Ps5 slim",
-    "price": 22,
-    "totalPrice": 23.8,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10091068433-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_013be_md7vyoGRSpox9re9CBsXM8Ko/310x430/b6ae4a06.webp?s=d6340c52841209c6ff8a43f86582bda854f441f7",
-    "addedAt": "2026-09-22T04:13:14.970Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10091086213",
     "category": "Console",
     "title": "PlayStation 5",
@@ -20629,6 +20613,22 @@
     "url": "https://www.vinted.it/items/10136006321-tasto-home-originale-ps5rsony-nuovo-retro-30deg-anniversario-playstation?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01371_dizCaHoVevApjsPydqJRyN3L/310x430/bd8c0419.webp?s=666715e0ca0b00ad7678adb4319bdb8cbf978169",
     "addedAt": "2026-09-26T03:38:24.448Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10121842686",
+    "category": "Console",
+    "title": "Rangement switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10121842686-rangement-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0175f_CPjkV2mEaEdcygXHK5nzbCqH/310x430/0acb029a.webp?s=c0dbca76b90527d14dd3429ae14656a735809d86",
+    "addedAt": "2026-09-26T04:08:36.304Z",
     "processed": false,
     "triaged": false
   }
