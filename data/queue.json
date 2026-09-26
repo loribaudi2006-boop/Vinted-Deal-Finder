@@ -1,38 +1,5 @@
 [
   {
-    "id": "10095179463",
-    "category": "Console",
-    "title": "Housse de protection anti poussiere PS5",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10095179463-housse-de-protection-anti-poussiere-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_013f7_hyRgkWvCCAjH1J1qiHRWwqPF/310x430/9adbd247.webp?s=357618e5ef27d2f2b0c9dead580b3e0f809a0553",
-    "addedAt": "2026-09-22T13:02:31.515Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
-    "id": "10095228798",
-    "category": "Console",
-    "title": "Nintendo Switch V1 2017",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10095228798-nintendo-switch-v1-2017?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01c00_gabBMHfJaMQRUa74CW1xDV7D/310x430/787b2427.webp?s=593c560ee3303f08e2b56796bf1c7356e7acc3ad",
-    "addedAt": "2026-09-22T13:07:45.990Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "coli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch V1 2017\nOttime·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nLeer bien la descripción. ⚠️\n\nLa consola nintendo switch no funciona, no se que le pasa. No se enciende. Recalco: ¡No enciende cuando le das al boton de encender! No se exactamente que problema tiene.\n\nEsteticamente esta impecable, ademas tiene una pantalla protectora.\n\nSolo se vende lo que se ve en la foto, es decir, la consola.\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non si accende, problema sconosciuto",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "10095313222",
     "category": "Console",
     "title": "Nintendo Switch Grau + OVP + Dockingstation + Netzteil",
@@ -21688,7 +21655,42 @@
     "url": "https://www.vinted.it/items/10140733979-vend-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01fbf_zMfpFF49zpivhiAK8E3tq71Y/310x430/0736b225.webp?s=7cf675f01cf13d7d0da45d297868205c3543ef9b",
     "addedAt": "2026-09-26T12:59:34.659Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10140802854",
+    "category": "Console",
+    "title": "Ps5 neuve",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10140802854-ps5-neuve?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0190f_U8g6T4oPkuo2pRW1AwhacWpX/310x430/9d4417dd.webp?s=f213a08fe30125d4b784894d2d4cb6606dffa42b",
+    "addedAt": "2026-09-26T13:04:47.522Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 neuve\nBuone·PlayStation·Caricato 2 min fa\n\n22,00 €\n\n23,80 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nBuone\nCaricato\n2 min fa\nUne ps5 neuv acheter hier\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Descrizione in francese dice 'Une ps5 neuv acheter hier' (una PS5 nuova comprata ieri), prezzo estremamente sospetto per una PS5 (22€)",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 350
+  },
+  {
+    "id": "10140844365",
+    "category": "Console",
+    "title": "Scatola ps5 originale",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10140844365-scatola-ps5-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_010bf_UEqnfkeb14FEbc9UMw7bLkyK/310x430/c8c21a7f.webp?s=2b65ea86d717f2a75d4905f566cc7d8703a4a576",
+    "addedAt": "2026-09-26T13:06:52.741Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
