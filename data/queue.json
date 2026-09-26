@@ -20723,5 +20723,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10135496644",
+    "category": "Console",
+    "title": "Nintendo switch et jeux",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10135496644-nintendo-switch-et-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00895_U6KapSajUaMzm1Dd5dhtAHxT/310x430/0a40ed20.webp?s=a1bdeb4a1e80002d8a34680e862d3e6df6f094d0",
+    "addedAt": "2026-09-26T00:14:15.840Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
