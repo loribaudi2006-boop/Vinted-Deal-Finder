@@ -1,21 +1,5 @@
 [
   {
-    "id": "10091385607",
-    "category": "Console",
-    "title": "Switch sans jostik",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10091385607-switch-sans-jostik?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0243f_kvkR79Ebspd5WiURoL5inaAV/310x430/1af91326.webp?s=9174dfc3ba184c954fe99acafccb5ce9335977af",
-    "addedAt": "2026-09-22T06:18:29.645Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10091303408",
     "category": "Console",
     "title": "Sacoche de transport Nintendo switch",
@@ -20570,5 +20554,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10136345536",
+    "category": "Console",
+    "title": "XBOX One 500 Gb ( NO games )(NO controller)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10136345536-xbox-one-500-gb-no-games-no-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015ca_ZJX1bQp4SUpypCD4jn2KnsNQ/310x430/428f25bb.webp?s=d6b489258159e74b9d59584a2b6471e3cad413f5",
+    "addedAt": "2026-09-26T06:14:03.098Z",
+    "processed": false,
+    "triaged": false
   }
 ]
