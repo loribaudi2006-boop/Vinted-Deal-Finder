@@ -20591,5 +20591,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "10136603246",
+    "category": "Console",
+    "title": "kinect Xbox one + Juego Rivals 10€.",
+    "price": 10,
+    "totalPrice": 15,
+    "reason": "prezzo 90% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10136603246-kinect-xbox-one-juego-rivals-10eur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0141d_P5rW5u7BkgDLvpB2vH3Hd61i/310x430/29b1f3aa.webp?s=1a2d8611b474d88f402ff966f65276901f20e546",
+    "addedAt": "2026-09-26T07:06:22.885Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10136617584",
+    "category": "Console",
+    "title": "kinect Xbox one + Juego Rivals",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10136617584-kinect-xbox-one-juego-rivals?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014ff_Vqd5wVBfwffjnktDye8RfFo4/310x430/e3fe4a62.webp?s=b49f45e651c52d02303847d9b1770f42d3d2cdee",
+    "addedAt": "2026-09-26T07:09:31.063Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.55€, sotto soglia"
   }
 ]
