@@ -20517,6 +20517,48 @@
     "url": "https://www.vinted.it/items/10136345536-xbox-one-500-gb-no-games-no-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_015ca_ZJX1bQp4SUpypCD4jn2KnsNQ/310x430/428f25bb.webp?s=d6b489258159e74b9d59584a2b6471e3cad413f5",
     "addedAt": "2026-09-26T06:14:03.098Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10136474960",
+    "category": "Console",
+    "title": "Ps4-Ps3 lenkrad Zubehör",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10136474960-ps4-ps3-lenkrad-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02475_2mjzmBFRkLde2P4spineLo8X/310x430/b3c70f0b.webp?s=943554addf70ba2980700d443ee56da8e296ea3c",
+    "addedAt": "2026-09-26T06:43:20.690Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10136472492",
+    "category": "Console",
+    "title": "Switch OLED",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 81% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10136472492-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00674_iWFFCneBeX6JPnnUbbqCMypZ/310x430/7b6aa89a.webp?s=17e7da7e05948e891b77caab1c4dd668cbcdadc1",
+    "addedAt": "2026-09-26T06:43:20.691Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10136505746",
+    "category": "Console",
+    "title": "Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10136505746-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0215e_hkn7HQEHyWbB8C4R3SfVus11/310x430/889f848d.webp?s=174a3cb146c7c786d593cf476606e9fe9fa93573",
+    "addedAt": "2026-09-26T06:49:37.488Z",
     "processed": false,
     "triaged": false
   }
