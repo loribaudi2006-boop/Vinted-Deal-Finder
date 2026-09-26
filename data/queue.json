@@ -20618,5 +20618,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10135820961",
+    "category": "Console",
+    "title": "Nintendo switch noire",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10135820961-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01e32_QrTU5ofuvMSrTXJ1RWMfzZVv/310x430/512e9bcb.webp?s=2eb7339457fe4b5f427cce63e9aaa2752f5aaa84",
+    "addedAt": "2026-09-26T02:12:58.799Z",
+    "processed": false,
+    "triaged": false
   }
 ]
