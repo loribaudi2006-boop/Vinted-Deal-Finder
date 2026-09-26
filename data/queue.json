@@ -20618,5 +20618,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10135942813",
+    "category": "Console",
+    "title": "Nintendo switch et jeu",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10135942813-nintendo-switch-et-jeu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01563_74zPDe4SLPqYo7dCPcpRhuqm/310x430/c38f669c.webp?s=9ae4f7ca944939390b1517817b2e4344835fe2b5",
+    "addedAt": "2026-09-26T03:07:09.021Z",
+    "processed": false,
+    "triaged": false
   }
 ]
