@@ -20533,8 +20533,10 @@
     "url": "https://www.vinted.it/items/10136474960-ps4-ps3-lenkrad-zubehor?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02475_2mjzmBFRkLde2P4spineLo8X/310x430/b3c70f0b.webp?s=943554addf70ba2980700d443ee56da8e296ea3c",
     "addedAt": "2026-09-26T06:43:20.690Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.05€, sotto soglia"
   },
   {
     "id": "10136472492",
@@ -20546,8 +20548,13 @@
     "url": "https://www.vinted.it/items/10136472492-switch-oled?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00674_iWFFCneBeX6JPnnUbbqCMypZ/310x430/7b6aa89a.webp?s=17e7da7e05948e891b77caab1c4dd668cbcdadc1",
     "addedAt": "2026-09-26T06:43:20.691Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n15\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nSwitch OLED\nOttime·Nintendo·Caricato 18 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n18 min fa\nJe vend une switch OLED en bonne etat avec un verre trempé une pochette mario sans jeu et la station d accueil et la station de charge de manette. J ai Encore le carton d origine.\nA venir chercher sur place\n... altro\nSpedizione\nda 9,49 €\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 136.8
   },
   {
     "id": "10136505746",
@@ -20559,7 +20566,30 @@
     "url": "https://www.vinted.it/items/10136505746-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0215e_hkn7HQEHyWbB8C4R3SfVus11/310x430/889f848d.webp?s=174a3cb146c7c786d593cf476606e9fe9fa93573",
     "addedAt": "2026-09-26T06:49:37.488Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nSwitch\nOttime·Nintendo·Caricato 11 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n11 min fa\nFunziona ma ho solo base e console non ho controller e caricatore…\nSpedizione\nda 4,09 €",
+    "geminiFault": "Mancano i controller (Joy-Con) e il caricatore",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10136553222",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10136553222-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0133b_KcSURPExG1Z7723voVesbbRr/310x430/e5378837.webp?s=5731effd1e4afabb9d812fd1d7f0c1cdcd6da23e",
+    "addedAt": "2026-09-26T06:58:00.341Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n7\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nVendo Nintendo in ottime condizioni.\nDoppia memoria. Con tantissimi giochi . Inclusa di carica batterie e porta Nintendo e Joystick. La vendo per inutilizzo.\nVedi foto .\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
   }
 ]
