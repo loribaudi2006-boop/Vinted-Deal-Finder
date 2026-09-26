@@ -20565,7 +20565,10 @@
     "url": "https://www.vinted.it/items/10136242499-boite-vide-console-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00145_ZsjRfE6AtmqQC7STExp7MHZ8/310x430/7d049ce1.webp?s=77b766e30cd678b628aeef01518367da138dc06e",
     "addedAt": "2026-09-26T05:41:39.785Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
