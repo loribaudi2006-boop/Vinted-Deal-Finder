@@ -1,41 +1,5 @@
 [
   {
-    "id": "10092709568",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10092709568-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01589_gbgwo5GQYSw6HM2ds8btb81N/310x430/8a1bc8b4.webp?s=c5783fd9344ea9a2fa5a9c7cc66aaf2b426ed981",
-    "addedAt": "2026-09-22T09:17:12.441Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo PS4 Con 2 joypad intatta usata pochissimo e tenuta benissimo.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
-    "id": "10092742756",
-    "category": "Console",
-    "title": "Nintendo Switch Lite - Türkis/Blau",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10092742756-nintendo-switch-lite-turkisblau?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c66_onAEKKhN5jyi7NUenikF6WjQ/310x430/cedf184c.webp?s=45ed9b560716641fd23a00a8bd2f980b8c64bde7",
-    "addedAt": "2026-09-22T09:20:20.645Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPrenotato\nNintendo Switch Lite - Türkis/Blau\nBuone·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\n- 1 1/2 Jahre in Benutzung, aber auch nicht regelmäßig\n- Batterie geht schneller runter aber es hält sich in Grenzen\n- Konsole ist in einem Top Zustand und funktioniert einwandfrei\n- leichte Kratzer an Rückseite u. Display\n- Karton hat 1/2 Dellen\n- Kabel und stabilisierender Inhalt der Box ist nicht mehr vorhanden\n... altro\nSpedizione\nda 10,25 €\nChiedi info",
-    "geminiFault": "batteria usurata, lievi graffi su retro e display, scatola con ammaccature, cavi e supporto interno mancanti",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 37.3
-  },
-  {
     "id": "10092954235",
     "category": "Console",
     "title": "Cover PS5 Slim Spiderman 2",
@@ -21041,5 +21005,46 @@
     "geminiFault": "Lots de 3 jeux, plus deux micro",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.8
+  },
+  {
+    "id": "10137843420",
+    "category": "Console",
+    "title": "Accessoire Nintendo switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10137843420-accessoire-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a06_2nDfFPS8hLGs5M7Nn2giugyt/310x430/92a23060.webp?s=aab7cb718416728a11d5d5f60c69ab85769b086c",
+    "addedAt": "2026-09-26T09:20:14.552Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "10137882764",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10137882764-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c82_RJc6ssKmvv8EshqJTdPdawBi/310x430/efaeaf87.webp?s=167cf36ab7126d5bae04565e74efb5d4c8995432",
+    "addedAt": "2026-09-26T09:23:22.282Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10137881829",
+    "category": "Console",
+    "title": "Playstation 4 lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10137881829-playstation-4-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00629_EoLMuQcYvDaMavZ2fjcqqQCp/310x430/1169de44.webp?s=409e26e1868b6ff7a8b7a3960b9a41696181bcee",
+    "addedAt": "2026-09-26T09:23:22.282Z",
+    "processed": false,
+    "triaged": false
   }
 ]
