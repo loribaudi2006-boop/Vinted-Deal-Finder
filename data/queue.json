@@ -20708,5 +20708,20 @@
     "geminiFault": "Gebrauchsspuren vorhanden (normale usura da utilizzo)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10135460563",
+    "category": "Console",
+    "title": "Fc27 PS4/ps5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10135460563-fc27-ps4ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01594_VYcfPEQDS8XgeTPU5oEqYq5W/310x430/f1f27c48.webp?s=283d80d56d73a0c8170814aec5651d70f7762ed6",
+    "addedAt": "2026-09-26T00:01:45.743Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
