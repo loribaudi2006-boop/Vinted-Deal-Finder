@@ -1,20 +1,5 @@
 [
   {
-    "id": "10103479674",
-    "category": "Console",
-    "title": "Modello comico playstation 5",
-    "price": 13.5,
-    "totalPrice": 14.88,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10103479674-modello-comico-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01c0d_gdKVf1XZeB8ZPpJCngWPomGP/310x430/889cc17c.webp?s=f8e1bb83826d07a2c0385dd33addbf1767eab9ef",
-    "addedAt": "2026-09-23T07:41:11.610Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-15€, sotto soglia"
-  },
-  {
     "id": "10103531967",
     "category": "Console",
     "title": "Xbox one x 1tb funzionante",
@@ -21726,5 +21711,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-27.45€, sotto soglia"
+  },
+  {
+    "id": "10149272547",
+    "category": "Console",
+    "title": "Xbox One S Bianco e due controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10149272547-xbox-one-s-bianco-e-due-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008ec_oyXURUfbC35pxA71KeSUGSSR/310x430/4b50d9dd.webp?s=b299ef4a95aa549a4b6c2c50dab15fa533f0240d",
+    "addedAt": "2026-09-27T07:38:29.881Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S Bianco e due controller\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo Xbox One S con due controller.\nperfettamente funzionante (vendo senza scatola, cosi come in foto).\n\nNon trovo il cavo di alimentazione ma lo potete comprare tranquillamente online.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il cavo di alimentazione e la scatola originale.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
