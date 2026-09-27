@@ -1,35 +1,5 @@
 [
   {
-    "id": "10112454794",
-    "category": "Console",
-    "title": "Ps2 scocca rotta",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "parola chiave: \"rotta\"",
-    "url": "https://www.vinted.it/items/10112454794-ps2-scocca-rotta?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_026e1_LdRzYwdbsfQ1b4ndPgpziio4/310x430/5dc152dd.webp?s=81becd622214db64a4a5d9f86a6cecfc07ebce04",
-    "addedAt": "2026-09-23T20:11:12.815Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.3€, sotto soglia"
-  },
-  {
-    "id": "10112519037",
-    "category": "Console",
-    "title": "Boîte PlayStation 4 call of duty",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10112519037-boite-playstation-4-call-of-duty?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02573_Lkdq5AaasTuDo1awEQJ2fw24/310x430/5e267ed8.webp?s=1f8ddb052c9c0ae1566b18fc03fc0e3a2e513115",
-    "addedAt": "2026-09-23T20:15:24.141Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.45€, sotto soglia"
-  },
-  {
     "id": "10112600430",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22978,5 +22948,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "10161795225",
+    "category": "Console",
+    "title": "[Scatola Vuota] PS4 Slim 1TB Destiny 2 Bundle + Imballi Interni e Manuali",
+    "price": 29.5,
+    "totalPrice": 31.68,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10161795225-scatola-vuota-ps4-slim-1tb-destiny-2-bundle-imballi-interni-e-manuali?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00b44_w9Ln9MNNuvoZhcD6fokQ3Lk9/310x430/a6a91030.webp?s=d1102f27f6288977f3335dd81506aed01a4463f2",
+    "addedAt": "2026-09-27T20:12:49.322Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10161821983",
+    "category": "Console",
+    "title": "Ps4 fat",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10161821983-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01105_tq5ARFaJ11uVLpLdYP83VuyQ/310x430/2e668c10.webp?s=6956071de55c916e71d9b05911b88229e815ea5c",
+    "addedAt": "2026-09-27T20:14:54.856Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
+  },
+  {
+    "id": "10161883731",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10161883731-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0074d_JTrf8REC8ScmTRgtD96nkWs9/310x430/a784fe26.webp?s=5d011d9083359d279e44b394ea5cc3f75f619d21",
+    "addedAt": "2026-09-27T20:20:09.802Z",
+    "processed": false,
+    "triaged": false
   }
 ]
