@@ -1,21 +1,5 @@
 [
   {
-    "id": "10102870606",
-    "category": "Console",
-    "title": "Vends ps4 ( ne pas acheter l’annonce a 1€ )",
-    "price": 1,
-    "totalPrice": 1,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10102870606-vends-ps4-ne-pas-acheter-lannonce-a-1eur?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015c7_yWR8RMYvU9MFX96K3vmAnWAX/310x430/bfdf0be4.webp?s=0c041806e80d54a09d8ecf51e05b76584a17a338",
-    "addedAt": "2026-09-23T05:38:50.628Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10102904988",
     "category": "Console",
     "title": "Sterzo volante manubrio Nintendo Switch 2",
@@ -21699,6 +21683,19 @@
     "url": "https://www.vinted.it/items/10148649244-nyxi-hyperion-3-pour-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_020ac_VpoAHZsLeKNLNj2T68TeEXUv/310x430/b0f7d281.webp?s=3bffb3ca613c15f65ae5fadebc7fbfbe854a0d2e",
     "addedAt": "2026-09-27T05:27:45.825Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10148693742",
+    "category": "Console",
+    "title": "Switch 1er génération",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10148693742-switch-1er-generation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01cea_6Vd6497dCqJLcG1iQKc43aHU/310x430/22def666.webp?s=3d002c3881e70e829ca33b0d935890fdb11face8",
+    "addedAt": "2026-09-27T05:46:37.872Z",
     "processed": false,
     "triaged": false
   }
