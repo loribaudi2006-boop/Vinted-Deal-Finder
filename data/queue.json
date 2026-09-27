@@ -1,20 +1,5 @@
 [
   {
-    "id": "10113114300",
-    "category": "Console",
-    "title": "Xbox One (Originalmodell) - 500GB (Aufbereitet)",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 51% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10113114300-xbox-one-originalmodell-500gb-aufbereitet?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a74_zPNWrw51t4PWL7HuJUSnwNMS/310x430/116beae2.webp?s=8fa668d63c54a434a98223a0769ac0b91305b4b9",
-    "addedAt": "2026-09-23T21:29:39.752Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20.85€, sotto soglia"
-  },
-  {
     "id": "10113180513",
     "category": "Console",
     "title": "Xbox One S 500GB + 2 giochi + controller",
@@ -23017,5 +23002,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.55€, sotto soglia"
+  },
+  {
+    "id": "10162518937",
+    "category": "Console",
+    "title": "playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10162518937-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a71_A2m82keMXpZ9ctj8vJ1HX4o6/310x430/0a7d460e.webp?s=573ae78c319644bf16ebe027e8f2ad9f094fdb39",
+    "addedAt": "2026-09-27T21:26:20.640Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
