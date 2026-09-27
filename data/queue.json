@@ -1,20 +1,5 @@
 [
   {
-    "id": "10103872077",
-    "category": "Console",
-    "title": "Ps4 noire",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10103872077-ps4-noire?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_024bd_MXTEhhuf3YuP29cfB9geZb7E/310x430/4205e6dd.webp?s=b8bd2953979c0c3223e828127e8fe5ebf3e1aaf3",
-    "addedAt": "2026-09-23T08:28:48.218Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10103935444",
     "category": "Console",
     "title": "Carcasas Paneles Laterales PS5 Slim Morado Púrpura",
@@ -21783,5 +21768,41 @@
     "geminiFault": "Porta HDMI guasta (HS), nessun segnale video",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 55
+  },
+  {
+    "id": "10149755031",
+    "category": "Console",
+    "title": "Ps4 slim preno",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10149755031-ps4-slim-preno?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0178a_qYnrskYZQkK3TeRPhJiTsGJa/310x430/d8e7779d.webp?s=d5558ca87b11baaec8c52b8d6d7ae0ea73d372db",
+    "addedAt": "2026-09-27T08:26:31.403Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim preno\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nCome nuova\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.05
+  },
+  {
+    "id": "10149796819",
+    "category": "Console",
+    "title": "Bonjour je vend cette switche lite tres bon état si besoin contactez-moi",
+    "price": 46,
+    "totalPrice": 49,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10149796819-bonjour-je-vend-cette-switche-lite-tres-bon-etat-si-besoin-contactez-moi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0008a_aCqTpWxck4YXNdXcRCFE8qJM/310x430/c291088b.webp?s=6e7d39cf9bb32d04dc1ecda30e4fec5431be6645",
+    "addedAt": "2026-09-27T08:29:39.034Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "y e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nBonjour je vend cette switche lite tres bon état si besoin contactez-moi\nOttime·Nintendo·Caricato un minuto fa\n\n46,00 €\n\n49,00 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nSwitche pour enfants amusement bon état si besoin contactez-moi\nSpedizione\nda 9,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
