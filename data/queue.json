@@ -1,53 +1,5 @@
 [
   {
-    "id": "10112290187",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10112290187-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0171d_xrvDFx3HGzqXRXfDpc6fg2j4/310x430/ad57609c.webp?s=ca215005e3043e8525c2467f8695647529d341ad",
-    "addedAt": "2026-09-23T19:52:22.949Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "cità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch\nDiscrete·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNintendo switch 1, funzionante ma batteria leggermente usata\nSpedizione\nda 4,09 €",
-    "geminiFault": "batteria leggermente usata",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 75.3
-  },
-  {
-    "id": "10112326807",
-    "category": "Console",
-    "title": "Switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10112326807-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01504_9hivZxByAR2xVoomVL9JeQRm/310x430/4eb8bf8f.webp?s=cebebbedf4121238ef48867c3c2bad0d7b96a943",
-    "addedAt": "2026-09-23T19:55:31.560Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
-    "id": "10112370119",
-    "category": "Console",
-    "title": "Switch 2 Resident Evil XXL-Bundle",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10112370119-switch-2-resident-evil-xxl-bundle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02670_HM5thCtdGq8niPpKdrqju4JX/310x430/40f58496.webp?s=a3a87aab2971836202b1e797ff2ab5832ae6e723",
-    "addedAt": "2026-09-23T19:59:42.111Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10112395274",
     "category": "Console",
     "title": "Ps4 fat",
@@ -23007,7 +22959,27 @@
     "url": "https://www.vinted.it/items/10161527382-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01753_3kdeJyzSuToU9uukjgX7Xiwu/310x430/98df0289.webp?s=8f0ac621c26eca26b6c6e9058dd2b73e965fff11",
     "addedAt": "2026-09-27T19:50:46.210Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 5\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 5\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 340
+  },
+  {
+    "id": "10161634674",
+    "category": "Console",
+    "title": "PS5 wrapped plates",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10161634674-ps5-wrapped-plates?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01354_2AmUTsANWaGphAyZRpfhUR19/310x430/b9b827e8.webp?s=2b6682e4e6b6321ee055551ff18c2495c508b7de",
+    "addedAt": "2026-09-27T19:59:09.891Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-23.2€, sotto soglia"
   }
 ]
