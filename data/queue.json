@@ -1,23 +1,5 @@
 [
   {
-    "id": "10103248532",
-    "category": "Console",
-    "title": "xbox one leggere descrizione",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10103248532-xbox-one-leggere-descrizione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02403_YXuYqPwD9qCzXmVKtTxfb4Ta/310x430/eed815fc.webp?s=b8712303af0041b5ccf818805feff5cbfd0e9d0f",
-    "addedAt": "2026-09-23T07:06:45.774Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nxbox one leggere descrizione\nDiscrete·Xbox·Caricato proprio adesso\n\n20,00 €\n\n21,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nvendo xbox one perfettamente funzionante ma la scocca di sotto é danneggiata\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Scocca inferiore danneggiata",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 33.3
-  },
-  {
     "id": "10103344949",
     "category": "Console",
     "title": "Ps4 y juegos",
@@ -21678,5 +21660,38 @@
     "geminiFault": "Sticks abgenutzt ma funzionanti",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45.05
+  },
+  {
+    "id": "10149019956",
+    "category": "Console",
+    "title": "Am selling this ps4",
+    "price": 57,
+    "totalPrice": 60.55,
+    "reason": "prezzo 56% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10149019956-am-selling-this-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023b8_mktp94zMMa4FAi3seaVv7Es7/310x430/b40b857b.webp?s=ea7dd79d6d0f98c1a866cb6d8f7a89f50a05f867",
+    "addedAt": "2026-09-27T07:05:05.737Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "oli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nAm selling this ps4\nBuone·PlayStation·Caricato 2 min fa\n\n57,00 €\n\n60,55 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nAm selling it because i dont use it alot anymore.\nAm selling the microphone and controller with it\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 49.45
+  },
+  {
+    "id": "10149056398",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10149056398-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f6e_AVBpbYji7UHXyVwczN4jVUWD/310x430/a204a559.webp?s=cfe898e5f75d552e71b1ba49a77c59c251b7aebd",
+    "addedAt": "2026-09-27T07:09:15.768Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
