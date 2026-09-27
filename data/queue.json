@@ -21638,8 +21638,11 @@
     "url": "https://www.vinted.it/items/10148649903-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a77_i6VYu32DnGmCoMD5hMFGo637/310x430/a1b6d048.webp?s=481e74e610de5a3e8a5f59ca484f979f0db7f3bc",
     "addedAt": "2026-09-27T05:27:45.825Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10148649244",
@@ -21651,8 +21654,11 @@
     "url": "https://www.vinted.it/items/10148649244-nyxi-hyperion-3-pour-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_020ac_VpoAHZsLeKNLNj2T68TeEXUv/310x430/b0f7d281.webp?s=3bffb3ca613c15f65ae5fadebc7fbfbe854a0d2e",
     "addedAt": "2026-09-27T05:27:45.825Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10148693742",
