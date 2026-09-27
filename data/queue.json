@@ -1,20 +1,5 @@
 [
   {
-    "id": "10103397976",
-    "category": "Console",
-    "title": "Chargeur Nintendo Switch",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10103397976-chargeur-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00c56_Z7yuuPK7ZJABXJWMrsPV4HLE/310x430/527db674.webp?s=955c52385bc7c98cefb12ae0db1ae65a3696c167",
-    "addedAt": "2026-09-23T07:29:46.344Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-14.95€, sotto soglia"
-  },
-  {
     "id": "10103479674",
     "category": "Console",
     "title": "Modello comico playstation 5",
@@ -21726,5 +21711,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10149177915",
+    "category": "Console",
+    "title": "Nintendo Switch 2 catálogo Japón flyers",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10149177915-nintendo-switch-2-catalogo-japon-flyers?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ff3_vsAdZLs59drkMy5ZkrwDxgG5/310x430/850f15c3.webp?s=ebbd8a9a2f2d46fa710571fbc2e3e348cd0d2cd2",
+    "addedAt": "2026-09-27T07:30:08.334Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-27.45€, sotto soglia"
   }
 ]
