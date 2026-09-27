@@ -1,20 +1,5 @@
 [
   {
-    "id": "10113561739",
-    "category": "Console",
-    "title": "Sony PlayStation 4 origineel",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10113561739-sony-playstation-4-origineel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01a65_EkJ9PRVj3FWu5UfE4CQhyMAm/310x430/7411f6c7.webp?s=159cf95b5b2f4d8b6c6d0974ac204795e5d3e384",
-    "addedAt": "2026-09-23T23:09:08.958Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.85€, sotto soglia"
-  },
-  {
     "id": "10113833310",
     "category": "Console",
     "title": "Ps5 2021",
@@ -22945,5 +22930,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-32.2€, sotto soglia"
+  },
+  {
+    "id": "10163095942",
+    "category": "Console",
+    "title": "PS4 console",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10163095942-ps4-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_016ba_ZeKDfZQRNvkkdxhqZiipE42D/310x430/0f802cf6.webp?s=03c07363bdbeeb58fab422ae9d5c1a088927e659",
+    "addedAt": "2026-09-27T23:04:46.106Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "li griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 console\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nconsole usata come nuova, 2 controller funzionanti tutte e due originali, con fili.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.05
   }
 ]
