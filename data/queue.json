@@ -21819,5 +21819,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10148243462",
+    "category": "Console",
+    "title": "Ps4 pro 500gb para arreglar o piezas",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 67% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10148243462-ps4-pro-500gb-para-arreglar-o-piezas?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_009d3_uKy24pikT7xnbGYiCP5dtiNM/310x430/2accb8d3.webp?s=a676f182764a8b99f91b752fbab17a2c379f4ac8",
+    "addedAt": "2026-09-27T02:10:09.276Z",
+    "processed": false,
+    "triaged": false
   }
 ]
