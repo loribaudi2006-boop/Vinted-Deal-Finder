@@ -21755,5 +21755,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10148558000",
+    "category": "Console",
+    "title": "Xbox One x",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10148558000-xbox-one-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0029c_84LzKA76kuegyzjmFuWeS9S5/310x430/d0a0e2ea.webp?s=83a1918760ffbd6119d3b7aef94db18568fbe223",
+    "addedAt": "2026-09-27T04:38:42.589Z",
+    "processed": false,
+    "triaged": false
   }
 ]
