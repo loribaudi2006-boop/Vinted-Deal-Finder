@@ -21670,6 +21670,22 @@
     "url": "https://www.vinted.it/items/10148693742-switch-1er-generation?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01cea_6Vd6497dCqJLcG1iQKc43aHU/310x430/22def666.webp?s=3d002c3881e70e829ca33b0d935890fdb11face8",
     "addedAt": "2026-09-27T05:46:37.872Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10148875945",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10148875945-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01dea_L133EBrqnw7Q3Rkarg2z666y/310x430/d82bff5a.webp?s=5cf04b3e455c79cfbcfb3dfdfc69acca604c7f3e",
+    "addedAt": "2026-09-27T06:36:55.638Z",
     "processed": false,
     "triaged": false
   }
