@@ -22973,5 +22973,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10164046637",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10164046637-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0200d_9HqqQ9okDQ2ExuAz2DEnuhBH/310x430/6ce98c72.webp?s=af48980dda91f7d35b90d75b75f0e47c75055a17",
+    "addedAt": "2026-09-28T04:12:31.361Z",
+    "processed": false,
+    "triaged": false
   }
 ]
