@@ -1,21 +1,5 @@
 [
   {
-    "id": "10114627586",
-    "category": "Console",
-    "title": "Pochette Switch",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10114627586-pochette-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00875_7XNHk4fEHMC49YvmzDpKLFsW/310x430/75a3d16f.webp?s=fc000d78bffd168d28a10794a7571fe326770e5f",
-    "addedAt": "2026-09-24T05:42:09.153Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10114671687",
     "category": "Console",
     "title": "Playstation 4 pro 1Tb",
@@ -22870,8 +22854,11 @@
     "url": "https://www.vinted.it/items/10164172030-playstation-4-in-foto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01d3d_sR9eZ5tX3DiAWKpBwtepj7iM/310x430/b6044a29.webp?s=720c659a10f93c51170ebe556ec25886d9898bb3",
     "addedAt": "2026-09-28T05:17:12.361Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164178797",
@@ -22883,8 +22870,11 @@
     "url": "https://www.vinted.it/items/10164178797-nintendo-switch-tasche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_015a4_DDzQC2qiVGwopLC2L9zCbBCh/310x430/a2170b40.webp?s=92594a4b90dc7d00fcd77f75a543dd63683ccf61",
     "addedAt": "2026-09-28T05:18:14.831Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164223101",
@@ -22909,6 +22899,19 @@
     "url": "https://www.vinted.it/items/10164224829-playstation-4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01d25_c6gqPD6UZtTotqRi7mgin6HC/310x430/f88f2176.webp?s=d608988dbfc936bddcb15ecd4a2129345d8b38e3",
     "addedAt": "2026-09-28T05:38:04.684Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10164237732",
+    "category": "Console",
+    "title": "Scocche ps5",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10164237732-scocche-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00513_ZHGBXubuX5dF2bWiZS5E1HE9/310x430/67a0a4a3.webp?s=625cd2f91ba14921a10de6a3985992f203f4d19d",
+    "addedAt": "2026-09-28T05:43:17.890Z",
     "processed": false,
     "triaged": false
   }
