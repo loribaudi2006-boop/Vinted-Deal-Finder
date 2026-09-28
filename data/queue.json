@@ -22873,5 +22873,20 @@
     "geminiFault": "S'allume, arrive au logo PlayStation puis s'éteint, chauffe beaucoup",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 37.05
+  },
+  {
+    "id": "10167308004",
+    "category": "Console",
+    "title": "Boîte ps5 slim edition fornite ( boîte seul sans console )",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10167308004-boite-ps5-slim-edition-fornite-boite-seul-sans-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01772_yZYZ8P2YJf5EQiBbmV6sBgAy/310x430/85f97bf8.webp?s=3b3fa99ea40e6ba2dbe5605d89d57ef79258c0ce",
+    "addedAt": "2026-09-28T11:47:55.262Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-40€, sotto soglia"
   }
 ]
