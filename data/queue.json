@@ -1,35 +1,5 @@
 [
   {
-    "id": "10114973908",
-    "category": "Console",
-    "title": "Supporti per PS5 in orrizontale",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10114973908-supporti-per-ps5-in-orrizontale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02600_PjkY1Qm1mxmqTFHCZzoWCpyd/310x430/ff1dd2e2.webp?s=805609ccd97cc54f2e4fa9f73c2ef7d6cc6814c0",
-    "addedAt": "2026-09-24T07:06:49.976Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6€, sotto soglia"
-  },
-  {
-    "id": "10114981637",
-    "category": "Console",
-    "title": "Bundle PlayStation non funzionanti",
-    "price": 49.9,
-    "totalPrice": 53.1,
-    "reason": "parola chiave: \"non funziona\"",
-    "url": "https://www.vinted.it/items/10114981637-bundle-playstation-non-funzionanti?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00805_YARC76UbzrCY65EYRQE7Hx6b/310x430/f583c75d.webp?s=146136ee23932106fbbdf943893cab779d766be1",
-    "addedAt": "2026-09-24T07:07:53.059Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10114993480",
     "category": "Console",
     "title": "Xbox one",
@@ -22920,8 +22890,10 @@
     "url": "https://www.vinted.it/items/10164436455-nintendo-switch-2-jeux-pochette-de-rangement?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0082f_CFo8VsSTGonYFyGHotDSUiVq/310x430/b06f4dfd.webp?s=77074897c13617b573ab02f597cf46fdc4aeb18e",
     "addedAt": "2026-09-28T06:41:46.284Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   },
   {
     "id": "10164445236",
@@ -22933,7 +22905,12 @@
     "url": "https://www.vinted.it/items/10164445236-playstation-4-slim-usata-vendita-privata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_004f0_5Ggt6rJmmqh5NJpXk6hz1dxL/310x430/28227eab.webp?s=dca1e9e628b34928a7f03c1488463a93d0933a7c",
     "addedAt": "2026-09-28T06:43:51.672Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "caVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4 Slim Usata (vendita privata)\nDiscrete·PlayStation·Caricato 18 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n18 min fa\n🎮 PS4 Slim 500GB + HDD esterno 1TB\n\nVendo PlayStation 4 Slim perfettamente funzionante.\n\nIncluso:\n\n- PS4 Slim 500 GB\n- HDD esterno 1 TB\n- Cavo di alimentazione\n- Cavo HDMI\n- Controller originale\n\nIl controller è abbastanza rovinato esteticamente, ma viene incluso insieme alla console.\n\nLa console presenta normali segni di utilizzo, ma funziona regolarmente.\n... altro\nSpedizione\nda 4,09 €",
+    "geminiFault": "Controller rovinato esteticamente, normali segni di utilizzo sulla console",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
