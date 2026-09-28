@@ -1,20 +1,5 @@
 [
   {
-    "id": "10124225747",
-    "category": "Console",
-    "title": "Supporto per Ps5-slim-pro con ventola di raffreddamento",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10124225747-supporto-per-ps5-slim-pro-con-ventola-di-raffreddamento?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02364_PUuiunLa83ZoibNN2RCzf6UX/310x430/19328ac8.webp?s=eccca0456b6f7563392973b2ebe1c626601a372d",
-    "addedAt": "2026-09-24T21:34:18.314Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.3€, sotto soglia"
-  },
-  {
     "id": "10124354879",
     "category": "Console",
     "title": "Playstation 4",
@@ -23083,5 +23068,63 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80.05
+  },
+  {
+    "id": "10174747297",
+    "category": "Console",
+    "title": "Nintendo switch BRIDÉE",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10174747297-nintendo-switch-bridee?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01727_pXVBc2pGNSHK7arZjrQg5bLL/310x430/15949780.webp?s=e5ed6e4b1965afa7e4c0dc8271e92b3559bde391",
+    "addedAt": "2026-09-28T21:38:20.633Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10174759993",
+    "category": "Console",
+    "title": "Xbox One s",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10174759993-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0057a_4wgSpjoQMqXm9Cc3jVuYQbPR/310x430/222a4508.webp?s=06523affb52f970b4ee58617ffda87bf60babf9e",
+    "addedAt": "2026-09-28T21:40:25.896Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~28.35€, sotto soglia"
+  },
+  {
+    "id": "10174770917",
+    "category": "Console",
+    "title": "Vendo Xbox One",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10174770917-vendo-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00701_8rhuB1dx3hS9qXJktst6Sxpf/310x430/03738539.webp?s=91c2415c212f12af793d3dcb4e4acd704e50df18",
+    "addedAt": "2026-09-28T21:42:31.713Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.35€, sotto soglia"
+  },
+  {
+    "id": "10174783435",
+    "category": "Console",
+    "title": "Écran Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10174783435-ecran-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0027c_jrSnU8KAzAWMNQ7X5zRk3iHw/310x430/fac1bcb5.webp?s=3b98f28f7dbdedad26c96170606aaa5edbd5bef8",
+    "addedAt": "2026-09-28T21:43:34.500Z",
+    "processed": false,
+    "triaged": false
   }
 ]
