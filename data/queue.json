@@ -1,35 +1,5 @@
 [
   {
-    "id": "10114798074",
-    "category": "Console",
-    "title": "Box für Nintendo switch",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10114798074-box-fur-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b44_TJYy3ZJfAnFYmwGmi8mjFHqy/310x430/9e7a4237.webp?s=b5bed5f1854a701ec0a81b067d08f22effebf3d0",
-    "addedAt": "2026-09-24T06:31:16.687Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.9€, sotto soglia"
-  },
-  {
-    "id": "10114508436",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 56,
-    "totalPrice": 59.5,
-    "reason": "prezzo 57% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10114508436-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00855_ur24rUKeazShH1Vth1wbPgtk/310x430/274ca2ba.webp?s=3ac4365418199e1231d5267307d8cbd6295ed4e7",
-    "addedAt": "2026-09-24T06:38:36.976Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~30.5€, sotto soglia"
-  },
-  {
     "id": "10114973908",
     "category": "Console",
     "title": "Supporti per PS5 in orrizontale",
@@ -22902,8 +22872,11 @@
     "url": "https://www.vinted.it/items/10164279646-playstation-4-in-foto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_005fb_piAehHCEUGChFS7FWgagpHzX/310x430/16c867ee.webp?s=d3e496b4f825a502774fd17f0d97a24b9e22f1d3",
     "addedAt": "2026-09-28T06:00:01.049Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164303712",
@@ -22915,8 +22888,11 @@
     "url": "https://www.vinted.it/items/10164303712-ricambi-originali-ps4-slim-antenna-wi-fi-cavistaffa?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00ab7_UJpCuoUa96x3rgUwXsYXx1im/310x430/28f0b01e.webp?s=3282f2b271924d7f0ee3bebcf97f9056944bb87c",
     "addedAt": "2026-09-28T06:06:16.611Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164350777",
