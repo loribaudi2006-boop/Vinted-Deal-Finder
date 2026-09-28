@@ -22886,8 +22886,11 @@
     "url": "https://www.vinted.it/items/10164237732-scocche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00513_ZHGBXubuX5dF2bWiZS5E1HE9/310x430/67a0a4a3.webp?s=625cd2f91ba14921a10de6a3985992f203f4d19d",
     "addedAt": "2026-09-28T05:43:17.890Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164279646",
