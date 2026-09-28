@@ -22888,5 +22888,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-40€, sotto soglia"
+  },
+  {
+    "id": "10167456077",
+    "category": "Console",
+    "title": "Socle PlayStation 5",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10167456077-socle-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ce4_FTLnCEi9NJdd5YYodiWZoQbs/310x430/f04fdcb2.webp?s=524bd6a0370503a66bf4102424ac6ca974300656",
+    "addedAt": "2026-09-28T12:00:30.440Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
+  },
+  {
+    "id": "10167525235",
+    "category": "Console",
+    "title": "Nintendo Switch complète + manette Battletron neuve + dock + chargeur",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10167525235-nintendo-switch-complete-manette-battletron-neuve-dock-chargeur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0096e_k8L2qxCjtRBdVaF86Xm6NJxQ/310x430/f2cc62a9.webp?s=02bd29062e1a65ceaa371b550b783dddf6d0e49a",
+    "addedAt": "2026-09-28T12:06:46.397Z",
+    "processed": false,
+    "triaged": false
   }
 ]
