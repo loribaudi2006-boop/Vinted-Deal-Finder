@@ -22904,8 +22904,11 @@
     "url": "https://www.vinted.it/items/10164350777-complementos-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_002e9_xTB9GwBZd7bKzpBjMHnBjsQ6/310x430/079c6f9a.webp?s=4c85fce9f28ef6c66b6abc0e99edcab920c76f61",
     "addedAt": "2026-09-28T06:19:50.902Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164436455",
