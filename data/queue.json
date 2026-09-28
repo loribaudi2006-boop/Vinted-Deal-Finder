@@ -1,23 +1,5 @@
 [
   {
-    "id": "10117519544",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10117519544-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a78_M2Ft1wQZ4jKFLf4MdFRw5Bn1/310x430/49dd779f.webp?s=f5f5fb4a5266ef4210091b924d5c5fc0f1dca89d",
-    "addedAt": "2026-09-24T12:43:35.554Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\n11\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un'ora fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nPlayStation 4\nNuméro CUH-1116A -500GO\nAvec manette et câble de alimentation\nElle c'est allumé mais ne lire pas les jeux\nVendu dans l'état\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non legge i giochi (ne lire pas les jeux)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
     "id": "10117612975",
     "category": "Console",
     "title": "PlayStation 4 Fat 500GB",
@@ -23052,6 +23034,47 @@
     "url": "https://www.vinted.it/items/10167873067-scatola-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01337_oWkj1PtqxgF9X2FFrwthWZta/310x430/5dca0684.webp?s=d784a129d7421d5642d88f39b3f037bd769d83c4",
     "addedAt": "2026-09-28T12:34:59.341Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10167942430",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10167942430-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0159b_hyksGUg6uY9JqfgWcGzrYhGy/310x430/31a3c152.webp?s=69f9f78ceee51441a1e472a0c5d8a0d57c1cc0e7",
+    "addedAt": "2026-09-28T12:41:16.693Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10167959410",
+    "category": "Console",
+    "title": "Playstation 4 Slim 500 GB OVP wie Neu",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10167959410-playstation-4-slim-500-gb-ovp-wie-neu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01455_6ZMbLhgThA8R8qF5YmbGKGd8/310x430/2808f894.webp?s=d1a05e42c953fd0efb654279a9f9e772be8f8feb",
+    "addedAt": "2026-09-28T12:42:19.692Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10167966854",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10167966854-nintendo-switch-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a0e_PKrHKJxfmiTABZmfTkeZVrfG/310x430/54455a9b.webp?s=d43d5e6d0f07d8da8eb33d5038bfa0a9b6b14ec4",
+    "addedAt": "2026-09-28T12:43:22.688Z",
     "processed": false,
     "triaged": false
   }
