@@ -22984,8 +22984,11 @@
     "url": "https://www.vinted.it/items/10164062735-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01627_JDDMEuapFo2BX8bycmceR7J1/310x430/c6b2dac5.webp?s=5bc172d8e2192e575a3cf4e38a1df420ccee96f2",
     "addedAt": "2026-09-28T04:20:52.308Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164093103",
@@ -23023,6 +23026,19 @@
     "url": "https://www.vinted.it/items/10164113406-nintendo-switch-senza-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01848_JUJ48raSZaP3pLAC14oxd4Pk/310x430/7862a15e.webp?s=25e8f3b05553d3811a21002484b5fc8476963153",
     "addedAt": "2026-09-28T04:47:59.743Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10164131374",
+    "category": "Console",
+    "title": "Switch mit Zubehör",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10164131374-switch-mit-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01464_AzoFyYuDsoxFkEH2y4AwmZbm/310x430/e47dbc49.webp?s=2ea6b5982dfb63dd7d7735d747e03098469960eb",
+    "addedAt": "2026-09-28T04:56:20.449Z",
     "processed": false,
     "triaged": false
   }
