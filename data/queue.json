@@ -22854,8 +22854,11 @@
     "url": "https://www.vinted.it/items/10164223101-xbox-one-encore-fonctionnel-sans-manette-ni-alimentation?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00a2a_qaEkdyUvwiT2Mj8C32KQ8m2p/310x430/2902f521.webp?s=697557799413395db8545534e8877863f0b49540",
     "addedAt": "2026-09-28T05:37:01.919Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164224829",
@@ -22867,8 +22870,11 @@
     "url": "https://www.vinted.it/items/10164224829-playstation-4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01d25_c6gqPD6UZtTotqRi7mgin6HC/310x430/f88f2176.webp?s=d608988dbfc936bddcb15ecd4a2129345d8b38e3",
     "addedAt": "2026-09-28T05:38:04.684Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164237732",
@@ -22880,6 +22886,32 @@
     "url": "https://www.vinted.it/items/10164237732-scocche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00513_ZHGBXubuX5dF2bWiZS5E1HE9/310x430/67a0a4a3.webp?s=625cd2f91ba14921a10de6a3985992f203f4d19d",
     "addedAt": "2026-09-28T05:43:17.890Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10164279646",
+    "category": "Console",
+    "title": "PlayStation 4 in foto",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10164279646-playstation-4-in-foto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_005fb_piAehHCEUGChFS7FWgagpHzX/310x430/16c867ee.webp?s=d3e496b4f825a502774fd17f0d97a24b9e22f1d3",
+    "addedAt": "2026-09-28T06:00:01.049Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10164303712",
+    "category": "Console",
+    "title": "Ricambi Originali PS4 Slim (Antenna Wi-Fi +cavi+staffa)",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10164303712-ricambi-originali-ps4-slim-antenna-wi-fi-cavistaffa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00ab7_UJpCuoUa96x3rgUwXsYXx1im/310x430/28f0b01e.webp?s=3282f2b271924d7f0ee3bebcf97f9056944bb87c",
+    "addedAt": "2026-09-28T06:06:16.611Z",
     "processed": false,
     "triaged": false
   }
