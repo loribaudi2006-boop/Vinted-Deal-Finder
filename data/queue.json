@@ -1,40 +1,5 @@
 [
   {
-    "id": "10114604150",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10114604150-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
-    "addedAt": "2026-09-24T05:33:46.757Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10114612350",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10114612350-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01cf8_d4Fz9A2wE8Zu7Xc9NBYEoeqa/310x430/b9ceb90c.webp?s=6dbb6b9b4f60e146d1fec5bcfb2aca2b0b12ea6e",
-    "addedAt": "2026-09-24T05:36:55.701Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 8\nCondizioni\nOttime\nCaricato\nun minuto fa\nGute Qualität keine Gebrauchsspuren\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 87.3,
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10114627586",
     "category": "Console",
     "title": "Pochette Switch",
@@ -22918,6 +22883,32 @@
     "url": "https://www.vinted.it/items/10164178797-nintendo-switch-tasche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_015a4_DDzQC2qiVGwopLC2L9zCbBCh/310x430/a2170b40.webp?s=92594a4b90dc7d00fcd77f75a543dd63683ccf61",
     "addedAt": "2026-09-28T05:18:14.831Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10164223101",
+    "category": "Console",
+    "title": "Xbox One encore fonctionnel ( sans manette ni alimentation )",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 81% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10164223101-xbox-one-encore-fonctionnel-sans-manette-ni-alimentation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00a2a_qaEkdyUvwiT2Mj8C32KQ8m2p/310x430/2902f521.webp?s=697557799413395db8545534e8877863f0b49540",
+    "addedAt": "2026-09-28T05:37:01.919Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10164224829",
+    "category": "Console",
+    "title": "PlayStation 4 slim 1TB",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10164224829-playstation-4-slim-1tb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01d25_c6gqPD6UZtTotqRi7mgin6HC/310x430/f88f2176.webp?s=d608988dbfc936bddcb15ecd4a2129345d8b38e3",
+    "addedAt": "2026-09-28T05:38:04.684Z",
     "processed": false,
     "triaged": false
   }
