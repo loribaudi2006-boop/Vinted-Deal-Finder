@@ -1,20 +1,5 @@
 [
   {
-    "id": "10113896198",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 61,
-    "totalPrice": 64.75,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10113896198-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01368_H61SQ7jXCK3N1PmJFdkxTgtx/310x430/e0e52f43.webp?s=230d913f60a3a167822f3bdfd79d918b3a7dc7a2",
-    "addedAt": "2026-09-24T00:40:16.243Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10113940640",
     "category": "Console",
     "title": "PlayStation 4 (Originalmodell) - 500GB (Aufbereitet)",
@@ -22945,5 +22930,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~12.1€, sotto soglia"
+  },
+  {
+    "id": "10160282349",
+    "category": "Console",
+    "title": "Starter kit Juventus Nintendo switch",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10160282349-starter-kit-juventus-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0096d_eiw8qhXc4YiXPjkXSKYVaKc7/310x430/1616240a.webp?s=8257b04a6a9f6084429d9e96e39d0b4da75b3f9b",
+    "addedAt": "2026-09-28T00:33:37.871Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.4€, sotto soglia"
+  },
+  {
+    "id": "10163456326",
+    "category": "Console",
+    "title": "Suporte headsets ps5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10163456326-suporte-headsets-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00284_D81PaGtMc7sFL3vEAKhM7hbU/310x430/c5b268f9.webp?s=1bc0fc672225b402f7c048e313d169ed3a9c4a8d",
+    "addedAt": "2026-09-28T00:36:45.681Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   }
 ]
