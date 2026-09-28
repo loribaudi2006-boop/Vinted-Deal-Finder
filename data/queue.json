@@ -1,20 +1,5 @@
 [
   {
-    "id": "10123291836",
-    "category": "Console",
-    "title": "Boîte de switch",
-    "price": 7,
-    "totalPrice": 8.05,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10123291836-boite-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_003a2_8KdHuBG7nZpz2CDVPFzx1uSn/310x430/06333806.webp?s=74413c0c163e26448e0c935195020b3e06273db1",
-    "addedAt": "2026-09-24T19:38:31.080Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.95€, sotto soglia"
-  },
-  {
     "id": "10123459674",
     "category": "Console",
     "title": "Ps4 versione normale con giochi",
@@ -22987,5 +22972,38 @@
     "geminiFault": "Condizioni discrete, usata, nessun guasto specifico menzionato oltre all'usura",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10173603985",
+    "category": "Console",
+    "title": "Play 1 non testata",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10173603985-play-1-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_000f1_UV9A7TfLes1sgSFzicErXUkf/310x430/7ae59e1c.webp?s=d792a87f8ecae30c80a8be1b2de72a5188641fb5",
+    "addedAt": "2026-09-28T19:36:46.363Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.3€, sotto soglia"
+  },
+  {
+    "id": "10173632295",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10173632295-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d54_e65CkNfLdHRexJnjevNN4qCT/310x430/a9bdbb73.webp?s=642ee76c0eca732a775015895657007666a1b51f",
+    "addedAt": "2026-09-28T19:38:51.357Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nDiscrete·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPs4 slim en bon état manque simplement les bouton on/off et le bouton pour retirer le disque mais ça n est pas problématique car tout peut se faire à la manette.\nVendu avec le câble d alimentation\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "mancano i tasti on/off e per estrarre il disco (funzionante tramite controller)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
