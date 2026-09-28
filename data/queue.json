@@ -1,23 +1,5 @@
 [
   {
-    "id": "10114543039",
-    "category": "Console",
-    "title": "Playstation 4 con 2 controller",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10114543039-playstation-4-con-2-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_003e7_aM1fQyY5NHb2L6vpX7QPkwS6/310x430/2268d0d7.webp?s=fea13e158dcfde4feaa2eb233d8c859f03809695",
-    "addedAt": "2026-09-24T05:08:43.142Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 con 2 controller\nBuone·PlayStation·Caricato 9 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n9 min fa\nvendo ps4 con 2 controller e 3 giochi, un controller è perfetto e l’altro presenta un problema al tasto r2\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "un controller presenta un problema al tasto r2",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
     "id": "10114546190",
     "category": "Console",
     "title": "PlayStation 4 Controller",
@@ -23000,8 +22982,11 @@
     "url": "https://www.vinted.it/items/10164093103-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0082b_UveCKXDGsor6gtHaWdrAFa23/310x430/14778843.webp?s=00da1a6989c7de347fd066e866a77a662d7e81d1",
     "addedAt": "2026-09-28T04:36:30.297Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10164113834",
