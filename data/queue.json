@@ -23026,5 +23026,33 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10167833063",
+    "category": "Console",
+    "title": "PlayStation 4 usata",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10167833063-playstation-4-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007ee_sr4LUSvsL5xRKDhs21XDKxnH/310x430/2f7122a8.webp?s=439bbc4ac23e597f107af8d5203dbecfecb59276",
+    "addedAt": "2026-09-28T12:31:51.057Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10167873067",
+    "category": "Console",
+    "title": "Scatola Ps5",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10167873067-scatola-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01337_oWkj1PtqxgF9X2FFrwthWZta/310x430/5dca0684.webp?s=d784a129d7421d5642d88f39b3f037bd769d83c4",
+    "addedAt": "2026-09-28T12:34:59.341Z",
+    "processed": false,
+    "triaged": false
   }
 ]
