@@ -1,23 +1,5 @@
 [
   {
-    "id": "10124718077",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10124718077-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00b62_cr7HQiwqEwBezqKBvX14LRRb/310x430/6e252b52.webp?s=c812ba6854b0aac336c3546c814cf963cb729af5",
-    "addedAt": "2026-09-24T23:19:22.012Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nEn perfecto estado\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 82.05
-  },
-  {
     "id": "10124759773",
     "category": "Console",
     "title": "PlayStation 4 PS4 + Controller Originale DualShock 4 e Cavi Originali | Pronta all'Uso!",
@@ -23149,5 +23131,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "10175256718",
+    "category": "Console",
+    "title": "nintendo ds ntr-001 non funzionante",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10175256718-nintendo-ds-ntr-001-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01b41_r5ZoKS35c9sW9sR2G4N4pBaz/310x430/9a15ebf8.webp?s=e85fb3cb4b8fec7b30194e030694e583bfab40d5",
+    "addedAt": "2026-09-28T23:19:49.470Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~28.8€, sotto soglia"
+  },
+  {
+    "id": "10175269009",
+    "category": "Console",
+    "title": "controller xbox per pezzi di ricambio",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10175269009-controller-xbox-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_022ce_3Xj7RkGdLkGKND6CR6SEzBBt/310x430/17e4a96b.webp?s=84809185adc7870b0c56a1bfea0c4cc103bcdcaf",
+    "addedAt": "2026-09-28T23:22:57.453Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
   }
 ]
