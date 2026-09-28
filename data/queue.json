@@ -1,23 +1,5 @@
 [
   {
-    "id": "10123459674",
-    "category": "Console",
-    "title": "Ps4 versione normale con giochi",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10123459674-ps4-versione-normale-con-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016c7_GHxcEgbNigPxuu9Hzj85gmLe/310x430/972f8ade.webp?s=675a272cf48a9d72bd8f0720a19e6b2b575160fe",
-    "addedAt": "2026-09-24T19:54:11.809Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 versione normale con giochi\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPs4 in condizioni buone, vendo intero con giochi e controller:\n- the last of us 1\n-the last of us 2\n-fifa 17\n-dying light 1\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40
-  },
-  {
     "id": "10123513301",
     "category": "Console",
     "title": "Nintendo switch con giochi",
@@ -23005,5 +22987,38 @@
     "geminiFault": "mancano i tasti on/off e per estrarre il disco (funzionante tramite controller)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10173753258",
+    "category": "Console",
+    "title": "Ps4 (Sony)",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10173753258-ps4-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a47_mQ3yJL34gnwMA6JH64TA2CFH/310x430/b34e021d.webp?s=c3b5e59fb13f021a016bd9cd403b4b90e8877503",
+    "addedAt": "2026-09-28T19:49:18.541Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 (Sony)\nBuone·PlayStation·Caricato 4 min fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nBuone\nCaricato\n4 min fa\nVendo ou troco! Mais informações: DM.\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 35.85
+  },
+  {
+    "id": "10173779049",
+    "category": "Console",
+    "title": "PS4 avec mannnete si vous voulez on savoir plus regarder sur description",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10173779049-ps4-avec-mannnete-si-vous-voulez-on-savoir-plus-regarder-sur-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0019b_FbXT3W7ZrPcfABCMNWGEbL3Q/310x430/49d0bcb2.webp?s=49a9048c974ccd7094afafe99b08c8f630ce8749",
+    "addedAt": "2026-09-28T19:51:23.444Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
