@@ -23097,6 +23097,21 @@
     "url": "https://www.vinted.it/items/10175054298-xbox-one-2-manettes-testee-et-fonctionnelle?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_010e3_HWR4c38hVVYRDXeYa9j6g9NQ/310x430/e67148cb.webp?s=d7a15362753e87f86e3a5f3124480386a5622926",
     "addedAt": "2026-09-28T22:33:47.478Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10175096699",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10175096699-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01283_ukYvbNYbs5rcxxXo8tzzVXyg/310x430/7b6e50f6.webp?s=4a7241ecceccf4ad70f83a8dda3efd5474cfa416",
+    "addedAt": "2026-09-28T22:43:12.488Z",
     "processed": false,
     "triaged": false
   }
