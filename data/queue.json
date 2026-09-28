@@ -22968,8 +22968,11 @@
     "url": "https://www.vinted.it/items/10163569464-switch-light?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01b1c_eMigdMCtaiZkZYHDtxMT28cT/310x430/5d11dbef.webp?s=01498c83bdc088296fef3d3ee1b355f6de0c4578",
     "addedAt": "2026-09-28T01:28:43.614Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10163566515",
@@ -22981,8 +22984,11 @@
     "url": "https://www.vinted.it/items/10163566515-switch-light?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01914_MxbJVNNDWWhg83J6sNXF3ejd/310x430/e9bc73ad.webp?s=e1959f591dbeea3a25880fd4a94b091442a6fe4d",
     "addedAt": "2026-09-28T01:28:43.614Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10163702850",
@@ -22994,6 +23000,19 @@
     "url": "https://www.vinted.it/items/10163702850-saga-doom-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00581_gpYThiRJ6kXdcHghJFxXCcGW/310x430/72595cd7.webp?s=e607a23777e2bbe9e6a98d6c2c5d504128421622",
     "addedAt": "2026-09-28T01:49:34.970Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10163738783",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10163738783-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e5c_9nYtmaNzSJK9yvBxKdpApZ1f/310x430/5af9802f.webp?s=d9a9e3974bb7dfa919c610268ef4178f712cbf30",
+    "addedAt": "2026-09-28T02:01:03.636Z",
     "processed": false,
     "triaged": false
   }
