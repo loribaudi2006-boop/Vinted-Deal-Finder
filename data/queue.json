@@ -1,50 +1,5 @@
 [
   {
-    "id": "10120073708",
-    "category": "Console",
-    "title": "Acessoires de switch",
-    "price": 3,
-    "totalPrice": 3.85,
-    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10120073708-acessoires-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_003c0_j7LTaKUpATTRBCWH9Ag3Ddb9/310x430/3f61875e.webp?s=3b545206601cf640a680c686cc31f3951fa599b6",
-    "addedAt": "2026-09-24T15:17:53.306Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.15€, sotto soglia"
-  },
-  {
-    "id": "10120092574",
-    "category": "Console",
-    "title": "Ps5 Kamera guten Zustand",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10120092574-ps5-kamera-guten-zustand?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00e64_adsT3eDBmqZWnuMq1DSTdQsk/310x430/7c5ca876.webp?s=3462f39b33263c0ac99548218c3e8d6390ea856f",
-    "addedAt": "2026-09-24T15:18:55.660Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-4.7€, sotto soglia"
-  },
-  {
-    "id": "10120152047",
-    "category": "Console",
-    "title": "PS4 standard",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10120152047-ps4-standard?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02173_CDCZRGHQPj7ky8hAoX4xfiiX/310x430/716223c2.webp?s=964d7db30eccbed6bbf33fc54952064ca64eeed8",
-    "addedAt": "2026-09-24T15:23:16.403Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10120226314",
     "category": "Console",
     "title": "Pellicola Protettiva Vetro Temprato / Schermo per Nintendo Switch",
@@ -22483,8 +22438,11 @@
     "url": "https://www.vinted.it/items/10169481279-nintendo-switch-mario-kart-live-home-circuit-mario-set?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01e07_SQJdHvVYEFWcn67bE9iphprr/310x430/288a8283.webp?s=b70eef423f54afe621905920f22eaecd9c880a24",
     "addedAt": "2026-09-28T14:45:07.398Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10169642929",
@@ -22496,8 +22454,11 @@
     "url": "https://www.vinted.it/items/10169642929-console-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01a3b_J8fvcXX3rBEtTH8kD2zEJmoZ/310x430/0a536e69.webp?s=10f8f957b1186122aed503f27a9a3991653318cc",
     "addedAt": "2026-09-28T14:50:20.886Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10169669696",
@@ -22509,8 +22470,11 @@
     "url": "https://www.vinted.it/items/10169669696-playstation-2-slim-rotta-per-collezione-o-pezzi-di-ricambio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_019c1_DAkr22mqjVsxJMPiDXpssCZk/310x430/c9dbdf17.webp?s=056e2723f2a8004cb7545d10e447f8ce430b24e8",
     "addedAt": "2026-09-28T14:52:26.308Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10169660709",
@@ -22522,8 +22486,11 @@
     "url": "https://www.vinted.it/items/10169660709-ps4-und-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00649_8ER5vC3o9VqmLtLdVEQEGQNf/310x430/01443f12.webp?s=d3caee707795ec09592191632ccb7187388a7cd6",
     "addedAt": "2026-09-28T14:52:26.308Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10169685553",
@@ -22535,8 +22502,11 @@
     "url": "https://www.vinted.it/items/10169685553-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015e2_L7restyk2RNRQrrmY3DAPfpC/310x430/53ba52e5.webp?s=fc74f088ad3aca434d648200bbfd82e6cd078ae1",
     "addedAt": "2026-09-28T14:53:29.025Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10169812358",
@@ -22644,6 +22614,123 @@
     "url": "https://www.vinted.it/items/10169951764-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014fb_YkyKxphqxUMQpm7F5NhgSEft/310x430/e981079f.webp?s=bb1add59deec9cd79ec7cbf7ab7d2bac29a078f1",
     "addedAt": "2026-09-28T15:13:22.219Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10169988021",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10169988021-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02249_a8cb1cts7VefoHfEBhX2R6VF/310x430/11797000.webp?s=46815b8cebe081dbc8d2124e9a4cef572a152910",
+    "addedAt": "2026-09-28T15:15:28.187Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170012857",
+    "category": "Console",
+    "title": "Vend Xbox one fat",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10170012857-vend-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00967_mYSBCSJdbFxgyDHkGjJrP9v3/310x430/d80e20d7.webp?s=0129e03eb2eb7ed1fc51753a37e94d2da18f097a",
+    "addedAt": "2026-09-28T15:17:33.804Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170041067",
+    "category": "Console",
+    "title": "étuis nintendo switch splatoon",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10170041067-etuis-nintendo-switch-splatoon?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00268_6HuGdeTLXbUBKxd4a51dJm7F/310x430/62558d74.webp?s=ae95e6d59bd011749551cbb562d74a877bcb9db6",
+    "addedAt": "2026-09-28T15:18:36.225Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170035072",
+    "category": "Console",
+    "title": "Ea fc 27 para PS4 y PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10170035072-ea-fc-27-para-ps4-y-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02343_SePdxCcwXsCYsuGMiCHrKAe9/310x430/a0deef57.webp?s=4a50bc531711f4fc53b6b623e6830573d8c873af",
+    "addedAt": "2026-09-28T15:18:36.225Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170060226",
+    "category": "Console",
+    "title": "Console ps4 slim ( bien lire l’annonce)",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10170060226-console-ps4-slim-bien-lire-lannonce?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e07_WQnapS3Axa6opMonL2W2SGa3/310x430/4beae2f5.webp?s=9ea89d14d3850845f7fbc0dc3fb823562207834e",
+    "addedAt": "2026-09-28T15:20:42.346Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170076782",
+    "category": "Console",
+    "title": "Playstation 4 + Controller",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10170076782-playstation-4-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_003c0_fnVbgXqd6Y4hfpeSc9zCTgr5/310x430/3f0bfd93.webp?s=dddd0411481adae30f8609649fd7af6d639af76a",
+    "addedAt": "2026-09-28T15:21:44.855Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170099926",
+    "category": "Console",
+    "title": "Boîte vide ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10170099926-boite-vide-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004c0_FFSR8mf9RvHitYvvRm5R2Pc1/310x430/c00cb97d.webp?s=dd9e40aa4f86f7b78532c5031c278a3529f1eb67",
+    "addedAt": "2026-09-28T15:22:47.639Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170099430",
+    "category": "Console",
+    "title": "Scatola Nintendo switch",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 88% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10170099430-scatola-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a94_ASZpgovQ27VfTeDZFMAydjjS/310x430/d73976d0.webp?s=02b4fe276953b3c2a8ab889453fbbdc8b1e2a165",
+    "addedAt": "2026-09-28T15:22:47.639Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10170116642",
+    "category": "Console",
+    "title": "Carte sd switch 256g",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10170116642-carte-sd-switch-256g?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c30_kxr1uSr1Px67Q4NELgubx9hZ/310x430/e6c1d631.webp?s=f639777221cecef978cb5074367b2d3a401ce4ed",
+    "addedAt": "2026-09-28T15:24:53.109Z",
     "processed": false,
     "triaged": false
   }
