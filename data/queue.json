@@ -23182,5 +23182,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10179483014",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10179483014-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0125e_W7UJXiD7QiRveWxNqiuLwUvD/310x430/2bf2b5fd.webp?s=9bf3b956ba5d15d1c67178ca0df51990481d556c",
+    "addedAt": "2026-09-29T11:56:59.216Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
