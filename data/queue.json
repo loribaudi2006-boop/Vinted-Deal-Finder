@@ -23179,5 +23179,20 @@
     "geminiFault": "Placa madre quemada",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10177752292",
+    "category": "Console",
+    "title": "Death Stranding – PS5",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10177752292-death-stranding-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02430_Krn8PLZ3nc8WYvcr4tPhtuso/310x430/cb198a01.webp?s=e245ca689c77d31081781eb54e5983763138ef28",
+    "addedAt": "2026-09-29T09:12:53.489Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0.55€, sotto soglia"
   }
 ]
