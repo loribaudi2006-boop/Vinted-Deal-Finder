@@ -1,20 +1,5 @@
 [
   {
-    "id": "10132932368",
-    "category": "Console",
-    "title": "PlayStation PS2 Slim SCPH-77004 nero - Solo console - Non testata",
-    "price": 22.9,
-    "totalPrice": 24.75,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10132932368-playstation-ps2-slim-scph-77004-nero-solo-console-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_017fe_H4S1PJKZ6Qvpsmba7M2t2NFS/310x430/1a57b5f7.webp?s=2814e78d286b8c85261da5ebd168258ce25e94b9",
-    "addedAt": "2026-09-25T17:59:37.429Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.25€, sotto soglia"
-  },
-  {
     "id": "10133053861",
     "category": "Console",
     "title": "Ps4 et 3 jeux",
@@ -23427,7 +23412,24 @@
     "url": "https://www.vinted.it/items/10184021966-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_022a4_5W3Eq4JUqKe4MPFpSJmvsZaM/310x430/00225870.webp?s=7f853b7d79480cbe95275645f7d7f9ffeaab3616",
     "addedAt": "2026-09-29T17:50:23.785Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10184125918",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10184125918-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01085_NphT29PG5fNdmZwVFKiBkGUh/310x430/6508aef0.webp?s=9427f44c54d71abbdf005e4c1ad390b1569859e4",
+    "addedAt": "2026-09-29T17:58:44.236Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
