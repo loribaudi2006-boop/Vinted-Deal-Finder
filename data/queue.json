@@ -23146,5 +23146,44 @@
     "addedAt": "2026-09-29T06:17:15.552Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10176511775",
+    "category": "Console",
+    "title": "Switch Geschenke Tüte",
+    "price": 3.5,
+    "totalPrice": 4.38,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10176511775-switch-geschenke-tute?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02276_bHRRBT8rsnuDK1xzvP6rqM6v/310x430/b51ab7d0.webp?s=c208cc5b0fbe57e230381dcd9c0f977c949c90a2",
+    "addedAt": "2026-09-29T06:37:03.005Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10176506293",
+    "category": "Console",
+    "title": "PlayStation 4 con 2 joystick",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10176506293-playstation-4-con-2-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01f6d_uS9KAq9aK4VQUaLh82RVLMeb/310x430/7d10e9ee.webp?s=223f367a45f1d2bb7fa2fe795cba1d62595894b0",
+    "addedAt": "2026-09-29T06:39:07.892Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10176528948",
+    "category": "Console",
+    "title": "Switch Mario Kart Lenkrad zu verkaufen",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10176528948-switch-mario-kart-lenkrad-zu-verkaufen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_019b5_xzedNxNd6ihVjQoFSYmtCWgm/310x430/b619560d.webp?s=b884049cd738798946cdaa9bad347ee22f45110a",
+    "addedAt": "2026-09-29T06:41:12.891Z",
+    "processed": false,
+    "triaged": false
   }
 ]
