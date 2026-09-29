@@ -23144,8 +23144,11 @@
     "url": "https://www.vinted.it/items/10176447319-soporte-ps5-slimpro-con-cargador-y-ventilador?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_002ab_3waqGohUzqb5aQ2jthhtchuJ/310x430/59ca0624.webp?s=329ed70d914db7f6fe447c0d703e9747c275d5dd",
     "addedAt": "2026-09-29T06:17:15.552Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10176511775",
@@ -23157,8 +23160,10 @@
     "url": "https://www.vinted.it/items/10176511775-switch-geschenke-tute?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02276_bHRRBT8rsnuDK1xzvP6rqM6v/310x430/b51ab7d0.webp?s=c208cc5b0fbe57e230381dcd9c0f977c949c90a2",
     "addedAt": "2026-09-29T06:37:03.005Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.38€, sotto soglia"
   },
   {
     "id": "10176506293",
@@ -23170,8 +23175,13 @@
     "url": "https://www.vinted.it/items/10176506293-playstation-4-con-2-joystick?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01f6d_uS9KAq9aK4VQUaLh82RVLMeb/310x430/7d10e9ee.webp?s=223f367a45f1d2bb7fa2fe795cba1d62595894b0",
     "addedAt": "2026-09-29T06:39:07.892Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "3\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 con 2 joystick\nBuone·PlayStation·Caricato 36 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n36 min fa\nPlayStation 4 con due joystick. La consolle presenta un difetto nella parte laterale, evidenziato in forto. È perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "difetto nella parte laterale (evidenziato in foto)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   },
   {
     "id": "10176528948",
@@ -23183,6 +23193,72 @@
     "url": "https://www.vinted.it/items/10176528948-switch-mario-kart-lenkrad-zu-verkaufen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_019b5_xzedNxNd6ihVjQoFSYmtCWgm/310x430/b619560d.webp?s=b884049cd738798946cdaa9bad347ee22f45110a",
     "addedAt": "2026-09-29T06:41:12.891Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "10176617043",
+    "category": "Console",
+    "title": "Nintendo switch con juego incluido",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10176617043-nintendo-switch-con-juego-incluido?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01351_4ZjZt55pnJT5cC5zJAqBmCZ7/310x430/027e937e.webp?s=6dbee08750ac390608d2f1419f79cfd73f37c41d",
+    "addedAt": "2026-09-29T06:49:32.938Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch con juego incluido\nBuone·Nintendo·Caricato 9 min fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n9 min fa\nNintendo switch con juego incluido\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80.05
+  },
+  {
+    "id": "10176602678",
+    "category": "Console",
+    "title": "Stalker 2 PS5 day one edition",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10176602678-stalker-2-ps5-day-one-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01601_9aMx5itaffeoWfKoRjAS6P3n/310x430/71862ee1.webp?s=fdee28bcc33ae53192cc8a7f094b46da0533d605",
+    "addedAt": "2026-09-29T06:49:32.938Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.05€, sotto soglia"
+  },
+  {
+    "id": "10176642302",
+    "category": "Console",
+    "title": "Sony PlayStation 4 (PS4) Console - Gebruikt",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10176642302-sony-playstation-4-ps4-console-gebruikt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0255c_GsnYf3L3WMx1QiKtVSSjrShY/310x430/06da556a.webp?s=d368aec3785fa953e58a43e25f1237140782b8a9",
+    "addedAt": "2026-09-29T06:51:37.630Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 (PS4) Console - Gebruikt\nBuone·PlayStation·Caricato 4 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nTe koop aangeboden: een gebruikte Sony PlayStation 4 (PS4) console. De console is in goede staat en werkt perfect. Ideaal voor urenlang gameplezier. Wordt geleverd zonder controllers of games, alleen de console en de benodigde kabels (stroomkabel en HDMI-kabel).\n... altro\nSpedizione\n5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.55
+  },
+  {
+    "id": "10176639315",
+    "category": "Console",
+    "title": "Ps4 Fat",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10176639315-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a71_uYfcZ6xgi3diPQbTeqK3HNDZ/310x430/dc80fce0.webp?s=e8d6f97a393dbdb3d1265d272cf2588c188e1879",
+    "addedAt": "2026-09-29T06:52:40.192Z",
     "processed": false,
     "triaged": false
   }
