@@ -23380,5 +23380,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-13.8€, sotto soglia"
+  },
+  {
+    "id": "10180251750",
+    "category": "Console",
+    "title": "Playstation 4 con due controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10180251750-playstation-4-con-due-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_013c9_WPiQ8DngbmJqxzkBQZzEVBUg/310x430/f489201b.webp?s=9c0d23f9864af44e64cf4e79f08e1a5a9413bee9",
+    "addedAt": "2026-09-29T13:05:58.578Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 con due controller\nOttime·PlayStation·Caricato 4 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nin buone condizioni, manca un gommino su un analogico. per qualsiasi info contattatemi. prezzo leggermente trattabile.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "manca un gommino su un analogico",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 61.8
+  },
+  {
+    "id": "10180134186",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10180134186-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d36_au7o7SWUoNoz6bhXicVbA9Tm/310x430/bdc2ba5f.webp?s=f8bb8f83de7fbc2189d3f5ef9672b30572b2248f",
+    "addedAt": "2026-09-29T13:07:01.163Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato 15 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n15 min fa\nLendroit pour mettre les cartes ne marche pas\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "L'endroit pour mettre les cartes ne marche pas (slot cartucce non funzionante)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
