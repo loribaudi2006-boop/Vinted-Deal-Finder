@@ -23329,5 +23329,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10179687218",
+    "category": "Console",
+    "title": "Console de jeu portable retrogaming / Écran 4.3\" / Style Switch & PSP",
+    "price": 18,
+    "totalPrice": 19.6,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10179687218-console-de-jeu-portable-retrogaming-ecran-43-style-switch-psp?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01df1_YJSCTo3yHvYYmMShwU5wZSRD/310x430/1862290c.webp?s=fc63234d2bb45893571f85a608f1ba5eccdfb4a0",
+    "addedAt": "2026-09-29T12:14:45.328Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.4€, sotto soglia"
+  },
+  {
+    "id": "10179713654",
+    "category": "Console",
+    "title": "Soportes Nintendo Switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10179713654-soportes-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02160_QHG2ivSa6VKfjYReb87XKhRH/310x430/377a3cdb.webp?s=7226ca0b5f98b4a6b112e2c6880bc648b2c75702",
+    "addedAt": "2026-09-29T12:16:50.693Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.55€, sotto soglia"
+  },
+  {
+    "id": "10179765791",
+    "category": "Console",
+    "title": "Xbox one + giochi",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10179765791-xbox-one-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e54_8HTrF6mL7ZFumiNTBY6Hxvfq/310x430/3b0b2b92.webp?s=808d42c1aaf1cba5692a9367b8836c682f9d3427",
+    "addedAt": "2026-09-29T12:22:04.367Z",
+    "processed": false,
+    "triaged": false
   }
 ]
