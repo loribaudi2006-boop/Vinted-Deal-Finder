@@ -23208,7 +23208,10 @@
     "url": "https://www.vinted.it/items/10161396468-ps4-jailbreak-bluray?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00dd0_rtynAHkx86VH2VoBpsDWqFJQ/310x430/b8060d10.webp?s=32b641500e244e1defb1b5eb63e2c59d3f84e3ef",
     "addedAt": "2026-09-29T05:15:53.172Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
