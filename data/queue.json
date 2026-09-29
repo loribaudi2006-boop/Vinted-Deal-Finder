@@ -1,38 +1,5 @@
 [
   {
-    "id": "10127797984",
-    "category": "Console",
-    "title": "Ps4 sans manette",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10127797984-ps4-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0259c_SCdTF5JvNoByRVV94VT9cfdi/310x430/ec54e5f2.webp?s=6c2983e01708be071e872789bc00883637c6e4cb",
-    "addedAt": "2026-09-25T10:28:40.197Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 sans manette\nOttime·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nSans manette\nJeux :\n- call off\n-nba 2k20\n-sniper élite 3\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.05
-  },
-  {
-    "id": "10127806923",
-    "category": "Console",
-    "title": "Xbox one 500gb",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10127806923-xbox-one-500gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00ec5_i5P6AA6eJePP3W1j4xsruxJ1/310x430/772d45c3.webp?s=22f2581c3fa89acf28e6687657aecb44f3bd873a",
-    "addedAt": "2026-09-25T10:29:42.629Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~17.8€, sotto soglia"
-  },
-  {
     "id": "10127851064",
     "category": "Console",
     "title": "Switch avec adaptateur télé manette",
@@ -23134,5 +23101,36 @@
     "geminiFault": "Elle démarre mais aucune image s’affiche sur l’ecran",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 67.8
+  },
+  {
+    "id": "10178507566",
+    "category": "Console",
+    "title": "ps4 .",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10178507566-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00de5_yBfjysNhVg4cLERGT5u5o9Sa/310x430/29b0b60e.webp?s=943d97dd59380bca57110a7a362257af2eea0527",
+    "addedAt": "2026-09-29T10:24:59.574Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4 .\nBuone·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nps4 en buen estado, tiene un golpe en una esquina por culpa de un repartidor pero funciona perfectamente.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Colpo in un angolo causato da un corriere, ma funziona perfettamente",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "10178578700",
+    "category": "Console",
+    "title": "Xbox one Kinect",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10178578700-xbox-one-kinect?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01b51_412kpBPSGWj1SNrwbzNNrkmU/310x430/799bca13.webp?s=a3cf8bfd180532075af84d0b9789430c45f823a5",
+    "addedAt": "2026-09-29T10:32:18.219Z",
+    "processed": false,
+    "triaged": false
   }
 ]
