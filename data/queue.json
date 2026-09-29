@@ -1,23 +1,5 @@
 [
   {
-    "id": "10127423223",
-    "category": "Console",
-    "title": "Xbox one S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10127423223-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00aa1_cdE8p7S1juqfoGuDtuSTAHQn/310x430/83575313.webp?s=f94b2b223994c2d9ce6c7bc5b52effde8ee93843",
-    "addedAt": "2026-09-25T09:51:05.512Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one S\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nVend console xbox one S\nTrès bonne etat je donne avec une manette abimer mais qui fonctionne\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manette abimer mais qui fonctionne",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.8
-  },
-  {
     "id": "10127452077",
     "category": "Console",
     "title": "Ps4. Oggetto solo per collezione",
@@ -23113,5 +23095,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10178067533",
+    "category": "Console",
+    "title": "Console Sony PSP 1004 Fat nera - da Testare / per ricambi (senza bafferia)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10178067533-console-sony-psp-1004-fat-nera-da-testare-per-ricambi-senza-bafferia?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01692_dZo6e4KrrkPZdJ27YYXcDnds/310x430/4d25e96b.webp?s=4da16bf7458b809444b32948a53a84fa5564aeb0",
+    "addedAt": "2026-09-29T09:43:10.166Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10178107458",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10178107458-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01543_wCXSY58Em4DhZmjTA3FpVr3v/310x430/89657d51.webp?s=0f1395c8a7dcd722b8a571cc218f92d215f458bf",
+    "addedAt": "2026-09-29T09:47:20.682Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
