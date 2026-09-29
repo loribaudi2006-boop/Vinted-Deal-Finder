@@ -1,21 +1,5 @@
 [
   {
-    "id": "10125828210",
-    "category": "Console",
-    "title": "Chip para Nintendo Switch (de todo tipo)",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10125828210-chip-para-nintendo-switch-de-todo-tipo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0052e_4zRU1Ugp4JcdLidHFpgYvt3j/310x430/18a07173.webp?s=7a9e8e866006b39daa179b05276d8dc6e4898f16",
-    "addedAt": "2026-09-25T06:21:20.598Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10126025196",
     "category": "Console",
     "title": "PlayStation 4",
@@ -23149,5 +23133,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10176447319",
+    "category": "Console",
+    "title": "Soporte PS5 Slim/Pro con Cargador y Ventilador",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10176447319-soporte-ps5-slimpro-con-cargador-y-ventilador?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_002ab_3waqGohUzqb5aQ2jthhtchuJ/310x430/59ca0624.webp?s=329ed70d914db7f6fe447c0d703e9747c275d5dd",
+    "addedAt": "2026-09-29T06:17:15.552Z",
+    "processed": false,
+    "triaged": false
   }
 ]
