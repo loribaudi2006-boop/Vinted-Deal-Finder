@@ -1,23 +1,5 @@
 [
   {
-    "id": "10126465823",
-    "category": "Console",
-    "title": "Ps4 à vendre",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10126465823-ps4-a-vendre?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0035b_4JMC9CDvo1Bw5FKEof1RjDwT/310x430/4da3deba.webp?s=99aa3c1afe16d1af112d8d4477097d7799da750a",
-    "addedAt": "2026-09-25T08:08:46.739Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 à vendre\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 à vendre\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10126513577",
     "category": "Console",
     "title": "PlayStation 4 (PS4)",
@@ -23284,5 +23266,35 @@
     "geminiFault": "Manettes usees (controller usurati)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10177132568",
+    "category": "Console",
+    "title": "COVER Ps5 Fat Digital Dragon Ball Z Gotenks SSJ3 Custom",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10177132568-cover-ps5-fat-digital-dragon-ball-z-gotenks-ssj3-custom?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_009cd_WiMWnhNmiHcxuiHtkAFc6Q8S/310x430/990f0be6.webp?s=a67d98e5f4ff2974b9949764a1d0e681611a1a5f",
+    "addedAt": "2026-09-29T08:05:39.183Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10177166417",
+    "category": "Console",
+    "title": "Xbox one fonctionnel",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10177166417-xbox-one-fonctionnel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00021_9rCdrL5jtuHu1BWhjwcAzxeK/310x430/192dfd37.webp?s=d600ab523aee9fcaa57f9e9d1742fc71a2b267f9",
+    "addedAt": "2026-09-29T08:09:48.931Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
