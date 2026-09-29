@@ -23181,5 +23181,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10176200285",
+    "category": "Console",
+    "title": "PlayStation 4 (PS4) in Schwarz",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10176200285-playstation-4-ps4-in-schwarz?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a3f_hLk624gFe1EcqTPfZjdtxy5J/310x430/9b40e52e.webp?s=34a5138a212ea917ad8b3bffa3165bc0a8823639",
+    "addedAt": "2026-09-29T04:15:28.110Z",
+    "processed": false,
+    "triaged": false
   }
 ]
