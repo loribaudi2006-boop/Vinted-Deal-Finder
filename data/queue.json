@@ -23176,8 +23176,11 @@
     "url": "https://www.vinted.it/items/10176248549-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_007bf_Ueo8VFUbmXqi2vzfucQqGE1m/310x430/9910c5fa.webp?s=3c6eacd316a0686d537b38bd9aebbfe15e8b7ed2",
     "addedAt": "2026-09-29T04:40:27.112Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10176251970",
@@ -23189,7 +23192,10 @@
     "url": "https://www.vinted.it/items/10176251970-switch-1-controller-4er-set-nintendo-ladestation-play?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00845_3vbtjkHYD4ruc4SEeDjhaAt3/310x430/bd157e83.webp?s=2ab0f9c7ef17c3a842a11b45d576d95c55afa17b",
     "addedAt": "2026-09-29T04:41:29.713Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
