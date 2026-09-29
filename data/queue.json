@@ -1,21 +1,5 @@
 [
   {
-    "id": "10125549100",
-    "category": "Console",
-    "title": "Jeux ps4 uniquement",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10125549100-jeux-ps4-uniquement?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02370_76wtjNTqbmHAJ4Caes5xvhqy/310x430/d792c6b4.webp?s=9d3f07dda663658216cf1b862b43925d2b1e1d5c",
-    "addedAt": "2026-09-25T04:37:13.419Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10125576566",
     "category": "Console",
     "title": "Scatola Vuota Originale Sony PS5 Digital Edition 825GB - CFI-1216B - Box Empty",
@@ -23192,6 +23176,32 @@
     "url": "https://www.vinted.it/items/10176200285-playstation-4-ps4-in-schwarz?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00a3f_hLk624gFe1EcqTPfZjdtxy5J/310x430/9b40e52e.webp?s=34a5138a212ea917ad8b3bffa3165bc0a8823639",
     "addedAt": "2026-09-29T04:15:28.110Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10176248549",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10176248549-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007bf_Ueo8VFUbmXqi2vzfucQqGE1m/310x430/9910c5fa.webp?s=3c6eacd316a0686d537b38bd9aebbfe15e8b7ed2",
+    "addedAt": "2026-09-29T04:40:27.112Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10176251970",
+    "category": "Console",
+    "title": "Switch 1 Controller 4er Set „Nintendo“ + Ladestation „Play“",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10176251970-switch-1-controller-4er-set-nintendo-ladestation-play?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00845_3vbtjkHYD4ruc4SEeDjhaAt3/310x430/bd157e83.webp?s=2ab0f9c7ef17c3a842a11b45d576d95c55afa17b",
+    "addedAt": "2026-09-29T04:41:29.713Z",
     "processed": false,
     "triaged": false
   }
