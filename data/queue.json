@@ -1,23 +1,5 @@
 [
   {
-    "id": "10127452077",
-    "category": "Console",
-    "title": "Ps4. Oggetto solo per collezione",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10127452077-ps4-oggetto-solo-per-collezione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0025e_c4kA2PjwV19wAVjZNKk5FXGb/310x430/7795a34f.webp?s=9a3e352f9d131339c67e592c518ddea8f3e7a9d8",
-    "addedAt": "2026-09-25T09:53:10.555Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "osso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4. Oggetto solo per collezione\nOttime·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 solo da collezione, senza fili né nulla per appassionati di videogame che amano collezionare console\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Console solo per collezione, senza fili né accessori",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
     "id": "10127569462",
     "category": "Console",
     "title": "Playstation 4 Laufwerk",
@@ -23125,5 +23107,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10178176116",
+    "category": "Console",
+    "title": "Caja playstation 5",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10178176116-caja-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0216f_g5j9hPUHp4Xusarm5sCDayjY/310x430/3f2d3db2.webp?s=9dd85b34e105fbfdf25d72a214932b1ede316ef8",
+    "addedAt": "2026-09-29T09:53:37.556Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.7€, sotto soglia"
   }
 ]
