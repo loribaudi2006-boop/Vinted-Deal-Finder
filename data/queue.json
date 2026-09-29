@@ -23230,5 +23230,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10175628542",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10175628542-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01023_5iVq6TA5WmHQgh5GpWGkKqGt/310x430/43a447dc.webp?s=7f44258a054ca7afb2b53e8f33401001700596a8",
+    "addedAt": "2026-09-29T00:54:55.291Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~24.2€, sotto soglia"
   }
 ]
