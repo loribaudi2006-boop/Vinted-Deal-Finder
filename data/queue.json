@@ -23683,8 +23683,11 @@
     "url": "https://www.vinted.it/items/10187921271-ps4-et-manette-officielle-blanche-pour-piece?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_004e7_zN27GqyS6PYgUhcbcPGHXkjz/310x430/75c0d99c.webp?s=3ac5768c1bbcc93a065eb2d069af96d03bc373f4",
     "addedAt": "2026-09-30T05:06:35.058Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10187930572",
@@ -23722,6 +23725,19 @@
     "url": "https://www.vinted.it/items/10187976833-playstation-4-met-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01d3c_j7iCUs7Jn8KMnfZnGFPKkxDC/310x430/cc1032dc.webp?s=8a92ad1149e1d0b989145dabb7515cf8eba1a163",
     "addedAt": "2026-09-30T05:28:25.666Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10187998261",
+    "category": "Console",
+    "title": "PS4 Fat Nera Funzionante – HDMI Rotta – Cavo Incluso",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"rotta\" + prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10187998261-ps4-fat-nera-funzionante-hdmi-rotta-cavo-incluso?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_010f3_D6BYpVfzfvd5k8dxubmksRMC/310x430/80246734.webp?s=4975e8a0f2ce5a423fbdecf344e48136fc2c602a",
+    "addedAt": "2026-09-30T05:36:44.780Z",
     "processed": false,
     "triaged": false
   }
