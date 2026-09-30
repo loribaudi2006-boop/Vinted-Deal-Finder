@@ -23672,5 +23672,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10187921271",
+    "category": "Console",
+    "title": "Ps4 et manette officielle blanche pour piece",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 78% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10187921271-ps4-et-manette-officielle-blanche-pour-piece?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004e7_zN27GqyS6PYgUhcbcPGHXkjz/310x430/75c0d99c.webp?s=3ac5768c1bbcc93a065eb2d069af96d03bc373f4",
+    "addedAt": "2026-09-30T05:06:35.058Z",
+    "processed": false,
+    "triaged": false
   }
 ]
