@@ -1,21 +1,5 @@
 [
   {
-    "id": "10136345536",
-    "category": "Console",
-    "title": "XBOX One 500 Gb ( NO games )(NO controller)",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10136345536-xbox-one-500-gb-no-games-no-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015ca_ZJX1bQp4SUpypCD4jn2KnsNQ/310x430/428f25bb.webp?s=d6b489258159e74b9d59584a2b6471e3cad413f5",
-    "addedAt": "2026-09-26T06:14:03.098Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10136474960",
     "category": "Console",
     "title": "Ps4-Ps3 lenkrad Zubehör",
@@ -23747,6 +23731,19 @@
     "url": "https://www.vinted.it/items/10188095091-ps4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_012a2_3CJvHB2Q86opU5g6kU4QPPrx/310x430/5ee337fa.webp?s=249881b0c6ba48ba1944451ddabc6258c82e0ab0",
     "addedAt": "2026-09-30T06:07:58.144Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10188117189",
+    "category": "Console",
+    "title": "Nintendo Switch Konsole überarbeitetes Modell",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10188117189-nintendo-switch-konsole-uberarbeitetes-modell?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0062b_asDhUGzXT39kMCQzQGfxJY34/310x430/230d6c3e.webp?s=28883892b73b5b54e987e6e30e470bff625ea0a2",
+    "addedAt": "2026-09-30T06:13:10.619Z",
     "processed": false,
     "triaged": false
   }
