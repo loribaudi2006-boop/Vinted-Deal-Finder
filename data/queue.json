@@ -23201,8 +23201,13 @@
     "url": "https://www.vinted.it/items/10190724309-playstation-4-slim-non-testata-parti-di-ricambio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0162c_69eHjCr89BqUyHpDdDE4aCCe/310x430/e710c350.webp?s=1e64041759b8277b67f247ba1435ae93205e374f",
     "addedAt": "2026-09-30T11:16:47.845Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 slim non testata parti di ricambio\nBuone·Sony·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nConsole venduta come non testata/per parti di ricambio.\nLa scocca della console quando la si muove fa un pò di gioco, per il resto non ho i cavi al momento per testarla e la vendo per parti di ricambio\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console non testata, la scocca fa un po' di gioco se mossa, assenza di cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.05
   },
   {
     "id": "10190714171",
@@ -23214,7 +23219,60 @@
     "url": "https://www.vinted.it/items/10190714171-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_008c4_QAU1NEJc1KrUQyy2r8XJUaT9/310x430/f8210374.webp?s=9473a519bf2674af8d011d714301cf72cccfc4b2",
     "addedAt": "2026-09-30T11:16:47.845Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nFilm manquant mais très bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Film manquant mais très bon état",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10190788817",
+    "category": "Console",
+    "title": "Xbox one en loose",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10190788817-xbox-one-en-loose?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_013bc_ZYFcBKahAH3iEJp5Vs2Q2jTd/310x430/3ebbb816.webp?s=3963b22abdbbe98eae58fe92a0fa7166940a0b18",
+    "addedAt": "2026-09-30T11:23:02.904Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10190786394",
+    "category": "Console",
+    "title": "Boîte ps5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10190786394-boite-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a14_MbkhQsoz5SzMtQW694uJFgZ4/310x430/023c73b3.webp?s=6afdd95e6faf7cc0ad680cbd90cdc1dfa82b63bc",
+    "addedAt": "2026-09-30T11:23:02.904Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10190794514",
+    "category": "Console",
+    "title": "Ps4 slim déjà utilisé",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10190794514-ps4-slim-deja-utilise?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c7a_M5PHXmKkCz3R6MkMP38dG2ZP/310x430/316d3d9f.webp?s=f5e27d24f57622caeab4067b0bb756a737964a58",
+    "addedAt": "2026-09-30T11:24:06.183Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim déjà utilisé\nDiscrete·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPs4 slim déjà utilisé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Condizioni discrete, uso precedente",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
   }
 ]
