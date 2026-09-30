@@ -22734,5 +22734,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-3.55€, sotto soglia"
+  },
+  {
+    "id": "10198775841",
+    "category": "Console",
+    "title": "Playstation 5 imballata",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10198775841-playstation-5-imballata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_017cd_6BC37Syd6q9y4AceGhqxEWv1/310x430/b03188d1.webp?s=a73fdcc861f0119c6028422d10cf1e058d3f8488",
+    "addedAt": "2026-09-30T23:42:52.956Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Casa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 5 imballata\nNuovo con cartellino·PlayStation·Caricato proprio adesso\n\n15,00 €\n\n16,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nProprio adesso\nvendo ps5 imballata mai aperta o accesa\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 330
   }
 ]
