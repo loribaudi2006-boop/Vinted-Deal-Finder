@@ -1,21 +1,5 @@
 [
   {
-    "id": "10136242499",
-    "category": "Console",
-    "title": "Boîte vide console PS5",
-    "price": 9,
-    "totalPrice": 10.15,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10136242499-boite-vide-console-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00145_ZsjRfE6AtmqQC7STExp7MHZ8/310x430/7d049ce1.webp?s=77b766e30cd678b628aeef01518367da138dc06e",
-    "addedAt": "2026-09-26T05:41:39.785Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10136345536",
     "category": "Console",
     "title": "XBOX One 500 Gb ( NO games )(NO controller)",
@@ -23699,8 +23683,11 @@
     "url": "https://www.vinted.it/items/10187930572-ps4-mit-1-controller-aber-was-gibt-mehrere-disc-einpaar-spiele-dazu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_000a7_1q7EAv3TdrTzLU1zyKDRSVUw/310x430/fb6e9971.webp?s=7b3ae4cbf049272a673a25b46c14d973d5b64f1f",
     "addedAt": "2026-09-30T05:10:44.663Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10187971636",
