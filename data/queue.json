@@ -22719,5 +22719,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10198730727",
+    "category": "Console",
+    "title": "Carcasa para Switch 2",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10198730727-carcasa-para-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00655_KJ7cvk7KN9HzXaEH5nrHU5i3/310x430/8a72cba8.webp?s=3c311ab54caf12c6f55772d1fefb362c0efa594d",
+    "addedAt": "2026-09-30T23:30:23.643Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.55€, sotto soglia"
   }
 ]
