@@ -23731,6 +23731,22 @@
     "url": "https://www.vinted.it/items/10187998261-ps4-fat-nera-funzionante-hdmi-rotta-cavo-incluso?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_010f3_D6BYpVfzfvd5k8dxubmksRMC/310x430/80246734.webp?s=4975e8a0f2ce5a423fbdecf344e48136fc2c602a",
     "addedAt": "2026-09-30T05:36:44.780Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10188095091",
+    "category": "Console",
+    "title": "Ps4 slim 1TB",
+    "price": 53.9,
+    "totalPrice": 57.3,
+    "reason": "prezzo 59% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10188095091-ps4-slim-1tb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_012a2_3CJvHB2Q86opU5g6kU4QPPrx/310x430/5ee337fa.webp?s=249881b0c6ba48ba1944451ddabc6258c82e0ab0",
+    "addedAt": "2026-09-30T06:07:58.144Z",
     "processed": false,
     "triaged": false
   }
