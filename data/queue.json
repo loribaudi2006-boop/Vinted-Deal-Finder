@@ -23619,8 +23619,11 @@
     "url": "https://www.vinted.it/items/10187527605-ps4-slim-pour-pieces-ou-reparation?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01a40_15awa6kJAkKb2NoMhTVrmpdi/310x430/633baecd.webp?s=da0730d0386458b7916af932fb9f43a638abc598",
     "addedAt": "2026-09-30T02:15:13.006Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10187530770",
@@ -23632,8 +23635,11 @@
     "url": "https://www.vinted.it/items/10187530770-nintendo-switch-noire?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_007ff_mSycqJtMZAYwKFyQoEKv8eb1/310x430/779b3eee.webp?s=74aca43cbee95aa9237d8c901b16ba21ff98aa8c",
     "addedAt": "2026-09-30T02:16:15.362Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10186135799",
@@ -23645,7 +23651,10 @@
     "url": "https://www.vinted.it/items/10186135799-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_021bc_cTwaJczN4nSvAe3cJbQbd4FE/310x430/a9f14b39.webp?s=3c7712558ae2736d3959890102ce31f33c0588fe",
     "addedAt": "2026-09-30T02:21:27.897Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
