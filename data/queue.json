@@ -22517,7 +22517,42 @@
     "url": "https://www.vinted.it/items/10195608804-support-playstation-5-et-ventilateur-avec-cable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_005b5_LihdzRXhX7pneFfsyhpXZcRS/310x430/9f805dcf.webp?s=0735c0d9852bcaba58d194b672c3648200170b6c",
     "addedAt": "2026-09-30T17:34:26.551Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-7€, sotto soglia"
+  },
+  {
+    "id": "10195634647",
+    "category": "Console",
+    "title": "Zaino/borsa da viaggio per PS5 Slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10195634647-zainoborsa-da-viaggio-per-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01905_4ZQtaSZGgHntaU1a8rCpnq6k/310x430/385320c2.webp?s=18777df568ea2905921fae078760e1fde20dac87",
+    "addedAt": "2026-09-30T17:36:31.645Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.2€, sotto soglia"
+  },
+  {
+    "id": "10195648687",
+    "category": "Console",
+    "title": "Ps4+ manette + câble d’alimentation",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10195648687-ps4-manette-cable-dalimentation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02226_qKQ5rqADvbvtLJHHwDiPM1ge/310x430/3acf6c6a.webp?s=a69495b625c800ddb2c4b0e61a147a89c2139891",
+    "addedAt": "2026-09-30T17:37:35.242Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Casa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4+ manette + câble d’alimentation\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPS4 Slim 500 Go + 1 manette\n\nJe vends ma PS4 Slim 500 Go en bon état général.\n\n✅ PS4 fonctionnelle\n✅ 1 manette\n✅ Tous les câbles fournis\n✅ 500 Go de stockage\n❌ Aucun jeu inclus\n\nLa console présente quelques traces d’utilisation normales, mais elle fonctionne correctement. ( envoyer moi un message si vous êtes intéressés )\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
   }
 ]
