@@ -1,41 +1,5 @@
 [
   {
-    "id": "10136505746",
-    "category": "Console",
-    "title": "Switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10136505746-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0215e_hkn7HQEHyWbB8C4R3SfVus11/310x430/889f848d.webp?s=174a3cb146c7c786d593cf476606e9fe9fa93573",
-    "addedAt": "2026-09-26T06:49:37.488Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "smo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nSwitch\nOttime·Nintendo·Caricato 11 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n11 min fa\nFunziona ma ho solo base e console non ho controller e caricatore…\nSpedizione\nda 4,09 €",
-    "geminiFault": "Mancano i controller (Joy-Con) e il caricatore",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10136553222",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10136553222-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0133b_KcSURPExG1Z7723voVesbbRr/310x430/e5378837.webp?s=5731effd1e4afabb9d812fd1d7f0c1cdcd6da23e",
-    "addedAt": "2026-09-26T06:58:00.341Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\n7\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nVendo Nintendo in ottime condizioni.\nDoppia memoria. Con tantissimi giochi . Inclusa di carica batterie e porta Nintendo e Joystick. La vendo per inutilizzo.\nVedi foto .\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10136603246",
     "category": "Console",
     "title": "kinect Xbox one + Juego Rivals 10€.",
@@ -23730,8 +23694,11 @@
     "url": "https://www.vinted.it/items/10188145348-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01894_LKVY4qYvC4oxaK4Vy1GXkT76/310x430/ae3e7ab9.webp?s=9961a6d4b2d3157f3f8e1285424098f31ad742d3",
     "addedAt": "2026-09-30T06:20:27.497Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10188164301",
@@ -23743,8 +23710,11 @@
     "url": "https://www.vinted.it/items/10188164301-switch-1-avec-jeu-chargeur-et-pochette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0147b_T64YfDyrCuKM9QfVU4sGbi7H/310x430/065d5bdf.webp?s=f242aada5e8fd666cc69d609a5f667d9d93aecd3",
     "addedAt": "2026-09-30T06:24:37.130Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10188220274",
@@ -23782,6 +23752,19 @@
     "url": "https://www.vinted.it/items/10188262774-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0083a_UdbznsgBcYHdyejAgs74GZM7/310x430/8c17b0bb.webp?s=0c8c7f861bf2cb274140137207949935ab896f85",
     "addedAt": "2026-09-30T06:46:30.188Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10188300206",
+    "category": "Console",
+    "title": "Switch avec chargeur",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10188300206-switch-avec-chargeurjeu-prise?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00256_oKE4QPvgD6QTxp2bKX6zxQX7/310x430/cb3e2d30.webp?s=5fbcd97873cfef7c0ed9877b7769cb77f3fcc223",
+    "addedAt": "2026-09-30T06:53:48.227Z",
     "processed": false,
     "triaged": false
   }
