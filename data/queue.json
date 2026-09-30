@@ -1,21 +1,5 @@
 [
   {
-    "id": "10135820961",
-    "category": "Console",
-    "title": "Nintendo switch noire",
-    "price": 62,
-    "totalPrice": 65.8,
-    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10135820961-nintendo-switch-noire?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01e32_QrTU5ofuvMSrTXJ1RWMfzZVv/310x430/512e9bcb.webp?s=2eb7339457fe4b5f427cce63e9aaa2752f5aaa84",
-    "addedAt": "2026-09-26T02:12:58.799Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10135942813",
     "category": "Console",
     "title": "Nintendo switch et jeu",
@@ -23619,6 +23603,45 @@
     "url": "https://www.vinted.it/items/10187457158-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_012c5_aTsHYqbFXP6WmDwkLP2iCrVq/310x430/196dcc1f.webp?s=8f5cc530f64fc7c0a41476a22281cff2ba00a7f4",
     "addedAt": "2026-09-30T01:53:23.718Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10187527605",
+    "category": "Console",
+    "title": "Ps4 slim pour pièces ou réparation",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10187527605-ps4-slim-pour-pieces-ou-reparation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a40_15awa6kJAkKb2NoMhTVrmpdi/310x430/633baecd.webp?s=da0730d0386458b7916af932fb9f43a638abc598",
+    "addedAt": "2026-09-30T02:15:13.006Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10187530770",
+    "category": "Console",
+    "title": "Nintendo switch noire",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10187530770-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007ff_mSycqJtMZAYwKFyQoEKv8eb1/310x430/779b3eee.webp?s=74aca43cbee95aa9237d8c901b16ba21ff98aa8c",
+    "addedAt": "2026-09-30T02:16:15.362Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10186135799",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10186135799-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_021bc_cTwaJczN4nSvAe3cJbQbd4FE/310x430/a9f14b39.webp?s=3c7712558ae2736d3959890102ce31f33c0588fe",
+    "addedAt": "2026-09-30T02:21:27.897Z",
     "processed": false,
     "triaged": false
   }
