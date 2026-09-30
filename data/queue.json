@@ -1,35 +1,5 @@
 [
   {
-    "id": "10136696375",
-    "category": "Console",
-    "title": "Switch Zubehör",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10136696375-switch-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01851_8LsFS98Be56noRpVjJNcxtGA/310x430/6205fe10.webp?s=e836992b7d7b13e1083fec87b55efe30cb8e5162",
-    "addedAt": "2026-09-26T07:21:03.133Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10.8€, sotto soglia"
-  },
-  {
-    "id": "10136709465",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10136709465-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0133b_KcSURPExG1Z7723voVesbbRr/310x430/e5378837.webp?s=5731effd1e4afabb9d812fd1d7f0c1cdcd6da23e",
-    "addedAt": "2026-09-26T07:23:08.468Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10136757411",
     "category": "Console",
     "title": "PS4 Neuve + Manette +Casque + 5 Jeux",
@@ -23754,5 +23724,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2.05€, sotto soglia"
+  },
+  {
+    "id": "10188443859",
+    "category": "Console",
+    "title": "PlayStation 4 + manette + jeux",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10188443859-playstation-4-manette-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d72_TftBe2KjJJf7vnjRfPYQ9phR/310x430/7ab32e11.webp?s=762ab49ea0687ee1dc60e2c8497e6b5e4036a9f5",
+    "addedAt": "2026-09-30T07:19:52.163Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Casa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 + manette + jeux\nDiscrete·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPlayStation 4 en état de fonctionnement\nManette abîmée mais largement fonctionnelle\n4 jeux quasiment pas utilisés\nJe la vend parce que je viens d’acheter la 5 en occasion\nLe but est de la vendre plutôt que de la jeter donc on peut discuter du prix si besoin\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manette abîmée mais largement fonctionnelle",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10188460025",
+    "category": "Console",
+    "title": "Xbox One 1540 - 500 Go - Édition Limitée Sunset Overdrive Bundle / Rare - Excellent état",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10188460025-xbox-one-1540-500-go-edition-limitee-sunset-overdrive-bundle-rare-excellent-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022eb_z2jF3pPAaYu8XprteJd5AJck/310x430/a91a3749.webp?s=0944a36a48dd3973b0d87c06c75b78f630077ee5",
+    "addedAt": "2026-09-30T07:21:57.121Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
