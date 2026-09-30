@@ -23274,5 +23274,20 @@
     "geminiFault": "Condizioni discrete, uso precedente",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10190875635",
+    "category": "Console",
+    "title": "Xbox 360 inklusive 4 Spiele für die Xbox 360 und eins für die PS4 und 5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10190875635-xbox-360-inklusive-4-spiele-fur-die-xbox-360-und-eins-fur-die-ps4-und-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_025fe_YvoncRhttoigzeD4v8rhpG4c/310x430/67d20c2f.webp?s=7f3fc103dc2bf0f8ca7894b65111c1229eca8a1f",
+    "addedAt": "2026-09-30T11:31:24.614Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
   }
 ]
