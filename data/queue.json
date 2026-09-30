@@ -1,20 +1,5 @@
 [
   {
-    "id": "10136603246",
-    "category": "Console",
-    "title": "kinect Xbox one + Juego Rivals 10€.",
-    "price": 10,
-    "totalPrice": 15,
-    "reason": "prezzo 90% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10136603246-kinect-xbox-one-juego-rivals-10eur?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0141d_P5rW5u7BkgDLvpB2vH3Hd61i/310x430/29b1f3aa.webp?s=1a2d8611b474d88f402ff966f65276901f20e546",
-    "addedAt": "2026-09-26T07:06:22.885Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10136617584",
     "category": "Console",
     "title": "kinect Xbox one + Juego Rivals",
@@ -23726,8 +23711,13 @@
     "url": "https://www.vinted.it/items/10188220274-switch-1-avec-jeu-chargeur-et-pochette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00c30_Fj1SQCmb6gjydNBi6cnLUTR7/310x430/1560fe9f.webp?s=d1561f31bfcf82906521d77e03f1fa20d8c00098",
     "addedAt": "2026-09-30T06:37:06.865Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch 1 avec jeu chargeur et pochette\nOttime·Nintendo·Caricato 24 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n24 min fa\nTrès bon etat\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 70.3
   },
   {
     "id": "10188236362",
@@ -23739,8 +23729,13 @@
     "url": "https://www.vinted.it/items/10188236362-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_023d5_BzGQVesSrjWnQ9WMM2yPRQb3/310x430/a5dfab54.webp?s=2bf129fd9de7a2b3fe92a1fac62a62d7a362266f",
     "addedAt": "2026-09-30T06:41:17.256Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n1\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato 20 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n20 min fa\nVendu dans l'état je n'arrive pa a la faire fonctionner a la télé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Vendu dans l'état je n'arrive pa a la faire fonctionner a la télé",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "10188262774",
@@ -23752,8 +23747,10 @@
     "url": "https://www.vinted.it/items/10188262774-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0083a_UdbznsgBcYHdyejAgs74GZM7/310x430/8c17b0bb.webp?s=0c8c7f861bf2cb274140137207949935ab896f85",
     "addedAt": "2026-09-30T06:46:30.188Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10188300206",
@@ -23765,7 +23762,12 @@
     "url": "https://www.vinted.it/items/10188300206-switch-avec-chargeurjeu-prise?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00256_oKE4QPvgD6QTxp2bKX6zxQX7/310x430/cb3e2d30.webp?s=5fbcd97873cfef7c0ed9877b7769cb77f3fcc223",
     "addedAt": "2026-09-30T06:53:48.227Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch avec chargeur,jeu, prise\nOttime·Nintendo·Caricato 7 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n7 min fa\nTrès bon etat\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
   }
 ]
