@@ -1,35 +1,5 @@
 [
   {
-    "id": "10145138805",
-    "category": "Console",
-    "title": "Estuche para Nintendo Switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10145138805-estuche-para-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_001e5_ppRW3VvY9BEX5q3axcGeVx2m/310x430/d03e908a.webp?s=146e0b6186eb8d1d9162f545c17ee22d8cab0ea4",
-    "addedAt": "2026-09-26T18:07:20.830Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-13€, sotto soglia"
-  },
-  {
-    "id": "10145214888",
-    "category": "Console",
-    "title": "PlayStation 2 con controller e cavi - non testata",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10145214888-playstation-2-con-controller-e-cavi-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a52_VoJRkLfHTXujkw2nG37W8uEd/310x430/96cc0b0d.webp?s=b675341cc1596cd1b6b5507a298b88e52502219c",
-    "addedAt": "2026-09-26T18:13:35.696Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20.05€, sotto soglia"
-  },
-  {
     "id": "10145254728",
     "category": "Console",
     "title": "Xbox one x",
@@ -22487,7 +22457,7 @@
     "url": "https://www.vinted.it/items/10195948809-ps4-pezzi-di-ricambio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_014e7_EWNbFECLa5x54n9Af4gVgPpj/310x430/b33d973a.webp?s=7fa4f44ce0c9bae4980a50d073e63eb8181b1090",
     "addedAt": "2026-09-30T18:01:40.083Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 - pezzi di ricambio\nOttime·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo PS4 Fat serie Cuh 1216-B per pezzi di ricambio.\n\nLa console si accende ma il lettore disco non funziona e quando si prova ad aggiornarla spunta il codice errore SU 42118-6.\n\nVendo la console con cavi, scatola e 2 controller\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -22539,5 +22509,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3€, sotto soglia"
+  },
+  {
+    "id": "10196094743",
+    "category": "Console",
+    "title": "Xbox Series S Grille Pains",
+    "price": 38.5,
+    "totalPrice": 41.13,
+    "reason": "prezzo 81% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10196094743-xbox-series-s-grille-pains?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022c7_ecyFiX1JiVbpgRhAhhoLzMMf/310x430/ad5cd8cd.webp?s=6f0031c898c410c397700875a1ce14852677be73",
+    "addedAt": "2026-09-30T18:14:11.845Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.87€, sotto soglia"
   }
 ]
