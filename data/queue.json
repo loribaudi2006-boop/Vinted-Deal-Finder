@@ -23731,8 +23731,11 @@
     "url": "https://www.vinted.it/items/10188095091-ps4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_012a2_3CJvHB2Q86opU5g6kU4QPPrx/310x430/5ee337fa.webp?s=249881b0c6ba48ba1944451ddabc6258c82e0ab0",
     "addedAt": "2026-09-30T06:07:58.144Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10188117189",
@@ -23770,6 +23773,19 @@
     "url": "https://www.vinted.it/items/10188164301-switch-1-avec-jeu-chargeur-et-pochette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0147b_T64YfDyrCuKM9QfVU4sGbi7H/310x430/065d5bdf.webp?s=f242aada5e8fd666cc69d609a5f667d9d93aecd3",
     "addedAt": "2026-09-30T06:24:37.130Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10188220274",
+    "category": "Console",
+    "title": "Switch 1 avec jeu chargeur et pochette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10188220274-switch-1-avec-jeu-chargeur-et-pochette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c30_Fj1SQCmb6gjydNBi6cnLUTR7/310x430/1560fe9f.webp?s=d1561f31bfcf82906521d77e03f1fa20d8c00098",
+    "addedAt": "2026-09-30T06:37:06.865Z",
     "processed": false,
     "triaged": false
   }
