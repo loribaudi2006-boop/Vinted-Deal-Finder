@@ -22737,6 +22737,22 @@
     "url": "https://www.vinted.it/items/10199472087-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_025d9_bbj7YN52Yu1BU6XmzNFvK9mT/310x430/fe55d4e9.webp?s=ded24da602c95f616d06837fdfbd398659cd524a",
     "addedAt": "2026-10-01T03:21:33.761Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10199521620",
+    "category": "Console",
+    "title": "Mobapad M12S para Nintendo switch 2",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10199521620-mobapad-m12s-para-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015f0_QMfMjD43foVjdyNkH6sYmCZU/310x430/edbd46bc.webp?s=7aba9f3e2b134981748657928de20aaa13a8b606",
+    "addedAt": "2026-10-01T03:44:27.181Z",
     "processed": false,
     "triaged": false
   }
