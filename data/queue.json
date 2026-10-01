@@ -22722,5 +22722,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 330
+  },
+  {
+    "id": "10198929493",
+    "category": "Console",
+    "title": "PlayStation 4 slim",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10198929493-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01729_XrFvsEnzB7Nz3wyJtdpmPFeu/310x430/0e14f0ac.webp?s=dde66f2e13391b5026347287a97ec1c3b2170eb6",
+    "addedAt": "2026-10-01T00:24:31.767Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 slim\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlayStation 4 slim 800 giga à vendre, en bon état et fonctionnel ( preuve disponible si demande ) console déjà ouverte mais complète, reset fait avant la vente, cable d'alimentation fournie, manette non disponible\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console già aperta ma completa, manca la manette (controller)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   }
 ]
