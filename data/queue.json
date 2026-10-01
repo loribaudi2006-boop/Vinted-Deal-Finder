@@ -20861,7 +20861,9 @@
     "url": "https://www.vinted.it/items/10209442058-lector-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00734_xgrczPpkfPkQJnzdNj1LSCvy/310x430/8e54f17d.webp?s=7c1a23b7d63deaa55869f4735dfed8dcc1ea7dac",
     "addedAt": "2026-10-01T21:47:32.942Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.3€, sotto soglia"
   }
 ]
