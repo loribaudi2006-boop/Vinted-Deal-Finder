@@ -1,35 +1,5 @@
 [
   {
-    "id": "10161795225",
-    "category": "Console",
-    "title": "[Scatola Vuota] PS4 Slim 1TB Destiny 2 Bundle + Imballi Interni e Manuali",
-    "price": 29.5,
-    "totalPrice": 31.68,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10161795225-scatola-vuota-ps4-slim-1tb-destiny-2-bundle-imballi-interni-e-manuali?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00b44_w9Ln9MNNuvoZhcD6fokQ3Lk9/310x430/a6a91030.webp?s=d1102f27f6288977f3335dd81506aed01a4463f2",
-    "addedAt": "2026-09-27T20:12:49.322Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
-    "id": "10161821983",
-    "category": "Console",
-    "title": "Ps4 fat",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10161821983-ps4-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01105_tq5ARFaJ11uVLpLdYP83VuyQ/310x430/2e668c10.webp?s=6956071de55c916e71d9b05911b88229e815ea5c",
-    "addedAt": "2026-09-27T20:14:54.856Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.3€, sotto soglia"
-  },
-  {
     "id": "10161883731",
     "category": "Console",
     "title": "PlayStation 4",
@@ -20916,5 +20886,23 @@
     "geminiFault": "Tasto espulsione disco disattivato (si espelle da menu con il controller)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10208599024",
+    "category": "Console",
+    "title": "PS4 con mando",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10208599024-ps4-con-mando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_016b7_CorCQXwsBKvrRKCmKqAQGVqW/310x430/fe82b98e.webp?s=f133b5ca97f7c8c3d1b45c1255a5e575e3719d6e",
+    "addedAt": "2026-10-01T20:10:22.378Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 con mando\nNuovo senza cartellino·PlayStation·Caricato 11 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n11 min fa\nPS4 se vende con mando cagador y cables HDMI, y con bastantes juegos\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.8
   }
 ]
