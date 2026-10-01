@@ -22758,5 +22758,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10199610213",
+    "category": "Console",
+    "title": "PS4 slim - VERSlON 14.0",
+    "price": 65.99,
+    "totalPrice": 69.99,
+    "reason": "prezzo 49% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10199610213-ps4-slim-verslon-140?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0245e_LQWU8xeKc3FoJDivoyVj4FsY/310x430/5fdb133d.webp?s=aad90cd5d00b0487b2ae3b5527a09e8de7d35fa9",
+    "addedAt": "2026-10-01T04:30:15.429Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10199620298",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10199620298-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_025d9_bbj7YN52Yu1BU6XmzNFvK9mT/310x430/fe55d4e9.webp?s=ded24da602c95f616d06837fdfbd398659cd524a",
+    "addedAt": "2026-10-01T04:34:25.238Z",
+    "processed": false,
+    "triaged": false
   }
 ]
