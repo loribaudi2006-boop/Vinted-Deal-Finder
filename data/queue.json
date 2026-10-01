@@ -20817,5 +20817,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.8
+  },
+  {
+    "id": "10209398159",
+    "category": "Console",
+    "title": "intendo switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10209398159-intendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026c5_kuJGnFYiMuxVbyFZqz2D1vrM/310x430/4d76c6c7.webp?s=e1339c1e04491b0c622a425254a3c01e1eb2a23d",
+    "addedAt": "2026-10-01T21:40:15.138Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10209418101",
+    "category": "Console",
+    "title": "Switch plus un jeux mario cart prix négociable",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10209418101-switch-plus-un-jeux-mario-cart-prix-negociable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ce3_5futRerUKbyUhoQGfHfSGBLs/310x430/527669ee.webp?s=06a85b0f7f18ef2292e7d82d18d6dd3b04dd84ba",
+    "addedAt": "2026-10-01T21:45:27.890Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "giochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch plus un jeux mario cart prix négociable\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n64,00 €\n\n67,90 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nPresque pas utilisé parfait pour l’offrir en cadeau et je rajoute un casque si c’est pour un cadeau\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 82.1
+  },
+  {
+    "id": "10209442058",
+    "category": "Console",
+    "title": "Lector Ps4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10209442058-lector-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00734_xgrczPpkfPkQJnzdNj1LSCvy/310x430/8e54f17d.webp?s=7c1a23b7d63deaa55869f4735dfed8dcc1ea7dac",
+    "addedAt": "2026-10-01T21:47:32.942Z",
+    "processed": false,
+    "triaged": false
   }
 ]
