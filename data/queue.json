@@ -22726,5 +22726,44 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10199811737",
+    "category": "Console",
+    "title": "Scatola Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10199811737-scatola-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01605_kd2LXnkozs57oCNbkuu8WJzR/310x430/4e14757b.webp?s=f9d928b39a902f92aeafc440b951427a7c37975f",
+    "addedAt": "2026-10-01T05:53:28.637Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10199815791",
+    "category": "Console",
+    "title": "Support Switch 2 couché",
+    "price": 22,
+    "totalPrice": 23.8,
+    "reason": "prezzo 88% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10199815791-support-switch-2-couche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_003b1_2TCqTQ8SRFiUUhQC2Dn7jfzq/310x430/eec5d2ae.webp?s=e141a0be143b80c6d7db250a599e1a9b70925bf6",
+    "addedAt": "2026-10-01T05:54:31.063Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10199824797",
+    "category": "Console",
+    "title": "PlayStation 4 console met controller",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10199824797-playstation-4-console-met-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0235d_wo1tbpT5H5e7VrbfRiFqg6ha/310x430/91e07876.webp?s=11f3eafc7cfdedc4288f19246a8f219ac9e94839",
+    "addedAt": "2026-10-01T05:57:39.340Z",
+    "processed": false,
+    "triaged": false
   }
 ]
