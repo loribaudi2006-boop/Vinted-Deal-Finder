@@ -22853,7 +22853,12 @@
     "url": "https://www.vinted.it/items/10200706554-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00fcb_P8b4iDMtJ5MVRQxDmWQhU4ZY/310x430/5bafedb9.webp?s=0bd83c03db8471dc115cbb334b7cf8b57a559892",
     "addedAt": "2026-10-01T08:30:59.660Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 5\nOttime·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\n1tb voor de rest alles erop en eraan\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "vooor de rest alles erop en eraan (olandese: per il resto c'è tutto)",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 277.85
   }
 ]
