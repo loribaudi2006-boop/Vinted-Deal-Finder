@@ -22710,5 +22710,18 @@
     "geminiFault": "Senza caricabatterie, manca un gommino del joystick, graffi sullo schermo e sulla scocca",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.55
+  },
+  {
+    "id": "10199390160",
+    "category": "Console",
+    "title": "Ich verkaufe eine PlayStation 4 slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10199390160-ich-verkaufe-eine-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0006e_Qmfcr1pQMC2vdZ9AYQ57FFaL/310x430/0d25f0c8.webp?s=3d04b59ef90ce131e30ff405659a8d4185c192e4",
+    "addedAt": "2026-10-01T02:46:09.965Z",
+    "processed": false,
+    "triaged": false
   }
 ]
