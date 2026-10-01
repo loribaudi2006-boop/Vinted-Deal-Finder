@@ -1,23 +1,5 @@
 [
   {
-    "id": "10149570729",
-    "category": "Console",
-    "title": "PlayStation 4 fat funzionante",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10149570729-playstation-4-fat-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02703_ab69Jo4rfujfHX8DFYA7tZhp/310x430/b4070acb.webp?s=acc789bfcc299efe09dc2590f95505247c8bf979",
-    "addedAt": "2026-09-27T08:43:12.909Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Rimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 fat funzionante\nOttime·PlayStation·Caricato 34 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n34 min fa\nPlayStation 4 perfettamente funznante completa di tutti gli accessori come da foto ( controller non in buone condizioni non se se funziona )\n\nPrezzo non trattabile spedizione solo con inpost\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Controller non in buone condizioni, non si sa se funziona",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.55
-  },
-  {
     "id": "10150074074",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22860,5 +22842,20 @@
     "geminiFault": "vooor de rest alles erop en eraan (olandese: per il resto c'è tutto)",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 277.85
+  },
+  {
+    "id": "10200811606",
+    "category": "Console",
+    "title": "Nintendo Switch light",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10200811606-nintendo-switch-light?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01eeb_vwYDzciYY1n8E81rVYgWfbBJ/310x430/0283591f.webp?s=cf24e828b5f980f278410deb5dc24bec7bcecaa3",
+    "addedAt": "2026-10-01T08:45:36.584Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
