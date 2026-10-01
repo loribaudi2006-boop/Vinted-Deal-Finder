@@ -1,50 +1,5 @@
 [
   {
-    "id": "10150074074",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10150074074-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_024c1_c9VqzKnYon3UueUeLWEsztsz/310x430/43d431ff.webp?s=6fd51acad7c7dc431a35e3b925f2d896f709cee3",
-    "addedAt": "2026-09-27T08:51:34.047Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10150073315",
-    "category": "Console",
-    "title": "Switch oled",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10150073315-switch-oled?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_008d7_BqgsfWmiJ15b74iFTf9L5Lhc/310x430/d0a73dd0.webp?s=c8482ec6d12d5335406b279f76cd0d8f34fad801",
-    "addedAt": "2026-09-27T08:51:34.047Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10150104232",
-    "category": "Console",
-    "title": "Rangement pour switch",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10150104232-rangement-pour-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01435_RNYmoGpcseauceoisoQyKcoF/310x430/531aacb8.webp?s=d2b30962ca28419a8c21b1e5c1f5def55a2437c2",
-    "addedAt": "2026-09-27T08:53:39.610Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "10150298763",
     "category": "Console",
     "title": "Nintendo switch",
@@ -22857,5 +22812,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10200934305",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10200934305-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0117b_BfJXNBwUbfp7Ef2e6quZgi3c/310x430/522b1137.webp?s=e44f39a3bfde4c014b100e05bd5150e871576ee8",
+    "addedAt": "2026-10-01T08:56:02.479Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10200942749",
+    "category": "Console",
+    "title": "Pochette switch Light Zelda",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10200942749-pochette-switch-light-zelda?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ec2_oN9CtcFrS8ErgNDQuRHRspyw/310x430/ef0e9d45.webp?s=dbe56d485198002808dc90c0b88b90cae78e114f",
+    "addedAt": "2026-10-01T08:57:04.990Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
   }
 ]
