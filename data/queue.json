@@ -22812,8 +22812,11 @@
     "url": "https://www.vinted.it/items/10199903194-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02100_A2DcpC6byZQ2x4FPrKzUUyup/310x430/58073918.webp?s=8f98918396233f3e6b1dfeb0de71ab2487f976e5",
     "addedAt": "2026-10-01T06:20:35.631Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10199910051",
