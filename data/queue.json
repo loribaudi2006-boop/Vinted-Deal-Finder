@@ -1,20 +1,5 @@
 [
   {
-    "id": "10171563953",
-    "category": "Console",
-    "title": "Scatola Originale Vuota Nintendo Switch 2 Bundle Mario Kart World - Ottime Condizioni",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10171563953-scatola-originale-vuota-nintendo-switch-2-bundle-mario-kart-world-ottime-condizioni?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0190a_aBpqr8n3Bc3CtYpA6mEfQCwA/310x430/f1b5c4d1.webp?s=202adca4cf0384da47a2169a2e5097f473db7593",
-    "addedAt": "2026-09-28T17:04:14.711Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
     "id": "10171735793",
     "category": "Console",
     "title": "Nintendo switch lite turquoise",
@@ -20264,5 +20249,38 @@
     "geminiFault": "Macchia/traccia estetica sulla parte superiore della console",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45.8
+  },
+  {
+    "id": "10217636656",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10217636656-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ed1_zbgCnrWG11urh2bssXDVXdnh/310x430/d294bb7a.webp?s=c19dc29eba5c4d1a9f8d470025917c9cda23a184",
+    "addedAt": "2026-10-02T17:12:08.169Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 slim comme neuve\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10217641948",
+    "category": "Console",
+    "title": "Ps4 controller + 3 games",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10217641948-ps4-controller-3-games?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01879_UP2eQfZ2ZjmyJ8rqKzRbh8BX/310x430/125371f5.webp?s=8b3bfd00e8529a3fa671686986860ca288a95aef",
+    "addedAt": "2026-10-02T17:13:10.157Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~7.85€, sotto soglia"
   }
 ]
