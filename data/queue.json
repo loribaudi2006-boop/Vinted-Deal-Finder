@@ -1,38 +1,5 @@
 [
   {
-    "id": "10164436455",
-    "category": "Console",
-    "title": "Nintendo Switch – 2 jeux + pochette de rangement",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10164436455-nintendo-switch-2-jeux-pochette-de-rangement?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0082f_CFo8VsSTGonYFyGHotDSUiVq/310x430/b06f4dfd.webp?s=77074897c13617b573ab02f597cf46fdc4aeb18e",
-    "addedAt": "2026-09-28T06:41:46.284Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
-    "id": "10164445236",
-    "category": "Console",
-    "title": "Playstation 4 Slim Usata (vendita privata)",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10164445236-playstation-4-slim-usata-vendita-privata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_004f0_5Ggt6rJmmqh5NJpXk6hz1dxL/310x430/28227eab.webp?s=dca1e9e628b34928a7f03c1488463a93d0933a7c",
-    "addedAt": "2026-09-28T06:43:51.672Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "caVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4 Slim Usata (vendita privata)\nDiscrete·PlayStation·Caricato 18 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n18 min fa\n🎮 PS4 Slim 500GB + HDD esterno 1TB\n\nVendo PlayStation 4 Slim perfettamente funzionante.\n\nIncluso:\n\n- PS4 Slim 500 GB\n- HDD esterno 1 TB\n- Cavo di alimentazione\n- Cavo HDMI\n- Controller originale\n\nIl controller è abbastanza rovinato esteticamente, ma viene incluso insieme alla console.\n\nLa console presenta normali segni di utilizzo, ma funziona regolarmente.\n... altro\nSpedizione\nda 4,09 €",
-    "geminiFault": "Controller rovinato esteticamente, normali segni di utilizzo sulla console",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.3
-  },
-  {
     "id": "10164579894",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -20861,6 +20828,19 @@
     "url": "https://www.vinted.it/items/10211094340-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01137_kKJpERoAoYUR9Aza6ZgGGu4U/310x430/32cc52c2.webp?s=8933ec77eb4dabc71a3f27063895fdcff2774de5",
     "addedAt": "2026-10-02T06:33:08.575Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10211130772",
+    "category": "Console",
+    "title": "Nintendo switch 1 console seule en parfait état",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10211130772-nintendo-switch-1-console-seule-en-parfait-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_022d1_mWSobFpkEfRULe3xN9XRrY25/310x430/3e707c30.webp?s=817c4340dd77712f5c3bc4789a27206715684eda",
+    "addedAt": "2026-10-02T06:41:28.734Z",
     "processed": false,
     "triaged": false
   }
