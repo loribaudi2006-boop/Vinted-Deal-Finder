@@ -1,20 +1,5 @@
 [
   {
-    "id": "10166439995",
-    "category": "Console",
-    "title": "Xbox One S gebraucht OHNE Controller",
-    "price": 39,
-    "totalPrice": 41.65,
-    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10166439995-xbox-one-s-gebraucht-ohne-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_026bc_iXWrdG83vkWVJDzyS5UDCXc3/310x430/7b053621.webp?s=78ba8a07ae492b5b21a88cd7dc8cfc09a74e27ab",
-    "addedAt": "2026-09-28T10:30:30.939Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~23.35€, sotto soglia"
-  },
-  {
     "id": "10166583049",
     "category": "Console",
     "title": "Nintendo Switch vendue seule",
@@ -20488,5 +20473,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10213011769",
+    "category": "Console",
+    "title": "PlayStation 4 Slim Negro Sin Mando Ni Cables",
+    "price": 39.99,
+    "totalPrice": 42.69,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10213011769-playstation-4-slim-negro-sin-mando-ni-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0046e_rHHnHd58F1Vy7Fb61TSH2XA3/310x430/925778cc.webp?s=82020b7be200dbde908d0972f054bfdc7daac841",
+    "addedAt": "2026-10-02T10:30:35.707Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Slim Negro Sin Mando Ni Cables\nBuone·PlayStation·Caricato proprio adesso\n\n39,99 €\n\n42,69 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVendo PS4 Slim usado en buenas condiciones. Funciona perfectamente.\n\nVIENE SIN MANDO Y SIN CABLES.❗️\n\nEnvío en 24H. 🚚\n\nTambien tengo algunos juegos por si te interesan.\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (mando) e senza cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.31
   }
 ]
