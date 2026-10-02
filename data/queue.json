@@ -1,20 +1,5 @@
 [
   {
-    "id": "10167456077",
-    "category": "Console",
-    "title": "Socle PlayStation 5",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10167456077-socle-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01ce4_FTLnCEi9NJdd5YYodiWZoQbs/310x430/f04fdcb2.webp?s=524bd6a0370503a66bf4102424ac6ca974300656",
-    "addedAt": "2026-09-28T12:00:30.440Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
     "id": "10167525235",
     "category": "Console",
     "title": "Nintendo Switch complète + manette Battletron neuve + dock + chargeur",
@@ -20380,5 +20365,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10213925208",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10213925208-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006b7_iSzH7UCceYJD6WGyLqkzT7Et/310x430/3fbf5ec2.webp?s=8f32cf9815c0b3eb0549b22093926b5b09120960",
+    "addedAt": "2026-10-02T12:00:53.772Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nCette ps4 a été nettoyé à l’intérieur donc ne pas de bruit dans n’importe quelle jeux je la vend pour 60€ négociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "10213939626",
+    "category": "Console",
+    "title": "Boîte de protection Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10213939626-boite-de-protection-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015e8_hRyFAzej4AzvzweX4iFkesYJ/310x430/0584a1ce.webp?s=b55f0b31a307528028558bde69d5e46486e35e4a",
+    "addedAt": "2026-10-02T12:01:56.347Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
   }
 ]
