@@ -1,37 +1,5 @@
 [
   {
-    "id": "10164224829",
-    "category": "Console",
-    "title": "PlayStation 4 slim 1TB",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10164224829-playstation-4-slim-1tb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01d25_c6gqPD6UZtTotqRi7mgin6HC/310x430/f88f2176.webp?s=d608988dbfc936bddcb15ecd4a2129345d8b38e3",
-    "addedAt": "2026-09-28T05:38:04.684Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10164237732",
-    "category": "Console",
-    "title": "Scocche ps5",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10164237732-scocche-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00513_ZHGBXubuX5dF2bWiZS5E1HE9/310x430/67a0a4a3.webp?s=625cd2f91ba14921a10de6a3985992f203f4d19d",
-    "addedAt": "2026-09-28T05:43:17.890Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10164279646",
     "category": "Console",
     "title": "PlayStation 4 in foto",
@@ -20810,6 +20778,32 @@
     "url": "https://www.vinted.it/items/10210885883-console-sony-playstation-1-ps1-scph-5502-pal-controller-verde-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0225c_wvNusPY5hcq7QsZ1cvxekxHA/310x430/3f0cbe7c.webp?s=912ba59c99062e51a96d79636b68679b0b8f5eb6",
     "addedAt": "2026-10-02T05:31:17.017Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10209814831",
+    "category": "Console",
+    "title": "Carcacas Ps5 Fat en mal estado",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10209814831-carcacas-ps5-fat-en-mal-estado?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0085d_7pVVsCxt9R1sdFNuo3DJ8VmG/310x430/d35e806c.webp?s=134d7abcf3138eb6645c394fc7456e45f0d13022",
+    "addedAt": "2026-10-02T05:40:39.394Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10210919703",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210919703-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00aa4_xTzZgdjTWk4fUW14uaxUnQzu/310x430/0af9f734.webp?s=427d14661729e29645a2b731b7662dde54e53550",
+    "addedAt": "2026-10-02T05:43:46.456Z",
     "processed": false,
     "triaged": false
   }
