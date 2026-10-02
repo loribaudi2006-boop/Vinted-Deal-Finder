@@ -1,38 +1,5 @@
 [
   {
-    "id": "10174693763",
-    "category": "Console",
-    "title": "Ensemble switche",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10174693763-ensemble-switche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01222_KdKhHzxE8eW1iBJgqrwP5hz9/310x430/f5868d81.webp?s=02c5191ba1cc0065da2b11fe873364a0932f5e4b",
-    "addedAt": "2026-09-28T21:29:58.387Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nEnsemble switche\nOttime·Nintendo·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe vends le lot ou pièce possible je m’en débarrasse car j’ai plus de places\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80.05
-  },
-  {
-    "id": "10174747297",
-    "category": "Console",
-    "title": "Nintendo switch BRIDÉE",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10174747297-nintendo-switch-bridee?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01727_pXVBc2pGNSHK7arZjrQg5bLL/310x430/15949780.webp?s=e5ed6e4b1965afa7e4c0dc8271e92b3559bde391",
-    "addedAt": "2026-09-28T21:38:20.633Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10174759993",
     "category": "Console",
     "title": "Xbox One s",
@@ -19661,5 +19628,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10220146623",
+    "category": "Console",
+    "title": "Psp per pezzi di ricambio",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10220146623-psp-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00de4_nWNpJTGK4CMmqQpAB2VVB448/310x430/488c8419.webp?s=396160a717dc3ec1730aea296420d46716c38dc7",
+    "addedAt": "2026-10-02T21:34:19.374Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.05€, sotto soglia"
   }
 ]
