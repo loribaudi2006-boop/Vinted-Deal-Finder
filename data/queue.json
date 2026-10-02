@@ -1,20 +1,5 @@
 [
   {
-    "id": "10175324092",
-    "category": "Console",
-    "title": "Xbox one come da foto",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10175324092-xbox-one-come-da-foto?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00a19_2otcX931KWVrLDHLTXxF7Q3d/310x430/7b9d4c32.webp?s=b5d558a7d6f99e69e2ff6b472253290480a0a9c9",
-    "addedAt": "2026-09-28T23:36:33.118Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.3€, sotto soglia"
-  },
-  {
     "id": "10175335340",
     "category": "Console",
     "title": "nintendo switch",
@@ -19583,5 +19568,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 85.05
+  },
+  {
+    "id": "10220712962",
+    "category": "Console",
+    "title": "PS4+schwarzen case",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10220712962-ps4schwarzen-case?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02249_4isLTEjDbPa2vTj7nkPsbxKq/310x430/fe6fff5f.webp?s=f4de545c209efdbebff413561f1020f9666ada85",
+    "addedAt": "2026-10-02T23:37:56.981Z",
+    "processed": false,
+    "triaged": false
   }
 ]
