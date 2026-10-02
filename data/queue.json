@@ -20962,5 +20962,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-5€, sotto soglia"
+  },
+  {
+    "id": "10211514366",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10211514366-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_024f9_z8bvv7DvSULvbk8V8L49pR5n/310x430/434d07e0.webp?s=6c6a1d251258333b67df1764672df5b72cab9d6a",
+    "addedAt": "2026-10-02T07:47:15.297Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nGuter gebrauchter Zustand\n1 TB\nMit stromkabel und hdmi\nSpedizione\nda 11,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.3
   }
 ]
