@@ -1,20 +1,5 @@
 [
   {
-    "id": "10163456326",
-    "category": "Console",
-    "title": "Suporte headsets ps5",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10163456326-suporte-headsets-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00284_D81PaGtMc7sFL3vEAKhM7hbU/310x430/c5b268f9.webp?s=1bc0fc672225b402f7c048e313d169ed3a9c4a8d",
-    "addedAt": "2026-09-28T00:36:45.681Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8€, sotto soglia"
-  },
-  {
     "id": "10163520393",
     "category": "Console",
     "title": "Nintendo switch noire",
@@ -20912,7 +20897,24 @@
     "url": "https://www.vinted.it/items/10210127915-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0025f_Se2fRxtgBzXwheaqJ3ThxV6H/310x430/37f9be6b.webp?s=e6bcb62eda78850e4f8a711a8180c659ee4bec93",
     "addedAt": "2026-10-02T00:36:39.645Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10210151946",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210151946-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b8f_bYViYsEsjnYY586MY1JbDtuS/310x430/a5848938.webp?s=2f61a48f60712126519d36a21efaf94e10f1e521",
+    "addedAt": "2026-10-02T00:43:57.512Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
