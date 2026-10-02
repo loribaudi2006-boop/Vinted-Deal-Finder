@@ -20947,5 +20947,20 @@
     "geminiFault": "Analogici usurati con drift, in particolare il destro",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.05
+  },
+  {
+    "id": "10211461961",
+    "category": "Console",
+    "title": "Nintendo Switch Ständer",
+    "price": 16,
+    "totalPrice": 17.5,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10211461961-nintendo-switch-stander?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0161b_oLBU7anTZxMcfQaDxYo849LP/310x430/aa176d99.webp?s=6867cb73f83eb1679989d44a2c74e2551e126538",
+    "addedAt": "2026-10-02T07:39:57.783Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
   }
 ]
