@@ -20802,8 +20802,10 @@
     "url": "https://www.vinted.it/items/10211053517-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00cdf_gfNBaJspSb1BLh68YARenxCk/310x430/9c55f564.webp?s=920a5b2e64e6f6f9a86863db808a713e3606d364",
     "addedAt": "2026-10-02T06:25:50.828Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.55€, sotto soglia"
   },
   {
     "id": "10211090187",
@@ -20815,8 +20817,13 @@
     "url": "https://www.vinted.it/items/10211090187-vend-switch-oled?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0198e_yeHaNphE2yYg71V8jEsPyEzp/310x430/09e5ed7c.webp?s=3be760f1fc634dc0a725911841ab02b6288aa4f4",
     "addedAt": "2026-10-02T06:32:06.172Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVend switch oled\nDiscrete·Nintendo·Caricato 20 min fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n20 min fa\nBonjour je vend ma switch oled édition Marko kart avec les dock le chargeur sans le câble hdmi il y a trois ligne verte sue l’écran mais une fois que le dock tout fonctionne pour plus d’information le contacter et les prix est négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tre linee verdi sullo schermo, manca il cavo HDMI, dock e caricatore inclusi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 55.25
   },
   {
     "id": "10211094340",
@@ -20828,8 +20835,13 @@
     "url": "https://www.vinted.it/items/10211094340-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01137_kKJpERoAoYUR9Aza6ZgGGu4U/310x430/32cc52c2.webp?s=8933ec77eb4dabc71a3f27063895fdcff2774de5",
     "addedAt": "2026-10-02T06:33:08.575Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato 19 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n19 min fa\nGuter Zustand ps4\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "10211130772",
@@ -20841,6 +20853,57 @@
     "url": "https://www.vinted.it/items/10211130772-nintendo-switch-1-console-seule-en-parfait-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_022d1_mWSobFpkEfRULe3xN9XRrY25/310x430/3e707c30.webp?s=817c4340dd77712f5c3bc4789a27206715684eda",
     "addedAt": "2026-10-02T06:41:28.734Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch 1 console seule en parfait état\nOttime·Nintendo·Caricato 11 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti Pro\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n11 min fa\nNintendo switch console seule\nSans accessoires\nConnexion à la TV fonctionnelle\nJoy-Con fonctionnels\nLecteur de carte SD fonctionnel\nLecteur de jeux fonctionnel\nConsole entièrement testée\nSans rayures\nEnvoi rapide et soigné.\nGarantie 14 jours contre les éventuels problèmes de fonctionnement.\nD’autres accessoires Nintendo Switch sont disponibles sur mon compte.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
+  },
+  {
+    "id": "10211151928",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10211151928-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f89_hvBgW9xttsVPPoTamzZsGHhG/310x430/8a6264e2.webp?s=587162514fd8554b6de0a8cdffa6e2b142f8523f",
+    "addedAt": "2026-10-02T06:45:39.030Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10211175924",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10211175924-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01572_tJBqCopWexthCuwduccr4idd/310x430/435cf75f.webp?s=a4d43bc09fa929ae147de93d2b19f07ae8e09cca",
+    "addedAt": "2026-10-02T06:50:52.284Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 slim\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nPS4 Slim en bon état, fonctionne correctement.\nVendue avec manette filaire + câble et 3 jeux PS4 :\n\nPS4 Slim en bon état, fonctionne correctement.\nVendue avec manette filaire + câble et 3 jeux PS4 : FIFA 18, NFS Heat et Call of Duty Infinite Warfare.\n\n📦 Envoi rapide : colis déposé sous 48h maximum après l’achat.\n... altro\nSpedizione\nda 9,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 93.25
+  },
+  {
+    "id": "10211181677",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10211181677-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01572_tJBqCopWexthCuwduccr4idd/310x430/435cf75f.webp?s=a4d43bc09fa929ae147de93d2b19f07ae8e09cca",
+    "addedAt": "2026-10-02T06:51:54.681Z",
     "processed": false,
     "triaged": false
   }
