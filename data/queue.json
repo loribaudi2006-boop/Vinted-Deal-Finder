@@ -1,51 +1,5 @@
 [
   {
-    "id": "10169300625",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10169300625-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01f1b_HfhyoeGSqAnaV8nLT86KXDnm/310x430/ffed6672.webp?s=8feb31e8a38e6fb9e429efaf4220ee33fbac65d8",
-    "addedAt": "2026-09-28T14:25:15.880Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
-    "id": "10169394586",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10169394586-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0055b_VmXqHRpGju6z3TFY2aL4ooNL/310x430/5a67c0cf.webp?s=0722b32006bb37a20da810e97973de2951dfd724",
-    "addedAt": "2026-09-28T14:32:35.873Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10169409265",
-    "category": "Console",
-    "title": "Console ps4 + cavi alimentazione + 1 controller +caricatore controller",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10169409265-console-ps4-cavi-alimentazione-1-controller-caricatore-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_022ac_rYaSuXNh52FWuVKBwkt1LtgV/310x430/b26c7fe4.webp?s=1b10cb76dba6d20f0ba66e608dd98d8f87674e0c",
-    "addedAt": "2026-09-28T14:33:38.616Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10169422183",
     "category": "Console",
     "title": "Socle Nintendo switch Zelda Tears of the Kingdom",
@@ -20513,5 +20467,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "10215566863",
+    "category": "Console",
+    "title": "Nintendo switch geel zwart.",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10215566863-nintendo-switch-geel-zwart?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01fa5_1MZ2RRjNdXfqBMUfq4wyrUxP/310x430/240bb6c9.webp?s=de207211b23772734df489fa46796282378db54b",
+    "addedAt": "2026-10-02T14:27:28.993Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "6\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch geel zwart.\nBuone·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo Switch met beschermhoes 🎮\n\nTe koop: Nintendo Switch met blauw en geel gekleurde Joy-Cons. De Switch wordt geleverd met een zwarte beschermhoes met opbergruimte.\n\n* Merk: Nintendo\n* Model: Nintendo Switch\n* Kleur Joy-Cons: blauw/geel\n* Inclusief beschermhoes\n* Gebruikte staat, zie foto’s voor de conditie\n* Scherm en knoppen zijn zichtbaar op de foto\n\nBij interesse of vragen, stuur gerust een berichtje!\n... altro\nSpedizione\nda 5,19 €",
+    "geminiFault": "Usato, segni di utilizzo non specificati nel dettaglio ma schermo e tasti visibili",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.3
   }
 ]
