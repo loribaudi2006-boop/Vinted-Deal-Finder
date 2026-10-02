@@ -1,38 +1,5 @@
 [
   {
-    "id": "10175134905",
-    "category": "Console",
-    "title": "Cerco ps5 rotta",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "parola chiave: \"rotta\" + prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10175134905-cerco-ps5-rotta?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00fd1_aPXmDBj9HKf5rcyhhXVr792F/310x430/323a9870.webp?s=f180ae8d21660d72eba319c505486a666d27223b",
-    "addedAt": "2026-09-28T22:51:35.940Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10175161608",
-    "category": "Console",
-    "title": "PS4 Slim 500gb + spider man + grand turismo sport",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10175161608-ps4-slim-500gb-spider-man-grand-turismo-sport?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00f6d_haZ2eWuDvRNTJgEJiu3FkZdS/310x430/34ebc181.webp?s=21f4e983ea20f5a1de9160da32909a3fd4578e5e",
-    "addedAt": "2026-09-28T22:57:52.009Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim 500gb + spider man + grand turismo sport\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo PlayStation 4 Slim com 500GB de armazenamento, em bom estado e a funcionar perfeitamente.\nInclui:\n* PS4 Slim 500GB\n* Cabos necessários\n* Gran Turismo sport\n* Marvel's Spider-Man\nEnvio\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 56.3
-  },
-  {
     "id": "10175193346",
     "category": "Console",
     "title": "Batería portátil Remotto para mando PS4 (3000 mAh)",
@@ -19613,5 +19580,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10220565749",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 51,
+    "totalPrice": 54.25,
+    "reason": "prezzo 49% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10220565749-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0023b_FvMSMuFHjYpU49BUSrn9jci7/310x430/b345b3ca.webp?s=e6cbd06a7f841e9ed553fa9c7331d031d8b6d15c",
+    "addedAt": "2026-10-02T22:58:32.298Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.75€, sotto soglia"
   }
 ]
