@@ -1,53 +1,5 @@
 [
   {
-    "id": "10164113834",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10164113834-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e65_rnvaAa5DGvQZYp3LciS4HJfm/310x430/eeb88c07.webp?s=29094aff8d108cb82dfed544ecfe398de2a478dc",
-    "addedAt": "2026-09-28T04:47:59.742Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10164113406",
-    "category": "Console",
-    "title": "Nintendo switch senza controller",
-    "price": 30.5,
-    "totalPrice": 32.73,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10164113406-nintendo-switch-senza-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01848_JUJ48raSZaP3pLAC14oxd4Pk/310x430/7862a15e.webp?s=25e8f3b05553d3811a21002484b5fc8476963153",
-    "addedAt": "2026-09-28T04:47:59.743Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10164131374",
-    "category": "Console",
-    "title": "Switch mit Zubehör",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10164131374-switch-mit-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01464_AzoFyYuDsoxFkEH2y4AwmZbm/310x430/e47dbc49.webp?s=2ea6b5982dfb63dd7d7735d747e03098469960eb",
-    "addedAt": "2026-09-28T04:56:20.449Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10164172030",
     "category": "Console",
     "title": "PlayStation 4 in foto",
@@ -20848,6 +20800,19 @@
     "url": "https://www.vinted.it/items/10210752145-pochette-de-protection-ou-de-voyage-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00b1a_1b7V9ooDuUUL5yTUfti3iaxw/310x430/70f83c92.webp?s=2936fcb18569bc287396eea9a04c67fd27a236e3",
     "addedAt": "2026-10-02T04:31:55.540Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10210793745",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210793745-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02054_Wg9aUPrWXvXHiday2gZf2F5T/310x430/b27f1170.webp?s=4006617067139d645fd837a6f8833d954f90b2c9",
+    "addedAt": "2026-10-02T04:51:41.646Z",
     "processed": false,
     "triaged": false
   }
