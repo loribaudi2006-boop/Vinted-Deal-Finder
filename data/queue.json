@@ -1,21 +1,5 @@
 [
   {
-    "id": "10164178797",
-    "category": "Console",
-    "title": "Nintendo Switch Tasche",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10164178797-nintendo-switch-tasche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015a4_DDzQC2qiVGwopLC2L9zCbBCh/310x430/a2170b40.webp?s=92594a4b90dc7d00fcd77f75a543dd63683ccf61",
-    "addedAt": "2026-09-28T05:18:14.831Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10164223101",
     "category": "Console",
     "title": "Xbox One encore fonctionnel ( sans manette ni alimentation )",
@@ -20800,7 +20784,10 @@
     "url": "https://www.vinted.it/items/10210793745-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02054_Wg9aUPrWXvXHiday2gZf2F5T/310x430/b27f1170.webp?s=4006617067139d645fd837a6f8833d954f90b2c9",
     "addedAt": "2026-10-02T04:51:41.646Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
