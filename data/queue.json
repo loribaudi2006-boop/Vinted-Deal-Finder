@@ -1,37 +1,5 @@
 [
   {
-    "id": "10163569464",
-    "category": "Console",
-    "title": "Switch Light",
-    "price": 54,
-    "totalPrice": 57.4,
-    "reason": "prezzo 72% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10163569464-switch-light?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01b1c_eMigdMCtaiZkZYHDtxMT28cT/310x430/5d11dbef.webp?s=01498c83bdc088296fef3d3ee1b355f6de0c4578",
-    "addedAt": "2026-09-28T01:28:43.614Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10163566515",
-    "category": "Console",
-    "title": "Switch Light",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10163566515-switch-light?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01914_MxbJVNNDWWhg83J6sNXF3ejd/310x430/e9bc73ad.webp?s=e1959f591dbeea3a25880fd4a94b091442a6fe4d",
-    "addedAt": "2026-09-28T01:28:43.614Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10163702850",
     "category": "Console",
     "title": "Saga Doom Ps4",
@@ -20912,7 +20880,10 @@
     "url": "https://www.vinted.it/items/10210212564-echange-ps4-xbox-one-s-contre-une-xbox-serie-s-ou-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00721_rh8EvkwcxijN8zUfF8aNLLkT/310x430/15a24024.webp?s=a437ff131e296a8258994ec1ba9ee64c5b5bad38",
     "addedAt": "2026-10-02T01:01:38.881Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
