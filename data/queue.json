@@ -20203,8 +20203,10 @@
     "url": "https://www.vinted.it/items/10218108846-nintendo-switch-2-case?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00b84_8vifgYokj8AULr4F8Z2GVGfB/310x430/766f046b.webp?s=d9a9b678378012e16154c60cd808b5dd373597e1",
     "addedAt": "2026-10-02T17:54:33.909Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   },
   {
     "id": "10218107209",
@@ -20216,7 +20218,72 @@
     "url": "https://www.vinted.it/items/10218107209-volante-y-pedales-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01058_3BKbTe5LHSXfHzJ7pf7bcBKv/310x430/f598a2a8.webp?s=c481ce3d9dc7faf6522b1fcf021c42b54994d1b2",
     "addedAt": "2026-10-02T17:54:33.910Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10218123689",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10218123689-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0221e_t8KfekcZB8posKJV97MzG8uH/310x430/f28e96c6.webp?s=57c6e7a0b8dbfddbb08537e886679367c71d1ee9",
+    "addedAt": "2026-10-02T17:55:35.724Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 slim en bonne état lecteur cd cassée et sans manettes malheureusement prix négociable dans la limite du raisonnable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "lettore cd cassée et sans manettes",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10218117953",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10218117953-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01fe9_n8B7JcCahzQGT6GJenu9mMdW/310x430/83a7de32.webp?s=1eb65af8ac4ff4dbb109dfc39423f9c5232daa3f",
+    "addedAt": "2026-10-02T17:55:35.725Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.3€, sotto soglia"
+  },
+  {
+    "id": "10218133193",
+    "category": "Console",
+    "title": "068421 - Correas - Nintendo Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10218133193-068421-correas-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00983_hpnd2y81ZCBJR2sQA62D1F6L/310x430/b1e14355.webp?s=f310eaacc8bc397f1b79d5c766b43d93d124bfa6",
+    "addedAt": "2026-10-02T17:56:38.061Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
+  },
+  {
+    "id": "10218146569",
+    "category": "Console",
+    "title": "Ps4 slim+ 3 manettes",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 82% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10218146569-ps4-slim-3-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01603_a4uTkcWkzUw23S3UAW5FWbQD/310x430/7e394163.webp?s=3a1d1e5dc12bca98ea20847e2b6bd06199c7dfbe",
+    "addedAt": "2026-10-02T17:57:40.304Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
