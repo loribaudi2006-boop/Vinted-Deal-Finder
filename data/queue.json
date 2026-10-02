@@ -20455,5 +20455,53 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10214947345",
+    "category": "Console",
+    "title": "COVER Ps5 Fat Digital Dragon ball Z Gotenks",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 90% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10214947345-cover-ps5-fat-digital-dragon-ball-z-gotenks?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cfc_x2vRKrdzEceSmiZt61PJJC22/310x430/d7833a57.webp?s=cf0b5a4d63cabc5fc4c2697a254553c49c09116d",
+    "addedAt": "2026-10-02T13:34:39.799Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.65€, sotto soglia"
+  },
+  {
+    "id": "10214961794",
+    "category": "Console",
+    "title": "Vend switch oled",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 77% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10214961794-vend-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0198e_yeHaNphE2yYg71V8jEsPyEzp/310x430/09e5ed7c.webp?s=3be760f1fc634dc0a725911841ab02b6288aa4f4",
+    "addedAt": "2026-10-02T13:36:43.968Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVend switch oled\nDiscrete·Nintendo·Caricato un minuto fa\n\n61,00 €\n\n64,75 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nBonjour je vend ma switch oled édition Marko kart avec les dock le chargeur sans le câble hdmi il y a trois ligne verte sue l’écran mais une fois que le dock tout fonctionne pour plus d’information le contacter et les prix est négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tre linee verdi sullo schermo, manca il cavo HDMI",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.25
+  },
+  {
+    "id": "10215001240",
+    "category": "Console",
+    "title": "Compro Xbox S o PS5 a 115€",
+    "price": 115,
+    "totalPrice": 1,
+    "reason": "prezzo 70% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10215001240-compro-xbox-s-o-ps5-a-115eur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0244b_hg61WEZDQewJaaHB7XitoyyE/310x430/0184930d.webp?s=b0bcaa5a1beb09fa200846d105561a318cdef725",
+    "addedAt": "2026-10-02T13:39:50.031Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1€, sotto soglia"
   }
 ]
