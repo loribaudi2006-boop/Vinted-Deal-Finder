@@ -20048,5 +20048,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10219496086",
+    "category": "Console",
+    "title": "Fc26 sehr gut für Playstation 5",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10219496086-fc26-sehr-gut-fur-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0126b_d7VvuaCd4ynZrjAK8kV57dY2/310x430/9ae0ad69.webp?s=7a5ef7b05b04c4a4076ef1a8fceb6d43cc0d65c6",
+    "addedAt": "2026-10-02T20:09:41.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-7.15€, sotto soglia"
   }
 ]
