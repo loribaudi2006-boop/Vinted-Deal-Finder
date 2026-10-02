@@ -1,21 +1,5 @@
 [
   {
-    "id": "10163738783",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10163738783-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e5c_9nYtmaNzSJK9yvBxKdpApZ1f/310x430/5af9802f.webp?s=d9a9e3974bb7dfa919c610268ef4178f712cbf30",
-    "addedAt": "2026-09-28T02:01:03.636Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10164046637",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -20880,6 +20864,19 @@
     "url": "https://www.vinted.it/items/10210339452-playstation-4-apenas-a-consola?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c57_Pm3DFe9PZE7hFgFzQzZ5kyCu/310x430/1e566238.webp?s=58b855118fed447c2a71bf22ebb67ef1775f48a0",
     "addedAt": "2026-10-02T01:41:13.577Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10210403322",
+    "category": "Console",
+    "title": "Ps4 fat 500g",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10210403322-ps4-fat-500g?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00554_tqa1XyhHk2GcpSSSiEAtivRe/310x430/e7f92755.webp?s=be4055d4c7861bd36c5cf4974549bffe3f23f9b4",
+    "addedAt": "2026-10-02T02:02:03.276Z",
     "processed": false,
     "triaged": false
   }
