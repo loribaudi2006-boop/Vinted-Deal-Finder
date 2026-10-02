@@ -1,20 +1,5 @@
 [
   {
-    "id": "10175054298",
-    "category": "Console",
-    "title": "Xbox One + 2 manettes – testée et fonctionnelle",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10175054298-xbox-one-2-manettes-testee-et-fonctionnelle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_010e3_HWR4c38hVVYRDXeYa9j6g9NQ/310x430/e67148cb.webp?s=d7a15362753e87f86e3a5f3124480386a5622926",
-    "addedAt": "2026-09-28T22:33:47.478Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10175096699",
     "category": "Console",
     "title": "Nintendo Switch Lite",
@@ -19613,5 +19598,36 @@
     "geminiFault": "L1 del joystick sinistro non funziona, cavo non originale ma funzionante, piccoli segni di usura",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10220443792",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10220443792-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_000fb_v3bqjq4YsnypfzSrpDf7iL9F/310x430/d20af08c.webp?s=86fd793ff11ede009feb4c64168318e75d2f79f8",
+    "addedAt": "2026-10-02T22:30:31.736Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPerfettamente funzionante\nFilo con difetto come in foto ma funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Filo con difetto come in foto ma funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10220483962",
+    "category": "Console",
+    "title": "Switch bonne état un peu vieille",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10220483962-switch-bonne-etat-un-peu-vieille?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010f2_Sq3ckcaiWrh5t3hHjZ4DbpGN/310x430/d7bef15a.webp?s=e420a7786756fdf573c9aa2ef87922df05fbe9b1",
+    "addedAt": "2026-10-02T22:38:49.100Z",
+    "processed": false,
+    "triaged": false
   }
 ]
