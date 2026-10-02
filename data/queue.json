@@ -20752,8 +20752,10 @@
     "url": "https://www.vinted.it/items/10210880831-console-sony-playstation-1-ps1-scph-7002-pal-controller-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02506_aCCCzo9gzc9dAmXzjPPWUcM2/310x430/125bc656.webp?s=437920767afe28561d50cc990b1fd01d622102eb",
     "addedAt": "2026-10-02T05:29:12.143Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
   },
   {
     "id": "10210882873",
@@ -20765,8 +20767,10 @@
     "url": "https://www.vinted.it/items/10210882873-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0229c_Tc5AQYGV8Pqnc44BK3YxUC7f/310x430/d284d964.webp?s=f42faf14421f96f9460fb13da4ac3c1da8c9045d",
     "addedAt": "2026-10-02T05:30:14.685Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10210885883",
@@ -20778,8 +20782,10 @@
     "url": "https://www.vinted.it/items/10210885883-console-sony-playstation-1-ps1-scph-5502-pal-controller-verde-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0225c_wvNusPY5hcq7QsZ1cvxekxHA/310x430/3f0cbe7c.webp?s=912ba59c99062e51a96d79636b68679b0b8f5eb6",
     "addedAt": "2026-10-02T05:31:17.017Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   },
   {
     "id": "10209814831",
@@ -20791,8 +20797,10 @@
     "url": "https://www.vinted.it/items/10209814831-carcacas-ps5-fat-en-mal-estado?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0085d_7pVVsCxt9R1sdFNuo3DJ8VmG/310x430/d35e806c.webp?s=134d7abcf3138eb6645c394fc7456e45f0d13022",
     "addedAt": "2026-10-02T05:40:39.394Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10210919703",
@@ -20804,6 +20812,57 @@
     "url": "https://www.vinted.it/items/10210919703-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00aa4_xTzZgdjTWk4fUW14uaxUnQzu/310x430/0af9f734.webp?s=427d14661729e29645a2b731b7662dde54e53550",
     "addedAt": "2026-10-02T05:43:46.456Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato 7 min fa\n\n55,00 €\n\n58,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n7 min fa\nElle fonctionne les manettes deconne dans le menu acceuil mais en jeu ça va\nTrace usure classique\nLe prix est fixe je ne répondrais pas au offre\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "I joy-con danno problemi nel menu principale ma funzionano in gioco, normali segni di usura",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.55
+  },
+  {
+    "id": "10210935143",
+    "category": "Console",
+    "title": "Console ps4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10210935143-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fa0_ZrxyXbif55h16js5k8HaV6Vf/310x430/40c00e0a.webp?s=307f9c62b187440bc97edd09d4ff3b83910c78c3",
+    "addedAt": "2026-10-02T05:48:58.737Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nConsole sans manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console sans manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10210934773",
+    "category": "Console",
+    "title": "Nintendo switch personnalisé +8jeux",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210934773-nintendo-switch-personnalise-8jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016f4_LKFX1K1UzpE1LrTZUsscVVzU/310x430/0cc12731.webp?s=ffb537d0dfece02ef36dec1b2f7c8639df71a9f8",
+    "addedAt": "2026-10-02T05:48:58.737Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-33.44€, sotto soglia"
+  },
+  {
+    "id": "10210946486",
+    "category": "Console",
+    "title": "Ps4 slim 500 go",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10210946486-ps4-slim-500-go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01ae1_yF7kW6axuMZBAJ6L6WvbHmfV/310x430/3457677e.webp?s=4b28d1b60cccae5fc6550223149daab0c01ad991",
+    "addedAt": "2026-10-02T05:53:08.742Z",
     "processed": false,
     "triaged": false
   }
