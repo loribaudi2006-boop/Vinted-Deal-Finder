@@ -20800,8 +20800,11 @@
     "url": "https://www.vinted.it/items/10210752145-pochette-de-protection-ou-de-voyage-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00b1a_1b7V9ooDuUUL5yTUfti3iaxw/310x430/70f83c92.webp?s=2936fcb18569bc287396eea9a04c67fd27a236e3",
     "addedAt": "2026-10-02T04:31:55.540Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10210793745",
