@@ -1,23 +1,5 @@
 [
   {
-    "id": "10174585328",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10174585328-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016f4_d9pbbdBsmws2v1ZUdaqMjDmY/310x430/9832dba3.webp?s=9f6e21ff720aadfbee3462e98afa6fa52f84f178",
-    "addedAt": "2026-09-28T21:15:16.769Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPeut baisser le prix a vendre cause bruit de ventilation et bouton enfoncé mais marche très bien !\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "rumore della ventola e tasto incastrato ma funziona molto bene",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 62.05
-  },
-  {
     "id": "10174634416",
     "category": "Console",
     "title": "Nintendo switch BRIDÉE",
@@ -19610,5 +19592,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10219993381",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10219993381-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00547_nuJLLra9Z64s3jwNkwPRmJNE/310x430/bfff51c2.webp?s=20b1d48ad710b5842cac77709247b3174a90de89",
+    "addedAt": "2026-10-02T21:11:27.425Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10220021421",
+    "category": "Console",
+    "title": "Fc27 ps4/5",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10220021421-fc27-ps45?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ce3_YD21qU6BzukjYW8jkjybdHEX/310x430/04785173.webp?s=635a44b4663d3f18ef4aa4e5499f9b8403e21fa6",
+    "addedAt": "2026-10-02T21:15:37.407Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-47.95€, sotto soglia"
+  },
+  {
+    "id": "10220041584",
+    "category": "Console",
+    "title": "Hori Ps4-087 draagbare gaming monitor Playstation",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10220041584-hori-ps4-087-draagbare-gaming-monitor-playstation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00cac_PyvgKzA45WKh7BJUPphZnDmd/310x430/9a3ef301.webp?s=49eeb4e5d91b5cb217a7099c0e2d19ab3f6192cf",
+    "addedAt": "2026-10-02T21:18:44.427Z",
+    "processed": false,
+    "triaged": false
   }
 ]
