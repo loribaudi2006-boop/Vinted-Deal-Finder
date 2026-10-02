@@ -20880,7 +20880,10 @@
     "url": "https://www.vinted.it/items/10210403322-ps4-fat-500g?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00554_tqa1XyhHk2GcpSSSiEAtivRe/310x430/e7f92755.webp?s=be4055d4c7861bd36c5cf4974549bffe3f23f9b4",
     "addedAt": "2026-10-02T02:02:03.276Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
