@@ -1,53 +1,5 @@
 [
   {
-    "id": "10170116642",
-    "category": "Console",
-    "title": "Carte sd switch 256g",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10170116642-carte-sd-switch-256g?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00c30_kxr1uSr1Px67Q4NELgubx9hZ/310x430/e6c1d631.webp?s=f639777221cecef978cb5074367b2d3a401ce4ed",
-    "addedAt": "2026-09-28T15:24:53.109Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10170185967",
-    "category": "Console",
-    "title": "Xbox One (ohne Controller)+7 Spiele",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10170185967-xbox-one-ohne-controller7-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_012f7_zbdrZkHGj7HpP1Whb5aP3HBq/310x430/79c66716.webp?s=f1a36f66c7d20b46fd77e66c6d623f7627ec4ac8",
-    "addedAt": "2026-09-28T15:29:03.716Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10170222473",
-    "category": "Console",
-    "title": "Xbox One (ohne Controller)+7 Spiele",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10170222473-xbox-one-ohne-controller7-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02122_9nc6FSn3ESir21URjZ8sKVjG/310x430/2e742c2d.webp?s=0e4b8d67f24aecfd56b7d7aa3bce5ce0ff2db943",
-    "addedAt": "2026-09-28T15:32:11.641Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10170252774",
     "category": "Console",
     "title": "Sony PSP – lotto 2 console non funzionanti",
@@ -20434,5 +20386,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10216270538",
+    "category": "Console",
+    "title": "Ukonic Xbox Series X Mini Nevera Termoeléctrica",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/10216270538-ukonic-xbox-series-x-mini-nevera-termoelectrica-10-l?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02455_vKwcJyemdAoUA3EAvRbsJ5tc/310x430/cac5e713.webp?s=40526eee06564302ff3df54c744e7fc13f17180d",
+    "addedAt": "2026-10-02T15:24:25.723Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.8€, sotto soglia"
   }
 ]
