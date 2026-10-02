@@ -20521,5 +20521,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10215239019",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10215239019-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02528_h7ekaahXSMckKE7VhePwrSZu/310x430/efa42972.webp?s=bea1fb76b227311566fc5b56368d46c40daa064f",
+    "addedAt": "2026-10-02T13:59:31.934Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nPS4, très bon état, légèrement rayé sur la coque comme vous pouvez le constater sur les photos, mais elle fonctionne très bien câble d’alimentation ainsi que HDMI inclus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "légèrement rayé sur la coque",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10215244109",
+    "category": "Console",
+    "title": "Playstation 5 - NON comprare a 1€",
+    "price": 1,
+    "totalPrice": 1,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10215244109-playstation-5-non-comprare-a-1eur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01bd3_6dMND3zEhCTwDcTNadtzBXk6/310x430/3f4cd588.webp?s=04036b6fc603f83690d796ce0c3f78ef8632b4d6",
+    "addedAt": "2026-10-02T14:00:33.976Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1€, sotto soglia"
+  },
+  {
+    "id": "10215290165",
+    "category": "Console",
+    "title": "Ps4 mit konsole und gute spiele",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10215290165-ps4-mit-konsole-und-gute-spiele?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015d8_xLHt6h9JfDQJrSS59yiMSXfg/310x430/c8b8ec25.webp?s=b2dc3a375d921ada4563b37212598f460319cffe",
+    "addedAt": "2026-10-02T14:03:40.268Z",
+    "processed": false,
+    "triaged": false
   }
 ]
