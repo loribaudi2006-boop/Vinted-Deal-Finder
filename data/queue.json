@@ -1,21 +1,5 @@
 [
   {
-    "id": "10164223101",
-    "category": "Console",
-    "title": "Xbox One encore fonctionnel ( sans manette ni alimentation )",
-    "price": 19,
-    "totalPrice": 20.65,
-    "reason": "prezzo 81% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10164223101-xbox-one-encore-fonctionnel-sans-manette-ni-alimentation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00a2a_qaEkdyUvwiT2Mj8C32KQ8m2p/310x430/2902f521.webp?s=697557799413395db8545534e8877863f0b49540",
-    "addedAt": "2026-09-28T05:37:01.919Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10164224829",
     "category": "Console",
     "title": "PlayStation 4 slim 1TB",
@@ -20789,5 +20773,44 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10210880831",
+    "category": "Console",
+    "title": "Console Sony PlayStation 1 PS1 (SCPH-7002) PAL + Controller - Non Testata",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10210880831-console-sony-playstation-1-ps1-scph-7002-pal-controller-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02506_aCCCzo9gzc9dAmXzjPPWUcM2/310x430/125bc656.webp?s=437920767afe28561d50cc990b1fd01d622102eb",
+    "addedAt": "2026-10-02T05:29:12.143Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10210882873",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210882873-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0229c_Tc5AQYGV8Pqnc44BK3YxUC7f/310x430/d284d964.webp?s=f42faf14421f96f9460fb13da4ac3c1da8c9045d",
+    "addedAt": "2026-10-02T05:30:14.685Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10210885883",
+    "category": "Console",
+    "title": "Console Sony PlayStation 1 PS1 (SCPH-5502) PAL + Controller Verde - Non Testata",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10210885883-console-sony-playstation-1-ps1-scph-5502-pal-controller-verde-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0225c_wvNusPY5hcq7QsZ1cvxekxHA/310x430/3f0cbe7c.webp?s=912ba59c99062e51a96d79636b68679b0b8f5eb6",
+    "addedAt": "2026-10-02T05:31:17.017Z",
+    "processed": false,
+    "triaged": false
   }
 ]
