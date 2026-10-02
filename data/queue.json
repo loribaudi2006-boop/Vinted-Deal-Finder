@@ -1,20 +1,5 @@
 [
   {
-    "id": "10165081130",
-    "category": "Console",
-    "title": "Lot de 2 boîtes vide Nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10165081130-lot-de-2-boites-vide-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0092e_xTa5pUhT6HjVYZFbwV4wHM5h/310x430/71830d28.webp?s=581b0b3495371fc975b16bb8533f3bb701ce2b05",
-    "addedAt": "2026-09-28T08:20:44.693Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10165164668",
     "category": "Console",
     "title": "PS4 Slim Silver + controller Rose Gold",
@@ -20911,5 +20896,35 @@
     "geminiFault": "Nuova ma non Non funzionate",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10211750066",
+    "category": "Console",
+    "title": "A plague tale résonance PlayStation 5",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10211750066-a-plague-tale-resonance-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_008f4_1cnVHBFxbsQNRVYp5nYU7YNq/310x430/ad4a3e5f.webp?s=113b1ba597623df43046699cd6675ad18667932b",
+    "addedAt": "2026-10-02T08:18:30.147Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12.45€, sotto soglia"
+  },
+  {
+    "id": "10211748054",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10211748054-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01a0d_CkjXVF5qjFLFeCh8ycmzK4pk/310x430/7c15f0c0.webp?s=578250452d11040d6ec389eac2ba079fbcdbdd55",
+    "addedAt": "2026-10-02T08:18:30.148Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
