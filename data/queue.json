@@ -20033,5 +20033,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10219416477",
+    "category": "Console",
+    "title": "lot accessoires officiels nintendo switch (dock + grip + dragonnes)",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 90% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10219416477-lot-accessoires-officiels-nintendo-switch-dock-grip-dragonnes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00dec_2r2x29cWveMFdRjYrooMtT4u/310x430/df85b874.webp?s=380f8cfe0f05e9b8afa6fd81dc186d8c31f23f41",
+    "addedAt": "2026-10-02T20:01:19.763Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
