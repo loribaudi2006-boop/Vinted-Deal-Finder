@@ -1,35 +1,5 @@
 [
   {
-    "id": "10163426119",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 64,
-    "totalPrice": 67.9,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10163426119-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0066e_XBeLSi69Tqpbfc2N5ry62i78/310x430/e9010557.webp?s=636cdd88ec8f0f05726a0a886ea69497a1af7924",
-    "addedAt": "2026-09-28T00:28:24.086Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~12.1€, sotto soglia"
-  },
-  {
-    "id": "10160282349",
-    "category": "Console",
-    "title": "Starter kit Juventus Nintendo switch",
-    "price": 14,
-    "totalPrice": 15.4,
-    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10160282349-starter-kit-juventus-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0096d_eiw8qhXc4YiXPjkXSKYVaKc7/310x430/1616240a.webp?s=8257b04a6a9f6084429d9e96e39d0b4da75b3f9b",
-    "addedAt": "2026-09-28T00:33:37.871Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.4€, sotto soglia"
-  },
-  {
     "id": "10163456326",
     "category": "Console",
     "title": "Suporte headsets ps5",
@@ -20913,5 +20883,36 @@
     "geminiFault": "manca gamepad e cavo hdmi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10210109504",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210109504-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ff1_FDwNdDisLvCzofYdNwYNQeCE/310x430/d8b7cfe0.webp?s=ed99cf4b64c02b744433d251beffaa7e9d9ce597",
+    "addedAt": "2026-10-02T00:31:27.527Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo Switch·Caricato proprio adesso\n\n62,00 €\n\n65,80 €\nInclude la Protezione acquisti\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe vends cette Nintendo Switch noire avec tous ses accessoires et jeux. Un pack complet pour profiter de tous les jeux Nintendo !\n- Type de produit : Console portable et de salon\n- Marque : Nintendo\n- Modèle : Switch\n- Couleur : Noir\n- Accessoires inclus : 2 Joy-Con (bleu et rouge), Station d'accueil, Câble d'alimentation, Manette filaire Animal crossing (turquoise),\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 74.2
+  },
+  {
+    "id": "10210127915",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10210127915-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0025f_Se2fRxtgBzXwheaqJ3ThxV6H/310x430/37f9be6b.webp?s=e6bcb62eda78850e4f8a711a8180c659ee4bec93",
+    "addedAt": "2026-10-02T00:36:39.645Z",
+    "processed": false,
+    "triaged": false
   }
 ]
