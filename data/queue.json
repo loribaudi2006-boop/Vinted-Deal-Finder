@@ -20864,8 +20864,11 @@
     "url": "https://www.vinted.it/items/10210339452-playstation-4-apenas-a-consola?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c57_Pm3DFe9PZE7hFgFzQzZ5kyCu/310x430/1e566238.webp?s=58b855118fed447c2a71bf22ebb67ef1775f48a0",
     "addedAt": "2026-10-02T01:41:13.577Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10210403322",
