@@ -20041,5 +20041,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10233058934",
+    "category": "Console",
+    "title": "Consola Nintendo Switch Lite + Bolsa",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10233058934-consola-nintendo-switch-lite-bolsa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0110a_E9kYRF61dCn1iPwAQtiWygoS/310x430/66fd0b72.webp?s=c5309c2a6de8bba1064fb6b161047a7c944166f0",
+    "addedAt": "2026-10-03T21:09:46.249Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   }
 ]
