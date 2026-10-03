@@ -20056,5 +20056,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.3€, sotto soglia"
+  },
+  {
+    "id": "10233136104",
+    "category": "Console",
+    "title": "Nintendo Switch Oled 2 Verres trempés",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 98% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10233136104-nintendo-switch-oled-2-verres-trempes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01fc5_XJGFg8xQYL7L9YVdNEEtscti/310x430/26847c11.webp?s=ecb58aa4126c409ae1dde87b667a9ece37994cb7",
+    "addedAt": "2026-10-03T21:19:06.081Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10233137540",
+    "category": "Console",
+    "title": "xbox one S",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10233137540-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_013de_pNrHhnHZMbTS4mgKwFruWh96/310x430/62c3c7d2.webp?s=1c1977890c0582ee406bb4f3659dcc47f1a05249",
+    "addedAt": "2026-10-03T21:20:08.200Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "lezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nxbox one S\nOttime·Xbox·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\n🍒spedisco solo con le poste🍒\nxbox funzionante (perfettamente) spedisco con 2 controller quello originale da siatemare (non va) quello non originale funziona solo se lo attaccate col cavo e drifta.\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller originale da sistemare (non va), controller non originale funziona solo col cavo e ha drift.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   }
 ]
