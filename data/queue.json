@@ -20551,5 +20551,53 @@
     "geminiFault": "Segni normali di uso",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 86.31
+  },
+  {
+    "id": "10228361095",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10228361095-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fcb_PWgmXNszE2rBDr2j1dKx2BzQ/310x430/ba838789.webp?s=08ac808c0de7de357031a0f090c89f1c15b69878",
+    "addedAt": "2026-10-03T15:04:16.629Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
+  },
+  {
+    "id": "10228376128",
+    "category": "Console",
+    "title": "PS4 LittleBig3Planet",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10228376128-ps4-littlebig3planet?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00510_QSmWDfuaBT6mUbZVB2WGqwdq/310x430/628e4627.webp?s=9e8f541b013f2226863d521ccc72855fdccfcce1",
+    "addedAt": "2026-10-03T15:05:18.611Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10228358305",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 64.9,
+    "totalPrice": 68.85,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10228358305-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02524_6GWNMXC4QdjRFU4wHp5muRy1/310x430/8a1c35df.webp?s=a2423deb8e221d0b54737a0b5d53228864c14b87",
+    "addedAt": "2026-10-03T15:05:18.611Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\n+ 8\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n64,90 €\n\n68,85 €\nInclude la Protezione acquisti Pro\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlaystation 4\nConsole ps4 en très bon etat fonctionne très bien avec le câble hdmi et la manette d'origine. Petit accros en dessous de la console. Envoie rapide et soignée\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Petit accros en dessous de la console",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.15
   }
 ]
