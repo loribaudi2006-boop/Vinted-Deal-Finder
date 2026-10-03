@@ -1,21 +1,5 @@
 [
   {
-    "id": "10161396468",
-    "category": "Console",
-    "title": "Ps4 jailbreak bluray",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10161396468-ps4-jailbreak-bluray?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00dd0_rtynAHkx86VH2VoBpsDWqFJQ/310x430/b8060d10.webp?s=32b641500e244e1defb1b5eb63e2c59d3f84e3ef",
-    "addedAt": "2026-09-29T05:15:53.172Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10176447319",
     "category": "Console",
     "title": "Soporte PS5 Slim/Pro con Cargador y Ventilador",
@@ -19593,6 +19577,22 @@
     "url": "https://www.vinted.it/items/10221522220-nintendo-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02143_pKPA5wvfAdFqAJsNN67Nzovn/310x430/3224825d.webp?s=1ddeba60093865d1cc4f986cb206976856328baf",
     "addedAt": "2026-10-03T04:40:39.404Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10221580655",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10221580655-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a52_XutENik68vK7ddWpdfLWGxUi/310x430/66701c6e.webp?s=2ce6db1bb01e87de69a9069a1a9b936e9fe5f5d2",
+    "addedAt": "2026-10-03T05:09:38.580Z",
     "processed": false,
     "triaged": false
   }
