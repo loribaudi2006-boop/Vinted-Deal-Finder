@@ -1,23 +1,5 @@
 [
   {
-    "id": "10176684722",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10176684722-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_022f6_PeA6NUhz8S7n1T4ixecoaHDk/310x430/2d228cb1.webp?s=24beeccaab04298585db62e0e42899c8d948b3b4",
-    "addedAt": "2026-09-29T06:57:52.853Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "obby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nOttime·Xbox·Caricato 3 min fa\n\n40,00 €\n\n42,70 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n3 min fa\nVendo xbox one come da foto funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
     "id": "10176770592",
     "category": "Console",
     "title": "Playstation 4 (PS4) parfait état avec ses accessoires",
@@ -19507,8 +19489,13 @@
     "url": "https://www.vinted.it/items/10221898896-boitier-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01519_qbzQHyFJVR57g4QyCubCpm2s/310x430/debe3bd4.webp?s=2cfb73c93a7916828e5647627cee7494e8473cfb",
     "addedAt": "2026-10-03T06:43:53.572Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nBoîtier Nintendo switch\nOttime·Nintendo·Caricato 17 min fa\n\n15,00 €\n\n16,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n17 min fa\nBoîtier switch sans les câbles. Marche parfaitement.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "sans les câbles",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 83.55
   },
   {
     "id": "10221898732",
@@ -19520,7 +19507,24 @@
     "url": "https://www.vinted.it/items/10221898732-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0055a_m5vWDDGJCMZDRDJgCtTvsis1/310x430/bdd8fea1.webp?s=6b0e8872f968d5686f5461fe1f866f2c7e25e0e0",
     "addedAt": "2026-10-03T06:43:53.573Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10221984659",
+    "category": "Console",
+    "title": "Boite Vide Switch 2",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10221984659-boite-vide-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02001_H1T2tygfxZr8upq722r3Awgt/310x430/85969811.webp?s=c57dd3c7d5a395eee77bcc8656c7f4ed32f6834b",
+    "addedAt": "2026-10-03T06:59:24.981Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
