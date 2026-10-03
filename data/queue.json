@@ -19550,5 +19550,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10220995654",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Konsole schwarz",
+    "price": 56,
+    "totalPrice": 59.5,
+    "reason": "prezzo 57% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10220995654-sony-playstation-4-konsole-schwarz?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00951_8JtF5aavpF38DwCFLYpTK8P1/310x430/077da970.webp?s=22e711d244a6ea843cb3f5b1d84574867a7ea26f",
+    "addedAt": "2026-10-03T01:05:03.063Z",
+    "processed": false,
+    "triaged": false
   }
 ]
