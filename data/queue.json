@@ -20158,5 +20158,20 @@
     "geminiFault": "Fermo da un po, senza cavi, non testato completamente (dice che andava bene prima di cambiare casa)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.8
+  },
+  {
+    "id": "10233500241",
+    "category": "Console",
+    "title": "PS5 avec manette et station de chargement + GTA 6",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10233500241-ps5-avec-manette-et-station-de-chargement-gta-6?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0172b_5AC8WXEsXdojZerUhGY5kh3i/310x430/cd691a83.webp?s=6d0b0839fa01b6a246cf1850de861e72ab1dd905",
+    "addedAt": "2026-10-03T22:12:57.749Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
