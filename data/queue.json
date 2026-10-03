@@ -19609,8 +19609,11 @@
     "url": "https://www.vinted.it/items/10221653976-ps4-slim-fonctionnel-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_019a2_DFTzR5N2JEnBVsWrbU8FqueK/310x430/d6d02687.webp?s=8d5909b42c92d41dce5fdd07640405859004a220",
     "addedAt": "2026-10-03T05:39:40.494Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10221699256",
