@@ -20140,5 +20140,23 @@
     "geminiFault": "Controller originale da sistemare (non va), controller non originale funziona solo col cavo e ha drift.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.3
+  },
+  {
+    "id": "10233410791",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10233410791-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00b74_adSiJdEk1MQe1dYsv2MtSv8p/310x430/ce2d4e43.webp?s=0987237129acd8430cfefc25716bfa503af8c883",
+    "addedAt": "2026-10-03T21:58:27.648Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nFermo da un po, senza controllo e senza cavi.\nNon ho la possibilità di testalo ma andava bene, quando ho cambiato di casa ho perso i cavi, se accendi con del mio Xbox ma non posso testarlo per completo.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Fermo da un po, senza cavi, non testato completamente (dice che andava bene prima di cambiare casa)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.8
   }
 ]
