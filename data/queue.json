@@ -20026,5 +20026,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10232350629",
+    "category": "Console",
+    "title": "Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10232350629-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_021ca_wdXAXPCxLHo1JN8PDqN5s29S/310x430/29626220.webp?s=97e746d1c2a2c2f274dc7ca783e83ddeb42d0021",
+    "addedAt": "2026-10-03T19:55:28.771Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "zionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nOttime·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nSouhaiter de bon état, sauf que les 30 tactile bug, il a plus des fois tout seul sur des jeux, c’est réparable. En tout cas la switch est en très bon état.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "touch screen buggato/fantasma, riparabile",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.05
   }
 ]
