@@ -1,23 +1,5 @@
 [
   {
-    "id": "10179048785",
-    "category": "Console",
-    "title": "nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10179048785-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01fac_XA9vmB7GjKt7ZcyjyYuWAP4c/310x430/6e592647.webp?s=95eb49c00b65ced63a72ee9fa066e6318d5604fb",
-    "addedAt": "2026-09-29T11:17:10.767Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nil a été utilisé mais il est en très bon état !\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10179158221",
     "category": "Console",
     "title": "Ps4 normal",
@@ -20404,5 +20386,38 @@
     "geminiFault": "HDMI non funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10224989602",
+    "category": "Console",
+    "title": "Nintendo Switch 2",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10224989602-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00dd1_z6httQwNCwKixQhigHs4jCJc/310x430/b8ec8b39.webp?s=22c2fca95a3621915c3abd329238852cfcec55b1",
+    "addedAt": "2026-10-03T11:22:19.286Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10224998547",
+    "category": "Console",
+    "title": "PS4 problème de ventilateur",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 72% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10224998547-ps4-probleme-de-ventilateur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a6a_QQrkpxK6FdfXWMYigu7ypMjH/310x430/c4b4d0fa.webp?s=a2492aae0e692dc5373524ff876014b58c92b62a",
+    "addedAt": "2026-10-03T11:23:21.579Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 problème de ventilateur\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nSans manettes utiliser il y’a très longtemps mais jamais utilisé je n’ai pas de manettes pour vérifier la version\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "problème de ventilateur, sans manettes, inutilisée depuis très longtemps",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
