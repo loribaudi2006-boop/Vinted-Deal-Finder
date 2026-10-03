@@ -19614,5 +19614,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10221314509",
+    "category": "Console",
+    "title": "Ps4 black",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10221314509-ps4-black?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00eb9_Uqhjv7iDWM3cDaee2PnKrPc4/310x430/071353cf.webp?s=f9514efe0b111af5af6305d1168471502da7d68f",
+    "addedAt": "2026-10-03T03:10:33.829Z",
+    "processed": false,
+    "triaged": false
   }
 ]
