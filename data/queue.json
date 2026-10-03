@@ -1,23 +1,5 @@
 [
   {
-    "id": "10175504556",
-    "category": "Console",
-    "title": "Ps4 usata con controller originale e cavi",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10175504556-ps4-usata-con-controller-originale-e-cavi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015f0_uDWndfNFAwzJVoteMvKCfvSu/310x430/3d8049eb.webp?s=525fe1acb13c03070e4c1e49a761b5ed93df0c85",
-    "addedAt": "2026-09-29T00:22:30.657Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "lettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 usata con controller originale e cavi\nOttime·PlayStation·Caricato un minuto fa\n\n70,00 €\n\n74,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\ntutto originale e funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 56.8
-  },
-  {
     "id": "10175628542",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -19568,5 +19550,20 @@
     "geminiFault": "Paar kleine Kratzer auf der Konsole",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 71.3
+  },
+  {
+    "id": "10220865883",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10220865883-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_005bb_xEfk8KJd86wXFi8gYhTwaCns/310x430/d4a29a4c.webp?s=9f4d602e72a9da0c22b7f58f3c4fa631169eacc6",
+    "addedAt": "2026-10-03T00:24:36.888Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
   }
 ]
