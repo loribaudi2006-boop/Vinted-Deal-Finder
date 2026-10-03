@@ -19813,5 +19813,35 @@
     "geminiFault": "Défauts des touches qui ne fonctionnent pas et pas de son",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10233932514",
+    "category": "Console",
+    "title": "Pochette étuis rangement Nintendo switch avec 3 dragone",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10233932514-pochette-etuis-rangement-nintendo-switch-avec-3-dragone?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01952_FdcbaQE95pcBPxhX8uc71D9r/310x430/8e580dc7.webp?s=950678eb83ee3210e8e90aa68a29db27da09253a",
+    "addedAt": "2026-10-03T23:42:04.674Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.9€, sotto soglia"
+  },
+  {
+    "id": "10233956492",
+    "category": "Console",
+    "title": "Boîte pour ps4 pro",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 98% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10233956492-boite-pour-ps4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01cb9_aAAevLgZsNgNMYf39Xf952BS/310x430/3a5dd082.webp?s=19bdfa6ea9b6b9d8eb480428bc761a986ccf5534",
+    "addedAt": "2026-10-03T23:48:17.526Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
   }
 ]
