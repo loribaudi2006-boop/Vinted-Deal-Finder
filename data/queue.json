@@ -19660,5 +19660,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~20.56€, sotto soglia"
+  },
+  {
+    "id": "10222634647",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10222634647-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_017ba_yW3BzFp8vHDs9hGpwS3A7B3V/310x430/b80a33fa.webp?s=eabbe36c90178ab81d2e20aff0b255e14c731eb6",
+    "addedAt": "2026-10-03T08:20:12.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10222662736",
+    "category": "Console",
+    "title": "Playstation 4 1 Tb",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10222662736-playstation-4-1-tb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02461_Tyj586eSZPmBBUxW3pXjk9hT/310x430/bbffddc2.webp?s=7b146a39c2e465835e0315e2ceed7e3ae262b08f",
+    "addedAt": "2026-10-03T08:23:18.990Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 1 Tb\nDiscrete·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nVendo Playstation 4, buen estado.\nPrecio muy negociable.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
