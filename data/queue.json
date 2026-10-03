@@ -1,21 +1,5 @@
 [
   {
-    "id": "10175745417",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10175745417-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e17_bdiFWwfdG17QTLeCgo9xSwcy/310x430/4c33fba6.webp?s=be948ae2ab4ae74cee1799937befdbaa2ba7dec4",
-    "addedAt": "2026-09-29T01:26:14.612Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10176200285",
     "category": "Console",
     "title": "PlayStation 4 (PS4) in Schwarz",
@@ -19561,7 +19545,10 @@
     "url": "https://www.vinted.it/items/10220995654-sony-playstation-4-konsole-schwarz?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00951_8JtF5aavpF38DwCFLYpTK8P1/310x430/077da970.webp?s=22e711d244a6ea843cb3f5b1d84574867a7ea26f",
     "addedAt": "2026-10-03T01:05:03.063Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
