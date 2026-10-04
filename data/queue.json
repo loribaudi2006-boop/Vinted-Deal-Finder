@@ -21486,5 +21486,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.5€, sotto soglia"
+  },
+  {
+    "id": "10249565147",
+    "category": "Console",
+    "title": "Ps1 Lente difettosa",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"difettosa\"",
+    "url": "https://www.vinted.it/items/10249565147-ps1-lente-difettosa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e89_Mb3pZ6deERAu2ZQHfX9mrMLc/310x430/6f707b5c.webp?s=9e9ed676a41db695872fa710aedf9613ef1438a9",
+    "addedAt": "2026-10-04T22:10:27.292Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10249561685",
+    "category": "Console",
+    "title": "Ps4 a vendre",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10249561685-ps4-a-vendre?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0202c_mt1QGA9iVsCAf42GKMo31i7g/310x430/40ee9754.webp?s=13da897a3ae4e587d0675337a4a008c4664d9f40",
+    "addedAt": "2026-10-04T22:10:27.292Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 a vendre\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 très bon etat\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
