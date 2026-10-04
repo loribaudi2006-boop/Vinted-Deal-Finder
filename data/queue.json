@@ -1,50 +1,5 @@
 [
   {
-    "id": "10197789476",
-    "category": "Console",
-    "title": "Ps4 controller durchsichtig",
-    "price": 22,
-    "totalPrice": 23.8,
-    "reason": "prezzo 83% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10197789476-ps4-controller-durchsichtig?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00ff8_7a9ihZeMH4khJsv1F9WZv4mX/310x430/5afa5ee3.webp?s=f4398d9ecec9ba758b8b20507fcd6a44a12f18c3",
-    "addedAt": "2026-09-30T20:44:46.731Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.2€, sotto soglia"
-  },
-  {
-    "id": "10197818489",
-    "category": "Console",
-    "title": "Nintendo DS Lite Silver/Grigio - Da testare / Per ricambi",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/10197818489-nintendo-ds-lite-silvergrigio-da-testare-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_020fb_7WGw9XtGTMToe8VoyScTsQoP/310x430/c3cf6cc6.webp?s=b05d2d4f91b8aea0c3e99f36de9a80b8aa8da945",
-    "addedAt": "2026-09-30T20:47:55.244Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20.55€, sotto soglia"
-  },
-  {
-    "id": "10197855871",
-    "category": "Console",
-    "title": "PlayStation 3 PS3 Fat + 4 Giochi Originali - Da testare / Per ricambi",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/10197855871-playstation-3-ps3-fat-4-giochi-originali-da-testare-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01b10_BJzcFXQs7c6q6rQLQS1BADRN/310x430/51135a90.webp?s=1a855938322cf7c91fd21323d038f2930ff90f4f",
-    "addedAt": "2026-09-30T20:52:06.244Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~12€, sotto soglia"
-  },
-  {
     "id": "10197925523",
     "category": "Console",
     "title": "jeu concours ps5 à pas acheter",
@@ -21573,5 +21528,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.01
+  },
+  {
+    "id": "10248867549",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10248867549-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02234_mP4PCQapt6wTCrYsFSnuUuvz/310x430/000fe551.webp?s=9805575529cc7fcd4bb56a0a0436951ab7e37589",
+    "addedAt": "2026-10-04T20:47:42.003Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPrix négociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
