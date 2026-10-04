@@ -21519,5 +21519,20 @@
     "geminiFault": "Petit casure sur le coter (piccola spaccatura sul lato)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10249776280",
+    "category": "Console",
+    "title": "EA Sports FC 26 PS5 - Juego de fútbol",
+    "price": 11,
+    "totalPrice": 12.25,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10249776280-ea-sports-fc-26-ps5-juego-de-futbol?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_001cc_jNoVER6QxGWXYx81xNwPKnPf/310x430/9f50fa3c.webp?s=91e77db2537649dbdb5a24fd90178cb438e1469a",
+    "addedAt": "2026-10-04T22:45:44.869Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.75€, sotto soglia"
   }
 ]
