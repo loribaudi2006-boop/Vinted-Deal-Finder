@@ -1,21 +1,5 @@
 [
   {
-    "id": "10186135799",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10186135799-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_021bc_cTwaJczN4nSvAe3cJbQbd4FE/310x430/a9f14b39.webp?s=3c7712558ae2736d3959890102ce31f33c0588fe",
-    "addedAt": "2026-09-30T02:21:27.897Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10187781822",
     "category": "Console",
     "title": "Nintendo switch noire",
@@ -19761,6 +19745,19 @@
     "url": "https://www.vinted.it/items/10234431677-ps4-noir-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_008fd_uYEGuLiGKWj2gamApgbuPHJd/310x430/c9484214.webp?s=2d51bef3833d4ba909e80b1a9dc5ebc03a4b2721",
     "addedAt": "2026-10-04T02:05:58.688Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10234478678",
+    "category": "Console",
+    "title": "Funda Nintendo switch+ mandos no originales",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10234478678-funda-nintendo-switch-mandos-no-originales?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0173c_XqXwCVDq9er9DypvagbKdnv1/310x430/b86fba06.webp?s=324826fdec19dd34df2ebd4e26b4ef6c5e56b4d9",
+    "addedAt": "2026-10-04T02:21:30.697Z",
     "processed": false,
     "triaged": false
   }
