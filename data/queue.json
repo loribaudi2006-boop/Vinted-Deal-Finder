@@ -1,20 +1,5 @@
 [
   {
-    "id": "10198730727",
-    "category": "Console",
-    "title": "Carcasa para Switch 2",
-    "price": 17,
-    "totalPrice": 18.55,
-    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10198730727-carcasa-para-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00655_KJ7cvk7KN9HzXaEH5nrHU5i3/310x430/8a72cba8.webp?s=3c311ab54caf12c6f55772d1fefb362c0efa594d",
-    "addedAt": "2026-09-30T23:30:23.643Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3.55€, sotto soglia"
-  },
-  {
     "id": "10198775841",
     "category": "Console",
     "title": "Playstation 5 imballata",
@@ -21564,5 +21549,38 @@
     "geminiFault": "Senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10249984004",
+    "category": "Console",
+    "title": "Nintendo Switch Lite Turchese",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10249984004-nintendo-switch-lite-turchese?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d51_3cfUQpkSCxm6ijHoZCLSvX8J/310x430/992e3aed.webp?s=31940ee29b00aa4ea92a7468bf2120af468e07d3",
+    "addedAt": "2026-10-04T23:27:16.596Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.55€, sotto soglia"
+  },
+  {
+    "id": "10249997139",
+    "category": "Console",
+    "title": "Ps4 en état de marche",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10249997139-ps4-en-etat-de-marche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012e2_1JjCDTCeCJfPoBVkApvZQ48u/310x430/693c3d1d.webp?s=78545d4bac46f960c4cf825a816bfd77783033c1",
+    "addedAt": "2026-10-04T23:30:23.356Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 en état de marche\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVend ps4 en état de marche avec le cable d’alimentation et un câble hdmi\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.05
   }
 ]
