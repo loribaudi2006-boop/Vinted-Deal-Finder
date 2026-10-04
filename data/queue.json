@@ -1,37 +1,5 @@
 [
   {
-    "id": "10187781822",
-    "category": "Console",
-    "title": "Nintendo switch noire",
-    "price": 64,
-    "totalPrice": 67.9,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10187781822-nintendo-switch-noire?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0192e_ScyDGAkbe6d6Xk68tayc1K95/310x430/b28b5523.webp?s=ab714841dfa4885fd39205016fcd5519d2c848e2",
-    "addedAt": "2026-09-30T03:58:44.883Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10187727449",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10187727449-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00f82_2jxPb9Q7TvBm4f9T4RNUxskF/310x430/b839c0e6.webp?s=5669ffbf9ea091e94876f7ee9c8960fe8d501fd4",
-    "addedAt": "2026-09-30T03:58:44.883Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10187812846",
     "category": "Console",
     "title": "Xbox one 500 gb",
@@ -19766,5 +19734,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10234722946",
+    "category": "Console",
+    "title": "Console Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10234722946-console-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fb9_8ijTSBr7GoWbamsAZEPCSNFk/310x430/0e206c71.webp?s=eaae2c3843082ddb37572241c44d3bc910b497b2",
+    "addedAt": "2026-10-04T04:03:27.926Z",
+    "processed": false,
+    "triaged": false
   }
 ]
