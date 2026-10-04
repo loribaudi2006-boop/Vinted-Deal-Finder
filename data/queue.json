@@ -1,23 +1,5 @@
 [
   {
-    "id": "10197640813",
-    "category": "Console",
-    "title": "Conseul Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10197640813-conseul-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0209f_fHxJFKjVYAReVFZv6Tn4XtT1/310x430/74bc26f4.webp?s=9e6e7ad2ea8b4953a5d41dac5353cc3fd3566302",
-    "addedAt": "2026-09-30T20:27:57.521Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "icità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConseul Nintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nTrès bon état très peu utilise\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10197751021",
     "category": "Console",
     "title": "Console playstation 4 blanche seul sans manette - fonctionne parfaitement",
@@ -21570,5 +21552,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.9€, sotto soglia"
+  },
+  {
+    "id": "10248654242",
+    "category": "Console",
+    "title": "Nintendoswitch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10248654242-nintendoswitch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02612_jTmUtoZxe5zckF1sgRQiPnVk/310x430/83f57b36.webp?s=e0ee7ac7be851450c36fd4f23f72ad11ee87148d",
+    "addedAt": "2026-10-04T20:29:00.389Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "i\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendoswitch lite\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Entertainment System\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nNiet veel gebruikt, roze nintendoswitch lite , kleine krassen naast linker knop.\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "kleine krassen naast linker knop (piccoli graffi vicino al pulsante sinistro, poco usata)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
