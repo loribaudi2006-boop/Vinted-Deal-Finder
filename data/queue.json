@@ -19532,6 +19532,21 @@
     "url": "https://www.vinted.it/items/10235145239-boite-vide-nintendo-switch-oled-parfait-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00fdb_3JQvR2U9ZEwX65eXVaxnwfih/310x430/4da995a1.webp?s=28a273cbba68e4cbc77502664a209a4c74d3463f",
     "addedAt": "2026-10-04T06:45:08.787Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12€, sotto soglia"
+  },
+  {
+    "id": "10235283887",
+    "category": "Console",
+    "title": "Ps4 pro",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 73% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10235283887-ps4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_011bc_tuiuZEQcHQQVZpxdVRjR8F4F/310x430/52aba19d.webp?s=64b662ecad82c9f4c0c26e81aae0035743f8fb46",
+    "addedAt": "2026-10-04T07:09:00.204Z",
     "processed": false,
     "triaged": false
   }
