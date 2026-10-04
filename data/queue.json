@@ -1,37 +1,5 @@
 [
   {
-    "id": "10187971636",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10187971636-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0180e_iVRzcDWCs7M7RB8jeq3Yshk5/310x430/54d9193d.webp?s=dbfbfa0dab0d92e56e4ad57c35123ee96b586e08",
-    "addedAt": "2026-09-30T05:26:20.560Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10187976833",
-    "category": "Console",
-    "title": "PlayStation 4 met controller",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10187976833-playstation-4-met-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01d3c_j7iCUs7Jn8KMnfZnGFPKkxDC/310x430/cc1032dc.webp?s=8a92ad1149e1d0b989145dabb7515cf8eba1a163",
-    "addedAt": "2026-09-30T05:28:25.666Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10187998261",
     "category": "Console",
     "title": "PS4 Fat Nera Funzionante – HDMI Rotta – Cavo Incluso",
@@ -19697,7 +19665,10 @@
     "url": "https://www.vinted.it/items/10234817072-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01387_fTU7Jj71VqpZ9NwHCbP3R5SK/310x430/c39b76b1.webp?s=87bfed67c5212dd3ccb52ef1f355986d864299ce",
     "addedAt": "2026-10-04T04:54:15.056Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
