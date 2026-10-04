@@ -1,23 +1,5 @@
 [
   {
-    "id": "10198775841",
-    "category": "Console",
-    "title": "Playstation 5 imballata",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10198775841-playstation-5-imballata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_017cd_6BC37Syd6q9y4AceGhqxEWv1/310x430/b03188d1.webp?s=a73fdcc861f0119c6028422d10cf1e058d3f8488",
-    "addedAt": "2026-09-30T23:42:52.956Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Casa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 5 imballata\nNuovo con cartellino·PlayStation·Caricato proprio adesso\n\n15,00 €\n\n16,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nProprio adesso\nvendo ps5 imballata mai aperta o accesa\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 330
-  },
-  {
     "id": "10198929493",
     "category": "Console",
     "title": "PlayStation 4 slim",
@@ -21582,5 +21564,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10250068305",
+    "category": "Console",
+    "title": "Nintendo Switch V1 + 2 Joy-Con + Dock + Chargeur Fonctionnelle",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10250068305-nintendo-switch-v1-2-joy-con-dock-chargeur-fonctionnelle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01560_1VkF8FdaZHruRFrNwteBqS3y/310x430/eb52d5c9.webp?s=1ac2f4573fa236e5227965af73dfa597f21e40cb",
+    "addedAt": "2026-10-04T23:45:57.393Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch V1 + 2 Joy-Con + Dock + Chargeur Fonctionnelle\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vends ma Nintendo Switch V1, elle fonctionne très bien aussi bien en portable que sur la télé.\n\nVendue avec les 2 Joy-Con jaune et violet, le dock, le chargeur, le câble HDMI ainsi que les dragonnes.\n\nElle a quelques marques d’utilisation, notamment plusieurs rayures sur l’écran, et la petite béquille à l’arrière est absente. Rien qui empêche son utilisation.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "graffi sullo schermo, béquille posteriore mancante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.8
+  },
+  {
+    "id": "10250078961",
+    "category": "Console",
+    "title": "Vendo comando ps4 como novo",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10250078961-vendo-comando-ps4-como-novo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00a18_1Zieqi4SE3QnvRzCcUR5t1io/310x430/f35180b3.webp?s=6251b7febfe641e105958fc1314fc05283f73c8a",
+    "addedAt": "2026-10-04T23:48:02.030Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
   }
 ]
