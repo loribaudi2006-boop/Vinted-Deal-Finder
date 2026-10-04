@@ -21546,5 +21546,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30.05€, sotto soglia"
+  },
+  {
+    "id": "10249878169",
+    "category": "Console",
+    "title": "Xbox one serie S 500 GB",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10249878169-xbox-one-serie-s-500-gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_003ba_mPjXbVjawB3dZHHuL29rGQgL/310x430/b276e084.webp?s=1645cff140b23d2f61311e2a041b1d77d754cb4c",
+    "addedAt": "2026-10-04T23:05:29.069Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one serie S 500 GB\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox one serie S in ottime condizioni con cavi hdmi Senza controller la console funziona perfettamente\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
