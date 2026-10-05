@@ -21693,7 +21693,42 @@
     "url": "https://www.vinted.it/items/10252358816-switch-met-hoesje?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00196_YyDRq9EnT97FCvtYNFbQFPAy/310x430/8a3bbf5c.webp?s=b797f7a70c0b33a6a7502f3e96554d00fe2bc213",
     "addedAt": "2026-10-05T09:00:19.856Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10252388570",
+    "category": "Console",
+    "title": "PlayStation 3 - Non testata (per ricambi)",
+    "price": 17.99,
+    "totalPrice": 19.59,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10252388570-playstation-3-non-testata-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020c3_caXB1m28EpYfFvkrjct76Tsd/310x430/fd74b136.webp?s=9a1116d2044f92c3cd3dd7744dcb6233d1dd6aec",
+    "addedAt": "2026-10-05T09:03:26.566Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10252454065",
+    "category": "Console",
+    "title": "Xbox one s (1To)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10252454065-xbox-one-s-1to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0017a_tpNBHCELZ4H33H3tszr5ZxrN/310x430/037e9ea0.webp?s=d131c5915223be3246118a47846e63cd99774ff5",
+    "addedAt": "2026-10-05T09:09:38.077Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s (1To)\nNuovo senza cartellino·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nExcellent état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
