@@ -21597,5 +21597,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10157657830",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10157657830-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_019dc_DM4ibnB5LvXLGRYh3XX4X1DC/310x430/03a9955f.webp?s=7b562588e7ac83f1b8ca4a1862059c2a466810cb",
+    "addedAt": "2026-10-05T03:39:33.551Z",
+    "processed": false,
+    "triaged": false
   }
 ]
