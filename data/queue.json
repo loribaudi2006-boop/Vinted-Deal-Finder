@@ -21555,7 +21555,27 @@
     "url": "https://www.vinted.it/items/10253767124-nintendo-switch-vervoer-koffer?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_008e6_bLgb2MWvFDGoD1DenrY6Kf5J/310x430/f24206fb.webp?s=f8b6fc4aa4d575b93dc9676d181cc4db4741b560",
     "addedAt": "2026-10-05T11:08:07.857Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4€, sotto soglia"
+  },
+  {
+    "id": "10253843373",
+    "category": "Console",
+    "title": "Xbox one 500GB",
+    "price": 43,
+    "totalPrice": 45.85,
+    "reason": "prezzo 57% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10253843373-xbox-one-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a9e_ZFANNedCuoioV7cQcvwJJE24/310x430/1c62b4ff.webp?s=cbd9617251d19f097923c61710da784b81b13e96",
+    "addedAt": "2026-10-05T11:15:22.587Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "omo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one 500GB\nBuone·Microsoft·Caricato un minuto fa\n\n43,00 €\n\n45,85 €\nInclude la commissione Vinted\nBrandMicrosoft\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo questa Xbox One con quei due giochi inclusi.\n\nLa confezione include il cavo HDMI e ovviamente l'alimentatore. Includo anche un controller, ma tieni presente che il pulsante dorsale destro è rotto, come si vede in foto.\n\nLa console in sé non è in cattive condizioni, ma è impolverata.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller con pulsante dorsale destro rotto, console impolverata",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 34.15
   }
 ]
