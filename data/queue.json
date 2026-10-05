@@ -21511,5 +21511,51 @@
     "geminiFault": "Controller thumbsticks sono ben usati ma funzionanti",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10253686240",
+    "category": "Console",
+    "title": "Ps4 Slim 500GB+ 2 controller",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10253686240-ps4-slim-500gb-2-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0055b_fzcE8bzX4aokvZDzyNYdcK8j/310x430/6ff56112.webp?s=f5f4295a134bf430f9383fa2ab6933d06338f56b",
+    "addedAt": "2026-10-05T11:02:57.340Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Slim 500GB+ 2 controller\nOttime·PlayStation·Caricato 3 min fa\n\n65,00 €\n\n68,95 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nVendo ps4 slim in ottime condizioni con cavi e controller originali\n\nLa console è stata inizializzata e riportata alle impostazioni di fabbrica, quindi viene consegnata senza account o dati personali.\n\n\n\n\n⚠️ NON DISPONGO DI SCATOLA ORIGINALE\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
+  },
+  {
+    "id": "10253679396",
+    "category": "Console",
+    "title": "DONT buy! looking for switch 2 box only",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10253679396-dont-buy-looking-for-switch-2-box-only?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01454_cuiELpHMLskw7oqWTnSTy5Fk/310x430/42d7c907.webp?s=f7917eb119d5bf391cf15e74f702b495ce0ecd51",
+    "addedAt": "2026-10-05T11:02:57.341Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10253767124",
+    "category": "Console",
+    "title": "Nintendo switch vervoer koffer",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10253767124-nintendo-switch-vervoer-koffer?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008e6_bLgb2MWvFDGoD1DenrY6Kf5J/310x430/f24206fb.webp?s=f8b6fc4aa4d575b93dc9676d181cc4db4741b560",
+    "addedAt": "2026-10-05T11:08:07.857Z",
+    "processed": false,
+    "triaged": false
   }
 ]
