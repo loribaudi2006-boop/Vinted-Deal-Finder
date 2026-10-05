@@ -1,20 +1,5 @@
 [
   {
-    "id": "10201406548",
-    "category": "Console",
-    "title": "Compro PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10201406548-compro-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01c36_wJBm4m1Zh1eTSCmbwWS9WYfU/310x430/647a7f0b.webp?s=c27df0a3511bcd7019c4e9c7d0c52ebb517996ef",
-    "addedAt": "2026-10-01T09:43:00.702Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10201512410",
     "category": "Console",
     "title": "PS4 fat 500 Go",
@@ -21612,12 +21597,30 @@
     "url": "https://www.vinted.it/items/10252787923-ps4-giochi-in-perfetta-condizione-con-base-di-ricarica-joistick-e-cuffie-gaming-sony?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_019af_L4mFuPvV92DXiPcD8a1yVwZe/310x430/134b447b.webp?s=fe9c9ad59421c28e16789d0d7bd708398fec62a4",
     "addedAt": "2026-10-05T09:40:38.533Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "ion Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4+ giochi in perfetta condizione con base di ricarica joistick e cuffie gaming sony\nOttime·PlayStation·Caricato proprio adesso\n\n49,99 €\n\n53,19 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nLa ps4 é in buone condizioni i giochi nuovi alcuni acquistati quest'anno come fc26\nI giochi nn sono inclusi nel prezzo per informazioni e se siete interessati mandate un messaggio o contattate il +39 379 110 5725\n\nLa ps4 nn presenta nessun tipo di imperfezione o usura bisogna solo fare il backup completo.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "Richiede backup completo, possibile presenza di problemi software o HDD",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "10252864897",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10252864897-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f51_ykyA9DkE8f4r2Z45rhFbHyV6/310x430/105b2f4e.webp?s=b1390fca5bd269f20a96f76bd899d96e1fbc04d9",
+    "addedAt": "2026-10-05T09:47:52.188Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 slim 500gb nessun difetto alla play venduta con cavi perfettamente funzionanti e con joistick non originale\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "joystick non originale",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
