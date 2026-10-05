@@ -21613,5 +21613,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10250659359",
+    "category": "Console",
+    "title": "Xbox one console. 1 Tb negra",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10250659359-xbox-one-console-1-tb-negra?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_019e7_WV266nF3WmMShWN8LEfgGStY/310x430/c0e24df5.webp?s=63bcd597f89cb4b446bb88a106f3eaaf832052ca",
+    "addedAt": "2026-10-05T02:16:31.553Z",
+    "processed": false,
+    "triaged": false
   }
 ]
