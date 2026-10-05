@@ -21565,5 +21565,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10251020686",
+    "category": "Console",
+    "title": "Nintendo switch noire",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10251020686-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c9f_idFqH2mUbikoJG7XSvemJeo8/310x430/dbf946eb.webp?s=65c8c7b41ba4d78563b47a969a7b99fc396db0ad",
+    "addedAt": "2026-10-05T04:46:33.622Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10251023219",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10251023219-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0087b_vxJePxB7gtbNwB5tsUaf4bFP/310x430/573984c7.webp?s=a45f09f3b13a690279954d99ae0794856a18f995",
+    "addedAt": "2026-10-05T04:47:35.368Z",
+    "processed": false,
+    "triaged": false
   }
 ]
