@@ -1,20 +1,5 @@
 [
   {
-    "id": "10200413416",
-    "category": "Console",
-    "title": "Spiderman 2 PS5",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10200413416-spiderman-2-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c63_5qYsrx9SbZBSZabWEbuSAVKM/310x430/e71bf470.webp?s=eb69c17fd67b412d531d51df976250aea9037035",
-    "addedAt": "2026-10-01T07:53:23.965Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18.05€, sotto soglia"
-  },
-  {
     "id": "10200500602",
     "category": "Console",
     "title": "ps4 con due controller e due giochi",
@@ -21559,5 +21544,35 @@
     "geminiFault": "Mancano il controller e il cavo HDMI",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10251765183",
+    "category": "Console",
+    "title": "Une coque de protection pour switch",
+    "price": 4.5,
+    "totalPrice": 5.43,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10251765183-une-coque-de-protection-pour-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00690_zoY6uUXKVRVHpAcN4ETgogwW/310x430/6dbedf7b.webp?s=8f76b9b22fdff5f07733c61ffca1645cecd48a21",
+    "addedAt": "2026-10-05T07:52:09.927Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.43€, sotto soglia"
+  },
+  {
+    "id": "10251827548",
+    "category": "Console",
+    "title": "Scocca ps5 slip originale Sony",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10251827548-scocca-ps5-slip-originale-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a34_1zxd2s4PVXwsrwYrFQV7y8jN/310x430/52ab164f.webp?s=38db6b83ea21911d5b1ca7f3695cab9eaee34411",
+    "addedAt": "2026-10-05T08:00:25.288Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.15€, sotto soglia"
   }
 ]
