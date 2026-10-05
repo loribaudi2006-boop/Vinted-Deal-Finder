@@ -1,37 +1,5 @@
 [
   {
-    "id": "10199903194",
-    "category": "Console",
-    "title": "PlayStation 4 Slim",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10199903194-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02100_A2DcpC6byZQ2x4FPrKzUUyup/310x430/58073918.webp?s=8f98918396233f3e6b1dfeb0de71ab2487f976e5",
-    "addedAt": "2026-10-01T06:20:35.631Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10199910051",
-    "category": "Console",
-    "title": "Xbox one dañada",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 74% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10199910051-xbox-one-danada?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01cea_KgvMqrHnU4LMNjKtKeDco9nw/310x430/b0af7f65.webp?s=76399512e68307e62b8660ed3a123ceb2d1783b6",
-    "addedAt": "2026-10-01T06:22:40.684Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10200056496",
     "category": "Console",
     "title": "Xbox one",
@@ -21582,8 +21550,11 @@
     "url": "https://www.vinted.it/items/10251184527-mannette-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01495_oZjyWnBpfEdeoyeowdPdVDxv/310x430/735a3431.webp?s=2562daed763c18c0ba4e81acac0499f842624deb",
     "addedAt": "2026-10-05T05:55:36.866Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10251247800",
