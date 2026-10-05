@@ -1,23 +1,5 @@
 [
   {
-    "id": "10201985673",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10201985673-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_010d3_tbiDtbugmHXSpxTLyrzLEm9o/310x430/b5cdc7aa.webp?s=0970df27a0b2eca4c2a0af7ef40519e95204357c",
-    "addedAt": "2026-10-01T10:39:49.076Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Donna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·Sony·Caricato proprio adesso\n\n30,00 €\n\n32,20 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVoll funktionsfähig, guter Zustand. Gebrauchsspuren auf der Oberfläche (siehe Fotos)\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Gebrauchsspuren auf der Oberfläche",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 47.8
-  },
-  {
     "id": "10202149428",
     "category": "Console",
     "title": "PlayStation 4",
@@ -21544,5 +21526,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~1.8€, sotto soglia"
+  },
+  {
+    "id": "10253308869",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10253308869-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0100f_3H5AB9TDutSfMY2bV4bscBWC/310x430/98867cda.webp?s=3e72c2e0ff5b5c7c302ca3d6ed02042b8b6ce215",
+    "addedAt": "2026-10-05T10:48:28.542Z",
+    "processed": false,
+    "triaged": false
   }
 ]
