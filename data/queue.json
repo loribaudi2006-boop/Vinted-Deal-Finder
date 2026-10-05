@@ -21608,7 +21608,10 @@
     "url": "https://www.vinted.it/items/10250522066-ps4-fonctionne-mais-le-lecteur-cd-hs?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0259d_bVj5FYpwKayLbpwQGzhASjbq/310x430/cd65a13f.webp?s=f76714e0368808b88e44ab1cefcaa4ecb3b4a0e0",
     "addedAt": "2026-10-05T01:37:02.824Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
