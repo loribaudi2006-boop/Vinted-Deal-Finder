@@ -1,50 +1,5 @@
 [
   {
-    "id": "10199872790",
-    "category": "Console",
-    "title": "PS4 Glacier White",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10199872790-ps4-glacier-white?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d12_aREfwopeWGns3nZZ8dWy5UCX/310x430/4a95ebb9.webp?s=43896c20af494122910287c0f84baac89930cc91",
-    "addedAt": "2026-10-01T06:12:15.445Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10199889983",
-    "category": "Console",
-    "title": "Chargeur de switch",
-    "price": 28,
-    "totalPrice": 30.1,
-    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10199889983-chargeur-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00a10_4enPZ1oFwvhB86jWLbpmys9B/310x430/d37b4ee6.webp?s=cf2fde0012d5b848084f6401d2ac41ba57712fae",
-    "addedAt": "2026-10-01T06:17:28.034Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10.1€, sotto soglia"
-  },
-  {
-    "id": "10199900984",
-    "category": "Console",
-    "title": "Je vend ma switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10199900984-je-vend-ma-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02205_1aAEhUEBskRDrWaZEG7nbtio/310x430/1cdabe54.webp?s=1d482fe4770a7754c0ae63b0d768aed551c108c3",
-    "addedAt": "2026-10-01T06:19:32.871Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10199903194",
     "category": "Console",
     "title": "PlayStation 4 Slim",
@@ -21611,8 +21566,11 @@
     "url": "https://www.vinted.it/items/10251148877-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00791_4MSUMD9zKCusY4hQ1fV4uoJN/310x430/48d5f422.webp?s=fee712e5cc6a5b8a142ec1086ba3dace8abad1da",
     "addedAt": "2026-10-05T05:42:12.906Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10251184527",
@@ -21624,6 +21582,19 @@
     "url": "https://www.vinted.it/items/10251184527-mannette-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01495_oZjyWnBpfEdeoyeowdPdVDxv/310x430/735a3431.webp?s=2562daed763c18c0ba4e81acac0499f842624deb",
     "addedAt": "2026-10-05T05:55:36.866Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10251247800",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10251247800-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b7f_n9MjwSsNVLmYiJZKXvvYSLsh/310x430/4d1b78f0.webp?s=b258a799fb95a10acf4829e2e942c83acf98b52d",
+    "addedAt": "2026-10-05T06:14:09.481Z",
     "processed": false,
     "triaged": false
   }
