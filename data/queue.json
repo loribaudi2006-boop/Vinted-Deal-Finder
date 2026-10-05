@@ -1,21 +1,5 @@
 [
   {
-    "id": "10199521620",
-    "category": "Console",
-    "title": "Mobapad M12S para Nintendo switch 2",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10199521620-mobapad-m12s-para-nintendo-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015f0_QMfMjD43foVjdyNkH6sYmCZU/310x430/edbd46bc.webp?s=7aba9f3e2b134981748657928de20aaa13a8b606",
-    "addedAt": "2026-10-01T03:44:27.181Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10199610213",
     "category": "Console",
     "title": "PS4 slim - VERSlON 14.0",
@@ -21608,7 +21592,10 @@
     "url": "https://www.vinted.it/items/10157657830-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_019dc_DM4ibnB5LvXLGRYh3XX4X1DC/310x430/03a9955f.webp?s=7b562588e7ac83f1b8ca4a1862059c2a466810cb",
     "addedAt": "2026-10-05T03:39:33.551Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
