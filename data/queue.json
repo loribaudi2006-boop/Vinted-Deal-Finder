@@ -21559,5 +21559,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6.95€, sotto soglia"
+  },
+  {
+    "id": "10261068527",
+    "category": "Console",
+    "title": "PS4 noir",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10261068527-ps4-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015d3_LahviKg3PLmzJ9qieDttYYnc/310x430/d81dfbf6.webp?s=cda39d61ad74e7507f0a8af44b1e093bf272b975",
+    "addedAt": "2026-10-05T20:13:00.078Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 noir\nOttime·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 noir\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.85
   }
 ]
