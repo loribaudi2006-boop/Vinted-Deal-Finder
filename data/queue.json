@@ -21597,5 +21597,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10250182566",
+    "category": "Console",
+    "title": "Playstation 4 com comando",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10250182566-playstation-4-com-comando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01ba0_mxttBAK6doUHYWJVK3ourksC/310x430/d68be93f.webp?s=d52c3ca1b65abc27578f2158716dc5852ed01d4a",
+    "addedAt": "2026-10-05T00:11:55.296Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 com comando\nNuovo senza cartellino·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nPlaystation 4 com comando e cabo de alimentação 100% funcional\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
