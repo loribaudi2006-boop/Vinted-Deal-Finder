@@ -1,20 +1,5 @@
 [
   {
-    "id": "10200056496",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 19,
-    "totalPrice": 20.65,
-    "reason": "prezzo 81% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10200056496-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00b90_AizuRC2LbxF6RzzKNuNXnc7o/310x430/1e25d4d2.webp?s=6eff63622c3e1ab01a1a1aeece7c34142628e20b",
-    "addedAt": "2026-10-01T06:54:59.960Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~19.35€, sotto soglia"
-  },
-  {
     "id": "10200097076",
     "category": "Console",
     "title": "PlayStation PS quattro non funzionante si accende ma non si vede niente alla TV",
@@ -21582,8 +21567,13 @@
     "url": "https://www.vinted.it/items/10251324347-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02519_dRhJty43ATZbsz1mfxpbpcxD/310x430/19bfcb64.webp?s=334c939b985f898cf590aa09cec14bc9802d8357",
     "addedAt": "2026-10-05T06:34:48.639Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato 26 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n26 min fa\nNintendo switch 1ere génération la switch fonctionne plus batterie a changer et cassé sur le dessus les joy con fonctionne vendu sans socle ni chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non si accende/batteria da cambiare, scocca rotta sul dorso, joy-con funzionanti, senza dock né caricabatterie",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "10251334652",
@@ -21595,7 +21585,27 @@
     "url": "https://www.vinted.it/items/10251334652-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00126_65giv8kbxVr82BezqDjnz9zw/310x430/8accc113.webp?s=9ea8a708ccf1bfc6d43cab68a9582db161b9c6d0",
     "addedAt": "2026-10-05T06:36:52.126Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n3\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato 24 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n24 min fa\nVendo nintendo switch con tasti un po rovinati\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "tasti un po rovinati",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "10251440341",
+    "category": "Console",
+    "title": "Alimentation PS5",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10251440341-alimentation-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01774_SWoGxiNhwv1EQnsBZDScFSKS/310x430/1a606780.webp?s=c5e5dfd151f49457c59942196baf92ab87afe79b",
+    "addedAt": "2026-10-05T06:59:33.231Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.55€, sotto soglia"
   }
 ]
