@@ -1,20 +1,5 @@
 [
   {
-    "id": "10209398159",
-    "category": "Console",
-    "title": "intendo switch 1",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10209398159-intendo-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_026c5_kuJGnFYiMuxVbyFZqz2D1vrM/310x430/4d76c6c7.webp?s=e1339c1e04491b0c622a425254a3c01e1eb2a23d",
-    "addedAt": "2026-10-01T21:40:15.138Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10209418101",
     "category": "Console",
     "title": "Switch plus un jeux mario cart prix négociable",
@@ -21673,5 +21658,38 @@
     "geminiFault": "senza cavo alimentazione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "10261801837",
+    "category": "Console",
+    "title": "PlayStation 4 mit Controller und 2 Spiele",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10261801837-playstation-4-mit-controller-und-2-spiele?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01fc9_qDzfhisCXyBkME54mxaju5E4/310x430/28d80d70.webp?s=7b2febd4b0aa0373599c521a1f69514c1d5539c1",
+    "addedAt": "2026-10-05T21:32:31.028Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 9\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 mit Controller und 2 Spiele\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nIch verkaufe meine PS4 mit einem Controller und 2 Spiele, weil ich mir einen Computer gekauft habe.\n\nDie PS4 habe ich seit ca. 3-4 Jahre zusammen mit dem Controller, aber ich habe vor knapp 3 Jahre einen erweiterten Speicher in der PS4 eingebaut, somit hat sie 1,09TB Speicher, aber auch etwas lauter.\n\nBei dem einen Spiel ist ein Schaden an der Hülle, aber die Disc funktioniert einwandfrei sowie dass andere Spiel was ohne Schäden ist.\n\nDer Controller hat einen Stick Drift und lädt etwas langsamer bis garnicht.\n\nKabel sowie die OVP und der Beleg ist nicht dabei !!!!!\n\n(Keine Rückerstattung)\n... altro\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Rumorosa, memoria espansa, custodia di un gioco danneggiata, controller con stick drift e problemi di ricarica, senza cavi e scatola",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10261834454",
+    "category": "Console",
+    "title": "Comando PlayStation 4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10261834454-comando-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_018c6_iBGRtpq7m11YPLqwiKgD5xgB/310x430/6429171d.webp?s=e8d6abfbdb46431f9136ba7f0a658d0a1af875b6",
+    "addedAt": "2026-10-05T21:36:39.085Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.55€, sotto soglia"
   }
 ]
