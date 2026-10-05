@@ -1,23 +1,5 @@
 [
   {
-    "id": "10209788069",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10209788069-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01018_dEqmyCWYf9gVFhvUtqZ6pJRr/310x430/4f81f309.webp?s=f99fcff6aa833dac93238ec794a2cd419a87c737",
-    "addedAt": "2026-10-01T23:01:35.205Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4, ça fait longtemps que je ne m’en suis pas servi, vendu avec 2 manettes, 1 porte manettes, des câbles, et COD 4, elle est censée marcher\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Console inusata da tempo, da testare ma descritta come funzionante ('elle est censée marcher')",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 62.55
-  },
-  {
     "id": "10209866353",
     "category": "Console",
     "title": "PlayStation 4 mit 1 Controller",
@@ -21606,7 +21588,12 @@
     "url": "https://www.vinted.it/items/10262299041-switch-light?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0076e_VSNrhLKSuZTEa3xY72GjZbmH/310x430/35fb397b.webp?s=bb9521257d1164dc43845d0562107269ffe43042",
     "addedAt": "2026-10-05T22:58:54.870Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "na\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch Light\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nPRIX FIXE\n\nDÉFAUT 3 petite rayure\n\nEnvoie 12h\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "3 piccole righe sullo schermo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
