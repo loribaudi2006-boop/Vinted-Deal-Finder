@@ -1,21 +1,5 @@
 [
   {
-    "id": "10199390160",
-    "category": "Console",
-    "title": "Ich verkaufe eine PlayStation 4 slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10199390160-ich-verkaufe-eine-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0006e_Qmfcr1pQMC2vdZ9AYQ57FFaL/310x430/0d25f0c8.webp?s=3d04b59ef90ce131e30ff405659a8d4185c192e4",
-    "addedAt": "2026-10-01T02:46:09.965Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10199472087",
     "category": "Console",
     "title": "PlayStation 4",
@@ -21624,7 +21608,10 @@
     "url": "https://www.vinted.it/items/10250659359-xbox-one-console-1-tb-negra?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_019e7_WV266nF3WmMShWN8LEfgGStY/310x430/c0e24df5.webp?s=63bcd597f89cb4b446bb88a106f3eaaf832052ca",
     "addedAt": "2026-10-05T02:16:31.553Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
