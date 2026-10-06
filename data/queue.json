@@ -1,21 +1,5 @@
 [
   {
-    "id": "10210403322",
-    "category": "Console",
-    "title": "Ps4 fat 500g",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10210403322-ps4-fat-500g?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00554_tqa1XyhHk2GcpSSSiEAtivRe/310x430/e7f92755.webp?s=be4055d4c7861bd36c5cf4974549bffe3f23f9b4",
-    "addedAt": "2026-10-02T02:02:03.276Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10210752145",
     "category": "Console",
     "title": "Pochette de protection ou de voyage Nintendo switch",
@@ -21553,8 +21537,11 @@
     "url": "https://www.vinted.it/items/10262954074-nintendo-switch-mandos?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0085d_uHxfWofB9grUUohVJGht8iC7/310x430/0a2f5fb6.webp?s=9ae6f11c3f55eea153ffc0ab511650b212e395d9",
     "addedAt": "2026-10-06T01:31:46.310Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263023116",
