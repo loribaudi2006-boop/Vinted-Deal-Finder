@@ -23374,7 +23374,54 @@
     "url": "https://www.vinted.it/items/10273627395-ps4-bianca?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_005c5_SrWWCfSvbGu9ySif8qjTgotV/310x430/d861a67a.webp?s=57c4b07ef31da1fb1eacfbc79280c5881a3efe14",
     "addedAt": "2026-10-06T20:54:27.983Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "10273639128",
+    "category": "Console",
+    "title": "Ps5 digital",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10273639128-ps5-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_009d9_9ZZe2s1qRvu8qjxoYZbYaFBi/310x430/aa2a6408.webp?s=45117ca0ad95cf7472c65d1051b1b7b89368e315",
+    "addedAt": "2026-10-06T20:58:37.502Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10273637786",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10273637786-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a9f_FWBdYwC57DnQoUq29LFMW1cT/310x430/a46ddd3b.webp?s=1d2048ef5fa605a634daac8c0fd6c9b5e4763cb3",
+    "addedAt": "2026-10-06T20:58:37.502Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.8€, sotto soglia"
+  },
+  {
+    "id": "10273640078",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10273640078-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f30_xwRnd6VpXsFhyyrYM47KHuno/310x430/cffd127e.webp?s=931d14bb0719cb30422a412c1e7a659b48dc2d84",
+    "addedAt": "2026-10-06T20:59:39.868Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
