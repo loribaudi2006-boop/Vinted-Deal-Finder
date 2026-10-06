@@ -23480,5 +23480,23 @@
     "geminiFault": "1 manette pas dans un bonne état",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10274389592",
+    "category": "Console",
+    "title": "console ps4",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 71% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10274389592-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_006c1_Ew9Rnp9zzvevbS6Nsj7tEPfq/310x430/f09c97f9.webp?s=6cdfb27c0d5fdd78dd15d4ef3de278af458e9f6c",
+    "addedAt": "2026-10-06T22:51:50.306Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nconsole ps4\nNuovo senza cartellino·PlayStation·Caricato 3 min fa\n\n38,00 €\n\n40,60 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n3 min fa\nps4 usata ma funzionante\nSpedizione\nda 4,09 €",
+    "geminiFault": "ps4 usata ma funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 69.4
   }
 ]
