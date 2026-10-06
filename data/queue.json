@@ -1,41 +1,5 @@
 [
   {
-    "id": "10213718542",
-    "category": "Console",
-    "title": "PlayStation 4 Fat",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10213718542-playstation-4-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_022ff_CLF2YP9GchM4A7bAHzDLw6yf/310x430/4b9f79a2.webp?s=8a982d24468fbfc05d8a459ec2df195aa45f65bd",
-    "addedAt": "2026-10-02T11:41:09.710Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Fat\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 4 dans un bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10213729332",
-    "category": "Console",
-    "title": "PlayStation 4 Slim 500GB Negra Sin Mando Ni Cables",
-    "price": 55.99,
-    "totalPrice": 59.49,
-    "reason": "prezzo 57% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10213729332-playstation-4-slim-500gb-negra-sin-mando-ni-cables?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01f1e_sMfh4dXR2KGext42ViB5ZpPc/310x430/91519d4d.webp?s=6665b8c4ed198afd24cb0c37aa32666b0d91dc24",
-    "addedAt": "2026-10-02T11:42:11.845Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Libri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Slim 500GB Negra Sin Mando Ni Cables\nBuone·PlayStation·Caricato proprio adesso\n\n55,99 €\n\n59,49 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVendo PS4 Slim negra sin mando ni cables. Buenas condiciones.\n\nNO INCLUYE MANDO NI CABLES.❗️\n\nENVIO EN 24/48H. 🚚\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller né cavi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 45.51
-  },
-  {
     "id": "10213845974",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22375,8 +22339,10 @@
     "url": "https://www.vinted.it/items/10266514359-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00641_DQX8HzbaeaQe2MPFWc1K1cJH/310x430/62e79641.webp?s=6cd6e0c469c2db3cf748dcb0673bad6e5473c124",
     "addedAt": "2026-10-06T11:33:12.632Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10266511731",
@@ -22388,8 +22354,10 @@
     "url": "https://www.vinted.it/items/10266511731-cover-ps5-slim-disc-iron-man-marvel?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02416_gM4woLST2pvyaFqC6H6gNXv8/310x430/7c03c5db.webp?s=f634b1bc7fd62a82bb8a39b2d3688354b796f5a5",
     "addedAt": "2026-10-06T11:33:12.632Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.05€, sotto soglia"
   },
   {
     "id": "10264857375",
@@ -22416,7 +22384,60 @@
     "url": "https://www.vinted.it/items/10266538661-protection-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_009aa_Nu8YuJH1f8T1mXijMQ39oyPL/310x430/729d08ec.webp?s=e0e4d55df9fd6c4fb92fb0517467a4e345d57c6b",
     "addedAt": "2026-10-06T11:35:16.853Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.5€, sotto soglia"
+  },
+  {
+    "id": "10266566265",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10266566265-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01df6_1Nte3KdGL9r9t5GX5Te4XUWW/310x430/5703a344.webp?s=202c88439cda5399077728daea3e91e229e42f64",
+    "addedAt": "2026-10-06T11:38:23.091Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
+  },
+  {
+    "id": "10266575397",
+    "category": "Console",
+    "title": "PlayStation 4 PS4 fat 1TB jailbreak",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10266575397-playstation-4-ps4-fat-1tb-jailbreak?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02283_v6ZUiKCX6ah6vkEamML9gCBM/310x430/b8737d19.webp?s=961b46227d7c62ef49778f5b54d3c567f11580f0",
+    "addedAt": "2026-10-06T11:39:25.037Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "osso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 PS4 fat 1TB jailbreak\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo ps4 fat modello CUH-1216B 1TB con modifica jailbreak per avviare giochi ps4 ps2 ps1 ps. La console è perfettamente funzionante e presenta qualche graffio ed il lettore non prende i cd.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Qualche graffio e il lettore non prende i cd",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.3
+  },
+  {
+    "id": "10266622149",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10266622149-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01ae8_QZo2QZpjSSkn2aaxcebzyzVJ/310x430/b38e06ce.webp?s=22b832bc2807ba0cd3b0070224182cf7508e99a8",
+    "addedAt": "2026-10-06T11:43:33.230Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n8\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nnintendo switch oled\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 110
   }
 ]
