@@ -1,35 +1,5 @@
 [
   {
-    "id": "10219371313",
-    "category": "Console",
-    "title": "Ps4 +mincraft",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10219371313-ps4-mincraft?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01d4e_fPZP5RM8LLebcapHiPPyyjrA/310x430/24ed8817.webp?s=93fec0b509f86e31f269b7ba382e5a8b92c7edca",
-    "addedAt": "2026-10-02T19:56:08.410Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10219416477",
-    "category": "Console",
-    "title": "lot accessoires officiels nintendo switch (dock + grip + dragonnes)",
-    "price": 19,
-    "totalPrice": 20.65,
-    "reason": "prezzo 90% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10219416477-lot-accessoires-officiels-nintendo-switch-dock-grip-dragonnes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00dec_2r2x29cWveMFdRjYrooMtT4u/310x430/df85b874.webp?s=380f8cfe0f05e9b8afa6fd81dc186d8c31f23f41",
-    "addedAt": "2026-10-02T20:01:19.763Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10219496086",
     "category": "Console",
     "title": "Fc26 sehr gut für Playstation 5",
@@ -23099,5 +23069,70 @@
     "geminiFault": "elle fonctionne",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 340.25
+  },
+  {
+    "id": "10273119277",
+    "category": "Console",
+    "title": "ps4 slim 500gb",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10273119277-ps4-slim-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b0f_VbYGr6BjLBH7aAA2zwVBJiYL/310x430/e548c741.webp?s=81be3b3509967c3b6706f7e4b1319bc8e199e8aa",
+    "addedAt": "2026-10-06T20:02:28.722Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10273112288",
+    "category": "Console",
+    "title": "Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10273112288-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02378_8ShkncbQBi8vccGDkZLSzZF2/310x430/af9b7b5c.webp?s=e992c8370d4921ffdbe909592cabae415b94138d",
+    "addedAt": "2026-10-06T20:02:28.722Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10273110627",
+    "category": "Console",
+    "title": "Console Xbox One Noir",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10273110627-console-xbox-one-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_017a5_eubi9rLpQ151d1rLdNcu8rmu/310x430/62379f93.webp?s=3bf6c35e14d38e3ce4f744700a780a75f5bfa058",
+    "addedAt": "2026-10-06T20:02:28.723Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10273117458",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10273117458-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01aca_GH4UsgRNCdSumfFfFGFL3oYx/310x430/9d1b7227.webp?s=33b9958e1f714a899f39fc9d7c6ad084c0d8b8ab",
+    "addedAt": "2026-10-06T20:03:30.966Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10273106385",
+    "category": "Console",
+    "title": "ps4 play station4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10273106385-ps4-play-station4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_005c2_aP39DeRFjLe7tJ3AkaQjas6G/310x430/3b7c52a3.webp?s=c526e50dd34e7d170546a9b3d62be72d7df05a92",
+    "addedAt": "2026-10-06T20:03:30.966Z",
+    "processed": false,
+    "triaged": false
   }
 ]
