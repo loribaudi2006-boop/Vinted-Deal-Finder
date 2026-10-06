@@ -1,21 +1,5 @@
 [
   {
-    "id": "10210793745",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10210793745-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02054_Wg9aUPrWXvXHiday2gZf2F5T/310x430/b27f1170.webp?s=4006617067139d645fd837a6f8833d954f90b2c9",
-    "addedAt": "2026-10-02T04:51:41.646Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10210880831",
     "category": "Console",
     "title": "Console Sony PlayStation 1 PS1 (SCPH-7002) PAL + Controller - Non Testata",
@@ -21569,8 +21553,11 @@
     "url": "https://www.vinted.it/items/10263424145-rangement-jeux-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00bfa_ib9HQm5WmwMtXYPvdcymNv4v/310x430/c6e7b140.webp?s=6415fe2251118d83cd45423876af46a4698adc91",
     "addedAt": "2026-10-06T04:10:43.128Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263431260",
@@ -21582,8 +21569,11 @@
     "url": "https://www.vinted.it/items/10263431260-nintendo-switch-edition-smash-bros?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01089_bMmxkn5yrxzozvM4BLgfQyae/310x430/9cbeee09.webp?s=174841ec7fc5590d0ba28d89660d6933100501de",
     "addedAt": "2026-10-06T04:13:48.900Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263467477",
@@ -21595,8 +21585,11 @@
     "url": "https://www.vinted.it/items/10263467477-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_000c3_3ohCXNHWEV1cZg1ty8vopcBB/310x430/58f7420d.webp?s=ef2d77cff42e046488a16b97797b9ccf27ddfb4c",
     "addedAt": "2026-10-06T04:31:21.471Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263475100",
@@ -21608,8 +21601,11 @@
     "url": "https://www.vinted.it/items/10263475100-nintendo-3ds-rotto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00ba3_BKrSNzYttNYZwfPTpyJ1p6bZ/310x430/a0c7b043.webp?s=367a5faa6531ea52ff89d9cc5af7a4fd09111157",
     "addedAt": "2026-10-06T04:35:28.987Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263478493",
@@ -21621,6 +21617,48 @@
     "url": "https://www.vinted.it/items/10263478493-xbox-one-plus-4-games?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00351_ftBeyHpXirkYhy1Vh5GEF7Dw/310x430/0b9c3699.webp?s=7eb0e87f685db2f6fe964032c394a7b71957a066",
     "addedAt": "2026-10-06T04:36:31.083Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10263514424",
+    "category": "Console",
+    "title": "nintendo ds lite schermo rotto",
+    "price": 19.99,
+    "totalPrice": 21.69,
+    "reason": "parola chiave: \"rotto\"",
+    "url": "https://www.vinted.it/items/10263514424-nintendo-ds-lite-schermo-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0186e_qJVdUGev5mpJgT86KkGyNzMy/310x430/b2581551.webp?s=a5b288ed17caa02532cc68e65753b0894b066649",
+    "addedAt": "2026-10-06T05:07:50.160Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263548819",
+    "category": "Console",
+    "title": "Nitendo switch avec jeux et accessoire",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10263548819-nitendo-switch-avec-jeux-et-accessoire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00236_HUKCquokNSbnfahWVA1P3GgA/310x430/12b3535a.webp?s=f1b06042bd3a2037e16edc8a1bf82cd3d8685d13",
+    "addedAt": "2026-10-06T05:08:52.604Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263563227",
+    "category": "Console",
+    "title": "Xbox Series x koelkast",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/10263563227-xbox-series-x-koelkast?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_021e5_8R6jngZR9VCj5NVpaZnKATXM/310x430/d201416d.webp?s=78d4983649ab62720c617dbaaae36657ba472be4",
+    "addedAt": "2026-10-06T05:14:04.109Z",
     "processed": false,
     "triaged": false
   }
