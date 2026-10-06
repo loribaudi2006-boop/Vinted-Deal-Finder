@@ -21558,5 +21558,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~12.25€, sotto soglia"
+  },
+  {
+    "id": "10262954074",
+    "category": "Console",
+    "title": "Nintendo Switch mandos",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10262954074-nintendo-switch-mandos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0085d_uHxfWofB9grUUohVJGht8iC7/310x430/0a2f5fb6.webp?s=9ae6f11c3f55eea153ffc0ab511650b212e395d9",
+    "addedAt": "2026-10-06T01:31:46.310Z",
+    "processed": false,
+    "triaged": false
   }
 ]
