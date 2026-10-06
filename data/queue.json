@@ -1,38 +1,5 @@
 [
   {
-    "id": "10214054486",
-    "category": "Console",
-    "title": "Super Mario Odyssey - Nintendo Switch (Sehr gut )",
-    "price": 28,
-    "totalPrice": 30.1,
-    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10214054486-super-mario-odyssey-nintendo-switch-sehr-gut?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01e30_WyjjreaBNxf9989J9Zp8HgBe/310x430/b9d3f24d.webp?s=74bdc20e7a67c4c49eed89e8fed9cf24b707ba55",
-    "addedAt": "2026-10-02T12:13:21.452Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.6€, sotto soglia"
-  },
-  {
-    "id": "10214067254",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10214067254-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00517_2Rr1KkaHydYSj7A2mWY7TLqC/310x430/7ad1cb6e.webp?s=b48f56dc454231ad7effb13d342cede006744c85",
-    "addedAt": "2026-10-02T12:14:23.789Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nnon sono presenti controller. comprata nel 2020.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "non sono presenti controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10214378897",
     "category": "Console",
     "title": "PlayStation 4 fat",
@@ -22489,7 +22456,24 @@
     "url": "https://www.vinted.it/items/10266876791-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00f8a_6wL9qrdVEgLmvTGBhue2SrDv/310x430/ee9de169.webp?s=32e0497b9291123892596da64b49416278016533",
     "addedAt": "2026-10-06T12:05:19.022Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10266960482",
+    "category": "Console",
+    "title": "Boite Nintendo Switch OLED",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10266960482-boite-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f42_yy8bVt8QBpp4qZDPmaAmjFLA/310x430/3ed251ac.webp?s=6af94815014a894f247d4dd73b7606f4e9ad6969",
+    "addedAt": "2026-10-06T12:14:47.835Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
