@@ -1,20 +1,5 @@
 [
   {
-    "id": "10211053517",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10211053517-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00cdf_gfNBaJspSb1BLh68YARenxCk/310x430/9c55f564.webp?s=920a5b2e64e6f6f9a86863db808a713e3606d364",
-    "addedAt": "2026-10-02T06:25:50.828Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.55€, sotto soglia"
-  },
-  {
     "id": "10211090187",
     "category": "Console",
     "title": "Vend switch oled",
@@ -21598,8 +21583,11 @@
     "url": "https://www.vinted.it/items/10263653370-nintendo-switch-et-jeux?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014d6_vH9Y5AnwpiC68KoQs4HArnMD/310x430/37357dd6.webp?s=ab06a8f235bb9be5490e507f9e700f0becd63602",
     "addedAt": "2026-10-06T05:48:45.694Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263708143",
@@ -21612,7 +21600,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_00589_uSreJSDXeGYnKSpbbXaQRs7N/310x430/3849ec93.webp?s=74bc16951aea71c236a463557efc4ef729828ac8",
     "addedAt": "2026-10-06T06:05:21.278Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Nintendo Switch\nBuone·Nintendo·Caricato 20 min fa\n\n50,00 €\n\n53,20 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n20 min fa\nSwitch\nNe s’allume pas\nJe ne sais pas si cela proviens du chargeur mon fils ne s’en sert plus je n’ai pas d’autre chargeur pour voir si cela fonctionne avec un autre\nEt j’y connais rien pour la réparer\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ne s'allume pas, il venditore non sa se dipende dal caricabatterie e non ha modo di testarlo.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   },
   {
     "id": "10263748796",
@@ -21624,7 +21617,72 @@
     "url": "https://www.vinted.it/items/10263748796-boite-vide-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_000fd_Z5yGR9hWJ3ZdxozwyUmZe2sK/310x430/7ca59ecb.webp?s=3863d474e442821095eede5818a653dd3ef38889",
     "addedAt": "2026-10-06T06:16:46.474Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-24.2€, sotto soglia"
+  },
+  {
+    "id": "10263741508",
+    "category": "Console",
+    "title": "Jeux switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10263741508-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00c44_PcX398e2VvnUvxz195FGFoso/310x430/1b129401.webp?s=ceb0c136e042e3dea2e88295a0459d993f68611b",
+    "addedAt": "2026-10-06T06:20:55.282Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
+  },
+  {
+    "id": "10263771844",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10263771844-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019b7_7SyRASejbH9YrCqzbNtf5nvt/310x430/4a64ba42.webp?s=93375581f60aa615e7d504835d8a88ac9ef8b48e",
+    "addedAt": "2026-10-06T06:21:57.752Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10263776472",
+    "category": "Console",
+    "title": "Console PlayStation 2 PS2 Fat (Da testare / Per pezzi di ricambio)",
+    "price": 24.9,
+    "totalPrice": 26.85,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10263776472-console-playstation-2-ps2-fat-da-testare-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01bc5_Kf3Azeu2sKkY5fqospKiR7Ct/310x430/cbee1296.webp?s=099b459ab495549d317a79366b089274b7b2b7e2",
+    "addedAt": "2026-10-06T06:24:02.247Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10256879338",
+    "category": "Console",
+    "title": "Nintendo Switch Practicamente Nueva",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10256879338-nintendo-switch-practicamente-nueva?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_006d9_LJe4723E3RqTJr2b5r1FH36z/310x430/70a450df.webp?s=04907b83f88490dff77d107be02badd39117405a",
+    "addedAt": "2026-10-06T06:25:04.433Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Practicamente Nueva\nNuovo senza cartellino·Nintendo·Caricato 15 ore fa\n\n62,00 €\n\n65,80 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n15 ore fa\nNintendo Switch Practicamente nueva.\nPrecio muy negociable pero razonable.\nInteresad@ escribeme📩✨\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 64.2
   }
 ]
