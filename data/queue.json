@@ -22475,5 +22475,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10267039092",
+    "category": "Console",
+    "title": "Nintendo switch lite bleu",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10267039092-nintendo-switch-lite-bleu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d73_CZtXScMpzqpQqVByrx7kSTQe/310x430/64174a0d.webp?s=30204a0fbaeafcc3366664e261731d67db401fb3",
+    "addedAt": "2026-10-06T12:22:02.913Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "licità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch lite bleu\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nVend Nintendo switch lite avec boite et chargeur d'origine.\nFonctionnelle comme à son origine.\n\nDéfaut: micro rayure sur l'écran.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "micro rayure sur l'écran (micro graffio sullo schermo)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
