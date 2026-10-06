@@ -21582,8 +21582,11 @@
     "url": "https://www.vinted.it/items/10263643733-plaque-avant-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01641_9YtEPV2ae6D9usva6ajcnQz6/310x430/80149d04.webp?s=48090851c8b42750aaf839e4eb70e8f9c571257e",
     "addedAt": "2026-10-06T05:44:36.549Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263653370",
@@ -21608,6 +21611,19 @@
     "url": "https://www.vinted.it/items/10263708143-console-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00589_uSreJSDXeGYnKSpbbXaQRs7N/310x430/3849ec93.webp?s=74bc16951aea71c236a463557efc4ef729828ac8",
     "addedAt": "2026-10-06T06:05:21.278Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263748796",
+    "category": "Console",
+    "title": "Boîte vide Nintendo switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10263748796-boite-vide-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_000fd_Z5yGR9hWJ3ZdxozwyUmZe2sK/310x430/7ca59ecb.webp?s=3863d474e442821095eede5818a653dd3ef38889",
+    "addedAt": "2026-10-06T06:16:46.474Z",
     "processed": false,
     "triaged": false
   }
