@@ -1,20 +1,5 @@
 [
   {
-    "id": "10220146623",
-    "category": "Console",
-    "title": "Psp per pezzi di ricambio",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"per pezzi\"",
-    "url": "https://www.vinted.it/items/10220146623-psp-per-pezzi-di-ricambio?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00de4_nWNpJTGK4CMmqQpAB2VVB448/310x430/488c8419.webp?s=396160a717dc3ec1730aea296420d46716c38dc7",
-    "addedAt": "2026-10-02T21:34:19.374Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~23.05€, sotto soglia"
-  },
-  {
     "id": "10220233207",
     "category": "Console",
     "title": "volante para ps4/ps3/nintendo switch/pc",
@@ -23357,5 +23342,56 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.18€, sotto soglia"
+  },
+  {
+    "id": "10273840468",
+    "category": "Console",
+    "title": "Nintendo switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10273840468-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c81_QpCPu3gAAk4vqBiq86kZhR6y/310x430/e8f39c37.webp?s=512b78693219f207ed04e0c9385a224d13cd60da",
+    "addedAt": "2026-10-06T21:34:59.844Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n5\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch 1\nBuone·Nintendo·Caricato 17 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n17 min fa\nEn bonne état 👍\nPrésente des traces d'usures, un joystick drift sur le joycon rouge et le lecteure de cartouches de jeux a remplacer ⚙🪛\nMarche trés bien avc une mannette en Bluetooth ✅\nEnvoie sous 24 à 48h 📦\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick drift sul joycon rosso e lettore di cartucce da sostituire",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.3
+  },
+  {
+    "id": "10273899337",
+    "category": "Console",
+    "title": "Ps5 Disc Version",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10273899337-ps5-disc-version?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00141_WjZHoj2sZFznmaETyByHcncB/310x430/31df8688.webp?s=3d98024886726e35e978ba6f9b563664880dcdd2",
+    "addedAt": "2026-10-06T21:36:02.131Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 Disc Version\nNuovo senza cartellino·PlayStation·Caricato 11 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\n11 min fa\nNOTVERKAUF!!!Zahlung nur Paypal\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "NOTVERKAUF!!!Zahlung nur Paypal",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 286.8
+  },
+  {
+    "id": "10273914004",
+    "category": "Console",
+    "title": "Xbox One controller React-R (Tartle beach)",
+    "price": 23.5,
+    "totalPrice": 25.38,
+    "reason": "prezzo 77% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10273914004-xbox-one-controller-react-r-tartle-beach?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018ea_J5UzsEMiaaGBwRJGT3ACfLXy/310x430/f4f0d34b.webp?s=caf9e806fdc42c2be02cf53385f9604e4916a3b8",
+    "addedAt": "2026-10-06T21:41:13.137Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.62€, sotto soglia"
   }
 ]
