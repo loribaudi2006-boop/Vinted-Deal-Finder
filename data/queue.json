@@ -1,20 +1,5 @@
 [
   {
-    "id": "10210151946",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 62,
-    "totalPrice": 65.8,
-    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10210151946-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01b8f_bYViYsEsjnYY586MY1JbDtuS/310x430/a5848938.webp?s=2f61a48f60712126519d36a21efaf94e10f1e521",
-    "addedAt": "2026-10-02T00:43:57.512Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10210212564",
     "category": "Console",
     "title": "Echange ps4 xbox one s contre une xbox serie s ou ps5",
@@ -21574,5 +21559,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.4€, sotto soglia"
+  },
+  {
+    "id": "10262748907",
+    "category": "Console",
+    "title": "Playstation-Halterung PS5 Faceplate mit LED-Lichtring für PlayStation 5 Disc Edition",
+    "price": 21,
+    "totalPrice": 22.75,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10262748907-playstation-halterung-ps5-faceplate-mit-led-lichtring-fur-playstation-5-disc-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0004b_YZqWsPrDuigob9NjpvMykFov/310x430/6d4af5e7.webp?s=4425528f57d197bcc71affc43f5626767ece74e0",
+    "addedAt": "2026-10-06T00:42:10.513Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.25€, sotto soglia"
   }
 ]
