@@ -1,20 +1,5 @@
 [
   {
-    "id": "10219249611",
-    "category": "Console",
-    "title": "Nintendo Switch 2 Controller Zubehör",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10219249611-nintendo-switch-2-controller-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_023bf_2Z3FPfxHDYWfit8SVbizaZ6k/310x430/a5b23cbc.webp?s=6898341bc0c1e969e67cee1df44c4a6821f744b9",
-    "addedAt": "2026-10-02T19:43:40.661Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-11.2€, sotto soglia"
-  },
-  {
     "id": "10219288359",
     "category": "Console",
     "title": "Lotto PlayStation 1 (PS1) SCPH-9002 + Borsa Ufficiale + 2 Controller + Memory Card (Non Testata)",
@@ -23099,5 +23084,38 @@
     "geminiFault": "graffi sul vetro estetici, senza caricatore e senza scatola",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10272835258",
+    "category": "Console",
+    "title": "Boîte Nintendo Switch OLED",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 93% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10272835258-boite-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022f5_Y4bFR6iwYs6GJHjiir684ooP/310x430/1daee65d.webp?s=6221020a4a6fdf284851111ba47c737e18a5f126",
+    "addedAt": "2026-10-06T19:38:32.353Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "10272884717",
+    "category": "Console",
+    "title": "PlayStation 4 Slim 500GB + 2 wireless controls + 2 games",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10272884717-playstation-4-slim-500gb-2-wireless-controls-2-games?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0167b_jA5WEPAQvG7rnzwErHF9kJ9G/310x430/6942ac33.webp?s=7fd011b6bd48d03e42a3da0661575ceb125bf08c",
+    "addedAt": "2026-10-06T19:42:41.965Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 Slim 500GB + 2 wireless controls + 2 games\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 4\nSlim\n500Gb\nBlack\n2 free games\n2 wireless consoles\n\nShipped in original box\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
