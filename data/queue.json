@@ -22139,5 +22139,46 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-13.25€, sotto soglia"
+  },
+  {
+    "id": "10265552246",
+    "category": "Console",
+    "title": "Nintendo Switch Station d'Accueil - Dock Officiel - Fonctionne ok",
+    "price": 18,
+    "totalPrice": 19.6,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10265552246-nintendo-switch-station-daccueil-dock-officiel-fonctionne-ok?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01c41_FaBRfky1g6pcA5ijao8tbRdk/310x430/aac4de42.webp?s=32959340436e1fdc2226c102812ecffa933633d9",
+    "addedAt": "2026-10-06T10:07:19.610Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.4€, sotto soglia"
+  },
+  {
+    "id": "10265588861",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10265588861-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01352_ZSX9GNvxNZqKxpkt4ea2fggo/310x430/a3625243.webp?s=022cf2cd5c65bf76349929a8d04fd3095bd630bf",
+    "addedAt": "2026-10-06T10:08:21.796Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "9663426339",
+    "category": "Console",
+    "title": "All star 23pack switch 1&2",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/9663426339-all-star-23pack-switch-12?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013f6_jefpUL5mCWD94vLARHSXTHZX/310x430/08f9cbd4.webp?s=c4a8d307591b60523209801cf5e48bf58c3ad94f",
+    "addedAt": "2026-10-06T10:08:21.797Z",
+    "processed": false,
+    "triaged": false
   }
 ]
