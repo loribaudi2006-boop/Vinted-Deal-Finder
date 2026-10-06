@@ -1,23 +1,5 @@
 [
   {
-    "id": "10220643118",
-    "category": "Console",
-    "title": "Nintendo Switch+case",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10220643118-nintendo-switchcase?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_000ec_HL4Ys8YKLzJiP8n4Hdwy5yCw/310x430/f16aab09.webp?s=99783653b3bccceba8741014fddcd802f0a5c375",
-    "addedAt": "2026-10-02T23:19:16.440Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch+case\nOttime·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch mit einem schwarzen Case\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 85.05
-  },
-  {
     "id": "10220712962",
     "category": "Console",
     "title": "PS4+schwarzen case",
@@ -23450,5 +23432,38 @@
     "geminiFault": "ps4 usata ma funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 69.4
+  },
+  {
+    "id": "10274541291",
+    "category": "Console",
+    "title": "Nintendo switch 2",
+    "price": 61,
+    "totalPrice": 64.75,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10274541291-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011b7_RFRQG5KU78KXF6JiFjFZ7n5q/310x430/e5162b84.webp?s=063c4817ce24f11b9e8b42a8d8efd32f2a6b9c90",
+    "addedAt": "2026-10-06T23:22:58.844Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10274520926",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10274520926-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01ccd_KVx57svLyNnVe6J8kK84LeAc/310x430/313ea62c.webp?s=8137bdecdd00091018575ca3325badf0951fb42d",
+    "addedAt": "2026-10-06T23:22:58.845Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "by e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s\nOttime·Xbox·Caricato 5 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox (original)\nCondizioni\nOttime\nCaricato\n5 min fa\nXbox one s vendu sans le câble d’alimentation\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il cavo di alimentazione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   }
 ]
