@@ -21742,7 +21742,45 @@
     "url": "https://www.vinted.it/items/10264224586-switch-avec-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_024e5_XgYNqBQMjPc8wGfqQph7ejMy/310x430/4f13a347.webp?s=4503275458252a39e280f6fe169e6bbd83a46642",
     "addedAt": "2026-10-06T07:48:05.530Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch avec manette\nDiscrete·Nintendo·Caricato 4 min fa\n\n50,00 €\n\n53,20 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n4 min fa\nBeaucoup de rayures en état de marche\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Beaucoup de rayures, condizioni discrete",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 70
+  },
+  {
+    "id": "10264256339",
+    "category": "Console",
+    "title": "Nintendo switch console seule",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10264256339-nintendo-switch-console-seule?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01ce8_AtaKjK4Qy1U7aY5SLpgy5vwk/310x430/fd20475c.webp?s=e9b4c664eeaab0516e9a35625b6821d211e2db2b",
+    "addedAt": "2026-10-06T07:49:11.649Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch console seule\nOttime·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch console seule\nSans accessoires\nConnexion à la TV fonctionnelle\nJoy-Con fonctionnels\nLecteur de carte SD fonctionnel\nLecteur de jeux fonctionnel\nConsole entièrement testée\nQuelques micros marques sur l’écran, invisibles lorsque l’écran est allumé.\nPetit choc en bas a droite aucun impact sur le fonctionnement.\nEnvoi rapide et soigné.\nGarantie 14 jours contre les éventuels problèmes de fonctionnement.\nD’autres accessoires Nintendo Switch sont disponibles sur mon compte.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Quelques micro marques sur l'écran et petit choc en bas à droite",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.55
+  },
+  {
+    "id": "10264300942",
+    "category": "Console",
+    "title": "Face plate PS4 Neuf",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10264300942-face-plate-ps4-neuf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ab6_z4vobjQyUTw2aGQXYhUYKLGo/310x430/feff1b4d.webp?s=883789300a8ef8438de9fd1f06e84cff4b7a08f8",
+    "addedAt": "2026-10-06T07:55:26.193Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-22.2€, sotto soglia"
   }
 ]
