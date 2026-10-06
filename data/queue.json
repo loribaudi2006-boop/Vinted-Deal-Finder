@@ -23423,5 +23423,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5.9€, sotto soglia"
+  },
+  {
+    "id": "10274230713",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10274230713-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01737_7FpRRFWXZKhWHdLUeyZ6XEjz/310x430/1eee474c.webp?s=ea3afa4f51375409efcac594c23648ec6fb9aefb",
+    "addedAt": "2026-10-06T22:18:36.373Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch à vendre\nTrès bonne état\ndéfaut une rayure sur l’écran et le truc pour fermer les jeu galère un peu\nconsole qui lit bien les jeux\ncolis envoyer le jour même après l’achat\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "rayure sur l'écran et le port cartouche ferme un peu difficilement",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 71.3
+  },
+  {
+    "id": "10274239439",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10274239439-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01567_pdP2JR9St2fbNKXTRVBfKfcM/310x430/1f86fa59.webp?s=464ed755c07755a4eda07dc34333c7a1de4155b9",
+    "addedAt": "2026-10-06T22:20:41.081Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "y e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One\nBuone·Xbox·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nXbox One S blanca. Funciona perfectamente, sin ruidos ni fallos.\n\nParte superior limpia. Parte inferior negra con rayas leves de uso - ver foto 2. Solo estético.\n\nIncluye cable de corriente. Sin mando.\n\nRecogida en Manilva / envío disponible. One S Blanca 500GBConsola Xbox One S en\n... altro\nSpedizione\n5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Graffi leggeri sulla parte inferiore, senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   }
 ]
