@@ -21809,5 +21809,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.8€, sotto soglia"
+  },
+  {
+    "id": "10264629040",
+    "category": "Console",
+    "title": "🔥Ventilateur RGB Nacon PS5 / PS5 Slim / PS5 Pro Officiel – Neuf",
+    "price": 24.99,
+    "totalPrice": 26.94,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10264629040-ventilateur-rgb-nacon-ps5-ps5-slim-ps5-pro-officiel-neuf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_021fa_73sCz6fo9x3ar1QUtDPV4iEe/310x430/5b5e461a.webp?s=56531b8b7fa19eeb4975ba70a096ba63f549ead0",
+    "addedAt": "2026-10-06T08:34:22.288Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.06€, sotto soglia"
   }
 ]
