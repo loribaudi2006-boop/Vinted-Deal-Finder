@@ -1,38 +1,5 @@
 [
   {
-    "id": "10220483962",
-    "category": "Console",
-    "title": "Switch bonne état un peu vieille",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10220483962-switch-bonne-etat-un-peu-vieille?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_010f2_Sq3ckcaiWrh5t3hHjZ4DbpGN/310x430/d7bef15a.webp?s=e420a7786756fdf573c9aa2ef87922df05fbe9b1",
-    "addedAt": "2026-10-02T22:38:49.100Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nSwitch bonne état un peu vieille\nBuone·Nintendo·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nUne switch qui marche bien et bonne batterie\nSpedizione\nda 5,29 €",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 82.55
-  },
-  {
-    "id": "10220498911",
-    "category": "Console",
-    "title": "Ps4 PlayStation",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10220498911-ps4-playstation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00cae_CecCrHzQi2YZ9kQ4ZQAXdN8o/310x430/4cb1005e.webp?s=9ad97107c72e7de18cf39c1b28c4990d7bd5960e",
-    "addedAt": "2026-10-02T22:42:57.745Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10220565749",
     "category": "Console",
     "title": "Xbox one",
@@ -23495,5 +23462,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 348.25
+  },
+  {
+    "id": "10274300073",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10274300073-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01026_yB33ZFYuq6g47H2qc8CN8Gh8/310x430/aadafa7a.webp?s=aeb96cefac4df1594a5874d2ff5a00759d15531c",
+    "addedAt": "2026-10-06T22:35:13.684Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato 4 min fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nPlaystation 4 à vendre\ntrès bonne état\nvendu avec 1 manette pas dans un bonne état\ncolis envoyer le jour même après l’achat\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "1 manette pas dans un bonne état",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
