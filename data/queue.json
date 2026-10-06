@@ -1,21 +1,5 @@
 [
   {
-    "id": "10210752145",
-    "category": "Console",
-    "title": "Pochette de protection ou de voyage Nintendo switch",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10210752145-pochette-de-protection-ou-de-voyage-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00b1a_1b7V9ooDuUUL5yTUfti3iaxw/310x430/70f83c92.webp?s=2936fcb18569bc287396eea9a04c67fd27a236e3",
-    "addedAt": "2026-10-02T04:31:55.540Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10210793745",
     "category": "Console",
     "title": "Switch lite",
@@ -21598,6 +21582,45 @@
     "url": "https://www.vinted.it/items/10263431260-nintendo-switch-edition-smash-bros?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01089_bMmxkn5yrxzozvM4BLgfQyae/310x430/9cbeee09.webp?s=174841ec7fc5590d0ba28d89660d6933100501de",
     "addedAt": "2026-10-06T04:13:48.900Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263467477",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10263467477-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_000c3_3ohCXNHWEV1cZg1ty8vopcBB/310x430/58f7420d.webp?s=ef2d77cff42e046488a16b97797b9ccf27ddfb4c",
+    "addedAt": "2026-10-06T04:31:21.471Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263475100",
+    "category": "Console",
+    "title": "nintendo 3ds rotto",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "parola chiave: \"rotto\"",
+    "url": "https://www.vinted.it/items/10263475100-nintendo-3ds-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ba3_BKrSNzYttNYZwfPTpyJ1p6bZ/310x430/a0c7b043.webp?s=367a5faa6531ea52ff89d9cc5af7a4fd09111157",
+    "addedAt": "2026-10-06T04:35:28.987Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263478493",
+    "category": "Console",
+    "title": "Xbox one plus 4 games",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10263478493-xbox-one-plus-4-games?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00351_ftBeyHpXirkYhy1Vh5GEF7Dw/310x430/0b9c3699.webp?s=7eb0e87f685db2f6fe964032c394a7b71957a066",
+    "addedAt": "2026-10-06T04:36:31.083Z",
     "processed": false,
     "triaged": false
   }
