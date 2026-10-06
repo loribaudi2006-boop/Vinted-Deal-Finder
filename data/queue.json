@@ -1,38 +1,5 @@
 [
   {
-    "id": "10210109504",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 62,
-    "totalPrice": 65.8,
-    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10210109504-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01ff1_FDwNdDisLvCzofYdNwYNQeCE/310x430/d8b7cfe0.webp?s=ed99cf4b64c02b744433d251beffaa7e9d9ce597",
-    "addedAt": "2026-10-02T00:31:27.527Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo Switch·Caricato proprio adesso\n\n62,00 €\n\n65,80 €\nInclude la Protezione acquisti\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe vends cette Nintendo Switch noire avec tous ses accessoires et jeux. Un pack complet pour profiter de tous les jeux Nintendo !\n- Type de produit : Console portable et de salon\n- Marque : Nintendo\n- Modèle : Switch\n- Couleur : Noir\n- Accessoires inclus : 2 Joy-Con (bleu et rouge), Station d'accueil, Câble d'alimentation, Manette filaire Animal crossing (turquoise),\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 74.2
-  },
-  {
-    "id": "10210127915",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10210127915-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0025f_Se2fRxtgBzXwheaqJ3ThxV6H/310x430/37f9be6b.webp?s=e6bcb62eda78850e4f8a711a8180c659ee4bec93",
-    "addedAt": "2026-10-02T00:36:39.645Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10210151946",
     "category": "Console",
     "title": "Nintendo switch",
@@ -21603,7 +21570,9 @@
     "url": "https://www.vinted.it/items/10262695667-vitrina-acrilica-para-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0239f_mvz7VQ5eyZNfyFMwjYfDPcDB/310x430/6fd40aaf.webp?s=1afded65ab3f09713862d23b4e22e89e5ccca98d",
     "addedAt": "2026-10-06T00:29:47.608Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.4€, sotto soglia"
   }
 ]
