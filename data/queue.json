@@ -1,35 +1,5 @@
 [
   {
-    "id": "10212350996",
-    "category": "Console",
-    "title": "Vendo console PlayStation 3 non Funzionante da riparare",
-    "price": 18,
-    "totalPrice": 19.6,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10212350996-vendo-console-playstation-3-non-funzionante-da-riparare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0131d_rcywAZR7tmYG89fqGLfKUEem/310x430/70dec645.webp?s=ae9cb9d6548bb3672785038ad61479cca8cde9a9",
-    "addedAt": "2026-10-02T09:24:09.749Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~30.4€, sotto soglia"
-  },
-  {
-    "id": "10212382778",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10212382778-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01e4a_AaTExGj7C6Jx4UyjSCsMvw1p/310x430/8a8c57e8.webp?s=a81a7eb55cc102a80788d504729f766544a3f19a",
-    "addedAt": "2026-10-02T09:27:16.772Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.05€, sotto soglia"
-  },
-  {
     "id": "10212412907",
     "category": "Console",
     "title": "PlayStation 4 fat",
@@ -22012,7 +21982,30 @@
     "url": "https://www.vinted.it/items/10265056462-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_007fb_MocKRomcvengem63ZeZmZi2x/310x430/1978dd52.webp?s=39c3a1899e45f5d51d8aa54cbd6a9662f3696920",
     "addedAt": "2026-10-06T09:17:59.887Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Lite\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nBon état\nAvec coque\nSans chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sans chargeur (manca il caricabatterie), con cover",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "10265088236",
+    "category": "Console",
+    "title": "Nintendo Switch Practicamente Nueva",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10265088236-nintendo-switch-practicamente-nueva?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_006d9_LJe4723E3RqTJr2b5r1FH36z/310x430/70a450df.webp?s=04907b83f88490dff77d107be02badd39117405a",
+    "addedAt": "2026-10-06T09:21:06.789Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Practicamente Nueva\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n62,00 €\n\n65,80 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nNintendo Switch Practicamente nueva.\nPrecio muy negociable pero razonable.\nInteresad@ escribeme📩✨\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 64.2
   }
 ]
