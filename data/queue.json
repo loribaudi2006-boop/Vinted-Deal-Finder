@@ -21550,8 +21550,11 @@
     "url": "https://www.vinted.it/items/10256763857-ps4-zu-verkaufen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01ef6_dJQ6oXd8JMzh796WkKSE1Wrf/310x430/2fb183f2.webp?s=ed9f442dbf463bd94b27977d5d87dff74393bc34",
     "addedAt": "2026-10-06T05:35:51.225Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10256668264",
@@ -21563,8 +21566,11 @@
     "url": "https://www.vinted.it/items/10256668264-ps4-zu-verkaufen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01285_CnLMTDBMSmiXwiFqvnbcQ5L9/310x430/dc34e8ce.webp?s=e620b713dce2a10eb91340de682e1b9d8d0568ad",
     "addedAt": "2026-10-06T05:35:51.226Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10263643733",
@@ -21589,6 +21595,19 @@
     "url": "https://www.vinted.it/items/10263653370-nintendo-switch-et-jeux?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014d6_vH9Y5AnwpiC68KoQs4HArnMD/310x430/37357dd6.webp?s=ab06a8f235bb9be5490e507f9e700f0becd63602",
     "addedAt": "2026-10-06T05:48:45.694Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10263708143",
+    "category": "Console",
+    "title": "Console Nintendo Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10263708143-console-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00589_uSreJSDXeGYnKSpbbXaQRs7N/310x430/3849ec93.webp?s=74bc16951aea71c236a463557efc4ef729828ac8",
+    "addedAt": "2026-10-06T06:05:21.278Z",
     "processed": false,
     "triaged": false
   }
