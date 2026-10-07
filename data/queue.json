@@ -1,20 +1,5 @@
 [
   {
-    "id": "10222542460",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 54.99,
-    "totalPrice": 58.44,
-    "reason": "prezzo 45% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10222542460-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c06_rZmUQQNsPEdYLvhH4XruQmmP/310x430/8c986bda.webp?s=181585d3918d14344f7478863c7eacaf6f3dad13",
-    "addedAt": "2026-10-03T08:10:52.476Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20.56€, sotto soglia"
-  },
-  {
     "id": "10222634647",
     "category": "Console",
     "title": "Xbox One",
@@ -23345,5 +23330,53 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "10276577693",
+    "category": "Console",
+    "title": "Cache-station d'accueil Leafeon Pokémon Nintendo Switch 2",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10276577693-cache-station-daccueil-leafeon-pokemon-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00bd4_YbsXAd3hRCbvWzsAthfWLwkG/310x430/72c5b3a9.webp?s=379ee2e4dd30062e593f457dd4e8d23875508021",
+    "addedAt": "2026-10-07T08:17:00.709Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~9.65€, sotto soglia"
+  },
+  {
+    "id": "10276589676",
+    "category": "Console",
+    "title": "Base Nintendo switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10276589676-base-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d73_hoG1BNYUTEsdExfLLQcj7dTu/310x430/d0b89c93.webp?s=9fc5a32160d81f4b045082854f9844cda0fa69eb",
+    "addedAt": "2026-10-07T08:18:03.486Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.05€, sotto soglia"
+  },
+  {
+    "id": "10276586132",
+    "category": "Console",
+    "title": "Console Ps4 (donne jeux )",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10276586132-console-ps4-donne-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01157_Jj8aDoqAGeKTj46A8Uv5nDYY/310x430/2f403b5b.webp?s=91b01e6daa993dbab4928de4252f64106c4ed517",
+    "addedAt": "2026-10-07T08:18:03.487Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Ps4 (donne jeux )\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nAvec deux manettes et jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
