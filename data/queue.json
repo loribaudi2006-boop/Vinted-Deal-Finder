@@ -1,23 +1,5 @@
 [
   {
-    "id": "10233884277",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10233884277-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01794_qpFtzuUTQ4PEd6SfncMqWHku/310x430/b808cadf.webp?s=e6305238f1d6488f179bc4fefedbe5d374350bb9",
-    "addedAt": "2026-10-03T23:31:43.760Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch lite\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nBon état : défauts des touches qui fonctionnent pas et pas de sons\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Défauts des touches qui ne fonctionnent pas et pas de son",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.05
-  },
-  {
     "id": "10233932514",
     "category": "Console",
     "title": "Pochette étuis rangement Nintendo switch avec 3 dragone",
@@ -23969,5 +23951,20 @@
     "geminiFault": "non testata, senza cavi né controller, venduta solo console",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "10286963870",
+    "category": "Console",
+    "title": "PS5 pro disk Horizontal Stand – Black Console Display Stand",
+    "price": 24.95,
+    "totalPrice": 26.9,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10286963870-ps5-pro-disk-horizontal-stand-black-console-display-stand?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c62_TrEdsenSY5ZwHCF8jJKgu16a/310x430/70b0b767.webp?s=1dda711690fe122105fdb7c159b22ef94e4e0231",
+    "addedAt": "2026-10-07T23:34:26.833Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.8€, sotto soglia"
   }
 ]
