@@ -23426,5 +23426,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-18.1€, sotto soglia"
+  },
+  {
+    "id": "10276435089",
+    "category": "Console",
+    "title": "PS4 - PlayStation 4 -",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10276435089-ps4-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00ab0_S9dcrGMQfTtoEKJTSiE8QrZP/310x430/fc93b620.webp?s=aa6d034ac7c6ca499a3b267e81f3ad850b86755a",
+    "addedAt": "2026-10-07T07:59:16.703Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 - PlayStation 4 -\nBuone·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPS4 + HDMI cable + Controller\nThe controller is not wireless.\nThe HDMI cable is from a different brand.\nThe device is bought from England so it needs an adapter.\nEverything works fine.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller con filo, cavo HDMI non originale, necessita di adattatore per presa UK",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.3
   }
 ]
