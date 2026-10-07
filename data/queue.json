@@ -23750,5 +23750,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10286030933",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10286030933-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01fc8_mCBscsRx983sqAo1WJFVWG7n/310x430/3cf186f3.webp?s=9c389552e8e3b87a06cc9c638792c9541d2a56e5",
+    "addedAt": "2026-10-07T20:56:28.610Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\n✅ Nintendo switch en mauvaise état\nElle surchauffe griffé sur l écran elle fonctionne encore fournie avec le câble d alimentation et le chargeur et socle\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Surriscaldamento, schermo graffiato, include cavo di alimentazione, caricatore e dock",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
