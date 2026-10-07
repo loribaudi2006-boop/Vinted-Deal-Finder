@@ -23495,5 +23495,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10274915731",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 66,
+    "totalPrice": 70,
+    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10274915731-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0052a_WGDEHS8UeoKjJWaEQXNkMZhB/310x430/50915c8e.webp?s=b90bda50ffdeaa7ee835fdd7742f13e7a7bacb93",
+    "addedAt": "2026-10-07T00:54:25.490Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "edia\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsole\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Caricato un minuto fa\n\n66,00 €\n\n70,00 €\nincl. la commissione Vinted\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends ce lot Nintendo Switch complet avec console, accessoires et jeux.\n- Marque : Nintendo\n- Modèle : Switch\n- Couleur : Noir avec Joy-Con rouge et bleu\n- Accessoires inclus : 2 Joy-Con (rouge et bleu), Station d'accueil, Boîte d'origine, Volant Ring Fit\n- Jeux inclus : Ring Fit Adventure (physique), Mario Rabbids Sparks of Hope (physique), Nintendo Switch Sports (physique), Super Mario 3D World ( dans console )\nÉtat neuf\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 100
   }
 ]
