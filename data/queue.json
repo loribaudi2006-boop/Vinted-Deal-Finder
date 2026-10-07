@@ -23460,8 +23460,11 @@
     "url": "https://www.vinted.it/items/10275654689-sony-ps4-slim-konsole-inkl-kabel-ohne-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_007dc_n6iTkESQ2op281p4pm7smRVJ/310x430/6bbf55e5.webp?s=dbd16134c1f11bae7d4d7d371fc894e4bdeeae5e",
     "addedAt": "2026-10-07T05:19:16.921Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10275665663",
