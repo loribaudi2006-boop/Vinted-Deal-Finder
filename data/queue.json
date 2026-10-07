@@ -23460,7 +23460,10 @@
     "url": "https://www.vinted.it/items/10275432037-ps4manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0010c_eTh5uQNzkBZSB41vAcKN5dLv/310x430/039d781f.webp?s=37a9db379f7ba7f91c6face67ee042fca6d8beb3",
     "addedAt": "2026-10-07T03:37:30.141Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
