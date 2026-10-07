@@ -23621,5 +23621,38 @@
     "geminiFault": "Mängel siehe Foto (difetti vedi foto), ma funziona",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 43.3
+  },
+  {
+    "id": "10285346535",
+    "category": "Console",
+    "title": "PS4 SLIM 1T",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10285346535-ps4-slim-1t?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0203b_YaC7nsE4rdbBD76aPeAZhs7G/310x430/b4a29c70.webp?s=8a0905a95dc867d3afa054c4eaa2629b6e3146ad",
+    "addedAt": "2026-10-07T20:13:37.645Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10285663452",
+    "category": "Console",
+    "title": "Ps4 und kontroller",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10285663452-ps4-und-kontroller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0139f_hCN6cqKQMdhgWaBMBGJAH7M4/310x430/eb7a2fe3.webp?s=b0159ab1324ae6b65654b367402644ebe672ab93",
+    "addedAt": "2026-10-07T20:17:56.973Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 und kontroller\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVerkaufe hier meine ps4\nZustand gut\n+ Kontroller neu\nLAN Port funktioniert nicht richtig\nPrivatverkauf keine Garantie Rücknahme oder Gewährleistung\n... altro\nSpedizione\nda 7,49 €",
+    "geminiFault": "LAN Port funziona male",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   }
 ]
