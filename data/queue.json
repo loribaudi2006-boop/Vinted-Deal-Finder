@@ -23517,8 +23517,13 @@
     "url": "https://www.vinted.it/items/10275955561-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00e18_SsWcvcXPJyUZxtr1RVdQcwMy/310x430/41512f69.webp?s=e9a8f42421127008637e288b908e11bd89bd60f2",
     "addedAt": "2026-10-07T06:44:13.430Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlayStation 4 Slim\nOttime·PlayStation·Caricato 17 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n17 min fa\nVoll funktionsfähig\n\nAufgrund von Umzug jetzt 2 im Haushalt. Deswegen wird eine verkauft :)\nSpedizione\nda 7,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.8
   },
   {
     "id": "10275967994",
@@ -23530,8 +23535,13 @@
     "url": "https://www.vinted.it/items/10275967994-ps4-tres-bon-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_000f5_2EAscwyfc1qTBUetRPY2tHeX/310x430/29387cd9.webp?s=fb1153020d35bf3fa365f0ea14d518b7af1bd6ea",
     "addedAt": "2026-10-07T06:46:18.527Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 tres bon etat\nOttime·PlayStation·Caricato 14 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n14 min fa\n🎮 PS4 à vendre – sans manette\n\nJe vends ma PS4 en bon état et parfaitement fonctionnelle.\n\n✅ Console PS4\n✅ Fonctionne très bien\n❌ Vendue sans manette\n📦 Câbles inclus\n💰 Prix : à définir\n\nN’hésitez pas à me contacter si vous avez des questions.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il controller (senza manette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   },
   {
     "id": "10276006829",
@@ -23543,7 +23553,9 @@
     "url": "https://www.vinted.it/items/10276006829-scatola-xbox-one-gears-of-the-war-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01fc7_8Co3EWzf3ysVgHiWNQQ3M4ji/310x430/0b2af8e0.webp?s=aebcc8142f4294fa3d38e2ef75df66bd81cfb0a7",
     "addedAt": "2026-10-07T06:54:38.793Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
