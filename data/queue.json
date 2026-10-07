@@ -1,23 +1,5 @@
 [
   {
-    "id": "10232350629",
-    "category": "Console",
-    "title": "Switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10232350629-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_021ca_wdXAXPCxLHo1JN8PDqN5s29S/310x430/29626220.webp?s=97e746d1c2a2c2f274dc7ca783e83ddeb42d0021",
-    "addedAt": "2026-10-03T19:55:28.771Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "zionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nOttime·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nSouhaiter de bon état, sauf que les 30 tactile bug, il a plus des fois tout seul sur des jeux, c’est réparable. En tout cas la switch est en très bon état.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "touch screen buggato/fantasma, riparabile",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.05
-  },
-  {
     "id": "10232478716",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -23636,5 +23618,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "10285396284",
+    "category": "Console",
+    "title": "PS4 500GB",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10285396284-ps4-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c22_UD31sJyyRCFywuoHSBzYkKK1/310x430/16780149.webp?s=acee779b591535a517734d0cf4d47b8ba0ea501b",
+    "addedAt": "2026-10-07T19:53:51.261Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 500GB\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPS4 500GB with two controllers. Apparently not working, with a disc inside. Removable with assistance. Free FIFA 17 game for PS4 included. Good/Fair condition.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non funzionante, con disco bloccato all'interno",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   }
 ]
