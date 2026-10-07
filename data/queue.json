@@ -1,20 +1,5 @@
 [
   {
-    "id": "10221984659",
-    "category": "Console",
-    "title": "Boite Vide Switch 2",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10221984659-boite-vide-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02001_H1T2tygfxZr8upq722r3Awgt/310x430/85969811.webp?s=c57dd3c7d5a395eee77bcc8656c7f4ed32f6834b",
-    "addedAt": "2026-10-03T06:59:24.981Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10222067644",
     "category": "Console",
     "title": "PS3 Slim + 4 jeux + manette PS4",
@@ -23545,6 +23530,19 @@
     "url": "https://www.vinted.it/items/10275967994-ps4-tres-bon-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_000f5_2EAscwyfc1qTBUetRPY2tHeX/310x430/29387cd9.webp?s=fb1153020d35bf3fa365f0ea14d518b7af1bd6ea",
     "addedAt": "2026-10-07T06:46:18.527Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10276006829",
+    "category": "Console",
+    "title": "Scatola Xbox One Gears of the war 4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10276006829-scatola-xbox-one-gears-of-the-war-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01fc7_8Co3EWzf3ysVgHiWNQQ3M4ji/310x430/0b2af8e0.webp?s=aebcc8142f4294fa3d38e2ef75df66bd81cfb0a7",
+    "addedAt": "2026-10-07T06:54:38.793Z",
     "processed": false,
     "triaged": false
   }
