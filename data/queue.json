@@ -23475,5 +23475,31 @@
     "addedAt": "2026-10-07T05:19:16.921Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10275665663",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10275665663-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02141_uyETXgHdsSzQbh6qHNNVJjFE/310x430/ce6ef36f.webp?s=2beacb1ab1da60dd506785f519de2421c53486bc",
+    "addedAt": "2026-10-07T05:24:28.093Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10275686275",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 62% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10275686275-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00677_Vp61yGqAHVVo2Dsd2bJc8Xgx/310x430/959a9389.webp?s=3b8f78a3edd75c65b297dca122bcb44a24f2d8ee",
+    "addedAt": "2026-10-07T05:31:44.225Z",
+    "processed": false,
+    "triaged": false
   }
 ]
