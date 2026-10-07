@@ -23460,7 +23460,10 @@
     "url": "https://www.vinted.it/items/10275508518-nintendo-switch-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00fd5_FFU6ETGXhRonTNQjQNoefobf/310x430/7dd843c4.webp?s=e62485a989baaa9b5c39e437a00e0a3d2d75a651",
     "addedAt": "2026-10-07T04:13:52.043Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
