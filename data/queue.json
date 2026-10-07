@@ -23834,5 +23834,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "10286539179",
+    "category": "Console",
+    "title": "📦 Caixa Original PS5 Slim Digital Edition – Sony PlayStation 5",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10286539179-caixa-original-ps5-slim-digital-edition-sony-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02387_5H12rbeEYr1PjyTr2QpbB6gb/310x430/541feaa1.webp?s=e77f4a6479b13ded33118dd8bd6b03a5d30e490a",
+    "addedAt": "2026-10-07T22:07:08.903Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.2€, sotto soglia"
+  },
+  {
+    "id": "10286554500",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10286554500-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024d8_szHGHAqVtJueSACzjxEUrh5w/310x430/ff320a4d.webp?s=157be9b9dbbe8e18f52f1548bfeeea433b628a59",
+    "addedAt": "2026-10-07T22:10:15.718Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
