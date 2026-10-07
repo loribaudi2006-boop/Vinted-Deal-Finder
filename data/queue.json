@@ -1,20 +1,5 @@
 [
   {
-    "id": "10233058934",
-    "category": "Console",
-    "title": "Consola Nintendo Switch Lite + Bolsa",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10233058934-consola-nintendo-switch-lite-bolsa?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0110a_E9kYRF61dCn1iPwAQtiWygoS/310x430/66fd0b72.webp?s=c5309c2a6de8bba1064fb6b161047a7c944166f0",
-    "addedAt": "2026-10-03T21:09:46.249Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.3€, sotto soglia"
-  },
-  {
     "id": "10233136104",
     "category": "Console",
     "title": "Nintendo Switch Oled 2 Verres trempés",
@@ -23768,5 +23753,20 @@
     "geminiFault": "Surriscaldamento, schermo graffiato, include cavo di alimentazione, caricatore e dock",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10286079110",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10286079110-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0234f_TkbPxXxCavcZZaBLtq8njuhb/310x430/34f5a1c1.webp?s=faec9360655bb271d56b3b12047010a06b2e3c27",
+    "addedAt": "2026-10-07T21:01:41.164Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
