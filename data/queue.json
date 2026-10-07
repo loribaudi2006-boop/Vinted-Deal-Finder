@@ -23444,6 +23444,22 @@
     "url": "https://www.vinted.it/items/10275195992-switch-lite-jaune?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_025eb_SED6EtJz1oGqx3RdTZ9pjv1N/310x430/9aed851e.webp?s=8dfbd1e58874be903adb9d06bdad5de303f3223a",
     "addedAt": "2026-10-07T02:11:17.464Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10275290866",
+    "category": "Console",
+    "title": "Switch 2 avec chargeur et mannette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10275290866-switch-2-avec-chargeur-et-mannette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01b08_SuFqv8g39rCmDFT9JbAzzVKD/310x430/e0ecbfd9.webp?s=4207d79f65b06456007aa808a36df5d113115166",
+    "addedAt": "2026-10-07T02:42:28.009Z",
     "processed": false,
     "triaged": false
   }
