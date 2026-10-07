@@ -1,20 +1,5 @@
 [
   {
-    "id": "10233500241",
-    "category": "Console",
-    "title": "PS5 avec manette et station de chargement + GTA 6",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10233500241-ps5-avec-manette-et-station-de-chargement-gta-6?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0172b_5AC8WXEsXdojZerUhGY5kh3i/310x430/cd691a83.webp?s=6d0b0839fa01b6a246cf1850de861e72ab1dd905",
-    "addedAt": "2026-10-03T22:12:57.749Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10233614052",
     "category": "Console",
     "title": "Ps4 .",
@@ -23864,5 +23849,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "10286596650",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 64.9,
+    "totalPrice": 68.85,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10286596650-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a6c_AynYs8v9B4Ygm1kUo2Wm5tqx/310x430/34db949c.webp?s=933ef8bf3fa475b84c72208217c55fa446a097e0",
+    "addedAt": "2026-10-07T22:17:31.742Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n64,90 €\n\n68,85 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\ncarica,ma non capisco se è il vetro originale rotto o il vetrino.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "carica,ma non capisco se è il vetro originale rotto o il vetrino.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.15
   }
 ]
