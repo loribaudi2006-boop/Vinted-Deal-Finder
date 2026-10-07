@@ -23702,5 +23702,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10285885227",
+    "category": "Console",
+    "title": "Ps4 simple",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10285885227-ps4-simple?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02541_Vo6ynLLQHNDy4GaVpkuKNaGg/310x430/6ca458cb.webp?s=d80e9a4e06ab6684fe83fd74f90776c42a43c7c0",
+    "addedAt": "2026-10-07T20:41:54.597Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 simple\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 simple en très bon état , vendu avec ses fils . N’hésitez pas a venir en privé pour plus d’informations. 😉\n\n\n\n\n\n\n#console #playstation\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10198083606",
+    "category": "Console",
+    "title": "PlayStation 2 non funzionante",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10198083606-playstation-2-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0032c_XFqndNGpx8jh7tL4rC5V1dYu/310x430/1e51c23c.webp?s=dd3371d98f5ea06264a16255dc0409e34698d14b",
+    "addedAt": "2026-10-07T20:49:11.339Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.05€, sotto soglia"
+  },
+  {
+    "id": "10285979283",
+    "category": "Console",
+    "title": "Soporte horizontal PS5 SLIM/PS5 PRO",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10285979283-soporte-horizontal-ps5-slimps5-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004bf_SsDSj1jSqjwHA17zjaDj9E98/310x430/e7c29906.webp?s=7b0e7fc600bad3509d334e169b99e7426cdcc774",
+    "addedAt": "2026-10-07T20:50:13.687Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
