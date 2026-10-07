@@ -1,35 +1,5 @@
 [
   {
-    "id": "10227852677",
-    "category": "Console",
-    "title": "Xbox One s all digital",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10227852677-xbox-one-s-all-digital?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00cc7_1uoUBrEyrvQXYGNNizdRVNHK/310x430/4ef978d8.webp?s=022df1061d7cf1fd4466e9125f10ff218f9bb87b",
-    "addedAt": "2026-10-03T14:33:12.971Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10227911285",
-    "category": "Console",
-    "title": "PS4 Fat funzionante – con cavi",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10227911285-ps4-fat-funzionante-con-cavi-senza-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_007d1_atB9duW4dv25pT7nbLsyHcqK/310x430/69bc02c7.webp?s=4870b88281f053bd2f8647062cddc3af4d5ee61e",
-    "addedAt": "2026-10-03T14:37:20.859Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.8€, sotto soglia"
-  },
-  {
     "id": "10228009659",
     "category": "Console",
     "title": "Xbox One fat",
@@ -22742,5 +22712,33 @@
     "geminiFault": "Mancanza di hard disk e alcune viti, cover superiore non fissata, estetica usata con graffi, nessun controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 43.05
+  },
+  {
+    "id": "10281053248",
+    "category": "Console",
+    "title": "Xbox One 500go + Forza Motorsport 6 – Fonctionnelle – Sans manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10281053248-xbox-one-500go-forza-motorsport-6-fonctionnelle-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_026d7_Pbbqmv5SQ8dfLrgic8KbktmH/310x430/f1acb031.webp?s=44e9da1ee743c7ccb44653eb460f7a4a36e42c14",
+    "addedAt": "2026-10-07T14:36:36.432Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10281080064",
+    "category": "Console",
+    "title": "🎮 10x Thumb Grips – PS5 / PS4 / Nintendo Switch Pro Controller",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10281080064-10x-thumb-grips-ps5-ps4-nintendo-switch-pro-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01ea9_GjM2WrGBu9Yg8eWsUaTeA9v8/310x430/b81b181c.webp?s=c7bef1d5367b3bfc1197f47ff34cf35ada17fe0d",
+    "addedAt": "2026-10-07T14:38:40.239Z",
+    "processed": false,
+    "triaged": false
   }
 ]
