@@ -1,38 +1,5 @@
 [
   {
-    "id": "10236916245",
-    "category": "Console",
-    "title": "PS4 PlayStation slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10236916245-ps4-playstation-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015b6_yjkMYFihtThBKsNDnFLBt72n/310x430/6c21b4a6.webp?s=906c790d2650d62bbc5504ca6ba4ed04d43faea2",
-    "addedAt": "2026-10-04T09:30:31.262Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 PlayStation slim\nOttime·Sony·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPS4 slim perfettamente funzionante,con cavo di alimentazione no cavo HDMI no controller.\n500 GB, connessione wifi lettore DVD e Blue ray.\nUsata senza mai trasportarla,solo da attaccare, accendere e cominciare a giocare.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Mancano cavo HDMI e controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
-    "id": "10236993782",
-    "category": "Console",
-    "title": "Dragonnes switch",
-    "price": 12,
-    "totalPrice": 13.3,
-    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10236993782-dragonnes-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0189d_RcywPvAZoBKVbi7sZwWidri6/310x430/9c4c3a47.webp?s=ac06772fbb4768b36f15f126878589436b92d623",
-    "addedAt": "2026-10-04T09:37:47.452Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1€, sotto soglia"
-  },
-  {
     "id": "10237058840",
     "category": "Console",
     "title": "Valigietta porta Nintendo switch 1",
@@ -23717,5 +23684,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10289647248",
+    "category": "Console",
+    "title": "PS4 non funzionante",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10289647248-ps4-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02536_BDmRzkDVev8z3mB8tt3MjQDo/310x430/d1dd6ac3.webp?s=fec9b581a29e64e23670e2267f09a7ec7c521881",
+    "addedAt": "2026-10-08T09:31:42.197Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10289716214",
+    "category": "Console",
+    "title": "Pack ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10289716214-pack-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00e41_fnQ7y1YRN7cbcKHaaA5oQbWP/310x430/c4b11e9b.webp?s=52a47df8f39d2c3f9b4ee78d3cebd9c75911a858",
+    "addedAt": "2026-10-08T09:37:55.677Z",
+    "processed": false,
+    "triaged": false
   }
 ]
