@@ -1,38 +1,5 @@
 [
   {
-    "id": "10244990489",
-    "category": "Console",
-    "title": "Caja switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10244990489-caja-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02478_6baQBtvz9DWVpFvp1fK3dWsg/310x430/1676f1da.webp?s=b6ccb9af0a2f69d8100c82fb7b6a6d94ae7e88f4",
-    "addedAt": "2026-10-04T16:40:17.564Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.5€, sotto soglia"
-  },
-  {
-    "id": "10245052343",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10245052343-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_016a0_2ZJzzmUzCf7RWgdeDfYpPtuZ/310x430/1177c546.webp?s=38e3f040577c2b34a2dcd087e29392636a8c85f1",
-    "addedAt": "2026-10-04T16:43:24.474Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\n2\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch bon état juste le joystick gauche un. Peut casser et il n’y a plus de protection de joystick et sur l’écran il y’a un bout de plastique qui ses enlever en haut à gauche et la Nintendo et la pochette est avec\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joystick sinistro difettoso/rotto senza gommino, pezzetto di plastica dello schermo mancante in alto a sinistra, include pochette",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.3
-  },
-  {
     "id": "10245117439",
     "category": "Console",
     "title": "Switch",
@@ -22384,8 +22351,13 @@
     "url": "https://www.vinted.it/items/10294856987-ps4-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00725_tXTZvt42ekxxMFmryFDrdgYf/310x430/0936f509.webp?s=d6338153a096e3d7c412fa784f4cf0abbf84f5bb",
     "addedAt": "2026-10-08T16:33:27.139Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPS4 - 500GB\nBuone·PlayStation·Caricato 2 min fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nWeiße PS4, guter Zustand, 500GB\nSpedizione\nda 7,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   },
   {
     "id": "10294852906",
@@ -22397,7 +22369,39 @@
     "url": "https://www.vinted.it/items/10294852906-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00fdf_u398cKSa3uPF5mHDRr9NKZMN/310x430/042a924a.webp?s=d48ca6e72b40925cc2528b77b12304234482683a",
     "addedAt": "2026-10-08T16:33:27.139Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10294889222",
+    "category": "Console",
+    "title": "Matériel pour switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10294889222-materiel-pour-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_001e7_FFCyr8qaJVCJqH1hbXcj5LbR/310x430/8b10bb66.webp?s=6557c83f9873bff21251bc20c7f2d697a286dbdb",
+    "addedAt": "2026-10-08T16:36:32.892Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10294958785",
+    "category": "Console",
+    "title": "Verre trempé switch",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10294958785-verre-trempe-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0155d_aAAukyAYazRMUPyiKyKCbDp6/310x430/cdbbd798.webp?s=7e7dd3ebac97e9313617fc97b5626148d9319cee",
+    "addedAt": "2026-10-08T16:41:44.104Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.2€, sotto soglia"
   }
 ]
