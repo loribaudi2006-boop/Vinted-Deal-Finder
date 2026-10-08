@@ -1,20 +1,5 @@
 [
   {
-    "id": "10235145239",
-    "category": "Console",
-    "title": "Boîte vide Nintendo Switch OLED Parfait État",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10235145239-boite-vide-nintendo-switch-oled-parfait-etat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00fdb_3JQvR2U9ZEwX65eXVaxnwfih/310x430/4da995a1.webp?s=28a273cbba68e4cbc77502664a209a4c74d3463f",
-    "addedAt": "2026-10-04T06:45:08.787Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-12€, sotto soglia"
-  },
-  {
     "id": "10235283887",
     "category": "Console",
     "title": "Ps4 pro",
@@ -24062,8 +24047,11 @@
     "url": "https://www.vinted.it/items/10288174384-psp-3004-lettore-rotto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00845_LXXRfBHLAGr2MTzE2ZZyxJi3/310x430/b551a3dc.webp?s=4318a97e0729ec4f4e1394a76396233564174772",
     "addedAt": "2026-10-08T06:11:02.383Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10288254691",
@@ -24114,6 +24102,19 @@
     "url": "https://www.vinted.it/items/10288274697-nintendo-switch-lite-turkis-blau?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01c69_aDD5uLko9ZQD75qv2nR3TPWB/310x430/6f78f46d.webp?s=deafc29f0bb15b217638c164b9a2f8b24cf1642c",
     "addedAt": "2026-10-08T06:40:16.816Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10288313181",
+    "category": "Console",
+    "title": "Nintendo Switch Édition Fortnite",
+    "price": 65.99,
+    "totalPrice": 69.99,
+    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10288313181-nintendo-switch-edition-fortnite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008ca_PpRq7mvYDmydnxEUTBcbNX1f/310x430/d566bd64.webp?s=ecf39f59c9c33d5869f02552f17b12ea95133cd5",
+    "addedAt": "2026-10-08T06:45:28.215Z",
     "processed": false,
     "triaged": false
   }
