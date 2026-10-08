@@ -23936,5 +23936,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-14.8€, sotto soglia"
+  },
+  {
+    "id": "10287076128",
+    "category": "Console",
+    "title": "Bonjour je vend une PlayStation 4 pro urgent",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10287076128-bonjour-je-vend-une-playstation-4-pro-urgent?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018db_PaMPwAn8ZphBJuBpiwC4hQsj/310x430/16e9773b.webp?s=53c0ad1d742431864179e0a2dc9f03f104e4067b",
+    "addedAt": "2026-10-08T00:02:29.412Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nBonjour je vend une PlayStation 4 pro urgent\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nBonjour je vend une ps4 pro très bonne état elle fonctionne très bien pas de surchauffe\n\n1to de stockage\n\nLe câble d’alimentation fournie avec sans manette\n\nÀ vendre très rapidement très bonne état Urgent\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10287095294",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10287095294-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0103e_RPxTSX3xGMoWZbMyEokzpnnQ/310x430/3599d79c.webp?s=a189c6a82013c17aa2206763eeb5bef0a358aeb3",
+    "addedAt": "2026-10-08T00:06:38.633Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 slim avec manette chargeur hdmi et tout les câble au complet en tres bonne état elle marche bien\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
