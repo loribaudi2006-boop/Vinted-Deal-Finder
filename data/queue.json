@@ -24046,8 +24046,11 @@
     "url": "https://www.vinted.it/items/10288171761-support-casque-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00f8c_fhZQmRGLvnNrHBmjxVFb2uxF/310x430/65af03cc.webp?s=fe4bb58a466b3bd86f1cf1ad98f33f77614fef90",
     "addedAt": "2026-10-08T06:10:00.140Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10288174384",
@@ -24059,6 +24062,58 @@
     "url": "https://www.vinted.it/items/10288174384-psp-3004-lettore-rotto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00845_LXXRfBHLAGr2MTzE2ZZyxJi3/310x430/b551a3dc.webp?s=4318a97e0729ec4f4e1394a76396233564174772",
     "addedAt": "2026-10-08T06:11:02.383Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10288254691",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10288254691-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00efb_nrseCY2st8Zk5d7ZhHQpUXmz/310x430/ed94241d.webp?s=e5937fe769040c68aa78d789761f31c21534e2b8",
+    "addedAt": "2026-10-08T06:32:52.401Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10288266555",
+    "category": "Console",
+    "title": "Nintendo Switch Oled 2 Verres trempés",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 98% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10288266555-nintendo-switch-oled-2-verres-trempes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02667_kLrGkXDXh7f7vZH1rpASnCif/310x430/384ba225.webp?s=f7f38434e69a24acc7add771caf9020de147a21c",
+    "addedAt": "2026-10-08T06:34:56.793Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10288282331",
+    "category": "Console",
+    "title": "Caja de PS5",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10288282331-caja-de-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_007fa_5Q3oYHwZCtVYV4R7J42bbkAj/310x430/c4f0760e.webp?s=6195269dbaf4981ced1c7ee1fb3389d8ebc918df",
+    "addedAt": "2026-10-08T06:40:16.816Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10288274697",
+    "category": "Console",
+    "title": "Nintendo Switch Lite - Türkis-Blau",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10288274697-nintendo-switch-lite-turkis-blau?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c69_aDD5uLko9ZQD75qv2nR3TPWB/310x430/6f78f46d.webp?s=deafc29f0bb15b217638c164b9a2f8b24cf1642c",
+    "addedAt": "2026-10-08T06:40:16.816Z",
     "processed": false,
     "triaged": false
   }
