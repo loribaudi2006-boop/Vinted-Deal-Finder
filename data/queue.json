@@ -21608,5 +21608,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10298237826",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10298237826-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_002e5_imdi1wZMwn94fXH28Y1frehH/310x430/5e9a298a.webp?s=7c7ffb8fd369fb64648ff32f4a5470ee3ae1237c",
+    "addedAt": "2026-10-08T21:30:59.330Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSans chargeur ni manette fonctionne parfaitement sera remis à zéro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sans chargeur ni manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10298259079",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10298259079-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_012c2_pkMQD654mScVVipAUvFA9Z1z/310x430/1f278010.webp?s=01d3324a72e5c342e7bab6e1f9d6e9a7361ee72f",
+    "addedAt": "2026-10-08T21:34:05.641Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nDiscrete·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nLa console fonctionne mais le disque dur est fatigué bug jeu qui lag ou plante ect donc sûrement a changer.\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La console fonctionne mais le disque dur est fatigué bug jeu qui lag ou plante ect donc sûrement a changer.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
   }
 ]
