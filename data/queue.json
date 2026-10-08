@@ -1,20 +1,5 @@
 [
   {
-    "id": "10248536989",
-    "category": "Console",
-    "title": "Base de carga doble original de Sony para mandos de PS5",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10248536989-base-de-carga-doble-original-de-sony-para-mandos-de-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015b7_4oDwWS9ZacUiBVza9eT2mJpF/310x430/6b93c05c.webp?s=e6745ef804f73743f42a2b56caf2dfab272743d1",
-    "addedAt": "2026-10-04T20:19:38.735Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.9€, sotto soglia"
-  },
-  {
     "id": "10248654242",
     "category": "Console",
     "title": "Nintendoswitch lite",
@@ -21569,5 +21554,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-13.7€, sotto soglia"
+  },
+  {
+    "id": "10297686403",
+    "category": "Console",
+    "title": "PS4 Pro con Controller",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 67% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10297686403-ps4-pro-con-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_011eb_je2z7xcBYBeJgkrrHRphcU3v/310x430/2ea9e39d.webp?s=21fe73d5373002591514546a0c604d2d913c8dc3",
+    "addedAt": "2026-10-08T20:23:55.380Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Pro con Controller\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 4 Pro.\nEsternamente presenta segni superficiali di usura. La console è stata aperta da specialisti per la pulizia delle ventole (come visibile dal sigillo sul retro). Incluso anche controller con tanto di cover di silicone colorata. Il tutto è perfettamente funzionante senza difetti.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni superficiali di usura esterna, aperta da specialisti per pulizia ventole",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10297707963",
+    "category": "Console",
+    "title": "Xbox one x",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10297707963-xbox-one-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a1f_PcWpDFgXuf5dX5KZd51D244d/310x430/7b05f4b8.webp?s=df07cb351f0d76a373d2ff15b96ff84b94bba5f9",
+    "addedAt": "2026-10-08T20:25:59.114Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ollezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one x\nOttime·Xbox·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox one avec câble + 2 manette\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.05
   }
 ]
