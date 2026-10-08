@@ -23982,8 +23982,11 @@
     "url": "https://www.vinted.it/items/10287709012-nintendo-switch-et-5-jeux?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00435_XbE95nx1KDsBAdegSTGwJG9b/310x430/441c8ce5.webp?s=da9839a89ae8f791e382ec394f6e53c766af1b9e",
     "addedAt": "2026-10-08T03:00:08.577Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10287783528",
