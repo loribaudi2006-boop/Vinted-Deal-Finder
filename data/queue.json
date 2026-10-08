@@ -1,20 +1,5 @@
 [
   {
-    "id": "10236093534",
-    "category": "Console",
-    "title": "Socle de Ps4 (Support)",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 94% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10236093534-socle-de-ps4-support?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01ece_6pnDbybdpTaZnxRutU8xBUgD/310x430/ee2438a0.webp?s=81c193f14dd3959e7eb9b90f430374a8a581e577",
-    "addedAt": "2026-10-04T08:34:04.477Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.1€, sotto soglia"
-  },
-  {
     "id": "10236148943",
     "category": "Console",
     "title": "PS4 Konsole",
@@ -24058,7 +24043,39 @@
     "url": "https://www.vinted.it/items/10289004034-jeu-the-voice-pour-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00b5c_gydUQqvoafQq48fE9gysgUD3/310x430/29612306.webp?s=241bc4264a57c4067506a597a68b89de63b0dbde",
     "addedAt": "2026-10-08T08:27:20.195Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.7€, sotto soglia"
+  },
+  {
+    "id": "10289040602",
+    "category": "Console",
+    "title": "Carton oficiel ps4",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10289040602-carton-oficiel-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_011b8_KvxHBg1RDX9ih5Adsz4zvLx4/310x430/b9f9d995.webp?s=d3826ba40d3036d9b0301490ed8552af3bb59a3d",
+    "addedAt": "2026-10-08T08:31:29.618Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
+  },
+  {
+    "id": "10289085413",
+    "category": "Console",
+    "title": "Jeu switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10289085413-jeu-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023a0_MbJFDRbKLzVpVSs8wrExNTg6/310x430/39f9fbfb.webp?s=3cc25cc7156dfed80eda73380d681a7223d5ac6c",
+    "addedAt": "2026-10-08T08:36:41.040Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-37.69€, sotto soglia"
   }
 ]
