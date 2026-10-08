@@ -23972,5 +23972,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10287157413",
+    "category": "Console",
+    "title": "Caja Xbox One Primera Edición",
+    "price": 19.95,
+    "totalPrice": 21.65,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10287157413-caja-xbox-one-primera-edicion?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_023fa_Q4eTLq5ctfFPhrUrr6Zexnxo/310x430/26748a9c.webp?s=bc14887f044ecd0c57af7396b209c1ef3818142b",
+    "addedAt": "2026-10-08T00:22:13.486Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.65€, sotto soglia"
   }
 ]
