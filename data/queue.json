@@ -1,23 +1,5 @@
 [
   {
-    "id": "10248654242",
-    "category": "Console",
-    "title": "Nintendoswitch lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10248654242-nintendoswitch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02612_jTmUtoZxe5zckF1sgRQiPnVk/310x430/83f57b36.webp?s=e0ee7ac7be851450c36fd4f23f72ad11ee87148d",
-    "addedAt": "2026-10-04T20:29:00.389Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "i\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendoswitch lite\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Entertainment System\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nNiet veel gebruikt, roze nintendoswitch lite , kleine krassen naast linker knop.\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "kleine krassen naast linker knop (piccoli graffi vicino al pulsante sinistro, poco usata)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10248769229",
     "category": "Console",
     "title": "Playstation 4",
@@ -21590,5 +21572,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 67.05
+  },
+  {
+    "id": "10297808650",
+    "category": "Console",
+    "title": "Console Microsoft Xbox One Classique-375 go + manette filaire officielle + 4 jeux",
+    "price": 54.99,
+    "totalPrice": 58.44,
+    "reason": "prezzo 45% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10297808650-console-microsoft-xbox-one-classique-375-go-manette-filaire-officielle-4-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_003b4_J6KhAWsy3iKXAM52t2Qrhgy9/310x430/bbbd34b5.webp?s=ca76a19530113ebbfb4f0ab1225e8b1084936971",
+    "addedAt": "2026-10-08T20:37:19.052Z",
+    "processed": false,
+    "triaged": false
   }
 ]
