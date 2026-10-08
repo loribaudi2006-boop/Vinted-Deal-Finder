@@ -23987,5 +23987,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10287447400",
+    "category": "Console",
+    "title": "Switch  socle",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10287447400-switch-socle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026a7_8kTV1VhnCt9PaE67wsYwk8Vv/310x430/445d5c7c.webp?s=98bab1b6f8800e44bda2fd7e33adcfb18bae19aa",
+    "addedAt": "2026-10-08T05:05:42.028Z",
+    "processed": false,
+    "triaged": false
   }
 ]
