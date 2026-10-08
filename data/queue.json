@@ -1,20 +1,5 @@
 [
   {
-    "id": "10249984004",
-    "category": "Console",
-    "title": "Nintendo Switch Lite Turchese",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10249984004-nintendo-switch-lite-turchese?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01d51_3cfUQpkSCxm6ijHoZCLSvX8J/310x430/992e3aed.webp?s=31940ee29b00aa4ea92a7468bf2120af468e07d3",
-    "addedAt": "2026-10-04T23:27:16.596Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.55€, sotto soglia"
-  },
-  {
     "id": "10249997139",
     "category": "Console",
     "title": "Ps4 en état de marche",
@@ -21578,5 +21563,38 @@
     "geminiFault": "Scocca rovinata dai tentativi di rimuovere i brillantini (macchie bianche), manca un joystick, un lato della manetta ha ancora i brillantini, schermo rigato",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10298816265",
+    "category": "Console",
+    "title": "Base de Carregamento para Comandos da PS4",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10298816265-base-de-carregamento-para-comandos-da-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f74_xcJsWDL1QsEUbVE4CWkVo8h1/310x430/445a4379.webp?s=d8c1f83ec03fe8c60cd1925dd0b9c29ed4da9c4b",
+    "addedAt": "2026-10-08T23:25:33.680Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.95€, sotto soglia"
+  },
+  {
+    "id": "10298822223",
+    "category": "Console",
+    "title": "PlayStation 4 slim 1to",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 71% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10298822223-playstation-4-slim-1to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0133c_cGadG5Yaabz6SiAhmut3ZrXE/310x430/d4577071.webp?s=0479162ab8d50eb555eedff1d384f3f9a1e6e2cb",
+    "addedAt": "2026-10-08T23:27:37.351Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 slim 1to\nBuone·PlayStation·Caricato un minuto fa\n\n38,00 €\n\n40,60 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 slim occasion fonctionne très bien,à vendre sans manette la manette est vieille et le triangle ne fonctionne plus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza manette, la manette vecchia inclusa ha il tasto triangolo non funzionante (la console funziona molto bene).",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 54.4
   }
 ]
