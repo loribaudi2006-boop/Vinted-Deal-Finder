@@ -24003,5 +24003,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10288081793",
+    "category": "Console",
+    "title": "Housse Switch bigben",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10288081793-housse-switch-bigben?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0270f_BjgeJ7siVUHFrKjLjM4qMG4D/310x430/ad12dcd2.webp?s=77f2474d0e5257f51f08abd93642942e6d0651a0",
+    "addedAt": "2026-10-08T05:42:01.162Z",
+    "processed": false,
+    "triaged": false
   }
 ]
