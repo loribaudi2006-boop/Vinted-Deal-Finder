@@ -21608,5 +21608,18 @@
     "geminiFault": "Problème hdmi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 37.3
+  },
+  {
+    "id": "10298699449",
+    "category": "Console",
+    "title": "Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10298699449-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0042b_KErUCZeQYDuVvJSXzCXRrpbG/310x430/d36d809b.webp?s=4465b195f0ac2f916a3d2bf897fac7a3da7a8b58",
+    "addedAt": "2026-10-08T22:57:42.530Z",
+    "processed": false,
+    "triaged": false
   }
 ]
