@@ -24014,8 +24014,11 @@
     "url": "https://www.vinted.it/items/10288081793-housse-switch-bigben?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0270f_BjgeJ7siVUHFrKjLjM4qMG4D/310x430/ad12dcd2.webp?s=77f2474d0e5257f51f08abd93642942e6d0651a0",
     "addedAt": "2026-10-08T05:42:01.162Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10288105666",
@@ -24040,6 +24043,19 @@
     "url": "https://www.vinted.it/items/10288171761-support-casque-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00f8c_fhZQmRGLvnNrHBmjxVFb2uxF/310x430/65af03cc.webp?s=fe4bb58a466b3bd86f1cf1ad98f33f77614fef90",
     "addedAt": "2026-10-08T06:10:00.140Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10288174384",
+    "category": "Console",
+    "title": "Psp 3004 lettore rotto .",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "parola chiave: \"rotto\"",
+    "url": "https://www.vinted.it/items/10288174384-psp-3004-lettore-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00845_LXXRfBHLAGr2MTzE2ZZyxJi3/310x430/b551a3dc.webp?s=4318a97e0729ec4f4e1394a76396233564174772",
+    "addedAt": "2026-10-08T06:11:02.383Z",
     "processed": false,
     "triaged": false
   }
