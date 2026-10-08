@@ -21593,5 +21593,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.55€, sotto soglia"
+  },
+  {
+    "id": "10298197415",
+    "category": "Console",
+    "title": "🎮 Compro playstation 5 (PS5) 🎮",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10298197415-compro-playstation-5-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_016bd_fZmGrfxDaxD1DGoeHQYygZdt/310x430/cce56139.webp?s=b6c1f24a9a52fac8dbccf313b880ab7eab476863",
+    "addedAt": "2026-10-08T21:25:49.877Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
