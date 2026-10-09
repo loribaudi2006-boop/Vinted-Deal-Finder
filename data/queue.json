@@ -1,21 +1,5 @@
 [
   {
-    "id": "10250522066",
-    "category": "Console",
-    "title": "Ps4 fonctionne mais le lecteur cd Hs",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10250522066-ps4-fonctionne-mais-le-lecteur-cd-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0259d_bVj5FYpwKayLbpwQGzhASjbq/310x430/cd65a13f.webp?s=f76714e0368808b88e44ab1cefcaa4ecb3b4a0e0",
-    "addedAt": "2026-10-05T01:37:02.824Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10250659359",
     "category": "Console",
     "title": "Xbox one console. 1 Tb negra",
@@ -21527,5 +21511,18 @@
     "geminiFault": "Non testata, proviene da lotto, scocca con evidenti segni di usura e leggeri graffi, venduta come non funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "10299388198",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10299388198-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0048b_XxMebGam1dvDnDB1JMY3mdUr/310x430/5f36b4ca.webp?s=14103a1eb88a8ca01a8b736880f853e761f4cb32",
+    "addedAt": "2026-10-09T02:00:51.326Z",
+    "processed": false,
+    "triaged": false
   }
 ]
