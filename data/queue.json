@@ -1,23 +1,5 @@
 [
   {
-    "id": "10257161946",
-    "category": "Console",
-    "title": "Nintendo switch Lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10257161946-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_021c9_rH6F8A1fXgirctnQLDxbNw9W/310x430/f87ce1c8.webp?s=45ef4f1affa0ed30c42f6a71f46b1764302c9648",
-    "addedAt": "2026-10-05T15:31:27.277Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch Lite\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch Lite\n-elle fonctionne\n-quelques rayures au niveau de l’écran\n-sans jeu ni chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "quelques rayures au niveau de l’écran, sans jeu ni chargeur",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10257308075",
     "category": "Console",
     "title": "Nintendo switch lite turchese",
@@ -20875,5 +20857,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10305894016",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10305894016-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00fd8_pAK39s4GU1MbV4usuRnMMz9t/310x430/71691625.webp?s=da94d8a11a44da9a55e60f58e332cd1e0756087f",
+    "addedAt": "2026-10-09T15:34:20.004Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nDe PlayStation 4 is nog in goede staat weinig op gespeeld 2 opladers en 2 controllers 1 HDMI kabel en de aansluit kabel van de ps4 en nog 3 games ik verkoop hem omdat ik een PlayStation 5 heb gekocht\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10305900692",
+    "category": "Console",
+    "title": "Base ricaricabile per switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10305900692-base-ricaricabile-per-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01680_CC8RhsUSBRKxF8jVnEAJtD3u/310x430/f0fb8874.webp?s=aff23de2459e452a86a2e51b72f41736880cda08",
+    "addedAt": "2026-10-09T15:35:22.428Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
