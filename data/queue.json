@@ -1,23 +1,5 @@
 [
   {
-    "id": "10251334652",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10251334652-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00126_65giv8kbxVr82BezqDjnz9zw/310x430/8accc113.webp?s=9ea8a708ccf1bfc6d43cab68a9582db161b9c6d0",
-    "addedAt": "2026-10-05T06:36:52.126Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\n3\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato 24 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n24 min fa\nVendo nintendo switch con tasti un po rovinati\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "tasti un po rovinati",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60.3
-  },
-  {
     "id": "10251440341",
     "category": "Console",
     "title": "Alimentation PS5",
@@ -21413,5 +21395,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10300141919",
+    "category": "Console",
+    "title": "Thrustmaster Volante T80 Ferrari 488 Gtb Edition + Pedaliera Ps5",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10300141919-thrustmaster-volante-t80-ferrari-488-gtb-edition-pedaliera-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01f5b_Fm69kKiP6JYg71NcVd8r1Di7/310x430/abd2ffd0.webp?s=13dfdd9e229b77ae9d4a872a7d340687a8cf3772",
+    "addedAt": "2026-10-09T06:40:28.592Z",
+    "processed": false,
+    "triaged": false
   }
 ]
