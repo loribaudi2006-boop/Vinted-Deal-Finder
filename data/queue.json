@@ -21408,5 +21408,31 @@
     "addedAt": "2026-10-09T06:40:28.592Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10300190658",
+    "category": "Console",
+    "title": "Xbox one x guasta leggere!",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "parola chiave: \"guasta\" + prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10300190658-xbox-one-x-guasta-leggere?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00b5d_aXrC9NzDNMVNk9UfmGSiTuhz/310x430/60e00015.webp?s=e078b26d7315d7bff3e99b65388f8d5c89fb07ea",
+    "addedAt": "2026-10-09T06:50:49.001Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10300200106",
+    "category": "Console",
+    "title": "Ventilateur 3 vitesses Xbox Series S",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 92% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10300200106-ventilateur-3-vitesses-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d97_9xkRszP4YvUf4D6nZ32vVjMb/310x430/24e431c9.webp?s=14c9d98b5f23a249de09bcf4436d4d9c6b7613f5",
+    "addedAt": "2026-10-09T06:52:53.114Z",
+    "processed": false,
+    "triaged": false
   }
 ]
