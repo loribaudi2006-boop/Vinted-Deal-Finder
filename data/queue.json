@@ -21149,5 +21149,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-0.05€, sotto soglia"
+  },
+  {
+    "id": "10301823118",
+    "category": "Console",
+    "title": "PSP em funcionamento mas com problema bateria",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"problema\"",
+    "url": "https://www.vinted.it/items/10301823118-psp-em-funcionamento-mas-com-problema-bateria?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ab7_AQvZQbXAcDKLHvDo12DSGPea/310x430/1c064522.webp?s=6a7f62a5ddbf18dd36ec0eec928ac05141250485",
+    "addedAt": "2026-10-09T10:06:15.544Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.8€, sotto soglia"
   }
 ]
