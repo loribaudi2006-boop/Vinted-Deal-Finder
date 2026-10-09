@@ -1,41 +1,5 @@
 [
   {
-    "id": "10251518023",
-    "category": "Console",
-    "title": "playstation 4 slim 1 TB",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10251518023-playstation-4-slim-1-tb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0141a_BZiqiyAaSAsnVb5e3JqJJcdq/310x430/93705b92.webp?s=5fb6e8b81db0ba4a9bf87ac5818d3925629b6060",
-    "addedAt": "2026-10-05T07:13:59.905Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 slim 1 TB\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nplaystastion 4 con controller e 4 giochi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.05
-  },
-  {
-    "id": "10251522671",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10251522671-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0075d_Fxibtez5PvRG13LS4G8HWBB6/310x430/6af2dbeb.webp?s=cf5b702634a520db21334986c5fece591df3a06f",
-    "addedAt": "2026-10-05T07:15:01.940Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vend ma ps4 elle fonctionne je l’ai réinitialiser mais je l’a vend sans les câbles\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza cavi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10251625602",
     "category": "Console",
     "title": "xbox one s",
@@ -21440,5 +21404,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10300283625",
+    "category": "Console",
+    "title": "Zijschermen ps5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10300283625-zijschermen-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00287_H83npKHHSqYA1vfhNxo687rH/310x430/e2aad60e.webp?s=c13b7f7107bb55d4cfcea9b167b0723e8a5e6a7d",
+    "addedAt": "2026-10-09T07:09:26.626Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.8€, sotto soglia"
   }
 ]
