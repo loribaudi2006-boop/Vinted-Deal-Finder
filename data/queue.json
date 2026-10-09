@@ -20638,5 +20638,20 @@
     "geminiFault": "É un po scheggiata però funziona completamente",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10310349492",
+    "category": "Console",
+    "title": "Playstation 4 + base di ricarica.",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10310349492-playstation-4-base-di-ricarica?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_016d8_RnNUJWDHmUPGnLWgqjQksbgo/310x430/4de406f8.webp?s=cd3c3d1eebbda6d3f883182dcc157b02a5c28050",
+    "addedAt": "2026-10-09T22:48:04.561Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
