@@ -21046,5 +21046,23 @@
     "geminiFault": "Prezzo civetta (inserito a 1 euro per ricevere offerte, descritto come lotto con possibili difetti non specificati)",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 130
+  },
+  {
+    "id": "10306583386",
+    "category": "Console",
+    "title": "Nintendo Switch (Lecteur cartouche HS - Jeu dématérialisé / Pour pièces)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10306583386-nintendo-switch-lecteur-cartouche-hs-jeu-dematerialise-pour-pieces?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ac6_VcDbNHXRFfekA27QzWKGygQy/310x430/dc2e64b8.webp?s=c931b801cf692b1ec7ba1626d3d25118f7f934d4",
+    "addedAt": "2026-10-09T16:24:12.216Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch (Lecteur cartouche HS - Jeu dématérialisé / Pour pièces)\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nÀ LIRE ATTENTIVEMENT AVANT ACHAT\nVends pack Nintendo Switch complet. La console fonctionne très bien, mais présente un défaut matériel : le lecteur de cartouches est HS (ne lit plus les jeux physiques).\nDétails de l'état :\n• Défaut : Port cartouche HS (message d'erreur à l'insertion d'un jeu physique).\n• Ce qui fonctionne parfaitement :\nTéléchargement et jeu en dématérialisé via l'eShop, écran, tactile, Wi-Fi, charge, affichage TV sur le dock, son et Joy-Cons.\nConsole idéale pour jouer 100 % en dématérialisé\n(Fortnite, eShop, etc.) ou pour un bricoleur souhaitant réparer le lecteur.\nContenu du pack :\n• Console Nintendo Switch\n• 2 Joy-Cons\n• Dock TV + câble HDMI + bloc d'alimentation d'origine\n• Grip support Joy-Cons\n\nVente en l'état. Console réinitialisée pour la vente. Envoi rapide et protégé.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore cartucce guasto (HS), legge solo giochi in formato digitale via eShop",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
