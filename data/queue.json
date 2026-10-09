@@ -1,38 +1,5 @@
 [
   {
-    "id": "10251440341",
-    "category": "Console",
-    "title": "Alimentation PS5",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10251440341-alimentation-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01774_SWoGxiNhwv1EQnsBZDScFSKS/310x430/1a606780.webp?s=c5e5dfd151f49457c59942196baf92ab87afe79b",
-    "addedAt": "2026-10-05T06:59:33.231Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.55€, sotto soglia"
-  },
-  {
-    "id": "10251449194",
-    "category": "Console",
-    "title": "Nintendoswitch lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10251449194-nintendoswitch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02612_jTmUtoZxe5zckF1sgRQiPnVk/310x430/83f57b36.webp?s=e0ee7ac7be851450c36fd4f23f72ad11ee87148d",
-    "addedAt": "2026-10-05T07:01:37.029Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendoswitch lite\nNuovo senza cartellino·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Entertainment System\nCondizioni\nNuovo senza cartellino\nCaricato\n3 min fa\nNiet veel gebruikt, roze nintendoswitch lite , kleine krassen naast linker knop.\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Kleine krassen naast linker knop (piccoli graffi accanto al pulsante sinistro)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.3
-  },
-  {
     "id": "10251518023",
     "category": "Console",
     "title": "playstation 4 slim 1 TB",
@@ -21406,8 +21373,10 @@
     "url": "https://www.vinted.it/items/10300141919-thrustmaster-volante-t80-ferrari-488-gtb-edition-pedaliera-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01f5b_Fm69kKiP6JYg71NcVd8r1Di7/310x430/abd2ffd0.webp?s=13dfdd9e229b77ae9d4a872a7d340687a8cf3772",
     "addedAt": "2026-10-09T06:40:28.592Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.3€, sotto soglia"
   },
   {
     "id": "10300190658",
@@ -21419,8 +21388,13 @@
     "url": "https://www.vinted.it/items/10300190658-xbox-one-x-guasta-leggere?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00b5d_aXrC9NzDNMVNk9UfmGSiTuhz/310x430/60e00015.webp?s=e078b26d7315d7bff3e99b65388f8d5c89fb07ea",
     "addedAt": "2026-10-09T06:50:49.001Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one x guasta leggere!\nDiscrete·Microsoft·Caricato 9 min fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandMicrosoft\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\n9 min fa\nLa console si accende ma ha un problema all'uscita hdmi in pratica non si vede nulla a video (schermata nera) e va riparata dall'interno sulla scheda madre, quindi la vendo come non funzionante per pezzi di ricambio.\nTutto come in foto.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Problema all'uscita HDMI, schermo nero, da riparare sulla scheda madre.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.55
   },
   {
     "id": "10300200106",
@@ -21432,7 +21406,39 @@
     "url": "https://www.vinted.it/items/10300200106-ventilateur-3-vitesses-xbox-series-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00d97_9xkRszP4YvUf4D6nZ32vVjMb/310x430/24e431c9.webp?s=14c9d98b5f23a249de09bcf4436d4d9c6b7613f5",
     "addedAt": "2026-10-09T06:52:53.114Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.05€, sotto soglia"
+  },
+  {
+    "id": "10300241736",
+    "category": "Console",
+    "title": "Kinect V2 pour Xbox One",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10300241736-kinect-v2-pour-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e33_UcqL9AjeiQEYvLV2RizZ7oEh/310x430/2796633d.webp?s=497c5a0900bbc873a7b2e1e8f9a65810c2bab78f",
+    "addedAt": "2026-10-09T07:01:09.980Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.3€, sotto soglia"
+  },
+  {
+    "id": "10300249044",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10300249044-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ee3_Y9E6xVG57gJvNqw2np7aHVKe/310x430/35a5d700.webp?s=cc40aa621380248cb9db3a3f3703f7ebc4c66a68",
+    "addedAt": "2026-10-09T07:04:16.092Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
