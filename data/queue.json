@@ -1,23 +1,5 @@
 [
   {
-    "id": "10262037390",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10262037390-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00406_64AkXZRQSzUcuNzSQR6qnL4g/310x430/fb203e53.webp?s=d55de875344b49ec35e110a8c9ea7897e50f7b6f",
-    "addedAt": "2026-10-05T22:08:39.147Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nBon état\nManettes un peu usées\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manettes un peu usées",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
     "id": "10262299041",
     "category": "Console",
     "title": "Switch Light",
@@ -20638,5 +20620,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6€, sotto soglia"
+  },
+  {
+    "id": "10310155178",
+    "category": "Console",
+    "title": "Nintendo Switch light gialla",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10310155178-nintendo-switch-light-gialla?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02519_qmf84Bwf5CDJaefNvxTHvtAY/310x430/4a44dfdb.webp?s=4696377d37835aa7d79b89af7d1d685091250315",
+    "addedAt": "2026-10-09T22:09:49.046Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch light gialla\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo 2DS\nCondizioni\nBuone\nCaricato\nun minuto fa\nÉ un po scheggiata però funziona completamente\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "É un po scheggiata però funziona completamente",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
