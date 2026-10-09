@@ -1,23 +1,5 @@
 [
   {
-    "id": "10251324347",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10251324347-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02519_dRhJty43ATZbsz1mfxpbpcxD/310x430/19bfcb64.webp?s=334c939b985f898cf590aa09cec14bc9802d8357",
-    "addedAt": "2026-10-05T06:34:48.639Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nDiscrete·Nintendo·Caricato 26 min fa\n\n50,00 €\n\n53,20 €\nInclude la Protezione acquisti\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n26 min fa\nNintendo switch 1ere génération la switch fonctionne plus batterie a changer et cassé sur le dessus les joy con fonctionne vendu sans socle ni chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non si accende/batteria da cambiare, scocca rotta sul dorso, joy-con funzionanti, senza dock né caricabatterie",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
     "id": "10251334652",
     "category": "Console",
     "title": "Nintendo switch",
@@ -21426,7 +21408,10 @@
     "url": "https://www.vinted.it/items/10299982206-ps4-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_012b8_BoVNcKs6EiaXJjJnky8zEKxq/310x430/61971ce9.webp?s=582ae1f40425fca1161817146f50e0af480c8f0e",
     "addedAt": "2026-10-09T05:59:05.764Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
