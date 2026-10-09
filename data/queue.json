@@ -20602,5 +20602,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10310590368",
+    "category": "Console",
+    "title": "Xbox One + comando",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10310590368-xbox-one-comando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b0b_YfEonRZFgNm4pV4LeMkUN2Lc/310x430/ce7b8db5.webp?s=5c98163fcd96bb7a37ed16c710cabb4550ec084e",
+    "addedAt": "2026-10-09T23:47:56.923Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.8€, sotto soglia"
   }
 ]
