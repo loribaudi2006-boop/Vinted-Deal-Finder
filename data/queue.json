@@ -1,23 +1,5 @@
 [
   {
-    "id": "10253308869",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10253308869-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0100f_3H5AB9TDutSfMY2bV4bscBWC/310x430/98867cda.webp?s=3e72c2e0ff5b5c7c302ca3d6ed02042b8b6ce215",
-    "addedAt": "2026-10-05T10:48:28.542Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato 3 min fa\n\n55,00 €\n\n58,45 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nPlaystation 4\n2 controllers\n\nAlles werkt naar behoren\nController thumbsticks zijn goed gebruikt, maar werken ook gewoon naar behoren.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Controller thumbsticks sono ben usati ma funzionanti",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
     "id": "10253686240",
     "category": "Console",
     "title": "Ps4 Slim 500GB+ 2 controller",
@@ -21238,7 +21220,27 @@
     "url": "https://www.vinted.it/items/10302265527-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01313_V1Ffmug2WNg38uqECkcqp51X/310x430/8b16fbdf.webp?s=acf202ab896ad7ee63e2753d0211d479c7775992",
     "addedAt": "2026-10-09T10:45:42.470Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPlayStation 4 500Gb\nMordor Schatten\nSchatten des Krieges\nStar Wars Battlefront\nPes 2016\n1 Controller jedoch leichte ladepeobleme\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller con lievi problemi di carica",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
+  },
+  {
+    "id": "10302336739",
+    "category": "Console",
+    "title": "PlayStation 4 500 giga",
+    "price": 64.99,
+    "totalPrice": 68.94,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10302336739-playstation-4-500-giga?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01a57_kkhMTEtKcDdwsQiLm27ycTNn/310x430/02efcd75.webp?s=298ff9cf74e3f2e515784a48319f11f6fc0af967",
+    "addedAt": "2026-10-09T10:52:58.619Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.06€, sotto soglia"
   }
 ]
