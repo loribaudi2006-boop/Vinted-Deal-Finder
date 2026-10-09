@@ -1,38 +1,5 @@
 [
   {
-    "id": "10253959121",
-    "category": "Console",
-    "title": "Caja vacía Xbox series X",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/10253959121-caja-vacia-xbox-series-x?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_004bc_QjfDxkpcRat9PxWsbKYs21Pz/310x430/b33681ac.webp?s=9d2438ea39624e6cd5359836bd2beddc01ee9507",
-    "addedAt": "2026-10-05T11:25:44.724Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
-    "id": "10254036876",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10254036876-playstation-4-ps4-mit-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00586_FY36iAs63hE7i3cmyxBaT6vz/310x430/377c097c.webp?s=d8f51196bc1087cb489069721143f6ac91fc8d3f",
-    "addedAt": "2026-10-05T11:33:01.238Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4, PS4 Mit Controller\nBuone·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nVerkauft wird eine voll funktionsfähige PS4 mit 1 Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.05
-  },
-  {
     "id": "10254113990",
     "category": "Console",
     "title": "🎮 Sony PlayStation 4 PS4 classique – Fonctionnelle + câbles",
@@ -21287,5 +21254,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 53.25
+  },
+  {
+    "id": "10302733823",
+    "category": "Console",
+    "title": "Playstation 4 blanche",
+    "price": 54.9,
+    "totalPrice": 58.35,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10302733823-playstation-4-blanche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01f85_WrhzcqQeNVYASJoDTVg9KvyB/310x430/ffa1314b.webp?s=1a3f4f4cae46cec03608da5119bdb78ccc887753",
+    "addedAt": "2026-10-09T11:28:17.372Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\n1\nRimosso!\n+ 9\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 blanche\nOttime·PlayStation·Caricato 4 min fa\n\n59,90 €\n\n63,60 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nPlaystation 4 blanche\nConsole ps4 blanche en très bon etat fonctionne très bien avec les câbles et la manette. Juste le bouton eject pour sortir les cd ne fonctionne plus. Mais vous pouvez les faire sortir directement dans le menu de la playstation. Envoie rapide et soignée\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il tasto eject per uscire i CD non funziona, ma si possono espellere dal menu",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.65
   }
 ]
