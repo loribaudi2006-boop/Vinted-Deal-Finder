@@ -1,38 +1,5 @@
 [
   {
-    "id": "10261411183",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10261411183-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01d02_ePWhvxZqeqd46LAWDCVAWU6H/310x430/df2dca72.webp?s=eeab4c2e79392d61d5b91afcb169c516df0500ff",
-    "addedAt": "2026-10-05T20:46:03.812Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nGialla\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.8
-  },
-  {
-    "id": "10261469138",
-    "category": "Console",
-    "title": "PlayStation 2 Fat SCPH-50004 – Non testata – Come da foto",
-    "price": 13,
-    "totalPrice": 14.35,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10261469138-playstation-2-fat-scph-50004-non-testata-come-da-foto?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00eaf_7HaWpdfa3B1vkWaESwLbWbwc/310x430/bccc0ba7.webp?s=0bae107146ba2c7f209e507ffc481c463b08395f",
-    "addedAt": "2026-10-05T20:52:15.567Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10261530346",
     "category": "Console",
     "title": "Comando e volante para ps3 e para ps4",
@@ -20785,5 +20752,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10309565736",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10309565736-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_025ee_xHjFYLXoFWP6FExnPvqqoXDc/310x430/d6e60ccd.webp?s=73a394a972a73dbc18fb2aacbf5455511d306825",
+    "addedAt": "2026-10-09T20:45:07.152Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 hay que cambiar disco duro la ps4 es versión 13 todo lo demás perfecto enciende puedes jugar y todo.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Disco duro da sostituire (versione firmware 13, per il resto si accende e funziona)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10309600338",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10309600338-xbox-one-360deg?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_000a9_Z9Dbv5mByAHQmJb9iZF6XfZR/310x430/2363a629.webp?s=a0bcaf135441c5dffb5bf7214a36b70a36bfa6ce",
+    "addedAt": "2026-10-09T20:49:14.757Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.55€, sotto soglia"
   }
 ]
