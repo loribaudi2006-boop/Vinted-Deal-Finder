@@ -21457,5 +21457,18 @@
     "addedAt": "2026-10-09T05:12:34.001Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10299901435",
+    "category": "Console",
+    "title": "Xbox 360 non testata",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10299901435-xbox-360-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0141e_57nXfV9v3g3ErutxDiWe7a67/310x430/023ec16c.webp?s=f3a02a1eb7cf21a253967773c57a48e13f1acb5b",
+    "addedAt": "2026-10-09T05:31:10.222Z",
+    "processed": false,
+    "triaged": false
   }
 ]
