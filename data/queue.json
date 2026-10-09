@@ -21426,6 +21426,22 @@
     "url": "https://www.vinted.it/items/10299901435-xbox-360-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0141e_57nXfV9v3g3ErutxDiWe7a67/310x430/023ec16c.webp?s=f3a02a1eb7cf21a253967773c57a48e13f1acb5b",
     "addedAt": "2026-10-09T05:31:10.222Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10299982206",
+    "category": "Console",
+    "title": "Ps4+ manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10299982206-ps4-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_012b8_BoVNcKs6EiaXJjJnky8zEKxq/310x430/61971ce9.webp?s=582ae1f40425fca1161817146f50e0af480c8f0e",
+    "addedAt": "2026-10-09T05:59:05.764Z",
     "processed": false,
     "triaged": false
   }
