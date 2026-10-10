@@ -1,38 +1,5 @@
 [
   {
-    "id": "10264375449",
-    "category": "Console",
-    "title": "Console ps4",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10264375449-console-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0071d_VsrgM9eqabqJX4RSfqTez1uP/310x430/42d483da.webp?s=87aaff1e4779a8ce4b947361dcf76090fd209f77",
-    "addedAt": "2026-10-06T08:04:45.993Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10264432852",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10264432852-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_003d6_CZWqnoEsmyAhsP6nPmXJm8Cx/310x430/f45b08c0.webp?s=b60b82d24d5ed74c73f7e8c1f886c49c092ceaa2",
-    "addedAt": "2026-10-06T08:12:01.597Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nIch verkaufe hier meine PlayStation 4 gebraucht, aber funktionsfähig! Mit einem Headset von HX und einem kleinen Lade Turm für die beiden Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40.8
-  },
-  {
     "id": "10264440718",
     "category": "Console",
     "title": "Xbox one (ohne Kabel)",
@@ -20175,5 +20142,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~11.8€, sotto soglia"
+  },
+  {
+    "id": "10312419300",
+    "category": "Console",
+    "title": "2 boites vide switch lite",
+    "price": 24.99,
+    "totalPrice": 26.94,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10312419300-2-boites-vide-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007a6_qy1f7uwK1DUjg9fMyo4DANcz/310x430/bbcc004c.webp?s=f751b4680b10045e291f733fbf8034a509a671e9",
+    "addedAt": "2026-10-10T08:10:29.963Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-26.94€, sotto soglia"
   }
 ]
