@@ -1,35 +1,5 @@
 [
   {
-    "id": "10264300942",
-    "category": "Console",
-    "title": "Face plate PS4 Neuf",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10264300942-face-plate-ps4-neuf?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00ab6_z4vobjQyUTw2aGQXYhUYKLGo/310x430/feff1b4d.webp?s=883789300a8ef8438de9fd1f06e84cff4b7a08f8",
-    "addedAt": "2026-10-06T07:55:26.193Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-22.2€, sotto soglia"
-  },
-  {
-    "id": "10264359852",
-    "category": "Console",
-    "title": "Jeux ps4",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10264359852-jeux-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01bee_kFgPtgDRLi1GreBGoUBPQVFK/310x430/dd8e7d62.webp?s=e075d4b807551beb4de147f30184161d3de07a36",
-    "addedAt": "2026-10-06T08:02:41.458Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.55€, sotto soglia"
-  },
-  {
     "id": "10264375449",
     "category": "Console",
     "title": "Console ps4",
@@ -20160,5 +20130,50 @@
     "geminiFault": "Joystick difettosi (joystick défectueux), scocca in ottime condizioni",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10312269771",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10312269771-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0254e_ruX3aRb43CL8Ja9H4qRz4QY3/310x430/274c0ee5.webp?s=b08d2775eda694a7af3424599dea48fbe17133f5",
+    "addedAt": "2026-10-10T07:53:53.536Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10312298436",
+    "category": "Console",
+    "title": "Boîte vide switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10312298436-boite-vide-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_023fb_5E29LapkMvsGynZ8SF35XV98/310x430/d8afcf0a.webp?s=5fa9872012151139e7f85b463ca81a2bd9560fa6",
+    "addedAt": "2026-10-10T07:57:00.196Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-22.95€, sotto soglia"
+  },
+  {
+    "id": "10312335773",
+    "category": "Console",
+    "title": "XBox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10312335773-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a27_Zs9Cxu2gHee8W3wZThXyEEmD/310x430/82ecd319.webp?s=4b50512dbcf992ef4c54a3b5fa90c31a7a79e908",
+    "addedAt": "2026-10-10T08:01:09.339Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.8€, sotto soglia"
   }
 ]
