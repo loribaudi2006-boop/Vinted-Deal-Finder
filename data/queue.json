@@ -20168,7 +20168,30 @@
     "url": "https://www.vinted.it/items/10324352441-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01b8d_NWpU3wSqrtUj4q9nASmjtSTv/310x430/86c88efd.webp?s=f009f81c9b26776dfdcd09e00306bf9ead784562",
     "addedAt": "2026-10-10T22:06:47.083Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n20,00 €\n\n21,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nPara piezas\nPrecio negociable\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Para piezas",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 100.3
+  },
+  {
+    "id": "10324386133",
+    "category": "Console",
+    "title": "Xbox series s",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 70% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10324386133-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00333_ZqavP2fkGANcUKftBbRsGB3G/310x430/cb889c9e.webp?s=3fcce52ed409adb49b42fc42f7b936aa99b24c0b",
+    "addedAt": "2026-10-10T22:11:58.466Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox series s\nOttime·Xbox·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nIn good condition and working x box series one S digital edition\nSpedizione\nda 6,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
