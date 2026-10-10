@@ -1,23 +1,5 @@
 [
   {
-    "id": "10274389592",
-    "category": "Console",
-    "title": "console ps4",
-    "price": 38,
-    "totalPrice": 40.6,
-    "reason": "prezzo 71% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10274389592-console-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_006c1_Ew9Rnp9zzvevbS6Nsj7tEPfq/310x430/f09c97f9.webp?s=6cdfb27c0d5fdd78dd15d4ef3de278af458e9f6c",
-    "addedAt": "2026-10-06T22:51:50.306Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nconsole ps4\nNuovo senza cartellino·PlayStation·Caricato 3 min fa\n\n38,00 €\n\n40,60 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n3 min fa\nps4 usata ma funzionante\nSpedizione\nda 4,09 €",
-    "geminiFault": "ps4 usata ma funzionante",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 69.4
-  },
-  {
     "id": "10274541291",
     "category": "Console",
     "title": "Nintendo switch 2",
@@ -20121,5 +20103,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10324623780",
+    "category": "Console",
+    "title": "Je vent cet switch",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10324623780-je-vent-cet-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0140b_XosPxVdaAe2Wh87ATFSchbHL/310x430/3b84ed3e.webp?s=2f6446115305ee4c5c6cc4715b11b9aaff5fa5cd",
+    "addedAt": "2026-10-10T22:51:26.717Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nJe vent cet switch\nBuone·Nintendo·Caricato un minuto fa\n\n26,00 €\n\n28,00 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vent cet switch qui est en bonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 92
+  },
+  {
+    "id": "10324632451",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10324632451-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e67_CtnYVybhAMWvVDdF1iYPRf18/310x430/31f259e8.webp?s=95b7e46dfe90781cd3a7a196c0ab94e9ec04698a",
+    "addedAt": "2026-10-10T22:53:31.173Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
   }
 ]
