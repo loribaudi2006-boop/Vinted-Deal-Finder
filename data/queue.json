@@ -1,23 +1,5 @@
 [
   {
-    "id": "10264081005",
-    "category": "Console",
-    "title": "PlayStation 4 / lecteur CD H.S !",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10264081005-playstation-4-lecteur-cd-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01047_b1vHJNdimDvzuVr4XD7LUEp6/310x430/5d1e0473.webp?s=c4591a319cd95a0cdd3fca68bf846b962df3c0b1",
-    "addedAt": "2026-10-06T07:24:12.763Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 / lecteur CD H.S !\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nInclude la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nBonjour,\nJe met en vente mon ancienne console , elle fait vraiment peut de bruit ce qui est assey rare pour une play 4,\nJe vend avec ma manette + câble HDMI + câble d’alimentation d’origine de la console.\n\nEnvoie protéger et filmer lors de la préparation , pour plus de renseignements n’hésitez pas merci\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "lecteur CD H.S (Lettore CD non funzionante)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
     "id": "10264203271",
     "category": "Console",
     "title": "Playstation 4",
@@ -20217,5 +20199,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10312025744",
+    "category": "Console",
+    "title": "Nintendo Switch joy con Ladeeinrichtung",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10312025744-nintendo-switch-joy-con-ladeeinrichtung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00988_vWZHuou9AM6hi85WaayJZCkA/310x430/0ac72459.webp?s=be442c238a51486002e7f95a60e4c9792b590d7a",
+    "addedAt": "2026-10-10T07:23:46.289Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
