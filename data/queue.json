@@ -20094,5 +20094,48 @@
     "geminiFault": "senza cavo di alimentazione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10323684850",
+    "category": "Console",
+    "title": "Switch à vendre urgent",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10323684850-switch-a-vendre-urgent?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02147_bTDJn45zbK3oP6kFtJaaPVVT/310x430/c77a3f77.webp?s=7de1aca5468bbff7935db8595be7f7a03ca0bf6f",
+    "addedAt": "2026-10-10T20:46:22.114Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10323679077",
+    "category": "Console",
+    "title": "PlayStation 2 Slim (Modello SCPH-70004)Solo Console (Da riparare /Per pezzi di ricambio)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10323679077-playstation-2-slim-modello-scph-70004solo-console-da-riparare-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_011c5_WZmZD5zjcRQAaZiNSfiszws2/310x430/ac2321c8.webp?s=a671798e8be31b06985886f6c5c9b945fb0ea15e",
+    "addedAt": "2026-10-10T20:46:22.115Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.05€, sotto soglia"
+  },
+  {
+    "id": "10323714679",
+    "category": "Console",
+    "title": "PS4 Konsole",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10323714679-ps4-konsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_013ec_vuLhgjDXqjZXwcwpk35b2kMr/310x430/519a7c55.webp?s=fba933c4bbd99eb39eea2f47544ae152a33af8f9",
+    "addedAt": "2026-10-10T20:49:28.975Z",
+    "processed": false,
+    "triaged": false
   }
 ]
