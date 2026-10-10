@@ -1,35 +1,5 @@
 [
   {
-    "id": "10274110946",
-    "category": "Console",
-    "title": "Gameboy color viola non si accende",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "parola chiave: \"non si accende\"",
-    "url": "https://www.vinted.it/items/10274110946-gameboy-color-viola-non-si-accende?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0260d_iaUhE77th9iQ5rC6Ef3bcCbX/310x430/517da1e6.webp?s=b0f6eabd486be52dc1cf133bc2890d7d101540f1",
-    "addedAt": "2026-10-06T21:57:50.887Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.55€, sotto soglia"
-  },
-  {
-    "id": "10274119413",
-    "category": "Console",
-    "title": "Disque blu-ray PS4",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 94% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10274119413-disque-blu-ray-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0208d_GVQKUUhE1AeQoqoVuuFH2ocJ/310x430/73cc334a.webp?s=b17099255778343ec24aaf2c8339eb3fcd12f601",
-    "addedAt": "2026-10-06T22:05:07.580Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5.9€, sotto soglia"
-  },
-  {
     "id": "10274230713",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -20169,5 +20139,36 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 51.8
+  },
+  {
+    "id": "10324320704",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10324320704-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00002_wxK1j7qTLm7Yitz7ZxqWvG6f/310x430/276bb500.webp?s=f10b1d93909de95af6f66fb1e7188cbe56bd8536",
+    "addedAt": "2026-10-10T22:02:38.000Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch lite\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nOttime\nCaricato\nun minuto fa\nTrès utile pour des vacances\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10324352441",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10324352441-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b8d_NWpU3wSqrtUj4q9nASmjtSTv/310x430/86c88efd.webp?s=f009f81c9b26776dfdcd09e00306bf9ead784562",
+    "addedAt": "2026-10-10T22:06:47.083Z",
+    "processed": false,
+    "triaged": false
   }
 ]
