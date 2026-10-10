@@ -20085,5 +20085,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10324912093",
+    "category": "Console",
+    "title": "Nintendo switch sports",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10324912093-nintendo-switch-sports?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00370_86ASDHSpET7UL5UgWtkr43Au/310x430/e1ce401f.webp?s=3d20784aa30f517ed59930903277ad7abc335d1f",
+    "addedAt": "2026-10-10T23:51:40.264Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
