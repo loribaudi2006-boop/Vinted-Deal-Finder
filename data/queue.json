@@ -1,23 +1,5 @@
 [
   {
-    "id": "10263708143",
-    "category": "Console",
-    "title": "Console Nintendo Switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10263708143-console-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00589_uSreJSDXeGYnKSpbbXaQRs7N/310x430/3849ec93.webp?s=74bc16951aea71c236a463557efc4ef729828ac8",
-    "addedAt": "2026-10-06T06:05:21.278Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Nintendo Switch\nBuone·Nintendo·Caricato 20 min fa\n\n50,00 €\n\n53,20 €\nInclude la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n20 min fa\nSwitch\nNe s’allume pas\nJe ne sais pas si cela proviens du chargeur mon fils ne s’en sert plus je n’ai pas d’autre chargeur pour voir si cela fonctionne avec un autre\nEt j’y connais rien pour la réparer\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Ne s'allume pas, il venditore non sa se dipende dal caricabatterie e non ha modo di testarlo.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 56.8
-  },
-  {
     "id": "10263748796",
     "category": "Console",
     "title": "Boîte vide Nintendo switch",
@@ -20395,5 +20377,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10311625849",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10311625849-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0183b_cvr7Cr8peaSLpGBmGjpJfXMV/310x430/677df650.webp?s=3329dcec38295f423dafee7ee2337900dd7734a1",
+    "addedAt": "2026-10-10T06:04:45.033Z",
+    "processed": false,
+    "triaged": false
   }
 ]
