@@ -1,21 +1,5 @@
 [
   {
-    "id": "10263023116",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 44.99,
-    "totalPrice": 47.94,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10263023116-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01203_wMguGacwwZbEGPHzKbRKoo4N/310x430/6f2d19b0.webp?s=0922acbb2ee8698791b80f5371363ec33fa48b71",
-    "addedAt": "2026-10-06T01:49:19.250Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10263383521",
     "category": "Console",
     "title": "Nintendo switch noire",
@@ -20571,5 +20555,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.8€, sotto soglia"
+  },
+  {
+    "id": "10311003785",
+    "category": "Console",
+    "title": "PlayStation 4 500gb top Zustand",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10311003785-playstation-4-500gb-top-zustand?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016cc_FhgNS8zEgWd3PgZVj42EYMHH/310x430/58cb5ed5.webp?s=d6b8e3345b6a02bce697e7207abdd6f2e6a60489",
+    "addedAt": "2026-10-10T01:50:47.749Z",
+    "processed": false,
+    "triaged": false
   }
 ]
