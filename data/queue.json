@@ -1,38 +1,5 @@
 [
   {
-    "id": "10272507969",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10272507969-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0082c_2eibStTcyiYZmubgxaHQv1gL/310x430/bfcdd84f.webp?s=04c9c25ddfdfbf42dd7c9c6ed3df69d713c25be8",
-    "addedAt": "2026-10-06T19:13:33.298Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nPlayStation 4 sans manette\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "sans manette",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
-    "id": "10272566774",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10272566774-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_012f9_eQKMGrEXqk4q1r2ZgnQTbw92/310x430/c41f39fc.webp?s=7d42757bcb7c9583b6166630d71ee255f0aa1a92",
-    "addedAt": "2026-10-06T19:16:40.781Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10272604125",
     "category": "Console",
     "title": "Xbox One S",
@@ -20268,5 +20235,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-31.7€, sotto soglia"
+  },
+  {
+    "id": "10322678636",
+    "category": "Console",
+    "title": "Nintendo switch oled : Prestation",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 77% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10322678636-nintendo-switch-oled-prestation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01870_whtWGYPPCju448TvB1avZ5Rg/310x430/a6c205fa.webp?s=9765716550ed22f4fe521f92c4edfc7b604b269d",
+    "addedAt": "2026-10-10T19:18:45.323Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch oled : Prestation\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nInstallation picofly sur Nintendo switch oled\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Installation picofly",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 100
   }
 ]
