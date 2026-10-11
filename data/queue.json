@@ -20048,8 +20048,11 @@
     "url": "https://www.vinted.it/items/10325244070-porta-joystik-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02280_X2UYmSXJhXCZ3zPy5g5QmnqN/310x430/c9fba4e7.webp?s=16825ab31bad84ec741036b63077b8a25aca0191",
     "addedAt": "2026-10-11T01:15:47.229Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10325313471",
@@ -20061,6 +20064,19 @@
     "url": "https://www.vinted.it/items/10325313471-xbox-one-kinect?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01252_KPPr1ZD7osBMR5ea9xiL7STf/310x430/7df4a899.webp?s=bbbb25f61bf4c0d035b15ec9fdbef70d3a54a19d",
     "addedAt": "2026-10-11T01:35:30.257Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10325332967",
+    "category": "Console",
+    "title": "Nintendo switch classique",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10325332967-nintendo-switch-classique?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0264c_zTUNuSZN6TUe5VTtr8tZ5hB2/310x430/2a10a608.webp?s=03cde82959ceba7c80c8325cb9904e9bf4be6cbe",
+    "addedAt": "2026-10-11T01:39:39.632Z",
     "processed": false,
     "triaged": false
   }
