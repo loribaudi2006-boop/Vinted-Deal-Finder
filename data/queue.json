@@ -20810,5 +20810,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10341473222",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10341473222-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00eaf_6DqWxKSuRGe3xTUqw5RydgAx/310x430/46ea8c93.webp?s=25312da058a6bc8a126eccba2f1c7c5792ccfa85",
+    "addedAt": "2026-10-11T21:22:40.953Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.05€, sotto soglia"
+  },
+  {
+    "id": "10341561571",
+    "category": "Console",
+    "title": "Ps5 gta 6 et 4 manette",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10341561571-ps5-gta-6-et-4-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00454_bYHfe6ceh5bNLbeXDdgqYwcG/310x430/3edf3559.webp?s=78cbf075eadaa4127fe2f130597ccecca90b944d",
+    "addedAt": "2026-10-11T21:29:57.380Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 gta 6 et 4 manette\nNuovo con cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\n1 centime\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 338.25
   }
 ]
