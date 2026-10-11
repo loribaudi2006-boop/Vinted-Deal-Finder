@@ -1,20 +1,5 @@
 [
   {
-    "id": "10286079110",
-    "category": "Console",
-    "title": "Xbox one S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10286079110-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0234f_TkbPxXxCavcZZaBLtq8njuhb/310x430/34f5a1c1.webp?s=faec9360655bb271d56b3b12047010a06b2e3c27",
-    "addedAt": "2026-10-07T21:01:41.164Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
     "id": "10286175995",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -20810,5 +20795,50 @@
     "geminiFault": "Senza manette e senza cavo HDMI, CoD senza custodia",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10341284222",
+    "category": "Console",
+    "title": "Alimentation Ps4 adp240ar",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 82% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10341284222-alimentation-ps4-adp240ar?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01280_H3UdWaehp1jx7qrMZgoxEQpX/310x430/292a207d.webp?s=e619cde7e7c69bfd7a1f6b5eb4ffd2f4a626275a",
+    "addedAt": "2026-10-11T21:01:52.955Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4.85€, sotto soglia"
+  },
+  {
+    "id": "10341327684",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10341327684-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01c7c_eP7ZRvW7jNb7PJNTNgwjzfJ2/310x430/73b9a23b.webp?s=1c1189baf6d7a0dfc74204928e0da427008f78f6",
+    "addedAt": "2026-10-11T21:05:00.321Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10341376344",
+    "category": "Console",
+    "title": "nintedo switch lite hs oxyde",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10341376344-nintedo-switch-lite-hs-oxyde?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01209_9s5qESngwzDKDnbHLgHhiJhj/310x430/bc4155ba.webp?s=6808cfe86caf1f748adbf0dbbc97e2a03c0ec649",
+    "addedAt": "2026-10-11T21:10:13.401Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
