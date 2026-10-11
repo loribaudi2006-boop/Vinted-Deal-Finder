@@ -20765,5 +20765,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10342414196",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10342414196-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01806_YS47GGegP1xHyjQfYcXafR9a/310x430/7faec19b.webp?s=7c7928d505030d93a946421a47f5afa579678331",
+    "addedAt": "2026-10-11T23:40:06.365Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nFunciona perfectamente, se le ha caído la goma del justick y tiene un raya la pantalla pero es el cristal protector. Se vende con cargador\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Gomma del joystick mancante, graffio sulla protezione dello schermo in vetro",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10342419722",
+    "category": "Console",
+    "title": "Xbox one 500gb",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10342419722-xbox-one-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01afa_PBTCQz3QW6SR1DrvdtN6fCtb/310x430/ee7fbc5d.webp?s=3320d622069eecb233bc0af2fddf6eb39a1f6c32",
+    "addedAt": "2026-10-11T23:43:12.234Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.3€, sotto soglia"
   }
 ]
