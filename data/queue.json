@@ -1,20 +1,5 @@
 [
   {
-    "id": "10276006829",
-    "category": "Console",
-    "title": "Scatola Xbox One Gears of the war 4",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10276006829-scatola-xbox-one-gears-of-the-war-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01fc7_8Co3EWzf3ysVgHiWNQQ3M4ji/310x430/0b2af8e0.webp?s=aebcc8142f4294fa3d38e2ef75df66bd81cfb0a7",
-    "addedAt": "2026-10-07T06:54:38.793Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10276147096",
     "category": "Console",
     "title": "Xbox One 500 Go – Modèle 1540 – Noire »",
@@ -19976,5 +19961,20 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10326270681",
+    "category": "Console",
+    "title": "PS5 Verpackung!",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10326270681-ps5-verpackung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01ce5_y3vPvhNWaEksJKjBXN7WRqCQ/310x430/6c660228.webp?s=7c6076ccdd91561edd1951abb16c7cfd27c2e8a4",
+    "addedAt": "2026-10-11T07:03:35.103Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-25€, sotto soglia"
   }
 ]
