@@ -20050,5 +20050,18 @@
     "addedAt": "2026-10-11T01:15:47.229Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10325313471",
+    "category": "Console",
+    "title": "Xbox one kinect",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10325313471-xbox-one-kinect?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01252_KPPr1ZD7osBMR5ea9xiL7STf/310x430/7df4a899.webp?s=bbbb25f61bf4c0d035b15ec9fdbef70d3a54a19d",
+    "addedAt": "2026-10-11T01:35:30.257Z",
+    "processed": false,
+    "triaged": false
   }
 ]
