@@ -20064,8 +20064,11 @@
     "url": "https://www.vinted.it/items/10325313471-xbox-one-kinect?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01252_KPPr1ZD7osBMR5ea9xiL7STf/310x430/7df4a899.webp?s=bbbb25f61bf4c0d035b15ec9fdbef70d3a54a19d",
     "addedAt": "2026-10-11T01:35:30.257Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10325332967",
