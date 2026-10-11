@@ -1,23 +1,5 @@
 [
   {
-    "id": "10276929938",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10276929938-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_006bd_8AGvWyxbpEceAXPscfNwpWRY/310x430/ae2bd1ad.webp?s=efec4849dec68fc0dd2c6522f1a055f0fcf4e6b7",
-    "addedAt": "2026-10-07T08:54:35.047Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·Sony·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation si accende ma non funzionano le porte usb e Ethernet in ottime condizioni buona per pezzi di ricambio\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non funzionano le porte usb e Ethernet",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 37.85
-  },
-  {
     "id": "10276877359",
     "category": "Console",
     "title": "Defekte Playstation 4 Slim (500GB)",
@@ -19973,5 +19955,51 @@
     "geminiFault": "venduto senza manettes et sans jeux",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10327298756",
+    "category": "Console",
+    "title": "PS4 + Gioco",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10327298756-ps4-gioco?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_004ac_GVoQvJAEQ4oSpDXbhNmaMC6r/310x430/8aedc450.webp?s=a95fbca63e894b753560886233e6903b8720ba0e",
+    "addedAt": "2026-10-11T08:46:28.801Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 + Gioco\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nPS4 + Gioco God Of War\nNo telecomando\nAlimentatore incluso.\nPS5 come NUOVA\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "No telecomando",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10327394510",
+    "category": "Console",
+    "title": "Boîte rangement Pokémon  pour jeu de switch",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10327394510-boite-rangement-pokemon-pour-jeu-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_026ae_cgyJeBbyuYhqRr1MGQStfM5B/310x430/80d89b08.webp?s=59ff5451427b6cd04aef5310a973e54dc29286a6",
+    "addedAt": "2026-10-11T08:52:43.215Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.1€, sotto soglia"
+  },
+  {
+    "id": "10327431277",
+    "category": "Console",
+    "title": "Maletín pequeño Nintendo switch",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10327431277-maletin-pequeno-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01645_YBe2zTSGNsSd1yjpY8N9s1yf/310x430/d1cf8ce0.webp?s=ea30880d1384524a726e8abd9af5b2271da00dfd",
+    "addedAt": "2026-10-11T08:54:48.125Z",
+    "processed": false,
+    "triaged": false
   }
 ]
