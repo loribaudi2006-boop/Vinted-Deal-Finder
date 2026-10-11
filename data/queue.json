@@ -19994,5 +19994,35 @@
     "geminiFault": "La console s'allume con voyant bleu ma non dà segnale video a schermo, venduta in l'état",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10326443281",
+    "category": "Console",
+    "title": "Pochette switch 1",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10326443281-pochette-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00036_CixSjvFP8QTjkiUHiu4KhCmj/310x430/1178b615.webp?s=42ede016dba07efca15d969e7b0555f47a8ff5be",
+    "addedAt": "2026-10-11T07:28:30.933Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "10326462280",
+    "category": "Console",
+    "title": "Supporti  per ps4 slim",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 94% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10326462280-supporti-per-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0175b_gXukuj3oNxjU6UEpUqzUorRM/310x430/1d4f4957.webp?s=ec8e8248a5ef1ce7dd2d57673080f9aa2b21f213",
+    "addedAt": "2026-10-11T07:30:35.464Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
