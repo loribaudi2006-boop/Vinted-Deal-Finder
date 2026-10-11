@@ -20069,5 +20069,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10325486629",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10325486629-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00250_1c3VG6nbMYzkJ2QML2RzZFb1/310x430/ee798cea.webp?s=0f7c697306aae0d5ebab9ea3862ab9f524661dbb",
+    "addedAt": "2026-10-11T02:25:20.651Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10325488200",
+    "category": "Console",
+    "title": "Xbox one + controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10325488200-xbox-one-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01dfb_c3Qw4W2AZpADUVw6zKJ3b3Je/310x430/8c52d22d.webp?s=f9776425520605a2fc80851d675de42910957cf9",
+    "addedAt": "2026-10-11T02:26:23.117Z",
+    "processed": false,
+    "triaged": false
   }
 ]
