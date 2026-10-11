@@ -20144,7 +20144,10 @@
     "url": "https://www.vinted.it/items/10325714655-original-playstation-5-side-plates-cover-weiss-ps5-disc-edition-wie-neu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0174a_LjqGbPiXEdtAsS2gQF6XRNe3/310x430/f48896ae.webp?s=d41e80e1584a9a317bc3d0cd60978f616878838c",
     "addedAt": "2026-10-11T04:04:54.919Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
