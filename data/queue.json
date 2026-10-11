@@ -1,23 +1,5 @@
 [
   {
-    "id": "10286596650",
-    "category": "Console",
-    "title": "nintendo switch",
-    "price": 64.9,
-    "totalPrice": 68.85,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10286596650-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a6c_AynYs8v9B4Ygm1kUo2Wm5tqx/310x430/34db949c.webp?s=933ef8bf3fa475b84c72208217c55fa446a097e0",
-    "addedAt": "2026-10-07T22:17:31.742Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nnintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n64,90 €\n\n68,85 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\ncarica,ma non capisco se è il vetro originale rotto o il vetrino.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "carica,ma non capisco se è il vetro originale rotto o il vetrino.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.15
-  },
-  {
     "id": "10286674242",
     "category": "Console",
     "title": "Switch",
@@ -20804,5 +20786,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 61.55
+  },
+  {
+    "id": "10341906771",
+    "category": "Console",
+    "title": "Xbox One Konsole mit Kabel-Controller & Zubehör – VB",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10341906771-xbox-one-konsole-mit-kabel-controller-zubehor-vb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_025ca_1WgKfuAwfkU45228rEUJGu3Q/310x430/dfce8d63.webp?s=5d8417359f3700dac8200c74923e951ab5e86892",
+    "addedAt": "2026-10-11T22:12:31.828Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10341915977",
+    "category": "Console",
+    "title": "Ps5 digital edition",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10341915977-ps5-digital-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f21_k7NPZMaBotX6oaS388ysiY37/310x430/f7a586c8.webp?s=0a6c8b93e0b9293e7a575c339b2585d8bc36b276",
+    "addedAt": "2026-10-11T22:13:34.623Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
