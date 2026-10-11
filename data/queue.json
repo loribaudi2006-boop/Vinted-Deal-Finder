@@ -1,21 +1,5 @@
 [
   {
-    "id": "10275195992",
-    "category": "Console",
-    "title": "Switch lite jaune",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10275195992-switch-lite-jaune?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_025eb_SED6EtJz1oGqx3RdTZ9pjv1N/310x430/9aed851e.webp?s=8dfbd1e58874be903adb9d06bdad5de303f3223a",
-    "addedAt": "2026-10-07T02:11:17.464Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10275290866",
     "category": "Console",
     "title": "Switch 2 avec chargeur et mannette",
@@ -20080,7 +20064,10 @@
     "url": "https://www.vinted.it/items/10325332967-nintendo-switch-classique?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0264c_zTUNuSZN6TUe5VTtr8tZ5hB2/310x430/2a10a608.webp?s=03cde82959ceba7c80c8325cb9904e9bf4be6cbe",
     "addedAt": "2026-10-11T01:39:39.632Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
