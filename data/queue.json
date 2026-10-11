@@ -1,20 +1,5 @@
 [
   {
-    "id": "10276340384",
-    "category": "Console",
-    "title": "Cover protettiva per PS5",
-    "price": 28,
-    "totalPrice": 30.1,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10276340384-cover-protettiva-per-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_021c9_qSw2mk52VQUQ9bFKY84Dvz4p/310x430/532712a0.webp?s=1d111207993b37ed9aa48f1e2e739cb0a714b0bf",
-    "addedAt": "2026-10-07T07:46:46.008Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-18.1€, sotto soglia"
-  },
-  {
     "id": "10276435089",
     "category": "Console",
     "title": "PS4 - PlayStation 4 -",
@@ -20042,5 +20027,23 @@
     "geminiFault": "Secondo controller con leggero ritardo di risposta su R2 e R3",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10326596052",
+    "category": "Console",
+    "title": "Xbox one  s 500 Go pour pièces",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10326596052-xbox-one-s-500-go-pour-pieces?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02518_DsHoj6EWMasaXMdsmWbdsWps/310x430/f91f8c85.webp?s=ae25db76edb1d9e9497084011248bd70b577529a",
+    "addedAt": "2026-10-11T07:46:11.195Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s 500 Go pour pièces\nOttime·Xbox·Caricato proprio adesso\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nPOUR PIÈCES . ELLE SE MET EN ROUTE . IL FAUT FAIRE UNE MISE À JOUR MAIS LA MISE À JOUR NE MARCHE PAS . IL N'Y A PAS DE MANETTE . IL N'Y A PAS DE CÂBLE D'ALIMENTATION .\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Si accende ma l'aggiornamento non funziona (probabile problema software o hard disk), senza controller, senza cavo di alimentazione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.8
   }
 ]
