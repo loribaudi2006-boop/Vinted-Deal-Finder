@@ -1,38 +1,5 @@
 [
   {
-    "id": "10284868721",
-    "category": "Console",
-    "title": "Boîte switch",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10284868721-boite-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0018a_EGLahUTc4KqqQL9ziPrzN49y/310x430/75712773.webp?s=d9c10546413f6f1ead625aedac715733bd2d351c",
-    "addedAt": "2026-10-07T19:11:12.035Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-14.2€, sotto soglia"
-  },
-  {
-    "id": "10284933201",
-    "category": "Console",
-    "title": "Ps3 retrocompatibile Ylod non funzionante chec04",
-    "price": 28,
-    "totalPrice": 30.1,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10284933201-ps3-retrocompatibile-ylod-non-funzionante-chec04?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01fe5_LsmybsUpWLU6ymxjzXAX8Aug/310x430/1f0800e6.webp?s=aeea6e5718e8a8b73b3471645cb11f0362738609",
-    "addedAt": "2026-10-07T19:15:22.012Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "caVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs3 retrocompatibile Ylod non funzionante chec04\nBuone·PlayStation·Caricato proprio adesso\n\n28,00 €\n\n30,10 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 3\nCondizioni\nBuone\nCaricato\nProprio adesso\nPresa in un lotto vendo\n\nCondizioni come da foto vendo perché a me non serve\nC’è chi sicuramente è capace a ripararla\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Ylod non funzionante",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 69.9
-  },
-  {
     "id": "10284996952",
     "category": "Console",
     "title": "PlayStation 4",
@@ -20804,5 +20771,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10339850222",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10339850222-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_012de_PmHqXdQAHbshH2oJqvUwikhf/310x430/dd664fd7.webp?s=109a2967691c4975b755752995a613e9f2c52423",
+    "addedAt": "2026-10-11T19:16:16.530Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nun minuto fa\nFunzionante.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
