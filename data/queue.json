@@ -20128,8 +20128,11 @@
     "url": "https://www.vinted.it/items/10325586561-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00e4b_uYYGjDUdY4C1d7p1X78h45Rp/310x430/662f53e6.webp?s=cd7fa9275ccf540cb215fdb612404871a73ba065",
     "addedAt": "2026-10-11T02:59:36.060Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10325619040",
@@ -20141,6 +20144,19 @@
     "url": "https://www.vinted.it/items/10325619040-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00814_EwMJYrj5EqowjBeNU47iTadM/310x430/dd67cf87.webp?s=bc64b7d4bbf132c1e836dc13fe0148db3412075d",
     "addedAt": "2026-10-11T03:11:00.931Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10325671623",
+    "category": "Console",
+    "title": "Ps4 très bonne état",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10325671623-ps4-tres-bonne-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01d73_tTUkT1qqS2R3VG66uQujBcYo/310x430/ed19a1b8.webp?s=bb0668d069c9171412b108882648715546f827cd",
+    "addedAt": "2026-10-11T03:32:48.168Z",
     "processed": false,
     "triaged": false
   }
