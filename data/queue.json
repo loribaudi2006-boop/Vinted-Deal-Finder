@@ -1,35 +1,5 @@
 [
   {
-    "id": "10286539179",
-    "category": "Console",
-    "title": "📦 Caixa Original PS5 Slim Digital Edition – Sony PlayStation 5",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10286539179-caixa-original-ps5-slim-digital-edition-sony-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02387_5H12rbeEYr1PjyTr2QpbB6gb/310x430/541feaa1.webp?s=e77f4a6479b13ded33118dd8bd6b03a5d30e490a",
-    "addedAt": "2026-10-07T22:07:08.903Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-14.2€, sotto soglia"
-  },
-  {
-    "id": "10286554500",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10286554500-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_024d8_szHGHAqVtJueSACzjxEUrh5w/310x430/ff320a4d.webp?s=157be9b9dbbe8e18f52f1548bfeeea433b628a59",
-    "addedAt": "2026-10-07T22:10:15.718Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
     "id": "10286596650",
     "category": "Console",
     "title": "nintendo switch",
@@ -20801,5 +20771,38 @@
     "geminiFault": "Console non testata per mancanza cavi, giochi vari difetti minori (custodia danneggiata, supporto disco rotto, da pulire)",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10341836075",
+    "category": "Console",
+    "title": "Xbox One fat",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10341836075-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00022_SoXgTSk5eJSD1LB5EQUP68s3/310x430/d5bb9dc2.webp?s=4c463b51dc3e8e5e86ffb48a72507307c9608a18",
+    "addedAt": "2026-10-11T22:03:11.693Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
+  },
+  {
+    "id": "10341880949",
+    "category": "Console",
+    "title": "PS4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10341880949-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01548_yjyDj6Wrvopn2czKVy52gZ7b/310x430/7e4432b5.webp?s=fce3c85d0a6f5f47f3749eafb25ae240d9c95d1e",
+    "addedAt": "2026-10-11T22:08:22.825Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4, slim\nOttime·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nmanettes et play jamais utilisé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 61.55
   }
 ]
