@@ -1,20 +1,5 @@
 [
   {
-    "id": "10288744908",
-    "category": "Console",
-    "title": "Ps4 + manette",
-    "price": 17,
-    "totalPrice": 18.55,
-    "reason": "prezzo 87% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10288744908-ps4-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_004ca_twkBSgmvsGEkZiia39ytJPEV/310x430/8a5ae328.webp?s=c0a0dd6474988c60ac52e69a7b5bdc60aa4762a5",
-    "addedAt": "2026-10-08T07:56:11.545Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10288790381",
     "category": "Console",
     "title": "Mantte DualShock Ps4 + Jeux Ps4 + cable hdmi et alimentation pour Ps4",
@@ -20733,5 +20718,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10344219131",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10344219131-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0264c_ehXJw5sJ2QC9h5s3RjqF7Rbz/310x430/8a6827c0.webp?s=899c92fe44f815557774a2a96f4a082238ce4fab",
+    "addedAt": "2026-10-12T07:49:59.423Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.3€, sotto soglia"
   }
 ]
