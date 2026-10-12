@@ -1,38 +1,5 @@
 [
   {
-    "id": "10288790381",
-    "category": "Console",
-    "title": "Mantte DualShock Ps4 + Jeux Ps4 + cable hdmi et alimentation pour Ps4",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10288790381-mantte-dualshock-ps4-jeux-ps4-cable-hdmi-et-alimentation-pour-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02156_AqkJwovsLjGLa8hhHqsiDuar/310x430/e512865f.webp?s=35cf10941c7cbd790cce9596c495a1ac64d0c437",
-    "addedAt": "2026-10-08T08:11:45.907Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.3€, sotto soglia"
-  },
-  {
-    "id": "10288891031",
-    "category": "Console",
-    "title": "PS4 (leggere BENE l'annuncio)",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10288891031-ps4-leggere-bene-lannuncio?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01909_sAWZ12G8VGaov6gwyrmEM1u4/310x430/a0f7023d.webp?s=ca21a690c9dacc472995f495a8f36065166056a4",
-    "addedAt": "2026-10-08T08:13:50.385Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 (leggere BENE l'annuncio)\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo PS4 non funzionante. Si accende ma dopo un po esce una schermata \"Il database è danneggiato\"\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Si accende ma dopo un po' esce la schermata 'Il database è danneggiato'",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
     "id": "10288925073",
     "category": "Console",
     "title": "Tablette Nintendo Switch V1",
@@ -20787,5 +20754,23 @@
     "geminiFault": "leggera trace esthétique sur le dessus",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10344436726",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10344436726-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00352_k2PjybXKwdMW5GTZv8ynwG2c/310x430/7ed434e9.webp?s=542ed38b94506c82d46e21d2160057dc0c5c53e5",
+    "addedAt": "2026-10-12T08:15:59.199Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n80,00 €\n\n84,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 tudo 100% funcional o único problema é que não lê os discos por isso vai com uma conta onde tem uma variedade de jogos.\nVai com o comando e os respectivos cabos…\nE o comando falta o joystick direito mas tudo funciona sem problemas.\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non legge i dischi, manca il gommino della leva analogica destra del controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
