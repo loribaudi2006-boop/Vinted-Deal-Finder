@@ -20648,8 +20648,11 @@
     "url": "https://www.vinted.it/items/10343635053-ps4gta5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00688_yt3evBz6LKQaTFi8REqqfVe6/310x430/7cd5ab8b.webp?s=41921453c524924e76d6d53b2fa00fd4dd8d171b",
     "addedAt": "2026-10-12T05:52:25.819Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10343690364",
@@ -20661,6 +20664,19 @@
     "url": "https://www.vinted.it/items/10343690364-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_002db_XKbGRxmCbGy1Dy7AyDDaZSq1/310x430/5bd73262.webp?s=00bcc8a2faed1420dc299a746bd24f8dd175554a",
     "addedAt": "2026-10-12T06:11:08.541Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10343730269",
+    "category": "Console",
+    "title": "Xbox One s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10343730269-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b11_wRDWQCFjMPzkstC8Z9m6pRvb/310x430/1a7cf6d1.webp?s=1981ea358e0d5ba67ed229eb634eaf6625edf82a",
+    "addedAt": "2026-10-12T06:22:37.723Z",
     "processed": false,
     "triaged": false
   }
