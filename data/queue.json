@@ -20762,5 +20762,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~17.3€, sotto soglia"
+  },
+  {
+    "id": "10342561191",
+    "category": "Console",
+    "title": "Nintendo switch 2 jeux",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10342561191-nintendo-switch-2-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02515_KuGS1Rni5SzChsskzErFEKnS/310x430/6570d56b.webp?s=174bd93bd804ac0ab9904d17441000fc3c9eda99",
+    "addedAt": "2026-10-12T00:12:07.750Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo switch 2 jeux\nOttime·Nintendo Switch·Caricato un minuto fa\n\n63,00 €\n\n66,85 €\nincl. la commissione Vinted\nBrandNintendo Switch\nPiattaforma\nNintendo Switch 2\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends ma Nintendo Switch complète en noir avec 4 Joy-Con (rouge/bleu et gris) et 2 jeux de basket.\nSpedizione\n9,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.15
   }
 ]
