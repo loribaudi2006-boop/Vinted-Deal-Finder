@@ -1,23 +1,5 @@
 [
   {
-    "id": "10298588239",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10298588239-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a66_DxSP74C2NyDeLufk9XfhGsdq/310x430/c47fd987.webp?s=17a12a5cd6cdb149f04b28d5118cd16e2a107bfa",
-    "addedAt": "2026-10-08T22:32:57.340Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nDiscrete·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nProblème hdmi\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Problème hdmi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 37.3
-  },
-  {
     "id": "10298699449",
     "category": "Console",
     "title": "Switch",
@@ -21984,5 +21966,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10355814086",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10355814086-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00bb1_qZRy9PaYvMsUQ3bKLY3ST2b1/310x430/d86af58c.webp?s=25ad523fe7151393f67a72dc7994ec5459f36e07",
+    "addedAt": "2026-10-12T22:37:25.014Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "zionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nOttime\nCaricato\nProprio adesso\nConsole\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
