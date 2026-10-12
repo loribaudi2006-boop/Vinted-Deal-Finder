@@ -21975,5 +21975,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-17.45€, sotto soglia"
+  },
+  {
+    "id": "10355436244",
+    "category": "Console",
+    "title": "Mando switch",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10355436244-mando-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01665_pKNoevSnx2yKKN5y6aixTLf6/310x430/a9536d9f.webp?s=2ce3f840513a28832475d607a9b10a39759382c7",
+    "addedAt": "2026-10-12T21:40:36.389Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.9€, sotto soglia"
   }
 ]
