@@ -21228,5 +21228,53 @@
     "geminiFault": "Cavo difettoso/rotto, non usata recentemente per mancanza di tempo",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "10348186976",
+    "category": "Console",
+    "title": "Nintendo 2DS per pezzi di ricambio o da riparare",
+    "price": 27,
+    "totalPrice": 29.05,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10348186976-nintendo-2ds-per-pezzi-di-ricambio-o-da-riparare?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e0c_rzU25XiaynXGttxtB4sRg5eF/310x430/da2778d4.webp?s=e343702e5cf106c91f1a969ef2431d7daea65323",
+    "addedAt": "2026-10-12T13:15:36.176Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "lettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo 2DS per pezzi di ricambio o da riparare\nBuone·Nintendo·Caricato un minuto fa\n\n27,00 €\n\n29,05 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo 2DS\nCondizioni\nBuone\nCaricato\nun minuto fa\ncondizioni buone, problemi di accensione, tasti e schermi perfetti\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "problemi di accensione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 30.95
+  },
+  {
+    "id": "10348177019",
+    "category": "Console",
+    "title": "Nintendo Switch Tasche",
+    "price": 27,
+    "totalPrice": 29.05,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10348177019-nintendo-switch-tasche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022d4_3CxdZY66oAErZhkLDAbaVNx6/310x430/3697a291.webp?s=3ae1802245bdc112bc44c6e9b3dab09f3158188c",
+    "addedAt": "2026-10-12T13:15:36.177Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10348242267",
+    "category": "Console",
+    "title": "Support ps5 ventilé",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10348242267-support-ps5-ventile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01617_kJYJ5jL8aKGruQpPYdYMq3zU/310x430/ccfb1c59.webp?s=2525a8ffb3c790d06c69a03cd6dee11ac3e79178",
+    "addedAt": "2026-10-12T13:19:44.171Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.45€, sotto soglia"
   }
 ]
