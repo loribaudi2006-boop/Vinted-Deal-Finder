@@ -20808,5 +20808,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10344911480",
+    "category": "Console",
+    "title": "Switch 2 Dock",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10344911480-switch-2-dock?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c74_KLsUYsJASXxHWRRgRvBC5m9Q/310x430/48a0ec4a.webp?s=54d28a25903a34cb3f6552e5ef3edec2a97d4565",
+    "addedAt": "2026-10-12T09:02:46.273Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
   }
 ]
