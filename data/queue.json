@@ -20607,13 +20607,15 @@
     "url": "https://www.vinted.it/items/10343749446-switch-lite-rose?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00fc5_SBADjZqRcezi4fjHQ6hWBa8F/310x430/9cc04c3d.webp?s=28450c27bf56ad642065a1819531d4de7d3f1447",
     "addedAt": "2026-10-12T06:27:49.500Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "mo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch Lite rose\nBuone·Nintendo·Caricato 23 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n23 min fa\nSwitch lite rose en bon état vendu avec son chargeur. Aucune rayure sur l'écran.\nVendu sans boîte et sans jeux. Il y a un petit morceau cassé en haut à droite que l'on peut voir sur la photo. Cependant ce problème n'est que purement esthétique car elle fonctionne parfaitement et depuis longtemps.\nVente suite à l'achat de la Switch2\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "piccolo pezzo rotto in alto a destra (difetto estetico)",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
+    "geminiRoughMargin": 36.3,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10343769913",
@@ -20625,8 +20627,10 @@
     "url": "https://www.vinted.it/items/10343769913-xbox-one-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01449_KfxVCVbtVHnf1TWbupfs7m9E/310x430/a95f59f8.webp?s=922f7dd6e251f20a955e463676ad41ce64d32cbf",
     "addedAt": "2026-10-12T06:33:01.345Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.8€, sotto soglia"
   },
   {
     "id": "10343794387",
@@ -20668,12 +20672,27 @@
     "url": "https://www.vinted.it/items/10343842070-ps4-noir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00f43_h5Rh5d5GBB1JxmKJ4pjD4S3f/310x430/9696db41.webp?s=6bb0e0b33adf59b0bd9098e9dc3eff7af7391f0d",
     "addedAt": "2026-10-12T06:49:39.477Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "onismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 noir\nOttime·PlayStation·Caricato 3 min fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nPs4 noir 500g\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10343932006",
+    "category": "Console",
+    "title": "Équipements Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10343932006-equipements-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_025a5_EEPVMN7a922c8uutpuS1xceh/310x430/c6d7e58b.webp?s=f18f4e891a8613394d48354b319e8d2a1167f841",
+    "addedAt": "2026-10-12T07:06:17.608Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.3€, sotto soglia"
   }
 ]
