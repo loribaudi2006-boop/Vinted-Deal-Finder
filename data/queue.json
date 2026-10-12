@@ -1,50 +1,5 @@
 [
   {
-    "id": "10289004034",
-    "category": "Console",
-    "title": "jeu The Voice pour Xbox One",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10289004034-jeu-the-voice-pour-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00b5c_gydUQqvoafQq48fE9gysgUD3/310x430/29612306.webp?s=241bc4264a57c4067506a597a68b89de63b0dbde",
-    "addedAt": "2026-10-08T08:27:20.195Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.7€, sotto soglia"
-  },
-  {
-    "id": "10289040602",
-    "category": "Console",
-    "title": "Carton oficiel ps4",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10289040602-carton-oficiel-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_011b8_KvxHBg1RDX9ih5Adsz4zvLx4/310x430/b9f9d995.webp?s=d3826ba40d3036d9b0301490ed8552af3bb59a3d",
-    "addedAt": "2026-10-08T08:31:29.618Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
-    "id": "10289085413",
-    "category": "Console",
-    "title": "Jeu switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10289085413-jeu-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_023a0_MbJFDRbKLzVpVSs8wrExNTg6/310x430/39f9fbfb.webp?s=3cc25cc7156dfed80eda73380d681a7223d5ac6c",
-    "addedAt": "2026-10-08T08:36:41.040Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-37.69€, sotto soglia"
-  },
-  {
     "id": "10289126211",
     "category": "Console",
     "title": "Sony PlayStation 4 + Kontroller + 4 Spiele",
@@ -20754,5 +20709,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-8.45€, sotto soglia"
+  },
+  {
+    "id": "10344543784",
+    "category": "Console",
+    "title": "Ps4 usata",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10344543784-ps4-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f3c_UHw6bMohDJYSQSahvJbdTq1V/310x430/fab36508.webp?s=fc078b925e814938e32f3e1d625df5a5dce9a481",
+    "addedAt": "2026-10-12T08:27:25.876Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 usata\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nutilizzata.\nha solo un difetto da un po' di rumore, ma si può aggiustare togliendo la polvere dentro, nonostante questo è funzionante e nn ha altri difetti.\nla do contenente tutti i fili\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Fa un po' di rumore (da pulire dalla polvere)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
