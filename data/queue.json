@@ -1,20 +1,5 @@
 [
   {
-    "id": "10298083538",
-    "category": "Console",
-    "title": "Switch Light",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10298083538-switch-light?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_019c0_psFkzWcw92kszVwN6p4mWDpC/310x430/1d4da3c3.webp?s=e71052b8d8d64e780c31dc7638279d50c0bfa1ff",
-    "addedAt": "2026-10-08T21:10:20.389Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.55€, sotto soglia"
-  },
-  {
     "id": "10298197415",
     "category": "Console",
     "title": "🎮 Compro playstation 5 (PS5) 🎮",
@@ -22008,5 +21993,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "10355190285",
+    "category": "Console",
+    "title": "Ps4 avec les fils",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10355190285-ps4-avec-les-fils?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0046c_3x5XjZ5twKmbRJBJJCjNtzhh/310x430/f3d6a76e.webp?s=5bb3e7a6b707d5de21927fa2e55f91bfad78543d",
+    "addedAt": "2026-10-12T21:10:39.487Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 avec les fils\nOttime·Sony·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 fonctionnelle avec les fils\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10355217553",
+    "category": "Console",
+    "title": "Volante para nintendo ps4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10355217553-volante-para-nintendo-ps4pc-y-mucho-mas?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022c6_Adh3ZfU3skC9fMJLAqmXFWuM/310x430/41b51bc8.webp?s=8606beb3bbf9396169c5a5408f9370b75848efc4",
+    "addedAt": "2026-10-12T21:13:45.172Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-17.45€, sotto soglia"
   }
 ]
