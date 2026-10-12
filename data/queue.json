@@ -1,39 +1,5 @@
 [
   {
-    "id": "10288254691",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10288254691-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00efb_nrseCY2st8Zk5d7ZhHQpUXmz/310x430/ed94241d.webp?s=e5937fe769040c68aa78d789761f31c21534e2b8",
-    "addedAt": "2026-10-08T06:32:52.401Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10288266555",
-    "category": "Console",
-    "title": "Nintendo Switch Oled 2 Verres trempés",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 98% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10288266555-nintendo-switch-oled-2-verres-trempes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02667_kLrGkXDXh7f7vZH1rpASnCif/310x430/384ba225.webp?s=f7f38434e69a24acc7add771caf9020de147a21c",
-    "addedAt": "2026-10-08T06:34:56.793Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
-    "triageNote": "margine stimato ~2.05€, sotto soglia"
-  },
-  {
     "id": "10288282331",
     "category": "Console",
     "title": "Caja de PS5",
@@ -20677,6 +20643,32 @@
     "url": "https://www.vinted.it/items/10343730269-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00b11_wRDWQCFjMPzkstC8Z9m6pRvb/310x430/1a7cf6d1.webp?s=1981ea358e0d5ba67ed229eb634eaf6625edf82a",
     "addedAt": "2026-10-12T06:22:37.723Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10343749446",
+    "category": "Console",
+    "title": "Switch Lite rose",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10343749446-switch-lite-rose?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fc5_SBADjZqRcezi4fjHQ6hWBa8F/310x430/9cc04c3d.webp?s=28450c27bf56ad642065a1819531d4de7d3f1447",
+    "addedAt": "2026-10-12T06:27:49.500Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10343769913",
+    "category": "Console",
+    "title": "Xbox one + manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10343769913-xbox-one-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01449_KfxVCVbtVHnf1TWbupfs7m9E/310x430/a95f59f8.webp?s=922f7dd6e251f20a955e463676ad41ce64d32cbf",
+    "addedAt": "2026-10-12T06:33:01.345Z",
     "processed": false,
     "triaged": false
   }
