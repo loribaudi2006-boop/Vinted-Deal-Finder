@@ -1,20 +1,5 @@
 [
   {
-    "id": "10289647248",
-    "category": "Console",
-    "title": "PS4 non funzionante",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "parola chiave: \"non funzionante\" + prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10289647248-ps4-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02536_BDmRzkDVev8z3mB8tt3MjQDo/310x430/d1dd6ac3.webp?s=fec9b581a29e64e23670e2267f09a7ec7c521881",
-    "addedAt": "2026-10-08T09:31:42.197Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10289716214",
     "category": "Console",
     "title": "Pack ps5",
@@ -20877,5 +20862,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 95
+  },
+  {
+    "id": "10345205139",
+    "category": "Console",
+    "title": "Te koop xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10345205139-te-koop-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_012c3_B9ba7tWXGNLMxB9i6eUqwqUF/310x430/2e5af403.webp?s=596e22826e11f524f003f0cd981fa9bfdb7bdab9",
+    "addedAt": "2026-10-12T09:27:45.761Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10345250217",
+    "category": "Console",
+    "title": "Xbox Series S 512 GB",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10345250217-xbox-series-s-512-gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00732_yjX1JqWrTooj4XgZoTPmqjHS/310x430/8e72cce3.webp?s=ee9a83c0ee756f99206723f316746ccece193acd",
+    "addedAt": "2026-10-12T09:31:55.721Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\n3\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nXbox Series S 512 GB\nBuone·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nBuone\nCaricato\nun minuto fa\nohne original Verpackung, Controller leichter Stickdrift, aber die Konsole selbst wurde nur wenig und fast nur für YouTube und Forza Horizon benutzt.\nSpedizione\nda 7,49 €",
+    "geminiFault": "Controller leichter Stickdrift, ohne original Verpackung",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10345315054",
+    "category": "Console",
+    "title": "Ps4 Slim",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10345315054-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_02599_5d36LG91LmYPehhmfAMBe8ZB/310x430/5960bd68.webp?s=0631474860e3c7e527e9e70dada806a07f520e9e",
+    "addedAt": "2026-10-12T09:37:08.264Z",
+    "processed": false,
+    "triaged": false
   }
 ]
