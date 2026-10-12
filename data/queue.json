@@ -1,38 +1,5 @@
 [
   {
-    "id": "10288925073",
-    "category": "Console",
-    "title": "Tablette Nintendo Switch V1",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10288925073-tablette-nintendo-switch-v1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_025cc_iiRAdApQDD7bnGLPcNj2Tgvm/310x430/60751d96.webp?s=8f9f71ca961abcbab24358aebf673a9737443bbf",
-    "addedAt": "2026-10-08T08:17:59.508Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nTablette Nintendo Switch V1\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vends cette tablette Nintendo switch V1 parfaitement fonctionnel malgré les défauts esthétiques.\nTout fonctionne parfaitement bien.\nAttention uniquement la tablette, aucun accessoire\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "difetti estetici",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 56.8
-  },
-  {
-    "id": "10288985703",
-    "category": "Console",
-    "title": "Façade PlayStation 5",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10288985703-facade-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00f00_RHxMSyjasZtd6hSSTqbbhT7S/310x430/a6739c49.webp?s=b805af322e86f6fe1f9d056900ef5bc4b7516714",
-    "addedAt": "2026-10-08T08:25:15.686Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~0.3€, sotto soglia"
-  },
-  {
     "id": "10289004034",
     "category": "Console",
     "title": "jeu The Voice pour Xbox One",
@@ -20772,5 +20739,20 @@
     "geminiFault": "Non legge i dischi, manca il gommino della leva analogica destra del controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10344485679",
+    "category": "Console",
+    "title": "Nintendo switch thumb grips",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10344485679-nintendo-switch-thumb-grips?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c0a_NGfus9WrFW72mASNFjHbkEDX/310x430/a787066e.webp?s=851bbc9b0715e4e730546ed163bd71ae1c11d60c",
+    "addedAt": "2026-10-12T08:21:11.222Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8.45€, sotto soglia"
   }
 ]
