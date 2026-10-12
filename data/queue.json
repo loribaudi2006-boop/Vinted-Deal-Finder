@@ -1,53 +1,5 @@
 [
   {
-    "id": "9508047304",
-    "category": "Console",
-    "title": "Tapas ps5 azul",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/9508047304-tapas-ps5-azul?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02161_8LeoDdxMGBigT8SFB5GxcEuF/310x430/f218a9a2.webp?s=9a322395a2736fc4880748657882fdfa3b5c681f",
-    "addedAt": "2026-10-08T12:28:17.930Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-9.2€, sotto soglia"
-  },
-  {
-    "id": "10291651362",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10291651362-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00cb3_2mUX7Ee7Ty8y4oR4frw2x6xJ/310x430/34a97e23.webp?s=38076e8033a49ad2f6580290c9805cdf634017fe",
-    "addedAt": "2026-10-08T12:32:27.496Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo ps4 slim totalmente funzionante senza controller e cavi, solo console.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
-    "id": "10291645089",
-    "category": "Console",
-    "title": "Eine Nintendo Switch lade Station mit ein HDMI Kabel und lade Gerät für Switch",
-    "price": 33,
-    "totalPrice": 35.35,
-    "reason": "prezzo 83% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10291645089-eine-nintendo-switch-lade-station-mit-ein-hdmi-kabel-und-lade-gerat-fur-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_012f4_S968d8XZ8163w5pP4QhmmKGd/310x430/037b8624.webp?s=616d2d1f996492ba20ee4b86bacd456435b6bca2",
-    "addedAt": "2026-10-08T12:32:27.497Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
     "id": "10291756790",
     "category": "Console",
     "title": "vendo ps4 usato",
@@ -21125,7 +21077,9 @@
     "url": "https://www.vinted.it/items/10347459640-consola-con-parecido-a-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_014ac_4swjvFNYMMnvmB2k2SbY776J/310x430/f5093698.webp?s=1b704c17cebc94b5e937f972ccf84b592c014006",
     "addedAt": "2026-10-12T12:24:57.176Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.5€, sotto soglia"
   }
 ]
