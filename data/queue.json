@@ -1,21 +1,5 @@
 [
   {
-    "id": "10288081793",
-    "category": "Console",
-    "title": "Housse Switch bigben",
-    "price": 13,
-    "totalPrice": 14.35,
-    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10288081793-housse-switch-bigben?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0270f_BjgeJ7siVUHFrKjLjM4qMG4D/310x430/ad12dcd2.webp?s=77f2474d0e5257f51f08abd93642942e6d0651a0",
-    "addedAt": "2026-10-08T05:42:01.162Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10288105666",
     "category": "Console",
     "title": "Xbox one",
@@ -20685,5 +20669,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.15
+  },
+  {
+    "id": "10343605896",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10343605896-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01beb_goCEQP1vvKSJAW6tj23gBLzC/310x430/6fd7cb63.webp?s=6b28a994498b348f7b46e9ebdb03cacae0c50e79",
+    "addedAt": "2026-10-12T05:42:01.098Z",
+    "processed": false,
+    "triaged": false
   }
 ]
