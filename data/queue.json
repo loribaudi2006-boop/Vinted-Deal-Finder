@@ -1,53 +1,5 @@
 [
   {
-    "id": "10297969081",
-    "category": "Console",
-    "title": "Xbox series x areazione",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/10297969081-xbox-series-x-areazione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00df6_nUaVq8k9cLprHwXfLvF8EMhz/310x430/ad99674d.webp?s=b34bffff7f8e41eb10eac100274bea282ac0f37a",
-    "addedAt": "2026-10-08T20:54:51.116Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
-    "id": "10297963637",
-    "category": "Console",
-    "title": "Ps5 Platten",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10297963637-ps5-platten?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00386_hNWxkvP3XS9oHTwou1kLwB13/310x430/442b765b.webp?s=33af7a2d951cc8afa0817bf1386426b9e96c07fc",
-    "addedAt": "2026-10-08T20:54:51.116Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.55€, sotto soglia"
-  },
-  {
-    "id": "10297986043",
-    "category": "Console",
-    "title": "Switch light",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10297986043-switch-light?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01fcc_Vi2miM5biWtLTZ7ak7Gr2YR1/310x430/650be0e0.webp?s=acf3c88f44949ec33699d5cc478951019ba6a973",
-    "addedAt": "2026-10-08T20:56:55.564Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch light\nDiscrete·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nRayure sur l’écran bien présent il\nY avait des paillette desus elle fonctionne tres bien ! Mais il y a des défauts\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Rayure sur l'écran bien présent, présence de paillettes dessus, fonctionne très bien mais des défauts esthétiques",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
     "id": "10298016070",
     "category": "Console",
     "title": "Switch proposer vos prix ne pas acheter à 1 €",
@@ -22062,5 +22014,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2.05€, sotto soglia"
+  },
+  {
+    "id": "10355065935",
+    "category": "Console",
+    "title": "Microsoft Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10355065935-microsoft-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0107e_M8nf1HKC1xtNivF6CepkPA67/310x430/c2710d67.webp?s=b714ac526199152e0a4cfbe1e479223c1941141d",
+    "addedAt": "2026-10-12T20:57:13.245Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
