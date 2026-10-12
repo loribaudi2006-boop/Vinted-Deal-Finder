@@ -21984,5 +21984,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10355834799",
+    "category": "Console",
+    "title": "PlayStation 5 with controller",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10355834799-playstation-5-with-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00050_hmeXhc5vooSmB75bme7yDqiW/310x430/40857bab.webp?s=2c4e1c2137d6b556546782a4f74cf77723be925d",
+    "addedAt": "2026-10-12T22:41:32.979Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 5 with controller\nBuone·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nBuone\nCaricato\nProprio adesso\n4 years use. Not made for it anymore\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "4 years use. Not made for it anymore",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 343.25
   }
 ]
