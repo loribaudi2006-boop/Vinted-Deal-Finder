@@ -1,20 +1,5 @@
 [
   {
-    "id": "10301823118",
-    "category": "Console",
-    "title": "PSP em funcionamento mas com problema bateria",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "parola chiave: \"problema\"",
-    "url": "https://www.vinted.it/items/10301823118-psp-em-funcionamento-mas-com-problema-bateria?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01ab7_AQvZQbXAcDKLHvDo12DSGPea/310x430/1c064522.webp?s=6a7f62a5ddbf18dd36ec0eec928ac05141250485",
-    "addedAt": "2026-10-09T10:06:15.544Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.8€, sotto soglia"
-  },
-  {
     "id": "10301971868",
     "category": "Console",
     "title": "xbox One S",
@@ -22160,5 +22145,36 @@
     "geminiFault": "Lieve graffi sullo schermo e scocche posteriori un po' rovinate, senza joycon, dock o cavi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.45
+  },
+  {
+    "id": "10359385213",
+    "category": "Console",
+    "title": "Switch Lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10359385213-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ca6_irV3J5j6bH6SF5zcFh5hcArd/310x430/ee23b471.webp?s=0ed4ec5306898823e0e3055da8ab89fc2248d1bc",
+    "addedAt": "2026-10-13T10:11:32.306Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch Lite\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nSweat, Light\nMise à jour, sans chargeur, fonctionne nickel\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "sans chargeur",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10359422400",
+    "category": "Console",
+    "title": "XBOX one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10359422400-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0197c_2RhJ2iMwU8cuzpjbhn27N63T/310x430/4ae58276.webp?s=8a7b53890521581def691c2253bbbe686f2ef78c",
+    "addedAt": "2026-10-13T10:12:35.851Z",
+    "processed": false,
+    "triaged": false
   }
 ]
