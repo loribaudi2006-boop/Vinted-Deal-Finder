@@ -22279,7 +22279,27 @@
     "url": "https://www.vinted.it/items/10358752343-vend-console-playstation-4-slim-hs?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0022f_BwKgd1RSuf6Nd41LmjruYS4q/310x430/c869bebc.webp?s=6f422b96ef76f34d44504847defe4ec60685e3ef",
     "addedAt": "2026-10-13T09:13:24.043Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVend console Playstation 4 slim HS\nDiscrete·Sony·Caricato 2 min fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 min fa\nBonjour, bien lire l annonce avant de l acheté,je vend une PlayStation 4 slim de 500 giga, dans l état ( HS pour les pièces ou connaisseurs ),la console s allume mais aucun signal, pointillés blanc, tout les câbles sont branchés, elle fait du bruit, elle n'a jamais était ouverte, référence sur les photos,je la vend en l état avec son câble d alimentation, rien d autres, vous achetez ce que vous voyez, tout est dit dans l annonce,pas de litiges possible ou de renvoyer l article, envoi uniquement par Chronopost, mondial Relais\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "S allume ma nessun segnale, puntini bianchi, mai aperta, venduta per pezzi o riparatori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10358764051",
+    "category": "Console",
+    "title": "Support ps5",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10358764051-support-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006b6_7CEtUxisberdxRcEHHT8yr7r/310x430/ef8fd1ab.webp?s=197ed6bd2d0075415f492e41916cd80710c55da1",
+    "addedAt": "2026-10-13T09:14:26.437Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.55€, sotto soglia"
   }
 ]
