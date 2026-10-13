@@ -22953,5 +22953,20 @@
     "geminiFault": "Molti graffi su schermo e retro, manca la patellina posteriore, plastica della ventilazione superiore rotta, solo console senza cavi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "10367997505",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10367997505-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00567_jLtdyrcfLidedTWitMA32jH7/310x430/a9c5d0a2.webp?s=e987ff46de6673a6357d45c5ee70926d0a5a1d57",
+    "addedAt": "2026-10-13T23:01:47.373Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
