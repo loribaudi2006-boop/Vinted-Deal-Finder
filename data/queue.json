@@ -1,20 +1,5 @@
 [
   {
-    "id": "10300563102",
-    "category": "Console",
-    "title": "Caja original vacía para Nintendo Switch",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10300563102-caja-original-vacia-para-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0116a_WPjhJzbQsDy6sNzkNLvWVHnz/310x430/ffd0c2fc.webp?s=e0ad81d6df22f47ed9659e7327923fe176a5add3",
-    "addedAt": "2026-10-09T08:17:25.032Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.2€, sotto soglia"
-  },
-  {
     "id": "10300647621",
     "category": "Console",
     "title": "Sostegno per Ps4",
@@ -22091,5 +22076,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10358215299",
+    "category": "Console",
+    "title": "Nintendo switch turquesa",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10358215299-nintendo-switch-turquesa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ba4_6P1pujA4jNLX5RszBH93Vn2m/310x430/e6724b2d.webp?s=70f37a7b37faea0a7875f27819884321db0b5180",
+    "addedAt": "2026-10-13T08:19:18.871Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "osso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch turquesa\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nVendo Nintendo switch color turquesa sin apenas uso se la compré a mi hijo y no la hace mucho caso , está sin apenas uso, viene con su cargador original regalo juego FIFA 20.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.3
   }
 ]
