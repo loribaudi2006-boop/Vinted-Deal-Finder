@@ -21946,6 +21946,22 @@
     "url": "https://www.vinted.it/items/10357184853-ps4-fat-tres-bon-etat-a-saisir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01641_v51xXLUTRD9pLhVGrpw2FDuX/310x430/f4e73021.webp?s=e059eda78d2214b72b9db92b39316600870217cc",
     "addedAt": "2026-10-13T04:35:17.134Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10357250434",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10357250434-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_002bc_fr47BLJCueZ8eUh8jdU821UG/310x430/25e121a3.webp?s=db8ae8e979699c60e3568452ff3c51d94e799318",
+    "addedAt": "2026-10-13T05:04:20.487Z",
     "processed": false,
     "triaged": false
   }
