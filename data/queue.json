@@ -22141,6 +22141,21 @@
     "url": "https://www.vinted.it/items/10358355758-ps4-perfettamente-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01dbd_8LvbN2rTQ552rvVspJHXLjmY/310x430/fafe8191.webp?s=ca37e7c4c536286e53b6a1e265a103d9d6a5dd44",
     "addedAt": "2026-10-13T08:33:56.424Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
+  },
+  {
+    "id": "10358438341",
+    "category": "Console",
+    "title": "Nintendo switch OLED +juegos y mandos",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10358438341-nintendo-switch-oled-juegos-y-mandos-hay-cosas-que-no-hice-foto-leer-descripcion?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00272_Ym7V6DydM1KVBMprX39xuHMq/310x430/e78ae461.webp?s=ff8dd55a6fdb9ad65586dd928829424bc5eca7b8",
+    "addedAt": "2026-10-13T08:43:18.973Z",
     "processed": false,
     "triaged": false
   }
