@@ -23223,5 +23223,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10368825549",
+    "category": "Console",
+    "title": "CERCO xbox series s",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10368825549-cerco-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00530_dxLTyqbZbQGikbD16mKMpaVK/310x430/4beb1734.webp?s=1c38cbba6092bd08fbaa53d29af5937ca942d98f",
+    "addedAt": "2026-10-13T23:14:14.215Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
