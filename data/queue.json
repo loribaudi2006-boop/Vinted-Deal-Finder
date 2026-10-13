@@ -23238,5 +23238,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10368921444",
+    "category": "Console",
+    "title": "PS4 DEFEKT",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10368921444-ps4-defekt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02467_DkXgpFRdmPFLqmNv7TLz1CXN/310x430/9ba1dd15.webp?s=c0eb556507bac81c1e6f467bb13de84668cf6eb8",
+    "addedAt": "2026-10-13T23:34:56.487Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 DEFEKT\nDiscrete·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nDie ps4 ist mir auf den Boden gefallen und die untere verkleidung ist abgesprungen.\nDie ps4 ist defekt ‼️man kann sie aber bestimmt noch reparieren (warscheinlich)\nMit der ps4 kommt ein Lan kabel und ein HDMI kabel dazu.\nKeine Controller\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Caduta a terra, scocca inferiore staccata, non funzionante (defekt)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
