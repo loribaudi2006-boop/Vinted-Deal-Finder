@@ -22301,5 +22301,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.55€, sotto soglia"
+  },
+  {
+    "id": "10358973240",
+    "category": "Console",
+    "title": "Capa proteção Switch",
+    "price": 4.99,
+    "totalPrice": 5.94,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10358973240-capa-protecao-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01dd3_cUT6yiTqpoFmx8cSeJCp8GF7/310x430/df9142cf.webp?s=435f4f79b5b3b0ede998a3ce871ba23c2c95bc9f",
+    "addedAt": "2026-10-13T09:33:07.787Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
+  },
+  {
+    "id": "10358987396",
+    "category": "Console",
+    "title": "Console • PS4 Slim • 500go • Que le câble hdmi • sans manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10358987396-console-ps4-slim-500go-que-le-cable-hdmi-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0134d_WwwYH4vDxQT9u35xpmxvzqsM/310x430/49da0ae5.webp?s=1d3aa58e3096eed1d20a5a11b55b380cb1166187",
+    "addedAt": "2026-10-13T09:34:09.734Z",
+    "processed": false,
+    "triaged": false
   }
 ]
