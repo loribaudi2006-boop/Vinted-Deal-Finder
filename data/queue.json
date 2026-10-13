@@ -1,38 +1,5 @@
 [
   {
-    "id": "10302121961",
-    "category": "Console",
-    "title": "Console PS4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10302121961-console-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01856_vVPdLSrpfBtEjDJDPr2v1U27/310x430/03cc5d76.webp?s=192734b9095d68ce2790a7b2e8f713b85ab94590",
-    "addedAt": "2026-10-09T10:32:13.923Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole PS4\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVend console PS4 en excellent état.\nAvec câble HDMI.\n⚠️ pas de boîte d'origine\n⚠️sans manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza scatola originale, senza controller (incluso solo cavo HDMI)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10302120741",
-    "category": "Console",
-    "title": "Nintendo Switch Controller",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10302120741-nintendo-switch-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_024de_wVGpo66F1o5DtTHg8iZDdJki/310x430/e4329de8.webp?s=e3e2c003ea661f1eefbdeed33f5a5ef4a2e5f693",
-    "addedAt": "2026-10-09T10:32:13.923Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.45€, sotto soglia"
-  },
-  {
     "id": "10302187199",
     "category": "Console",
     "title": "Façade PlayStation 5 FAT lecteur Original",
@@ -22130,5 +22097,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 53.3
+  },
+  {
+    "id": "10359592978",
+    "category": "Console",
+    "title": "Xbox 360 Slim Nera – Solo Console – Non Testata / Da Ripristinare o per Ricambi",
+    "price": 19.99,
+    "totalPrice": 21.69,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10359592978-xbox-360-slim-nera-solo-console-non-testata-da-ripristinare-o-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0113b_EKBzcJ5u2S2fGQDKZrGPcBbP/310x430/837e9c30.webp?s=df6738ebfa5f31601f4533c65eeae5cd2c9df515",
+    "addedAt": "2026-10-13T10:28:11.445Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
