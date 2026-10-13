@@ -1,20 +1,5 @@
 [
   {
-    "id": "10300241736",
-    "category": "Console",
-    "title": "Kinect V2 pour Xbox One",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10300241736-kinect-v2-pour-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00e33_UcqL9AjeiQEYvLV2RizZ7oEh/310x430/2796633d.webp?s=497c5a0900bbc873a7b2e1e8f9a65810c2bab78f",
-    "addedAt": "2026-10-09T07:01:09.980Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.3€, sotto soglia"
-  },
-  {
     "id": "10300249044",
     "category": "Console",
     "title": "Xbox one",
@@ -21935,5 +21920,20 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10357633649",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10357633649-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01962_LrSfqHwBnv5Js7UGG6N3uA3p/310x430/f2a83444.webp?s=601a5558d5be97d841603aa409624736a6d62e74",
+    "addedAt": "2026-10-13T06:55:13.425Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~37.3€, sotto soglia"
   }
 ]
