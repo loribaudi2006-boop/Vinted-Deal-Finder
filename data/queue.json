@@ -1,21 +1,5 @@
 [
   {
-    "id": "10299982206",
-    "category": "Console",
-    "title": "Ps4+ manette",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10299982206-ps4-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_012b8_BoVNcKs6EiaXJjJnky8zEKxq/310x430/61971ce9.webp?s=582ae1f40425fca1161817146f50e0af480c8f0e",
-    "addedAt": "2026-10-09T05:59:05.764Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10300141919",
     "category": "Console",
     "title": "Thrustmaster Volante T80 Ferrari 488 Gtb Edition + Pedaliera Ps5",
@@ -21946,8 +21930,11 @@
     "url": "https://www.vinted.it/items/10357283040-ps4-modificata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02018_qUe4HxTvAaotatCC7ZLRXVkM/310x430/d77013b4.webp?s=bc91c356b22063f1eee271a6e2c00b7de8324ba0",
     "addedAt": "2026-10-13T05:17:53.125Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10357302275",
@@ -21959,6 +21946,35 @@
     "url": "https://www.vinted.it/items/10357302275-nintendo-switch-oled-juegos-y-mandos-hay-cosas-que-no-hice-foto-leer-descripcion?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00272_Ym7V6DydM1KVBMprX39xuHMq/310x430/e78ae461.webp?s=ff8dd55a6fdb9ad65586dd928829424bc5eca7b8",
     "addedAt": "2026-10-13T05:25:08.459Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10357424210",
+    "category": "Console",
+    "title": "PlayStation 4 ( Lisez bien la description)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10357424210-playstation-4-lisez-bien-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_008c9_h6TryBPgEvFyzs2f4FXFz718/310x430/89bf4de9.webp?s=5dff1a59fc9d27deb992b325d480d2a6efd265f1",
+    "addedAt": "2026-10-13T06:13:44.503Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10357456383",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10357456383-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0217f_hgtkHXzf9dgNeHc8TFK5UjGc/310x430/877d8dd9.webp?s=ad8d3db1f58083f1e5db0d8be6c80fce0d9b410e",
+    "addedAt": "2026-10-13T06:14:47.199Z",
     "processed": false,
     "triaged": false
   }
