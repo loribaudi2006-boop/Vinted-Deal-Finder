@@ -1,20 +1,5 @@
 [
   {
-    "id": "10306830484",
-    "category": "Console",
-    "title": "Xbox One 500 Go console seule",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10306830484-xbox-one-500-go-console-seule?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02124_QnNRmWXiJpcZtRXsfK3wcVkM/310x430/fcda0b92.webp?s=4e424e74314d2c753cbef3c879bfdfee9301b861",
-    "addedAt": "2026-10-09T16:41:51.476Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "10306864327",
     "category": "Console",
     "title": "PS4 noir",
@@ -22563,7 +22548,12 @@
     "photoUrl": "https://images1.vinted.net/t/04_0221a_gkdETg9mTDQVVur4ZGa33jgm/310x430/476ec5ec.webp?s=860c3695695ad5c1dfd0720ffd622d20dea27eee",
     "addedAt": "2026-10-13T16:18:09.016Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSchermo Originale Nintendo Switch Non Funzionante\nOttime·Nintendo·Caricato 21 min fa\n\n39,90 €\n\n42,60 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n21 min fa\nsono disposto a mandare video per mostrare le condizioni estetiche,\n\nVENDO COME NON FUNZIONANTE\n\nSpedizione rapida e protetta entro 1 giorno lavorativo\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   },
   {
     "id": "10364243325",
@@ -22575,8 +22565,10 @@
     "url": "https://www.vinted.it/items/10364243325-boite-pour-console-xbox-one-series-s-512gb-ssd-digital?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0208e_v2TnNX3T7eVZXZEhh3bX4c6C/310x430/fb823b52.webp?s=3dd5694dac270fd7dbcf55c79cdbd3ca04d33c25",
     "addedAt": "2026-10-13T16:18:09.017Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   },
   {
     "id": "10364278931",
@@ -22616,7 +22608,7 @@
     "url": "https://www.vinted.it/items/10364320823-ps4-en-bon-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01242_X3WqEXaNiMvUjSLZUqLBmMht/310x430/a2521eb4.webp?s=0dfd73ec5b1c02e7184def04c3b8e87b519c08de",
     "addedAt": "2026-10-13T16:23:19.896Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "mo\nSport\nPubblicità\n‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 en bon état\nOttime·Sony·Caricato 10 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n10 min fa\nBon état avec une manette\nJe m’en dabarasse\nSpedizione\nda 9,49 €",
@@ -22634,8 +22626,13 @@
     "url": "https://www.vinted.it/items/10364318577-xbox-one-500-gb-console-microsoft-perfetta-3-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01de2_W2VUPeDSBemnaaMdi5cGZfXz/310x430/ba48a567.webp?s=06a78cb31b7c0cc62e5b9dec2f62023870c62819",
     "addedAt": "2026-10-13T16:23:19.897Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "+ 4\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One 500 Gb Console Microsoft Perfetta + 3 Giochi\nOttime·Xbox·Caricato 11 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n11 min fa\nXbox One 500 Gb Console Microsoft Perfetta +3 Giochi Perfettamente Funzionante\n\nL'offerta Comprende :\nConsole 500 Gb\nAlimentatore\nCavo Hdmi\n3 Giochi Come Nuovi ititoli in foto\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
   },
   {
     "id": "10364337721",
@@ -22648,7 +22645,12 @@
     "photoUrl": "https://images1.vinted.net/t/01_01f51_7icFj4zYkxWXs7oRRD484bGo/310x430/d88edfe3.webp?s=c7a951e2df12f0185d1b0e8faf52dbe8ae0277b5",
     "addedAt": "2026-10-13T16:24:22.119Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Xbox one S seule\nDiscrete·Xbox·Caricato 17 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\n17 min fa\nConsole Xbox one S SEULE. VENDU sans câble, sans jeux et sans manette.\nFonctionelle !\n1To stockage ?\nConsole à nettoyer ( un peu sale)\nLa console sera réinitialisé pour la vente\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console un po' sporca da pulire, venduta senza cavi, senza giochi e senza manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   },
   {
     "id": "10364395856",
@@ -22660,8 +22662,10 @@
     "url": "https://www.vinted.it/items/10364395856-ps4-slim-1000gb-funzionante-con-cavo-di-alimentazione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01dcf_ycKoZUNihuHudxqr9sq9bLfL/310x430/5ede16fb.webp?s=858c760de722a297f939f409b3475361037c3914",
     "addedAt": "2026-10-13T16:27:29.125Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10364400413",
@@ -22674,7 +22678,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_0180d_BAbixV7BPNRnavegK7ay8uDA/310x430/6d5603a9.webp?s=2ef7e7d21199329ed29f4750c41e055d2c2b0e92",
     "addedAt": "2026-10-13T16:28:31.532Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "iochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Xbox One Fat 500GB Nero - Cavi alimentazione + Controller wireless\nOttime·Xbox·Caricato 15 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n15 min fa\nVendo console Xbox One (modello originale / Fat) di colore nero, usata ma perfettamente funzionante.\n📦 Contenuto della confezione:\nConsole Xbox One (modello 1540)\nController wireless originale Xbox nero\nAlimentatore originale Microsoft con relativo cavo di alimentazione\n✨ Condizioni e Dettagli:\nStato generale: Usata ma ben conservata e perfettamente funzionante. Presenta leggeri e normali segni estetici di usura sulle parti lucide della scocca dovuti all'utilizzo.\nPorte e Connessioni: Tutte le porte posteriori (HDMI In/Out, USB, Rete LAN, Ottica, Alimentazione) sono integre e perfettamente funzionanti.\nStato account: La console verrà consegnata già resettata alle impostazioni di fabbrica, completamente pulita e pronta per la prima configurazione con il vostro profilo.\n🚚 Spedizione rapida e imballaggio protettivo per assicurare la massima sicurezza durante il trasporto.\nPer qualsiasi domanda o ulteriore foto non esitate a contattarmi!\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "10364415399",
@@ -22686,6 +22695,110 @@
     "url": "https://www.vinted.it/items/10364415399-ps4-qui-marche-avec-chargeur?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00a62_EVkugbUVwtXinG6ed8mfRqs1/310x430/20a1affc.webp?s=c36898bc2d2ea5d7e58e31c6341a6597fbd3dc72",
     "addedAt": "2026-10-13T16:29:33.690Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364502134",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10364502134-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_018be_tsBTP4LWdFsYdgY24E34kvKv/310x430/f4748ff9.webp?s=72837f1518698dda4ecf32166cc4053ba3154960",
+    "addedAt": "2026-10-13T16:34:45.466Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364493570",
+    "category": "Console",
+    "title": "PlayStation 4 PS4 1TB – funktioniert einwandfrei",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10364493570-playstation-4-ps4-1tb-funktioniert-einwandfrei?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00409_sxtaSLrFTZ1dTF5up2yP5mca/310x430/59566183.webp?s=39d765500c4a0735b6bd16c9082531b3b2efea75",
+    "addedAt": "2026-10-13T16:34:45.466Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364534031",
+    "category": "Console",
+    "title": "Scatola completa con protezioni PS5 Digital Edition",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10364534031-scatola-completa-con-protezioni-ps5-digital-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00762_UuEH4tXQJ2KQ4WbzTg36stqu/310x430/4e8421e0.webp?s=2fbe1b36a28a4977179b5aebef1be06ba583e05f",
+    "addedAt": "2026-10-13T16:36:50.040Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364548780",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10364548780-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ed7_o2hi1bXAQ1YdEhzN6PtRQvNu/310x430/03d88704.webp?s=b2bc1040c8e345d8c5ab63de58086c881caaf542",
+    "addedAt": "2026-10-13T16:37:52.286Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364554193",
+    "category": "Console",
+    "title": "PS4 slim 500GO Pack GTA V",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10364554193-ps4-slim-500go-pack-gta-v?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0035b_bJ9NZrkTyFXZYBbDsscwgXYR/310x430/4a64e3dd.webp?s=171ae627058fccdcd9fed21ce27ecc940e6afd4e",
+    "addedAt": "2026-10-13T16:38:54.451Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364608371",
+    "category": "Console",
+    "title": "Nintendo Switch inclusief spellen",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10364608371-nintendo-switch-inclusief-spellen-controller-stuurtjes-hoes-etc?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_001e1_6QDopmpoq4DaiZoeqwAz4Ma1/310x430/c479b2c8.webp?s=9d46f5b650c96a107ff9cb71682930d522c411be",
+    "addedAt": "2026-10-13T16:42:01.394Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10364624431",
+    "category": "Console",
+    "title": "PS4 slim 500GO Pack GTA V",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10364624431-ps4-slim-500go-pack-gta-v?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0035b_bJ9NZrkTyFXZYBbDsscwgXYR/310x430/4a64e3dd.webp?s=171ae627058fccdcd9fed21ce27ecc940e6afd4e",
+    "addedAt": "2026-10-13T16:43:03.700Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10360458710",
+    "category": "Console",
+    "title": "Sony PlayStation 4 PS4 Pro – Solo Console",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 67% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10360458710-sony-playstation-4-ps4-pro-solo-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0045f_fCubSaUWj3H43GsSqniCgkeV/310x430/167f49b4.webp?s=8d1ac63cf9236af3c6ea68b9a2505276be3f53ea",
+    "addedAt": "2026-10-13T16:44:05.952Z",
     "processed": false,
     "triaged": false
   }
