@@ -1,35 +1,5 @@
 [
   {
-    "id": "10309743457",
-    "category": "Console",
-    "title": "Nintendo switch lite – A réparé",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10309743457-nintendo-switch-lite-a-repare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0110e_a8FCoAoveRw6Zv3LnZLV4sMw/310x430/0fc94c62.webp?s=0964210c51ff44fa3d00a7a02000ccefd3e9f9dc",
-    "addedAt": "2026-10-09T21:06:48.389Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.3€, sotto soglia"
-  },
-  {
-    "id": "10309786147",
-    "category": "Console",
-    "title": "Xbox One S bianca",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10309786147-xbox-one-s-bianca?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e70_gDfDPVJwSJdBu7YzdbjT2MNM/310x430/a7d6ff43.webp?s=644b0e8a2c8fb74b2a50b041ee4a5bbb546557a6",
-    "addedAt": "2026-10-09T21:11:57.909Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
     "id": "10309795116",
     "category": "Console",
     "title": "Nitendo switch",
@@ -23040,5 +23010,23 @@
     "geminiFault": "minor scratches on the screen",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 83.25
+  },
+  {
+    "id": "10367703609",
+    "category": "Console",
+    "title": "Nintendo switch classique prix négociable !",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10367703609-nintendo-switch-classique-prix-negociable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_022fd_XupgiwYauBhtCnstdaQ3GFgL/310x430/8c25803d.webp?s=5c0c6465d4b7095d69db589e5ae08c554678aab5",
+    "addedAt": "2026-10-13T21:13:00.181Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch classique prix négociable !\nBuone·Nintendo·Caricato 40 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n40 min fa\nNintendo switch avec chargeur fourni\nSans boîte , sans station d’accueil pour la diffusion sur un écran\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza scatola, senza station d'accueil (dock TV)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
