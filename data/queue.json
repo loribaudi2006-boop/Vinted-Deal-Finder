@@ -1,38 +1,5 @@
 [
   {
-    "id": "10307503997",
-    "category": "Console",
-    "title": "Game boy non funzionante",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10307503997-game-boy-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0101e_xYrPUNzXEXVFPyfKnwoBt2Ys/310x430/5c9b6a9c.webp?s=a361d71e139c353b6672d8a38150a7a9ed23f422",
-    "addedAt": "2026-10-09T17:34:50.816Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.3€, sotto soglia"
-  },
-  {
-    "id": "10307522686",
-    "category": "Console",
-    "title": "Lot PS4 slim + 3 jeux",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10307522686-lot-ps4-slim-3-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00916_Eg94qgQe783ZYtn88x6UzjeE/310x430/bd735a96.webp?s=22907dbafa6b46cd841512467c07956cd63e0d1a",
-    "addedAt": "2026-10-09T17:35:53.081Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "tà\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot PS4 slim + 3 jeux\nDiscrete·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nBonjour je vends ma PS4 SLIM, ainsi qu'une manette ACTION, les câbles et 3 jeux (Farming Simulator 22, Black Ops 3 et Diablo 3).\n\nLa console présente des marques d'usures mais fonctionne parfaitement.\n\nVendu sans la manette officielle ni la boîte.\n\nEnvoi rapide et soigné.\n\nPRIX : 60 EUROS\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Segni di usura estetici, manca la custodia originale e manca la manetta ufficiale (inclusa una compatibile Action)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10307634473",
     "category": "Console",
     "title": "PS4 mit 2 Controller",
@@ -22698,8 +22665,12 @@
     "url": "https://www.vinted.it/items/10364974189-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_017ec_ZFenx3wSa7FTFNdit3Ne9uxe/310x430/67461eb8.webp?s=ac1887ba9c73d7e1bec6008a586448c03fd3c4a7",
     "addedAt": "2026-10-13T17:06:56.397Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10364981954",
@@ -22711,8 +22682,12 @@
     "url": "https://www.vinted.it/items/10364981954-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01cba_evWe3h7R78uNWCFxfgtecLkT/310x430/5687cdbe.webp?s=48d5bea659f431a774ea4ec05db4d0357dc8fa0c",
     "addedAt": "2026-10-13T17:07:58.671Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10365004916",
@@ -22724,7 +22699,7 @@
     "url": "https://www.vinted.it/items/10365004916-xbox-one-500-go?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01fbe_2yYDDdaDEos28JZ57tFGRvX5/310x430/2ee43522.webp?s=57d7ba7eead65055dbbb1dacf6b22827dcbb523b",
     "addedAt": "2026-10-13T17:10:03.512Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One 500 Go\nBuone·Xbox·Caricato 24 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\n24 min fa\nBonjour !\n\nJe vends cette Xbox One 500 Go (Black).\n\nConsole en très bon état, vendue sans boîte mais avec câbles, manette et 14 jeux (Lego, Minecraft, Titanfall, Sniper Élite 4, Fifa 17, The Crew...)\n\nParfait pour se replonger dans les années mythiques 2013 - 2016 du Jeu Vidéo. Elle reste également compatible avec les nouvelles sorties et possède une interface très pratique directement relié à votre compte Microsoft :)\n\nN'hésitez pas a me contacter si vous avez des questions ! 🎮🕹️💫\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -22757,8 +22732,10 @@
     "url": "https://www.vinted.it/items/10365030678-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_025a3_QugcJahD8gA7UJdRGfJchBXL/310x430/da06204d.webp?s=5a226608d33ab785540198779ce72994e6fd9f65",
     "addedAt": "2026-10-13T17:11:06.177Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
   },
   {
     "id": "10365090779",
@@ -22770,8 +22747,10 @@
     "url": "https://www.vinted.it/items/10365090779-nintendo-switch-turkis?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00b36_QbV2CEj8CBp64rF5nMCFqziC/310x430/87fe6056.webp?s=b9ac0ca17ff57d4f00962602dbea3ea8e169278a",
     "addedAt": "2026-10-13T17:15:15.271Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10365098329",
@@ -22783,8 +22762,10 @@
     "url": "https://www.vinted.it/items/10365098329-nintendo-ds-lite-bianco-caricabatterie-pennino-da-riparare-per-pezzi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01352_ntkucMrvvtdrKsqeoE4QFjaJ/310x430/b3a66034.webp?s=5bb7319667f58492407c4908a554cbb280f6cfea",
     "addedAt": "2026-10-13T17:16:17.537Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   },
   {
     "id": "10365115063",
@@ -22796,8 +22777,10 @@
     "url": "https://www.vinted.it/items/10365115063-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0269e_trWWvvmJNZy2FsMwuoYTmQu3/310x430/7d955442.webp?s=e3d1affc52ad6bf5499e2167cf8072a7f644de1a",
     "addedAt": "2026-10-13T17:17:19.735Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.05€, sotto soglia"
   },
   {
     "id": "10365135308",
@@ -22809,8 +22792,10 @@
     "url": "https://www.vinted.it/items/10365135308-giochi-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c60_d5fUYYMDwpGuJ1Fz3cLfW1ja/310x430/9cbab108.webp?s=42bb5038bd280d7f04e67659902907f9c9022e4d",
     "addedAt": "2026-10-13T17:18:22.207Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
   },
   {
     "id": "10365147677",
@@ -22822,8 +22807,13 @@
     "url": "https://www.vinted.it/items/10365147677-sony-playstation-4-ps4-pro-solo-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0045f_fCubSaUWj3H43GsSqniCgkeV/310x430/167f49b4.webp?s=8d1ac63cf9236af3c6ea68b9a2505276be3f53ea",
     "addedAt": "2026-10-13T17:19:24.565Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 PS4 Pro – Solo Console\nDiscrete·Sony·Caricato 16 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n16 min fa\nConsole Sony PlayStation 4 Pro nera, venduta senza accessori. La console non è stata testata, pertanto viene venduta nello stato in cui si trova\n\nContenuto del lotto:\n• Console Sony PlayStation 4 Pro nera\n\nConsole venduta così com’è, non testata.\n\n📦 Spedizione veloce entro 24 ore con imballaggio accurato.\n\n\n\n\n\n\n\n\n\n\n\n\nPS4 Pro, PlayStation 4 Pro, Sony PS4, console Sony, PS4 nera, console gaming, PlayStation 4, PS4 da riparare, console non testata, retrogaming, Sony PlayStation, PS4 ricambi\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non testata, venduta nello stato in cui si trova senza accessori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   },
   {
     "id": "10365198252",
@@ -22835,8 +22825,10 @@
     "url": "https://www.vinted.it/items/10365198252-console-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00d59_Q6HduL9aCqmLfDVgkSMno1TV/310x430/7a043f59.webp?s=f16c88c87d369ac1044f6cbe37c6a366a7cac7bf",
     "addedAt": "2026-10-13T17:22:31.186Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10365196611",
@@ -22848,8 +22840,10 @@
     "url": "https://www.vinted.it/items/10365196611-bouton-zl-nintendo-switch-piece-detachee?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b78_wQtjQh4RGvzLPo2QnF1WNnWT/310x430/a737bc72.webp?s=c754c1c647d212d298202d32ea419bc00ee205ad",
     "addedAt": "2026-10-13T17:22:31.186Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   },
   {
     "id": "10365190641",
@@ -22879,8 +22873,10 @@
     "url": "https://www.vinted.it/items/10365188987-nintendo-switch-housse-de-protection-housse-de-transport?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00fd1_ERfXXE6w6AoybjeTWWQFSKNh/310x430/5489d751.webp?s=1dfa48217430cfc26d941b19755ff5619ec8a4ee",
     "addedAt": "2026-10-13T17:22:31.187Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.2€, sotto soglia"
   },
   {
     "id": "10365213951",
@@ -22907,8 +22903,13 @@
     "url": "https://www.vinted.it/items/10365260525-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c6e_Lxox9V9hoGYWjNU2yS82hn9b/310x430/b7a07128.webp?s=b1afad12c503e32f4753373799ec6aed67f2a88c",
     "addedAt": "2026-10-13T17:27:43.023Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n14\nRimosso!\n+ 7\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato 8 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n8 min fa\nIch verkaufe meine PlayStation 4 inklusive Controller, HDMI-Kabel und Netzkabel.\n\nDie PlayStation weist leichte Kratzer und somit normale Gebrauchsspuren auf, befindet sich ansonsten aber in einem sehr guten und voll funktionsfähigen Zustand.\n\nEin Ladekabel für den Controller ist leider nicht mehr vorhanden und daher nicht im Lieferumfang enthalten.\n\nBei Interesse oder Fragen könnt ihr mir gerne schreiben.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Leichte Kratzer (graffi leggeri), manca cavo ricarica controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 57.3
   },
   {
     "id": "10365350834",
@@ -22920,6 +22921,93 @@
     "url": "https://www.vinted.it/items/10365350834-ps4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0048b_2wvas9mhddcV8bdcAcsczK6v/310x430/666b4962.webp?s=3a8685819ea9c78022ad7bb88a0f0fece6bac2d9",
     "addedAt": "2026-10-13T17:33:57.165Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10365365973",
+    "category": "Console",
+    "title": "Nintendo Switch Lite Bleu",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10365365973-nintendo-switch-lite-bleu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00576_rwbfCXZv25hqsd2tuq2C4kZk/310x430/38b0ae0e.webp?s=139f2e5923853069bd24f9f036fe39fd70f0c594",
+    "addedAt": "2026-10-13T17:34:59.323Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10365408117",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10365408117-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00f7a_rhSnDFDHMXBUyAHUp2FPmJMJ/310x430/d8a3a825.webp?s=bbee1f82173f8e9544c79789d170140fa04ad20a",
+    "addedAt": "2026-10-13T17:38:06.883Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10365406094",
+    "category": "Console",
+    "title": "Caja PS4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10365406094-caja-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_023f6_1pGvQ8uYb9aWGtxCyrivhYSp/310x430/f89cac71.webp?s=c4e7e26640e24f33a13bbff70d2937e15a483964",
+    "addedAt": "2026-10-13T17:38:06.884Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10365420619",
+    "category": "Console",
+    "title": "xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10365420619-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01722_47JPUGrrQBwwog4nbacintbK/310x430/1708e012.webp?s=2694351ba98b09d2f9f2625591bd95e14a5d1f33",
+    "addedAt": "2026-10-13T17:39:09.013Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "10365418512",
+    "category": "Console",
+    "title": "PS4 usata",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10365418512-ps4-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01bd1_P89Z7v5BCxQre2MN5XnEhgVk/310x430/96fb9e1f.webp?s=145286fb9c1060d02c545bff92918d3033748a31",
+    "addedAt": "2026-10-13T17:39:09.013Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n7\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 usata\nBuone·PlayStation·Caricato 4 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nnon so se è funzionante l’ultima volta che l’ho usata funzionava\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "non so se è funzionante l’ultima volta che l’ho usata funzionava",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10365471615",
+    "category": "Console",
+    "title": "Ps4 good condition",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10365471615-ps4-good-condition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0144b_34qAqjciMsZgcQdEsV7Ne1ab/310x430/d148d1e9.webp?s=a5650fda6cdc3b2e69bc42f43e2ed751bcf79f7b",
+    "addedAt": "2026-10-13T17:42:16.466Z",
     "processed": false,
     "triaged": false
   }
