@@ -23261,5 +23261,18 @@
     "geminiFault": "Ventilatore rumoroso",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10369529507",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10369529507-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_000b6_brXmh8N7abHGNfxthRCE7Ldr/310x430/ff0bdea8.webp?s=003ff652c92a1a8d3587747c512c568ce3f0b123",
+    "addedAt": "2026-10-14T01:53:39.260Z",
+    "processed": false,
+    "triaged": false
   }
 ]
