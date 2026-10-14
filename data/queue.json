@@ -1,23 +1,5 @@
 [
   {
-    "id": "10324449368",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10324449368-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_024fa_VKaQvQyxc8vKc1LsVJfWNN2m/310x430/72b856cf.webp?s=5a62eafe7bca834f9e2b88a5ac85b1ee69f30c14",
-    "addedAt": "2026-10-10T22:21:19.105Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nEsta nuevo\nPrecio negociable\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 102.55
-  },
-  {
     "id": "10324498710",
     "category": "Console",
     "title": "Nintendo switch",
@@ -23658,7 +23640,57 @@
     "url": "https://www.vinted.it/items/10381448748-xbox-one-sin-disco-duro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_025ab_pLdQ2gtXSETVx9zzZJftqdy2/310x430/cb4193a4.webp?s=0f66664b2cf2efbc6741af7ab1ed6f67d45f6e55",
     "addedAt": "2026-10-14T22:13:39.710Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.85€, sotto soglia"
+  },
+  {
+    "id": "10381464842",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10381464842-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01944_BqqDwhUGoj4CpPu3EJ6PgwvH/310x430/611a517c.webp?s=413435c51438cf7f32168ec05389d9ed86b21292",
+    "addedAt": "2026-10-14T22:15:44.480Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nAcer Nitro Blaze 11\nCondizioni\nOttime\nCaricato\nun minuto fa\nOttime condizioni da cambiare, solo la ventola.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "da cambiare, solo la ventola",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10381462566",
+    "category": "Console",
+    "title": "ps3 slim con problema al hdd",
+    "price": 33,
+    "totalPrice": 35.35,
+    "reason": "parola chiave: \"problema\"",
+    "url": "https://www.vinted.it/items/10381462566-ps3-slim-con-problema-al-hdd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00fa2_mnVFamR25j79E1y82k8JWQ5C/310x430/a437b720.webp?s=a798d009bf15e85999aed56abbcf86b26e72e64f",
+    "addedAt": "2026-10-14T22:15:44.480Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10381474001",
+    "category": "Console",
+    "title": "GaN Power Hub per switch + piattaforma ricarica",
+    "price": 19.99,
+    "totalPrice": 21.69,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10381474001-gan-power-hub-per-switch-piattaforma-ricarica?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0106c_jqbjTGRQAP1NWYN5tohLEtvT/310x430/cc79f385.webp?s=0bcf65217ebff256067cb183b0abe1acba89aa54",
+    "addedAt": "2026-10-14T22:17:49.488Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.5€, sotto soglia"
   }
 ]
