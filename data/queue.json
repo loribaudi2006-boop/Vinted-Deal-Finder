@@ -23360,5 +23360,31 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10370271304",
+    "category": "Console",
+    "title": "Dispenser bevande in vetro rigato 5L con rubinetto",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "parola chiave: \"rigato\"",
+    "url": "https://www.vinted.it/items/10370271304-dispenser-bevande-in-vetro-rigato-5l-con-rubinetto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024e5_5Rp3Sm5TvmzmGPhkjjPrEALS/310x430/64222da0.webp?s=89c39efa92a4140df7e10cdcc5529fd6cdaa3fdb",
+    "addedAt": "2026-10-14T06:15:00.006Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10370287852",
+    "category": "Console",
+    "title": "Lot PS4 – 2 manettes + 3 jeux vidéo",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 82% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10370287852-lot-ps4-2-manettes-3-jeux-video?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_009e5_xDvUL2fqXZP1daXVq8qA7BjJ/310x430/721e1536.webp?s=79d6cb4bae5f72bb6d82f7e18de643314db9f6ee",
+    "addedAt": "2026-10-14T06:19:09.444Z",
+    "processed": false,
+    "triaged": false
   }
 ]
