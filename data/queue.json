@@ -23682,8 +23682,13 @@
     "url": "https://www.vinted.it/items/10381188613-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00ba7_2mUyVir5GucAJHSKapifkwRf/310x430/5253a05e.webp?s=4582a816a4e49aadd2d0b41c6be3bc572236e7fb",
     "addedAt": "2026-10-14T21:34:11.805Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nVend Nintendo switch avec le jeu lego Marvel\nLa console fonctionne très bien les joys-con également. Vendu avec un chargeur classique car perdu l’original.\n\nExpédié proprement et rapidement\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Caricatore non originale (perso l'originale)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   },
   {
     "id": "10381186332",
@@ -23695,7 +23700,45 @@
     "url": "https://www.vinted.it/items/10381186332-xbox-one-edition-call-of-duty?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014f2_b4Ux3RANRpH483DXS1oFFAke/310x430/59bfe69d.webp?s=779827ad03c3717a34f4dcdd0bd48337afa72b14",
     "addedAt": "2026-10-14T21:34:11.805Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "10381228818",
+    "category": "Console",
+    "title": "Ps4 500G + 1 manette",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10381228818-ps4-500g-1-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01d57_AUuxj2TV6v3NjYdmhqFSt5J9/310x430/6efc5b5c.webp?s=a6345121fcda934076ee3b05e3d52c5390902b3f",
+    "addedAt": "2026-10-14T21:39:23.374Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Uomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 500G + 1 manette\nOttime·Sony·Caricato proprio adesso\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 de 500G et une manette bonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "10381224199",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10381224199-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d5a_QMJQSGHxjieuDcvU2tZPGhtB/310x430/3fc9152e.webp?s=3b17e5f2ac15f7f8c0d934490c1d8e12ecdad358",
+    "addedAt": "2026-10-14T21:39:23.374Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nFunktioniert einwandfrei keine Probleme noch nie überhitzt ohne Controller ohne Spiele\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Funktioniert einwandfrei, keine Probleme, noch nie überhitzt. Ohne Controller, ohne Spiele.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
