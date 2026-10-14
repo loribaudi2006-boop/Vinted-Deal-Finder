@@ -1,38 +1,5 @@
 [
   {
-    "id": "10323535263",
-    "category": "Console",
-    "title": "Pezzi Nintendo Switch",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10323535263-pezzi-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00b61_DecHsUoVsmYxnN4DsHUc2xux/310x430/89e85413.webp?s=e0a3fb88324081192fc1d66c70b6f8ea9202c22c",
-    "addedAt": "2026-10-10T20:31:47.168Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~0.3€, sotto soglia"
-  },
-  {
-    "id": "10323537340",
-    "category": "Console",
-    "title": "🎮 Lotto PlayStation 4 fat + 3 controller + 5 giochi",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10323537340-lotto-playstation-4-fat-3-controller-5-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01af1_vWf1pbN1iZbhorE2C8xonUqx/310x430/3b900687.webp?s=c1620b03718ec26d07599dacee6b3aaea0ad810d",
-    "addedAt": "2026-10-10T20:32:49.729Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsole\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n🎮 Lotto PlayStation 4 fat + 3 controller + 5 giochi\nBuone·Caricato 2 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\n*PREZZO INDICATIVO**FARE OFFERTE*\nVendo lotto composto da una PS4 Fat nera, 3 controller e 5 giochi per PS4.\n\n📦 CONTENUTO DEL LOTTO\n\n🎮 CONSOLE\n\n- PlayStation 4 Fat nera: non testata perché non dispongo dei cavi necessari per verificarne il funzionamento.\n\n🕹️ CONTROLLER\n\n- Controller originale Sony bianco: da testare.\n- Controller originale Sony nero: funzionante, ma presenta drift su entrambi gli analogici, più accentuato sul destro rispetto al sinistro. Manca inoltre una vite.\n- Controller compatibile nero: presenta una parte del manico staccata, tasto R2 allentato e rumore interno.\n\n🎮 GIOCHI\n\n- FIFA 17: funzionante, ottime condizioni.\n- Just Cause 3: custodia danneggiata, funzionante.\n- Need for Speed Rivals: funzionante, ottime condizioni.\n- Ghost Recon Wildlands: funzionante, ma con il supporto interno che trattiene il disco danneggiato.\n- The Last of Us Remastered: funzionante, disco da pulire.\n\n💰 PREZZO TRATTABILE\n\nÈ possibile acquistare l'intero lotto oppure concordare la vendita dei singoli componenti.\n\n⚠️ IMPORTANTE – LEGGERE PRIMA DELL'ACQUISTO\n\nTutti i difetti descritti sono da considerarsi noti e vengono dichiarati in modo trasparente. Si invita a osservare attentamente le fotografie e a leggere la descrizione completa prima di acquistare.\n\nGli oggetti indicati come DA TESTARE vengono venduti senza garanzia sul loro funzionamento, poiché non mi è stato possibile verificarli. Non posso quindi assicurare che funzionino correttamente.\n\nNon accetto resi per difetti già chiaramente descritti nell'annuncio né per il mancato funzionamento di oggetti esplicitamente indicati come da testare, nei limiti consentiti dalle regole della piattaforma e dalla normativa applicabile.\n\n📸 Foto reali degli oggetti in vendita, disponibile a mandare altre foto dei difetti su richiesta.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Console non testata (mancano cavi), 1 controller da testare, 1 controller con drift e senza vite, 1 controller rotto/compatibile, giochi con vari difetti minori (custodie/dischi).",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 95
-  },
-  {
     "id": "10323575905",
     "category": "Console",
     "title": "Nintendo Switch con docking",
@@ -23752,5 +23719,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10380556702",
+    "category": "Console",
+    "title": "Game boy ( non funzionante )",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10380556702-game-boy-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02033_duv5fDpVhNGwaDgJz8G58vQd/310x430/a9c0545f.webp?s=79cb1542b38f0c3f3809f5b4be57936c4ed92932",
+    "addedAt": "2026-10-14T20:24:31.359Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGame boy ( non funzionante )\nBuone·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Game Boy\nCondizioni\nBuone\nCaricato\nProprio adesso\nTitolo: Nintendo Game Boy originale + 7 giochi – Da riparare\n\nVendo Nintendo Game Boy originale giallo, insieme a 7 giochi inclusi.\n\nCondizioni della console:\n\n* La spia rossa si accende, ma lo schermo non mostra immagini.\n* Funzionamento non verificato completamente.\n* Venduto come non funzionante / da riparare.\n* Senza caricatore e senza scatola.\n\nGiochi inclusi:\n\n* Soccer\n* FIFA 97\n* FIFA 98\n* World Circuit Series\n* Tennis\n* DuckTales\n* Dr. Franken II\n\nVendita in blocco preferita. Disponibile anche la vendita dei soli giochi.\n\nPrezzi:\n\n* Game Boy + tutti e 7 i giochi: 65 € trattabili\n* Solo i 7 giochi: 45 €\n* Solo Game Boy da riparare: 15 €\n\nPrezzi trattabili con buon senso. Le condizioni sono quelle descritte nell’annuncio.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La spia rossa si accende ma lo schermo non mostra immagini",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.05
   }
 ]
