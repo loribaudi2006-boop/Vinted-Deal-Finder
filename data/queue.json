@@ -1,20 +1,5 @@
 [
   {
-    "id": "10324912093",
-    "category": "Console",
-    "title": "Nintendo switch sports",
-    "price": 64,
-    "totalPrice": 67.9,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10324912093-nintendo-switch-sports?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00370_86ASDHSpET7UL5UgWtkr43Au/310x430/e1ce401f.webp?s=3d20784aa30f517ed59930903277ad7abc335d1f",
-    "addedAt": "2026-10-10T23:51:40.264Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10325027304",
     "category": "Console",
     "title": "🎮 PS4 avec manette DualShock 4 – Console PlayStation 4",
@@ -23638,5 +23623,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~0.95€, sotto soglia"
+  },
+  {
+    "id": "10381924063",
+    "category": "Console",
+    "title": "Titolo: Xbox One originale nera – non testata",
+    "price": 21.49,
+    "totalPrice": 23.26,
+    "reason": "parola chiave: \"non testata\" + prezzo 79% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10381924063-titolo-xbox-one-originale-nera-non-testata-senza-accessori?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_019c9_wVXyc3d2XeTtEB2BCde9AfjC/310x430/1f772efe.webp?s=efd05f2ac31ff535a9fc274e3bbb166a9b7bb635",
+    "addedAt": "2026-10-14T23:48:10.536Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nTitolo: Xbox One originale nera – non testata, senza accessori\nBuone·Xbox·Caricato un minuto fa\n\n21,49 €\n\n23,26 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox (original)\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo console Microsoft Xbox One originale, colore nero.\n\nLa console è senza accessori e non ho modo di provarla, quindi non conosco il suo stato di funzionamento.\n\nVenduta così com’è, senza alimentatore, cavo HDMI, controller o altri accessori.\n\nIdeale per ricambi, riparazione o per chi vuole provare a recuperarla.\n\nNon posso garantire che funzioni.\n\nVendo esclusivamente la console visibile in foto.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console non testata, senza accessori (alimentatore, cavo HDMI, controller), ideale per ricambi o riparazione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.74
   }
 ]
