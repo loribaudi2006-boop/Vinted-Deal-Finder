@@ -23316,5 +23316,31 @@
     "addedAt": "2026-10-14T05:52:08.406Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10370207062",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10370207062-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02455_E4wvPTMbprR72B2KWcsYEoYx/310x430/b9713002.webp?s=40c38d6db08542f019a728dd25752e31cef899de",
+    "addedAt": "2026-10-14T05:56:17.625Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10370227703",
+    "category": "Console",
+    "title": "Lot PS4 – 2 manettes + 3 jeux vidéo",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 82% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10370227703-lot-ps4-2-manettes-3-jeux-video?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_009e5_xDvUL2fqXZP1daXVq8qA7BjJ/310x430/721e1536.webp?s=79d6cb4bae5f72bb6d82f7e18de643314db9f6ee",
+    "addedAt": "2026-10-14T06:02:32.234Z",
+    "processed": false,
+    "triaged": false
   }
 ]
