@@ -1,23 +1,5 @@
 [
   {
-    "id": "10323976529",
-    "category": "Console",
-    "title": "Lot de jeux  ps4",
-    "price": 36,
-    "totalPrice": 38.5,
-    "reason": "prezzo 72% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10323976529-lot-de-jeux-ps4-xbox-one-ps5-avec-volant-et-manette-de-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00e87_ibkBJm3ePcybhUNhALFFomTz/310x430/da78cde5.webp?s=d2471788f9ea51c02885d2e3f4c5bf387576c6d4",
-    "addedAt": "2026-10-10T21:18:33.838Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot de jeux ps4, xbox one ,ps5 avec volant et manette de Xbox one\nOttime·PlayStation·Caricato 29 min fa\n\n36,00 €\n\n38,50 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n29 min fa\nTrès bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40
-  },
-  {
     "id": "10324134002",
     "category": "Console",
     "title": "Xbox One + controller nero",
@@ -23623,5 +23605,38 @@
     "geminiFault": "piccolo problema con lo sportellino/cache posteriore del dock",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 170
+  },
+  {
+    "id": "10381059896",
+    "category": "Console",
+    "title": "Suporte para PS5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10381059896-suporte-para-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_009a3_ENgpjSQjqRVGJbpXS413WPJ5/310x430/c6a224f3.webp?s=e20f2ed546962b5541cd73cdcf85ec8b419eadb0",
+    "addedAt": "2026-10-14T21:17:33.119Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
+  },
+  {
+    "id": "10381098752",
+    "category": "Console",
+    "title": "Play station con disco non funzionante",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10381098752-play-station-con-disco-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00891_oXCBN7JTno1sJNdBinVR3LaQ/310x430/f82e6cd4.webp?s=fd5713c01c558b53fc79db015e0dd32f983d9ae7",
+    "addedAt": "2026-10-14T21:22:45.318Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlay station con disco non funzionante\nDiscrete·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nVendo play station 4 funzionante ma con disco purtroppo non funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "disco purtroppo non funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
