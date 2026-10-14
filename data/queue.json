@@ -1,23 +1,5 @@
 [
   {
-    "id": "10312184911",
-    "category": "Console",
-    "title": "Nintendo Switch lite",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10312184911-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016d8_RaBbc2C6TY1b2PxdLCGyNpsU/310x430/16d51e99.webp?s=965e03146757a5f7ab0b622c53b73ce45fd299c9",
-    "addedAt": "2026-10-10T07:44:32.042Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch lite\nBuone·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSwitch Lite avec des joystick défectueux. Si la Switch et en très bonne état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joystick difettosi (joystick défectueux), scocca in ottime condizioni",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
     "id": "10312269771",
     "category": "Console",
     "title": "PlayStation 5",
@@ -23474,5 +23456,23 @@
     "geminiFault": "senza joystick",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10370806573",
+    "category": "Console",
+    "title": "PlayStation 4 pro",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10370806573-playstation-4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d2e_azCF76uhr1QSTK6f86M1ZK4v/310x430/3b0a25af.webp?s=30b59ae2f2859d00b07e235ef25661dda7f6d2d0",
+    "addedAt": "2026-10-14T07:49:45.669Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "oli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 pro\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo perché mi sono stancato a vederla nel mobile posso fornire anche diversi giochi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 77.85
   }
 ]
