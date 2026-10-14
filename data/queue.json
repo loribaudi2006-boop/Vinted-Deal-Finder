@@ -1,23 +1,5 @@
 [
   {
-    "id": "10320980587",
-    "category": "Console",
-    "title": "Playstation 4 + 2 mandos y 2 juegos",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10320980587-playstation-4-2-mandos-y-2-juegos?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01d91_e5dkAGtu9NJHCNpSfvpP659o/310x430/0e851862.webp?s=42ae771e4bac4b8c78a759a2d198f38d9eee1e22",
-    "addedAt": "2026-10-10T17:13:56.006Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "sso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 + 2 mandos y 2 juegos\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlaystation 4, 2 mandos y dos juegos ( crash y FIFA 21 )\nEstá en muy buen estado\nLa pegatina que tiene se puede quitar\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 45.05
-  },
-  {
     "id": "10321015337",
     "category": "Console",
     "title": "Ps4 senza controller",
@@ -23246,5 +23228,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.05
+  },
+  {
+    "id": "10377962714",
+    "category": "Console",
+    "title": "Nintendo Switch Zelda",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 90% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10377962714-nintendo-switch-zelda?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0145b_H3U5E4r33RTpkWt9rRut1254/310x430/29b750dc.webp?s=f9823c7084c45b44c30126e7fa09470b3327c333",
+    "addedAt": "2026-10-14T17:05:41.364Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10378035387",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10378035387-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00dd3_Lj1jfoavnWYD6vUFB3TzF3h1/310x430/83b11cb1.webp?s=b0e9c815c678604b57d9e99d82982914d02209c7",
+    "addedAt": "2026-10-14T17:10:54.614Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
