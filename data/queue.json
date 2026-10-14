@@ -23567,5 +23567,20 @@
     "geminiFault": "Molti graffi estetici, un joy-con non originale, assenza di cavi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10371465377",
+    "category": "Console",
+    "title": "Boîte pour console xbox One Series S 512GB SSD Digital",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 90% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10371465377-boite-pour-console-xbox-one-series-s-512gb-ssd-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0208e_v2TnNX3T7eVZXZEhh3bX4c6C/310x430/fb823b52.webp?s=3dd5694dac270fd7dbcf55c79cdbd3ca04d33c25",
+    "addedAt": "2026-10-14T09:02:34.679Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
