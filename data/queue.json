@@ -1,38 +1,5 @@
 [
   {
-    "id": "10311804767",
-    "category": "Console",
-    "title": "Lot console switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10311804767-lot-console-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_006c5_uEmLM2Ho16oNXp7AGyeeYrU8/310x430/ee61d371.webp?s=c51fe58072f467180fc11d99e2f6bf8e123c9cd1",
-    "addedAt": "2026-10-10T06:47:27.623Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "smo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSwitch Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLot console switch\nOttime·Switch·Caricato 13 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandSwitch\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n13 min fa\nJe vends par lot\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 86.8
-  },
-  {
-    "id": "10311813240",
-    "category": "Console",
-    "title": "Gameboy Advance rosa trasparente",
-    "price": 49.9,
-    "totalPrice": 53.1,
-    "reason": "parola chiave: \"difettoso\"",
-    "url": "https://www.vinted.it/items/10311813240-gameboy-advance-rosa-trasparente-interruttore-di-accensione-difettoso?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a1e_zfhxqXKUxSGHTTi2xXn32yS5/310x430/b50a657d.webp?s=cd865187133584265759c3a96aa72b6354aae81a",
-    "addedAt": "2026-10-10T06:48:29.798Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10311839509",
     "category": "Console",
     "title": "PS4 Sony",
@@ -23444,5 +23411,31 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.56
+  },
+  {
+    "id": "10370392239",
+    "category": "Console",
+    "title": "Nintendo switch oled",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 92% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10370392239-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01905_6dUS8Dx1V3x1NkTdLMFAvAiF/310x430/946a7f06.webp?s=621addcecd2854fa978e7f3d85d7035257e049e2",
+    "addedAt": "2026-10-14T06:43:04.364Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10370434319",
+    "category": "Console",
+    "title": "Nintendo Switch Ladestation inklusive Controller",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10370434319-nintendo-switch-ladestation-inklusive-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00935_zUQKMBF8w61PQYpcsW6t98Qi/310x430/08be0df9.webp?s=c7b76f79eec2a341203d1dea3c453d0c070b6b73",
+    "addedAt": "2026-10-14T06:51:23.032Z",
+    "processed": false,
+    "triaged": false
   }
 ]
