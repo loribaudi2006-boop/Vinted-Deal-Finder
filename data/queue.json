@@ -23272,8 +23272,11 @@
     "url": "https://www.vinted.it/items/10370093082-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_024f5_nV55x55n1AdZYP7QCZTvs1Rc/310x430/70781b5a.webp?s=7d4cacaf85e5addb91bcefc65310b934930a2828",
     "addedAt": "2026-10-14T05:16:48.220Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10370162901",
@@ -23285,6 +23288,32 @@
     "url": "https://www.vinted.it/items/10370162901-nintendo-switch-v2-con-accessori?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01ce9_5R7PLmSVZ34pvuQiHWcyUha5/310x430/d216a966.webp?s=e50bd90803bbaa6c2fc04549f2b8293516e806cd",
     "addedAt": "2026-10-14T05:41:44.582Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10370179086",
+    "category": "Console",
+    "title": "Nintendo Switch – Console da gaming con accessori",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10370179086-nintendo-switch-console-da-gaming-con-accessori?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_013eb_LZYHoHhUv7GPkp3PzNWA4QTT/310x430/3ffb15b1.webp?s=70604528c70c158a5410a7dfbd9d372fc06d598d",
+    "addedAt": "2026-10-14T05:46:56.276Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10370007583",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Slim 500GB Console con Controller - Jet Black",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10370007583-sony-playstation-4-slim-500gb-console-con-controller-jet-black?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b40_5758usomqpjXDT24aVu7ugiW/310x430/da64837e.webp?s=d2dc785fc5b42200757a9261545ecef6076b1efd",
+    "addedAt": "2026-10-14T05:52:08.406Z",
     "processed": false,
     "triaged": false
   }
