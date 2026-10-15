@@ -1,53 +1,5 @@
 [
   {
-    "id": "10342149067",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10342149067-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01dba_2sDJbWthVTEBuoDpJC7ASAMg/310x430/2436514b.webp?s=ce36ab6c9743f3b891066df0286d70758cf1747b",
-    "addedAt": "2026-10-11T22:58:47.442Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "obby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·Sony·Caricato 9 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n9 min fa\n🎮 PS4 Slim noire en vente\n\nJe vends ma PS4 Slim noire, elle fonctionne.\n\n✅ Vendue avec câble d’alimentation\n❌ Sans manette\n❌ Sans câble HDMI\n\nLa console fait un peu de bruit en fonctionnement, ce qui peut être normal pour une PS4.\n\nQuelques traces d’usure visibles sur la console.\n\n💰 Prix :\nLa console fonctionne parfaitement\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Console un peu bruyante, traces d'usure, sans manette ni câble HDMI",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.3
-  },
-  {
-    "id": "10342143267",
-    "category": "Console",
-    "title": "PS4 spiele",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10342143267-ps4-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a19_xMK8SjHoeh4YkJe6cy6q47de/310x430/38b8c2bc.webp?s=ad7f5ab317262264660c0d44e69340b37baa2836",
-    "addedAt": "2026-10-11T22:58:47.442Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-42.7€, sotto soglia"
-  },
-  {
-    "id": "10342102137",
-    "category": "Console",
-    "title": "Suporte Comando PS5 em Forma de Sofá Preto Gaming",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10342102137-suporte-comando-ps5-em-forma-de-sofa-preto-gaming?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00137_ELbEkfSsWo7yrNAihJgRTEDR/310x430/5af874d5.webp?s=5dc114cc15f24964a9a5050c967f7d60ae46a69e",
-    "addedAt": "2026-10-11T22:58:47.442Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8€, sotto soglia"
-  },
-  {
     "id": "10342235766",
     "category": "Console",
     "title": "Switch lite",
@@ -22271,5 +22223,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10393817665",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10393817665-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_012ad_egNhySP5bj2K1rmeZUqsephe/310x430/a802b03f.webp?s=973046b9d608f5c4f950078f57a5ababac8131d4",
+    "addedAt": "2026-10-15T22:58:20.462Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
   }
 ]
