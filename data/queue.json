@@ -1,20 +1,5 @@
 [
   {
-    "id": "10326270681",
-    "category": "Console",
-    "title": "PS5 Verpackung!",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10326270681-ps5-verpackung?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01ce5_y3vPvhNWaEksJKjBXN7WRqCQ/310x430/6c660228.webp?s=7c6076ccdd91561edd1951abb16c7cfd27c2e8a4",
-    "addedAt": "2026-10-11T07:03:35.103Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-25€, sotto soglia"
-  },
-  {
     "id": "10326371109",
     "category": "Console",
     "title": "PS4 FAT",
@@ -23631,5 +23616,20 @@
     "geminiFault": "Non testata, manca cavo di alimentazione, manca HDD (disco rigido), graffi e segni d'usura, venduta come non funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10383415584",
+    "category": "Console",
+    "title": "Microsoft Xbox One S.",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10383415584-microsoft-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d50_WGoAHKpGd3YMaSD7XhZ4VL9g/310x430/48c17904.webp?s=9ac73e3b5130288af4629502de9749fb2bbca75f",
+    "addedAt": "2026-10-15T07:06:20.753Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
