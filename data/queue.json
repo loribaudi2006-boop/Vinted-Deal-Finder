@@ -1,41 +1,5 @@
 [
   {
-    "id": "10327572755",
-    "category": "Console",
-    "title": "PS4 Slim",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10327572755-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00758_RcMCN5Y37nqLxYnLnYbQqaF2/310x430/bc346bf6.webp?s=fee2c67a38ca14b80f1af8fc448c8fb3428996b9",
-    "addedAt": "2026-10-11T09:04:11.544Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nohne Controller!!!!\nHdmi und Stromkabel sind vorhanden alle Anschlüsse funktionieren gut.\nKonsole läuft einwandfrei ohne Probleme. Es gibt keine Garantie oder Rückerstattung.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller (ohne Controller)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.05
-  },
-  {
-    "id": "10327628516",
-    "category": "Console",
-    "title": "Ps4 più giochi",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10327628516-ps4-piu-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a9b_y2pk5GXB2Amj5EtwQvoBzYhQ/310x430/ae9509d5.webp?s=0b53beacce0e571dbe8afdf8a8d4dec8facc6b68",
-    "addedAt": "2026-10-11T09:08:21.053Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 più giochi\nOttime·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 completa di cavi e un pad con 5 giochi installati(horizon zero Dawn più dlc, uncharted 1 2 e 3,a king'tale final Fantasy XV) più i 17 giochi in foto\nPrezzo solo console 120\nI giochi fisici da 10 a 20€\nSe acquistato tutto insieme 300€\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 115
-  },
-  {
     "id": "10327709675",
     "category": "Console",
     "title": "Ps4 500gb",
@@ -23343,5 +23307,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.85€, sotto soglia"
+  },
+  {
+    "id": "10384398017",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör für Controller",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10384398017-nintendo-switch-zubehor-fur-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004b0_br6tiaYBb8Mya8JQQNrwnKXh/310x430/eee20eaa.webp?s=a167949cf2a74ff821e84633d6067f35f73ee890",
+    "addedAt": "2026-10-15T09:08:35.676Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.9€, sotto soglia"
   }
 ]
