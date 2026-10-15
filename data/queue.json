@@ -23606,7 +23606,30 @@
     "url": "https://www.vinted.it/items/10383334892-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02392_dfBoVA14UuTQnpuKXNKXADG5/310x430/efdb1d90.webp?s=425a99209b2c3d967c578c63763084f46d336b7b",
     "addedAt": "2026-10-15T06:50:47.000Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato 10 min fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n10 min fa\nps4 dans l’état récupérer chez mon petit neveu elle a toujours fonctionner bien aujourd’hui il m’a dit je l’ai allumer elle a fait un petit bruit elle s’est éteint elle plus plus s’allumer donc je la mis en vente dans l’état cadeau pour les réparateur\nj’ai pas de manette j’ai le calme alimentation et câble hdmi\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "si e' spenta con un piccolo bruit e non si accende piu'",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42
+  },
+  {
+    "id": "10383370920",
+    "category": "Console",
+    "title": "PlayStation 4 pro hs",
+    "price": 49.99,
+    "totalPrice": 53.19,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10383370920-playstation-4-pro-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0205f_rSK2EHoeXLPpSyn3aGDhdW6C/310x430/e2e4e84d.webp?s=c66a6ee4d2ef142997f6b89302e20c04a74ff825",
+    "addedAt": "2026-10-15T06:58:03.205Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 pro hs\nDiscrete·PlayStation·Caricato 3 min fa\n\n49,99 €\n\n53,19 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n3 min fa\nConsole son ps4 pro hs\n\n⚠️\n- Je ne sais pas si elle est fonctionnelle ou non je la vends comme hs car il manque l’alim et je ne l’ai pas pour la tester.\n- manque alim\n- traces et rayures, (voir photos)\n- vendue seule (nue)\n- je ne connais pas l’historique de cette console, vendue comme non fonctionnelle, peut manquer des éléments\n\nCe qui n’est pas inclus❌\n- boite\n- câbles\n- manettes\n- jeux\n- Hdd (disque dur)\n- Notices\n\nVendue en l’état\nEnvoi rapide et soigné 📦\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non testata, manca cavo di alimentazione, manca HDD (disco rigido), graffi e segni d'usura, venduta come non funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
