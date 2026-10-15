@@ -1,35 +1,5 @@
 [
   {
-    "id": "10332250561",
-    "category": "Console",
-    "title": "Console PlayStation 4 Slim + 4 Giochi + 3 Controller (Leggere descr.)",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10332250561-console-playstation-4-slim-4-giochi-3-controller-leggere-descr?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01e32_55T4HsPCzGUyQWpwEgPAKUSs/310x430/b245e2f0.webp?s=f892f520be66ac05cf214d1569b62bcf119fc5d2",
-    "addedAt": "2026-10-11T13:13:43.389Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10332286612",
-    "category": "Console",
-    "title": "Console PlayStation 4 Slim + 4 Giochi + 3 Controller (Leggere descr.)",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10332286612-console-playstation-4-slim-4-giochi-3-controller-leggere-descr?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01e32_55T4HsPCzGUyQWpwEgPAKUSs/310x430/b245e2f0.webp?s=f892f520be66ac05cf214d1569b62bcf119fc5d2",
-    "addedAt": "2026-10-11T13:15:49.866Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10332374381",
     "category": "Console",
     "title": "Sony PlayStation 4",
@@ -22560,5 +22530,38 @@
     "geminiFault": "Bouton d’allumage sur la ps4 enfoncé mais marche quand même",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.55
+  },
+  {
+    "id": "10387163711",
+    "category": "Console",
+    "title": "NintendoDas Bild zeigt ein Zubehör-Set für die Nintendo Switch",
+    "price": 11,
+    "totalPrice": 12.25,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10387163711-nintendodas-bild-zeigt-ein-zubehor-set-fur-die-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ef7_wvhZcgWDsHBZHNPHzGQnG8Kv/310x430/b5217dbd.webp?s=d41204fef92ffdf3c56ec5a9854ceda924d11167",
+    "addedAt": "2026-10-15T13:11:28.785Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4.5€, sotto soglia"
+  },
+  {
+    "id": "10387222626",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10387222626-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026bb_jmrGSoshhyLBF2fk3yXEit8e/310x430/661f5e00.webp?s=60292dce98d7958e51b21f51193731cecd295527",
+    "addedAt": "2026-10-15T13:16:39.868Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nSolo console\nNo joystick\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Solo console, no joystick",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
