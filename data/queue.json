@@ -23475,8 +23475,11 @@
     "url": "https://www.vinted.it/items/10383130377-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01f4f_vowCAyfNjvnRHF3V3reszXPx/310x430/b91b9eab.webp?s=134a26bd69c070cb89536626ca4e85815ab09c23",
     "addedAt": "2026-10-15T05:58:49.210Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10383135480",
@@ -23488,8 +23491,11 @@
     "url": "https://www.vinted.it/items/10383135480-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c13_BNH5Y3VSF4mdMmwBK2iZNvDf/310x430/71ef66b4.webp?s=9c5479d49b956435c3fac4c905f16f0579fe45ea",
     "addedAt": "2026-10-15T06:00:53.973Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10383213219",
