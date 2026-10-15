@@ -1,21 +1,5 @@
 [
   {
-    "id": "10326040801",
-    "category": "Console",
-    "title": "Kit console Nintendo switch 2",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10326040801-kit-console-nintendo-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00437_QodRRLn6mRz8x1hApeS9R1JS/310x430/d4c39e61.webp?s=10434b57f13a1dcbae74fc7425f2391ddd2670e0",
-    "addedAt": "2026-10-11T06:13:42.444Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10326270681",
     "category": "Console",
     "title": "PS5 Verpackung!",
@@ -23504,6 +23488,19 @@
     "url": "https://www.vinted.it/items/10383135480-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c13_BNH5Y3VSF4mdMmwBK2iZNvDf/310x430/71ef66b4.webp?s=9c5479d49b956435c3fac4c905f16f0579fe45ea",
     "addedAt": "2026-10-15T06:00:53.973Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10383213219",
+    "category": "Console",
+    "title": "PlayStation 4 con cavi",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10383213219-playstation-4-con-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0007d_jUtcjeER8hzHyUJZAWBYfLbg/310x430/5d8744bf.webp?s=d862e9700a178417b4b06eab2e08b9160b699ef6",
+    "addedAt": "2026-10-15T06:22:42.770Z",
     "processed": false,
     "triaged": false
   }
