@@ -22551,5 +22551,53 @@
     "geminiFault": "Molto rumorosa, si surriscalda in ambienti caldi, presenza di polvere",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10389826378",
+    "category": "Console",
+    "title": "Switch",
+    "price": 4,
+    "totalPrice": 4.9,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10389826378-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00dbb_JVwvZ6dmCHHspVmN3TB8aDw9/310x430/b7c13af6.webp?s=5c751f4ee14df536ebfabc07d4129a6646689741",
+    "addedAt": "2026-10-15T16:29:04.257Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n4,00 €\n\n4,90 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nMarche très bien\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 135.1
+  },
+  {
+    "id": "10389896876",
+    "category": "Console",
+    "title": "Mario kart live macchina radio telecomandata Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10389896876-mario-kart-live-macchina-radio-telecomandata-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ae4_zVg8aVed2ds4AbVZWbnVPehT/310x430/16b944d3.webp?s=dfd4184af9ba86ba9670dabedf646063b181f856",
+    "addedAt": "2026-10-15T16:34:16.086Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-23.7€, sotto soglia"
+  },
+  {
+    "id": "10389922948",
+    "category": "Console",
+    "title": "Support switch",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10389922948-support-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01702_bn8yUUqJpQFny7eteCv2Fpbt/310x430/8da94dca.webp?s=b9cfcf9b0ee800474c0c5e49a45a3923b5c1447b",
+    "addedAt": "2026-10-15T16:36:20.709Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13€, sotto soglia"
   }
 ]
