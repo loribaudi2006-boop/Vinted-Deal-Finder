@@ -23641,5 +23641,20 @@
     "geminiFault": "Console non testata, senza accessori (alimentatore, cavo HDMI, controller), ideale per ricambi o riparazione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.74
+  },
+  {
+    "id": "10381981091",
+    "category": "Console",
+    "title": "Nintendo Ds Lite (Pennino e scatola mancante",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "parola chiave: \"manca\"",
+    "url": "https://www.vinted.it/items/10381981091-nintendo-ds-lite-pennino-e-scatola-mancante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00651_rBm8CeC2HerccEXAM2tR5ixA/310x430/e02864f3.webp?s=c05d1997710167eb2a1c6094fdf22b440420d25d",
+    "addedAt": "2026-10-15T00:01:40.595Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.05€, sotto soglia"
   }
 ]
