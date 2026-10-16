@@ -20929,5 +20929,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10405733469",
+    "category": "Console",
+    "title": "Ventilador refrigerante para ps4",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10405733469-ventilador-refrigerante-para-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01b9e_6GyB69QbEHEMepvg7z65cD12/310x430/a014879b.webp?s=d360d69bb7196726eaa617f856d536e9d943f01a",
+    "addedAt": "2026-10-16T23:29:34.091Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
   }
 ]
