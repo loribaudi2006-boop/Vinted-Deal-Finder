@@ -1,20 +1,5 @@
 [
   {
-    "id": "10344637882",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10344637882-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0178f_p3tRW7z9Frve5rNVEwBqTcRh/310x430/d0ee48d2.webp?s=21796f6ff505d4c4b5c89488c9d3d05a47ebeb8e",
-    "addedAt": "2026-10-12T08:37:49.887Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-27.45€, sotto soglia"
-  },
-  {
     "id": "10344721090",
     "category": "Console",
     "title": "Nintendo NES Mattel con cavi",
@@ -22396,5 +22381,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~11.8€, sotto soglia"
+  },
+  {
+    "id": "10396244480",
+    "category": "Console",
+    "title": "Kit de repuestos Nintendo Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10396244480-kit-de-repuestos-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006fd_Xx7m9ykcweoLqENga3rsyU9A/310x430/965b0219.webp?s=c74f97feb27a6c3bc3dda475b5b92e4d44b5c8e8",
+    "addedAt": "2026-10-16T08:43:31.224Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
