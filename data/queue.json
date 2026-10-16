@@ -1,21 +1,5 @@
 [
   {
-    "id": "10343635053",
-    "category": "Console",
-    "title": "Ps4+gta5",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10343635053-ps4gta5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00688_yt3evBz6LKQaTFi8REqqfVe6/310x430/7cd5ab8b.webp?s=41921453c524924e76d6d53b2fa00fd4dd8d171b",
-    "addedAt": "2026-10-12T05:52:25.819Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10343690364",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22349,8 +22333,11 @@
     "url": "https://www.vinted.it/items/10395106635-ps4-slim-500gbpara-pecasavaria?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015fa_nuWjvwguWLdYYWnzQA7VWgBa/310x430/fb790fc1.webp?s=4653b48a0f14a84638136d6f7b7b6294d59d5c7f",
     "addedAt": "2026-10-16T05:17:20.946Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10395145970",
