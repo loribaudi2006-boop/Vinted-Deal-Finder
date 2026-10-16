@@ -20914,5 +20914,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-27.45€, sotto soglia"
+  },
+  {
+    "id": "10405576820",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10405576820-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02086_95NHC23VQ51NSwsTd5efDQv2/310x430/1b5271ff.webp?s=fde7e190f26a46b22eb85b17fa40658d6a2f3200",
+    "addedAt": "2026-10-16T22:55:19.663Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
