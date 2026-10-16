@@ -22274,5 +22274,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.85
+  },
+  {
+    "id": "10394555517",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10394555517-playstation-4-mit-ladestation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01467_tYBCzP1DXA6M38jEjyYmy5qV/310x430/d94bb5f4.webp?s=4086ae02988f1ce3c035c2e42f45972f920610f3",
+    "addedAt": "2026-10-16T01:53:32.383Z",
+    "processed": false,
+    "triaged": false
   }
 ]
