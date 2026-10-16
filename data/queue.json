@@ -20997,7 +20997,24 @@
     "url": "https://www.vinted.it/items/10405044051-nintendo-switch-accessories?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02079_YLezkkijgZLFh8Ufzc97b8T3/310x430/a0e40d81.webp?s=0b3f6aadfcd8dcb4c4eedc380bead44e8ee3c739",
     "addedAt": "2026-10-16T21:24:41.326Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10405095234",
+    "category": "Console",
+    "title": "Ps4  militaire",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10405095234-ps4-militaire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00689_vK4DTrK3z1WXeoWZ6scooiz2/310x430/79010a75.webp?s=5c42e997dd8af0047017809b0913d7b89ff13e7d",
+    "addedAt": "2026-10-16T21:31:57.589Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
