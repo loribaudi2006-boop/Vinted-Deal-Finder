@@ -1,35 +1,5 @@
 [
   {
-    "id": "10344834128",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 62.5,
-    "totalPrice": 66.33,
-    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10344834128-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01b8c_Y1NwKcVLtfAQxcDEjG75WVmQ/310x430/d977de61.webp?s=492b80860960aeadb559570bd2e2dfe8d095030e",
-    "addedAt": "2026-10-12T08:55:29.923Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10344911480",
-    "category": "Console",
-    "title": "Switch 2 Dock",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10344911480-switch-2-dock?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00c74_KLsUYsJASXxHWRRgRvBC5m9Q/310x430/48a0ec4a.webp?s=54d28a25903a34cb3f6552e5ef3edec2a97d4565",
-    "addedAt": "2026-10-12T09:02:46.273Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5€, sotto soglia"
-  },
-  {
     "id": "10344983144",
     "category": "Console",
     "title": "Ps4 slim",
@@ -22392,7 +22362,9 @@
     "url": "https://www.vinted.it/items/10396341359-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b11_ecGuYdpSuZT8GBAdTxDtiA63/310x430/4ef7e3b5.webp?s=258be7ed3a5a71be736bddf7e7e2f3f4ec63fb9a",
     "addedAt": "2026-10-16T08:54:02.596Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.85€, sotto soglia"
   }
 ]
