@@ -22347,7 +22347,45 @@
     "url": "https://www.vinted.it/items/10395363051-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00259_GfRraVhcZbGHv7W8aGJBaokc/310x430/8576e2c1.webp?s=f9aa7e7953a2c8ac50702050639a0daf767aec7b",
     "addedAt": "2026-10-16T06:36:02.166Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nNuovo senza cartellino·PlayStation·Caricato 25 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n25 min fa\nPer il prezzo contattatemi in privato. 100% funziona\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 68.25
+  },
+  {
+    "id": "10395457935",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10395457935-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0070d_ssYiU7d5rrPWLU9jjwuZRja9/310x430/0e845d7b.webp?s=1e77aba5173c6ac7989dab342cc5425097a4ad5a",
+    "addedAt": "2026-10-16T06:55:44.682Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato 5 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 min fa\nCHIAMARE IL NUMERO IN FOTO GRAZIE\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 130
+  },
+  {
+    "id": "10395497039",
+    "category": "Console",
+    "title": "PS5 Slim Disc Faceplates Cover Holzoptik Holz",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10395497039-ps5-slim-disc-faceplates-cover-holzoptik-holz?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01e8c_ERtxgAEMQNvTzJ9JjZ62n7NE/310x430/ca3d055c.webp?s=f32cb1126af0daab5b9b09ff54d8db0e84d04078",
+    "addedAt": "2026-10-16T07:02:59.171Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
   }
 ]
