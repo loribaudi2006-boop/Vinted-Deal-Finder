@@ -1,21 +1,5 @@
 [
   {
-    "id": "10343690364",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10343690364-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_002db_XKbGRxmCbGy1Dy7AyDDaZSq1/310x430/5bd73262.webp?s=00bcc8a2faed1420dc299a746bd24f8dd175554a",
-    "addedAt": "2026-10-12T06:11:08.541Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10343730269",
     "category": "Console",
     "title": "Xbox One s",
@@ -22381,6 +22365,22 @@
     "url": "https://www.vinted.it/items/10395177051-switch-lite-bleu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00340_1RbufhiiYnunHZbUBKy2jqRj/310x430/ba78bd2a.webp?s=8d34f48ef2d86e5e1f044044138e81dd072cad97",
     "addedAt": "2026-10-16T05:43:15.701Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10395252709",
+    "category": "Console",
+    "title": "Xbox one 500go avec manette et câble",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10395252709-xbox-one-500go-avec-manette-et-cable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01220_qtihTLQmArbdZPBmK3FPAZvC/310x430/44c20a14.webp?s=f25b3943582c14b4c85bfb8cba0bf62447b874a1",
+    "addedAt": "2026-10-16T06:08:05.206Z",
     "processed": false,
     "triaged": false
   }
