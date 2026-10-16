@@ -1,20 +1,5 @@
 [
   {
-    "id": "10343730269",
-    "category": "Console",
-    "title": "Xbox One s",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10343730269-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b11_wRDWQCFjMPzkstC8Z9m6pRvb/310x430/1a7cf6d1.webp?s=1981ea358e0d5ba67ed229eb634eaf6625edf82a",
-    "addedAt": "2026-10-12T06:22:37.723Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10343749446",
     "category": "Console",
     "title": "Switch Lite rose",
@@ -22381,6 +22366,45 @@
     "url": "https://www.vinted.it/items/10395252709-xbox-one-500go-avec-manette-et-cable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01220_qtihTLQmArbdZPBmK3FPAZvC/310x430/44c20a14.webp?s=f25b3943582c14b4c85bfb8cba0bf62447b874a1",
     "addedAt": "2026-10-16T06:08:05.206Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395284632",
+    "category": "Console",
+    "title": "Konvolut für Nintendo Switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10395284632-konvolut-fur-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00651_aCKag7Yj6uibXnkKa4WZnhrX/310x430/b4acc930.webp?s=ca84ebaad525cab0ef36f8352b29508a3969a1cb",
+    "addedAt": "2026-10-16T06:16:21.250Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395292191",
+    "category": "Console",
+    "title": "Nintendo switch 1 console seule",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10395292191-nintendo-switch-1-console-seule?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e4e_YAu1z6bxNbyYy1amzaeNAFfd/310x430/079c0194.webp?s=4b54d69adaf41b80b9372ab4f9cfcf7b29d8f481",
+    "addedAt": "2026-10-16T06:18:25.069Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395307895",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10395307895-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00087_TnhMVnNE2DAtgZmc3sbJL7Rc/310x430/666c24fd.webp?s=de9ffda0ea426ee1aaa35afbe59b04bd1ac5b49d",
+    "addedAt": "2026-10-16T06:22:33.893Z",
     "processed": false,
     "triaged": false
   }
