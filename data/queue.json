@@ -1,20 +1,5 @@
 [
   {
-    "id": "10344041567",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10344041567-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01bb2_wGR6o9veMaVKEJ161zchx66V/310x430/7d286a73.webp?s=16dd27c7a5a7eaeea7c2174665fd827dbcc396bd",
-    "addedAt": "2026-10-12T07:25:00.062Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10344219131",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22273,5 +22258,20 @@
     "geminiFault": "Micro tracce sullo schermo completamente invisibili quando acceso, senza accessori",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10395666135",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10395666135-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_020e9_uhLgUcoiTp4fi9N7iBJUH4m3/310x430/128661d6.webp?s=6753a97f509c6ae6a80c1ed1a282805800ceec78",
+    "addedAt": "2026-10-16T07:32:00.361Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.8€, sotto soglia"
   }
 ]
