@@ -22364,5 +22364,31 @@
     "addedAt": "2026-10-16T05:17:20.946Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10395145970",
+    "category": "Console",
+    "title": "Nintendo switch con giochi",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10395145970-nintendo-switch-con-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00617_tnEQmJaJ3R4WfSvcX2RQvW1T/310x430/df7fb7ef.webp?s=bc975d8ce916949ad698cc20e97be6dbb153acf9",
+    "addedAt": "2026-10-16T05:32:54.326Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395148443",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10395148443-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00f69_w8nTBM5oK4XnCR5D7JQxJ4h5/310x430/9e509cfb.webp?s=babce0415800b8abf568850436cd275032469575",
+    "addedAt": "2026-10-16T05:33:56.265Z",
+    "processed": false,
+    "triaged": false
   }
 ]
