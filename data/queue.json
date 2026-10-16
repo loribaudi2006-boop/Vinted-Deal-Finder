@@ -20956,5 +20956,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 338.25
+  },
+  {
+    "id": "10405010664",
+    "category": "Console",
+    "title": "PS4 pas chère  avec 7 jeux",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10405010664-ps4-pas-chere-avec-7-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01568_DBk14tNwttzkVxDufSvmuBWa/310x430/204974d9.webp?s=9790a5423f421a11be6169d2719b51a36b175b3b",
+    "addedAt": "2026-10-16T21:20:31.842Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10405019599",
+    "category": "Console",
+    "title": "Vends PS4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10405019599-vends-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02543_PNZahbP7uRB4bAqDfBgnsjoH/310x430/46589ad5.webp?s=cfc0b53702e0380b08aef3eb820f0ca7d1d97a6f",
+    "addedAt": "2026-10-16T21:21:34.909Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10405044051",
+    "category": "Console",
+    "title": "Nintendo switch accessories",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10405044051-nintendo-switch-accessories?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02079_YLezkkijgZLFh8Ufzc97b8T3/310x430/a0e40d81.webp?s=0b3f6aadfcd8dcb4c4eedc380bead44e8ee3c739",
+    "addedAt": "2026-10-16T21:24:41.326Z",
+    "processed": false,
+    "triaged": false
   }
 ]
