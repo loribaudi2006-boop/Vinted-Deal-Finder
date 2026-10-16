@@ -22301,7 +22301,10 @@
     "url": "https://www.vinted.it/items/10393656331-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00370_1JtTJdMUyFzQdvGFG76uibqT/310x430/d376a14e.webp?s=a5ab6d111549d313ad769314f0d4d9c1e8f43799",
     "addedAt": "2026-10-16T03:44:12.300Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
