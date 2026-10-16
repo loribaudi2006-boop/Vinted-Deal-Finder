@@ -1,35 +1,5 @@
 [
   {
-    "id": "10343794387",
-    "category": "Console",
-    "title": "Vendo borsa porta PS4+ base per caricare i joystick",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10343794387-vendo-borsa-porta-ps4-base-per-caricare-i-joystick?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0191b_dGAX3vMoaM1dxyWKhCkzjXq7/310x430/c519f8ba.webp?s=77e5b8f4d975dc4c5849ad2a74950aeb9ab3fa1a",
-    "addedAt": "2026-10-12T06:39:15.241Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-22.7€, sotto soglia"
-  },
-  {
-    "id": "10343815062",
-    "category": "Console",
-    "title": "PlayStation 4 Pro 1TB",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10343815062-playstation-4-pro-1tb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00de6_CmbGJpiDtjXnkL6ya4iGgzke/310x430/3277e5e8.webp?s=1ef6c86ae38ad8b231eda03c5f951d1aa0d5db0d",
-    "addedAt": "2026-10-12T06:43:24.958Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10343842070",
     "category": "Console",
     "title": "Ps4 noir",
@@ -22331,8 +22301,11 @@
     "url": "https://www.vinted.it/items/10395252709-xbox-one-500go-avec-manette-et-cable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01220_qtihTLQmArbdZPBmK3FPAZvC/310x430/44c20a14.webp?s=f25b3943582c14b4c85bfb8cba0bf62447b874a1",
     "addedAt": "2026-10-16T06:08:05.206Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10395284632",
@@ -22370,6 +22343,19 @@
     "url": "https://www.vinted.it/items/10395307895-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00087_TnhMVnNE2DAtgZmc3sbJL7Rc/310x430/666c24fd.webp?s=de9ffda0ea426ee1aaa35afbe59b04bd1ac5b49d",
     "addedAt": "2026-10-16T06:22:33.893Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395363051",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10395363051-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00259_GfRraVhcZbGHv7W8aGJBaokc/310x430/8576e2c1.webp?s=f9aa7e7953a2c8ac50702050639a0daf767aec7b",
+    "addedAt": "2026-10-16T06:36:02.166Z",
     "processed": false,
     "triaged": false
   }
