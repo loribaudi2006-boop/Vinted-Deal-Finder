@@ -22317,8 +22317,11 @@
     "url": "https://www.vinted.it/items/10395040552-ps4-avec-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_009fb_bnkJ7hfg61FTggueZDuRJ2YT/310x430/51990383.webp?s=28e0f89d93d495b31e2e5ed7a75493471f257466",
     "addedAt": "2026-10-16T04:49:25.674Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10395042646",
@@ -22330,8 +22333,11 @@
     "url": "https://www.vinted.it/items/10395042646-ps5-personnalise?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01c9a_AumeDQyNKSBT7on2XiyT1pMm/310x430/8a82265d.webp?s=6186bf09d82d6538487034a7e7aecf1528edd858",
     "addedAt": "2026-10-16T04:50:27.618Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10395079988",
@@ -22343,6 +22349,19 @@
     "url": "https://www.vinted.it/items/10395079988-ps4-slim-500gbpara-pecasavaria?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015fa_nuWjvwguWLdYYWnzQA7VWgBa/310x430/fb790fc1.webp?s=4653b48a0f14a84638136d6f7b7b6294d59d5c7f",
     "addedAt": "2026-10-16T05:05:57.904Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395106635",
+    "category": "Console",
+    "title": "PS4 Slim 500GB(Para peças/Avaria)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10395106635-ps4-slim-500gbpara-pecasavaria?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_015fa_nuWjvwguWLdYYWnzQA7VWgBa/310x430/fb790fc1.webp?s=4653b48a0f14a84638136d6f7b7b6294d59d5c7f",
+    "addedAt": "2026-10-16T05:17:20.946Z",
     "processed": false,
     "triaged": false
   }
