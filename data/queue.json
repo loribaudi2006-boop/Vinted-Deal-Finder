@@ -22349,8 +22349,11 @@
     "url": "https://www.vinted.it/items/10395145970-nintendo-switch-con-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00617_tnEQmJaJ3R4WfSvcX2RQvW1T/310x430/df7fb7ef.webp?s=bc975d8ce916949ad698cc20e97be6dbb153acf9",
     "addedAt": "2026-10-16T05:32:54.326Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10395148443",
@@ -22362,8 +22365,11 @@
     "url": "https://www.vinted.it/items/10395148443-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00f69_w8nTBM5oK4XnCR5D7JQxJ4h5/310x430/9e509cfb.webp?s=babce0415800b8abf568850436cd275032469575",
     "addedAt": "2026-10-16T05:33:56.265Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10395177051",
