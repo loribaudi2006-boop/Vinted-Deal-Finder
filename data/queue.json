@@ -22306,5 +22306,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10395040552",
+    "category": "Console",
+    "title": "PS4 avec Manette",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10395040552-ps4-avec-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_009fb_bnkJ7hfg61FTggueZDuRJ2YT/310x430/51990383.webp?s=28e0f89d93d495b31e2e5ed7a75493471f257466",
+    "addedAt": "2026-10-16T04:49:25.674Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10395042646",
+    "category": "Console",
+    "title": "Ps5 personnalisé",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10395042646-ps5-personnalise?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c9a_AumeDQyNKSBT7on2XiyT1pMm/310x430/8a82265d.webp?s=6186bf09d82d6538487034a7e7aecf1528edd858",
+    "addedAt": "2026-10-16T04:50:27.618Z",
+    "processed": false,
+    "triaged": false
   }
 ]
