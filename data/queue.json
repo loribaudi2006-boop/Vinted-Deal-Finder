@@ -1,37 +1,5 @@
 [
   {
-    "id": "10357424210",
-    "category": "Console",
-    "title": "PlayStation 4 ( Lisez bien la description)",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10357424210-playstation-4-lisez-bien-la-description?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_008c9_h6TryBPgEvFyzs2f4FXFz718/310x430/89bf4de9.webp?s=5dff1a59fc9d27deb992b325d480d2a6efd265f1",
-    "addedAt": "2026-10-13T06:13:44.503Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10357456383",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10357456383-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0217f_hgtkHXzf9dgNeHc8TFK5UjGc/310x430/877d8dd9.webp?s=ad8d3db1f58083f1e5db0d8be6c80fce0d9b410e",
-    "addedAt": "2026-10-13T06:14:47.199Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10357633649",
     "category": "Console",
     "title": "Xbox one s",
@@ -20943,6 +20911,19 @@
     "url": "https://www.vinted.it/items/10406953581-xbox-360-fat-falcon-20gb-per-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00dd7_Q1ynWSnSVDCsF47eayeajmVB/310x430/35871e1c.webp?s=854dfe4c9a7e64ef1988e815ee8ca7669e112deb",
     "addedAt": "2026-10-17T06:11:38.455Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10406980618",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10406980618-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0177a_FPUKohReodNTuV6dqukKQixf/310x430/d7283523.webp?s=9144191c195b0fa57e61be1d3e1224499df3b4b5",
+    "addedAt": "2026-10-17T06:18:54.731Z",
     "processed": false,
     "triaged": false
   }
