@@ -21340,5 +21340,20 @@
     "geminiFault": "Bloquée sur le contrôle parental, non modifiable, vendue pour pièces ou à réparer",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10418820613",
+    "category": "Console",
+    "title": "Écran de Nintendo Switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10418820613-ecran-de-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_001bb_CcKCSF3QqPCCM2kW5iCRrW26/310x430/313adaa9.webp?s=74407ff0e03be6d44d11209075dc2c21e8c77244",
+    "addedAt": "2026-10-17T20:43:01.911Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
   }
 ]
