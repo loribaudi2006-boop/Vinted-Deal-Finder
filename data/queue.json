@@ -20991,7 +20991,10 @@
     "url": "https://www.vinted.it/items/10406382586-lettore-ps4-fat-lente-rotta?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_012a2_s6bCG5t6BHizQ34mq1A7S3dC/310x430/95805e07.webp?s=24bc655c96bfcfb8ce1b892e01714a8e27c7e08f",
     "addedAt": "2026-10-17T02:26:02.855Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
