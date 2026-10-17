@@ -21511,5 +21511,20 @@
     "geminiFault": "2 controller un po' difettosi (uno comunque in ottime condizioni)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10419249138",
+    "category": "Console",
+    "title": "Carte mere ps4 hs",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10419249138-carte-mere-ps4-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004c3_FKZW5Enj1HaQvXLN5mBf7uPs/310x430/b73baf2b.webp?s=bd4e02991ba44675c6fe88b7e5457a448466f858",
+    "addedAt": "2026-10-17T21:29:44.192Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-38.95€, sotto soglia"
   }
 ]
