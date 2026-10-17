@@ -21337,5 +21337,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10417361532",
+    "category": "Console",
+    "title": "Console ps4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10417361532-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_001ba_2AuUtmJWubUa2YN5rCWBoKwM/310x430/f0d650bc.webp?s=e3e6ee28955e4127d512b6bdedafab7526c012c8",
+    "addedAt": "2026-10-17T18:40:56.719Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10417419826",
+    "category": "Console",
+    "title": "Xbox One X",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10417419826-xbox-one-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00909_4ujVaJQ5Gm7BE8rzT8R3oLFE/310x430/01e0a34c.webp?s=411dc33e491fdaffffc74ac0626232259b48d11c",
+    "addedAt": "2026-10-17T18:45:04.811Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One X\nBuone·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nProprio adesso\nBonjour\nJe mets en vente cette Xbox One X en très bon état esthétique général, propre et bien entretenue. \n\n🔌 Inclus dans la vente :\nLa console Xbox One X (1 To) \nSon câble d'alimentation d'origine \n\n⚠️ À NOTER (IMPORTANT) :\nLa console s'allume et est fonctionnelle, mais lorsqu'on la connecte à la télévision avec un câble HDMI, aucun signal / aucun retour n'apparaît à l'écran. Il s'agit probablement d'un problème lié au port HDMI ou à la puce d'affichage (HDD/HDMI transmitter).\nElle est donc vendue en l’état pour un connaisseur, quelqu’un qui saura la réparer ou pour un bricoleur\nPour plus de renseignements/informations ou pour plus de photos, veuillez me contacter ☺️\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La console si accende ma non dà segnale video via HDMI (possibile problema alla porta HDMI o al chip Panasonic di trasmissione video)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
