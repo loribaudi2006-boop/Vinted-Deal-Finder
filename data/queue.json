@@ -21517,5 +21517,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-0.1€, sotto soglia"
+  },
+  {
+    "id": "10419480414",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10419480414-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_000b8_k5TPb8JFoBbmGEamSixNQSPK/310x430/c76ec14d.webp?s=2f171db2783266f0eeaecbe828b63abcacde4a68",
+    "addedAt": "2026-10-17T21:58:41.452Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlaystation 4\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.85
+  },
+  {
+    "id": "10419543619",
+    "category": "Console",
+    "title": "Ps4 pour pièce",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10419543619-ps4-pour-piece?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00361_hwHVtGpbBRETKZyVZEianLqk/310x430/e6f24222.webp?s=dfb254df8e5e92bf0dbe13d7648c51adaea76ebb",
+    "addedAt": "2026-10-17T22:07:59.823Z",
+    "processed": false,
+    "triaged": false
   }
 ]
