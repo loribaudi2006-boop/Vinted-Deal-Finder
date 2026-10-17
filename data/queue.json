@@ -21546,7 +21546,9 @@
     "url": "https://www.vinted.it/items/10419543619-ps4-pour-piece?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00361_hwHVtGpbBRETKZyVZEianLqk/310x430/e6f24222.webp?s=dfb254df8e5e92bf0dbe13d7648c51adaea76ebb",
     "addedAt": "2026-10-17T22:07:59.823Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.8€, sotto soglia"
   }
 ]
