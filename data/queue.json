@@ -20932,5 +20932,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10406953581",
+    "category": "Console",
+    "title": "Xbox 360 FAT Falcon 20GB Per Ricambi",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10406953581-xbox-360-fat-falcon-20gb-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00dd7_Q1ynWSnSVDCsF47eayeajmVB/310x430/35871e1c.webp?s=854dfe4c9a7e64ef1988e815ee8ca7669e112deb",
+    "addedAt": "2026-10-17T06:11:38.455Z",
+    "processed": false,
+    "triaged": false
   }
 ]
