@@ -21034,5 +21034,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 75.3
+  },
+  {
+    "id": "10408615436",
+    "category": "Console",
+    "title": "PS4 mit 3 Controllern",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10408615436-ps4-mit-3-controllern?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003e6_fvp7oCNVCBDGrk2hFV7sTPGm/310x430/9ef6468e.webp?s=1a8a3a58d9f7c4e9ce3f7e043b792d374c58062d",
+    "addedAt": "2026-10-17T09:27:08.174Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 mit 3 Controllern\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. Vinted fee\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nSehr eingestaubt aber geht noch gut\nSpedizione\nda 10,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sehr eingestaubt aber geht noch gut",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.05
+  },
+  {
+    "id": "10407591451",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10407591451-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01775_F8wTN4cpe9bTNSbmRALXsJA9/310x430/b877ef7a.webp?s=d21887349282f8ab58cbd7b03f4b35fe32cff8f6",
+    "addedAt": "2026-10-17T09:31:17.393Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
   }
 ]
