@@ -20911,8 +20911,11 @@
     "url": "https://www.vinted.it/items/10406953581-xbox-360-fat-falcon-20gb-per-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00dd7_Q1ynWSnSVDCsF47eayeajmVB/310x430/35871e1c.webp?s=854dfe4c9a7e64ef1988e815ee8ca7669e112deb",
     "addedAt": "2026-10-17T06:11:38.455Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10406980618",
@@ -20924,6 +20927,19 @@
     "url": "https://www.vinted.it/items/10406980618-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0177a_FPUKohReodNTuV6dqukKQixf/310x430/d7283523.webp?s=9144191c195b0fa57e61be1d3e1224499df3b4b5",
     "addedAt": "2026-10-17T06:18:54.731Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10407073158",
+    "category": "Console",
+    "title": "Xbox One s",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10407073158-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02448_t6ZJooHNhEXa29vbnD6Uwm5C/310x430/fe273a92.webp?s=b526fd3ef330d1958fdfea447f8885aee98ef013",
+    "addedAt": "2026-10-17T06:40:44.141Z",
     "processed": false,
     "triaged": false
   }
