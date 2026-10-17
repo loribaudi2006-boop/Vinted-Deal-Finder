@@ -20927,8 +20927,11 @@
     "url": "https://www.vinted.it/items/10406980618-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0177a_FPUKohReodNTuV6dqukKQixf/310x430/d7283523.webp?s=9144191c195b0fa57e61be1d3e1224499df3b4b5",
     "addedAt": "2026-10-17T06:18:54.731Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10407073158",
@@ -20940,6 +20943,45 @@
     "url": "https://www.vinted.it/items/10407073158-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02448_t6ZJooHNhEXa29vbnD6Uwm5C/310x430/fe273a92.webp?s=b526fd3ef330d1958fdfea447f8885aee98ef013",
     "addedAt": "2026-10-17T06:40:44.141Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10407082407",
+    "category": "Console",
+    "title": "Xbox One Fat Bianca",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10407082407-xbox-one-fat-bianca?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01758_SaoaLQzu5XGTnNDha7TE2vQ8/310x430/939ad5aa.webp?s=e41b10002781a28c801f546e16ec5065b3cea143",
+    "addedAt": "2026-10-17T06:42:48.766Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10407101380",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10407101380-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00566_Z4e56vBHUPhWM6wX7xeKBUnq/310x430/7543f6a4.webp?s=3bc4b9f1c01350f52605885cfbfe2ee82693eb47",
+    "addedAt": "2026-10-17T06:46:58.357Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10407127670",
+    "category": "Console",
+    "title": "console ps4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10407127670-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01dfa_qKjNzop2KmCjicMpoYaqzFqY/310x430/a42ed03d.webp?s=1cd4a7836737f1e64e9e6520a5e3b6148b495695",
+    "addedAt": "2026-10-17T06:52:10.437Z",
     "processed": false,
     "triaged": false
   }
