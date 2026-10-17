@@ -1,23 +1,5 @@
 [
   {
-    "id": "10358215299",
-    "category": "Console",
-    "title": "Nintendo switch turquesa",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10358215299-nintendo-switch-turquesa?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00ba4_6P1pujA4jNLX5RszBH93Vn2m/310x430/e6724b2d.webp?s=70f37a7b37faea0a7875f27819884321db0b5180",
-    "addedAt": "2026-10-13T08:19:18.871Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "osso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch turquesa\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nVendo Nintendo switch color turquesa sin apenas uso se la compré a mi hijo y no la hace mucho caso , está sin apenas uso, viene con su cargador original regalo juego FIFA 20.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.3
-  },
-  {
     "id": "10358256451",
     "category": "Console",
     "title": "Vendo ps4",
@@ -21039,8 +21021,13 @@
     "url": "https://www.vinted.it/items/10407724254-defekte-playstation-4-slim-konsole?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b84_5LdgsdHoQq83FTbZdMdwdE9f/310x430/5c63f377.webp?s=b780930a5dc83942f6e53bbce7881e9fba3e6ce3",
     "addedAt": "2026-10-17T08:12:15.790Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nDefekte Playstation 4 Slim Konsole\nBuone·Sony·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVerkaufe eine Sony Playstation 4 Slim in Schwarz ausdrücklich als defekt. Die Konsole geht nicht mehr an/funktioniert nicht und eignet sich perfekt für Bastler, zum Reparieren oder als Ersatzteillager.\n\nZustand: Optisch im guten gebrauchten Zustand\n\nLieferumfang:\n- 1x PS4 Slim Konsole (defekt)\n- 1x Originale PS4 DualSchock 4 Controller\n- 1x Netzkabel\n- 1x HDMI-Kabel\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La console non si accende/non funziona, adatta per pezzi di ricambio o riparazione (bastler).",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   },
   {
     "id": "10265980363",
@@ -21052,7 +21039,27 @@
     "url": "https://www.vinted.it/items/10265980363-console-playstation-4-slim-800gb-nero-controller-dualshock-4-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_018df_FZRU2DvvcmGmeEJ6xT3J5k58/310x430/5e187788.webp?s=d7725ab109a599062d5a9de1ead24789c0aae9db",
     "addedAt": "2026-10-17T08:12:15.791Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10407802210",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10407802210-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00fdf_bbYGW3sohhLTXdYahiopJAFt/310x430/8f9856d5.webp?s=0ffc9a7998bd894b0eacb748dbc8d6fe575ae494",
+    "addedAt": "2026-10-17T08:19:32.106Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo PlayStation 4 usata ma perfettamente funzionante, l'articolo presenta qualche graffio dovuto all'usura. Include: 1 joystick, cavo alimentazione, cavo HDMI e cavetto per collegare joystick alla console.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "qualche graffio dovuto all'usura",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
