@@ -21508,5 +21508,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 130
+  },
+  {
+    "id": "10419986683",
+    "category": "Console",
+    "title": "Nintendo DS Rosa Perlato non funzionante",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10419986683-nintendo-ds-rosa-perlato-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d16_QnwnXQxWqH5W21ZJTdwZWr1U/310x430/1516a1d3.webp?s=fea8c6077a94e3c9fc33e07ba75fe9b8b75ec745",
+    "addedAt": "2026-10-17T23:26:37.839Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   }
 ]
