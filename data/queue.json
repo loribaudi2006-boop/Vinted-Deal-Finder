@@ -1,20 +1,5 @@
 [
   {
-    "id": "10357633649",
-    "category": "Console",
-    "title": "Xbox one s",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10357633649-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01962_LrSfqHwBnv5Js7UGG6N3uA3p/310x430/f2a83444.webp?s=601a5558d5be97d841603aa409624736a6d62e74",
-    "addedAt": "2026-10-13T06:55:13.425Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~37.3€, sotto soglia"
-  },
-  {
     "id": "10357680876",
     "category": "Console",
     "title": "Boîte ps4 vide",
@@ -20943,8 +20928,10 @@
     "url": "https://www.vinted.it/items/10407073158-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02448_t6ZJooHNhEXa29vbnD6Uwm5C/310x430/fe273a92.webp?s=b526fd3ef330d1958fdfea447f8885aee98ef013",
     "addedAt": "2026-10-17T06:40:44.141Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   },
   {
     "id": "10407082407",
@@ -20956,8 +20943,10 @@
     "url": "https://www.vinted.it/items/10407082407-xbox-one-fat-bianca?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01758_SaoaLQzu5XGTnNDha7TE2vQ8/310x430/939ad5aa.webp?s=e41b10002781a28c801f546e16ec5065b3cea143",
     "addedAt": "2026-10-17T06:42:48.766Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   },
   {
     "id": "10407101380",
@@ -20969,8 +20958,13 @@
     "url": "https://www.vinted.it/items/10407101380-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00566_Z4e56vBHUPhWM6wX7xeKBUnq/310x430/7543f6a4.webp?s=3bc4b9f1c01350f52605885cfbfe2ee82693eb47",
     "addedAt": "2026-10-17T06:46:58.357Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "IT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One S\nOttime·Xbox·Caricato 14 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\n14 min fa\nJe vends cette Xbox One S blanche avec sa manette. Console fonctionnelle et prête à jouer !\n- Type de produit : Console de salon\n- Marque : Microsoft\n- Modèle : Xbox One S\n- Couleur : Blanc\n- Accessoires inclus : 1 manette Xbox One blanche\nBon état\nN'hésitez pas à me contacter pour plus d'informations ou de photos !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
   },
   {
     "id": "10407127670",
@@ -20982,7 +20976,9 @@
     "url": "https://www.vinted.it/items/10407127670-console-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01dfa_qKjNzop2KmCjicMpoYaqzFqY/310x430/a42ed03d.webp?s=1cd4a7836737f1e64e9e6520a5e3b6148b495695",
     "addedAt": "2026-10-17T06:52:10.437Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.3€, sotto soglia"
   }
 ]
