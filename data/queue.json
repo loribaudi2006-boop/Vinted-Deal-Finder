@@ -20902,5 +20902,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-12€, sotto soglia"
+  },
+  {
+    "id": "10407431989",
+    "category": "Console",
+    "title": "Play station 4 - ps4",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10407431989-play-station-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_008d8_6DVDr1fTDZHhF96jnFHYxqCH/310x430/4db35c75.webp?s=49a574cf1553629d984f48c8491fe8ab7a8b8b1a",
+    "addedAt": "2026-10-17T07:38:59.201Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10407455047",
+    "category": "Console",
+    "title": "Nintendo Switch Spiele/Zubehör",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10407455047-nintendo-switch-spielezubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00d3a_6Uh18jHmWMrBgJ62sysW2Gyh/310x430/7f4489a1.webp?s=e08fe1e5585404684c0220b76b9a5d2f5869147f",
+    "addedAt": "2026-10-17T07:42:06.616Z",
+    "processed": false,
+    "triaged": false
   }
 ]
