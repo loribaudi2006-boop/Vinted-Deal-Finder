@@ -21699,8 +21699,13 @@
     "url": "https://www.vinted.it/items/10419795229-consola-sony-playstation-4-1tb-e-uma-ps3-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01aa1_q7733ao7zNkjfCw1JBjACnDM/310x430/7137caa5.webp?s=802bf40dab5f4670380afa15d6a74de60bbe075b",
     "addedAt": "2026-10-17T22:48:20.378Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "chi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsola Sony PlayStation 4 1TB e uma ps3 Fat\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nConsolas em perfeito estado com oferta de um comando.\n\nSerá enviado com os devidos cabos e acessórios.\n\nAceitam se ofertas\n• #PS4Pro\n• #PlayStation4Pro\n• #PS4Portugal\n• #VintedPortugal\n• #VintedGaming\n#playstationoriginalfat\nPlaystation4original\n\n\nFaço entrega em mãos na zona de Odemira\n\nFirmware 9.00\n\nQualquer dúvida mandem mensagem.\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 130
   },
   {
     "id": "10419793146",
@@ -21712,7 +21717,45 @@
     "url": "https://www.vinted.it/items/10419793146-carcasas-ps5-edicion-30-aniversario?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_026bb_EM4gfTUDWgPzhV3GafE9DbfQ/310x430/bb241a6e.webp?s=24e0494b9b94ed03b7b3debf086f8def6d0303fa",
     "addedAt": "2026-10-17T22:48:20.378Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.4€, sotto soglia"
+  },
+  {
+    "id": "10419813697",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10419813697-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00095_QikArDk6eXP7C1X73ibERLqq/310x430/ceaf065b.webp?s=ee4f653d3d4dd8fe128b6e8727529633c814c8c7",
+    "addedAt": "2026-10-17T22:51:26.278Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "coli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nConsole vendue sans jeux, il manque uniquement l’adaptateur pour passer les manettes en dragon ( petits trucs noir pour mettre sur les joycon et avoir l1 r1, voir dernière photo) vendue sans boîte.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console venduta senza giochi, senza scatola e manca l'adattatore per i laccetti deiJoy-Con",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10419820000",
+    "category": "Console",
+    "title": "PS4 Pro 1TB Digital",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 67% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10419820000-ps4-pro-1tb-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003fb_F2JNStpseymrH1kT7rChpQKu/310x430/7ce11abd.webp?s=965eadcdcc7e3b0b30666839f9410e5a8d916450",
+    "addedAt": "2026-10-17T22:53:30.197Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Pro 1TB Digital\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nEl lector de discos no funciona, por el resto se puede usar perfectamente para jugar en digital\nIncluye un mando y base de carga para dos mandos\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "El lector de discos no funciona",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.3
   }
 ]
