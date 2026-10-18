@@ -21495,8 +21495,10 @@
     "url": "https://www.vinted.it/items/10420417883-ps5-slim-tout-jdid?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0108b_cCY596bLjSXCKT52jXTtEHZ4/310x430/09c10d00.webp?s=1b1f6b30a06bddc48df266fa3591a4ef081dffe6",
     "addedAt": "2026-10-18T01:08:47.024Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10420434776",
@@ -21508,8 +21510,13 @@
     "url": "https://www.vinted.it/items/10420434776-nintendo-switch-oled-edicion-mario-roja?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_010a2_d4dEHTGBiEdeXEdeCjAhqSGm/310x430/b29a439e.webp?s=f223fd3c838d4cb712968f8e1683eb7e0d599616",
     "addedAt": "2026-10-18T01:12:56.638Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch Oled Edición Mario roja\nNuovo senza cartellino·Nintendo·Caricato 23 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n23 min fa\nConsola Nintendo Switch OLED en su edición especial Mario Red.\n- Diseño inspirado en Mario.\n- Modelo OLED.\n- Nueva nunca se usado para jugar solo de exposición.\n-Funda roja dura\n-(No Vale lo que pone ) Gracias\n- (Acepto Cambios de todo tipo, uno de es New 3DS XL ),\n-(Leer Anuncio)\n-Gente Seria\n... altro\nSpedizione\nda 5,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 200
   },
   {
     "id": "10420434001",
@@ -21521,8 +21528,10 @@
     "url": "https://www.vinted.it/items/10420434001-xbox-one-500-gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_004b6_m6F7ZWUYMGJVqNmasRNfnSL3/310x430/a17f831f.webp?s=16bb4f29aff25452974d134a75daeffa0e2d12e4",
     "addedAt": "2026-10-18T01:12:56.638Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.05€, sotto soglia"
   },
   {
     "id": "10420458428",
@@ -21534,8 +21543,13 @@
     "url": "https://www.vinted.it/items/10420458428-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0187b_bLULPDqAQojxZmbbg8H4dmVc/310x430/6b86198d.webp?s=cd1135661bacf6cb9cc1db19e515335d97df023b",
     "addedAt": "2026-10-18T01:19:10.879Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "smo\nSport\nPubblicità\n‌\n\n13\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nBuone·PlayStation·Caricato 17 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n17 min fa\nJe vends cette PS4 Slim blanche avec sa manette DualShock 4 noire et tous les câbles nécessaires. Ensemble complet prêt à jouer ! Elle été a mon fils mais ne s'en sert plus.\n\nPossibilité de négocier légèrement !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.3
   },
   {
     "id": "10420502443",
@@ -21547,8 +21561,13 @@
     "url": "https://www.vinted.it/items/10420502443-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00f02_XA7AYVSF3hNEYzEmwLykNV67/310x430/44dfeee5.webp?s=e56ad04599401e9d9aac2325001f26f9e629e639",
     "addedAt": "2026-10-18T01:31:39.668Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato 6 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n6 min fa\nHallo ich verkaufe diese PlayStation 4\nMit: 3 Spielen , ein Headset und 2 Controller.\n\nDie PlayStation ist gebraucht , cd Laufwerk funktioniert nicht mehr einwandfrei, Controller funktionieren nicht 100% einwandfrei\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore CD non funziona perfettamente, controller non funzionano al 100%",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   },
   {
     "id": "10420519706",
@@ -21560,7 +21579,12 @@
     "url": "https://www.vinted.it/items/10420519706-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0153b_HEnHSdAmgBfco9BUTSKGQZUw/310x430/26db3d19.webp?s=2ca5fc1707b0f78e124a7efaf53fb0b1eeeff9f6",
     "addedAt": "2026-10-18T01:35:50.489Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nBuone·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 slim\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
   }
 ]
