@@ -21484,5 +21484,44 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.6€, sotto soglia"
+  },
+  {
+    "id": "10420417883",
+    "category": "Console",
+    "title": "Ps5 slim tout jdid",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10420417883-ps5-slim-tout-jdid?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0108b_cCY596bLjSXCKT52jXTtEHZ4/310x430/09c10d00.webp?s=1b1f6b30a06bddc48df266fa3591a4ef081dffe6",
+    "addedAt": "2026-10-18T01:08:47.024Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10420434776",
+    "category": "Console",
+    "title": "Nintendo Switch Oled Edición Mario roja",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10420434776-nintendo-switch-oled-edicion-mario-roja?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010a2_d4dEHTGBiEdeXEdeCjAhqSGm/310x430/b29a439e.webp?s=f223fd3c838d4cb712968f8e1683eb7e0d599616",
+    "addedAt": "2026-10-18T01:12:56.638Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10420434001",
+    "category": "Console",
+    "title": "Xbox One 500 Gb",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10420434001-xbox-one-500-gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004b6_m6F7ZWUYMGJVqNmasRNfnSL3/310x430/a17f831f.webp?s=16bb4f29aff25452974d134a75daeffa0e2d12e4",
+    "addedAt": "2026-10-18T01:12:56.638Z",
+    "processed": false,
+    "triaged": false
   }
 ]
