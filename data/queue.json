@@ -1,20 +1,5 @@
 [
   {
-    "id": "10381324740",
-    "category": "Console",
-    "title": "Hülle für Nintendo Switch",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10381324740-hulle-fur-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00224_DyNU3xhZNh4ZtusnK54WjfpE/310x430/2bb87757.webp?s=caa72a66a9f08c350ffe2b3868078b8d4786e704",
-    "addedAt": "2026-10-14T21:53:55.211Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~4€, sotto soglia"
-  },
-  {
     "id": "10381366527",
     "category": "Console",
     "title": "PS4 slim",
@@ -23700,5 +23685,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10437121331",
+    "category": "Console",
+    "title": "Lecteur disques ps5 slim ou pro",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10437121331-lecteur-disques-ps5-slim-ou-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01782_cafzPWHCBfGUUAohtLFgoXW6/310x430/83e2e866.webp?s=5603a189b6537d9d3771dc07039ff7fb89475b9c",
+    "addedAt": "2026-10-18T21:55:40.143Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nLecteur disques ps5 slim ou pro\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vend ce lecteur disques ps5 en tres bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10437149080",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10437149080-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018a5_bY4QJdTYqw7Ww2iFLeP9PHVp/310x430/031501e8.webp?s=d1dd402904020879b356cd2773376baae8a41d78",
+    "addedAt": "2026-10-18T21:58:46.957Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4, cavo hdmi nuovo, cavo di alimentazione, joistick difettoso(funziona solo con cavo e a volte si disconnette)\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "joistick difettoso (funziona solo con cavo e a volte si disconnette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
