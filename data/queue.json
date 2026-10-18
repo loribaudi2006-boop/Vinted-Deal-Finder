@@ -1,21 +1,5 @@
 [
   {
-    "id": "10369786676",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10369786676-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0068f_k4X4VjEzmPynETxwuT1vhZJc/310x430/0a4b50a5.webp?s=1981a0cf95106b7571a97bd89f3aa297d1119c2a",
-    "addedAt": "2026-10-14T03:08:59.843Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10370093082",
     "category": "Console",
     "title": "Playstation 4",
@@ -21570,5 +21554,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "10420833819",
+    "category": "Console",
+    "title": "Sony PlayStation 4 PS4 Konsole gebraucht",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10420833819-sony-playstation-4-ps4-konsole-gebraucht?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0039c_3pLXTCprq1TCcFm9hAY1WPfe/310x430/c18ea726.webp?s=74664a1fe75abe2c874b43b4914d11f8572a3941",
+    "addedAt": "2026-10-18T03:11:33.360Z",
+    "processed": false,
+    "triaged": false
   }
 ]
