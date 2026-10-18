@@ -1,35 +1,5 @@
 [
   {
-    "id": "10370392239",
-    "category": "Console",
-    "title": "Nintendo switch oled",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 92% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10370392239-nintendo-switch-oled?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01905_6dUS8Dx1V3x1NkTdLMFAvAiF/310x430/946a7f06.webp?s=621addcecd2854fa978e7f3d85d7035257e049e2",
-    "addedAt": "2026-10-14T06:43:04.364Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
-    "id": "10370434319",
-    "category": "Console",
-    "title": "Nintendo Switch Ladestation inklusive Controller",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10370434319-nintendo-switch-ladestation-inklusive-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00935_zUQKMBF8w61PQYpcsW6t98Qi/310x430/08be0df9.webp?s=c7b76f79eec2a341203d1dea3c453d0c070b6b73",
-    "addedAt": "2026-10-14T06:51:23.032Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-25€, sotto soglia"
-  },
-  {
     "id": "10370472398",
     "category": "Console",
     "title": "PS4 usata",
@@ -21412,6 +21382,19 @@
     "url": "https://www.vinted.it/items/10421365490-defekte-playstation-4-slim-konsole?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b84_5LdgsdHoQq83FTbZdMdwdE9f/310x430/5c63f377.webp?s=b780930a5dc83942f6e53bbce7881e9fba3e6ce3",
     "addedAt": "2026-10-18T06:38:44.592Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10421391537",
+    "category": "Console",
+    "title": "Console PlayStation 2 PS2 Fat (Da testare / Per pezzi di ricambio)",
+    "price": 24.9,
+    "totalPrice": 26.85,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10421391537-console-playstation-2-ps2-fat-da-testare-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d29_KW27siMnWqEbueDKhmpQU1py/310x430/6083717f.webp?s=eca21d903897827c493d52b2a6c99d57bcc38e53",
+    "addedAt": "2026-10-18T06:43:54.724Z",
     "processed": false,
     "triaged": false
   }
