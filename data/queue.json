@@ -1,20 +1,5 @@
 [
   {
-    "id": "10381059896",
-    "category": "Console",
-    "title": "Suporte para PS5",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10381059896-suporte-para-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_009a3_ENgpjSQjqRVGJbpXS413WPJ5/310x430/c6a224f3.webp?s=e20f2ed546962b5541cd73cdcf85ec8b419eadb0",
-    "addedAt": "2026-10-14T21:17:33.119Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
     "id": "10381098752",
     "category": "Console",
     "title": "Play station con disco non funzionante",
@@ -23637,5 +23622,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.3€, sotto soglia"
+  },
+  {
+    "id": "10436712829",
+    "category": "Console",
+    "title": "Nintendo switch Lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10436712829-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01c0a_NxQjifJVV56KQ9vsoZCFfJmc/310x430/231b8647.webp?s=d9cd194108fb2eeed1c77a32bb7677696b8cd078",
+    "addedAt": "2026-10-18T21:11:11.073Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch Lite\nOttime·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nFunzionante\nManca gommino del tasto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca gommino del tasto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.8
+  },
+  {
+    "id": "10436737194",
+    "category": "Console",
+    "title": "Tapas PS5 Ghost Of Yotei",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10436737194-tapas-ps5-ghost-of-yotei?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00d55_3AwY8ZWTVS3Ezks8s76Qmtwi/310x430/b1634485.webp?s=29a952bcaa3718e58ae41b8e2009805d4c666a00",
+    "addedAt": "2026-10-18T21:13:15.043Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.8€, sotto soglia"
   }
 ]
