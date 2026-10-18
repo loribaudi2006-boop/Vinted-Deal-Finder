@@ -23658,5 +23658,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 200
+  },
+  {
+    "id": "10437338471",
+    "category": "Console",
+    "title": "Microsd sandisk 256gb Nintendo switch",
+    "price": 32,
+    "totalPrice": 34.3,
+    "reason": "prezzo 83% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10437338471-microsd-sandisk-256gb-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01e6a_cfoiJphsviHj3bCvdP8kCyae/310x430/94c5b9f5.webp?s=61cad57d1c5ae708f15f8f10fe1d42447caec290",
+    "addedAt": "2026-10-18T22:23:35.460Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.3€, sotto soglia"
+  },
+  {
+    "id": "10437361691",
+    "category": "Console",
+    "title": "Ps4 Slim 500 Gb + 2 Dualshock",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10437361691-ps4-slim-500-gb-2-dualshock?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01437_Bxc6JAwVKhR5zaNzta9L39Ln/310x430/47226281.webp?s=781e274a405b4c795a38ab1cd17b7980aece622a",
+    "addedAt": "2026-10-18T22:27:43.191Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 Slim 500 Gb + 2 Dualshock\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 Slim 500 Gb + 2 Dualshock+ 2 giochi in omaggio\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.85
   }
 ]
