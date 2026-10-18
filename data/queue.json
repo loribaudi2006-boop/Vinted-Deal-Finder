@@ -23739,5 +23739,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10437587158",
+    "category": "Console",
+    "title": "PS4 Original Negra",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10437587158-ps4-original-negra?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025a4_immC155PLtCEWPBAi3yu7tjN/310x430/74988f59.webp?s=70101d0b0d4c06070942b5740a2821d60af21c98",
+    "addedAt": "2026-10-18T23:02:50.228Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Original Negra\nOttime·PlayStation·Caricato 2 min fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nVendo PlayStation 4 original negra (modelo Fat, primera generación) tal cual se ve en las fotos.\n• No enciende.\n• No incluye cables de corriente, HDMI ni mandos.\n• Ideal para piezas de repuesto o para alguien que sepa repararla.\n• Exterior en buen estado general, con las pegatinas originales azules.\nEnvío o recogida a convenir. ¡Cualquier duda pregunta!\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "No enciende, sin cables ni mandos",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.55
+  },
+  {
+    "id": "10437609396",
+    "category": "Console",
+    "title": "PS4+ comando dualshock4",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10437609396-ps4-comando-dualshock4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00588_1DcZsTPDUhxPkoBQNwQVBdq9/310x430/b6823d53.webp?s=51e6efb3ae96cfa9bdddb4931c77fbbc51d101cb",
+    "addedAt": "2026-10-18T23:06:58.409Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "1\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4+ comando dualshock4\nOttime·PlayStation·Caricato un minuto fa\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 com comando mais carregador, cabo HDMI e cabo de alimentação.\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.35
   }
 ]
