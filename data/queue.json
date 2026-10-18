@@ -1,20 +1,5 @@
 [
   {
-    "id": "10381654451",
-    "category": "Console",
-    "title": "Astro Adaptateur HDMI pour ps5",
-    "price": 27,
-    "totalPrice": 29.05,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10381654451-astro-adaptateur-hdmi-pour-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02358_sims67eYgtNxaqSynxpfcfkB/310x430/186b75ec.webp?s=ee728b26184bafff38f7e64964d9e9093dfe1d15",
-    "addedAt": "2026-10-14T22:56:14.332Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~0.95€, sotto soglia"
-  },
-  {
     "id": "10381924063",
     "category": "Console",
     "title": "Titolo: Xbox One originale nera – non testata",
@@ -23739,5 +23724,20 @@
     "geminiFault": "a vendre avec ou sans manette",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.8
+  },
+  {
+    "id": "10437517820",
+    "category": "Console",
+    "title": "Xbox One 500GB / 1TB + Gioco Rainbow Six Siege + Controller e Cavi Originali",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10437517820-xbox-one-500gb-1tb-gioco-rainbow-six-siege-controller-e-cavi-originali?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01708_hQ41cbVKfoYa6223KF8eRxmq/310x430/270445ba.webp?s=16f989f78dd5edf680d3754b53a7988dd46d823c",
+    "addedAt": "2026-10-18T22:51:28.148Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
