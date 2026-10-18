@@ -1,23 +1,5 @@
 [
   {
-    "id": "10370472398",
-    "category": "Console",
-    "title": "PS4 usata",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10370472398-ps4-usata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02700_xw1RnoVsj1WbsrjktfbLi8e7/310x430/ee8c8363.webp?s=dac9e39c59b3fcf45acc36edb52ae31aa5d0a6ab",
-    "addedAt": "2026-10-14T06:58:39.774Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "by e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 usata\nBuone·Sony·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nPS4 usata fornita con joystick e i due cavi che vedete in foto.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10370686140",
     "category": "Console",
     "title": "Échange pc contre ps5",
@@ -21369,8 +21351,11 @@
     "url": "https://www.vinted.it/items/10421326433-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00997_MjpPBYfHwSAc7L5UyAj5Je4m/310x430/a86ee0cb.webp?s=9c510e194556c5df4ec8103f0c863700e5d273c3",
     "addedAt": "2026-10-18T06:29:26.002Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10421365490",
@@ -21382,8 +21367,13 @@
     "url": "https://www.vinted.it/items/10421365490-defekte-playstation-4-slim-konsole?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b84_5LdgsdHoQq83FTbZdMdwdE9f/310x430/5c63f377.webp?s=b780930a5dc83942f6e53bbce7881e9fba3e6ce3",
     "addedAt": "2026-10-18T06:38:44.592Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nDefekte Playstation 4 Slim Konsole\nBuone·Sony·Caricato 22 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n22 min fa\nVerkaufe eine Sony Playstation 4 Slim in Schwarz ausdrücklich als defekt. Die Konsole geht nicht mehr an/funktioniert nicht und eignet sich perfekt für Bastler, zum Reparieren oder als Ersatzteillager.\n\nZustand: Optisch im guten gebrauchten Zustand\n\nLieferumfang:\n- 1x PS4 Slim Konsole (defekt)\n- 1x Originale PS4 DualSchock 4 Controller\n- 1x Netzkabel\n- 1x HDMI-Kabel\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La console non si accende/non funziona (guasto elettrico o hardware), venduta per pezzi o riparazione.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.85
   },
   {
     "id": "10421391537",
@@ -21395,7 +21385,27 @@
     "url": "https://www.vinted.it/items/10421391537-console-playstation-2-ps2-fat-da-testare-per-pezzi-di-ricambio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01d29_KW27siMnWqEbueDKhmpQU1py/310x430/6083717f.webp?s=eca21d903897827c493d52b2a6c99d57bcc38e53",
     "addedAt": "2026-10-18T06:43:54.724Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.15€, sotto soglia"
+  },
+  {
+    "id": "10421442228",
+    "category": "Console",
+    "title": "Playstation 4 Slim 1TB Speicher",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10421442228-playstation-4-slim-1tb-speicher?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01423_6QAkcTToExeigdb7yNCZYuNh/310x430/011ba274.webp?s=b07430345923a99606fb11e742f0cf23abcf0733",
+    "addedAt": "2026-10-18T06:54:14.364Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4 Slim 1TB Speicher\nOttime·PlayStation·Caricato 7 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n7 min fa\nIch verkaufe hier meine sehr gut erhaltene Playstation 4 Slim mit 1TB Speicher. Dazu gehören 2 Controller und die passenden Ladekabel.\nSpedizione\nda 7,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80
   }
 ]
