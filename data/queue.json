@@ -1,20 +1,5 @@
 [
   {
-    "id": "10372952399",
-    "category": "Console",
-    "title": "Disco Duro 500GB PS4",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10372952399-disco-duro-500gb-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01865_cAqCx5DG9g7dB2RZ8TSNezjL/310x430/68f546ed.webp?s=a914564d9b4e4314eeaed4c09321c7492e621d99",
-    "addedAt": "2026-10-14T11:11:55.560Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.05€, sotto soglia"
-  },
-  {
     "id": "10373007598",
     "category": "Console",
     "title": "Ps4 slim",
@@ -22163,5 +22148,66 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 62
+  },
+  {
+    "id": "10424993708",
+    "category": "Console",
+    "title": "Oled switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10424993708-oled-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00b01_dWTjMMA82frR2FK1ZNWGgvoA/310x430/0248913e.webp?s=ff9c64af5782d5db99693c9f144ebcd92ed8dfc6",
+    "addedAt": "2026-10-18T11:07:51.866Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nOled switch\nOttime·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nFhxozcoh oz\nSpedizione\n7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 120
+  },
+  {
+    "id": "10425036865",
+    "category": "Console",
+    "title": "Boite ps5",
+    "price": 21,
+    "totalPrice": 22.75,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10425036865-boite-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0195d_TK7Aj6Cy2W6VRatmWaKc2AAs/310x430/d67be7b6.webp?s=045ca34229e8f49c6ae8840bbb7c3dc9e89bb338",
+    "addedAt": "2026-10-18T11:09:56.049Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-7.75€, sotto soglia"
+  },
+  {
+    "id": "10425096901",
+    "category": "Console",
+    "title": "Playstation 4 500GB",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10425096901-playstation-4-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00ded_e8NcSjfGcyEm3M8BFiHaAwLZ/310x430/81828f58.webp?s=3be63e7d110e5f580ea2093b8c5f6fecdca28562",
+    "addedAt": "2026-10-18T11:13:02.518Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10425099659",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör Controller",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10425099659-nintendo-switch-zubehor-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0214a_bwmUMYzdrDkhn34W4U9zNmRW/310x430/bc8b0542.webp?s=4d9e5b814fe17680bc501a26a03e3311f1bf7934",
+    "addedAt": "2026-10-18T11:14:04.599Z",
+    "processed": false,
+    "triaged": false
   }
 ]
