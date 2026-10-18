@@ -21565,7 +21565,10 @@
     "url": "https://www.vinted.it/items/10420833819-sony-playstation-4-ps4-konsole-gebraucht?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0039c_3pLXTCprq1TCcFm9hAY1WPfe/310x430/c18ea726.webp?s=74664a1fe75abe2c874b43b4914d11f8572a3941",
     "addedAt": "2026-10-18T03:11:33.360Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
