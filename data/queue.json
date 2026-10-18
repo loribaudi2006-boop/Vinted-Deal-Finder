@@ -23793,5 +23793,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10437743280",
+    "category": "Console",
+    "title": "Console ps4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10437743280-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_004cf_qZnPPqXHs7AS4qMQUqUEdftf/310x430/d857082e.webp?s=a1c578c90f551ac7060f4ba8809cffcb98c08af4",
+    "addedAt": "2026-10-18T23:30:45.118Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nDiscrete·Sony·Caricato proprio adesso\n\n20,00 €\n\n21,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nVend ps4 pour pièces\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Vend ps4 pour pièces (per pezzi di ricambio / non funzionante)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.3
   }
 ]
