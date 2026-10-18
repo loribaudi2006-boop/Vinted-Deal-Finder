@@ -21581,8 +21581,11 @@
     "url": "https://www.vinted.it/items/10421041476-playstation-4-mit-2-controllern?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00882_YmoLqBzfuTn62tLH7sTP1nwj/310x430/b2c06328.webp?s=e3e9c48d87bf9ef65feee59016b5f9c45edec464",
     "addedAt": "2026-10-18T04:39:54.372Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10421079350",
