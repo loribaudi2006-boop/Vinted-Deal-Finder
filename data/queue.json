@@ -21455,5 +21455,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10421605221",
+    "category": "Console",
+    "title": "Pokémon Violet Nintendo switch",
+    "price": 24,
+    "totalPrice": 25.9,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10421605221-pokemon-violet-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0240c_mCMwNFgH12U6SFaAwcUzRcoJ/310x430/f07371a6.webp?s=96913be5eb234933476698af5999cf021f8e4109",
+    "addedAt": "2026-10-18T07:21:09.424Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.1€, sotto soglia"
+  },
+  {
+    "id": "10421614713",
+    "category": "Console",
+    "title": "Switch +manette pro + 1 jeux + 2 pochette + 2 volant",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10421614713-switch-manette-pro-1-jeux-2-pochette-2-volant?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_005ef_jaw5PBvdmxVisr1xPnpQLbo2/310x430/f7827b2f.webp?s=a516fd44d9acda57ea172fce3aa86f438ea7fee8",
+    "addedAt": "2026-10-18T07:22:11.274Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
