@@ -1,23 +1,5 @@
 [
   {
-    "id": "10393976717",
-    "category": "Console",
-    "title": "PS4 PlayStation 4",
-    "price": 57,
-    "totalPrice": 60.55,
-    "reason": "prezzo 56% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10393976717-ps4-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_001c7_x6VDCcjDzVPKeWmxZvB15hPt/310x430/2ae4da4f.webp?s=cb1f3a4ecd5741be08451689bb5088b873c4acfb",
-    "addedAt": "2026-10-15T23:32:32.945Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 PlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n57,00 €\n\n60,55 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 4 câble fournis avec + 4 jeu\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 44.45
-  },
-  {
     "id": "10394213649",
     "category": "Console",
     "title": "PS4 con mando",
@@ -25293,5 +25275,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.7€, sotto soglia"
+  },
+  {
+    "id": "10451542619",
+    "category": "Console",
+    "title": "Switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10451542619-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00aa6_m7fMvczdQurimAw2MjDagic2/310x430/cd9f200d.webp?s=475e31dbe183b9395adc5c8005803a6e6f942b5a",
+    "addedAt": "2026-10-19T23:31:33.045Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSwitch seul pas de matériel juste la switch 😢\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console seule, pas de matériel (solo console, nessun accessorio o dock)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.3
+  },
+  {
+    "id": "10451547530",
+    "category": "Console",
+    "title": "Soporte Nintendo switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10451547530-soporte-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_014a3_HwM4KnN68WmzErXXTo1X7c84/310x430/172a7563.webp?s=8610a258bacc480046e2219b2b977f12c9378fb2",
+    "addedAt": "2026-10-19T23:32:35.933Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-7.45€, sotto soglia"
   }
 ]
