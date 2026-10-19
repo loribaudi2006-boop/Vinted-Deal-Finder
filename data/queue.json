@@ -1,20 +1,5 @@
 [
   {
-    "id": "10393817665",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10393817665-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_012ad_egNhySP5bj2K1rmeZUqsephe/310x430/a802b03f.webp?s=973046b9d608f5c4f950078f57a5ababac8131d4",
-    "addedAt": "2026-10-15T22:58:20.462Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.05€, sotto soglia"
-  },
-  {
     "id": "10393792127",
     "category": "Console",
     "title": "Ps5 500go",
@@ -25340,7 +25325,12 @@
     "url": "https://www.vinted.it/items/10451330679-playstation-4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0060d_WQxd14trMAqYfhshy3by2AZT/310x430/4df52c80.webp?s=777325f78493b2f7cd746aa085112e552bcae0a1",
     "addedAt": "2026-10-19T22:53:07.991Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4 fat\nOttime·Sony·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nfunzionante\nnon trattabile\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
