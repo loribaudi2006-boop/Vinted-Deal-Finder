@@ -1,20 +1,5 @@
 [
   {
-    "id": "10384278737",
-    "category": "Console",
-    "title": "Xbox One 500 Go · Reconditionnée",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 51% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10384278737-xbox-one-500-go-reconditionnee?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00ff4_XkfYsK3FYaFnfBMDDdgXpWRV/310x430/a24f749e.webp?s=1d243805a412ca01ddae5ef4131dbb2fc51d8b37",
-    "addedAt": "2026-10-15T08:56:08.988Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.85€, sotto soglia"
-  },
-  {
     "id": "10384398017",
     "category": "Console",
     "title": "Nintendo Switch Zubehör für Controller",
@@ -23891,5 +23876,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10440227895",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10440227895-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01fa4_NhfJDti2CHmDWBkKTQTmLPJx/310x430/4b9995ec.webp?s=561fdae66e4eb658f00e2505c6b66683c62d144b",
+    "addedAt": "2026-10-19T08:59:16.264Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "coli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nDiscrete·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nHat leichte gebraucht Spuren funktioniert aber noch einwandfrei ohne Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Hat leichte gebraucht Spuren funktioniert aber noch einwandfrei ohne Controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45
+  },
+  {
+    "id": "10440289874",
+    "category": "Console",
+    "title": "Switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10440289874-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_005fb_GBE88N8m92m46LxmvtJoEmux/310x430/c2f0f4fd.webp?s=bf776b01baafb8c7593cd842a98a361056be84ff",
+    "addedAt": "2026-10-19T09:03:25.443Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
