@@ -24008,5 +24008,53 @@
     "geminiFault": "Joycons cassés",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10440590731",
+    "category": "Console",
+    "title": "Playstation 4 – Laufwerk defekt",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10440590731-playstation-4-laufwerk-defekt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02135_vQ3MpLCb4h42PSyVxYWm7XH4/310x430/94460a57.webp?s=5cf325991f557765bee589210942358947f06921",
+    "addedAt": "2026-10-19T09:29:27.049Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4 – Laufwerk defekt\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nIch verkaufe meine PlayStation 4 der ersten Generation.\n\nDie Konsole funktioniert ansonsten einwandfrei. Lediglich das Laufwerk ist defekt, daher können keine Spiele über Discs genutzt werden.\n\nOptisch in einem gebrauchten Zustand (siehe Fotos).\n\n**Details:**\n- PlayStation 4 (PS4 Fat)\n- Laufwerk defekt\n- Sonstige Funktionen funktionieren\n- Ideal für Bastler oder zum Spielen digitaler Spiele\n\nVerkauf erfolgt unter Angabe des Defekts.\n\nPrivatverkauf, daher keine Rücknahme, Garantie oder Gewährleistung.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Laufwerk defekt (lettore ottico guasto)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10440600175",
+    "category": "Console",
+    "title": "Rangement Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10440600175-rangement-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0046f_nnFVZQAeayRbQPVrJAMJTqvo/310x430/6af96496.webp?s=b4255d667471ae3673d93af0850199276431c7ed",
+    "addedAt": "2026-10-19T09:30:29.451Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.45€, sotto soglia"
+  },
+  {
+    "id": "10440642362",
+    "category": "Console",
+    "title": "Coque + étui de protection switch 2",
+    "price": 18,
+    "totalPrice": 19.6,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10440642362-coque-etui-de-protection-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0220d_Te9XxzS3LVVkiVT2mGmkYBnN/310x430/aab6e4ad.webp?s=ef42d2c90d021a07c4176965ab5292698b2d5791",
+    "addedAt": "2026-10-19T09:33:36.130Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4.6€, sotto soglia"
   }
 ]
