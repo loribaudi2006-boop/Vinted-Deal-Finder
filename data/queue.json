@@ -1,20 +1,5 @@
 [
   {
-    "id": "10393688670",
-    "category": "Console",
-    "title": "caja vacia de ps5 con lector de disco",
-    "price": 23,
-    "totalPrice": 24.85,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10393688670-caja-vacia-de-ps5-con-lector-de-disco?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00fa3_EF8gknAvNYVDARY4Gnk4FEJw/310x430/0e1adae4.webp?s=ac20ca0b24a1f8178654e1527d54d6f76d5a6702",
-    "addedAt": "2026-10-15T22:32:24.022Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "10393817665",
     "category": "Console",
     "title": "Nintendo switch",
@@ -25293,5 +25278,38 @@
     "geminiFault": "Manca il controller (Wichtige Info Controller gibt es keinen dazu)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 77.8
+  },
+  {
+    "id": "10451226820",
+    "category": "Console",
+    "title": "Ps5 Ständer liegend",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10451226820-ps5-stander-liegend?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00eff_uG1RTCSdkQuZo3B4rrw8XKbW/310x430/e09e1742.webp?s=a4438bbbdac2e7b036d25eb96cfaa074494e4f88",
+    "addedAt": "2026-10-19T22:35:29.565Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "10451240317",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Slim 500GB – Fully Working – HDMI & Power Cable Included",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10451240317-sony-playstation-4-slim-500gb-fully-working-hdmi-power-cable-included?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_021d7_6nAtJniCVuvGyxr9RoGAvGjq/310x430/ce385a62.webp?s=7f94cbc51f097bdfa9f699222aecb6040a742bb5",
+    "addedAt": "2026-10-19T22:37:34.151Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "olePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 Slim 500GB – Fully Working – HDMI & Power Cable Included\nBuone·PlayStation·Caricato proprio adesso\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nSony PlayStation 4 Slim 500GB – Fully Working – HDMI & Power Cable Included\n\nSelling my used Sony PlayStation 4 Slim 500GB in fully working condition.\n\nThe console has been tested and works perfectly.\n\nDetails:\n\n- Sony PS4 Slim 500GB\n- Fully functional\n- HDMI cable included\n- Power cable included\n- No controller included\n- Normal signs of use, including some scratches (see photos)\n- Factory reset before shipping\n\nA great console, ready for its next owner. Just connect your own controller and start gaming!\n\nFeel free to message me with any questions.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Normali segni di uso e graffi, nessun controller incluso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.85
   }
 ]
