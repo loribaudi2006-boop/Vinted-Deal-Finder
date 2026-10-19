@@ -1,23 +1,5 @@
 [
   {
-    "id": "10393556433",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10393556433-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_020bb_wdEkMHnySEzEQmUGdhMPcJcc/310x430/4ff89098.webp?s=6b217e7df85eb136062e1056878b2dbc1b84c80d",
-    "addedAt": "2026-10-15T22:08:32.067Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nps4 usata, con joystick compresi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10393591295",
     "category": "Console",
     "title": "Maletín transporte Nintendo switch",
@@ -25275,5 +25257,23 @@
     "geminiFault": "Ne lit pas les jeux, sans chargeur, avec volant et pochette de rangement",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10451030553",
+    "category": "Console",
+    "title": "PlayStation 4 più giochi vari",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10451030553-playstation-4-piu-giochi-vari?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_026da_DDz2XKvsuq36aBjWdgTeD2HU/310x430/97557587.webp?s=df5e7b900938b7ecd2cb83971a6bf43c11ed59f3",
+    "addedAt": "2026-10-19T22:05:22.850Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 più giochi vari\nOttime·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo PlayStation 4 con giochi vari credo ancora funzionante\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "credo ancora funzionante (incerto)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   }
 ]
