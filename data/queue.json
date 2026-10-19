@@ -23885,5 +23885,23 @@
     "geminiFault": "Il tasto on/off non funziona, si accende solo tramite controller o inserendo un CD",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10440069800",
+    "category": "Console",
+    "title": "Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10440069800-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014fa_gq9unYvHaHDDcsjnDmqSo9TG/310x430/72ec8cf0.webp?s=2fe82c3711a5140eb838b620ffeda0180f6e80be",
+    "addedAt": "2026-10-19T08:42:39.619Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nDiscrete·Nintendo·Caricato un minuto fa\n\n15,00 €\n\n16,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nLa switch marche encore, elle est tombé dans les escaliers. Le joycon gauche ( rouge ) ne marche plus. Prix négociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Caduta dalle scale, il joycon sinistro (rosso) non funziona.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 83.55
   }
 ]
