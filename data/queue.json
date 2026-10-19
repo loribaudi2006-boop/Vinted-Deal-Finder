@@ -25242,5 +25242,51 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-3€, sotto soglia"
+  },
+  {
+    "id": "10450297892",
+    "category": "Console",
+    "title": "Coque de protection switch",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10450297892-coque-de-protection-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0099b_7YpxEAaUeUWVfN3xq2XhwRe7/310x430/7ebe0bdd.webp?s=fa21b00f5096f4425dbcfc6c1307789dde292d4e",
+    "addedAt": "2026-10-19T21:05:08.518Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.85€, sotto soglia"
+  },
+  {
+    "id": "10450553904",
+    "category": "Console",
+    "title": "Écran Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10450553904-ecran-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01dc6_V1vE2fPFdcDuae32vQ53TJem/310x430/4038467a.webp?s=ce281a7c2f29801b0b2e2378b8a6ece11420b1be",
+    "addedAt": "2026-10-19T21:06:10.953Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nÉcran Nintendo Switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nTotalement fonctionnel\nQuelques signes d'usure\n\nPrix fixé pour une vente rapide\nUniquement par envoie\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "10450610694",
+    "category": "Console",
+    "title": "Jeux battlefield hardline édition ps4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10450610694-jeux-battlefield-hardline-edition-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e90_S1uEA4yMkzZiqnsrPNygkArZ/310x430/048c6373.webp?s=cfe2f172cba3c32eddde7a5aab03f7bd4f2c6e8c",
+    "addedAt": "2026-10-19T21:12:25.226Z",
+    "processed": false,
+    "triaged": false
   }
 ]
