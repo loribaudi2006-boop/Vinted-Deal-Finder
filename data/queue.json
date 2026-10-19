@@ -1,20 +1,5 @@
 [
   {
-    "id": "10381981091",
-    "category": "Console",
-    "title": "Nintendo Ds Lite (Pennino e scatola mancante",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "parola chiave: \"manca\"",
-    "url": "https://www.vinted.it/items/10381981091-nintendo-ds-lite-pennino-e-scatola-mancante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00651_rBm8CeC2HerccEXAM2tR5ixA/310x430/e02864f3.webp?s=c05d1997710167eb2a1c6094fdf22b440420d25d",
-    "addedAt": "2026-10-15T00:01:40.595Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~12.05€, sotto soglia"
-  },
-  {
     "id": "10382105056",
     "category": "Console",
     "title": "vendo intendo switch come nuova",
@@ -23793,5 +23778,20 @@
     "geminiFault": "Vend ps4 pour pièces (per pezzi di ricambio / non funzionante)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.3
+  },
+  {
+    "id": "10437938416",
+    "category": "Console",
+    "title": "Manette Xbox + jeu Les Lapins Crétins PS4 – 12 €",
+    "price": 12,
+    "totalPrice": 13.5,
+    "reason": "prezzo 91% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10437938416-manette-xbox-jeu-les-lapins-cretins-ps4-12-eur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0214c_4Z8hdGuj7Mbtcg151yX2w7NA/310x430/db107299.webp?s=a5f340fff7cf23e5c1b4d9cbcc76a8e9bf3e1060",
+    "addedAt": "2026-10-19T00:10:01.210Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.5€, sotto soglia"
   }
 ]
