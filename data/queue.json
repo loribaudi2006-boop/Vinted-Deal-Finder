@@ -1,20 +1,5 @@
 [
   {
-    "id": "10383739360",
-    "category": "Console",
-    "title": "PlayStation 4 con scatola e cavi e controller",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10383739360-playstation-4-con-scatola-e-cavi-e-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_006fe_MsbAwtoM54TFjuz8GcheJb5V/310x430/6811c723.webp?s=17e8014dafdbd2679bf36c7ddff40eeff1b074a0",
-    "addedAt": "2026-10-15T07:55:09.623Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10383949975",
     "category": "Console",
     "title": "Ps4 slim 500gb",
@@ -23816,5 +23801,23 @@
     "geminiFault": "La console si accende ma non arriva a caricare l'interfaccia dei giochi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.3
+  },
+  {
+    "id": "10439708459",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10439708459-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014a1_aqWDHysvv641S4uo8trfk3rq/310x430/af3274ae.webp?s=2120c6d0bf0873fdd5f02416156f425f7721880b",
+    "addedAt": "2026-10-19T08:02:08.000Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nMenos de 2 meses de uso.\nLa vendo porque no la uso, no acepto devoluciones. De vivir en Málaga podemos quedar en persona y la revisan.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.8
   }
 ]
