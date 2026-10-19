@@ -23804,7 +23804,10 @@
     "url": "https://www.vinted.it/items/10438592379-ps5-pro-2-tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02111_AYhRnEQ8cwbfHAbcxuSvG9aD/310x430/f50cb26c.webp?s=0e969c022e4231aac25d412ed1ab775a0b72abd4",
     "addedAt": "2026-10-19T02:43:57.900Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
