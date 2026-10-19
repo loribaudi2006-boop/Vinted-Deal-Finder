@@ -25286,7 +25286,27 @@
     "url": "https://www.vinted.it/items/10450610694-jeux-battlefield-hardline-edition-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e90_S1uEA4yMkzZiqnsrPNygkArZ/310x430/048c6373.webp?s=cfe2f172cba3c32eddde7a5aab03f7bd4f2c6e8c",
     "addedAt": "2026-10-19T21:12:25.226Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.45€, sotto soglia"
+  },
+  {
+    "id": "10450685944",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Slim 500GB – Fully Working – HdmiI & Power Cable Included",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10450685944-sony-playstation-4-slim-500gb-fully-working-hdmii-power-cable-included?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00902_XtPCCNE61h2eYs4GDrZKmLxZ/310x430/948f3db8.webp?s=e3c385a7c784743d2b85465b8bdc80aadd6c0890",
+    "addedAt": "2026-10-19T21:20:43.680Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "i e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSony PlayStation 4 Slim 500GB – Fully Working – HdmiI & Power Cable Included\nBuone·Sony·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nSony PlayStation 4 Slim 500GB – Fully Working – HDMI & Power Cable Included\n\nSelling my used Sony PlayStation 4 Slim 500GB in fully working condition.\n\nThe console has been tested and works perfectly.\n\nDetails:\n\n- Sony PS4 Slim 500GB\n- Fully functional\n- HDMI cable included\n- Power cable included\n- No controller included\n- Normal signs of use, including some scratches (see photos)\n- Factory reset before shipping\n\nA great console, ready for its next owner. Just connect your own controller and start gaming!\n\nFeel free to message me with any questions.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Normal signs of use including some scratches, no controller included",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.85
   }
 ]
