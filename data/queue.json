@@ -1,23 +1,5 @@
 [
   {
-    "id": "10393792127",
-    "category": "Console",
-    "title": "Ps5 500go",
-    "price": 29.99,
-    "totalPrice": 32.19,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10393792127-ps5-500go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d5f_mSZDSJySm6fC6ui994UrAwN4/310x430/b377b839.webp?s=8ec4ec6fb8d67367067a4b817ef3c3c1f177df42",
-    "addedAt": "2026-10-15T23:11:48.737Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 500go\nBuone·PlayStation·Caricato un minuto fa\n\n29,99 €\n\n32,19 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 a vendre ne s’allume pas je pense car le bouton est enfoncer (voir photo 4)\nSoit prendre dans l’état ou sinon pour pièces a vous de voir\nPossible remise main propre sur Domont\n95330📍\nNégociable dans la limite du raisonnable✅\nEnvoie le jour même😁 (moins de 24h)\nFormat du colis réduit au max vers le bas😉\nAucun retour sauf erreur de ma part👍🏼\n🎥🎥Je filme l'envoi de A à Z🎥🎥. (refund impossible)\nPremier arriver premier servi je garde rien pour personne👌🏼\nCompte Vinted avec 150avis 5/5etoiles banni\nPour ceux qui on pas confiance je privilégie les mains propre sur Domont 95330📍\n\nSnap: rr.953e\nTiktok: 95330r\n\nBonne journée et bonne vente à tous✌🏽\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non s'allume pas, bouton enfoncé",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 75.81
-  },
-  {
     "id": "10393895662",
     "category": "Console",
     "title": "PlayStation 4 slim",
@@ -25332,5 +25314,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10451400439",
+    "category": "Console",
+    "title": "Carte Micro SD Nintendo Switch 128 Go SanDisk",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10451400439-carte-micro-sd-nintendo-switch-128-go-sandisk?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00e1f_6AzZHF5JaFxbHCU6pf8ZzdjE/310x430/f88e1a7b.webp?s=6421206aebc3685c7b7ef1bff4fbefd65d96fd89",
+    "addedAt": "2026-10-19T23:05:35.309Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
   }
 ]
