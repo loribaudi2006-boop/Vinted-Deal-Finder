@@ -1,37 +1,5 @@
 [
   {
-    "id": "10383130377",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10383130377-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01f4f_vowCAyfNjvnRHF3V3reszXPx/310x430/b91b9eab.webp?s=134a26bd69c070cb89536626ca4e85815ab09c23",
-    "addedAt": "2026-10-15T05:58:49.210Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10383135480",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10383135480-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c13_BNH5Y3VSF4mdMmwBK2iZNvDf/310x430/71ef66b4.webp?s=9c5479d49b956435c3fac4c905f16f0579fe45ea",
-    "addedAt": "2026-10-15T06:00:53.973Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10383213219",
     "category": "Console",
     "title": "PlayStation 4 con cavi",
@@ -23820,7 +23788,10 @@
     "url": "https://www.vinted.it/items/10439001803-xbox-one-s-all-digital-edition-avec-ca-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01e51_Zd3bFWYR4BH8Catdc3NzEB1Y/310x430/9ab19c6e.webp?s=c6182e912eebf5d666e699a7e972a5002fe05a08",
     "addedAt": "2026-10-19T05:31:41.875Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
