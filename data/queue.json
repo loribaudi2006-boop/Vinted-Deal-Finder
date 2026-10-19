@@ -1,23 +1,5 @@
 [
   {
-    "id": "10383949975",
-    "category": "Console",
-    "title": "Ps4 slim 500gb",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10383949975-ps4-slim-500gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0187c_4XrTdnYbSSxykwUMQf2PzxMP/310x430/e797542a.webp?s=212f8a8d303ed95ed42a950edb2e562902b7dda8",
-    "addedAt": "2026-10-15T08:21:07.486Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim 500gb\nBuone·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nAlles ervij\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40.05
-  },
-  {
     "id": "10384217566",
     "category": "Console",
     "title": "nintendo switch",
@@ -23855,5 +23837,35 @@
     "geminiFault": "I joy-con non si agganciano, non si può resettare, presenta graffi, ma funziona se si collegano controller a distanza",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10439888210",
+    "category": "Console",
+    "title": "Nintendo Switch Lite blu",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10439888210-nintendo-switch-lite-blu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00786_M47rfwEdgB8F5iZJ1WXo3bJf/310x430/e42e1d82.webp?s=859a3de2cc5f70a95ffdc53981995fac799559b0",
+    "addedAt": "2026-10-19T08:23:58.077Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10439887370",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10439887370-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_017e7_29p1C7NNfq7LRmAeXh3Tn7RC/310x430/95e6672e.webp?s=fee975a8913f1b48bbc1c2bb912aed68a2ef6196",
+    "addedAt": "2026-10-19T08:23:58.078Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
