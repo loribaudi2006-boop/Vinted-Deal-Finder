@@ -23867,5 +23867,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10439989909",
+    "category": "Console",
+    "title": "ps4 noire en bon état",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10439989909-ps4-noire-en-bon-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01536_wxEycHY5VC3PaKGoPUnzKmGW/310x430/2dc1139a.webp?s=ed67febeb589d0d238d71f87472d12a2fcf717ce",
+    "addedAt": "2026-10-19T08:34:21.104Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4 noire en bon état\nBuone·Sony·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 en assez bonne état, elle ne fais pas de bruit, en revanche pour l’allumer il faut l’allumer avec la manette et la première fois en rentrant un cd dans le lecteur car le bouton on/off ne fonctionne plus.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il tasto on/off non funziona, si accende solo tramite controller o inserendo un CD",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
