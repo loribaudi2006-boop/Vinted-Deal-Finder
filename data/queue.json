@@ -25373,6 +25373,22 @@
     "url": "https://www.vinted.it/items/10452064873-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02177_7fjm4E34k1FqkHMQLrJRC37Q/310x430/3588b746.webp?s=1096514bd89e382f009de2271596a997cee12653",
     "addedAt": "2026-10-20T01:13:36.783Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10452199734",
+    "category": "Console",
+    "title": "Consola playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10452199734-consola-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025df_14L16B7fnSLLkyawchPfFU6S/310x430/c8af9f91.webp?s=861c16d1df82e4c0dc1ffbb51eac97a6c3dc78e2",
+    "addedAt": "2026-10-20T01:41:36.020Z",
     "processed": false,
     "triaged": false
   }
