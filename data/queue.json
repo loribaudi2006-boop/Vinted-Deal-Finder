@@ -1,38 +1,5 @@
 [
   {
-    "id": "10404105783",
-    "category": "Console",
-    "title": "Switch accessoires",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10404105783-switch-accessoires?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_025e6_XMP2p55G7oW9CrWBAp52spND/310x430/2dbdff19.webp?s=6a06b7eb92069b1941b056847398a8b73c6b26ab",
-    "addedAt": "2026-10-16T19:41:50.565Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5€, sotto soglia"
-  },
-  {
-    "id": "10404134355",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10404134355-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_015cc_pPXZbu7ZYiS7ckhmSTMFsQSw/310x430/d55c1b4a.webp?s=81b88964f6911f148d2a8a68f73438777e8cc75e",
-    "addedAt": "2026-10-16T19:44:57.473Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·Sony·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nNog volledig functioneel en zojuist teruggezet naar fabrieksinstellingen. Een joystick van de PlayStation controller mist wat rubber, maar is nog goed te gebruiken. Inclusief voedingskabel en HDMI kabel, zonder oplader voor de controller.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca il gommino su un analogico del controller, senza cavo di ricarica per il controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10404182735",
     "category": "Console",
     "title": "PS4 standard",
@@ -26236,5 +26203,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~7.8€, sotto soglia"
+  },
+  {
+    "id": "10463169765",
+    "category": "Console",
+    "title": "Pochette pour Nintendo Switch",
+    "price": 3.5,
+    "totalPrice": 4.38,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10463169765-pochette-pour-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00549_HrGRWoQeJBdW63j5xXdhEtGa/310x430/561954b1.webp?s=968b0ea254c8cdbe8f337a8f5fc86f346462cf42",
+    "addedAt": "2026-10-20T19:41:49.223Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.62€, sotto soglia"
   }
 ]
