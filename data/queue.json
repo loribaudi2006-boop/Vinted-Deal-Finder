@@ -1,20 +1,5 @@
 [
   {
-    "id": "10405733469",
-    "category": "Console",
-    "title": "Ventilador refrigerante para ps4",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10405733469-ventilador-refrigerante-para-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01b9e_6GyB69QbEHEMepvg7z65cD12/310x430/a014879b.webp?s=d360d69bb7196726eaa617f856d536e9d943f01a",
-    "addedAt": "2026-10-16T23:29:34.091Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
     "id": "10405795541",
     "category": "Console",
     "title": "ps4 non accende leggere descrizione",
@@ -26588,5 +26573,20 @@
     "geminiFault": "Senza caricabatterie",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10465123204",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10465123204-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01fa7_RCyFHVnzWGZkr4DLx98ujG9c/310x430/a83ac453.webp?s=6f43e894b2e191e60150cc0c8dd9b1279f60d193",
+    "addedAt": "2026-10-20T23:30:16.953Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   }
 ]
