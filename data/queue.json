@@ -1,23 +1,5 @@
 [
   {
-    "id": "10405818992",
-    "category": "Console",
-    "title": "Ps4 neuf",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10405818992-ps4-neuf?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00af6_kzyNsB4QQP2c6nTdPAXGRPZJ/310x430/7b66f524.webp?s=44a38d6dc65d3124a291eed4d1a951d0ed5928d1",
-    "addedAt": "2026-10-16T23:50:21.428Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 neuf\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. Vinted fee\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\n🎮 PS4 + manette AC Milan mais la manette marche plus\n\nJe vends ma PlayStation 4 noire avec une manette filaire aux couleurs de l’AC Milan ❤️🖤\n\n✅ Console PS4\n✅ Manette AC Milan\n✅ Câbles visibles sur les photos\n✅ Console en bon état esthétique\n\nIdéale pour jouer à FIFA, GTA, Call of Duty et bien d’autres jeux 🎮\n\n📦 Envoi soigné\nN’hésitez pas à me contacter pour plus d’informations !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "La manette AC Milan inclusa non funziona",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10405863121",
     "category": "Console",
     "title": "Ps4 pro très bonne état",
@@ -26570,5 +26552,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.3€, sotto soglia"
+  },
+  {
+    "id": "10465233902",
+    "category": "Console",
+    "title": "playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10465233902-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01af8_WgFBWFpCCYmtdBuzSv4NjcfW/310x430/ac260cc1.webp?s=c276029a8c33e30db10c542729d4a40cd403144f",
+    "addedAt": "2026-10-20T23:52:00.058Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "mo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 4\nBuone·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nvendo ps4 perfettamente funzionante, con qualche segno di usura, come si vede in foto.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "qualche segno di usura",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
