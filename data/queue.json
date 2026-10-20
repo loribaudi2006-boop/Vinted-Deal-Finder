@@ -1,20 +1,5 @@
 [
   {
-    "id": "10405576820",
-    "category": "Console",
-    "title": "Xbox One S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10405576820-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02086_95NHC23VQ51NSwsTd5efDQv2/310x430/1b5271ff.webp?s=fde7e190f26a46b22eb85b17fa40658d6a2f3200",
-    "addedAt": "2026-10-16T22:55:19.663Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10405733469",
     "category": "Console",
     "title": "Ventilador refrigerante para ps4",
@@ -26555,5 +26540,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10464898852",
+    "category": "Console",
+    "title": "Échange ps4 contre ps5 avec lecteur CD",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10464898852-echange-ps4-contre-ps5-avec-lecteur-cd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01e18_SrEVXrh5NNqVKqo9mJuVuHbQ/310x430/ef130883.webp?s=549333ad3afb1fb9822abb20d042493fb3aef196",
+    "addedAt": "2026-10-20T22:48:52.976Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10464930301",
+    "category": "Console",
+    "title": "un'Unità processore Sony PlayStation VR (modello CUH-ZVR2) PER PS4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10464930301-ununita-processore-sony-playstation-vr-modello-cuh-zvr2-per-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01445_HWZChNarbgQ5ooBLHG3eKqK7/310x430/87992b57.webp?s=61f9b146301271fabf75f328f6949443a503e448",
+    "addedAt": "2026-10-20T22:54:03.782Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
