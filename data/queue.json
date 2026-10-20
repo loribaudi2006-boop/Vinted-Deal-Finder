@@ -26522,5 +26522,38 @@
     "geminiFault": "macchia sul retro, senza controller, cavi inclusi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10464853246",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10464853246-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ccd_nSgzmX1Z4gcLFKevxnDjFHti/310x430/9451c352.webp?s=f19619a1a116b2b795afbc9071d5822ed26b2e58",
+    "addedAt": "2026-10-20T22:40:36.443Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\n🎮 PlayStation 4 classique – PS4 noire\n\nConsole Sony PlayStation 4 version classique, idéale pour profiter de nombreux jeux vidéo. Design noir élégant, parfaite pour jouer seul ou entre amis.\n\n✅ Console PS4 originale\n✅ Modèle classique\n✅ Coloris noir\n✅ Logo PlayStation et façade d’origine\n\n📦 Vendue comme sur les photos.\n\n📩 N’hésite pas à me contacter pour plus d’informations !\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.55
+  },
+  {
+    "id": "10464695207",
+    "category": "Console",
+    "title": "SWITCH",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10464695207-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01867_7kHcHZ17rrYoebR7gNT6T4Fk/310x430/60a1e810.webp?s=382a7de16a099231bdd62408f683d5eaf9a1d973",
+    "addedAt": "2026-10-20T22:41:38.445Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
