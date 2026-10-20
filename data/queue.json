@@ -25362,5 +25362,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 190
+  },
+  {
+    "id": "10452064873",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10452064873-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02177_7fjm4E34k1FqkHMQLrJRC37Q/310x430/3588b746.webp?s=1096514bd89e382f009de2271596a997cee12653",
+    "addedAt": "2026-10-20T01:13:36.783Z",
+    "processed": false,
+    "triaged": false
   }
 ]
