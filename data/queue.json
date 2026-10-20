@@ -1,21 +1,5 @@
 [
   {
-    "id": "10394555517",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10394555517-playstation-4-mit-ladestation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01467_tYBCzP1DXA6M38jEjyYmy5qV/310x430/d94bb5f4.webp?s=4086ae02988f1ce3c035c2e42f45972f920610f3",
-    "addedAt": "2026-10-16T01:53:32.383Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10393656331",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -25389,7 +25373,10 @@
     "url": "https://www.vinted.it/items/10452199734-consola-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_025df_14L16B7fnSLLkyawchPfFU6S/310x430/c8af9f91.webp?s=861c16d1df82e4c0dc1ffbb51eac97a6c3dc78e2",
     "addedAt": "2026-10-20T01:41:36.020Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
