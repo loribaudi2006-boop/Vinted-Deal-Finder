@@ -26399,5 +26399,23 @@
     "geminiFault": "hs (usualmente inteso come 'hors service' o guasta)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10464745319",
+    "category": "Console",
+    "title": "PlayStation 4 1TB",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10464745319-playstation-4-1tb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c65_UNujaNAWPPwGPVuxDEUh3RvE/310x430/8259a3fb.webp?s=7e3ab87d7efde003d6f598024d1fd169370ab9a4",
+    "addedAt": "2026-10-20T22:22:58.708Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 1TB\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nvendo PlayStation 4 più joystick\nla PlayStation 4 funziona ma l'unico problema che ha e nell'inserimento dei dischi che e un po' difettoso ma se interessati spiego il procedimento per farli entrare. Il joystick e perfettamente funzionante\nSoftware 14:00\n1 TB\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Problema nell'inserimento dei dischi (meccanismo difettoso)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   }
 ]
