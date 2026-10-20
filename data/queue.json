@@ -25308,5 +25308,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-7.45€, sotto soglia"
+  },
+  {
+    "id": "10451698938",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 46,
+    "totalPrice": 49,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10451698938-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00041_ZWwqWXUgWz1YwpmHkf3t5Dut/310x430/c58573f7.webp?s=50803ef8d3b2c6bd1941a9312554d29582fa8d81",
+    "addedAt": "2026-10-20T00:01:44.687Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch lite\nOttime·Nintendo·Caricato un minuto fa\n\n46,00 €\n\n49,00 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch lite\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51
   }
 ]
