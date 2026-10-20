@@ -1,38 +1,5 @@
 [
   {
-    "id": "10395457935",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10395457935-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0070d_ssYiU7d5rrPWLU9jjwuZRja9/310x430/0e845d7b.webp?s=1e77aba5173c6ac7989dab342cc5425097a4ad5a",
-    "addedAt": "2026-10-16T06:55:44.682Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "onismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato 5 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 min fa\nCHIAMARE IL NUMERO IN FOTO GRAZIE\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 130
-  },
-  {
-    "id": "10395497039",
-    "category": "Console",
-    "title": "PS5 Slim Disc Faceplates Cover Holzoptik Holz",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10395497039-ps5-slim-disc-faceplates-cover-holzoptik-holz?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01e8c_ERtxgAEMQNvTzJ9JjZ62n7NE/310x430/ca3d055c.webp?s=f32cb1126af0daab5b9b09ff54d8db0e84d04078",
-    "addedAt": "2026-10-16T07:02:59.171Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-20€, sotto soglia"
-  },
-  {
     "id": "10395570386",
     "category": "Console",
     "title": "Xbox one s 500 Go pour pièces",
@@ -25227,8 +25194,13 @@
     "url": "https://www.vinted.it/items/10453134765-ps4-fw-11?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00e18_KkLREh7GZckbspdFGcQFmSM4/310x430/7a1dfd12.webp?s=c9c85ef49a7aba8e876599599426fc092133a8b9",
     "addedAt": "2026-10-20T06:37:44.464Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 fw 11\nBuone·Sony·Caricato 24 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n24 min fa\nBonjour, ps4 firware 11.00 500g fonctionne mais le lecteur et HS ( vendu sans manette n'y câble) cdlt\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore guasto (HS), senza manette né cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.3
   },
   {
     "id": "10453198573",
@@ -25240,7 +25212,24 @@
     "url": "https://www.vinted.it/items/10453198573-playstation-4-slim-lettore-cd-non-funzionante-per-giochi-digitali-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01e99_7j22NJbCj2jJB37gWBz7Wtim/310x430/93eb3bf4.webp?s=bb5385b305e9874ce3a5aeb95f29b958c3b02b50",
     "addedAt": "2026-10-20T06:51:15.263Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10453248123",
+    "category": "Console",
+    "title": "Console PlayStation 2 PS2 FAT  (Non testata / Da collezione o ricambi)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10453248123-console-playstation-2-ps2-fat-non-testata-da-collezione-o-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01770_8kZYt51EtJ39DcT2hsZ4cCW2/310x430/61c6dbc9.webp?s=d73f1cc38b6f684dba546bf858f6c6c758c4ee16",
+    "addedAt": "2026-10-20T07:01:39.396Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
   }
 ]
