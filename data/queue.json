@@ -1,23 +1,5 @@
 [
   {
-    "id": "10403728006",
-    "category": "Console",
-    "title": "PS4 + 2 mandos + Juegos",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10403728006-ps4-2-mandos-juegos?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e14_x8upBg55XtSfiMYieYLkmByE/310x430/b2b74d61.webp?s=7816495d54cbca8ce48392b515f4079811cf4d37",
-    "addedAt": "2026-10-16T19:07:32.419Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 + 2 mandos + Juegos\nOttime·Sony·Caricato proprio adesso\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 totalmente funcional y reiniciada, dos mandos originales + cargador doble energizer, y varios juegos originales\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.35
-  },
-  {
     "id": "10403776900",
     "category": "Console",
     "title": "Xbox one s",
@@ -26112,7 +26094,57 @@
     "url": "https://www.vinted.it/items/10462593238-nintendo-switch-lite-corail-ecran-dorigine-coques-pieces-detachees?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_017d8_XHQXzmei6VFc2R4wFrR2urqy/310x430/b8d846da.webp?s=794fc4780fb248f197efc2bb5d1f1731028e55ff",
     "addedAt": "2026-10-20T18:59:19.094Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-28.7€, sotto soglia"
+  },
+  {
+    "id": "10462606996",
+    "category": "Console",
+    "title": "Une ps4 neuve",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10462606996-une-ps4-neuve?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01dbf_tKYVLvm4F57NYhzsE9c7fYNG/310x430/e72ad1d1.webp?s=01b6ff990f15b646bfb657b746643b601ee38e84",
+    "addedAt": "2026-10-20T19:00:22.128Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nUne ps4 neuve\nNuovo senza cartellino·PlayStation·Caricato 2 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nAcer Nitro Blaze 7\nCondizioni\nNuovo senza cartellino\nCaricato\n2 min fa\nNeuve\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 47.85
+  },
+  {
+    "id": "10462644286",
+    "category": "Console",
+    "title": "Ps4( non funziona la scheda madre)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"non funziona\" + prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10462644286-ps4-non-funziona-la-scheda-madre?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0234a_QpshCxUAtY4fJL6UD71KbySg/310x430/a4468444.webp?s=a27511087701dd3b16b47367759a3f374a1411ad",
+    "addedAt": "2026-10-20T19:03:30.226Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10462701957",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10462701957-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0149c_bT3N42BDnAEHFPjGWE5wBamH/310x430/87596571.webp?s=e3c39df6aadf32928a826f3680581b7e45180f8c",
+    "addedAt": "2026-10-20T19:07:38.602Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
