@@ -25231,5 +25231,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10453267632",
+    "category": "Console",
+    "title": "Nintendo Switch Standard",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10453267632-nintendo-switch-standard?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01213_v75TKHRAme5A4TueMFH97RaX/310x430/5b875847.webp?s=38109ee2f02ea90acfc720bfa140d08448f0602f",
+    "addedAt": "2026-10-20T07:04:46.317Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10453278554",
+    "category": "Console",
+    "title": "Xbox One Konsole",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10453278554-xbox-one-konsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0154d_9Ew6tk7D9AmmwHWmcGCxzbkL/310x430/6f4e63a6.webp?s=f53f8832330a1299fc10f3eb954154c2643655d6",
+    "addedAt": "2026-10-20T07:06:50.681Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox One Konsole\nBuone·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nProprio adesso\nIch verkaufe meine Xbox One Konsole, die sich in einem guten und voll funktionsfähigen Zustand befindet. Das Set enthält alles, was du für den sofortigen Spielstart benötigst.\n\n- Xbox One Konsole in Schwarz\n- 2 Controller\n- Netzteil\n- 3 Spiele: Shadow of the Tomb Raider, Rocket League, Dragonball FighterZ\n\nDie Konsole weist altersbedingte Gebrauchsspuren auf, die den Betrieb aber nicht beeinträchtigen. Sie wurde pfleglich behandelt und ist bereit für eine neue Runde.\n\nFalls du noch Fragen zu dem Set hast, schreib mir einfach eine Nachricht.\n... altro\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "altersbedingte Gebrauchsspuren (normali segni d'uso dovuti all'età)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
   }
 ]
