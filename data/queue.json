@@ -26285,5 +26285,63 @@
     "geminiFault": "hs (H.S. / Guasta / Non funzionante)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10464498942",
+    "category": "Console",
+    "title": "Socle pour PlayStation 5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10464498942-socle-pour-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019e8_TMG17Qcre79VcjxNgYHPLnN6/310x430/e1b14c71.webp?s=d9dc1bb82aa64e47ce6936081ac1050450da205f",
+    "addedAt": "2026-10-20T21:47:45.730Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10464511300",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10464511300-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01a09_smxMfesvKY5o7CmusodXN2U3/310x430/528efd1c.webp?s=23cb6e9cfcf46ed18d625ff4188fab7169c26e1b",
+    "addedAt": "2026-10-20T21:48:47.985Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10464521429",
+    "category": "Console",
+    "title": "Nintendo Switch – Caixa Original Vazia + Folheto | Joy-Con Cinzentos",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10464521429-nintendo-switch-caixa-original-vazia-folheto-joy-con-cinzentos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026cd_QkDHdB7UTEm4zZkvVrWC9sks/310x430/7abc7ef4.webp?s=173a4ea26459b62e3feed2fcaf0be39dac7b4f1f",
+    "addedAt": "2026-10-20T21:49:50.300Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10464569816",
+    "category": "Console",
+    "title": "PlayStation 4 Slim Blanche",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10464569816-playstation-4-slim-blanche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00554_bovvthor8CHvVAtvFKhiAacg/310x430/b532b7e4.webp?s=d6536ea0816475f70368daf5af583974a1b9a2eb",
+    "addedAt": "2026-10-20T21:57:04.963Z",
+    "processed": false,
+    "triaged": false
   }
 ]
