@@ -25197,8 +25197,11 @@
     "url": "https://www.vinted.it/items/10452975030-consola-ps4-slim-negra-mando-cargador?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01d84_2q8P8K4SP2hppwwibjXHFmNv/310x430/76d4500a.webp?s=78fe73e1c1433610ee3a4a6473a98190c1b276c0",
     "addedAt": "2026-10-20T05:54:07.089Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10453049290",
