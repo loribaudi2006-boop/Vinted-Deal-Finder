@@ -26595,6 +26595,35 @@
     "url": "https://www.vinted.it/items/10466289045-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_021ba_mrHs8vQkCtAVn4HgTQo2e1k3/310x430/22ae8dd5.webp?s=304bec2d9436375cce4663a3f3585e8e5a08d23f",
     "addedAt": "2026-10-21T04:21:42.602Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10466350276",
+    "category": "Console",
+    "title": "Xbox One S mit 9 Spielen+ Controller",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10466350276-xbox-one-s-mit-9-spielen-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_005fa_qVryRAhkhECUG1BAjWr48nFN/310x430/7bcde929.webp?s=623e641f1ae262fda3c71e8aac30add689633973",
+    "addedAt": "2026-10-21T04:48:37.163Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10466349472",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10466349472-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02684_kFYLysGpteXYTtBFDTYK3kf1/310x430/714076a0.webp?s=f977e0003f74fef6f68ee91c86dbc5f1802bd596",
+    "addedAt": "2026-10-21T04:48:37.164Z",
     "processed": false,
     "triaged": false
   }
