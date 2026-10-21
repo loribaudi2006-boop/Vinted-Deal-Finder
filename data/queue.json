@@ -1,23 +1,5 @@
 [
   {
-    "id": "10407296006",
-    "category": "Console",
-    "title": "Am selling ps5",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10407296006-am-selling-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00d37_QfVkB87A6eMZ1kDp3gw3dyRQ/310x430/9f9a917f.webp?s=3f5b979e45d2309fb4a608dd689ebf339c7fceaf",
-    "addedAt": "2026-10-17T07:20:16.599Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Bambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nAm selling ps5\nNuovo con cartellino·PlayStation·Caricato proprio adesso\n\n20,00 €\n\n21,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nProprio adesso\nI have download some many games on it + ps plus, fc 26,and,fc 27,gta 5,wwe 26,nba 2k26, nba 2k27 and you can download some games from ps plus for free\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 300
-  },
-  {
     "id": "10407355291",
     "category": "Console",
     "title": "Nintendo Switch OLED (weiß) Leerbox",
@@ -26700,5 +26682,38 @@
     "geminiFault": "Senza controller (OHNE Controller), segni di usura presenti, display senza difetti",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10466915457",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10466915457-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_007f4_s6ToHmCRcFJp6qJG64mstZ8a/310x430/915fdf16.webp?s=d52a6fbccbb91ff07f95351d8e1b2a2d140d63f2",
+    "addedAt": "2026-10-21T07:23:53.058Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nNuovo senza cartellino·Nintendo·Caricato 2 min fa\n\n2,00 €\n\n2,80 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n2 min fa\nCHIAMARE IL NUMERO IN FOTO GRAZIE\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "CHIAMARE IL NUMERO IN FOTO",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 140
+  },
+  {
+    "id": "10466930064",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10466930064-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_000b4_aVXPxVUspzT1RWHABnfJTDbs/310x430/c2c63442.webp?s=d9099323e2814bff56c814624824d660fd0e570f",
+    "addedAt": "2026-10-21T07:24:55.182Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
