@@ -25764,5 +25764,35 @@
     "geminiFault": "Un petit peu casser",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10474703975",
+    "category": "Console",
+    "title": "base para playstation 4",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 98% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10474703975-base-para-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ee3_8ZzRLreVfpyrFBn2htLaF7xw/310x430/d5a7bc9e.webp?s=4ebd360270a1911b9bc80a53abbe26fb0fc98081",
+    "addedAt": "2026-10-21T17:11:43.823Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.15€, sotto soglia"
+  },
+  {
+    "id": "10474711440",
+    "category": "Console",
+    "title": "Carte mere Xbox one",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10474711440-carte-mere-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ccc_Z3VUS1KTYoXgPcN13WeapB6o/310x430/31cf2a58.webp?s=8193326fa85875277049b39734dc85c239a55882",
+    "addedAt": "2026-10-21T17:12:47.285Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.55€, sotto soglia"
   }
 ]
