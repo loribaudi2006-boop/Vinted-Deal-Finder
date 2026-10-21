@@ -1,35 +1,5 @@
 [
   {
-    "id": "10407073158",
-    "category": "Console",
-    "title": "Xbox One s",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10407073158-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02448_t6ZJooHNhEXa29vbnD6Uwm5C/310x430/fe273a92.webp?s=b526fd3ef330d1958fdfea447f8885aee98ef013",
-    "addedAt": "2026-10-17T06:40:44.141Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
-    "id": "10407082407",
-    "category": "Console",
-    "title": "Xbox One Fat Bianca",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10407082407-xbox-one-fat-bianca?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01758_SaoaLQzu5XGTnNDha7TE2vQ8/310x430/939ad5aa.webp?s=e41b10002781a28c801f546e16ec5065b3cea143",
-    "addedAt": "2026-10-17T06:42:48.766Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10407101380",
     "category": "Console",
     "title": "Xbox One S",
@@ -26659,7 +26629,10 @@
     "url": "https://www.vinted.it/items/10466595108-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0123d_DsKtGshquw3M94FcDSYbEpUV/310x430/dfeaeed9.webp?s=762054f7d13a7d758812ee5e67d9a4de594393ce",
     "addedAt": "2026-10-21T06:16:05.153Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
