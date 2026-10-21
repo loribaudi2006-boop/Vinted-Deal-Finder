@@ -1,20 +1,5 @@
 [
   {
-    "id": "10408347014",
-    "category": "Console",
-    "title": "Nintendo switch Lite",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10408347014-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c0a_NxQjifJVV56KQ9vsoZCFfJmc/310x430/231b8647.webp?s=d9cd194108fb2eeed1c77a32bb7677696b8cd078",
-    "addedAt": "2026-10-17T09:06:19.302Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10408369240",
     "category": "Console",
     "title": "Playstation 4",
@@ -26676,5 +26661,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.05€, sotto soglia"
+  },
+  {
+    "id": "10467798936",
+    "category": "Console",
+    "title": "Faceplates Cover PS5 FAT édition digital starlight blue",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10467798936-faceplates-cover-ps5-fat-edition-digital-starlight-blue?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01722_fEX1oA2A7SRqvyMYadyPTQ6k/310x430/eb652f3f.webp?s=9dcbbb728a6afb0de054389b759e8518840c418a",
+    "addedAt": "2026-10-21T09:03:31.888Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
   }
 ]
