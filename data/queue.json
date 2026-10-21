@@ -1,20 +1,5 @@
 [
   {
-    "id": "10408002356",
-    "category": "Console",
-    "title": "Nintendo switch service",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10408002356-nintendo-switch-service?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01db0_cc5xAB5V6XkJ34iZkZoWoz9v/310x430/a08e1528.webp?s=341acdee5fe8f965f89504c58b48fcf97d2e6ccf",
-    "addedAt": "2026-10-17T08:38:15.070Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10408122584",
     "category": "Console",
     "title": "Xbox one",
@@ -26663,7 +26648,30 @@
     "url": "https://www.vinted.it/items/10467512533-nitendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01015_eikftDanSvjR84deUoEgrgzH/310x430/dee20955.webp?s=14d5bdb6cbc41f2fd74c3da6a98b7a61ee973083",
     "addedAt": "2026-10-21T08:36:35.254Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNitendo switch\nDiscrete·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNitendo switch\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10467590175",
+    "category": "Console",
+    "title": "Nitendo switch avec son étui",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10467590175-nitendo-switch-avec-son-etui?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01af6_yoMdsNteceuh1iAwZZ26dN5w/310x430/28b4fb33.webp?s=48bb6b9e60ed8c5682b2261497a3c74d042789c0",
+    "addedAt": "2026-10-21T08:43:50.351Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNitendo switch avec son étui\nDiscrete·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNintendo switch avec son étui,\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Condizioni discrete",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
