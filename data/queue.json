@@ -1,35 +1,5 @@
 [
   {
-    "id": "10408122584",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10408122584-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00112_4thc6JsF17y4J1dkouCUTJX2/310x430/d932ec3e.webp?s=0824f499481bc357f60c446f7275336573ae3735",
-    "addedAt": "2026-10-17T08:48:38.875Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
-    "id": "10408195063",
-    "category": "Console",
-    "title": "Ps5 slim",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10408195063-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0034b_1G6ibjAAKvVegaByu2EZkBZh/310x430/c6b4da63.webp?s=9958c4aaaaffc973e20188abede377dc1f9d4961",
-    "addedAt": "2026-10-17T08:54:53.156Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.2€, sotto soglia"
-  },
-  {
     "id": "10408347014",
     "category": "Console",
     "title": "Nintendo switch Lite",
@@ -26673,5 +26643,38 @@
     "geminiFault": "Condizioni discrete",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10467662707",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10467662707-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01acb_QCssxHwgMVQBcHnWkF4bR84L/310x430/cc9e4ec8.webp?s=9d9525641ac0ca725df9f7c50d4f4c0d54ea8b22",
+    "addedAt": "2026-10-21T08:51:05.051Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Rimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nElle et en très bonne état proposer moi des prix elle n’est pas à 1 euro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 138
+  },
+  {
+    "id": "10467710023",
+    "category": "Console",
+    "title": "Xbox One Fat Nera + Gioco FC 24 – Funzionante (Scocca con crepa)",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "parola chiave: \"crepa\"",
+    "url": "https://www.vinted.it/items/10467710023-xbox-one-fat-nera-gioco-fc-24-funzionante-scocca-con-crepa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0026c_VhVCanhcDQn45GnR7hidpFzb/310x430/f032747d.webp?s=814e732d166b0196932b6e358f53695db0b35399",
+    "addedAt": "2026-10-21T08:55:14.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.05€, sotto soglia"
   }
 ]
