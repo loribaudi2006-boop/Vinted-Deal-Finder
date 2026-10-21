@@ -26627,8 +26627,11 @@
     "url": "https://www.vinted.it/items/10466386510-ecran-de-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00bf3_K7WaS9wWrg67MhHMG7Unkv3Q/310x430/aacbf1d5.webp?s=0b4659e495958ec288241e0e1ccf3a370c39aa95",
     "addedAt": "2026-10-21T05:04:10.588Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10466393727",
