@@ -26563,8 +26563,11 @@
     "url": "https://www.vinted.it/items/10465980079-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01168_iqF5EQ2HxDu57HAK6egJaF8T/310x430/fea2078d.webp?s=8d9a5a0bc765ba7f3acb65ddd42ea5cb8dd9cb92",
     "addedAt": "2026-10-21T02:33:27.519Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10466054353",
