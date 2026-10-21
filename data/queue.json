@@ -1,38 +1,5 @@
 [
   {
-    "id": "10418690686",
-    "category": "Console",
-    "title": "Pochette de switch et jeux de switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10418690686-pochette-de-switch-et-jeux-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c5c_ss1JVVoMrxE77LmhiPRCtiyj/310x430/fc18029b.webp?s=dd5b9543b9e329e44c51913b438ef35c29fa7ed7",
-    "addedAt": "2026-10-17T20:30:38.112Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.6€, sotto soglia"
-  },
-  {
-    "id": "10418720951",
-    "category": "Console",
-    "title": "Ps5 slim",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10418720951-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01ff9_XjRxdaagd9PEBgw1qMPBHWpz/310x430/2c46e435.webp?s=406aadaae4c572ceed861f65535e4448a4c4cbba",
-    "addedAt": "2026-10-17T20:33:44.360Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 slim\nOttime·PlayStation·Caricato un minuto fa\n\n20,00 €\n\n21,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\néchange contre un pc\n-manette d’origine\n-câble d’origine\n-boîte d’origine\n-très bon etat\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 318.3
-  },
-  {
     "id": "10418760286",
     "category": "Console",
     "title": "Nintendo switch v1",
@@ -25989,5 +25956,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 97.3
+  },
+  {
+    "id": "10477404259",
+    "category": "Console",
+    "title": "Station d’accueil Switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10477404259-station-daccueil-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026a1_SZ3QnvDS3gWu2mN6juUuFg8c/310x430/96452d6c.webp?s=d43d36b5a3c5fb6b6d10384542833c95d3c8cbd3",
+    "addedAt": "2026-10-21T20:29:14.191Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.8€, sotto soglia"
   }
 ]
