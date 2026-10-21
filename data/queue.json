@@ -26643,8 +26643,11 @@
     "url": "https://www.vinted.it/items/10466393727-ps4-slim-y-mando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0221b_L1p5uWQNSC3N1o9XLActLzio/310x430/1d30f6c5.webp?s=269906e583a9174c47dc4536eedcf97f8a5d37d6",
     "addedAt": "2026-10-21T05:07:17.191Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10466393247",
@@ -26656,6 +26659,22 @@
     "url": "https://www.vinted.it/items/10466393247-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_005ad_jPbAK5T8a3KsoPg7S4LVorFh/310x430/7146ca0b.webp?s=c1e89d4e420aefdaab321e202521cb3e52b28612",
     "addedAt": "2026-10-21T05:07:17.191Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10466494321",
+    "category": "Console",
+    "title": "Xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10466494321-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006bd_Byj9Nzj9hKqtkLYTD4XcRtp3/310x430/8f0ca1b5.webp?s=611556fb224ed9157e8b0c092016e7ff89571219",
+    "addedAt": "2026-10-21T05:46:01.491Z",
     "processed": false,
     "triaged": false
   }
