@@ -26565,5 +26565,18 @@
     "addedAt": "2026-10-21T02:33:27.519Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10466054353",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10466054353-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00eed_HLxULZ2oVT6XosDx3xRzFJXP/310x430/b5d9b62d.webp?s=68f97555d11b0b9a95e0b8b364381f47daf5bbfc",
+    "addedAt": "2026-10-21T02:55:11.474Z",
+    "processed": false,
+    "triaged": false
   }
 ]
