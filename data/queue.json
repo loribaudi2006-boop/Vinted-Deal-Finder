@@ -1,21 +1,5 @@
 [
   {
-    "id": "10406805704",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 66,
-    "totalPrice": 70,
-    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10406805704-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01f8a_a3Bfrh9sUHMBXv3AUZWZxtBN/310x430/f8343a90.webp?s=acc09aae726304473a4b7b23073edf7ca648c71f",
-    "addedAt": "2026-10-17T05:19:36.994Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10406953581",
     "category": "Console",
     "title": "Xbox 360 FAT Falcon 20GB Per Ricambi",
@@ -26611,8 +26595,11 @@
     "url": "https://www.vinted.it/items/10466350276-xbox-one-s-mit-9-spielen-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_005fa_qVryRAhkhECUG1BAjWr48nFN/310x430/7bcde929.webp?s=623e641f1ae262fda3c71e8aac30add689633973",
     "addedAt": "2026-10-21T04:48:37.163Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10466349472",
@@ -26624,8 +26611,11 @@
     "url": "https://www.vinted.it/items/10466349472-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02684_kFYLysGpteXYTtBFDTYK3kf1/310x430/714076a0.webp?s=f977e0003f74fef6f68ee91c86dbc5f1802bd596",
     "addedAt": "2026-10-21T04:48:37.164Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10466386510",
