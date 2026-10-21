@@ -26579,7 +26579,10 @@
     "url": "https://www.vinted.it/items/10466054353-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00eed_HLxULZ2oVT6XosDx3xRzFJXP/310x430/b5d9b62d.webp?s=68f97555d11b0b9a95e0b8b364381f47daf5bbfc",
     "addedAt": "2026-10-21T02:55:11.474Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
