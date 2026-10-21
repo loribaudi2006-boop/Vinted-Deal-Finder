@@ -26563,7 +26563,10 @@
     "url": "https://www.vinted.it/items/10465787550-boosting-r6-ps5pc?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_001f4_RffRkziDVromwc9qdWnsA3bc/310x430/cffba0b6.webp?s=ae92141d9ea668cedba437eec100644345387f0b",
     "addedAt": "2026-10-21T01:45:50.917Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
