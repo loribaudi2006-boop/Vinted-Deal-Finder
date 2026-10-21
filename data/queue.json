@@ -1,20 +1,5 @@
 [
   {
-    "id": "10419986683",
-    "category": "Console",
-    "title": "Nintendo DS Rosa Perlato non funzionante",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10419986683-nintendo-ds-rosa-perlato-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00d16_QnwnXQxWqH5W21ZJTdwZWr1U/310x430/1516a1d3.webp?s=fea8c6077a94e3c9fc33e07ba75fe9b8b75ec745",
-    "addedAt": "2026-10-17T23:26:37.839Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
     "id": "10420272312",
     "category": "Console",
     "title": "Switch 2 grip",
@@ -25746,5 +25731,20 @@
     "geminiFault": "mann muss uptaden (richiede aggiornamento)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10478728036",
+    "category": "Console",
+    "title": "Kinect Xbox One con 2 giochi",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10478728036-kinect-xbox-one-con-2-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0219e_1fAHGsWSd1fKqsXaFKMNhoAA/310x430/4c02550f.webp?s=b9625450a3e6bae6bfe8b5daa8844bdc7a835cb7",
+    "addedAt": "2026-10-21T23:28:34.852Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.2€, sotto soglia"
   }
 ]
