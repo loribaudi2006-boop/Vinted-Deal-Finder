@@ -1,53 +1,5 @@
 [
   {
-    "id": "10407888975",
-    "category": "Console",
-    "title": "Vendo Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10407888975-vendo-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01b6d_FhbdoNEUBvhVWfMfG7yHjRsK/310x430/600e92bd.webp?s=1f3ff22001a6956fdddb85de489402152b66ec30",
-    "addedAt": "2026-10-17T08:27:51.048Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVendo Xbox One\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. Vinted fee\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo Xbox one per inutilizzo,vendo compresa di tre joystick e gioco Rainbows X siege\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35
-  },
-  {
-    "id": "10407907349",
-    "category": "Console",
-    "title": "Jeux vidéo PS4",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10407907349-jeux-video-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01458_c5DnEF5DV2ApWCW2P32hiW1R/310x430/1f0c670a.webp?s=a2ef40d8f1fd88ce55345d2f38b8c16bfa3ebcc5",
-    "addedAt": "2026-10-17T08:29:55.610Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-12.15€, sotto soglia"
-  },
-  {
-    "id": "10407968415",
-    "category": "Console",
-    "title": "Cash ps5 slim sans cd",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10407968415-cash-ps5-slim-sans-cd?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01424_HSESUGsPTNwFKMkiHyJn4KAR/310x430/83f18f8d.webp?s=d1b605fb5db1c786745a516396e39844eb86dae1",
-    "addedAt": "2026-10-17T08:35:07.716Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.7€, sotto soglia"
-  },
-  {
     "id": "10408002356",
     "category": "Console",
     "title": "Nintendo switch service",
@@ -26700,5 +26652,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10467512533",
+    "category": "Console",
+    "title": "Nitendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10467512533-nitendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01015_eikftDanSvjR84deUoEgrgzH/310x430/dee20955.webp?s=14d5bdb6cbc41f2fd74c3da6a98b7a61ee973083",
+    "addedAt": "2026-10-21T08:36:35.254Z",
+    "processed": false,
+    "triaged": false
   }
 ]
