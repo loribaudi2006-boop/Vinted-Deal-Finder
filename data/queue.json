@@ -1,20 +1,5 @@
 [
   {
-    "id": "10407355291",
-    "category": "Console",
-    "title": "Nintendo Switch OLED (weiß) Leerbox",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10407355291-nintendo-switch-oled-weiss-leerbox?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_007c5_rGxgL2ABpviVtoSjmQdbiXCW/310x430/505cdb7f.webp?s=9c5064041d949e2434f2feb50ac9e86efa0a0dae",
-    "addedAt": "2026-10-17T07:28:35.584Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-12€, sotto soglia"
-  },
-  {
     "id": "10407431989",
     "category": "Console",
     "title": "Play station 4 - ps4",
@@ -26715,5 +26700,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.8€, sotto soglia"
+  },
+  {
+    "id": "10466978927",
+    "category": "Console",
+    "title": "Nintendo Switch lite grau + Spiel",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10466978927-nintendo-switch-lite-grau-spiel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0011d_ZMPq19yYLFBia9soFaJgx4kq/310x430/b66354a5.webp?s=21a4adb86024cab6cd2ef766f45304ebc5ec0fc9",
+    "addedAt": "2026-10-21T07:32:11.354Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch lite grau + Spiel\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nZL knopf ist hinten kaputt Nintendo geht noch sehr gut + mario rabbids sparks of hope ist dabei und YouTube Akku ist auch noch ganz gut Bildschirm ist nicht kaputt und wurde frisch sauber gemacht\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tasto ZL posteriore rotto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.05
   }
 ]
