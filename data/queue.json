@@ -25791,7 +25791,10 @@
     "url": "https://www.vinted.it/items/10479541428-supporto-verticale-per-ps4-fat-base-stand-ner-salva-spazio?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_024b5_acbM11m6GHPiALtMDo5tAvhY/310x430/c8c331c7.webp?s=b8c3afa21b898ae0ec1aee269b3be750d9c8a35d",
     "addedAt": "2026-10-22T02:28:55.075Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
