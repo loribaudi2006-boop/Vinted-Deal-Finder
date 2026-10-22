@@ -1,23 +1,5 @@
 [
   {
-    "id": "10436712829",
-    "category": "Console",
-    "title": "Nintendo switch Lite",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10436712829-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c0a_NxQjifJVV56KQ9vsoZCFfJmc/310x430/231b8647.webp?s=d9cd194108fb2eeed1c77a32bb7677696b8cd078",
-    "addedAt": "2026-10-18T21:11:11.073Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Pubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch Lite\nOttime·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nFunzionante\nManca gommino del tasto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca gommino del tasto",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.8
-  },
-  {
     "id": "10436737194",
     "category": "Console",
     "title": "Tapas PS5 Ghost Of Yotei",
@@ -23593,5 +23575,35 @@
     "geminiFault": "Mancano i joy-con (joystick)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10490542357",
+    "category": "Console",
+    "title": "Station d'accueil blanche Nintendo Switch 1 officielle",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10490542357-station-daccueil-blanche-nintendo-switch-1-officielle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00f8b_9Z6jx9KTj9owmsBpqkfkUMNN/310x430/99e15e45.webp?s=248ef8fe21a1e3a6ec505c75bacf0f6ff1fa3748",
+    "addedAt": "2026-10-22T21:04:20.497Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10490567697",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10490567697-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_003eb_bH93XiXvUkPqbM8jADyNGVss/310x430/e709d782.webp?s=0c0fbfa3103235f32f8016405d455239d1e913ce",
+    "addedAt": "2026-10-22T21:07:26.274Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
