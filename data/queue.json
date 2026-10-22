@@ -1,20 +1,5 @@
 [
   {
-    "id": "10422020951",
-    "category": "Console",
-    "title": "Station charge Switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10422020951-station-charge-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_000ec_rW59937JRG2EkHbd64AmXift/310x430/e4d0557a.webp?s=8e30e17a2d2c037597e185febc25d1e67f632f7f",
-    "addedAt": "2026-10-18T08:07:44.210Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10.2€, sotto soglia"
-  },
-  {
     "id": "10422075190",
     "category": "Console",
     "title": "PS4 + 2 manettes",
@@ -25644,5 +25629,33 @@
     "geminiFault": "Pad non originale incluso",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10480819225",
+    "category": "Console",
+    "title": "cadre ps5 slim",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10480819225-cadre-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0086a_LQ4VeVMtfTBpsm4hWkEgHin7/310x430/11de79c6.webp?s=f3db10a1d53fb68605c56fdc04d68b930c56a86b",
+    "addedAt": "2026-10-22T08:11:34.823Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10480829453",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10480829453-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00f3d_2QCTiCiJTEQH6qQhXuAzCmKG/310x430/6314c541.webp?s=52e3f4d2aeb1ed64d41f8a30d04afdce21adf48f",
+    "addedAt": "2026-10-22T08:12:37.281Z",
+    "processed": false,
+    "triaged": false
   }
 ]
