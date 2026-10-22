@@ -25743,8 +25743,11 @@
     "url": "https://www.vinted.it/items/10479400359-trade-for-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0229f_Bfynz7LLBiYqi9g4ApoM19oH/310x430/a46c95d3.webp?s=8b77a26fd9943d1b56101f25b36565e3508f7d6f",
     "addedAt": "2026-10-22T01:52:34.648Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10479438033",
@@ -25756,6 +25759,19 @@
     "url": "https://www.vinted.it/items/10479438033-ps5-portal?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_02608_CodrnosJGw6MmtoYquNqvoUd/310x430/8db3e6e0.webp?s=9343a56892cec366a683108c9d4b6f4b687f1396",
     "addedAt": "2026-10-22T02:01:54.152Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10479496250",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10479496250-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01dac_3sDxcGqfKnTry8crSDwcQKc3/310x430/89219797.webp?s=a61796ff4ef857686b44c83573446b392017713b",
+    "addedAt": "2026-10-22T02:16:25.408Z",
     "processed": false,
     "triaged": false
   }
