@@ -1,20 +1,5 @@
 [
   {
-    "id": "10421391537",
-    "category": "Console",
-    "title": "Console PlayStation 2 PS2 Fat (Da testare / Per pezzi di ricambio)",
-    "price": 24.9,
-    "totalPrice": 26.85,
-    "reason": "parola chiave: \"per pezzi\"",
-    "url": "https://www.vinted.it/items/10421391537-console-playstation-2-ps2-fat-da-testare-per-pezzi-di-ricambio?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01d29_KW27siMnWqEbueDKhmpQU1py/310x430/6083717f.webp?s=eca21d903897827c493d52b2a6c99d57bcc38e53",
-    "addedAt": "2026-10-18T06:43:54.724Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10.15€, sotto soglia"
-  },
-  {
     "id": "10421442228",
     "category": "Console",
     "title": "Playstation 4 Slim 1TB Speicher",
@@ -25837,7 +25822,10 @@
     "url": "https://www.vinted.it/items/10480185720-playstation-4-tres-bon-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_009e2_gLEc7r5Gjiqq9GZdxR7VqdE6/310x430/50c5eb5d.webp?s=4ca10e6235d9c32dac2cfd4a69f388efb140df21",
     "addedAt": "2026-10-22T06:21:24.523Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
