@@ -1,56 +1,5 @@
 [
   {
-    "id": "10430218435",
-    "category": "Console",
-    "title": "XBOX one fat 365gb con difetto del lettore non funzionante",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "parola chiave: \"non funzionante\" + prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10430218435-xbox-one-fat-365gb-con-difetto-del-lettore-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01765_XbMaZvcuwsSoxK4eeztFp8S9/310x430/e41c3559.webp?s=47a19a2cbde6983a54c7b61fbdf379c3b910198f",
-    "addedAt": "2026-10-18T15:12:58.460Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
-    "id": "10430241843",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10430241843-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_003ce_mp34AkQ5VYmHt4xr2awUxNNm/310x430/45bbfc93.webp?s=c9baa0b8b5f9c95eb8216a53861026bed6fefac3",
-    "addedAt": "2026-10-18T15:14:00.370Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nComme neuve très peu servi\n1 rayure sur l’arrière de la console (visible sur la photo)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "1 rayure sur l'arrière de la console (graffio sul retro)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 81.55
-  },
-  {
-    "id": "10430228842",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10430228842-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01fe5_KiQkvhWXYUpGewRxh9VEvbyu/310x430/c157364b.webp?s=c258ee6f700a5bbbbc3bb75fb01a0d382caa9049",
-    "addedAt": "2026-10-18T15:14:00.370Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nBon état avec un seul câble manque câble hdmi\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "manca cavo hdmi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "10430488092",
     "category": "Console",
     "title": "Nintendo Switch + 4 jeux + boîte",
@@ -23999,13 +23948,15 @@
     "url": "https://www.vinted.it/items/10485623262-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02587_L8mfeY5yQZUwmmXf1F6ZUCoB/310x430/10be5d31.webp?s=22d2997190c265d2e38f2a5ac05050b31d0f431a",
     "addedAt": "2026-10-22T14:47:15.105Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "port\nPubblicità\n‌\n\n16\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato 13 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n13 min fa\nPlaystation 4. Disk maakt een raar geluid maar doet het wel gewoon.\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "Disk maakt een raar geluid maar doet het wel gewoon.",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 45.85
+    "geminiRoughMargin": 45.85,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10485641152",
@@ -24017,8 +23968,11 @@
     "url": "https://www.vinted.it/items/10485641152-playstation-5-konsolen-cover?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01234_rFE5uACAbJk2ZFx8aU92We8x/310x430/0caafcbc.webp?s=b5dbf163ea576b9964311c0a4be1463d73eeba8e",
     "addedAt": "2026-10-22T14:49:21.592Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10485669987",
@@ -24030,8 +23984,11 @@
     "url": "https://www.vinted.it/items/10485669987-vend-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_012e3_XurLJjZeFgMPDDaTXGt1xoo3/310x430/7230e147.webp?s=3ce5eb7d51146d7504692de48e485d1600f13492",
     "addedAt": "2026-10-22T14:50:23.871Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10485686079",
@@ -24061,8 +24018,11 @@
     "url": "https://www.vinted.it/items/10485684661-ps5-pro-a-vendre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0162d_v1sYvnPY98ePKtCfsgaxVuXq/310x430/b73726bb.webp?s=d0810b64716d850951e62fb9d86969315b758bba",
     "addedAt": "2026-10-22T14:51:26.283Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10485680508",
@@ -24074,8 +24034,11 @@
     "url": "https://www.vinted.it/items/10485680508-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_013c1_8tPRBZeWXffrRKs6ybjEMQfd/310x430/69e9fef7.webp?s=d9a05bc490a50a3e504fe28aa9c3a7d9e4834a13",
     "addedAt": "2026-10-22T14:51:26.283Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10485700737",
@@ -24204,6 +24167,71 @@
     "url": "https://www.vinted.it/items/10485974173-je-cherche-une-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0107c_1B2G2Z5xEEKospy51rQ8bif2/310x430/5611cbb6.webp?s=0f0af164d992a0a4d80793cbabc69c9b30d70631",
     "addedAt": "2026-10-22T15:12:16.453Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10486038036",
+    "category": "Console",
+    "title": "Caméra ps5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10486038036-camera-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0216e_ifFpd2tL4U4A6NWNwnnBgYfc/310x430/9af3f7e7.webp?s=ec2f5de14804f51393c4ca6b5cf446ba7fee2f36",
+    "addedAt": "2026-10-22T15:16:25.934Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10486047914",
+    "category": "Console",
+    "title": "PS4 Slim con problemi",
+    "price": 39.99,
+    "totalPrice": 42.69,
+    "reason": "parola chiave: \"problemi\" + prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10486047914-ps4-slim-con-problemi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_004b1_TH1cY3xeyeji2TKBaoBEkfKJ/310x430/0a6a404d.webp?s=6fef27445ec501d9baaf77121f754a6e3e6217e7",
+    "addedAt": "2026-10-22T15:17:28.367Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10486060394",
+    "category": "Console",
+    "title": "Façade pour PS5 slim noir mat",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10486060394-facade-pour-ps5-slim-noir-mat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d62_XF5JyvmmDG5Yd2cJNyzLmqDg/310x430/0d8b2050.webp?s=f8eef817cac4b3c0a9e9bb5a1eb1562f74b1d8b5",
+    "addedAt": "2026-10-22T15:18:31.880Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10486089575",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10486089575-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0038a_41wwqHKnGDKd768yXTa1DBir/310x430/04f7b2ae.webp?s=3b48c199db53727f74c6cdb8e6cd2925bba8e94c",
+    "addedAt": "2026-10-22T15:20:36.427Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10486102073",
+    "category": "Console",
+    "title": "Console PlayStation 4 Slim Usata Originale Sony",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10486102073-console-playstation-4-slim-usata-originale-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_007cd_y3swLAQ9CcGwNcNevMM8wJvX/310x430/5f7c59a7.webp?s=0647cc9d2afb571e6fea9be6cb178004f955156c",
+    "addedAt": "2026-10-22T15:21:38.679Z",
     "processed": false,
     "triaged": false
   }
