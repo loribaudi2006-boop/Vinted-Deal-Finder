@@ -25759,8 +25759,11 @@
     "url": "https://www.vinted.it/items/10479438033-ps5-portal?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_02608_CodrnosJGw6MmtoYquNqvoUd/310x430/8db3e6e0.webp?s=9343a56892cec366a683108c9d4b6f4b687f1396",
     "addedAt": "2026-10-22T02:01:54.152Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10479496250",
@@ -25772,6 +25775,19 @@
     "url": "https://www.vinted.it/items/10479496250-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01dac_3sDxcGqfKnTry8crSDwcQKc3/310x430/89219797.webp?s=a61796ff4ef857686b44c83573446b392017713b",
     "addedAt": "2026-10-22T02:16:25.408Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10479541428",
+    "category": "Console",
+    "title": "Supporto Verticale per PS4 Fat – Base Stand Ner (Salva-Spazio)",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10479541428-supporto-verticale-per-ps4-fat-base-stand-ner-salva-spazio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024b5_acbM11m6GHPiALtMDo5tAvhY/310x430/c8c331c7.webp?s=b8c3afa21b898ae0ec1aee269b3be750d9c8a35d",
+    "addedAt": "2026-10-22T02:28:55.075Z",
     "processed": false,
     "triaged": false
   }
