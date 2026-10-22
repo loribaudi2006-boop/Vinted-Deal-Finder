@@ -25746,5 +25746,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-0.2€, sotto soglia"
+  },
+  {
+    "id": "10478942652",
+    "category": "Console",
+    "title": "Caja vacia PlayStation 5 God of War Ragnarök",
+    "price": 9.99,
+    "totalPrice": 11.19,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10478942652-caja-vacia-playstation-5-god-of-war-ragnarok?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_003f6_vzmjJoGAUqeCUNNNm1bfhA1t/310x430/832adde1.webp?s=1f7c0f965746deb3c820b90ab3c97b93f739d848",
+    "addedAt": "2026-10-22T00:13:07.675Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   }
 ]
