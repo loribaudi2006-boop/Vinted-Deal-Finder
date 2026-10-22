@@ -1,37 +1,5 @@
 [
   {
-    "id": "10421041476",
-    "category": "Console",
-    "title": "Playstation 4 mit  2 Controllern",
-    "price": 23,
-    "totalPrice": 24.85,
-    "reason": "prezzo 82% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10421041476-playstation-4-mit-2-controllern?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00882_YmoLqBzfuTn62tLH7sTP1nwj/310x430/b2c06328.webp?s=e3e9c48d87bf9ef65feee59016b5f9c45edec464",
-    "addedAt": "2026-10-18T04:39:54.372Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10421079350",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10421079350-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_017f0_4M7M2M14NawYcJ13sY1S7P5P/310x430/3783cf5f.webp?s=9e2ab9e94eaada53eb3b8d89d61f6297b04305b5",
-    "addedAt": "2026-10-18T04:58:36.942Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10421326433",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -25796,5 +25764,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10479940334",
+    "category": "Console",
+    "title": "PS4 NOIR",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10479940334-ps4-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02589_quSSs3Stb9qFs9QDAZZNwbuS/310x430/e54a33f1.webp?s=d45a7b59e4de536146a006c05c7b233d6ff2a4a3",
+    "addedAt": "2026-10-22T04:54:10.909Z",
+    "processed": false,
+    "triaged": false
   }
 ]
