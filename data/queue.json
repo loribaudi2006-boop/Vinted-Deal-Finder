@@ -25839,6 +25839,22 @@
     "url": "https://www.vinted.it/items/10480035587-boite-vide-nintendo-switch-2-edition-pokemon-legendes-z-a-avec-protections?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02312_4kC5WMVmMN9pfiMGi3CG9jZU/310x430/a3f0fdaf.webp?s=6d93da9fa03c17c48bec986cbba0fd80875f3130",
     "addedAt": "2026-10-22T05:33:38.241Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10480123298",
+    "category": "Console",
+    "title": "Nintendo switch non funzionante",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10480123298-nintendo-switch-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_026e4_BTpRRX23QuAznJZ68RgXzRTB/310x430/ad361480.webp?s=1f42e9b902fc53cf63a72f86e3e3989e4bf84aab",
+    "addedAt": "2026-10-22T06:03:45.824Z",
     "processed": false,
     "triaged": false
   }
