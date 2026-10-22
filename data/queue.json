@@ -1,23 +1,5 @@
 [
   {
-    "id": "10437242361",
-    "category": "Console",
-    "title": "Steam deck échange 2026",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per Steam Deck (~380€)",
-    "url": "https://www.vinted.it/items/10437242361-steam-deck-echange-2026?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01049_TVKEzkP5ybFhukF7Siskff7k/310x430/d3b8105a.webp?s=09df9fd4b2626dec8d528a3a2316373417806d85",
-    "addedAt": "2026-10-18T22:11:11.496Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "mo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleValve Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSteam deck échange 2026\nOttime·Valve·Caricato un minuto fa\n\n5,00 €\n\n5,95 €\nincl. la commissione Vinted\nBrandValve\nPiattaforma\nSteam Deck\nCondizioni\nOttime\nCaricato\nun minuto fa\nSteam deck\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 200
-  },
-  {
     "id": "10437338471",
     "category": "Console",
     "title": "Microsd sandisk 256gb Nintendo switch",
@@ -23599,5 +23581,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40
+  },
+  {
+    "id": "10491017321",
+    "category": "Console",
+    "title": "Nintendo Switch Hülle",
+    "price": 14.99,
+    "totalPrice": 16.44,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10491017321-nintendo-switch-hulle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011c0_yyQkCSFgXg3vrkzm33idshh1/310x430/2b184005.webp?s=6e046d1f40db6446b6d7863169c68b4834366291",
+    "addedAt": "2026-10-22T22:07:25.483Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-7€, sotto soglia"
   }
 ]
