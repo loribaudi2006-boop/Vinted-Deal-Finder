@@ -1,23 +1,5 @@
 [
   {
-    "id": "10421442228",
-    "category": "Console",
-    "title": "Playstation 4 Slim 1TB Speicher",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10421442228-playstation-4-slim-1tb-speicher?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01423_6QAkcTToExeigdb7yNCZYuNh/310x430/011ba274.webp?s=b07430345923a99606fb11e742f0cf23abcf0733",
-    "addedAt": "2026-10-18T06:54:14.364Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "sso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPlaystation 4 Slim 1TB Speicher\nOttime·PlayStation·Caricato 7 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n7 min fa\nIch verkaufe hier meine sehr gut erhaltene Playstation 4 Slim mit 1TB Speicher. Dazu gehören 2 Controller und die passenden Ladekabel.\nSpedizione\nda 7,49 €",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80
-  },
-  {
     "id": "10421522464",
     "category": "Console",
     "title": "PS4 mit 2 Controllern",
@@ -25827,5 +25809,23 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10480336475",
+    "category": "Console",
+    "title": "Ps4 fat",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10480336475-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01c4c_3Lai6d1BzUU3ZbXAf2QB9fnP/310x430/f5d330c0.webp?s=6c1f0c7967a1f01df0b822cfe8e6b75f57128eb3",
+    "addedAt": "2026-10-22T06:57:46.034Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 fat\nOttime·PlayStation·Caricato 4 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nPs4 fat non si accende e da rivedere\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "non si accende e da rivedere",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
