@@ -23835,5 +23835,44 @@
     "addedAt": "2026-10-23T05:20:30.087Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10492704094",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10492704094-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b03_3eep4zJ7CVxvVfe6W69b67HJ/310x430/c98ee952.webp?s=e24ca5279cc7e7c12867d80382ce34c5017f38a9",
+    "addedAt": "2026-10-23T05:22:34.341Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10492705243",
+    "category": "Console",
+    "title": "Boîte vide Sony PS5 Ratchet & Clank",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10492705243-boite-vide-sony-ps5-ratchet-clank?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00666_YpTDAKBQGtuJ5KMJNqTFrvoQ/310x430/68f31c0a.webp?s=d00f579be8744a61e5781cd4cadbedd624297640",
+    "addedAt": "2026-10-23T05:23:36.574Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10492712191",
+    "category": "Console",
+    "title": "Boîte vide Sony PS5",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10492712191-boite-vide-sony-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02035_TcP43gYx6eggUk2QMMmhFAiJ/310x430/c52a8a3b.webp?s=c5979f6aa28211ae05ec1624a5bad76932d1c7b9",
+    "addedAt": "2026-10-23T05:26:42.781Z",
+    "processed": false,
+    "triaged": false
   }
 ]
