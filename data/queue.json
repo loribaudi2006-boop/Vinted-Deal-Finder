@@ -23721,8 +23721,11 @@
     "url": "https://www.vinted.it/items/10492357927-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01341_zpC2nbkrXozkZyWNBZWo5xnz/310x430/47fa3366.webp?s=ccd4a20c0640e12b66854478d38613dff3246d9e",
     "addedAt": "2026-10-23T03:02:52.855Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10492368929",
@@ -23734,8 +23737,11 @@
     "url": "https://www.vinted.it/items/10492368929-nintendo-switch-top-zustand?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_025b4_5ad23cymHyGgWh2zjgofDFHZ/310x430/11d83519.webp?s=0ee211b72f7db8e09ef3ef3b580f13b588e67f49",
     "addedAt": "2026-10-23T03:07:01.203Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10492436857",
@@ -23747,6 +23753,19 @@
     "url": "https://www.vinted.it/items/10492436857-nintendo-switch-top-zustand?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_025b4_5ad23cymHyGgWh2zjgofDFHZ/310x430/11d83519.webp?s=0ee211b72f7db8e09ef3ef3b580f13b588e67f49",
     "addedAt": "2026-10-23T03:29:47.329Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10492454986",
+    "category": "Console",
+    "title": "PS4 Fat Classique noir",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10492454986-ps4-fat-classique-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00750_d84LVzVbdFxdV7wgyfJ7Yp7C/310x430/49b1d18e.webp?s=fc273aea0872cd164f827ac3d88429de41f37dba",
+    "addedAt": "2026-10-23T03:37:01.919Z",
     "processed": false,
     "triaged": false
   }
