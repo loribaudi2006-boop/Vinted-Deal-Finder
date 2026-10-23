@@ -1,20 +1,5 @@
 [
   {
-    "id": "10450777921",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10450777921-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01776_nbXyzwwUU4dLRRBvDXXB3A8L/310x430/26c7e986.webp?s=019d3f102074424b2190e74767936702a102a21c",
-    "addedAt": "2026-10-19T21:31:07.947Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10450810264",
     "category": "Console",
     "title": "Ps4 nur Konsole",
@@ -22922,5 +22907,23 @@
     "geminiFault": "Schermo rotto per oggetto caduto sopra",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 98.25
+  },
+  {
+    "id": "10503258236",
+    "category": "Console",
+    "title": "Gros lot manettte ps4 + jeux ps4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10503258236-gros-lot-manettte-ps4-jeux-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d43_CNK7FFEJJkgFLt1rJZ5eiWBP/310x430/aa97f382.webp?s=5a8ab96f5759d25e5f700cb4f634e857d8a550d9",
+    "addedAt": "2026-10-23T21:33:05.754Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "icaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGros lot manettte ps4 + jeux ps4\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nTout est en parfaite état manette sans joystick drift\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   }
 ]
