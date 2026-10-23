@@ -1,41 +1,5 @@
 [
   {
-    "id": "10439708459",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10439708459-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_014a1_aqWDHysvv641S4uo8trfk3rq/310x430/af3274ae.webp?s=2120c6d0bf0873fdd5f02416156f425f7721880b",
-    "addedAt": "2026-10-19T08:02:08.000Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nMenos de 2 meses de uso.\nLa vendo porque no la uso, no acepto devoluciones. De vivir en Málaga podemos quedar en persona y la revisan.\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.8
-  },
-  {
-    "id": "10439738011",
-    "category": "Console",
-    "title": "ps4+manette+cable hdmi+câble pour jouer",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10439738011-ps4manettecable-hdmicable-pour-jouer?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02700_LmvxR711E4fmVimyqBCn9DSE/310x430/6283dae1.webp?s=dff119f2dd3957f3b1bc2714196cde12f82b3934",
-    "addedAt": "2026-10-19T08:06:17.801Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4+manette+cable hdmi+câble pour jouer\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nla ps4 est en très bonne état et fonctionne (photo en privée pour les intéresser,la manette a\nmarche parfaitement et les câble sont neuf.prix négociable.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.3
-  },
-  {
     "id": "10439780832",
     "category": "Console",
     "title": "Switch 1",
@@ -23819,5 +23783,20 @@
     "geminiFault": "Il lettore CD non legge i giochi.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "10493425019",
+    "category": "Console",
+    "title": "Lettore disco originale PS5 Slim Sony con copertura bianca",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10493425019-lettore-disco-originale-ps5-slim-sony-con-copertura-bianca?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0116f_3vXKzwAU4f4xMKqHuYXqBnKV/310x430/8dc77638.webp?s=0a61be45be9eac4ede1947e9728cacb0ff722b9e",
+    "addedAt": "2026-10-23T07:59:33.593Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.55€, sotto soglia"
   }
 ]
