@@ -1,25 +1,5 @@
 [
   {
-    "id": "10439220281",
-    "category": "Console",
-    "title": "PS4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10439220281-ps4-playstation-4-ein-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0247f_d8w9SpKAGpDJiggpn2btAnuY/310x430/aa35fbcf.webp?s=76a2a894a35cad60979567c2b38a6d106bb1a6c8",
-    "addedAt": "2026-10-19T06:40:00.586Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
-    "listingText": "imosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4, PlayStation 4 + ein Controller\nOttime·PlayStation·Caricato un'ora fa\n\n75,00 €\n\n79,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun'ora fa\nPS4, PlayStation 4 + ein Controller\n\nGuter gebrauchter Zustand\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
     "id": "10439260285",
     "category": "Console",
     "title": "Xbox one",
@@ -23829,8 +23809,11 @@
     "url": "https://www.vinted.it/items/10492818216-verkaufe-nintendo-switch-lite-mit-fc24-und-3-weiteren-spiele?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00026_CmwEEot8rPwuDN1FxBFRa2jH/310x430/12d3ce1c.webp?s=2bff848839d4cba4b9f0e30bebd2d34266292196",
     "addedAt": "2026-10-23T06:08:49.207Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10492812387",
@@ -23842,8 +23825,11 @@
     "url": "https://www.vinted.it/items/10492812387-ps5-playstation-scatola-vuota?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00be1_Mz8WMia1dbVyFuE6rWBxHyGT/310x430/da6278ca.webp?s=e9f0f40e848af7c20577db4bee7b1b88e64dd3be",
     "addedAt": "2026-10-23T06:08:49.207Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10492915260",
