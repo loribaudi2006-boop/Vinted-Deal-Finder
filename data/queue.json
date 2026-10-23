@@ -23785,8 +23785,11 @@
     "url": "https://www.vinted.it/items/10492532958-tapa-superior-sony-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_000a0_o9SvVo4WLd8E4Wd2LAx3MfWM/310x430/33e52829.webp?s=ab422648c3bf7cbb7d3536fb70d863291adcfd28",
     "addedAt": "2026-10-23T04:09:06.269Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10492536210",
