@@ -1,38 +1,5 @@
 [
   {
-    "id": "10451542619",
-    "category": "Console",
-    "title": "Switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10451542619-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00aa6_m7fMvczdQurimAw2MjDagic2/310x430/cd9f200d.webp?s=475e31dbe183b9395adc5c8005803a6e6f942b5a",
-    "addedAt": "2026-10-19T23:31:33.045Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSwitch seul pas de matériel juste la switch 😢\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Console seule, pas de matériel (solo console, nessun accessorio o dock)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 62.3
-  },
-  {
-    "id": "10451547530",
-    "category": "Console",
-    "title": "Soporte Nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10451547530-soporte-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_014a3_HwM4KnN68WmzErXXTo1X7c84/310x430/172a7563.webp?s=8610a258bacc480046e2219b2b977f12c9378fb2",
-    "addedAt": "2026-10-19T23:32:35.933Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-7.45€, sotto soglia"
-  },
-  {
     "id": "10451698938",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -22922,5 +22889,18 @@
     "geminiFault": "Manca il controller (manette), include solo il cavo di alimentazione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 47.3
+  },
+  {
+    "id": "10503204079",
+    "category": "Console",
+    "title": "Borne d'arcade compatible Nintendo Switch – support rouge",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10503204079-borne-darcade-compatible-nintendo-switch-support-rouge?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_005ac_wgk9Pxcwqe8L6rPAxj8rPmYm/310x430/beb1a4e6.webp?s=ff2ecc4c43115a64fc98c7cad46b8bba6adde8f6",
+    "addedAt": "2026-10-23T23:35:19.169Z",
+    "processed": false,
+    "triaged": false
   }
 ]
