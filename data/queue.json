@@ -1,38 +1,5 @@
 [
   {
-    "id": "10451185803",
-    "category": "Console",
-    "title": "Station de charge PS5 Slim",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10451185803-station-de-charge-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02320_ztx3Dwg39RrKMjJqV5ozGjbz/310x430/f329dd73.webp?s=fa8bbca137c84c5cb4c21dec8cdf6102a18d007c",
-    "addedAt": "2026-10-19T22:28:13.513Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.55€, sotto soglia"
-  },
-  {
-    "id": "10451198172",
-    "category": "Console",
-    "title": "PlayStation 4 slim",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10451198172-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00fd3_amyFZYbvwumQ6DiDYT6uxDJQ/310x430/1fdd874e.webp?s=34ddaa66473cfaf38483cbfc31b80e2535d26158",
-    "addedAt": "2026-10-19T22:30:18.274Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "na\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 slim\nBuone·Sony·Caricato proprio adesso\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nHiermit verkaufe ich meine ps4 Slim. Sie steht nur rum und ist ohne Benutzung hat fast nichts sichtbare Kratzer auf dem Deckel dazu gibt’s das Original Netzwerkkabel plus HDMI Kabel und ist komplett funktionstüchtig und läuft leise.\n\nWichtige Info Controller gibt es keinen dazu‼️\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca il controller (Wichtige Info Controller gibt es keinen dazu)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 77.8
-  },
-  {
     "id": "10451226820",
     "category": "Console",
     "title": "Ps5 Ständer liegend",
@@ -22829,5 +22796,23 @@
     "geminiFault": "ne s allume pas ! A réparer ou pour pièces",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.8
+  },
+  {
+    "id": "10503648219",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10503648219-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_010ff_3ge8TWrs7g91sd8Hfo8oSQ7w/310x430/2095e46d.webp?s=71603e3085c19514ddb1be05828626b0cbdded5a",
+    "addedAt": "2026-10-23T22:34:13.108Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "li griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nEstá em boas condições, quero vender porque comprei a 5 e já não dou uso\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.3
   }
 ]
