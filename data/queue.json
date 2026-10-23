@@ -1,20 +1,5 @@
 [
   {
-    "id": "10451400439",
-    "category": "Console",
-    "title": "Carte Micro SD Nintendo Switch 128 Go SanDisk",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10451400439-carte-micro-sd-nintendo-switch-128-go-sandisk?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00e1f_6AzZHF5JaFxbHCU6pf8ZzdjE/310x430/f88e1a7b.webp?s=6421206aebc3685c7b7ef1bff4fbefd65d96fd89",
-    "addedAt": "2026-10-19T23:05:35.309Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.7€, sotto soglia"
-  },
-  {
     "id": "10451466656",
     "category": "Console",
     "title": "🎮 Dock Nintendo Switch 1 + chargeur officiel – Très bon état",
@@ -22919,5 +22904,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10503824094",
+    "category": "Console",
+    "title": "Ps4 2 joystick tutto funzionante praticamente mai usata.",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10503824094-ps4-2-joystick-tutto-funzionante-praticamente-mai-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0017f_5gG71rh2wF4YSSpBREccKDXS/310x430/25bee3cd.webp?s=1a926030fbe11a2f0a96d144138285cd1e9be96d",
+    "addedAt": "2026-10-23T23:10:28.154Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10503829323",
+    "category": "Console",
+    "title": "Ps4 console",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10503829323-ps4-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02454_GY6e94vTD8irUDpLHyi99nrq/310x430/1cbd77e9.webp?s=87cbdb273e046dcafae98ba3bdd7c91d67398e41",
+    "addedAt": "2026-10-23T23:11:30.399Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "T\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 console\nBuone·Sony·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nJe vend ma playstation 4 que je n’utilise plus je n’ai pas la manette mais j’ai le câble d’alimentation qui va avec\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il controller (manette), include solo il cavo di alimentazione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.3
   }
 ]
