@@ -23657,8 +23657,11 @@
     "url": "https://www.vinted.it/items/10492039838-nintendo-switch-top-zustand?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_025b4_5ad23cymHyGgWh2zjgofDFHZ/310x430/11d83519.webp?s=0ee211b72f7db8e09ef3ef3b580f13b588e67f49",
     "addedAt": "2026-10-23T01:37:57.085Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10492063744",
@@ -23670,6 +23673,32 @@
     "url": "https://www.vinted.it/items/10492063744-nintendo-switch-top-zustand?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_025b4_5ad23cymHyGgWh2zjgofDFHZ/310x430/11d83519.webp?s=0ee211b72f7db8e09ef3ef3b580f13b588e67f49",
     "addedAt": "2026-10-23T01:44:09.543Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10492134801",
+    "category": "Console",
+    "title": "nintendo 2ds schermo rotto",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"rotto\"",
+    "url": "https://www.vinted.it/items/10492134801-nintendo-2ds-schermo-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02410_1oZBUePQjqrWfvSF6oKf9bWr/310x430/246397d3.webp?s=a374f04e0e492c875b255de4a654a9c10c2bb7f4",
+    "addedAt": "2026-10-23T02:00:43.263Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10492163501",
+    "category": "Console",
+    "title": "PS4 SLIM que j’utilise plus très bonne états",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10492163501-ps4-slim-que-jutilise-plus-tres-bonne-etats?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_019a2_eWxgwD4KvApKhc7qb4ArUZUP/310x430/2d92e50d.webp?s=d4918153e2b42bfe488ccebababc732be51543e6",
+    "addedAt": "2026-10-23T02:07:57.897Z",
     "processed": false,
     "triaged": false
   }
