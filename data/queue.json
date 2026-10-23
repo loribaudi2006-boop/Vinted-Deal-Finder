@@ -23824,8 +23824,10 @@
     "url": "https://www.vinted.it/items/10492915260-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00041_UnNM61iBpwuZtgFwyT7nrZzq/310x430/3a0d572f.webp?s=c62b4af88eb280b2474f9ece24bc1b6772959eb7",
     "addedAt": "2026-10-23T06:30:31.698Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10492996580",
@@ -23837,7 +23839,24 @@
     "url": "https://www.vinted.it/items/10492996580-xbox-one-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01b0e_HZGZEHx67Xk67DchTMN9eUxJ/310x430/1dbe6fef.webp?s=cbad0d461d90a6057255fd326433538299c64023",
     "addedAt": "2026-10-23T06:49:09.509Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.8€, sotto soglia"
+  },
+  {
+    "id": "10493070719",
+    "category": "Console",
+    "title": "Switch 1 Controller Zubehör",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10493070719-switch-1-controller-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014a2_GNziDWTSkc1Cr8zVnA6hQreE/310x430/4f5454cf.webp?s=d0c27b58bbadb76f89f5fe6eb02f8461ab9ff2b9",
+    "addedAt": "2026-10-23T07:04:42.876Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~9.2€, sotto soglia"
   }
 ]
