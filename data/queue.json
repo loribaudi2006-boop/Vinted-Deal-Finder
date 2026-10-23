@@ -22904,5 +22904,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-5€, sotto soglia"
+  },
+  {
+    "id": "10503919640",
+    "category": "Console",
+    "title": "Cambio por ps5 Fat",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10503919640-cambio-por-ps5-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ade_mYczvYWmVwXvvXCJWhR6Hj65/310x430/ec77041b.webp?s=316514e16730585be47fd54bf624e4999b8a98f8",
+    "addedAt": "2026-10-23T23:46:44.477Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "lezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nCambio por ps5 Fat\nOttime·Xbox·Caricato 16 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox Series S & X\nCondizioni\nOttime\nCaricato\n16 min fa\nConsola incluye su caja y accesorios\nIncluye 2 mandos\nEl rojo tiene falla en el boton lb, pero incluye batería recargable, y su cable\nEl mando gris esta como nuevo con su caja\nTe puedo pasar mi cuenta con el juego de cyberpunk 2077\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller rosso con difetto al tasto LB",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 140
   }
 ]
