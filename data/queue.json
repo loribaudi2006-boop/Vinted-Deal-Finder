@@ -23426,5 +23426,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "10497062891",
+    "category": "Console",
+    "title": "funda protectora de transporte para Nintendo Switch inspirada en Animal Crossing",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10497062891-funda-protectora-de-transporte-para-nintendo-switch-inspirada-en-animal-crossing?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006fd_MMv3zZmgS6u53ivXwb1oU9rw/310x430/6ce30cc4.webp?s=572f0e4b490337fdaa95a3c8c0f94e9b098a6f95",
+    "addedAt": "2026-10-23T13:20:24.740Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10479157673",
+    "category": "Console",
+    "title": "Ps4 slim avec manette",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10479157673-ps4-slim-avec-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c84_kHVA7euNXCW2GwxJw1c6AgDu/310x430/232d900f.webp?s=4229dcd4c6088aa011d3ef21f4eceabb511df4b1",
+    "addedAt": "2026-10-23T13:24:33.249Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
