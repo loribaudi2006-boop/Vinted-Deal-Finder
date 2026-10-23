@@ -23817,6 +23817,22 @@
     "url": "https://www.vinted.it/items/10492623705-vend-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_017fb_9nJTabqVhMk16g3LVPM83RVA/310x430/e0c9b9ea.webp?s=d1cf806f7d868c33a3c4d20021f230106a60e1b9",
     "addedAt": "2026-10-23T04:49:26.249Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10492698878",
+    "category": "Console",
+    "title": "Boîte vide Sony PS5 Horizon",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10492698878-boite-vide-sony-ps5-horizon?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01855_hehMGsbY2dPgfkYrZguWPQFH/310x430/e1365d47.webp?s=1686b7b01229040ce1d1661492972f51ef7cc1e3",
+    "addedAt": "2026-10-23T05:20:30.087Z",
     "processed": false,
     "triaged": false
   }
