@@ -1,22 +1,5 @@
 [
   {
-    "id": "10439260285",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10439260285-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b1d_NwzoLccSawGFUXQ1o4TgTWa1/310x430/ce45fa45.webp?s=18f81b315b41efae27add7d000b8a3d8d97d414e",
-    "addedAt": "2026-10-19T06:49:21.080Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10439451266",
     "category": "Console",
     "title": "Nintendo switch 3DS XL",
@@ -23841,6 +23824,19 @@
     "url": "https://www.vinted.it/items/10492915260-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00041_UnNM61iBpwuZtgFwyT7nrZzq/310x430/3a0d572f.webp?s=c62b4af88eb280b2474f9ece24bc1b6772959eb7",
     "addedAt": "2026-10-23T06:30:31.698Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10492996580",
+    "category": "Console",
+    "title": "Xbox One Fat",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10492996580-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01b0e_HZGZEHx67Xk67DchTMN9eUxJ/310x430/1dbe6fef.webp?s=cbad0d461d90a6057255fd326433538299c64023",
+    "addedAt": "2026-10-23T06:49:09.509Z",
     "processed": false,
     "triaged": false
   }
