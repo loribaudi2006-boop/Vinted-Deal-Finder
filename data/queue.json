@@ -1,20 +1,5 @@
 [
   {
-    "id": "10453198573",
-    "category": "Console",
-    "title": "PlayStation 4 Slim. Lettore CD non funzionante (Per giochi digitali / Ricambi)",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "parola chiave: \"non funzionante\" + prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10453198573-playstation-4-slim-lettore-cd-non-funzionante-per-giochi-digitali-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e99_7j22NJbCj2jJB37gWBz7Wtim/310x430/93eb3bf4.webp?s=bb5385b305e9874ce3a5aeb95f29b958c3b02b50",
-    "addedAt": "2026-10-20T06:51:15.263Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10453248123",
     "category": "Console",
     "title": "Console PlayStation 2 PS2 FAT  (Non testata / Da collezione o ricambi)",
@@ -22941,8 +22926,11 @@
     "url": "https://www.vinted.it/items/10505173096-nintendo-switch-regardez-descriptif?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02377_EXhRvxhtrdpwwfEqor8TB3Gh/310x430/7d9a299b.webp?s=5dac877c7338b3aa55a34ea8256843d520dfb7ee",
     "addedAt": "2026-10-24T06:16:17.341Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10505235553",
@@ -22967,6 +22955,19 @@
     "url": "https://www.vinted.it/items/10505246864-playstation-4-slim-1tb-modell-cuh-2216b?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0197a_8yWvVS2BEiJZhBw3YxcoBJx4/310x430/a9515481.webp?s=1b9479e68dbef14e78216639b5b5b31153920161",
     "addedAt": "2026-10-24T06:35:50.836Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10505310395",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10505310395-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014e2_T5tWUGQ51HADQryr7NhCvLLV/310x430/e454e871.webp?s=78b01d6d90c5eaaf503cd21610751a5480576750",
+    "addedAt": "2026-10-24T06:50:16.426Z",
     "processed": false,
     "triaged": false
   }
