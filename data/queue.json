@@ -1,38 +1,5 @@
 [
   {
-    "id": "10462878789",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10462878789-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02105_4Jea7n79hpXVRJMUyfnodhbS/310x430/c2ffca60.webp?s=376d289611991354bc57aa1552751a1e75951675",
-    "addedAt": "2026-10-20T19:20:04.500Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\n3\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo nintendo switch in perfette condizioni, mancante solo di cavo di ricarica e scatola, presente solo ciò che c'è in foto.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "mancante solo di cavo di ricarica e scatola",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.05
-  },
-  {
-    "id": "10462927153",
-    "category": "Console",
-    "title": "Pièce de Ps4 HS",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10462927153-piece-de-ps4-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01819_a2yaamPyuFcfD6NHAVXdEtXH/310x430/56cc18d9.webp?s=ef1c05b1bf1a2060788cef8c0590b477b181be05",
-    "addedAt": "2026-10-20T19:23:12.183Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10463016928",
     "category": "Console",
     "title": "Xbox one s",
@@ -23067,5 +23034,20 @@
     "geminiFault": "S'allume mais fait un petit bruit, s'éteint toute seule au lancement d'un jeu",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10516247603",
+    "category": "Console",
+    "title": "Cargador mandos ps5",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10516247603-cargador-mandos-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010d5_GE2RQuwTbdtR2Y3DdardLqHb/310x430/d2f7ca12.webp?s=f6bd57e05e49a15ebac48776ef3672110430c013",
+    "addedAt": "2026-10-24T19:22:10.901Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.9€, sotto soglia"
   }
 ]
