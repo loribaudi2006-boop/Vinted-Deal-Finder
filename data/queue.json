@@ -22943,8 +22943,11 @@
     "url": "https://www.vinted.it/items/10503727490-nintendo-switch-2-zubehor-set?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00afa_YEnwybgqhUMMy8PpqPHLbU8a/310x430/13736603.webp?s=7f4008c10e6d468f493a900c28a7f6a471d9962d",
     "addedAt": "2026-10-24T05:35:03.184Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10505073182",
