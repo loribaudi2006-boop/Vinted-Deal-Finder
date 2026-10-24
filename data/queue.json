@@ -1,23 +1,5 @@
 [
   {
-    "id": "10453717264",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10453717264-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e82_Jh5WbLALLbdZV2NCKxQVAZMx/310x430/0bd081ff.webp?s=1ff6fdc7bcce54081953f206638e9a4acf153b50",
-    "addedAt": "2026-10-20T08:11:15.020Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "lezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·Sony·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVerkaufe meine PlayStation 4\nHab’s sie wenig genutzt\nHat leider zwei leichte visuelle Abfärbungen\n500gb Speicher, 1 Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "due leggeri aloni visibili sulla scocca",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10453978074",
     "category": "Console",
     "title": "Boite vide seul avec cales Microsoft Xbox Series S 512 Go",
@@ -22910,7 +22892,27 @@
     "url": "https://www.vinted.it/items/10505840076-nintendo-switch-v1-personalizzazione-configurazione-leggere-desc?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01612_hUZ5rHkkyHM4x63ZvmN9STKc/310x430/74746d6c.webp?s=24b143c82b482f84323d749c1b178bca61972b84",
     "addedAt": "2026-10-24T08:09:46.559Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
+  },
+  {
+    "id": "10505856789",
+    "category": "Console",
+    "title": "Nintendo switch seule",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10505856789-nintendo-switch-seule?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01457_WYRYWAseSjCfydBDyAkcbxz9/310x430/d0d3a27a.webp?s=7b9ed56ad19371596b40d6fb17b5be6fae7c8ca7",
+    "addedAt": "2026-10-24T08:10:48.615Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Pubblicità\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch seule\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch V2 de 2020, sans le dock ni chargeur.\nQuelques rayures et usures ( voir photos ).\nFonctionne parfaitement.\nAvec carte 128 GO.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Quelques rayures et usures, sans dock ni chargeur",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
