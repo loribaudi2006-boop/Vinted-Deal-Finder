@@ -1,21 +1,5 @@
 [
   {
-    "id": "10452064873",
-    "category": "Console",
-    "title": "Switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10452064873-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02177_7fjm4E34k1FqkHMQLrJRC37Q/310x430/3588b746.webp?s=1096514bd89e382f009de2271596a997cee12653",
-    "addedAt": "2026-10-20T01:13:36.783Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10452199734",
     "category": "Console",
     "title": "Consola playstation 4",
@@ -22868,5 +22852,57 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "10504317122",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10504317122-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01119_9TpddZ3KLMQMLnPXnk7NbmC9/310x430/54a3c1a5.webp?s=14c65f2489dad8124cbeb274e161c7fe21f9524b",
+    "addedAt": "2026-10-24T01:12:13.522Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10504323987",
+    "category": "Console",
+    "title": "Switch komplett Set 60 Euro nur heute kein System Verkauf",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10504323987-switch-komplett-set-60-euro-nur-heute-kein-system-verkauf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018b7_v3rXzkchhndkTdc4XuhyKEt4/310x430/a19f88b8.webp?s=61b0f0c4311f7500b0a0c9ed671c6bcc6eae7444",
+    "addedAt": "2026-10-24T01:13:15.280Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10504321281",
+    "category": "Console",
+    "title": "Ps4 1Tb mit Controller",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10504321281-ps4-1tb-mit-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_001c4_Ykwd3KbVdb1im43kNQycFSve/310x430/ab7cf33c.webp?s=1abe20bf3608372b868d77bcb64c9425878737ad",
+    "addedAt": "2026-10-24T01:13:15.280Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10504328489",
+    "category": "Console",
+    "title": "Switch komplett Set 60 Euro nur heute kein System Verkauf",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10504328489-switch-komplett-set-60-euro-nur-heute-kein-system-verkauf?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018b7_v3rXzkchhndkTdc4XuhyKEt4/310x430/a19f88b8.webp?s=61b0f0c4311f7500b0a0c9ed671c6bcc6eae7444",
+    "addedAt": "2026-10-24T01:15:18.830Z",
+    "processed": false,
+    "triaged": false
   }
 ]
