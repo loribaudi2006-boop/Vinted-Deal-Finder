@@ -22943,8 +22943,11 @@
     "url": "https://www.vinted.it/items/10505107628-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b42_6GybMdjTbcprHbib2f4XV6ue/310x430/786473da.webp?s=454fe7132767b6f99350b4850d256c2c278422a7",
     "addedAt": "2026-10-24T05:54:39.336Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10505173096",
