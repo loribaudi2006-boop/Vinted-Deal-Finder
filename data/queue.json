@@ -1,23 +1,5 @@
 [
   {
-    "id": "10464636435",
-    "category": "Console",
-    "title": "Ps4 slim hs",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10464636435-ps4-slim-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b91_5kzwQUcJw7y8axHLxKxwD7Yj/310x430/3a67f323.webp?s=69ff62ebf18fd913b64e3ae6b11853b0290dbdb2",
-    "addedAt": "2026-10-20T22:06:24.391Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ort\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim hs\nDiscrete·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nSatisfaisant\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "hs (usualmente inteso come 'hors service' o guasta)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10464745319",
     "category": "Console",
     "title": "PlayStation 4 1TB",
@@ -22828,7 +22810,27 @@
     "url": "https://www.vinted.it/items/10517922410-console-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02491_L5MTFgQ9KvsBE9ehm2hoYPQd/310x430/aa21421e.webp?s=d6707e8dd3e7cec6d162a2b12f1740d5a474e980",
     "addedAt": "2026-10-24T22:05:26.123Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole ps4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nVends 1 ps4\nFonctionne parfaitement\n\nVendu avec les câbles mais sans manette\n\n60 e\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10517944411",
+    "category": "Console",
+    "title": "Support OIVO PS4 / Slim / Pro – Ventilateur",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10517944411-support-oivo-ps4-slim-pro-ventilateur-chargeur-manettes-12-support-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00086_pnZJszaQxo3dkMZygvX7tgsq/310x430/54463572.webp?s=84d3f4176cb0bf8e7bee070b24a3f1587e80d50a",
+    "addedAt": "2026-10-24T22:08:32.173Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.7€, sotto soglia"
   }
 ]
