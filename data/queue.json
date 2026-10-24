@@ -22916,5 +22916,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10504996004",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10504996004-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01957_E7o5a4xADSVMRVamvk2xVxrw/310x430/80f26076.webp?s=791a0f477fd23df963abd177b8763cb7d8935291",
+    "addedAt": "2026-10-24T05:09:16.636Z",
+    "processed": false,
+    "triaged": false
   }
 ]
