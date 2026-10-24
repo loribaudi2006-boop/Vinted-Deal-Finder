@@ -22927,8 +22927,11 @@
     "url": "https://www.vinted.it/items/10504996004-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01957_E7o5a4xADSVMRVamvk2xVxrw/310x430/80f26076.webp?s=791a0f477fd23df963abd177b8763cb7d8935291",
     "addedAt": "2026-10-24T05:09:16.636Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10505013600",
@@ -22940,6 +22943,32 @@
     "url": "https://www.vinted.it/items/10505013600-pour-la-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_026d2_78ZxnGnFwWamqdghJ8h9QYUF/310x430/7a463f5c.webp?s=57f3c0bf1d3b874679d0ce70d13d415c809ff7d1",
     "addedAt": "2026-10-24T05:17:31.659Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10503727490",
+    "category": "Console",
+    "title": "Nintendo Switch 2 Zubehör Set",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10503727490-nintendo-switch-2-zubehor-set?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00afa_YEnwybgqhUMMy8PpqPHLbU8a/310x430/13736603.webp?s=7f4008c10e6d468f493a900c28a7f6a471d9962d",
+    "addedAt": "2026-10-24T05:35:03.184Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10505073182",
+    "category": "Console",
+    "title": "Switch ! lire la description !",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10505073182-switch-lire-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00d89_NNtrwricCxtBbfpcEHFiPu1S/310x430/08ba24ea.webp?s=636b413ba770a500e24f124a8f21a7b11baac0e9",
+    "addedAt": "2026-10-24T05:42:17.074Z",
     "processed": false,
     "triaged": false
   }
