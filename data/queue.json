@@ -22712,5 +22712,18 @@
     "geminiFault": "quand je l'allume il s'éteint au bout de 5 sec et n'affiche rien du coup sur la télé (pour pièces ou réparations)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.55
+  },
+  {
+    "id": "10518290024",
+    "category": "Console",
+    "title": "Nintendo Switch 2017",
+    "price": 39.99,
+    "totalPrice": 42.69,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10518290024-nintendo-switch-2017?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00839_acy6nGnLquYRT5n3XhnXM2fN/310x430/184de2c6.webp?s=a51e76cd0b5c7c17b8f9407fbe91aa05206f4909",
+    "addedAt": "2026-10-24T23:05:17.321Z",
+    "processed": false,
+    "triaged": false
   }
 ]
