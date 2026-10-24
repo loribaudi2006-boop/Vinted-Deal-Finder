@@ -1,37 +1,5 @@
 [
   {
-    "id": "10453049290",
-    "category": "Console",
-    "title": "sony raro portahiavi playstation 4 in 3D",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10453049290-sony-raro-portahiavi-playstation-4-in-3d?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_004b2_HQX9brdeZ252vnnTW3F9MnWH/310x430/23a55b91.webp?s=433683e3241a680092f160c7855ed8381b59fd20",
-    "addedAt": "2026-10-20T06:15:56.257Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10453049086",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10453049086-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00be5_BrTSUhnhFVrosUeuLSkzxtNy/310x430/d6e43f92.webp?s=80e98c8178f63975bc02993bd6a323bd22153869",
-    "addedAt": "2026-10-20T06:15:56.257Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10453134765",
     "category": "Console",
     "title": "Ps4 fw 11",
@@ -22959,8 +22927,11 @@
     "url": "https://www.vinted.it/items/10505073182-switch-lire-la-description?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00d89_NNtrwricCxtBbfpcEHFiPu1S/310x430/08ba24ea.webp?s=636b413ba770a500e24f124a8f21a7b11baac0e9",
     "addedAt": "2026-10-24T05:42:17.074Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10505107628",
@@ -22972,6 +22943,19 @@
     "url": "https://www.vinted.it/items/10505107628-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b42_6GybMdjTbcprHbib2f4XV6ue/310x430/786473da.webp?s=454fe7132767b6f99350b4850d256c2c278422a7",
     "addedAt": "2026-10-24T05:54:39.336Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10505173096",
+    "category": "Console",
+    "title": "Nintendo Switch (Regardez Descriptif)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10505173096-nintendo-switch-regardez-descriptif?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02377_EXhRvxhtrdpwwfEqor8TB3Gh/310x430/7d9a299b.webp?s=5dac877c7338b3aa55a34ea8256843d520dfb7ee",
+    "addedAt": "2026-10-24T06:16:17.341Z",
     "processed": false,
     "triaged": false
   }
