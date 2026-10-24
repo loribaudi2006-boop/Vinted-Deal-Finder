@@ -22911,7 +22911,10 @@
     "url": "https://www.vinted.it/items/10504710307-playstation-4-spelletjes-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_018d7_gv3uPAmAW4JTGfFGRQdexCcb/310x430/d6b92cbe.webp?s=b94765992ac9075d2aa49d3795318d8f4219d6ce",
     "addedAt": "2026-10-24T03:07:40.580Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
