@@ -1,50 +1,5 @@
 [
   {
-    "id": "10463850435",
-    "category": "Console",
-    "title": "Xbox one blanche avec Manette et un jeux",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10463850435-xbox-one-blanche-avec-manette-et-un-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00046_AenyNpauyRURbLbpckHpfykh/310x430/40f0a49e.webp?s=443c98c0389e4f5c55a37ed2e11445464d6ba398",
-    "addedAt": "2026-10-20T20:37:42.180Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
-    "id": "10463902679",
-    "category": "Console",
-    "title": "Ps4 noir",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10463902679-ps4-noir?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02639_Rov78am2rWa9iQsVe9FkB1nw/310x430/79931e61.webp?s=50297c98a2c3e6719f262afa060e837a77bd33cc",
-    "addedAt": "2026-10-20T20:41:50.297Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10463895959",
-    "category": "Console",
-    "title": "Ps4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10463895959-ps4-playstation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00307_NFhnSSZ9Dc8bC8K75f2bqCWc/310x430/c69bddff.webp?s=4196bf75f5e7316237124561b05a2cd75a0c1208",
-    "addedAt": "2026-10-20T20:41:50.297Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10463969429",
     "category": "Console",
     "title": "Ps4 noir",
@@ -22941,5 +22896,35 @@
     "geminiFault": "Met HDMI kabel met 1 tb opslag harde schijf",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10517147165",
+    "category": "Console",
+    "title": "FOR steam deck case",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 97% sotto il tipico per Steam Deck (~380€)",
+    "url": "https://www.vinted.it/items/10517147165-for-steam-deck-case?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00447_uDYyu5dbcsN8LTzYhmDcu6VR/310x430/6b144fac.webp?s=8101608e5a33d6dd113378e261a7e7aac82eecd3",
+    "addedAt": "2026-10-24T20:39:12.558Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.3€, sotto soglia"
+  },
+  {
+    "id": "10517193299",
+    "category": "Console",
+    "title": "Nitendo Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10517193299-nitendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b80_JtnFKy5onVq9CPKu48y99mfr/310x430/57e913f2.webp?s=263715e8aecf495ec98651ed39ef3b9476e6bd5b",
+    "addedAt": "2026-10-24T20:43:20.648Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~60€, sotto soglia"
   }
 ]
