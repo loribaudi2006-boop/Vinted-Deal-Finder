@@ -22929,5 +22929,18 @@
     "addedAt": "2026-10-24T05:09:16.636Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10505013600",
+    "category": "Console",
+    "title": "Pour la Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10505013600-pour-la-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_026d2_78ZxnGnFwWamqdghJ8h9QYUF/310x430/7a463f5c.webp?s=57f3c0bf1d3b874679d0ce70d13d415c809ff7d1",
+    "addedAt": "2026-10-24T05:17:31.659Z",
+    "processed": false,
+    "triaged": false
   }
 ]
