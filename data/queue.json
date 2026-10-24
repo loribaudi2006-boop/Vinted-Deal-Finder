@@ -22723,7 +22723,27 @@
     "url": "https://www.vinted.it/items/10518290024-nintendo-switch-2017?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00839_acy6nGnLquYRT5n3XhnXM2fN/310x430/184de2c6.webp?s=a51e76cd0b5c7c17b8f9407fbe91aa05206f4909",
     "addedAt": "2026-10-24T23:05:17.321Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch 2017\nDiscrete·Nintendo·Caricato 2 min fa\n\n39,99 €\n\n42,69 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n2 min fa\n🎮 **Nintendo Switch 2017 – Para piezas o reparación**\n\n🔧 Consola Nintendo Switch modelo 2017. Los carriles de los Joy-Con no funcionan correctamente, por lo que se vende para reparar o utilizar como piezas.\n\n📦 **SOLO se envía la pantalla/consola.** No incluye Joy-Con, cargador, dock ni ningún otro accesorio.\n\n⚠️ **Se vende en su estado actual, con el fallo indicado.**\n\n📸 Revisar detenidamente todas las fotografías antes de comprar.\n\n🚫 No se admiten devoluciones por el fallo indicado en el anuncio.\n\n#NintendoSwitch #NintendoSwitch2017 #Nintendo #Switch #ConsolaNintendo #ReparacionNintendo #NintendoReparacion #ParaPiezas #NintendoParts #JoyCon #CarrilesJoyCon #NintendoGaming #Videojuegos #Gaming #Consolas #NintendoCollector #Vinted #VintedEspaña #RepuestosNintendo #SwitchConsole\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "I carriles de los Joy-Con no funcionan correctamente. Vendida para reparar o piezas. Solo incluye la pantalla/consola.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.31
+  },
+  {
+    "id": "10518302990",
+    "category": "Console",
+    "title": "2 Cuadros PS2 y PS4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10518302990-2-cuadros-ps2-y-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0243c_TvjpGR4yG9pTjvLowXBdeuyN/310x430/cc8163dc.webp?s=59715e86c3fdea7c58b8e3b8acd928e26d3e219f",
+    "addedAt": "2026-10-24T23:07:21.966Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
