@@ -1,20 +1,5 @@
 [
   {
-    "id": "10478728036",
-    "category": "Console",
-    "title": "Kinect Xbox One con 2 giochi",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10478728036-kinect-xbox-one-con-2-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0219e_1fAHGsWSd1fKqsXaFKMNhoAA/310x430/4c02550f.webp?s=b9625450a3e6bae6bfe8b5daa8844bdc7a835cb7",
-    "addedAt": "2026-10-21T23:28:34.852Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.2€, sotto soglia"
-  },
-  {
     "id": "10478942652",
     "category": "Console",
     "title": "Caja vacia PlayStation 5 God of War Ragnarök",
@@ -25492,5 +25477,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10536883507",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10536883507-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0030e_YLPc2RAh8SzU1etCfzZtFAmV/310x430/0328b6e3.webp?s=68947d7555a21fe079a442e7c912bcc1d371bbd1",
+    "addedAt": "2026-10-25T23:34:08.652Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
   }
 ]
