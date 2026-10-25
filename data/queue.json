@@ -25492,5 +25492,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10536955221",
+    "category": "Console",
+    "title": "Console retro 8-bit \"Game Player\" (tipo PS1) - Non testata",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10536955221-console-retro-8-bit-game-player-tipo-ps1-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0263f_B27nw2gQiuJyL1ivEh55u56F/310x430/08a9e22c.webp?s=eed072ae8647c6323f07de8682d53481c6405bb4",
+    "addedAt": "2026-10-25T23:46:36.854Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.05€, sotto soglia"
   }
 ]
