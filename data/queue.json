@@ -1,21 +1,5 @@
 [
   {
-    "id": "10466494321",
-    "category": "Console",
-    "title": "Xbox one s",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10466494321-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_006bd_Byj9Nzj9hKqtkLYTD4XcRtp3/310x430/8f0ca1b5.webp?s=611556fb224ed9157e8b0c092016e7ff89571219",
-    "addedAt": "2026-10-21T05:46:01.491Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10466595108",
     "category": "Console",
     "title": "Xbox one",
@@ -22649,5 +22633,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10519646815",
+    "category": "Console",
+    "title": "PlayStation 4 Slim",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10519646815-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00dfe_dob6qzs27rY1zXtLoTCCcRap/310x430/b316a16f.webp?s=ce72a6a21fdada5dec0508312d36b21505d6dd1c",
+    "addedAt": "2026-10-25T05:54:01.342Z",
+    "processed": false,
+    "triaged": false
   }
 ]
