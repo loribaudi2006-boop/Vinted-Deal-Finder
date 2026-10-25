@@ -1,38 +1,5 @@
 [
   {
-    "id": "10466930064",
-    "category": "Console",
-    "title": "Xbox one s",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10466930064-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_000b4_aVXPxVUspzT1RWHABnfJTDbs/310x430/c2c63442.webp?s=d9099323e2814bff56c814624824d660fd0e570f",
-    "addedAt": "2026-10-21T07:24:55.182Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
-    "id": "10466978927",
-    "category": "Console",
-    "title": "Nintendo Switch lite grau + Spiel",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10466978927-nintendo-switch-lite-grau-spiel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0011d_ZMPq19yYLFBia9soFaJgx4kq/310x430/b66354a5.webp?s=21a4adb86024cab6cd2ef766f45304ebc5ec0fc9",
-    "addedAt": "2026-10-21T07:32:11.354Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "à\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch lite grau + Spiel\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nZL knopf ist hinten kaputt Nintendo geht noch sehr gut + mario rabbids sparks of hope ist dabei und YouTube Akku ist auch noch ganz gut Bildschirm ist nicht kaputt und wurde frisch sauber gemacht\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Tasto ZL posteriore rotto",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.05
-  },
-  {
     "id": "10467024452",
     "category": "Console",
     "title": "PlayStation 4 PS4 Fat (1TG)",
@@ -22608,7 +22575,27 @@
     "url": "https://www.vinted.it/items/10520006406-ps4-tres-bon-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01079_YrRu5uZY2qJA2bArhw1inoQg/310x430/9d4c2272.webp?s=ab3680d8f9da7619cc77245687d6f589f10a5215",
     "addedAt": "2026-10-25T07:23:55.756Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tà\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nPs4 très bon état\nOttime·PlayStation·Caricato 3 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nSans manette\nSpedizione\nda 9,49 €",
+    "geminiFault": "Sans manette (senza controller)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10520019056",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10520019056-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00776_Bw8feZw1foLLjM3rz65eM8y4/310x430/86a707f4.webp?s=bffcc82be4a5771bf4f483913c9384b3173efef3",
+    "addedAt": "2026-10-25T07:26:01.318Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
