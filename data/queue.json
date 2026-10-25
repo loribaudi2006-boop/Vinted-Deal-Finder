@@ -25372,5 +25372,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10536401794",
+    "category": "Console",
+    "title": "Ps4 slim + juegos",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10536401794-ps4-slim-juegos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00530_7vMo94QbQmxrBZZupZMjS6Bn/310x430/30e504fd.webp?s=ec9cb4e460322e4bd1b4f9ca7fa78ff74653695d",
+    "addedAt": "2026-10-25T22:27:37.108Z",
+    "processed": false,
+    "triaged": false
   }
 ]
