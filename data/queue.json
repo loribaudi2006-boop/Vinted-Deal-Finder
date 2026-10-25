@@ -22644,8 +22644,11 @@
     "url": "https://www.vinted.it/items/10519650909-je-recherche-un-ps5-etat-neuf-stp?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02603_f15FKF3NkpN8uJQ4WB57Pzvd/310x430/1554ea4c.webp?s=81e3f529b23fb2f7ad67f9682986484685be9726",
     "addedAt": "2026-10-25T05:56:07.637Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10519657099",
@@ -22657,8 +22660,11 @@
     "url": "https://www.vinted.it/items/10519657099-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0210a_cq7971sge7zs8N5LCGtwd8js/310x430/d3d5825c.webp?s=66a081d5348c1777c725cff1d5b58d5b06fda47e",
     "addedAt": "2026-10-25T05:58:11.485Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10519679931",
