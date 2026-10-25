@@ -1,21 +1,5 @@
 [
   {
-    "id": "10465787550",
-    "category": "Console",
-    "title": "Boosting R6 -Ps5/Pc",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10465787550-boosting-r6-ps5pc?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_001f4_RffRkziDVromwc9qdWnsA3bc/310x430/cffba0b6.webp?s=ae92141d9ea668cedba437eec100644345387f0b",
-    "addedAt": "2026-10-21T01:45:50.917Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10465980079",
     "category": "Console",
     "title": "Playstation 4",
@@ -22745,5 +22729,31 @@
     "geminiFault": "Controller con problema alla batteria (deve rimanere collegato al cavo durante l'uso)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.1
+  },
+  {
+    "id": "10519054719",
+    "category": "Console",
+    "title": "Nitendo switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10519054719-nitendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a5f_mYh9dLTCNVSywU5Qqt6AHt2C/310x430/b191b93d.webp?s=57180fe6940afc8a86f073bfaea7262d07097388",
+    "addedAt": "2026-10-25T02:14:06.039Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10519110408",
+    "category": "Console",
+    "title": "Ps4 mit 2 Controllern und Kabel und 3 spielen",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10519110408-ps4-mit-2-controllern-und-kabel-und-3-spielen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011f2_QzNXkiQyBKfRqu2tRt9sewQi/310x430/99fe6dde.webp?s=5248a259b4cb661890d17367f16162fc60767758",
+    "addedAt": "2026-10-25T02:17:11.913Z",
+    "processed": false,
+    "triaged": false
   }
 ]
