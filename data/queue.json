@@ -22676,7 +22676,10 @@
     "url": "https://www.vinted.it/items/10519679931-sony-playstation-4-ps4-500gb-2-controllers-kabels?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_001b4_p5kHoXv7GR1mGDthMRpGy9Qs/310x430/d462ec8c.webp?s=583e9b112c4953f46b466854504d560efe2d68f8",
     "addedAt": "2026-10-25T06:06:27.854Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
