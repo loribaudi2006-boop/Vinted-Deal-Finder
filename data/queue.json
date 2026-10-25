@@ -22729,5 +22729,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10519380678",
+    "category": "Console",
+    "title": "Nintendo Switch V1 Black Edition – Consola Sem Acessórios",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10519380678-nintendo-switch-v1-black-edition-consola-sem-acessorios?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01165_mBb93pvudKQE5qigxTx7myC2/310x430/30c473a2.webp?s=1988e8ba12dc158342610d7aad98b65032e8ffc4",
+    "addedAt": "2026-10-25T03:46:01.625Z",
+    "processed": false,
+    "triaged": false
   }
 ]
