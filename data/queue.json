@@ -1,21 +1,5 @@
 [
   {
-    "id": "10466595108",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10466595108-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0123d_DsKtGshquw3M94FcDSYbEpUV/310x430/dfeaeed9.webp?s=762054f7d13a7d758812ee5e67d9a4de594393ce",
-    "addedAt": "2026-10-21T06:16:05.153Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10466732319",
     "category": "Console",
     "title": "Pezzi Nintendo switch",
@@ -22644,8 +22628,11 @@
     "url": "https://www.vinted.it/items/10519646815-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00dfe_dob6qzs27rY1zXtLoTCCcRap/310x430/b316a16f.webp?s=ce72a6a21fdada5dec0508312d36b21505d6dd1c",
     "addedAt": "2026-10-25T05:54:01.342Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10519650909",
