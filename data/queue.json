@@ -22724,8 +22724,11 @@
     "url": "https://www.vinted.it/items/10519054719-nitendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a5f_mYh9dLTCNVSywU5Qqt6AHt2C/310x430/b191b93d.webp?s=57180fe6940afc8a86f073bfaea7262d07097388",
     "addedAt": "2026-10-25T02:14:06.039Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10519110408",
@@ -22737,7 +22740,10 @@
     "url": "https://www.vinted.it/items/10519110408-ps4-mit-2-controllern-und-kabel-und-3-spielen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_011f2_QzNXkiQyBKfRqu2tRt9sewQi/310x430/99fe6dde.webp?s=5248a259b4cb661890d17367f16162fc60767758",
     "addedAt": "2026-10-25T02:17:11.913Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
