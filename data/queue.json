@@ -25342,5 +25342,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 100
+  },
+  {
+    "id": "10536267151",
+    "category": "Console",
+    "title": "Switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10536267151-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a2e_TmvNkCGSBWFr4mhjPQvaS8Ey/310x430/a4c3bf10.webp?s=2ba0e420ade2df63251077a27e42e353d1e56e30",
+    "addedAt": "2026-10-25T22:12:02.830Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10536285214",
+    "category": "Console",
+    "title": "Xbox one noir",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10536285214-xbox-one-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007e1_pX489m8kzAutqmZMb7cdcDJn/310x430/bfbc7066.webp?s=27c263250dca7f8f781fc62d97e5fbfb1db99ad3",
+    "addedAt": "2026-10-25T22:14:07.175Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
