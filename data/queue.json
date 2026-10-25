@@ -1,23 +1,5 @@
 [
   {
-    "id": "10465276534",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 49.99,
-    "totalPrice": 53.19,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10465276534-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0237e_D164zCy9gNST5DnFPJTuhsYn/310x430/436eb5fe.webp?s=1bb7b79ce56bdf000264293404a7ed0342432418",
-    "addedAt": "2026-10-21T00:00:17.813Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n49,99 €\n\n53,19 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nIch verkaufe meine PlayStation 4 Konsole zusammen mit einem Controllern. Bitte beachte, dass das Laufwerk der Konsole leider keine Discs mehr lesen kann, die Konsole ansonsten aber läuft.\n\n- PlayStation 4 Konsole\n- 1 Replika-Controller\n\nDie Konsole eignet sich ideal für jemanden, der sie beispielsweise für digitale Spiele nutzt, Streaming Portale nutzen möchte oder das Laufwerk reparieren möchte.\n\nBei weiteren Fragen kannst du dich gerne melden.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Il lettore ottico non legge più i dischi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.81
-  },
-  {
     "id": "10465787550",
     "category": "Console",
     "title": "Boosting R6 -Ps5/Pc",
@@ -22709,5 +22691,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10518575479",
+    "category": "Console",
+    "title": "Je vends une switch light à petit prix qui marche bien",
+    "price": 36,
+    "totalPrice": 38.5,
+    "reason": "prezzo 81% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10518575479-je-vends-une-switch-light-a-petit-prix-qui-marche-bien?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0128f_GCNvTfbt5PdEvKYLHKytkSnS/310x430/123c06f8.webp?s=761fdf8a45df5c2154efa2ab16ca3caa6705ab5a",
+    "addedAt": "2026-10-25T00:04:05.206Z",
+    "processed": false,
+    "triaged": false
   }
 ]
