@@ -1,35 +1,5 @@
 [
   {
-    "id": "10480388228",
-    "category": "Console",
-    "title": "Ps4 pour pièces",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10480388228-ps4-pour-pieces?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004b6_dQjCXeeTEqNPjZyoH7Bewe7i/310x430/dacda181.webp?s=dca8b68b0e2ccbdf519457078b9bd032cdecc136",
-    "addedAt": "2026-10-22T07:07:08.062Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.05€, sotto soglia"
-  },
-  {
-    "id": "10480417483",
-    "category": "Console",
-    "title": "Tarjeta Microsd xc oficial Nintendo switch 256gb",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10480417483-tarjeta-microsd-xc-oficial-nintendo-switch-256gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01926_mavpNc86BuALQNYhBzGkNrQk/310x430/8b8ee2ab.webp?s=6325c2da4c32027088c88c3591d69b77dbf7fd4c",
-    "addedAt": "2026-10-22T07:13:22.036Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-14.2€, sotto soglia"
-  },
-  {
     "id": "10480400628",
     "category": "Console",
     "title": "Dock Nintendo Switch OLED Blanc + Câble HDMI officiel + 2 Dragonnes",
@@ -25434,5 +25404,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 180
+  },
+  {
+    "id": "10538438269",
+    "category": "Console",
+    "title": "4 tlg. Nintendo Switch Zubehör",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10538438269-4-tlg-nintendo-switch-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01bb8_WSvzXAWEi5U6ZDMz7HmZFSMD/310x430/f64ab1bf.webp?s=00d359d0af4728f0714101cdf757ebfe3d5c1af7",
+    "addedAt": "2026-10-26T07:07:11.435Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10538446385",
+    "category": "Console",
+    "title": "Cherche lot console ps4 3 pièces mini",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10538446385-cherche-lot-console-ps4-3-pieces-mini?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014b5_zF6fs3S3Jsi26zfM53PEE97B/310x430/565f7606.webp?s=90d5e4930b695881077358f86943877ac94b90e7",
+    "addedAt": "2026-10-26T07:09:16.093Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ni\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nCherche lot console ps4 3 pièces mini\nBuone·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nCherche lot ps4 3 pièces mini (consoles)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console da riparare/lotto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 112.55
   }
 ]
