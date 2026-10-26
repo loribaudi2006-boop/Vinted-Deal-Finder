@@ -25400,5 +25400,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~18.3€, sotto soglia"
+  },
+  {
+    "id": "10550712879",
+    "category": "Console",
+    "title": "Ps4 avec manette est clavier souris +câble",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10550712879-ps4-avec-manette-est-clavier-souris-cable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_006ab_giQu4mSHkt1TxcLnkyJJcADC/310x430/d1af796a.webp?s=935018215ce2c835d2159ae13a5422fffc5846e4",
+    "addedAt": "2026-10-26T22:55:14.438Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ttronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 avec manette est clavier souris +câble\nBuone·PlayStation·Caricato proprio adesso\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPs4 avec manette est clavier souris +câble\nAcheté pas\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.85
   }
 ]
