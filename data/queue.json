@@ -1,20 +1,5 @@
 [
   {
-    "id": "10481384108",
-    "category": "Console",
-    "title": "Originalverpackung / OVP Sony PlayStation 5 (PS5) Disc Edition – God of War Ragnarök NUR Karton",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10481384108-originalverpackung-ovp-sony-playstation-5-ps5-disc-edition-god-of-war-ragnarok-nur-karton?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00b95_1SfZ1YDoQt9pXLB5J2f6E3ZU/310x430/d34a0ea3.webp?s=5bfbd73edede40d0a0a5d7df9920649c9d8f162a",
-    "addedAt": "2026-10-22T09:10:52.215Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-15€, sotto soglia"
-  },
-  {
     "id": "10481443612",
     "category": "Console",
     "title": "Nintendo switch",
@@ -25479,5 +25464,41 @@
     "geminiFault": "Senza cavi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.85
+  },
+  {
+    "id": "10539291263",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10539291263-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_019bc_uh2hgKERDgM6AcBXnsZjjJak/310x430/df8de7c5.webp?s=d2852bc62853243eac48127a6ca585e09962c26b",
+    "addedAt": "2026-10-26T09:11:06.556Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Donna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\n🎮 Nintendo Switch classique à vendre\n\nJe vends ma Nintendo Switch classique avec ses deux Joy-Con bleu et rouge néon.\n\n✅ Console fonctionnelle\n✅ Joy-Con inclus\n❌ Vendue sans chargeur d’origine\n\n📦 Envoi soigné via Vinted.\n\nN’hésitez pas à me contacter pour plus d’informations !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza caricatore d'origine",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.3
+  },
+  {
+    "id": "10539336222",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10539336222-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01dec_yhmHFgYXj3WMxDAzZoHyKkfe/310x430/76b036c1.webp?s=c45022072e88242e07f550e20b88f15b6ed77824",
+    "addedAt": "2026-10-26T09:15:15.613Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rt\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVends console Sony PlayStation 4 slim avec une manette de couleur rouge\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
