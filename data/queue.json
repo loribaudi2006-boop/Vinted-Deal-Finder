@@ -1,21 +1,5 @@
 [
   {
-    "id": "10480185720",
-    "category": "Console",
-    "title": "PlayStation 4 très bon état",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10480185720-playstation-4-tres-bon-etat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_009e2_gLEc7r5Gjiqq9GZdxR7VqdE6/310x430/50c5eb5d.webp?s=4ca10e6235d9c32dac2cfd4a69f388efb140df21",
-    "addedAt": "2026-10-22T06:21:24.523Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10480336475",
     "category": "Console",
     "title": "Ps4 fat",
@@ -25321,8 +25305,11 @@
     "url": "https://www.vinted.it/items/10538218945-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014c2_HJqu56k9itALGPVEXFAkqNeK/310x430/1cf06988.webp?s=9c19dddc084c86b980fb91f4444fa7a2651e9f67",
     "addedAt": "2026-10-26T05:53:31.875Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10538231628",
@@ -25360,6 +25347,19 @@
     "url": "https://www.vinted.it/items/10538260067-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02360_wwNhDgB4nidN3A61Z2TKmpX2/310x430/3dbb4920.webp?s=6fdf513bab0775f8dbbd5f57d575297d1907b6fa",
     "addedAt": "2026-10-26T06:11:09.360Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10538286269",
+    "category": "Console",
+    "title": "Scattola ps5",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10538286269-scattola-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01488_3ZQHm8k266Wr7ZV9FMyJradp/310x430/4304be79.webp?s=e9464bf882349724d6e53b0005dc9bd76c0e0d82",
+    "addedAt": "2026-10-26T06:21:31.867Z",
     "processed": false,
     "triaged": false
   }
