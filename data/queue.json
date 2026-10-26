@@ -25385,5 +25385,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10550534010",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10550534010-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c81_Nw29jU2XccURUjDJsKaXyP2h/310x430/ff3bcacf.webp?s=90ec6a5159a895d829e930a251cfc866ca7632b7",
+    "addedAt": "2026-10-26T22:31:17.667Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\n+ 7\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch più coprì switch di stich più custodia\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.55
+  },
+  {
+    "id": "10550578116",
+    "category": "Console",
+    "title": "Console Ps2 fat non testata",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10550578116-console-ps2-fat-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015f3_5pbSCfbzQwf5pxjrS88h4Y59/310x430/a19e5513.webp?s=1f55e60f058b9229a24268e862f73be6081c4ba4",
+    "addedAt": "2026-10-26T22:36:30.998Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.3€, sotto soglia"
   }
 ]
