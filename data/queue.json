@@ -1,21 +1,5 @@
 [
   {
-    "id": "10480123298",
-    "category": "Console",
-    "title": "Nintendo switch non funzionante",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "parola chiave: \"non funzionante\" + prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10480123298-nintendo-switch-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_026e4_BTpRRX23QuAznJZ68RgXzRTB/310x430/ad361480.webp?s=1f42e9b902fc53cf63a72f86e3e3989e4bf84aab",
-    "addedAt": "2026-10-22T06:03:45.824Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10480185720",
     "category": "Console",
     "title": "PlayStation 4 très bon état",
@@ -25337,6 +25321,19 @@
     "url": "https://www.vinted.it/items/10538218945-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_014c2_HJqu56k9itALGPVEXFAkqNeK/310x430/1cf06988.webp?s=9c19dddc084c86b980fb91f4444fa7a2651e9f67",
     "addedAt": "2026-10-26T05:53:31.875Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10538231628",
+    "category": "Console",
+    "title": "Console Retrogaming Game Stick M15 Plus 2.4G Wireless  2 Controller Style PS5",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10538231628-console-retrogaming-game-stick-m15-plus-24g-wireless-2-controller-style-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012f3_qsshb8q1MjSZX4fFmwQHrHne/310x430/0a4bd4a0.webp?s=b94eaa3053760f952edac3c8977196a936a21f84",
+    "addedAt": "2026-10-26T05:58:42.988Z",
     "processed": false,
     "triaged": false
   }
