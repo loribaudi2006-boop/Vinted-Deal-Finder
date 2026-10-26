@@ -25337,8 +25337,11 @@
     "url": "https://www.vinted.it/items/10538257293-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01e3a_Pbui6py6kax6kJKMcByn9bZk/310x430/658ae462.webp?s=e2fa50e3eef58c122ced63eb0f451314afefe009",
     "addedAt": "2026-10-26T06:10:07.093Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10538260067",
@@ -25350,8 +25353,11 @@
     "url": "https://www.vinted.it/items/10538260067-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02360_wwNhDgB4nidN3A61Z2TKmpX2/310x430/3dbb4920.webp?s=6fdf513bab0775f8dbbd5f57d575297d1907b6fa",
     "addedAt": "2026-10-26T06:11:09.360Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10538286269",
@@ -25376,6 +25382,19 @@
     "url": "https://www.vinted.it/items/10538326546-ps4-en-tres-bonne-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00470_ZM2tLW1uEpqv4HVW1aCEeVU9/310x430/2a430e2b.webp?s=658a03a4ef7286fe23c5ec326796c4215c5c9410",
     "addedAt": "2026-10-26T06:35:01.604Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10538362640",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10538362640-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0180a_b7pgPmuvcBQaypPJgSF2F9vf/310x430/7d0906e3.webp?s=e294cc70baecc7882af8c377485d21e5c920f53b",
+    "addedAt": "2026-10-26T06:46:25.494Z",
     "processed": false,
     "triaged": false
   }
