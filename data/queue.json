@@ -25503,5 +25503,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10538746760",
+    "category": "Console",
+    "title": "Sac de transport / Sac à dos pour PS5 Slim",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10538746760-sac-de-transport-sac-a-dos-pour-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01ec3_CSxEFgx7Sfnx9wGXHk7comSK/310x430/161dad87.webp?s=8017c280877249490ed17cad9f7345bed0627ce9",
+    "addedAt": "2026-10-26T08:05:16.316Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
