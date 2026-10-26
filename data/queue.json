@@ -25400,5 +25400,38 @@
     "geminiFault": "un mando con pequeño fallo necesita tener el cargador puesto para su funcionamiento",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10550943042",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10550943042-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02638_PDLaqhQXaGEmde6rrmoN24vM/310x430/04f61d9f.webp?s=185ef1060efe852a7628c181221fac6508af268d",
+    "addedAt": "2026-10-26T23:30:34.227Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-47.95€, sotto soglia"
+  },
+  {
+    "id": "10550989073",
+    "category": "Console",
+    "title": "PS4 Pro Jailbreakbar",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 78% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10550989073-ps4-pro-jailbreakbar?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b57_DtDPrCya8RjeGYVnEkJT1cxR/310x430/7552466f.webp?s=5f7c4977785439434b30ffea852278ba92be4c16",
+    "addedAt": "2026-10-26T23:36:49.222Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Pro Jailbreakbar\nOttime·Sony·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nFirmware 13.52\nKaum Makel leicht verkratzt, ein wenig staub (siehe Bilder) funktioniert aber ohne probleme\nHinweis: Ohne Kabel und Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Firmware 13.52, leggermente graffiata, un po' di polvere, senza cavi e controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.3
   }
 ]
