@@ -25422,5 +25422,18 @@
     "geminiFault": "manette bleu qui beug un tout peu",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10537535920",
+    "category": "Console",
+    "title": "Jeux switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10537535920-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00267_B45ub1eQabJDhNmngHz8oRTR/310x430/be3c083d.webp?s=f232c8aeae48d50ff29a3f8f1fb74a0ac010bebd",
+    "addedAt": "2026-10-26T01:37:36.061Z",
+    "processed": false,
+    "triaged": false
   }
 ]
