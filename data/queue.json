@@ -1,21 +1,5 @@
 [
   {
-    "id": "10479496250",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10479496250-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01dac_3sDxcGqfKnTry8crSDwcQKc3/310x430/89219797.webp?s=a61796ff4ef857686b44c83573446b392017713b",
-    "addedAt": "2026-10-22T02:16:25.408Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10479541428",
     "category": "Console",
     "title": "Supporto Verticale per PS4 Fat – Base Stand Ner (Salva-Spazio)",
@@ -25417,6 +25401,19 @@
     "url": "https://www.vinted.it/items/10537637614-playstation-4-mit-headset?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01533_z6bMjNg7pEvK62SZnbpk1JJh/310x430/9b6697b9.webp?s=1a5c42a7c6e39f62eb9f13ae549107b808175ac9",
     "addedAt": "2026-10-26T02:01:27.644Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10537683212",
+    "category": "Console",
+    "title": "Jeux switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10537683212-jeux-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e10_4A4nDrg4aNPhDU1JDhstCwqz/310x430/fece7c04.webp?s=a6df0271ac061afb37f075ee434af54fa69913e3",
+    "addedAt": "2026-10-26T02:11:50.386Z",
     "processed": false,
     "triaged": false
   }
