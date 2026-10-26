@@ -1,20 +1,5 @@
 [
   {
-    "id": "10480400628",
-    "category": "Console",
-    "title": "Dock Nintendo Switch OLED Blanc + Câble HDMI officiel + 2 Dragonnes",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 85% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10480400628-dock-nintendo-switch-oled-blanc-cable-hdmi-officiel-2-dragonnes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_020f7_dH91niN7BkxVVLh92VFr1i5e/310x430/dfc28651.webp?s=fc3299c5c1edcd004b7d3b969359674cd9c8cc0e",
-    "addedAt": "2026-10-22T07:23:45.170Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
     "id": "10480640766",
     "category": "Console",
     "title": "PlayStation 4",
@@ -25437,5 +25422,66 @@
     "geminiFault": "Console da riparare/lotto",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 112.55
+  },
+  {
+    "id": "10538495307",
+    "category": "Console",
+    "title": "Façade PlayStation 5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10538495307-facade-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00020_Bz5LXhrXzMhXaMua6N8jGxyC/310x430/86588132.webp?s=9ca437771a9b533badb0717ab70d16942b1d6f42",
+    "addedAt": "2026-10-26T07:20:39.578Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.7€, sotto soglia"
+  },
+  {
+    "id": "10538494233",
+    "category": "Console",
+    "title": "PlayStation 4 no joystick",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10538494233-playstation-4-no-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01363_5S7svfoWD2uCvQZzQ4v3jCD2/310x430/72701aba.webp?s=8d5dd4f42984ead603c219c5927d4dbaef1ca2b2",
+    "addedAt": "2026-10-26T07:21:41.745Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "blicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 no joystick\nBuone·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nPlayStation 4 senza joystick\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza joystick",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10538505296",
+    "category": "Console",
+    "title": "PS2 Slim da sistemare o per pezzi di ricambio non legge i dischi",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10538505296-ps2-slim-da-sistemare-o-per-pezzi-di-ricambio-non-legge-i-dischi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_006e8_jiXVNa75FJFxCFL4xQCtFj9s/310x430/efa06c8b.webp?s=df4fa48fff5cdd5474e97a8fd3447a8e2bbb024b",
+    "addedAt": "2026-10-26T07:22:43.776Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~28.3€, sotto soglia"
+  },
+  {
+    "id": "10538520403",
+    "category": "Console",
+    "title": "PS4 pro",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 73% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10538520403-ps4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01e21_q9dQXxtpNtf2GWyoTVm9xG86/310x430/00540abd.webp?s=9b82046627aab334d44d5a5d15b76765906fe146",
+    "addedAt": "2026-10-26T07:25:50.234Z",
+    "processed": false,
+    "triaged": false
   }
 ]
