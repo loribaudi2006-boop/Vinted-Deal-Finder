@@ -25401,7 +25401,10 @@
     "url": "https://www.vinted.it/items/10537683212-jeux-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01e10_4A4nDrg4aNPhDU1JDhstCwqz/310x430/fece7c04.webp?s=a6df0271ac061afb37f075ee434af54fa69913e3",
     "addedAt": "2026-10-26T02:11:50.386Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
