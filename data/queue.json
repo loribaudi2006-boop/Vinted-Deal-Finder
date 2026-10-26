@@ -1,35 +1,5 @@
 [
   {
-    "id": "10490542357",
-    "category": "Console",
-    "title": "Station d'accueil blanche Nintendo Switch 1 officielle",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10490542357-station-daccueil-blanche-nintendo-switch-1-officielle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00f8b_9Z6jx9KTj9owmsBpqkfkUMNN/310x430/99e15e45.webp?s=248ef8fe21a1e3a6ec505c75bacf0f6ff1fa3748",
-    "addedAt": "2026-10-22T21:04:20.497Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
-    "id": "10490567697",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10490567697-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_003eb_bH93XiXvUkPqbM8jADyNGVss/310x430/e709d782.webp?s=0c0fbfa3103235f32f8016405d455239d1e913ce",
-    "addedAt": "2026-10-22T21:07:26.274Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10490631427",
     "category": "Console",
     "title": "Ps4com comando",
@@ -25487,5 +25457,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10549681110",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10549681110-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_012c1_i77E54kry8u3HV6UUkRsTszS/310x430/579cc8a1.webp?s=cf6a828fdf211027da8523b03eac92955629164f",
+    "addedAt": "2026-10-26T21:06:24.314Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSwitch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nPour le retour\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
