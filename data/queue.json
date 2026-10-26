@@ -25321,8 +25321,11 @@
     "url": "https://www.vinted.it/items/10538231628-console-retrogaming-game-stick-m15-plus-24g-wireless-2-controller-style-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_012f3_qsshb8q1MjSZX4fFmwQHrHne/310x430/0a4bd4a0.webp?s=b94eaa3053760f952edac3c8977196a936a21f84",
     "addedAt": "2026-10-26T05:58:42.988Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10538257293",
@@ -25360,6 +25363,19 @@
     "url": "https://www.vinted.it/items/10538286269-scattola-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01488_3ZQHm8k266Wr7ZV9FMyJradp/310x430/4304be79.webp?s=e9464bf882349724d6e53b0005dc9bd76c0e0d82",
     "addedAt": "2026-10-26T06:21:31.867Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10538326546",
+    "category": "Console",
+    "title": "Ps4 en très bonne état",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10538326546-ps4-en-tres-bonne-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00470_ZM2tLW1uEpqv4HVW1aCEeVU9/310x430/2a430e2b.webp?s=658a03a4ef7286fe23c5ec326796c4215c5c9410",
+    "addedAt": "2026-10-26T06:35:01.604Z",
     "processed": false,
     "triaged": false
   }
