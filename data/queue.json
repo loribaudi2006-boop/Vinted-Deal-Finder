@@ -1,23 +1,5 @@
 [
   {
-    "id": "10480336475",
-    "category": "Console",
-    "title": "Ps4 fat",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10480336475-ps4-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01c4c_3Lai6d1BzUU3ZbXAf2QB9fnP/310x430/f5d330c0.webp?s=6c1f0c7967a1f01df0b822cfe8e6b75f57128eb3",
-    "addedAt": "2026-10-22T06:57:46.034Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "nismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 fat\nOttime·PlayStation·Caricato 4 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 min fa\nPs4 fat non si accende e da rivedere\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "non si accende e da rivedere",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10480388228",
     "category": "Console",
     "title": "Ps4 pour pièces",
@@ -25385,8 +25367,10 @@
     "url": "https://www.vinted.it/items/10538326546-ps4-en-tres-bonne-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00470_ZM2tLW1uEpqv4HVW1aCEeVU9/310x430/2a430e2b.webp?s=658a03a4ef7286fe23c5ec326796c4215c5c9410",
     "addedAt": "2026-10-26T06:35:01.604Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10538362640",
@@ -25398,8 +25382,10 @@
     "url": "https://www.vinted.it/items/10538362640-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0180a_b7pgPmuvcBQaypPJgSF2F9vf/310x430/7d0906e3.webp?s=e294cc70baecc7882af8c377485d21e5c920f53b",
     "addedAt": "2026-10-26T06:46:25.494Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10538368591",
@@ -25411,8 +25397,10 @@
     "url": "https://www.vinted.it/items/10538368591-playstation-5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01990_KkUfkHdA6i3WG9SGtnJj4aBt/310x430/bda842fe.webp?s=e6e2c5d5cd4efe3ef5e6be1e0769dcc1e3cc38e5",
     "addedAt": "2026-10-26T06:48:30.572Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   },
   {
     "id": "10538392866",
@@ -25424,7 +25412,27 @@
     "url": "https://www.vinted.it/items/10538392866-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01071_X7Zfhd3hmnPAYZEXvmokuYAu/310x430/4906d53f.webp?s=84f8c3e9e2c568beb090a8fc08a94846ad1691fc",
     "addedAt": "2026-10-26T06:55:46.077Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10538415546",
+    "category": "Console",
+    "title": "Xbox one série x 1TO",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10538415546-xbox-one-serie-x-1to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0151c_z3zGsX1QjKjKfACnDEK1V4Fy/310x430/4204e3e3.webp?s=d0debb978e4fd9ad4e340251df21bd71b22a6e1a",
+    "addedAt": "2026-10-26T07:02:00.342Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one série x 1TO\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nQuasi pas utilisé très bon état facture si besoin acheté en 2020\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 180
   }
 ]
