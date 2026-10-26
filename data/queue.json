@@ -1,50 +1,5 @@
 [
   {
-    "id": "10481824173",
-    "category": "Console",
-    "title": "Ps4 avec envoie rapide",
-    "price": 32,
-    "totalPrice": 34.3,
-    "reason": "prezzo 75% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10481824173-ps4-avec-envoie-rapide?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_003a7_TmUMPYatNgMumRK8yXWgYrzm/310x430/97380ac1.webp?s=dbd81acf1983600f1ab55c0456bc94e3e2806d1a",
-    "addedAt": "2026-10-22T09:49:25.675Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~30.7€, sotto soglia"
-  },
-  {
-    "id": "10481815311",
-    "category": "Console",
-    "title": "Cherche ps5 slim",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10481815311-cherche-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00a70_s2y2NLxUg4ABaDPJRJHfZkdZ/310x430/39a77168.webp?s=6f17ba10bb43e2cb2bbdfd3db868c49b6b576f92",
-    "addedAt": "2026-10-22T09:49:25.675Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10481845220",
-    "category": "Console",
-    "title": "Xbox 360 (Scocca esterna rotta)",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "parola chiave: \"rotta\"",
-    "url": "https://www.vinted.it/items/10481845220-xbox-360-scocca-esterna-rotta?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01df3_stZM9X4yPGTiqvSpGCiVMC61/310x430/bf48a754.webp?s=5bfefc7431aa0d52b9f74e3a44cf67a6bf31957f",
-    "addedAt": "2026-10-22T09:51:30.436Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10.8€, sotto soglia"
-  },
-  {
     "id": "10482030449",
     "category": "Console",
     "title": "Ps5 faceplates weiß",
@@ -25529,7 +25484,27 @@
     "url": "https://www.vinted.it/items/10539698875-witcher-3-remastered-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00535_E3kijC9jFBBftb9uwiCwonKs/310x430/51c4684c.webp?s=77e182b8fbf4e0369f5e6a495d790179a982bb85",
     "addedAt": "2026-10-26T09:48:44.194Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10539756354",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10539756354-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0081f_hwNLVpA3cMGrQRQv16Qaixco/310x430/71a27443.webp?s=df69212bb7da657d569d99bb39be8536c028fade",
+    "addedAt": "2026-10-26T09:52:55.008Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n20,00 €\n\n21,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nIch verkaufe diese Nintendo switch. Sie ist noch gut in Schuss und weist keine gebraucht Spuren auf. Da ich die original Verpackung nicht mehr besitze, wird sie in einem luftpolster Briefumschlag verschickt 😅.Alle Spiele die bisher aif dem Gerät sind werden natürlich gelöscht!\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca la confezione originale, spedizione in busta imbottita (rischio danni se non imballata bene)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 120
   }
 ]
