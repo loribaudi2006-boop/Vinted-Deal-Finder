@@ -1,21 +1,5 @@
 [
   {
-    "id": "10479438033",
-    "category": "Console",
-    "title": "Ps5 portal",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10479438033-ps5-portal?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_02608_CodrnosJGw6MmtoYquNqvoUd/310x430/8db3e6e0.webp?s=9343a56892cec366a683108c9d4b6f4b687f1396",
-    "addedAt": "2026-10-22T02:01:54.152Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10479496250",
     "category": "Console",
     "title": "PlayStation 4",
@@ -25417,6 +25401,22 @@
     "url": "https://www.vinted.it/items/10537535920-jeux-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00267_B45ub1eQabJDhNmngHz8oRTR/310x430/be3c083d.webp?s=f232c8aeae48d50ff29a3f8f1fb74a0ac010bebd",
     "addedAt": "2026-10-26T01:37:36.061Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10537637614",
+    "category": "Console",
+    "title": "Playstation 4 mit Headset.",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10537637614-playstation-4-mit-headset?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01533_z6bMjNg7pEvK62SZnbpk1JJh/310x430/9b6697b9.webp?s=1a5c42a7c6e39f62eb9f13ae549107b808175ac9",
+    "addedAt": "2026-10-26T02:01:27.644Z",
     "processed": false,
     "triaged": false
   }
