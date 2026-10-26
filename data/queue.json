@@ -25481,7 +25481,27 @@
     "url": "https://www.vinted.it/items/10538520403-ps4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01e21_q9dQXxtpNtf2GWyoTVm9xG86/310x430/00540abd.webp?s=9b82046627aab334d44d5a5d15b76765906fe146",
     "addedAt": "2026-10-26T07:25:50.234Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 pro\nDiscrete·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPS4 es señal de vida y se apaga\nTiene arreglo\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "PS4 no da señal de vida y se apaga. Tiene arreglo.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.85
+  },
+  {
+    "id": "10538534958",
+    "category": "Console",
+    "title": "Witcher 3 remastered Switch 2",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10538534958-witcher-3-remastered-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00535_E3kijC9jFBBftb9uwiCwonKs/310x430/51c4684c.webp?s=77e182b8fbf4e0369f5e6a495d790179a982bb85",
+    "addedAt": "2026-10-26T07:28:58.200Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
   }
 ]
