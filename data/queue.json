@@ -1,20 +1,5 @@
 [
   {
-    "id": "10492915260",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10492915260-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00041_UnNM61iBpwuZtgFwyT7nrZzq/310x430/3a0d572f.webp?s=c62b4af88eb280b2474f9ece24bc1b6772959eb7",
-    "addedAt": "2026-10-23T06:30:31.698Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10492996580",
     "category": "Console",
     "title": "Xbox One Fat",
@@ -25311,8 +25296,11 @@
     "url": "https://www.vinted.it/items/10552429297-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01677_S6xnSUtEBtkcizKP68riFpaX/310x430/847cceeb.webp?s=6d9b78b0cb020e83b7c0f9bec8975e2170585178",
     "addedAt": "2026-10-27T06:02:18.390Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10552443783",
