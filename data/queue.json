@@ -1,37 +1,5 @@
 [
   {
-    "id": "10492818216",
-    "category": "Console",
-    "title": "Verkaufe Nintendo Switch lite mit fc24 und 3 weiteren Spiele",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10492818216-verkaufe-nintendo-switch-lite-mit-fc24-und-3-weiteren-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00026_CmwEEot8rPwuDN1FxBFRa2jH/310x430/12d3ce1c.webp?s=2bff848839d4cba4b9f0e30bebd2d34266292196",
-    "addedAt": "2026-10-23T06:08:49.207Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10492812387",
-    "category": "Console",
-    "title": "Ps5 PlayStation scatola vuota",
-    "price": 16,
-    "totalPrice": 17.5,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10492812387-ps5-playstation-scatola-vuota?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00be1_Mz8WMia1dbVyFuE6rWBxHyGT/310x430/da6278ca.webp?s=e9f0f40e848af7c20577db4bee7b1b88e64dd3be",
-    "addedAt": "2026-10-23T06:08:49.207Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10492915260",
     "category": "Console",
     "title": "Switch lite",
@@ -25327,8 +25295,11 @@
     "url": "https://www.vinted.it/items/10552394697-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c7b_9gBBsPycPtXsshsQ7SaRic53/310x430/de78743c.webp?s=1ea28592b0463b020d97ea7fc61eb8fb2a8a96c5",
     "addedAt": "2026-10-27T05:46:44.340Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10552429297",
@@ -25340,6 +25311,19 @@
     "url": "https://www.vinted.it/items/10552429297-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01677_S6xnSUtEBtkcizKP68riFpaX/310x430/847cceeb.webp?s=6d9b78b0cb020e83b7c0f9bec8975e2170585178",
     "addedAt": "2026-10-27T06:02:18.390Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10552443783",
+    "category": "Console",
+    "title": "Switch 2 Pokémon Cover",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10552443783-switch-2-pokemon-cover?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0099a_CpDKxEWC1LmfbLahpnCBSMAo/310x430/37b3628a.webp?s=aa9d5bbe8a677bd2e71ba8f7b5309f2793ee4015",
+    "addedAt": "2026-10-27T06:07:30.554Z",
     "processed": false,
     "triaged": false
   }
