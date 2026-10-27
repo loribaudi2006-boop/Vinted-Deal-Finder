@@ -1,38 +1,5 @@
 [
   {
-    "id": "10493405201",
-    "category": "Console",
-    "title": "Ps4 classique",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10493405201-ps4-classique?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00f17_xb71ZSZH2k4Vr36hNM43zMPF/310x430/7feaf658.webp?s=a0b19f7cc5dc2d9e36dccf817516609434eb8bed",
-    "addedAt": "2026-10-23T07:57:29.671Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 classique\nBuone·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vend cette ps4 le lecteur cd beugue ne reconnaît pas les jeux . Mise a part sa fonctionne nickel elle chauffe pas et fait pas de bruit. + fifa 22 et rb6\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Il lettore CD non legge i giochi.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 52.3
-  },
-  {
-    "id": "10493425019",
-    "category": "Console",
-    "title": "Lettore disco originale PS5 Slim Sony con copertura bianca",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10493425019-lettore-disco-originale-ps5-slim-sony-con-copertura-bianca?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0116f_3vXKzwAU4f4xMKqHuYXqBnKV/310x430/8dc77638.webp?s=0a61be45be9eac4ede1947e9728cacb0ff722b9e",
-    "addedAt": "2026-10-23T07:59:33.593Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20.55€, sotto soglia"
-  },
-  {
     "id": "10493520750",
     "category": "Console",
     "title": "Console xbox one avec 1 jeu",
@@ -25320,5 +25287,20 @@
     "geminiFault": "Parental control block, password unknown (needs reset)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80.3
+  },
+  {
+    "id": "10552940915",
+    "category": "Console",
+    "title": "PlayStation 4 pro",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10552940915-playstation-4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01cf1_tjnMTRpM6TonF34MjyngV2fd/310x430/a9b8784a.webp?s=4a3c6d40d885704a3affbb0b4f4acd6a79066489",
+    "addedAt": "2026-10-27T08:03:53.083Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
