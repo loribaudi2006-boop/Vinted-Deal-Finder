@@ -1,21 +1,5 @@
 [
   {
-    "id": "10492274734",
-    "category": "Console",
-    "title": "nintendo switch top Zustand",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10492274734-nintendo-switch-top-zustand?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_025b4_5ad23cymHyGgWh2zjgofDFHZ/310x430/11d83519.webp?s=0ee211b72f7db8e09ef3ef3b580f13b588e67f49",
-    "addedAt": "2026-10-23T02:38:02.681Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10492357927",
     "category": "Console",
     "title": "Xbox One s",
@@ -25391,7 +25375,10 @@
     "url": "https://www.vinted.it/items/10551803201-ps4joystic-mimetico?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0019c_ro3aHgX4RPcb4kimHznM6FLh/310x430/f5593d8f.webp?s=0b757246fdcab6befba73c68535a892299a549df",
     "addedAt": "2026-10-27T02:05:25.099Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
