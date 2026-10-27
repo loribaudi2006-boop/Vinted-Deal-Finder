@@ -25251,5 +25251,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10555570291",
+    "category": "Console",
+    "title": "Playstation 5 pro 2tb ovp",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10555570291-playstation-5-pro-2tb-ovp?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a00_ug6XXpA8UJf9it5cZ7gyfsfv/310x430/e8bd3aae.webp?s=ceb80c9a30bd1e887359d9039fd1b20290b22844",
+    "addedAt": "2026-10-27T12:08:24.253Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 5 pro 2tb ovp\nNuovo con cartellino·Sony·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 5 Pro\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nIch verkaufe meine Playstation 5 pro 2tb ovp\n\nPreis auf Anfrage\nBezahlung nur über Echtzeit Überweisung\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 700
+  },
+  {
+    "id": "10555646376",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10555646376-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01018_eEvx6f4CxtUvPFTqVcFLt8MF/310x430/fe8bbb8a.webp?s=bbec07e18f300ee949b2054c3a8e19f065a9cd2e",
+    "addedAt": "2026-10-27T12:13:36.446Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
   }
 ]
