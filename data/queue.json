@@ -25311,8 +25311,11 @@
     "url": "https://www.vinted.it/items/10552264486-je-vends-ma-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_000ab_h8EYxGRWiry6qyzCzAYqFN9n/310x430/310c94ea.webp?s=867668a83f531aa703f37b66fcefa8b925bc86b8",
     "addedAt": "2026-10-27T04:38:09.279Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10552278692",
@@ -25324,8 +25327,11 @@
     "url": "https://www.vinted.it/items/10552278692-je-vends-ma-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_000ab_h8EYxGRWiry6qyzCzAYqFN9n/310x430/310c94ea.webp?s=867668a83f531aa703f37b66fcefa8b925bc86b8",
     "addedAt": "2026-10-27T04:46:27.987Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10552282780",
