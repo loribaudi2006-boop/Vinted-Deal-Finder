@@ -1,21 +1,5 @@
 [
   {
-    "id": "10492712191",
-    "category": "Console",
-    "title": "Boîte vide Sony PS5",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10492712191-boite-vide-sony-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02035_TcP43gYx6eggUk2QMMmhFAiJ/310x430/c52a8a3b.webp?s=c5979f6aa28211ae05ec1624a5bad76932d1c7b9",
-    "addedAt": "2026-10-23T05:26:42.781Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10492818216",
     "category": "Console",
     "title": "Verkaufe Nintendo Switch lite mit fc24 und 3 weiteren Spiele",
@@ -25311,8 +25295,11 @@
     "url": "https://www.vinted.it/items/10552310761-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0202b_fFveTxxDcaUCoxayM7N19eHv/310x430/323bb6ab.webp?s=ebf31f49e066b7361b8c6d0d766c4a456fbd7209",
     "addedAt": "2026-10-27T05:03:06.506Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10552345628",
