@@ -24948,5 +24948,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10562726025",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10562726025-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00a4e_VWueSxNGncJyLU5CsAWwTrLx/310x430/e4615152.webp?s=19fd91c76c741190c2dd7bf905d67715fc6568a6",
+    "addedAt": "2026-10-27T20:27:12.664Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch lite\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nGoede kwaliteit\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.05
+  },
+  {
+    "id": "10562733033",
+    "category": "Console",
+    "title": "Pochette officielle Nintendo switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10562733033-pochette-officielle-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01a44_KbKj1RD4u5HVk6mGYPGFWVHy/310x430/e1b6bd81.webp?s=47c94729effb56b60d4b9e90cdfc697e20e1f029",
+    "addedAt": "2026-10-27T20:29:16.794Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-22.45€, sotto soglia"
   }
 ]
