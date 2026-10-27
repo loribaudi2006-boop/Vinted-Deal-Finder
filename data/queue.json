@@ -1,20 +1,5 @@
 [
   {
-    "id": "10493070719",
-    "category": "Console",
-    "title": "Switch 1 Controller Zubehör",
-    "price": 2,
-    "totalPrice": 2.8,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10493070719-switch-1-controller-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_014a2_GNziDWTSkc1Cr8zVnA6hQreE/310x430/4f5454cf.webp?s=d0c27b58bbadb76f89f5fe6eb02f8461ab9ff2b9",
-    "addedAt": "2026-10-23T07:04:42.876Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~9.2€, sotto soglia"
-  },
-  {
     "id": "10493265554",
     "category": "Console",
     "title": "Xbox one s blanche",
@@ -25313,8 +25298,10 @@
     "url": "https://www.vinted.it/items/10552533019-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00365_wawfbDHp7ZwYsBVjSefExceN/310x430/6088be83.webp?s=1cc4c271655ea52f0336cc3efea257f26b8fa14e",
     "addedAt": "2026-10-27T06:37:36.646Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10552540029",
@@ -25326,6 +25313,24 @@
     "url": "https://www.vinted.it/items/10552540029-ps4-standard?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01807_teQeosRWzLKVLpuaSdBWChxX/310x430/2077b24d.webp?s=1694a38ef50aed7dc83732abad88dfc79c914fe5",
     "addedAt": "2026-10-27T06:39:41.670Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 standard\nNuovo senza cartellino·PlayStation·Caricato 21 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n21 min fa\nps4 in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 57.85
+  },
+  {
+    "id": "10552638364",
+    "category": "Console",
+    "title": "Dragonne switch 1",
+    "price": 4.2,
+    "totalPrice": 5.11,
+    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10552638364-dragonne-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a04_RMp6yPvGaaYsdUuNq573TvRd/310x430/84af9c91.webp?s=0dee6cccb78f3556f5a0cc23c5b08df243ee7e99",
+    "addedAt": "2026-10-27T07:06:42.679Z",
     "processed": false,
     "triaged": false
   }
