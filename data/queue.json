@@ -1,35 +1,5 @@
 [
   {
-    "id": "10493654696",
-    "category": "Console",
-    "title": "PlayStation 5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10493654696-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00abb_u1Kbei6ov4VEN9NduwMpdSj8/310x430/e492af71.webp?s=42b3c09b806021c8f010ed8b08666aeab47c9bd8",
-    "addedAt": "2026-10-23T08:27:30.288Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
-    "id": "10493711059",
-    "category": "Console",
-    "title": "xbox one blanca con tres juegos",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10493711059-xbox-one-blanca-con-tres-juegos?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_017dc_1bZpV8hLYHiLY8MuFv4Nd2yM/310x430/4e66bcbc.webp?s=345129bc7e44dbe19b118a70fd530a8acbad9f83",
-    "addedAt": "2026-10-23T08:33:43.140Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10493775387",
     "category": "Console",
     "title": "ensemble nintendo switch",
@@ -25251,5 +25221,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~0.05€, sotto soglia"
+  },
+  {
+    "id": "10553123528",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10553123528-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_017ea_VkiQzYAaDpRTNqhDXYNNeMEC/310x430/d36c0ebd.webp?s=a3ace431702c0cd5969050bc8b750d2c4a80026a",
+    "addedAt": "2026-10-27T08:29:52.105Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 slim 500 GB perfettamente funzionante, resettata e pulizia dell'interno e della ventola effettuata. Joystick funzionante ma SENZA cavetto di collegamento alla play.\nInclusi nella confezione anche cavo HDMI e cavo di alimentazione\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick SENZA cavetto di collegamento alla play",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
   }
 ]
