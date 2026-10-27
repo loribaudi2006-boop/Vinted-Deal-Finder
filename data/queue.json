@@ -1,21 +1,5 @@
 [
   {
-    "id": "10491971109",
-    "category": "Console",
-    "title": "nintendo switch top Zustand",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10491971109-nintendo-switch-top-zustand?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_025b4_5ad23cymHyGgWh2zjgofDFHZ/310x430/11d83519.webp?s=0ee211b72f7db8e09ef3ef3b580f13b588e67f49",
-    "addedAt": "2026-10-23T01:22:25.185Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10492039838",
     "category": "Console",
     "title": "nintendo switch top Zustand",
@@ -25444,5 +25428,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10551578208",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10551578208-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_012c1_hw22ZRRKMkzmVBdcd4p1BH8r/310x430/58adc81c.webp?s=e7dbb204e1dfeec4388d345d3ceba01f61d77901",
+    "addedAt": "2026-10-27T01:19:44.742Z",
+    "processed": false,
+    "triaged": false
   }
 ]
