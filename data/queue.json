@@ -1,20 +1,5 @@
 [
   {
-    "id": "10497062891",
-    "category": "Console",
-    "title": "funda protectora de transporte para Nintendo Switch inspirada en Animal Crossing",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10497062891-funda-protectora-de-transporte-para-nintendo-switch-inspirada-en-animal-crossing?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_006fd_MMv3zZmgS6u53ivXwb1oU9rw/310x430/6ce30cc4.webp?s=572f0e4b490337fdaa95a3c8c0f94e9b098a6f95",
-    "addedAt": "2026-10-23T13:20:24.740Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.7€, sotto soglia"
-  },
-  {
     "id": "10479157673",
     "category": "Console",
     "title": "Ps4 slim avec manette",
@@ -25136,8 +25121,13 @@
     "url": "https://www.vinted.it/items/10556415628-nintendo-switch-1-mode-tv-uniquementpour-piecea-reparer?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02278_pew23AfBjZRhLfsNAsihQWfR/310x430/fb106654.webp?s=e42a1823b9b43a7cd67c4922e021546570e3f298",
     "addedAt": "2026-10-27T13:12:47.850Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "chi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nNintendo Switch 1 Mode TV uniquement//Pour pièce//à réparer\nDiscrete·Nintendo·Caricato 3 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n3 min fa\nJe vends ma Nintendo Switch complète avec tous ses accessoires d'origine (Dock, câbles d’origine, Joy-Cons, support).\n⚠️ Défauts importants à lire :\n1. Les deux rails latéraux ne fonctionnent plus : la console ne détecte pas les manettes attachées (impossible de jouer en mode portable). Elle fonctionne parfaitement en mode TV (sur son dock).\n2. Une manette marche en sans-fil, l'autre est complètement déchargée (et ne peut pas se recharger sur la console à cause du souci de rails).\nVendue en l'état pour bricoleur, pièces, ou pour joueur exclusif sur TV. Envoi rapide et soigné !\n... altro\nSpedizione\nda 9,49 €",
+    "geminiFault": "Rails latéraux défectueux (ne détecte pas les Joy-Cons attachés, mode portable impossible), une manette complètement déchargée (non rechargeable à cause des rails). Fonctionne en mode TV.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
   },
   {
     "id": "10556433658",
@@ -25149,7 +25139,60 @@
     "url": "https://www.vinted.it/items/10556433658-nenvoie-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_021ab_LspLMq9N3Jb5QAkokhFhBi3y/310x430/be006c9a.webp?s=50a3f0df02b1fcbb469237043fe6bafbbf96054c",
     "addedAt": "2026-10-27T13:13:52.131Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "7\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVenduto\nN'envoie Switch\nNuovo senza cartellino·Nintendo·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n2 min fa\nConsole et Jeux très bons états\nSpedizione\nda 9,49 €",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 100.3
+  },
+  {
+    "id": "10556493801",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10556493801-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00595_sVA644FJeRKmXHaCLJG8bE3P/310x430/496955b9.webp?s=35575e011dc468c2182eb986377e18707e509b93",
+    "addedAt": "2026-10-27T13:18:01.854Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10556515727",
+    "category": "Console",
+    "title": "Console Nintendo Switch",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10556515727-console-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_006bd_QfkM1i9FZC3hFLgVZ3V7dgPM/310x430/2d6656cc.webp?s=94426a03a2f02d437a51f9ff2a441dba49a61312",
+    "addedAt": "2026-10-27T13:20:06.330Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole Nintendo Switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n39,00 €\n\n41,65 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nNintendo Switch (Solo Tablet / Console principale)\nVendo solo il tablet/schermo principale della Nintendo Switch (Modello HAC-001\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Solo tablet/schermo principale, senza accessori né Joy-Con",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.35
+  },
+  {
+    "id": "10556559048",
+    "category": "Console",
+    "title": "Nitendo switch 🎮",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10556559048-nitendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013c6_KAqWw11ogQ1HBnbtxCceztPD/310x430/00b984b8.webp?s=58f040ff2be3e9eb73ef9b0ba0ed64bcf98f6999",
+    "addedAt": "2026-10-27T13:23:13.169Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
