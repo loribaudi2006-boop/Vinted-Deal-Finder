@@ -24954,5 +24954,46 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.55€, sotto soglia"
+  },
+  {
+    "id": "10564012013",
+    "category": "Console",
+    "title": "Gameboy Game Jung non funzionante",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10564012013-gameboy-game-jung-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e62_EvkEKmRHngsb2CbqNzbUP4Eb/310x430/c9fe4162.webp?s=da46564d8b30d35d862b44e8bedc2d37e5d70aeb",
+    "addedAt": "2026-10-27T22:28:21.072Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10564056793",
+    "category": "Console",
+    "title": "PS4 Maj 13.52 mécanisme CD HS",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10564056793-ps4-maj-1352-mecanisme-cd-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c21_3oBAE97bFc6mUNVv2zzDWQtJ/310x430/020d9a12.webp?s=5762702ab9aeb68172bcd9f3536d896138b56f3c",
+    "addedAt": "2026-10-27T22:33:31.424Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10564053168",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10564053168-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0167d_SpnMcy4bvs2hYhZsFzgJSae6/310x430/23d22711.webp?s=537970ec4108c7727d7c864b10990f4215218762",
+    "addedAt": "2026-10-27T22:33:31.424Z",
+    "processed": false,
+    "triaged": false
   }
 ]
