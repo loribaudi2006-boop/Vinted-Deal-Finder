@@ -1,23 +1,5 @@
 [
   {
-    "id": "10503578300",
-    "category": "Console",
-    "title": "Xbox one s",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10503578300-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00c40_HmRewWEbHRFy6UFNXvXrPDaD/310x430/d0ea88d1.webp?s=54a5cd64edcb859f8e556934be00c884dbe6aa12",
-    "addedAt": "2026-10-23T22:21:47.646Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "lezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one s\nDiscrete·Xbox·Caricato proprio adesso\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nXbox one s ne s allume pas !\nA réparer ou pour pièces\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "ne s allume pas ! A réparer ou pour pièces",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.8
-  },
-  {
     "id": "10503648219",
     "category": "Console",
     "title": "PlayStation 4",
@@ -24968,7 +24950,9 @@
     "url": "https://www.vinted.it/items/10563898339-bloc-dalimentation-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_010bb_NYVEQQUi8vKAEFzbzsWSUJFJ/310x430/607ae99c.webp?s=2eb3d4e5109c4ec437ce8c0842417f5c097a8132",
     "addedAt": "2026-10-27T22:13:51.250Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.55€, sotto soglia"
   }
 ]
