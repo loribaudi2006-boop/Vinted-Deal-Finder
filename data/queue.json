@@ -1,20 +1,5 @@
 [
   {
-    "id": "10491626693",
-    "category": "Console",
-    "title": "PS4 Slim 500 Go - Fonctionnelle (Lecteur OK) - Sans manette",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10491626693-ps4-slim-500-go-fonctionnelle-lecteur-ok-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_004eb_vt5qfFZfqBBbTWKYgdyNRTGx/310x430/f5141f4e.webp?s=c418ab29afa6ed3d1eedc756612e78a78e5e5c8e",
-    "addedAt": "2026-10-23T00:05:50.639Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.3€, sotto soglia"
-  },
-  {
     "id": "10491709053",
     "category": "Console",
     "title": "Ps4 ( version système :8.50)",
@@ -25463,5 +25448,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.05€, sotto soglia"
+  },
+  {
+    "id": "10551128696",
+    "category": "Console",
+    "title": "playstation 5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10551128696-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ff9_5LyLrWiEWfMHzgrTAFf6p6ny/310x430/9c69aea8.webp?s=e4dd3a58574b9dab215aecbfc727155866c5b801",
+    "addedAt": "2026-10-26T23:59:44.340Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "t\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nplaystation 5\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nOttime\nCaricato\nProprio adesso\nps5 très bon état avec une manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 276.8
   }
 ]
