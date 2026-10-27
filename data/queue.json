@@ -25359,6 +25359,22 @@
     "url": "https://www.vinted.it/items/10551986010-je-vend-ma-ps4-20eur-payement-sur-paypal-car-cest-urgent-pour-aujourdhui?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_001eb_ys4b1aaD2hXZdf3JKSuuSp1U/310x430/cd699cb3.webp?s=6e6c0bf29694790ca5bd8e3c5b4cccdbaadfc027",
     "addedAt": "2026-10-27T02:50:01.880Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10552100715",
+    "category": "Console",
+    "title": "Je vend une ps4 20€ payement uniquement paypal car c’est urgent pour aujourd’hui",
+    "price": 20,
+    "totalPrice": 20,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10552100715-je-vend-une-ps4-20eur-payement-uniquement-paypal-car-cest-urgent-pour-aujourdhui?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b86_JdLh3CNCaPXa7y3o956M2wKd/310x430/c0715b9f.webp?s=1b08a6db6daa05add5d24b2802d27716a4cb436b",
+    "addedAt": "2026-10-27T03:26:19.918Z",
     "processed": false,
     "triaged": false
   }
