@@ -1,20 +1,5 @@
 [
   {
-    "id": "10495640857",
-    "category": "Console",
-    "title": "Pochette de rangement naruto switch 1",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10495640857-pochette-de-rangement-naruto-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b8d_bcv1cQ5a4wqEMCN55XV3dE59/310x430/8cecbf3f.webp?s=fe233ab0697aa5c9f561636f6fb9b85e2c9bfe82",
-    "addedAt": "2026-10-23T11:29:33.235Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-15€, sotto soglia"
-  },
-  {
     "id": "10495752322",
     "category": "Console",
     "title": "Nintendo switch",
@@ -25280,8 +25265,10 @@
     "url": "https://www.vinted.it/items/10555019715-2-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_010c4_4aGMjYVq9PEJ2vkF7uaXg8Ed/310x430/c5418b5a.webp?s=834dd4a51df2a558e9eb6bde155c104295684e6b",
     "addedAt": "2026-10-27T11:22:39.696Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10555034268",
@@ -25293,7 +25280,42 @@
     "url": "https://www.vinted.it/items/10555034268-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00f65_9sHW5RYu8eU3cACnk28AJdqw/310x430/ee6a2b8b.webp?s=978298e4428ed49e2220d24025058cb9442d8d59",
     "addedAt": "2026-10-27T11:23:41.746Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\n+Need for Speed Spiel\nSpedizione\nda 11,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.55
+  },
+  {
+    "id": "10555071679",
+    "category": "Console",
+    "title": "Giochi ps4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10555071679-giochi-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_018da_1vfWL4CyEtyxBMwLDnz57R71/310x430/7f255ce8.webp?s=8578114994e62fcbf12abb7f7a97167f694466bd",
+    "addedAt": "2026-10-27T11:26:48.116Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10555078113",
+    "category": "Console",
+    "title": "Anthem PlayStation 4 ps4",
+    "price": 3.89,
+    "totalPrice": 4.78,
+    "reason": "prezzo 97% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10555078113-anthem-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b27_jmxVz5jrH1tDfBvbKYZkbakb/310x430/d9a274be.webp?s=445e49d5188a1a54aff1aefd7f8b38ac4d25e028",
+    "addedAt": "2026-10-27T11:27:50.222Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.78€, sotto soglia"
   }
 ]
