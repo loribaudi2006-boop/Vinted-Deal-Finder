@@ -1,23 +1,5 @@
 [
   {
-    "id": "10503375451",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10503375451-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01d83_V3uLNYYuadUPfBh2Sr2kEdNH/310x430/d30a2e78.webp?s=2e975a4710fa65945c727b83c51072d58cb6344a",
-    "addedAt": "2026-10-23T21:49:40.028Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo Nintendo switch funzionante in ottime condizioni con accessori.\nSe potete acquistare con inpost o poste italiane, mi faresti un favore, perché gli altri punti sono lontani da casa mia\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80
-  },
-  {
     "id": "10503431166",
     "category": "Console",
     "title": "Switch",
@@ -24888,5 +24870,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10563628606",
+    "category": "Console",
+    "title": "Xbox one e giochi",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10563628606-xbox-one-e-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b84_JtHKkoJyiv3Lu9Vh1jefzsyF/310x430/357b3086.webp?s=339017d8b8f6ea1d9044289291ef1b78f0f971f4",
+    "addedAt": "2026-10-27T21:44:52.790Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
