@@ -25219,7 +25219,45 @@
     "url": "https://www.vinted.it/items/10566435596-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02245_LTJXLMYVicR6aPMVt1fd6z9N/310x430/03c9c6c4.webp?s=023fa919fac46ca9b1262a9e70565613a1e4a555",
     "addedAt": "2026-10-28T08:15:33.562Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Uomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\n-Im guten zustand\nauf der linken seite ist der gummy ab doch das ist nicht so schlimm\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Gomma dell'analogico sinistro mancante (auf der linken seite ist der gummy ab)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.8
+  },
+  {
+    "id": "10566453774",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10566453774-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01de0_duKaFFs4YVduwvgSbg3TJNEW/310x430/310eb65c.webp?s=00f59406b2a61f9a29bd2bd8abcf3fa1508070fa",
+    "addedAt": "2026-10-28T08:17:37.858Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "lezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nBuone·Sony·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVends ps4 (avec GTA 5 une manette un câble HDMI et le câble d'alimentation)datant de quelques années maintenant mais fonctionne très bien\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10566464181",
+    "category": "Console",
+    "title": "PS4 Fat konsole only | zurückgesetzt | Ohne controller + Kabel |",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10566464181-ps4-fat-konsole-only-zuruckgesetzt-ohne-controller-kabel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d9c_GwrVuVoKLQCvknXafAKeU2oC/310x430/d8296350.webp?s=1f18cf8ba7da4b5900457d3dc5c77d35f989b2aa",
+    "addedAt": "2026-10-28T08:20:46.186Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.35€, sotto soglia"
   }
 ]
