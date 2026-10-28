@@ -24948,5 +24948,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10564734629",
+    "category": "Console",
+    "title": "PlayStation 4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10564734629-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02235_KNyMXqNTTbZCwQAC73bBmLzW/310x430/4068cf88.webp?s=9077632c28887efd1cf2d7d91399c0a602b24e71",
+    "addedAt": "2026-10-28T00:20:05.722Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 slim\nBuone·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nElle est comme neuve rien à dire , bruit et bug rien du tout\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
