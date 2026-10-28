@@ -24625,5 +24625,51 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~11.45€, sotto soglia"
+  },
+  {
+    "id": "10577380917",
+    "category": "Console",
+    "title": "Call of duty ps4 ps5",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10577380917-call-of-duty-ps4-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_001d7_bAJyd8wz3sChArFR7F4RQuRn/310x430/cbd5ca2c.webp?s=fb338dfcc518a1e12c65d9eb0795fc693294af7e",
+    "addedAt": "2026-10-28T22:35:52.630Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.45€, sotto soglia"
+  },
+  {
+    "id": "10577416062",
+    "category": "Console",
+    "title": "PlayStation 4 + Controller",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10577416062-playstation-4-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0141e_ao98ZXWkPjr84Zd6gL6RZafb/310x430/d5b85219.webp?s=2cd759775d0b193ab3558f964e17ea9878aa2de0",
+    "addedAt": "2026-10-28T22:40:03.144Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 + Controller\nBuone·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPreis ist verhandelbar !!!\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 37.3
+  },
+  {
+    "id": "10577450460",
+    "category": "Console",
+    "title": "Écran switch fonctionnel",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10577450460-ecran-switch-fonctionnel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_018fb_A9vniKxaX5V3AoWevMzjZtUF/310x430/bbae5d7d.webp?s=33628fe4d8a39d2180519ae3bebbd1a57411e1c1",
+    "addedAt": "2026-10-28T22:45:17.921Z",
+    "processed": false,
+    "triaged": false
   }
 ]
