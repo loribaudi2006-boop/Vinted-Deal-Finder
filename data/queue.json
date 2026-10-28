@@ -25057,5 +25057,31 @@
     "addedAt": "2026-10-28T05:52:09.515Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10565867900",
+    "category": "Console",
+    "title": "Switch 2",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10565867900-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_007cd_pneQ1rsj9BHJPs5rHQCefnqB/310x430/5e5be05c.webp?s=cdfdfad4d02aedb8b0b0e8c36043a8aac1eb1e9f",
+    "addedAt": "2026-10-28T06:07:20.919Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10565873087",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10565873087-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00542_iGKoLSAsGbKZzmM8iGSt3jP6/310x430/e1200080.webp?s=d983a90f6438da9364e7c3f8624e6ec54180ffbb",
+    "addedAt": "2026-10-28T06:09:25.323Z",
+    "processed": false,
+    "triaged": false
   }
 ]
