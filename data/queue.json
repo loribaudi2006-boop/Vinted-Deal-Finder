@@ -1,20 +1,5 @@
 [
   {
-    "id": "10516761147",
-    "category": "Console",
-    "title": "Nintendo Switch Zubehör",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10516761147-nintendo-switch-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b98_yHWF8dh22fshKCdsnYxbjGMJ/310x430/b7aea5bc.webp?s=e686b9e35d7c179e2ba3160db28d4eabb001d2fb",
-    "addedAt": "2026-10-24T20:04:01.575Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.05€, sotto soglia"
-  },
-  {
     "id": "10516903132",
     "category": "Console",
     "title": "Switch",
@@ -24436,5 +24421,76 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 338.25
+  },
+  {
+    "id": "10575772480",
+    "category": "Console",
+    "title": "XBox One Digital TV Tuner TDT HD",
+    "price": 19.99,
+    "totalPrice": 21.69,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10575772480-xbox-one-digital-tv-tuner-tdt-hd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00fe6_uRqvwXynXQFD1FtEfNpTS9k4/310x430/80908d42.webp?s=a9035c1c2d294f90b19d42c9d97dac74f985e1a0",
+    "addedAt": "2026-10-28T20:04:46.989Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10575831067",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10575831067-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_013af_CojPxdzDtBeAfsNFX4fT9SMs/310x430/74609e20.webp?s=57566c981c66bd75c88e8c2f4a1b472ee76b623f",
+    "addedAt": "2026-10-28T20:08:56.146Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10575864224",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10575864224-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015e5_nxjJ6wpdWmXCv6DSYREXQdg9/310x430/64b2e4c6.webp?s=c7eaf11a2460eebebddc3cb25af45abd31f628f6",
+    "addedAt": "2026-10-28T20:12:04.627Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
+  },
+  {
+    "id": "10575876830",
+    "category": "Console",
+    "title": "Nintendo switch lite noir",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10575876830-nintendo-switch-lite-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_000e4_VNYJSWo5biZgtP18eBFPVdew/310x430/7578fca6.webp?s=38e7dc8cdb572747c69aa2890a9620b959e639e2",
+    "addedAt": "2026-10-28T20:14:09.395Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10575891757",
+    "category": "Console",
+    "title": "Ps4 met kabels en controller",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10575891757-ps4-met-kabels-en-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00132_MkzmhhBfde9TzKeoEFTXKmpg/310x430/743d67dc.webp?s=67fa2827a8224026acc7e912833af83aeff80656",
+    "addedAt": "2026-10-28T20:14:09.395Z",
+    "processed": false,
+    "triaged": false
   }
 ]
