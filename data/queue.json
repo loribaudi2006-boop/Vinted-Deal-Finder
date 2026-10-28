@@ -24965,8 +24965,11 @@
     "url": "https://www.vinted.it/items/10565274507-ps4-noir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_019b0_h7N1YEAftu3amZk2XWXsUTxK/310x430/5f345024.webp?s=7893eabe6fded157a41986a6642c19907871c789",
     "addedAt": "2026-10-28T02:10:58.843Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565289569",
