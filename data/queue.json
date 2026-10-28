@@ -1,20 +1,5 @@
 [
   {
-    "id": "10518114019",
-    "category": "Console",
-    "title": "xbox one noire avec manette et accessoires",
-    "price": 49.99,
-    "totalPrice": 53.19,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10518114019-xbox-one-noire-avec-manette-et-accessoires?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00119_TbycXU64mAWhQBuJQ1st35E4/310x430/ff531711.webp?s=eea65abf6b7d0daf474aed974e9b05c65721dd42",
-    "addedAt": "2026-10-24T22:34:19.509Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10518214823",
     "category": "Console",
     "title": "Xbox one S",
@@ -24603,7 +24588,42 @@
     "url": "https://www.vinted.it/items/10577301670-console-sony-playstation-4-ps4-slim-nera-con-cavi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0180e_6Pjha1tPJAVzBYkHEig969cZ/310x430/39ef39e2.webp?s=dd93bcb475ed8a0c240acf08734ea458f6bbf0cf",
     "addedAt": "2026-10-28T22:25:29.844Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "| Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nConsole Sony PlayStation 4 (PS4) Slim Nera con Cavi\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nCavi inclusi: Cavo di alimentazione originale (presa bipolare italiana) e cavo HDMI ad alta velocità.\n• Marca: Sony\n• Modello: PlayStation 4 Slim\n• Colore: Nero\nSpazio:500Gb\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45
+  },
+  {
+    "id": "10577340011",
+    "category": "Console",
+    "title": "Call of Duty: Modern Warfare 4 (PS5) - Brandneu / Wie neu",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10577340011-call-of-duty-modern-warfare-4-ps5-brandneu-wie-neu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01238_pREDjTbzngbfLRr4isHnuRyV/310x430/296c0643.webp?s=52ca3359179496e2d5a94b429f3dd69e6b6f428e",
+    "addedAt": "2026-10-28T22:30:41.109Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
+  },
+  {
+    "id": "10577358804",
+    "category": "Console",
+    "title": "Switch Dock",
+    "price": 17,
+    "totalPrice": 18.55,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10577358804-switch-dock?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02708_8Tw4xTn9tXsR69H8RKdXDqH7/310x430/a1958469.webp?s=fa305b4710220200c00d0726f5be7ae07218e712",
+    "addedAt": "2026-10-28T22:32:45.868Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.45€, sotto soglia"
   }
 ]
