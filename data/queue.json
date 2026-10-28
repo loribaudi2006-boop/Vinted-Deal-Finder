@@ -25050,5 +25050,44 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10565732619",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10565732619-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008a1_nXgEbCne7jXPvgJ6JvFvNUGk/310x430/786e1d23.webp?s=05193e62879232656b548a809f6a6cf6b8acae12",
+    "addedAt": "2026-10-28T04:59:25.698Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10565736564",
+    "category": "Console",
+    "title": "Console Nintendo Switch Lite rose en très bon état",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10565736564-console-nintendo-switch-lite-rose-en-tres-bon-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01149_7zGmR17MsqjZMVLAv3X72B5e/310x430/b58bbf13.webp?s=7dccdf55634df709b580855b47b2cc0f8502452a",
+    "addedAt": "2026-10-28T05:01:29.455Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10565741866",
+    "category": "Console",
+    "title": "Console Nintendo Switch Lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10565741866-console-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_025e7_9PbMnXNyLaPLMM9kaSGM7RVR/310x430/7cc6d4d4.webp?s=11b3f39157c8a8e0f81d43d79b6f3ffff001a01d",
+    "addedAt": "2026-10-28T05:04:35.473Z",
+    "processed": false,
+    "triaged": false
   }
 ]
