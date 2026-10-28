@@ -1,21 +1,5 @@
 [
   {
-    "id": "10505173096",
-    "category": "Console",
-    "title": "Nintendo Switch (Regardez Descriptif)",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10505173096-nintendo-switch-regardez-descriptif?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02377_EXhRvxhtrdpwwfEqor8TB3Gh/310x430/7d9a299b.webp?s=5dac877c7338b3aa55a34ea8256843d520dfb7ee",
-    "addedAt": "2026-10-24T06:16:17.341Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10505235553",
     "category": "Console",
     "title": "Console Nintendo Switch 1 bon état ! (Vendue seule)",
@@ -25029,8 +25013,11 @@
     "url": "https://www.vinted.it/items/10565765812-2x-cables-rf-switch-officiels-nintendo-nes-nesp-003?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_001be_Uogc6dJTMJKDbMFW1nWBd76w/310x430/06e9d42a.webp?s=8fd28b58bd9d3ef15300517bc935667b5e558c64",
     "addedAt": "2026-10-28T05:45:24.903Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565833762",
@@ -25042,8 +25029,11 @@
     "url": "https://www.vinted.it/items/10565833762-nintendo-switch-1-dock?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b69_bv5Xkerz7Hhna5H9WWQFGukD/310x430/f774f906.webp?s=8374cd201e091bb2a68379a5e0b7e1a6dd16a974",
     "addedAt": "2026-10-28T05:52:09.515Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565831275",
@@ -25055,8 +25045,11 @@
     "url": "https://www.vinted.it/items/10565831275-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_001a1_pVSbyt5aeZbkESuR24QPBdCB/310x430/f2506174.webp?s=612693254cd7b26eb078b6b3f900db92dd58b188",
     "addedAt": "2026-10-28T05:52:09.515Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565867900",
@@ -25081,6 +25074,19 @@
     "url": "https://www.vinted.it/items/10565873087-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00542_iGKoLSAsGbKZzmM8iGSt3jP6/310x430/e1200080.webp?s=d983a90f6438da9364e7c3f8624e6ec54180ffbb",
     "addedAt": "2026-10-28T06:09:25.323Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10565908771",
+    "category": "Console",
+    "title": "Playstation 5 pro 2tb ovp",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10565908771-playstation-5-pro-2tb-ovp?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01055_oCZ4rmQR4cFW3mm952ysQXXa/310x430/f0c4d2b9.webp?s=8efd779506065547b3d7f1f314590ebf153e9d94",
+    "addedAt": "2026-10-28T06:22:17.005Z",
     "processed": false,
     "triaged": false
   }
