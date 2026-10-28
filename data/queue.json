@@ -24981,8 +24981,11 @@
     "url": "https://www.vinted.it/items/10565289569-ps4-fat-500-g-pad-di-2-metri-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_017df_daUXz5Z7AZtGa5Ag3aWV8nxK/310x430/6b2aefd4.webp?s=00d269ece74b7ea1ee277359f2c3fd67be72981b",
     "addedAt": "2026-10-28T02:14:04.801Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565303523",
@@ -24994,7 +24997,10 @@
     "url": "https://www.vinted.it/items/10565303523-ps4-fat-500g-pad-ps4-non-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_007d8_c6hBtg8aYcxY2kPxA8zEWZvW/310x430/57f9a00e.webp?s=f00e88aeb76fa9d58e023476d15386001393f7e7",
     "addedAt": "2026-10-28T02:18:12.449Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
