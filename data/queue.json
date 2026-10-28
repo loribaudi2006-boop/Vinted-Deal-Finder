@@ -24355,5 +24355,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10575299957",
+    "category": "Console",
+    "title": "Nintendo switch lite *scermo rotto*",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "parola chiave: \"rotto\" + prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10575299957-nintendo-switch-lite-scermo-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024c8_aC8MnoPrfntoihKnce5Njzga/310x430/f85f6cf7.webp?s=e67a97d6de69bef90d632c89edab7a0d949a422d",
+    "addedAt": "2026-10-28T19:29:16.854Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
+  },
+  {
+    "id": "10575294645",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10575294645-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ea7_mXZa8gm9F54tc83nGLdqiQXP/310x430/9806ccd6.webp?s=625a04f396fa20ca61d4d0664bf4a185c88827e6",
+    "addedAt": "2026-10-28T19:29:16.854Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n10\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch en très bon état, il n’y a pas de jeu dessus ni de chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il caricabatterie e non ci sono giochi inclusi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
