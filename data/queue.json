@@ -1,23 +1,5 @@
 [
   {
-    "id": "10504052415",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10504052415-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01c50_XUu5JBaVoSRCnQPv36yHTauX/310x430/179783a1.webp?s=279b89b50b7599c41cf0073b0e589640512dc636",
-    "addedAt": "2026-10-24T00:04:22.379Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\n2\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo Switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10504317122",
     "category": "Console",
     "title": "PlayStation 4",
@@ -24951,5 +24933,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 348.25
+  },
+  {
+    "id": "10564701233",
+    "category": "Console",
+    "title": "Refroidisseur ps5",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10564701233-refroidisseur-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a69_9RQoBpAYpC4RMJyGidQ2ZpX4/310x430/46034c52.webp?s=90664772a282f96efde7b8f798294631a3bc5f29",
+    "addedAt": "2026-10-28T00:13:53.950Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
   }
 ]
