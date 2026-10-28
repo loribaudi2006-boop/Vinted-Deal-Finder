@@ -24949,7 +24949,10 @@
     "url": "https://www.vinted.it/items/10564977059-livre-guide-jeu-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00397_6yQFjWuV1AYXNxcQ4uDgRs23/310x430/915896ee.webp?s=f3885d18e747b6c152c593b8123b936f815f96ef",
     "addedAt": "2026-10-28T01:06:41.444Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
