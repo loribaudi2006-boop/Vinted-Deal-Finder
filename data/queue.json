@@ -24984,5 +24984,23 @@
     "geminiFault": "Écran bleu quand je allume (Schermo blu all'accensione, errore tipico di brick/problema hardware)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 62
+  },
+  {
+    "id": "10564885628",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10564885628-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0030d_32B7EcwYNcSBTx7Sq4WYM1Pg/310x430/0a62f3fe.webp?s=2d117fb4c0d87b8f5ff670f6ad51008072247ee4",
+    "addedAt": "2026-10-28T00:48:00.459Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one\nDiscrete·Xbox·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nLa xbox one marche mais il faut la manette et acheter un socle\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "La xbox one marche mais il faut la manette et acheter un socle",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.8
   }
 ]
