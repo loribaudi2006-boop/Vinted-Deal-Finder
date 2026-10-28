@@ -24520,7 +24520,9 @@
     "url": "https://www.vinted.it/items/10569191181-boite-switch-oled-console-edition-splatoon-3?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01dff_ihfA4QvKh5q8Scish4uGpLc1/310x430/ec68be63.webp?s=befac79b7c87ae5dd69dc4825a365edb98cc4822",
     "addedAt": "2026-10-28T12:24:27.350Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-21.65€, sotto soglia"
   }
 ]
