@@ -24388,5 +24388,41 @@
     "geminiFault": "Manca il caricabatterie e non ci sono giochi inclusi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10575449423",
+    "category": "Console",
+    "title": "Nintendo Switch HS",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10575449423-nintendo-switch-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0242c_PoZwWBnWCcxnzADyHbUJkwiZ/310x430/3dbfa4a2.webp?s=de750b246b76173f1b470583b7fd9f44744537f9",
+    "addedAt": "2026-10-28T19:40:43.017Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch HS\nDiscrete·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNintendo Switch HS.\nNe s'allume pas. Je ne sais pas quelle est la panne.\n\nVendu pour HS --> pas de retour possible.\nPour connaisseurs.\nEnvoie rapide et soigné.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ne s'allume pas. Je ne sais pas quelle est la panne.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.55
+  },
+  {
+    "id": "10575462811",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10575462811-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ea7_mXZa8gm9F54tc83nGLdqiQXP/310x430/9806ccd6.webp?s=625a04f396fa20ca61d4d0664bf4a185c88827e6",
+    "addedAt": "2026-10-28T19:41:45.286Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n7\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch en très bon état, il n’y a pas de jeu dessus ni de chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza giochi né caricatore",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
