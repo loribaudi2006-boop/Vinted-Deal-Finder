@@ -24997,8 +24997,11 @@
     "url": "https://www.vinted.it/items/10565467282-console-psp-street-nera-condizioni-estetiche-eccellenti-non-testata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_002d9_doQUVRfWHFckCaKcCjEsmPbU/310x430/c503d2d4.webp?s=2fe3224fb2edca831640b75f799f192a90856d42",
     "addedAt": "2026-10-28T03:59:29.489Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565470281",
@@ -25010,8 +25013,11 @@
     "url": "https://www.vinted.it/items/10565470281-console-ps2-fat-nera-per-ricambi-da-testare?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b1f_5jTqyWQgdnaJydV52CSc1GyA/310x430/35a6db46.webp?s=e2fd201f1c331ecad4dbe28b3c2dc57a301da497",
     "addedAt": "2026-10-28T04:02:35.596Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10565468606",
