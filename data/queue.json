@@ -24640,5 +24640,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~17.05€, sotto soglia"
+  },
+  {
+    "id": "10577657719",
+    "category": "Console",
+    "title": "Pack regalo Natale switch",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10577657719-pack-regalo-natale-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023b5_vDYXpTpSbjpFA2VWESCvgEF7/310x430/4b7a7d74.webp?s=41e8e8e4617e150e71278b051762b991cbbb1f39",
+    "addedAt": "2026-10-28T23:16:33.946Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nPack regalo Natale switch\nOttime·Nintendo·Caricato un minuto fa\n\n59,99 €\n\n63,69 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nTutto in perfette condizioni, articoli come nuovi. Tutto perfettamente funzionante\n\nSpedizione rapida e accurata\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80
   }
 ]
