@@ -24640,5 +24640,36 @@
     "geminiFault": "Solo schermo senza joy-con, piccoli graffi sullo schermo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 47.8
+  },
+  {
+    "id": "10577539717",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10577539717-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008ea_FXAxdnxcYRfUNdkeyqjwNdU8/310x430/7e7db560.webp?s=e6e58c7a4119d9009fe7eae014244bd90779b759",
+    "addedAt": "2026-10-28T22:57:48.483Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVend Nintendo switch un joystick manquant\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "un joystick manquant",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 107.8
+  },
+  {
+    "id": "10577581222",
+    "category": "Console",
+    "title": "xbox one weinig gebruikt",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10577581222-xbox-one-weinig-gebruikt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d7d_inLjD1hqJVhfWqrkhsZY6CjF/310x430/1b165616.webp?s=9b3e4bb71975b58931ad84823a7496ed44054f18",
+    "addedAt": "2026-10-28T23:05:04.976Z",
+    "processed": false,
+    "triaged": false
   }
 ]
