@@ -24668,7 +24668,10 @@
     "url": "https://www.vinted.it/items/10578828099-playstation-4-slim-500-gb-spiele?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0164e_FkiJLNkJXucSyiNajoyvhHkx/310x430/a4825656.webp?s=f7b7460f770af7d7971b2797c9c496cdb687a8b9",
     "addedAt": "2026-10-29T03:56:50.271Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
