@@ -24673,5 +24673,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10578972905",
+    "category": "Console",
+    "title": "Switch lite noire",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10578972905-switch-lite-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00897_5gbPq6dqHajggHcPR28ftzXe/310x430/ccdeb6d7.webp?s=4ea071b75c2c376f174e349d1d21e8d6170c05a8",
+    "addedAt": "2026-10-29T05:16:14.223Z",
+    "processed": false,
+    "triaged": false
   }
 ]
