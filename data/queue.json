@@ -24636,8 +24636,11 @@
     "url": "https://www.vinted.it/items/10579036140-playstation-5-slim-1tb-2deg-controller-gioco-come-nuova-valuto-offerte?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00336_9CYzbtbharET23UhbC6EkqmY/310x430/f488fa6c.webp?s=29b0528f9e26fce826a372d44d861e7fcf7940bb",
     "addedAt": "2026-10-29T05:49:13.481Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10579077996",
