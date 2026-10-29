@@ -1,20 +1,5 @@
 [
   {
-    "id": "10536955221",
-    "category": "Console",
-    "title": "Console retro 8-bit \"Game Player\" (tipo PS1) - Non testata",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10536955221-console-retro-8-bit-game-player-tipo-ps1-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0263f_B27nw2gQiuJyL1ivEh55u56F/310x430/08a9e22c.webp?s=eed072ae8647c6323f07de8682d53481c6405bb4",
-    "addedAt": "2026-10-25T23:46:36.854Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.05€, sotto soglia"
-  },
-  {
     "id": "10537290761",
     "category": "Console",
     "title": "Console switch",
@@ -21559,5 +21544,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~4€, sotto soglia"
+  },
+  {
+    "id": "10590249860",
+    "category": "Console",
+    "title": "Nintendo Switch mit grauen Joy-Con und türkiser Transporttasche",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10590249860-nintendo-switch-mit-grauen-joy-con-und-turkiser-transporttasche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01618_DLcCgfusFP7F73mRrMc9RKGy/310x430/87ec2b8d.webp?s=efc88c00cd79469a3ae4e95161911b1f3d300e94",
+    "addedAt": "2026-10-29T23:39:18.543Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch mit grauen Joy-Con und türkiser Transporttasche\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVerkaufe meine Nintendo Switch mit zwei grauen Joy-Con und einer türkisen Transporttasche mit Fächern für Spielkarten.\n\nGebrauchter Zustand mit sichtbaren Kratzern und Gebrauchsspuren an Gehäuse und Bildschirmoberfläche, siehe Fotos. Auch die Tasche weist Gebrauchsspuren auf.\n\nDie abgebildeten Animal-Crossing-Karten sind keine Switch-Spiele.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "visibili graffi e segni d'uso su scocca e schermo, custodia usurata",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10590286299",
+    "category": "Console",
+    "title": "nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10590286299-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00dae_pQQg3CTjvu1SMNPo3agzzzJP/310x430/68993296.webp?s=6a88f01234aa09d5c7ce398a3c5c65386965684f",
+    "addedAt": "2026-10-29T23:45:31.892Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nmanque le pied derrière le console et la mousse sur le joystick gauche\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "manque le pied derrière le console et la mousse sur le joystick gauche",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 71.05
   }
 ]
