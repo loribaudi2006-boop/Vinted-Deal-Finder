@@ -1,35 +1,5 @@
 [
   {
-    "id": "10526502587",
-    "category": "Console",
-    "title": "Ps5 disque",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10526502587-ps5-disque?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00e04_EvJarohteEZvzyz4VwNqZaxk/310x430/97f225d5.webp?s=93524a71e04da4399df7931880100e307d6fbc7b",
-    "addedAt": "2026-10-25T13:43:26.166Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10526516337",
-    "category": "Console",
-    "title": "Nintendo switch consollers met stuurtjes",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10526516337-nintendo-switch-consollers-met-stuurtjes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_007b7_iQnH9p62JWgMAMFiWm7Xd8fM/310x430/93493781.webp?s=fd54f654d21d7227a9e97ec28e6e170c8bee9c0b",
-    "addedAt": "2026-10-25T13:44:28.935Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~12€, sotto soglia"
-  },
-  {
     "id": "10526653456",
     "category": "Console",
     "title": "Nintendo Switch lite",
@@ -23172,7 +23142,45 @@
     "url": "https://www.vinted.it/items/10583146245-nintendo-switch-smash-bros-edition?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0170b_CDxKEnCaWJGGLGwbMsJ3A7VC/310x430/2d8f8b48.webp?s=d82e14358ce5bff4de9e135ec4ad08d36d01701a",
     "addedAt": "2026-10-29T13:38:27.481Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\n+ 10\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Smash Bros Edition\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nHiermit verkaufe ich meine Nintendo Switch.\n\nSie hat bis zuletzt einwandfrei funktioniert und wird mit dem originalen Paar Joycons im Smash Bros Design ausgeliefert.\nAußerdem, dabei ist das Ladekabel und eine Tasche für unterwegs.\n\nDas originale HDMI Kabel ist nicht mit dabei und die originale Box auch nicht.\nAlles, was sie auf den Bildern dieser Anzeige an Nintendozubehör sehen, wird auch mit ausgeliefert.\n\nZusätzlich verkaufe ich weitere Spiele und andere Controller. Die könnt ihr auf meinem Profil sehen und wenn ihr möchtet auf Pakete erwerben.\n\nAuf der Konsole an sich sind leichte Gebrauchsspuren zu finden. Dem Alter entsprechend.\n\nBei Fragen oder Unklarheiten könnt ihr euch gerne melden.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca cavo HDMI originale e scatola originale. Leggeri segni di usura.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10583262922",
+    "category": "Console",
+    "title": "Xbox one fat 500 gb",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10583262922-xbox-one-fat-500-gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00277_u3QywcH1ruj67Kf2KYJ7fuhw/310x430/70e7620f.webp?s=6ef7d61330d80af0d19acdd2d4f93065fc82c74a",
+    "addedAt": "2026-10-29T13:46:48.928Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one fat 500 gb\nOttime·Xbox·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo per inutilizzo e funzionante il controller ha un problema che funziona solamente con il filo, NON ACQUISTARE AD 1 EURO FATE OFFERTA\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il controller funziona solamente con il filo",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 53
+  },
+  {
+    "id": "10583281689",
+    "category": "Console",
+    "title": "Ps5 cadeau pour mon frère",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10583281689-ps5-cadeau-pour-mon-frere?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00397_iwyG6EjfZUUt1rdxFPETVDtW/310x430/e954a625.webp?s=cd8d93afc7dcf17c0ccf0ae26d86b14da69cc687",
+    "addedAt": "2026-10-29T13:47:51.114Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
