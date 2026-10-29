@@ -24620,8 +24620,11 @@
     "url": "https://www.vinted.it/items/10578451638-ps4-alles-geht?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01a60_a79yf7yn6s46u9zK9NHHTG7d/310x430/dc49fbbf.webp?s=963a1f0a4e7b1b44a29a9439976aed02fe8bb37a",
     "addedAt": "2026-10-29T01:56:06.671Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10578472660",
@@ -24633,6 +24636,22 @@
     "url": "https://www.vinted.it/items/10578472660-switch-classique-avec-jeux-mario-party?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00bab_hkSgbZbnqhxNtppUM4615Apk/310x430/5a06db4f.webp?s=0ad53bcfc1f060993bd915fe4aae6edd52f06b89",
     "addedAt": "2026-10-29T02:01:16.347Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10578589586",
+    "category": "Console",
+    "title": "Switch Bleu avec jeux Mario wonder",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10578589586-switch-bleu-avec-jeux-mario-wonder?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00b78_ZhDXchko19TzpsTNpLyxQbCe/310x430/1255b192.webp?s=231109353ad568423141f62af616dedf0ebe585d",
+    "addedAt": "2026-10-29T02:31:09.842Z",
     "processed": false,
     "triaged": false
   }
