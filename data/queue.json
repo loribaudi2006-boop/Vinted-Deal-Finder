@@ -24636,6 +24636,35 @@
     "url": "https://www.vinted.it/items/10578325470-ps4-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00bcf_bHLz24YoZLoP3hDb3UrV85dr/310x430/97f05b5c.webp?s=0e699669ead1a397fc868a65d96400c79bf8772c",
     "addedAt": "2026-10-29T01:26:09.638Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10578451638",
+    "category": "Console",
+    "title": "Ps4 alles geht",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10578451638-ps4-alles-geht?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a60_a79yf7yn6s46u9zK9NHHTG7d/310x430/dc49fbbf.webp?s=963a1f0a4e7b1b44a29a9439976aed02fe8bb37a",
+    "addedAt": "2026-10-29T01:56:06.671Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10578472660",
+    "category": "Console",
+    "title": "Switch classique avec jeux Mario party",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10578472660-switch-classique-avec-jeux-mario-party?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00bab_hkSgbZbnqhxNtppUM4615Apk/310x430/5a06db4f.webp?s=0ad53bcfc1f060993bd915fe4aae6edd52f06b89",
+    "addedAt": "2026-10-29T02:01:16.347Z",
     "processed": false,
     "triaged": false
   }
