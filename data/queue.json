@@ -1,23 +1,5 @@
 [
   {
-    "id": "10531929443",
-    "category": "Console",
-    "title": "Ps4 slim 1000 go",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10531929443-ps4-slim-1000-go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01dc7_cXBoZEzi2EHvBuXCwBc8Vib1/310x430/6f0e19cf.webp?s=523a4bbaeca59b95c57f21ac29803c9256d19ca0",
-    "addedAt": "2026-10-25T17:38:26.358Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs4 slim 1000 go\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vends ma PS4, slim 1000 giga fonctionne parfaitement, vendu avec trois manettes, câble HDMI, chargeur de manette, trois jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10532068004",
     "category": "Console",
     "title": "Mini frigo Xbox Series X nero e verde – UKONIC",
@@ -22183,5 +22165,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10586407301",
+    "category": "Console",
+    "title": "PS4 + 3 manettes",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10586407301-ps4-3-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ea8_Yn2BM5JB8PjPVFzvLFvYBiwK/310x430/703cbc88.webp?s=3fc2486c97eced560490dde138271055dda3be1b",
+    "addedAt": "2026-10-29T17:31:04.859Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10586505369",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10586505369-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022ee_F44G2yxeA4UVSdWvuUtExTPY/310x430/d7dd4f35.webp?s=a61d432d50960fa4e9919cf92ded0e50f465a42b",
+    "addedAt": "2026-10-29T17:38:21.867Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
