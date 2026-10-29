@@ -24652,7 +24652,10 @@
     "url": "https://www.vinted.it/items/10578589586-switch-bleu-avec-jeux-mario-wonder?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00b78_ZhDXchko19TzpsTNpLyxQbCe/310x430/1255b192.webp?s=231109353ad568423141f62af616dedf0ebe585d",
     "addedAt": "2026-10-29T02:31:09.842Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
