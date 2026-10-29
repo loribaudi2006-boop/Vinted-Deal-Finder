@@ -1,20 +1,5 @@
 [
   {
-    "id": "10536883507",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10536883507-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0030e_YLPc2RAh8SzU1etCfzZtFAmV/310x430/0328b6e3.webp?s=68947d7555a21fe079a442e7c912bcc1d371bbd1",
-    "addedAt": "2026-10-25T23:34:08.652Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.3€, sotto soglia"
-  },
-  {
     "id": "10536955221",
     "category": "Console",
     "title": "Console retro 8-bit \"Game Player\" (tipo PS1) - Non testata",
@@ -21541,5 +21526,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10590225697",
+    "category": "Console",
+    "title": "PlayStation 4 (PS4)",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10590225697-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00fbb_6HesGUJDsiT4quy8yr69LPwa/310x430/08a29203.webp?s=27f4966fd359d6c7797d55c6c794c026ea87bf61",
+    "addedAt": "2026-10-29T23:34:07.702Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4 (PS4)\nOttime·Sony·Caricato proprio adesso\n\n48,00 €\n\n51,10 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlease see the photos for the condition of the game.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 38.9
+  },
+  {
+    "id": "10590223248",
+    "category": "Console",
+    "title": "lot de 4 dragonnes nintendo switch",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10590223248-lot-de-4-dragonnes-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01c4a_SbZ9SqkQunhKsUNshNnh16LP/310x430/e44a176c.webp?s=c0c449d499d575b1e444b7bee3317ed74d1bb4e9",
+    "addedAt": "2026-10-29T23:34:07.703Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4€, sotto soglia"
   }
 ]
