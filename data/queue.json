@@ -24657,5 +24657,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10578735766",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10578735766-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0214d_bu3y85Bzu7BYbcihJQ76FkoD/310x430/e21f4362.webp?s=f0b0b66f9d70554074c88dfb5d66a9add025d9e5",
+    "addedAt": "2026-10-29T03:18:35.513Z",
+    "processed": false,
+    "triaged": false
   }
 ]
