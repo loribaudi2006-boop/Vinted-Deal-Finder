@@ -24607,5 +24607,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10578193217",
+    "category": "Console",
+    "title": "PS4 pro/slim",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10578193217-ps4-proslim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0147b_HAwkqQLnXtLjK8Fak2hAhsxX/310x430/adb63299.webp?s=bb725034b947b4bdc19384c3c4c1ed0bc9008402",
+    "addedAt": "2026-10-29T00:58:15.581Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 pro/slim\nOttime·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nscrivetemi per informazioni ‼️\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 138
   }
 ]
