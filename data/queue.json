@@ -23140,5 +23140,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6.55€, sotto soglia"
+  },
+  {
+    "id": "10583875265",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10583875265-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00345_P3zodcf1sGHpBwqj3JEg2out/310x430/8c033d25.webp?s=c51ac3f0e637e4b14644842fd2a111bb44ac9cf1",
+    "addedAt": "2026-10-29T14:31:27.161Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.05€, sotto soglia"
+  },
+  {
+    "id": "10583930779",
+    "category": "Console",
+    "title": "Cover / plates per ps5 digital fat originali",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10583930779-cover-plates-per-ps5-digital-fat-originali?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00c5e_rMME2jHM3H7ztjujdexZnqQM/310x430/f26a68e8.webp?s=517937ed7af7e29f4f9a332cd732ff5d37b449b1",
+    "addedAt": "2026-10-29T14:37:40.983Z",
+    "processed": false,
+    "triaged": false
   }
 ]
