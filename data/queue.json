@@ -1,21 +1,5 @@
 [
   {
-    "id": "10519646815",
-    "category": "Console",
-    "title": "PlayStation 4 Slim",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10519646815-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00dfe_dob6qzs27rY1zXtLoTCCcRap/310x430/b316a16f.webp?s=ce72a6a21fdada5dec0508312d36b21505d6dd1c",
-    "addedAt": "2026-10-25T05:54:01.342Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10519650909",
     "category": "Console",
     "title": "Je recherche un ps5 état neuf stp",
@@ -24684,6 +24668,22 @@
     "url": "https://www.vinted.it/items/10578972905-switch-lite-noire?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00897_5gbPq6dqHajggHcPR28ftzXe/310x430/ccdeb6d7.webp?s=4ea071b75c2c376f174e349d1d21e8d6170c05a8",
     "addedAt": "2026-10-29T05:16:14.223Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10579036140",
+    "category": "Console",
+    "title": "PlayStation 5 Slim 1TB + 2° Controller + Gioco | Come Nuova (Valuto Offerte)",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10579036140-playstation-5-slim-1tb-2deg-controller-gioco-come-nuova-valuto-offerte?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00336_9CYzbtbharET23UhbC6EkqmY/310x430/f488fa6c.webp?s=29b0528f9e26fce826a372d44d861e7fcf7940bb",
+    "addedAt": "2026-10-29T05:49:13.481Z",
     "processed": false,
     "triaged": false
   }
