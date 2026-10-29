@@ -23166,7 +23166,9 @@
     "url": "https://www.vinted.it/items/10583930779-cover-plates-per-ps5-digital-fat-originali?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00c5e_rMME2jHM3H7ztjujdexZnqQM/310x430/f26a68e8.webp?s=517937ed7af7e29f4f9a332cd732ff5d37b449b1",
     "addedAt": "2026-10-29T14:37:40.983Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-28.2€, sotto soglia"
   }
 ]
