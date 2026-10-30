@@ -20522,5 +20522,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10601746819",
+    "category": "Console",
+    "title": "xbox one",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10601746819-xbox-one-controllercall-of-duty-black-ops-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0028f_XhkKQozJhAnPPEpLJ7UngL3v/310x430/5effe3d6.webp?s=74623db1241a61aafd47f10e1a9f2be5da50f12e",
+    "addedAt": "2026-10-30T22:54:09.175Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
