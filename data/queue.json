@@ -21469,7 +21469,12 @@
     "url": "https://www.vinted.it/items/10591914527-ps4-slim-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_001a4_jhrfqnAnC6ptELdufkjHthRp/310x430/c411879c.webp?s=be23643decec4eb274152265f8b9a318ebc4ab3a",
     "addedAt": "2026-10-30T08:07:44.047Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 slim console\nBuone·Sony·Caricato 3 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n3 min fa\nIn goede staat ps4 slim console met net snoer en hdmi kabel\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
