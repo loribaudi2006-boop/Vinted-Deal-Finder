@@ -1,35 +1,5 @@
 [
   {
-    "id": "10538362640",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10538362640-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0180a_b7pgPmuvcBQaypPJgSF2F9vf/310x430/7d0906e3.webp?s=e294cc70baecc7882af8c377485d21e5c920f53b",
-    "addedAt": "2026-10-26T06:46:25.494Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10538368591",
-    "category": "Console",
-    "title": "PlayStation 5 slim",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10538368591-playstation-5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01990_KkUfkHdA6i3WG9SGtnJj4aBt/310x430/bda842fe.webp?s=e6e2c5d5cd4efe3ef5e6be1e0769dcc1e3cc38e5",
-    "addedAt": "2026-10-26T06:48:30.572Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10538392866",
     "category": "Console",
     "title": "PlayStation 4",
