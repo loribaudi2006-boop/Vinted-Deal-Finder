@@ -1,35 +1,5 @@
 [
   {
-    "id": "10551074785",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 65.5,
-    "totalPrice": 69.48,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10551074785-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a48_Cvr1eJQ1vVjHFWTpjsMWwDsn/310x430/a7922a27.webp?s=aad1d4bf5c29b26c10b650d87c92fca8c6ff78ac",
-    "addedAt": "2026-10-26T23:50:21.270Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10551091670",
-    "category": "Console",
-    "title": "Sony PSP nera – Da verificare / Per ricambi",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/10551091670-sony-psp-nera-da-verificare-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0127a_uvMtTdckcnVb9Y221AsU7eQz/310x430/a7f65a0f.webp?s=42aed91fbd8d602ca84c8a38a4f8d03d82d181b0",
-    "addedAt": "2026-10-26T23:53:30.991Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~23.05€, sotto soglia"
-  },
-  {
     "id": "10551128696",
     "category": "Console",
     "title": "playstation 5",
@@ -20621,5 +20591,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10602028647",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10602028647-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ef4_oshpc8vr3BGFV1TVMsEwE4BT/310x430/c6535006.webp?s=997b33a980bfa607e55fa7fbcb44364e64151fc6",
+    "addedAt": "2026-10-30T23:48:15.875Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "uto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nNintendo switch\nTrès bon état quasiment neuf.\nJ’ai encore sa boîte d’origine , ( pour plus de photos n’hésitez pas)\nDes accessoires en plus c’est cadeaux ☺️\nNégociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 138
   }
 ]
