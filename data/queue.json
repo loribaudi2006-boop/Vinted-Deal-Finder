@@ -21649,5 +21649,18 @@
     "geminiFault": "manca il socle a l'arrière, joystick drift, manca la boite e il chargeur",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10590648153",
+    "category": "Console",
+    "title": "Switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10590648153-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00217_cs4N9Xec5ZkRdZ1sXBkVWhAE/310x430/9c0849b1.webp?s=c81d9a6bfc5a792738c1f7288ec39cace56df47f",
+    "addedAt": "2026-10-30T01:03:17.508Z",
+    "processed": false,
+    "triaged": false
   }
 ]
