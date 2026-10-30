@@ -20480,5 +20480,18 @@
     "geminiFault": "Manca il caricabatterie originale",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10600897360",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10600897360-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00d96_KN4U6KPwkqvzUrnRuEXj3Ukk/310x430/f1c6011f.webp?s=8a436709be4c495fa603ceacd14f4112d07e6573",
+    "addedAt": "2026-10-30T21:03:44.428Z",
+    "processed": false,
+    "triaged": false
   }
 ]
