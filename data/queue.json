@@ -21597,7 +21597,10 @@
     "url": "https://www.vinted.it/items/10591455373-playstation-4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00ef0_99UBvssbCj2wbJyQgFWbr8tV/310x430/2958cd52.webp?s=20459cf667ce476549c9ae4bc8d9aff7aaaed81c",
     "addedAt": "2026-10-30T06:07:53.518Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
