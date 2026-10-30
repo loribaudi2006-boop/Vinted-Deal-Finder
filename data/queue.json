@@ -1,38 +1,5 @@
 [
   {
-    "id": "10538392866",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10538392866-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01071_X7Zfhd3hmnPAYZEXvmokuYAu/310x430/4906d53f.webp?s=84f8c3e9e2c568beb090a8fc08a94846ad1691fc",
-    "addedAt": "2026-10-26T06:55:46.077Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10538415546",
-    "category": "Console",
-    "title": "Xbox one série x 1TO",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10538415546-xbox-one-serie-x-1to?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0151c_z3zGsX1QjKjKfACnDEK1V4Fy/310x430/4204e3e3.webp?s=d0debb978e4fd9ad4e340251df21bd71b22a6e1a",
-    "addedAt": "2026-10-26T07:02:00.342Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "a\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nXbox one série x 1TO\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nQuasi pas utilisé très bon état facture si besoin acheté en 2020\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 180
-  },
-  {
     "id": "10538438269",
     "category": "Console",
     "title": "4 tlg. Nintendo Switch Zubehör",
@@ -21572,5 +21539,38 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10591604937",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10591604937-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c89_JnW8jrp63Te4MYTghu3vcpdQ/310x430/a5121373.webp?s=17091a0c50dac55a6947b4b864f7abd02391372f",
+    "addedAt": "2026-10-30T06:58:44.382Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10591610883",
+    "category": "Console",
+    "title": "Ps4 mit Ladestation und Kontroller",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10591610883-ps4-mit-ladestation-und-kontroller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ed3_aE3FbzmuLQLiAXhzbKpkhaAW/310x430/06e15119.webp?s=82edc2caaaba0efaa7c3eb2e780a48ada9906c99",
+    "addedAt": "2026-10-30T06:59:46.537Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 mit Ladestation und Kontroller\nOttime·Sony·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 nicht oft benutzt mit Ladenstation und Kontroller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
