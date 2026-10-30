@@ -21665,5 +21665,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10591172798",
+    "category": "Console",
+    "title": "PS Vita 1000 OLED Nera -non testata senza caricabatterie",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10591172798-ps-vita-1000-oled-nera-non-testata-senza-caricabatterie?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a6a_2MRfgSicTquGitX1HJDXkoWG/310x430/ca17dafa.webp?s=11ca829329d6ccf36e28e554dbba89ccb8986e5a",
+    "addedAt": "2026-10-30T03:37:24.905Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10591184418",
+    "category": "Console",
+    "title": "Lotto PSP Fat 1004 + 8 Giochi UMD - non testata",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10591184418-lotto-psp-fat-1004-8-giochi-umd-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0219f_1DWdX5S39viMVhR42jaWLsZn/310x430/2fa9d7f1.webp?s=8c118e5ed962ba60b06e75272c27d013cae91b15",
+    "addedAt": "2026-10-30T03:42:36.162Z",
+    "processed": false,
+    "triaged": false
   }
 ]
