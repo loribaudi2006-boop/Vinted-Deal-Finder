@@ -21660,7 +21660,10 @@
     "url": "https://www.vinted.it/items/10591070459-ps4-mit-ladestation-und-kontroller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01ed3_aE3FbzmuLQLiAXhzbKpkhaAW/310x430/06e15119.webp?s=82edc2caaaba0efaa7c3eb2e780a48ada9906c99",
     "addedAt": "2026-10-30T02:57:58.800Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
