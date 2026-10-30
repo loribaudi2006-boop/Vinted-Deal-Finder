@@ -20588,5 +20588,23 @@
     "geminiFault": "Manca una vite, leggeri graffi sullo schermo, manca una piccola parte in basso a sinistra sul retro, manca la griglia inferiore",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "10601848686",
+    "category": "Console",
+    "title": "Switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10601848686-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00107_EjWKKjeukMjs9hEEbKYQcR3N/310x430/8fed618e.webp?s=bf85a5845a42558cdcfc3bbfedcf3c3106f39b76",
+    "addedAt": "2026-10-30T23:12:52.440Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nBien emballé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 77.35
   }
 ]
