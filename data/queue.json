@@ -1,23 +1,5 @@
 [
   {
-    "id": "10537290761",
-    "category": "Console",
-    "title": "Console switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10537290761-console-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_003b7_1xeo8QWdKH3NeVS9ftYXmqtu/310x430/13f6eb08.webp?s=1321c5eaebb93bc28340154987977e8ce032b1dc",
-    "addedAt": "2026-10-26T00:47:51.071Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "port\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nConsole switch\nDiscrete·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nAsser bonne etat mais manette bleu qui beug un tout peu ti peu\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "manette bleu qui beug un tout peu",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10537535920",
     "category": "Console",
     "title": "Jeux switch",
@@ -21649,5 +21631,23 @@
     "geminiFault": "manca il controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10590596275",
+    "category": "Console",
+    "title": "Nintendu switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10590596275-nintendu-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_017fb_Bi5gsnBHuvNRXx1DPbU89feB/310x430/2c5fecb7.webp?s=a1d2dfd63895907aff70188da3da5b8681af7ee4",
+    "addedAt": "2026-10-30T00:51:53.016Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendu switch\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nDéfauts | manque le socle a l’arrière et joystick drift\nil manque la boite et le chargeur\nla switch fonctionne tres bien\n💵 | prix legerement negociable\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "manca il socle a l'arrière, joystick drift, manca la boite e il chargeur",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
