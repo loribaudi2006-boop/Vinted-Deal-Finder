@@ -21644,7 +21644,10 @@
     "url": "https://www.vinted.it/items/10590962337-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00505_8g2QwstsmNfKuHbL31tcf4ok/310x430/7ad0dcbe.webp?s=6676baec29732ef311ef28db4f6a5c3488f9790c",
     "addedAt": "2026-10-30T02:23:45.072Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
