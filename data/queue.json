@@ -20495,5 +20495,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10601284667",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10601284667-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014e9_ZLx3Xe52ehEr8JW7pLYds7mH/310x430/deae2cb9.webp?s=4539e775639b0fcaa9e5c0dbb63338366a70c1bd",
+    "addedAt": "2026-10-30T21:47:30.967Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10601296284",
+    "category": "Console",
+    "title": "Caja vacía ps4 slim killzone Shadow fall",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10601296284-caja-vacia-ps4-slim-killzone-shadow-fall?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01054_9XEXoNHBJH1gUvC97PA252tC/310x430/b4fcba09.webp?s=d5319ceb45518006ae945a9049f50fda3e5ccd80",
+    "addedAt": "2026-10-30T21:49:35.495Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
