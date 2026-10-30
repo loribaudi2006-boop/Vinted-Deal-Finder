@@ -21455,5 +21455,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-30€, sotto soglia"
+  },
+  {
+    "id": "10592100569",
+    "category": "Console",
+    "title": "Nintendo Switch Halterung",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10592100569-nintendo-switch-halterung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a68_wAJ5oFqDGnYUwf74dFTEsFcc/310x430/8b870889.webp?s=0bbe30a2893c04e953bb7c46db7be508d9ee0094",
+    "addedAt": "2026-10-30T08:32:34.439Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.2€, sotto soglia"
   }
 ]
