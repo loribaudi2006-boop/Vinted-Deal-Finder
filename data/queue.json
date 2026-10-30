@@ -21649,5 +21649,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10591070459",
+    "category": "Console",
+    "title": "Ps4 mit Ladestation und Kontroller",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10591070459-ps4-mit-ladestation-und-kontroller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ed3_aE3FbzmuLQLiAXhzbKpkhaAW/310x430/06e15119.webp?s=82edc2caaaba0efaa7c3eb2e780a48ada9906c99",
+    "addedAt": "2026-10-30T02:57:58.800Z",
+    "processed": false,
+    "triaged": false
   }
 ]
