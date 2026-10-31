@@ -19579,5 +19579,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-15.45€, sotto soglia"
+  },
+  {
+    "id": "10613846549",
+    "category": "Console",
+    "title": "Lots ps4 + manettes ps5 + jeux",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10613846549-lots-ps4-manettes-ps5-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01da6_hJuY4hvi5iwJVKVB1vgMtuqF/310x430/e176c51c.webp?s=d2f62d4096fc50f229c2a19beb3e643f9ef39492",
+    "addedAt": "2026-10-31T22:16:54.920Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10613859207",
+    "category": "Console",
+    "title": "Lots ps4 + manettes ps5 + jeux",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10613859207-lots-ps4-manettes-ps5-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01da6_hJuY4hvi5iwJVKVB1vgMtuqF/310x430/e176c51c.webp?s=d2f62d4096fc50f229c2a19beb3e643f9ef39492",
+    "addedAt": "2026-10-31T22:18:59.289Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
