@@ -20480,8 +20480,11 @@
     "url": "https://www.vinted.it/items/10602984026-playstation-4-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01eba_5V5b1JC2Z1GnPKUC32FRdwK8/310x430/c321f961.webp?s=34ad82c83adad364e7e1fedd0ea65b93159ca989",
     "addedAt": "2026-10-31T05:06:26.815Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10603019252",
@@ -20493,6 +20496,19 @@
     "url": "https://www.vinted.it/items/10603019252-xbox-one-fat-da-sistemareper-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_022db_Dd5qsJnKtd8nkPPSV7GGAYL2/310x430/bc4f2b80.webp?s=78d25c96f916d490227d4c12e3b05509add5a28b",
     "addedAt": "2026-10-31T05:29:17.343Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10603034956",
+    "category": "Console",
+    "title": "Ace combat 8 wings of theve ps5",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 86% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10603034956-ace-combat-8-wings-of-theve-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_002fc_A1JcgADydxujnGo1WSq4cHuU/310x430/1a421324.webp?s=b5c48ecb4660ccb71ccefac71902002d65020b52",
+    "addedAt": "2026-10-31T05:38:39.139Z",
     "processed": false,
     "triaged": false
   }
