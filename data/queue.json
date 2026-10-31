@@ -1,38 +1,5 @@
 [
   {
-    "id": "10562593499",
-    "category": "Console",
-    "title": "Je voudrais coucher de Switch .",
-    "price": 9.99,
-    "totalPrice": 11.19,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10562593499-je-voudrais-coucher-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004c9_hyFVZP9Mw7WE3RPbuof5psJq/310x430/6bb8973c.webp?s=d2f50c5cc6915820ab2eff66465784b3c3b326be",
-    "addedAt": "2026-10-27T20:17:54.149Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-12€, sotto soglia"
-  },
-  {
-    "id": "10562592411",
-    "category": "Console",
-    "title": "PS4 Slim",
-    "price": 53,
-    "totalPrice": 56.35,
-    "reason": "prezzo 59% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10562592411-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_024b0_e6L6DfjS7Zr5tuBvbCxe4QnR/310x430/c0d75ef8.webp?s=17862413bd929b0dea989f7f99829bce9e9ce989",
-    "addedAt": "2026-10-27T20:17:54.149Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "onismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 Slim\nOttime·PlayStation·Caricato 2 min fa\n\n53,00 €\n\n56,35 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPlaystation 4 Slim\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "10562646955",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19768,5 +19735,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10612826182",
+    "category": "Console",
+    "title": "Nintendo Switch Lite blau",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10612826182-nintendo-switch-lite-blau?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ceb_j6E2FZQ6PbXwr3ri6foXH5dp/310x430/c61ca26b.webp?s=1abed0e579d8e2b224dc6861ff2a6895fecc2e0c",
+    "addedAt": "2026-10-31T20:10:06.469Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Lite blau\nBuone·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nVerkaufe die Switch von meinem Sohn sie hat Gebrausspuren. Am Display sind Kratzer\n\nSiehe Bilder auf Anfrage mache ich mehr.\nDer Akku ist noch super. Die Kratzer haben ihn aber nie beim Spielen gestört.\n\nDer Preis ist fest und nicht VB\n\nMein Sohn gibt noch seine Tasche von Zelda dazu\n\nKein Versand ins Ausland!! Bitte beachten.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Gebrauchsspuren, Kratzer am Display, inklusive Zelda-Tasche",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10612894088",
+    "category": "Console",
+    "title": "Original-Netzteil PS4",
+    "price": 32,
+    "totalPrice": 34.3,
+    "reason": "prezzo 75% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10612894088-original-netzteil-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a77_3KgUkQYbY4Ewz1J8SWdJfTo2/310x430/fe261bb3.webp?s=d9f3f92f64767e4efdc14724de9f01e8b8e58dcb",
+    "addedAt": "2026-10-31T20:17:22.802Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.3€, sotto soglia"
   }
 ]
