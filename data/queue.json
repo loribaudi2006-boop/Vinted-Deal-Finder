@@ -20428,5 +20428,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-26.95€, sotto soglia"
+  },
+  {
+    "id": "10610399907",
+    "category": "Console",
+    "title": "Console Sony Psp Non funziona ma con batteria inclusa",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "parola chiave: \"non funziona\"",
+    "url": "https://www.vinted.it/items/10610399907-console-sony-psp-non-funziona-ma-con-batteria-inclusa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_02087_go3WUKJrvwxjgQDt23u584KX/310x430/703b190b.webp?s=616f697677b58af8a8819632f0bfd8d4b3664718",
+    "addedAt": "2026-10-31T16:39:33.195Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.55€, sotto soglia"
+  },
+  {
+    "id": "10610467442",
+    "category": "Console",
+    "title": "Ps4 blanche + 4 jeux sans boite 🚨 Jaunissement qui ne se voit pas au photo",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10610467442-ps4-blanche-4-jeux-sans-boite-jaunissement-qui-ne-se-voit-pas-au-photo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01676_DVZ77Udo55yQWT6a442vKaNN/310x430/05d6e02b.webp?s=969ae3036a927af10e99016809a83ca5f716204d",
+    "addedAt": "2026-10-31T16:44:44.633Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Uomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 15\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 blanche + 4 jeux sans boite 🚨 Jaunissement qui ne se voit pas au photo\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\n🚨Proposez moi des prix 🚨\nTrès bonne etat lis bien les jeux avec 1 manette et 4 jeux attention la console comporte des jaunissement il y a des rayure voir photo\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "ingiallimento della plastica, graffi, giochi senza custodia",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 83.25
+  },
+  {
+    "id": "10609476606",
+    "category": "Console",
+    "title": "Nintendo Switch Zubehör Bundle – Docking Station",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10609476606-nintendo-switch-zubehor-bundle-docking-station-netzteil-grip-spiel-ohne-konsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02006_cnR2JNkSGhtCevUJ17mooLks/310x430/4f3965e4.webp?s=1fc3d96813ea502d7ab18d229d79517b8c658e0a",
+    "addedAt": "2026-10-31T16:46:48.837Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.8€, sotto soglia"
   }
 ]
