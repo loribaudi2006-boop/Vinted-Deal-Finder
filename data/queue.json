@@ -20458,5 +20458,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10605029127",
+    "category": "Console",
+    "title": "Dualsense charging station PS5",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10605029127-dualsense-charging-station-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02031_aUreDXJVAi4MFc7TzDHvGGGG/310x430/3f17ccaf.webp?s=4410d8e98a1939b6d25ec14f8c2d482221c5c4f6",
+    "addedAt": "2026-10-31T10:33:00.504Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
+  },
+  {
+    "id": "10605112912",
+    "category": "Console",
+    "title": "Switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10605112912-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00107_EjWKKjeukMjs9hEEbKYQcR3N/310x430/8fed618e.webp?s=bf85a5845a42558cdcfc3bbfedcf3c3106f39b76",
+    "addedAt": "2026-10-31T10:39:13.904Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nBien emballé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 77.35
   }
 ]
