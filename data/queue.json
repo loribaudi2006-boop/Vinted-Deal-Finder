@@ -19528,5 +19528,18 @@
     "geminiFault": "Il tasto \"R\" del Joy-Con destro non funziona, senza cavi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10614096059",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10614096059-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0025e_AqUCXTAmsiuu7WM61yNxNwz8/310x430/2cf28ab2.webp?s=825833caafb6857aaac5ed17f71ec179c4036117",
+    "addedAt": "2026-10-31T23:05:36.605Z",
+    "processed": false,
+    "triaged": false
   }
 ]
