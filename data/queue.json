@@ -20493,7 +20493,27 @@
     "url": "https://www.vinted.it/items/10606095568-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_010fb_gLnPTs9MLmiUAkPd7KDS7KNC/310x430/fad4bc6a.webp?s=29743929b4bc51477174db24b2bbd9da8c7e45f4",
     "addedAt": "2026-10-31T11:50:50.897Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one\nOttime·Xbox·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nVends Xbox One 500 Go, fonctionne très bien.\npetit nettoyage à prévoir pour l’extérieur\nCâble d’origine fourni, avec une manette.\nEnvoi rapide✅\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "esterno da pulire",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.55
+  },
+  {
+    "id": "10606171141",
+    "category": "Console",
+    "title": "Console Sony PSP 1004 FAT (Non testata / Per ricambi o riparazione) + Custodia",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10606171141-console-sony-psp-1004-fat-non-testata-per-ricambi-o-riparazione-custodia?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0261e_kRPA4xkc96xu7dkHzMJLo8np/310x430/b2750b32.webp?s=03c6808617f4ba95f225e61ee7bd041dc70e1d20",
+    "addedAt": "2026-10-31T11:57:04.448Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.15€, sotto soglia"
   }
 ]
