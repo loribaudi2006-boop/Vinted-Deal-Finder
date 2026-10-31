@@ -1,37 +1,5 @@
 [
   {
-    "id": "10552278692",
-    "category": "Console",
-    "title": "Je vends ma PS4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10552278692-je-vends-ma-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_000ab_h8EYxGRWiry6qyzCzAYqFN9n/310x430/310c94ea.webp?s=867668a83f531aa703f37b66fcefa8b925bc86b8",
-    "addedAt": "2026-10-27T04:46:27.987Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10552282780",
-    "category": "Console",
-    "title": "Zubhör für playstation 4",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10552282780-zubhor-fur-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00023_QR1BzMZdVp9k7uBRkJ3DShbA/310x430/5b72700c.webp?s=e55175a78753373a944e586744df2bc0b566d9f2",
-    "addedAt": "2026-10-27T04:48:32.875Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10552310761",
     "category": "Console",
     "title": "Switch lite",
@@ -20528,7 +20496,10 @@
     "url": "https://www.vinted.it/items/10602911158-ps4-far-pour-piece-ou-pou-coneseur?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d81_WMaCSCaexSAorxbHdLdZkPN8/310x430/1dd54d77.webp?s=5d16ad3a8244ac5c9e3d350dcb6c850905894213",
     "addedAt": "2026-10-31T04:22:48.441Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
