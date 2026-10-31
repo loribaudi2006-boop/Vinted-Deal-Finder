@@ -1,35 +1,5 @@
 [
   {
-    "id": "10559968117",
-    "category": "Console",
-    "title": "Nintendo ds lite rosa con cerniera rotta e display superiore da visionare",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "parola chiave: \"rotta\"",
-    "url": "https://www.vinted.it/items/10559968117-nintendo-ds-lite-rosa-con-cerniera-rotta-e-display-superiore-da-visionare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01d59_ybFZF4Lq2BpbgTVAuzNM5pZH/310x430/128398ce.webp?s=56084f187171105ad9c05e50cfaa837a5f9b558d",
-    "addedAt": "2026-10-27T17:12:20.776Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~7€, sotto soglia"
-  },
-  {
-    "id": "10560031818",
-    "category": "Console",
-    "title": "Pochette switch",
-    "price": 7,
-    "totalPrice": 8.05,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10560031818-pochette-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0097d_5RuN123Ciw5a8iSmkQQ3D9ra/310x430/60607e11.webp?s=2f71aca4f77a7e49d634248850bb93c341c60715",
-    "addedAt": "2026-10-27T17:16:28.631Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
     "id": "10560100818",
     "category": "Console",
     "title": "Consola Nintendo Switch",
@@ -20308,5 +20278,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5.8€, sotto soglia"
+  },
+  {
+    "id": "10610793282",
+    "category": "Console",
+    "title": "Playstation 4 1 TB + mando",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10610793282-playstation-4-1-tb-mando?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02320_f2bm6GxwuQuD73PU67YHFz8P/310x430/322491e8.webp?s=dc1d22fbb1bb05e6777ac3d91976a9d4f55f3b99",
+    "addedAt": "2026-10-31T17:09:37.248Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
