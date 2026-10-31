@@ -1,23 +1,5 @@
 [
   {
-    "id": "10563329582",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10563329582-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_022e5_GMitbPw2Cry478LaowomQ3YF/310x430/33a1a6ae.webp?s=7f138133f5bdfa26611896cab40a66824f1cc3a1",
-    "addedAt": "2026-10-27T21:16:55.722Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlaystation 4\nQuelques marques d’usure mais rien de grave à signaler aucun bruit etc 500Gb elle fonctionne parfaitement (manette à changer mais bien pour un début)\nPlus d’informations en privé.\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manette a changer",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10563373209",
     "category": "Console",
     "title": "Estuche nintendo switch + mando de juego + accesorios de tematica super mario",
@@ -19738,5 +19720,20 @@
     "geminiFault": "Mancano caricabatterie e scatola",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10613376599",
+    "category": "Console",
+    "title": "Ps4 normale",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10613376599-ps4-normale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_000fd_CfAfTTgEz754XFtpcusDtQHG/310x430/e06dd03e.webp?s=9331eecabf5aad5d594014c6d69e7f5830b40e42",
+    "addedAt": "2026-10-31T21:10:17.591Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
