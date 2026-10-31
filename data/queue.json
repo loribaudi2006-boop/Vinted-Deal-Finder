@@ -19539,7 +19539,12 @@
     "url": "https://www.vinted.it/items/10614096059-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0025e_AqUCXTAmsiuu7WM61yNxNwz8/310x430/2cf28ab2.webp?s=825833caafb6857aaac5ed17f71ec179c4036117",
     "addedAt": "2026-10-31T23:05:36.605Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nBonjour je vends ma console Nintendo switch car je ne m'en sers plus marche nickel juste sur le joycon droit le bouton \"R\" ne marche plus sinon le reste marche fourni sans câble n'hésitez pas pour plus de renseignements\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Tasto R del joycon destro non funzionante, senza cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80
   }
 ]
