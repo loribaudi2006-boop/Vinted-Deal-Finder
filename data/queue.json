@@ -1,38 +1,5 @@
 [
   {
-    "id": "10564439318",
-    "category": "Console",
-    "title": "Switch 2",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10564439318-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00cb3_WG2UMVSWyJihS6Zbr1zwdWDb/310x430/6f952bce.webp?s=2e8e6faa04d3aeb869580107c4b586f64351f909",
-    "addedAt": "2026-10-27T23:29:23.565Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10564447383",
-    "category": "Console",
-    "title": "PlayStation 5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10564447383-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e04_CbLwR7Q1Kqpft9UUPPYhU84n/310x430/79574d16.webp?s=7fd8b10a3e9695d1859f9c2be3c3cca290382115",
-    "addedAt": "2026-10-27T23:30:27.235Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "t\nPubblicità\n‌\n\n20\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 5\nNuovo con cartellino·Sony·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nun minuto fa\nPlayStation 5\nNeuve\nSpedizione\nda 9,49 €\nDisponibile per l'acquisto tra:\n07\ngiorni\n17\nore\n28\nminuti\n12\nsecondi\nSegui squeezie_levrai\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 348.25
-  },
-  {
     "id": "10564701233",
     "category": "Console",
     "title": "Refroidisseur ps5",
@@ -19495,5 +19462,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 75
+  },
+  {
+    "id": "10614210309",
+    "category": "Console",
+    "title": "Carcasas PS5 Edición 30 Aniversario",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10614210309-carcasas-ps5-edicion-30-aniversario?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e97_JC1YNQQvHuhCqmG8QokRZDx8/310x430/683c4a42.webp?s=2a5dc5aba2ee55eeacde1bc9cf7c950d808953de",
+    "addedAt": "2026-10-31T23:33:37.179Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.55€, sotto soglia"
   }
 ]
