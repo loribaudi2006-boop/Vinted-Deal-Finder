@@ -1,35 +1,5 @@
 [
   {
-    "id": "10562733033",
-    "category": "Console",
-    "title": "Pochette officielle Nintendo switch",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10562733033-pochette-officielle-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01a44_KbKj1RD4u5HVk6mGYPGFWVHy/310x430/e1b6bd81.webp?s=47c94729effb56b60d4b9e90cdfc697e20e1f029",
-    "addedAt": "2026-10-27T20:29:16.794Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-22.45€, sotto soglia"
-  },
-  {
-    "id": "10562814979",
-    "category": "Console",
-    "title": "Caja original de PS5",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10562814979-caja-original-de-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00b7d_dqX54k5qR4tAKRwAsvTRLXAr/310x430/0e6bf708.webp?s=8c4d171578eb84e9b1c84e8ee5d676e542fa9458",
-    "addedAt": "2026-10-27T20:38:37.264Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6€, sotto soglia"
-  },
-  {
     "id": "10562824108",
     "category": "Console",
     "title": "Je cherche une ps5 pour 300 euros ou moins",
@@ -19765,5 +19735,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 70.3
+  },
+  {
+    "id": "10613049125",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10613049125-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_004d9_YzW2yLaPErCGsx4vsNWUTtLY/310x430/2cab84bd.webp?s=b5b931fa6898bbe5703894a3feb0df659aeac881",
+    "addedAt": "2026-10-31T20:32:56.822Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
