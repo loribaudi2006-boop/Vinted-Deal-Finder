@@ -20561,5 +20561,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 138
+  },
+  {
+    "id": "10602166022",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10602166022-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025dc_fSA8BXqvozMGv6QtzCXNqqdC/310x430/bfc0ac4e.webp?s=1a7f73159b48ff10b7d150262f3d91ba1ca4f253",
+    "addedAt": "2026-10-31T00:20:29.315Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo playstation 4 con un joystick, e con fifa 18 e assasin’s creed origins, Tutto perfettamente funzionante, unico difetto un angolo della play rotto ma i tasti funzionano lo stesso\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "un angolo della play rotto ma i tasti funzionano lo stesso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
