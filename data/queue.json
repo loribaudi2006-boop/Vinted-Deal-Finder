@@ -20579,5 +20579,23 @@
     "geminiFault": "un angolo della play rotto ma i tasti funzionano lo stesso",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10602203790",
+    "category": "Console",
+    "title": "Nintendo Switch NON funzionante",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10602203790-nintendo-switch-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0053f_MDcSTgq5TJgSMgPxaYt3Khfr/310x430/2636544d.webp?s=c46ef82814097e63616927ae41b06bc15df3f0b9",
+    "addedAt": "2026-10-31T00:28:47.584Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ontenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch NON funzionante\nDiscrete·Nintendo·Caricato 2 min fa\n\n39,00 €\n\n41,65 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n2 min fa\nVendo per pezzi di ricambio.\nNon si accende più dopo molto tempo. Provato le procedure classiche di reset ma nulla. I joycon funzionavano. Il dock dovrebbe andare.\nScocca personalizzata riutilizzabile\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non si accende più dopo molto tempo, procedure di reset inefficaci",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 48.35
   }
 ]
