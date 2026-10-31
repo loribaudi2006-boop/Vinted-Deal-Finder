@@ -1,38 +1,5 @@
 [
   {
-    "id": "10555340481",
-    "category": "Console",
-    "title": "ps4 negra con mando azul",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10555340481-ps4-negra-con-mando-azul?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02300_YwGgQaWrDzn5cvpNS9brebDi/310x430/799490a4.webp?s=358ba119d86899a0a0b9095e9ce0b0ce7808c413",
-    "addedAt": "2026-10-27T11:48:39.298Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nps4 negra con mando azul\nBuone·Sony·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nps4 negra con mando azul (duashlock 4), videojuegos negociables\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 37.85
-  },
-  {
-    "id": "10555365010",
-    "category": "Console",
-    "title": "Switchgestell",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10555365010-switchgestell-2x-joy-con-handschlaufe-joy-con-halterahmen-switch-kabel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015dc_Rj166DoieijF16scBBHPiBDz/310x430/246472b2.webp?s=92cb7e74c459bc91bf275298086604082665392a",
-    "addedAt": "2026-10-27T11:50:45.386Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "10555570291",
     "category": "Console",
     "title": "Playstation 5 pro 2tb ovp",
@@ -20500,5 +20467,33 @@
     "geminiFault": "Senza controller (Sem comando)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10606063471",
+    "category": "Console",
+    "title": "Switch Sports",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10606063471-switch-sports?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0013d_N34ysAXHYSShrnxNfKcFWqJ6/310x430/025dbf69.webp?s=e498c9f54907ec4a61364b66c61534c4af0993a9",
+    "addedAt": "2026-10-31T11:48:46.502Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10606095568",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10606095568-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_010fb_gLnPTs9MLmiUAkPd7KDS7KNC/310x430/fad4bc6a.webp?s=29743929b4bc51477174db24b2bbd9da8c7e45f4",
+    "addedAt": "2026-10-31T11:50:50.897Z",
+    "processed": false,
+    "triaged": false
   }
 ]
