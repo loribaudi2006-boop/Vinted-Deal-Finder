@@ -20533,5 +20533,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10602911158",
+    "category": "Console",
+    "title": "Ps4 far pour pièce ou pou coneseur",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10602911158-ps4-far-pour-piece-ou-pou-coneseur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01d81_WMaCSCaexSAorxbHdLdZkPN8/310x430/1dd54d77.webp?s=5d16ad3a8244ac5c9e3d350dcb6c850905894213",
+    "addedAt": "2026-10-31T04:22:48.441Z",
+    "processed": false,
+    "triaged": false
   }
 ]
