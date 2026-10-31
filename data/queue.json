@@ -19495,5 +19495,20 @@
     "geminiFault": "Non si accende/non carica",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 65
+  },
+  {
+    "id": "10614273933",
+    "category": "Console",
+    "title": "Sony Console ps1 per pezzi di ricambio",
+    "price": 19.9,
+    "totalPrice": 21.6,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10614273933-sony-console-ps1-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_020f0_gAEQRbTM5jxmCE8K4ayWrfH7/310x430/25388399.webp?s=685637b3792a35bfdea16ba7581afaf830edb3d1",
+    "addedAt": "2026-10-31T23:50:11.724Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.4€, sotto soglia"
   }
 ]
