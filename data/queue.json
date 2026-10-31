@@ -1,20 +1,5 @@
 [
   {
-    "id": "10552638364",
-    "category": "Console",
-    "title": "Dragonne switch 1",
-    "price": 4.2,
-    "totalPrice": 5.11,
-    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10552638364-dragonne-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a04_RMp6yPvGaaYsdUuNq573TvRd/310x430/84af9c91.webp?s=0dee6cccb78f3556f5a0cc23c5b08df243ee7e99",
-    "addedAt": "2026-10-27T07:06:42.679Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.11€, sotto soglia"
-  },
-  {
     "id": "10552807366",
     "category": "Console",
     "title": "Xbox one s 500go",
@@ -20488,5 +20473,20 @@
     "geminiFault": "Luce blu lampeggiante all'avvio normale senza segnale video, ma funziona perfettamente in Modalità Recovery (Safe Mode).",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10603253094",
+    "category": "Console",
+    "title": "Nintendo Switch 2 Zelda Dock Cover",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10603253094-nintendo-switch-2-zelda-dock-cover?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01fa2_VXtrjKP9Utcp8cGJ8ffQiN5v/310x430/5d553b45.webp?s=738aed4e8c959cc8de874ce2435d4e66a4590625",
+    "addedAt": "2026-10-31T07:06:01.308Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13€, sotto soglia"
   }
 ]
