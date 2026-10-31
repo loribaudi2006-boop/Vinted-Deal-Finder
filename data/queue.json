@@ -1,35 +1,5 @@
 [
   {
-    "id": "10553722264",
-    "category": "Console",
-    "title": "Nintendo Switch 1 Dockingstation",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10553722264-nintendo-switch-1-dockingstation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00094_GWhEwzxRjXbaWHo7QjLJgrZY/310x430/911d167e.webp?s=2272d0fe4f68eac4441230f1689275b3422b5aed",
-    "addedAt": "2026-10-27T09:34:42.117Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.3€, sotto soglia"
-  },
-  {
-    "id": "10553716854",
-    "category": "Console",
-    "title": "Xbox one s",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10553716854-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01f40_8v7iueLeVspAYUsFyfi51zqT/310x430/7d1baf42.webp?s=cc8c6e69c88be54a43086e50b01ffb5887ac4722",
-    "addedAt": "2026-10-27T09:34:42.118Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
     "id": "10553812669",
     "category": "Console",
     "title": "PlayStation 4 mit Zubehör",
@@ -20421,7 +20391,42 @@
     "url": "https://www.vinted.it/items/10604278901-intercambio-de-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c9a_qhd8QaMmEmdnedW1FNq4NFA5/310x430/104bfff1.webp?s=2b2d3e2f3a6d2e3bd0da234c742562262561e03c",
     "addedAt": "2026-10-31T09:30:39.162Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10604313607",
+    "category": "Console",
+    "title": "Façade camouflage militaire ps5",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10604313607-facade-camouflage-militaire-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00fcc_RMXzkkMLGKmZ7XJtFPNpjzEx/310x430/7e1e4d3a.webp?s=2317393406fbf445a7ced0eb1050fe43014defc5",
+    "addedAt": "2026-10-31T09:33:46.686Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.2€, sotto soglia"
+  },
+  {
+    "id": "10604347963",
+    "category": "Console",
+    "title": "Ps5 a 10€",
+    "price": 10,
+    "totalPrice": 10,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10604347963-ps5-a-10eur?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02005_Teh2nAtaK58kssJSVmJZ4ErM/310x430/952e505b.webp?s=c07e27326070128d30189a2cadfaf254da85c9fd",
+    "addedAt": "2026-10-31T09:36:53.437Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs5 a 10€\nNuovo senza cartellino·PlayStation·Caricato proprio adesso\n\n10,00 €\n\n11,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nPs5 10 jen nend veux plus je la met a 10€ c donner\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 330
   }
 ]
