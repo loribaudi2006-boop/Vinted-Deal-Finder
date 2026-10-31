@@ -1,38 +1,5 @@
 [
   {
-    "id": "10552533019",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10552533019-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00365_wawfbDHp7ZwYsBVjSefExceN/310x430/6088be83.webp?s=1cc4c271655ea52f0336cc3efea257f26b8fa14e",
-    "addedAt": "2026-10-27T06:37:36.646Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10552540029",
-    "category": "Console",
-    "title": "PS4 standard",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10552540029-ps4-standard?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01807_teQeosRWzLKVLpuaSdBWChxX/310x430/2077b24d.webp?s=1694a38ef50aed7dc83732abad88dfc79c914fe5",
-    "addedAt": "2026-10-27T06:39:41.670Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPS4 standard\nNuovo senza cartellino·PlayStation·Caricato 21 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\n21 min fa\nps4 in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 57.85
-  },
-  {
     "id": "10552638364",
     "category": "Console",
     "title": "Dragonne switch 1",
@@ -20480,7 +20447,10 @@
     "url": "https://www.vinted.it/items/10603083122-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_003d0_CVVMRwhRNWKafFdTEETT5Loi/310x430/943489e9.webp?s=aa7e42df0601e53a93e3429a17ac833ee7f0e74d",
     "addedAt": "2026-10-31T06:04:47.140Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
