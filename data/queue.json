@@ -1,20 +1,5 @@
 [
   {
-    "id": "10563105330",
-    "category": "Console",
-    "title": "Lot de goodies Nintendo Switch 2",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10563105330-lot-de-goodies-nintendo-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0191a_CtqiGpFknmZ7FdE2ZU95PZ2b/310x430/e9f75a37.webp?s=ebdda08b269e1baf93412877e08d0b0933f30627",
-    "addedAt": "2026-10-27T20:58:18.371Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3€, sotto soglia"
-  },
-  {
     "id": "10563160061",
     "category": "Console",
     "title": "Playstation 4",
@@ -19699,5 +19684,20 @@
     "geminiFault": "Je ne sait pas quel est le problème",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10613210439",
+    "category": "Console",
+    "title": "Magazine promotionnel Switch 2",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10613210439-magazine-promotionnel-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00efe_5Qj7J9117XMpsMXYoiyE4zcd/310x430/8215d8b5.webp?s=a255b5e31c42870fe4b5f0d33da19c23ae1d6d8a",
+    "addedAt": "2026-10-31T20:50:34.606Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   }
 ]
