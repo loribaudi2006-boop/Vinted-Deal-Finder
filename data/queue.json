@@ -1,38 +1,5 @@
 [
   {
-    "id": "10554750929",
-    "category": "Console",
-    "title": "Switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10554750929-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0086f_HzhhqiPJ5aAwTppoMSUo1DZx/310x430/7babf7c6.webp?s=88b789fcbea978b1b75344588cbd2cd45a21ef14",
-    "addedAt": "2026-10-27T11:00:53.376Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10554758141",
-    "category": "Console",
-    "title": "Ps5 slim",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10554758141-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01959_DvAaStnzFUAPgHkD5woxAYGh/310x430/c13487bd.webp?s=52811eb6c5f7d6ff8615fd18ed20474d152fa7d0",
-    "addedAt": "2026-10-27T11:01:55.735Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "à\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPs5 slim\nNuovo senza cartellino·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nHahahhaha\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 313.05
-  },
-  {
     "id": "10554932325",
     "category": "Console",
     "title": "Jeux switch",
@@ -20356,5 +20323,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10605512452",
+    "category": "Console",
+    "title": "Consolle per pezzi di ricambio",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10605512452-consolle-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015a4_TwrFW5FewRz3gZXWapGMectd/310x430/410dc802.webp?s=b77474d89846b225b9ce91ce2db01945ef510f47",
+    "addedAt": "2026-10-31T11:09:18.858Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.2€, sotto soglia"
   }
 ]
