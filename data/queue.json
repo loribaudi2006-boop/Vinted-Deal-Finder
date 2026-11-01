@@ -19807,5 +19807,35 @@
     "geminiFault": "Deux lignes sur l’écran",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10628915292",
+    "category": "Console",
+    "title": "Nintendo Switch Hülle",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10628915292-nintendo-switch-hulle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01dba_uCMaEvXHXF6tUh4Dh17w1Ke7/310x430/cb34a491.webp?s=690f930d0d5e9868db5019a9cfce7ba40c9ea9f1",
+    "addedAt": "2026-11-01T21:49:00.752Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.9€, sotto soglia"
+  },
+  {
+    "id": "10628941610",
+    "category": "Console",
+    "title": "Boite ps5 vide",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10628941610-boite-ps5-vide?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_006a7_TStrYj869tatizh2N8QHMcM1/310x430/a2cc4d63.webp?s=037e250a995c3b9e8d66c2990a531e9c0d530eb7",
+    "addedAt": "2026-11-01T21:51:09.864Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.2€, sotto soglia"
   }
 ]
