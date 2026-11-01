@@ -1,23 +1,5 @@
 [
   {
-    "id": "10566041269",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10566041269-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_003be_74vx5MuzYaWqBLQ82Uc27RM6/310x430/fc3d48c0.webp?s=1ebf3708871cf11033f5820b70b5b77b3ff8d583",
-    "addedAt": "2026-10-28T07:02:23.651Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Articoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nIn ottime condizioni funzionante al 100% con joistick\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10566118750",
     "category": "Console",
     "title": "Playstation 5 pro 2tb ovp",
@@ -19229,8 +19211,10 @@
     "url": "https://www.vinted.it/items/10615149480-playstation-4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01fd6_PVKUZB5eihGUdWADA6WVRiX6/310x430/f6874e37.webp?s=f1d76017e8c0b45a5f6bb8a0e1a9bc2a580123c8",
     "addedAt": "2026-11-01T06:35:26.925Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10615170931",
@@ -19242,7 +19226,27 @@
     "url": "https://www.vinted.it/items/10615170931-giochi-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01724_HJdLuzjnt78y9wX6H9vib62y/310x430/e7f48f3c.webp?s=276dbc90167831f352722ae5a3dd3aa1c56e67fb",
     "addedAt": "2026-11-01T06:44:47.156Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.3€, sotto soglia"
+  },
+  {
+    "id": "10615204724",
+    "category": "Console",
+    "title": "Switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10615204724-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_015f3_5SgYKAVkWsbBfbxpk24v7BXk/310x430/ee050e99.webp?s=d9236134755506307872b3e0c7452b93ebd9c0b4",
+    "addedAt": "2026-11-01T06:57:15.450Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nDiscrete·Nintendo·Caricato 3 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n3 min fa\nBonjour je vends ma swith je ses pas ses quoi le problème\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Bonjour je vends ma swith je ses pas ses quoi le problème",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.8
   }
 ]
