@@ -1,38 +1,5 @@
 [
   {
-    "id": "10565966756",
-    "category": "Console",
-    "title": "Playstation 5 pro 2tb ovp",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10565966756-playstation-5-pro-2tb-ovp?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00828_yHeTYrAADpKmWAgGCozcWKzL/310x430/e70d8214.webp?s=fea89fc5bfed8867b7ab5a21880a62c175a9f6cf",
-    "addedAt": "2026-10-28T06:41:00.272Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10565968525",
-    "category": "Console",
-    "title": "PlayStation 5 slim",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10565968525-playstation-5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_002f9_yGcvoerGWMYfFkm9Dt5d59Hy/310x430/629beea1.webp?s=2f8366cdc7a790ddbb33b4ea484baf97a03c4785",
-    "addedAt": "2026-10-28T06:42:02.469Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 5 slim\nNuovo senza cartellino·PlayStation·Caricato 19 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\n19 min fa\n❗️NON COMPRARE A 1€❗️La scambio per una Xbox serie s,ovviamente accetto anche offerte\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 340
-  },
-  {
     "id": "10566001510",
     "category": "Console",
     "title": "Playstation 5 pro 2tb ovp",
@@ -19266,5 +19233,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10615149480",
+    "category": "Console",
+    "title": "Playstation 4 slim",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10615149480-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01fd6_PVKUZB5eihGUdWADA6WVRiX6/310x430/f6874e37.webp?s=f1d76017e8c0b45a5f6bb8a0e1a9bc2a580123c8",
+    "addedAt": "2026-11-01T06:35:26.925Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10615170931",
+    "category": "Console",
+    "title": "Giochi ps4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10615170931-giochi-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01724_HJdLuzjnt78y9wX6H9vib62y/310x430/e7f48f3c.webp?s=276dbc90167831f352722ae5a3dd3aa1c56e67fb",
+    "addedAt": "2026-11-01T06:44:47.156Z",
+    "processed": false,
+    "triaged": false
   }
 ]
