@@ -19489,5 +19489,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10614609967",
+    "category": "Console",
+    "title": "Ps5 et Apple Watch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10614609967-ps5-et-apple-watch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00876_mRmYUXWyHME8pvSwS3hM7G6t/310x430/0630042b.webp?s=c9107adebc62108a0bbe4314f70944ea51173116",
+    "addedAt": "2026-11-01T01:43:06.571Z",
+    "processed": false,
+    "triaged": false
   }
 ]
