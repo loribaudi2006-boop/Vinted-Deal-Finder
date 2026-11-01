@@ -19487,8 +19487,13 @@
     "url": "https://www.vinted.it/items/10624643097-console-playstation-ps4-fat-500-gb-3-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0186d_JYEth8GDhyaXhN5GJaR4HHPD/310x430/26a38db2.webp?s=66bd6245fd0c3ac3f38b0785ea6f39ee1c335687",
     "addedAt": "2026-11-01T17:23:17.906Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nConsole PlayStation (Ps4 fat) 500 Gb + 3 giochi\nOttime·Sony·Caricato 6 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n6 min fa\nVendo console Sony PlayStation 4 (PS4 versione standard / Fat) colore nero, perfettamente funzionante (come si vede in foto - appena inizializzata per riportarla alle origini)\n• Brand: Sony\n• Modello: PlayStation 4 (PS4 Fat)\n• Colore: Jet Black\n• Incluso nel prezzo: Console Ps4 + cavo d'alimentazione originale + joystick Ps4 (funzionante solo con un gommino rovinato) + 3 giochi (final fantasy XV, fifa 16 e Mad Max)\n• Condizioni: Buone condizioni estetiche e funzionali\n\nSpedizione sicura e ben protetta.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick funzionante solo con un gommino rovinato",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
   },
   {
     "id": "10624675410",
@@ -19500,8 +19505,13 @@
     "url": "https://www.vinted.it/items/10624675410-ps4mando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0221b_uzGYfKLR15MAma14c5gnt9tN/310x430/cd4beb8f.webp?s=ac1069bfde7340011f72a7c098f488be87638024",
     "addedAt": "2026-11-01T17:24:20.087Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4+Mando\nOttime·Sony·Caricato 2 min fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPS4 en perfectas condiciones,con mando incluido y si quieres algunos juegos por algo más de dinero\n512GB\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.05
   },
   {
     "id": "10624690870",
@@ -19513,8 +19523,10 @@
     "url": "https://www.vinted.it/items/10624690870-ps4-prix-negociable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01a26_AhTdot83Tfwm8piVV68XRvDv/310x430/3af985f6.webp?s=ba3f1b189ef185866de2e6ed48588b2b4068a621",
     "addedAt": "2026-11-01T17:25:22.689Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   },
   {
     "id": "10624685136",
@@ -19526,6 +19538,64 @@
     "url": "https://www.vinted.it/items/10624685136-xbox-one-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0134c_AGQmsYoHVEusSwbBqWbp4r2o/310x430/61c5ca06.webp?s=a4c7960e3fe833b196e33497b40955703d0f417f",
     "addedAt": "2026-11-01T17:25:22.689Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.8€, sotto soglia"
+  },
+  {
+    "id": "10624799787",
+    "category": "Console",
+    "title": "PlayStation 4 con joystick",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10624799787-playstation-4-con-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0126d_57x63p7Umkma6yMXYQJGWgSe/310x430/2e86170b.webp?s=ca6da50249bce1e340cbb0f30de55a12cd4d7c2e",
+    "addedAt": "2026-11-01T17:30:35.941Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10624854765",
+    "category": "Console",
+    "title": "C’est un formulaire de PS5",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10624854765-cest-un-formulaire-de-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01fbf_p6Epph3Rf12q1JTbkas6bBA1/310x430/da597f66.webp?s=0fbd174f886521a46a080800b3d38c0ea600fc08",
+    "addedAt": "2026-11-01T17:33:44.104Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-25€, sotto soglia"
+  },
+  {
+    "id": "10624871960",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10624871960-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_007ac_Km3kDd83T6bJWn2jz8Xxj2ad/310x430/59600763.webp?s=58cf488c2670389fd9c7a9bd8276bde80fda5915",
+    "addedAt": "2026-11-01T17:34:46.900Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10624891582",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10624891582-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d54_67oojCj5wKVDZVzamKPtek9y/310x430/274a1860.webp?s=71d037c192ef8c5f0b7441b09984528f41996039",
+    "addedAt": "2026-11-01T17:35:49.309Z",
     "processed": false,
     "triaged": false
   }
