@@ -1,23 +1,5 @@
 [
   {
-    "id": "10564734629",
-    "category": "Console",
-    "title": "PlayStation 4 slim",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10564734629-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02235_KNyMXqNTTbZCwQAC73bBmLzW/310x430/4068cf88.webp?s=9077632c28887efd1cf2d7d91399c0a602b24e71",
-    "addedAt": "2026-10-28T00:20:05.722Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nPlayStation 4 slim\nBuone·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nElle est comme neuve rien à dire , bruit et bug rien du tout\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
     "id": "10564784656",
     "category": "Console",
     "title": "Nintendo switch",
@@ -19495,5 +19477,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~13.4€, sotto soglia"
+  },
+  {
+    "id": "10614386586",
+    "category": "Console",
+    "title": "Lotto 6 Giochi ps4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10614386586-lotto-6-giochi-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01713_sT3ux9LrhozdFKMRCPuoJZ5d/310x430/74aaf1b3.webp?s=debe25ab73538f6f0b5320775e648501344b0116",
+    "addedAt": "2026-11-01T00:24:22.816Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8.2€, sotto soglia"
   }
 ]
