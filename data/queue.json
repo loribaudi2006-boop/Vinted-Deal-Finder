@@ -19638,5 +19638,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10618321521",
+    "category": "Console",
+    "title": "Switch Oled",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 81% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10618321521-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02347_Pq2opc6Y5tL1bChivFK9Jvvy/310x430/ccf2dd3a.webp?s=6a1b36db6ab465287f64b9665450cdb56d73bfde",
+    "addedAt": "2026-11-01T11:48:28.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch Oled\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nSans chargeur avec jeu FC25\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sans chargeur avec jeu FC25 (Senza caricabatterie, con gioco FC25)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 116.8
+  },
+  {
+    "id": "10618462424",
+    "category": "Console",
+    "title": "PS4/noire/console/manette",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10618462424-ps4noireconsolemanette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01787_np5iy7kPBYJsZSAjoReZK5H3/310x430/86818627.webp?s=0bc9ed1b03f06b169b81bcbd37d77ad9ee1c1ed3",
+    "addedAt": "2026-11-01T11:56:49.519Z",
+    "processed": false,
+    "triaged": false
   }
 ]
