@@ -19484,7 +19484,10 @@
     "url": "https://www.vinted.it/items/10614497843-nintendo-switch-met-blauwe-en-rode-joy-cons-goede-staat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_023f0_RH8EhGFojep96qUpMQ4uAaAQ/310x430/8281cef7.webp?s=ef7820c3e0a49c5db87f5ca8456982699d1348f3",
     "addedAt": "2026-11-01T01:02:42.580Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
