@@ -1,21 +1,5 @@
 [
   {
-    "id": "10564977059",
-    "category": "Console",
-    "title": "Livre guide jeu ps4",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10564977059-livre-guide-jeu-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00397_6yQFjWuV1AYXNxcQ4uDgRs23/310x430/915896ee.webp?s=f3885d18e747b6c152c593b8123b936f815f96ef",
-    "addedAt": "2026-10-28T01:06:41.444Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10565274507",
     "category": "Console",
     "title": "Ps4 noir",
@@ -19489,5 +19473,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10614497843",
+    "category": "Console",
+    "title": "Nintendo Switch met blauwe en rode Joy-Cons – Goede staat",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10614497843-nintendo-switch-met-blauwe-en-rode-joy-cons-goede-staat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023f0_RH8EhGFojep96qUpMQ4uAaAQ/310x430/8281cef7.webp?s=ef7820c3e0a49c5db87f5ca8456982699d1348f3",
+    "addedAt": "2026-11-01T01:02:42.580Z",
+    "processed": false,
+    "triaged": false
   }
 ]
