@@ -1,23 +1,5 @@
 [
   {
-    "id": "10564784656",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10564784656-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01290_JKXBezwjyVeHNpRoNzxzHSG2/310x430/521783eb.webp?s=60cebb2f8278c4745ca9d453c8796eb70657c903",
-    "addedAt": "2026-10-28T00:29:24.818Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Sport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nArticoli dell'utente\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nArticoli simili\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n26,00 €\n\n28,00 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nNintendo switch HS\nÉcran bleu quand je allume\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Écran bleu quand je allume (Schermo blu all'accensione, errore tipico di brick/problema hardware)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 62
-  },
-  {
     "id": "10564885628",
     "category": "Console",
     "title": "Xbox one",
@@ -19492,5 +19474,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-8.2€, sotto soglia"
+  },
+  {
+    "id": "10614414047",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10614414047-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008f9_8XsNPVfhahUTZK4GqCHtvEhq/310x430/34fa46ce.webp?s=ff45f77116bb219f82b210f3b11a892feb05ee2c",
+    "addedAt": "2026-11-01T00:33:42.781Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ontenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nConsole en bon état, fonctionne, vendu avec câble mais sans la manette.\n\n\n\n\n\n\n#console #playstation\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza la manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.8
   }
 ]
