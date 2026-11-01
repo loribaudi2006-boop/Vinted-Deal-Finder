@@ -19762,5 +19762,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10629935779",
+    "category": "Console",
+    "title": "Nintendo Switch 2 Joy-Con 2 Handschlaufen – 2 Stück",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10629935779-nintendo-switch-2-joy-con-2-handschlaufen-2-stuck?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a52_6ajAtpCjFXTZjs44jd3B2Nin/310x430/f4133121.webp?s=7664ca38b2ecba6226ad0764348608799b5430b3",
+    "addedAt": "2026-11-01T23:52:32.731Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   }
 ]
