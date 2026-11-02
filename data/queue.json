@@ -1,38 +1,5 @@
 [
   {
-    "id": "10583555566",
-    "category": "Console",
-    "title": "led ps5",
-    "price": 12,
-    "totalPrice": 13.3,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10583555566-led-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b2d_ChzUZPTes9tA8HYqNcHh5CuL/310x430/db108f27.webp?s=54858570bd0938b96f1a4a977aa9f071b2c40ab2",
-    "addedAt": "2026-10-29T14:08:37.754Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.3€, sotto soglia"
-  },
-  {
-    "id": "10583612636",
-    "category": "Console",
-    "title": "Sony PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10583612636-sony-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00090_jrjjPZT6y4UU7mbTndybUZg3/310x430/217b8472.webp?s=26cbeb0209a38ba617887d8fd96687898770c591",
-    "addedAt": "2026-10-29T14:12:46.563Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nSony PlayStation 4\nBuone·Sony·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo Sony PlayStation 4 - White edition\n\nNo accessori\nNo controller\n\nPerfettamente funzionante\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "No accessori, No controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
     "id": "10581811196",
     "category": "Console",
     "title": "Sony PlayStation 4 PS4 500 GB + Headset & Kabel",
@@ -19239,5 +19206,38 @@
     "geminiFault": "leichte Gebrauchsspuren (leggeri segni di usura)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "10635896577",
+    "category": "Console",
+    "title": "PlayStation 4 mit GTA 5",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10635896577-playstation-4-mit-gta-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01fea_vhJKsCFmYM4ipmvy85QxpQf4/310x430/e7b4aaba.webp?s=6e9dff6bc1645701761b82d76e4cd790369212c5",
+    "addedAt": "2026-11-02T14:05:38.052Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
+  },
+  {
+    "id": "10636014768",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10636014768-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_000cc_DeVojzpzG9pK2WcXKTbKRXB7/310x430/d9573f24.webp?s=a5de425968f054b0a5d26b4c2a2bd7260b6809d1",
+    "addedAt": "2026-11-02T14:13:55.982Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one\nBuone·Xbox·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nCon alimentatore e joystick\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.8
   }
 ]
