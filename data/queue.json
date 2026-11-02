@@ -1,20 +1,5 @@
 [
   {
-    "id": "10589795490",
-    "category": "Console",
-    "title": "Ps5 neuf",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10589795490-ps5-neuf?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_019f1_LqYx2gnzrbWrnDthUxiCNDx6/310x430/365b524d.webp?s=140b28e2f3f0df80ecc54b96e369af4b8d22dcc1",
-    "addedAt": "2026-10-29T22:24:36.768Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~250€, sotto soglia"
-  },
-  {
     "id": "10589867666",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19914,5 +19899,66 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.15
+  },
+  {
+    "id": "10643078284",
+    "category": "Console",
+    "title": "PS4 slim rose",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10643078284-ps4-slim-rose?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02361_RA1xeeX4cwjMzgrWGDTAgXXT/310x430/6ea584a0.webp?s=a19ea0a9de8c0770351ec8be33ab9cdf80f7ba07",
+    "addedAt": "2026-11-02T22:25:03.354Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 slim rose\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe vends cette ps4 slim rose peinte pas moi même rien a signaler sur cette console\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console dipinta a mano dal venditore (rose peinte par moi même)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.3
+  },
+  {
+    "id": "10643106114",
+    "category": "Console",
+    "title": "Jeux ps4 à débattre",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10643106114-jeux-ps4-a-debattre?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01468_FcAheDCTqLr8VgCNdBcYJ4NT/310x430/3a27c019.webp?s=055faeb392ca15cbd6b5b5095ba9f70c8f10e541",
+    "addedAt": "2026-11-02T22:29:12.536Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~32.05€, sotto soglia"
+  },
+  {
+    "id": "10643137953",
+    "category": "Console",
+    "title": "Lot ps4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10643137953-lot-ps4-4-manettes-3-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e6d_1Xj9JTZFeZUPAxvBrmH69LB1/310x430/00c239a1.webp?s=cd8b81706e064edd6b00fe9fe2557c6a5e803a28",
+    "addedAt": "2026-11-02T22:32:19.759Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10643154494",
+    "category": "Console",
+    "title": "PS4 slim (bien lire l’annonce)",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10643154494-ps4-slim-bien-lire-lannonce?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0189e_J9CKcQ2wUfgJmbgCqqDnE9KF/310x430/9238d32e.webp?s=a2a1e788b4e3183bc9a942e3f4dd607ac5943e9f",
+    "addedAt": "2026-11-02T22:34:24.489Z",
+    "processed": false,
+    "triaged": false
   }
 ]
