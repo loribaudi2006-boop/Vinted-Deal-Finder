@@ -1,20 +1,5 @@
 [
   {
-    "id": "10583930779",
-    "category": "Console",
-    "title": "Cover / plates per ps5 digital fat originali",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10583930779-cover-plates-per-ps5-digital-fat-originali?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00c5e_rMME2jHM3H7ztjujdexZnqQM/310x430/f26a68e8.webp?s=517937ed7af7e29f4f9a332cd732ff5d37b449b1",
-    "addedAt": "2026-10-29T14:37:40.983Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-28.2€, sotto soglia"
-  },
-  {
     "id": "10584225581",
     "category": "Console",
     "title": "Nitendo switch assecoires",
@@ -19332,5 +19317,31 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~1.8€, sotto soglia"
+  },
+  {
+    "id": "10636486276",
+    "category": "Console",
+    "title": "Boite vide PS5",
+    "price": 6.5,
+    "totalPrice": 7.53,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10636486276-boite-vide-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0185f_Yg4wVSNZoJpPbMSUCrsp4PqU/310x430/cebd0053.webp?s=ec2c306bf1ac3721b0ceb0521bc54d4727c8d076",
+    "addedAt": "2026-11-02T14:45:08.626Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10636485916",
+    "category": "Console",
+    "title": "Chasis Metálico Sup. e Inf. PS4 (PlayStation 4)",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10636485916-chasis-metalico-sup-e-inf-ps4-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01d36_MiSFCb7sxtCncEd8Qhv2mUAG/310x430/bf5ea561.webp?s=c9b1b9f9f22471436c926e46b794bfe3779ab44b",
+    "addedAt": "2026-11-02T14:45:08.627Z",
+    "processed": false,
+    "triaged": false
   }
 ]
