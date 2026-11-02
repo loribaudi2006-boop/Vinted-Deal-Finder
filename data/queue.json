@@ -1,38 +1,5 @@
 [
   {
-    "id": "10590064477",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10590064477-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_017d7_go1KoBRXrwB4ztb1MTs9qFq5/310x430/b147adf8.webp?s=0af0c6a82754560c2b374728ddf92d20ce869403",
-    "addedAt": "2026-10-29T23:05:04.388Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.8€, sotto soglia"
-  },
-  {
-    "id": "10590091797",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10590091797-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01290_JKXBezwjyVeHNpRoNzxzHSG2/310x430/521783eb.webp?s=60cebb2f8278c4745ca9d453c8796eb70657c903",
-    "addedAt": "2026-10-29T23:10:15.603Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n26,00 €\n\n28,00 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch HS\nÉcran bleu quand je allume\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Écran bleu quand je allume",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 72
-  },
-  {
     "id": "10590139231",
     "category": "Console",
     "title": "PlayStation 4 et manette ps5",
