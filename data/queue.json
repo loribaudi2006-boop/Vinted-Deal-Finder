@@ -19802,7 +19802,10 @@
     "url": "https://www.vinted.it/items/10630504804-ps4-1001?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01682_jyxh9H4otyJxoxvYmJFZUrbp/310x430/c27db770.webp?s=6b3953f071fa16e58ea5d41235f8633befc10b11",
     "addedAt": "2026-11-02T01:38:16.500Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
