@@ -1,53 +1,5 @@
 [
   {
-    "id": "10581525959",
-    "category": "Console",
-    "title": "Xbox ONE s 512 gb",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10581525959-xbox-one-s-512-gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b44_NpW4m27Qgy1rB71scHGgeVRD/310x430/dbec4778.webp?s=d3927468c8da0ba2ff53500dd4a433cbb25aad4d",
-    "addedAt": "2026-10-29T11:24:49.744Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
-    "id": "10581552132",
-    "category": "Console",
-    "title": "PlayStation 1 PS1 non funzionante",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10581552132-playstation-1-ps1-non-funzionante-per-ricambi-con-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02330_Cb1Cqz1nKbVc3Jx3tK2cCU4b/310x430/691c1207.webp?s=587eaabe8c0da66afae752aed58ff79e922873ed",
-    "addedAt": "2026-10-29T11:26:54.422Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10.05€, sotto soglia"
-  },
-  {
-    "id": "10581617876",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10581617876-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0195c_ZmaWP9fzyAZMMa4LGkUHmumM/310x430/8a89d6f9.webp?s=b2353f0aaffbce1a5653a0e3b6efd15acaa847f6",
-    "addedAt": "2026-10-29T11:33:07.470Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nplaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nplaystation 4 slim bianca + joystick personalizzato gran turismo e spider-man come gioco\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
     "id": "10581816478",
     "category": "Console",
     "title": "Switch 2",
@@ -19487,8 +19439,10 @@
     "url": "https://www.vinted.it/items/10633714772-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0192b_3S6LHdi4ZgJjYLA4SNgNimSm/310x430/988f1bda.webp?s=82f0374444e0de9dde780bb74e82e9b0c4e4f7cd",
     "addedAt": "2026-11-02T11:22:22.539Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   },
   {
     "id": "10633707017",
@@ -19518,8 +19472,13 @@
     "url": "https://www.vinted.it/items/10633731865-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0021b_Xd369YsgLmHM8KNwqdKwHfKJ/310x430/c802a58c.webp?s=721acbbfa4a07177f3fc23ae07a7cdea2f3e4a98",
     "addedAt": "2026-11-02T11:23:26.929Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n9\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nMuy buen estado\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   },
   {
     "id": "10633729636",
@@ -19531,7 +19490,24 @@
     "url": "https://www.vinted.it/items/10633729636-ps5-slim-a-vendre-prix-en-description-paiement-par-virement-uniquement?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00f9f_gUXfaxPNWT9xZFmNjxY2udbc/310x430/968ebae4.webp?s=fa737def2da891fe044f88b7b028e26a12a5278d",
     "addedAt": "2026-11-02T11:23:26.932Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10633769357",
+    "category": "Console",
+    "title": "Consola XBOX one fat",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10633769357-consola-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_005aa_xQHshK5XrsMPJRLAedc6huz1/310x430/f9198831.webp?s=a616b217cfb26edcb06e441b9d1fff188f82657a",
+    "addedAt": "2026-11-02T11:26:34.255Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.05€, sotto soglia"
   }
 ]
