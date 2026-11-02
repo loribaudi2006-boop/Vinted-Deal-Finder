@@ -1,22 +1,5 @@
 [
   {
-    "id": "10579077996",
-    "category": "Console",
-    "title": "Nitendoswitch lader",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10579077996-nitendoswitch-lader?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b1b_UAi2DQpYdRH55hymHFkmbpKU/310x430/2847a598.webp?s=8bc9d5a5616c08f5a5fba4db2fc319acf90bfeac",
-    "addedAt": "2026-10-29T06:08:48.914Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10579206273",
     "category": "Console",
     "title": "Nintendo switch",
@@ -19770,6 +19753,22 @@
     "url": "https://www.vinted.it/items/10631259854-ps4-bien-entretenue?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02441_Ys3NQqFxPKUEsjLqUSA6BZ14/310x430/0bc8b17d.webp?s=b96b308958a7cd34e18147f3ea3d05e9b9df8ebd",
     "addedAt": "2026-11-02T05:34:05.988Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10628959506",
+    "category": "Console",
+    "title": "Switch avec animal crossing",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10628959506-switch-avec-animal-crossing?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02591_xikcpbeohT1bReTEFFpyZbbU/310x430/beb673d6.webp?s=b62dea0645f30c6d3d6589de853e823114e35e01",
+    "addedAt": "2026-11-02T06:09:20.521Z",
     "processed": false,
     "triaged": false
   }
