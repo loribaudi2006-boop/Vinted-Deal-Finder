@@ -19671,5 +19671,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30.3€, sotto soglia"
+  },
+  {
+    "id": "10631810696",
+    "category": "Console",
+    "title": "PlayStation 4 SLIM",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10631810696-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0112c_priirAVnM4HFrrTPK5S6AptL/310x430/95dc81ee.webp?s=0dfd50d9bc52adf1b98b8fd4554b1b00294f0fb0",
+    "addedAt": "2026-11-02T08:15:57.118Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 SLIM\nBuone·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\n> Vendo PlayStation 4 Slim 500GB nera Jet Black - originale Sony\n>\n> Console originale, funzionante al 100%, lettore difettoso, silenziosa.\n> Piccoli segni di uso sulla scocca (normali), come da foto reali.\n> Solo corpo console, cavi a parte se servono.\n> Formattata e pronta all'uso.\n> Foto reali appena rifatte.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "lettore difettoso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.85
   }
 ]
