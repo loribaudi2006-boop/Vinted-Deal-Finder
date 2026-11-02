@@ -19801,8 +19801,11 @@
     "url": "https://www.vinted.it/items/10631369644-nintendo-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01d8d_zpjXoVuMYEXFNgLZmVZ8SXgk/310x430/6a982dc1.webp?s=7e38c748f3287024d8c98e8d3905c208d2fbbdb5",
     "addedAt": "2026-11-02T06:23:51.550Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10631417369",
@@ -19814,7 +19817,27 @@
     "url": "https://www.vinted.it/items/10631417369-ps4-set?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0070a_F9vLy1QSsuNanws2sAKFsZsA/310x430/3aca1909.webp?s=1aa241d2cd871a18e10cd5eacdc9f3975c2bd001",
     "addedAt": "2026-11-02T06:41:29.410Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10631465608",
+    "category": "Console",
+    "title": "Ps4 Olympique de Marseille",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10631465608-ps4-olympique-de-marseille?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01038_3JauvrVXXK6MHXED59hrwJzD/310x430/e6e192ee.webp?s=b01e4e1f0957ef4bece1a806d82e9272732afdd7",
+    "addedAt": "2026-11-02T06:58:05.123Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 Olympique de Marseille\nOttime·Sony·Caricato 3 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nFaire offres\nFonctionne parfaitement\nVendu comme sur les photos\n📢Envoie uniquement par mondial relais\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 120
   }
 ]
