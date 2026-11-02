@@ -19828,5 +19828,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 190
+  },
+  {
+    "id": "10630210851",
+    "category": "Console",
+    "title": "Caja PS5 (PlayStation 5) Edición Digital",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10630210851-caja-ps5-playstation-5-edicion-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_017bd_ytaHgLSqq5xwayRokbWGnkNE/310x430/40f5c662.webp?s=ad653bcfe549c35f60edf3692552220566eecf0c",
+    "addedAt": "2026-11-02T00:41:15.748Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
