@@ -19328,8 +19328,10 @@
     "url": "https://www.vinted.it/items/10636486276-boite-vide-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0185f_Yg4wVSNZoJpPbMSUCrsp4PqU/310x430/cebd0053.webp?s=ec2c306bf1ac3721b0ceb0521bc54d4727c8d076",
     "addedAt": "2026-11-02T14:45:08.626Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.47€, sotto soglia"
   },
   {
     "id": "10636485916",
@@ -19341,6 +19343,39 @@
     "url": "https://www.vinted.it/items/10636485916-chasis-metalico-sup-e-inf-ps4-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d36_MiSFCb7sxtCncEd8Qhv2mUAG/310x430/bf5ea561.webp?s=c9b1b9f9f22471436c926e46b794bfe3779ab44b",
     "addedAt": "2026-11-02T14:45:08.627Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10636599674",
+    "category": "Console",
+    "title": "Nitendo switch lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10636599674-nitendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0093e_aqxScF9kfJq5o8N4PkwJk3LH/310x430/37eeceee.webp?s=8c0fd76df8f016a7276e822f2ed37fc25de71671",
+    "addedAt": "2026-11-02T14:52:25.965Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n10\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNitendo switch lite\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNitendo switch lite avec chargeur\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
+  },
+  {
+    "id": "10636632738",
+    "category": "Console",
+    "title": "Sony PlayStation 2 Slim Silver – Console con Lettore Difettoso",
+    "price": 27.9,
+    "totalPrice": 30,
+    "reason": "parola chiave: \"difettoso\"",
+    "url": "https://www.vinted.it/items/10636632738-sony-playstation-2-slim-silver-console-con-lettore-difettoso?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016c2_yXc5vx7Wrp6bDm3x2CERpjuk/310x430/2b57d5a3.webp?s=877fa45019f3ffa21653dd56d373e0199ff02bab",
+    "addedAt": "2026-11-02T14:54:32.581Z",
     "processed": false,
     "triaged": false
   }
