@@ -1,38 +1,5 @@
 [
   {
-    "id": "10581025407",
-    "category": "Console",
-    "title": "Switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10581025407-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0224e_NF1AQqLG5BxFHmvm82v5sZVw/310x430/44d23bc9.webp?s=6b8daa563eb71ae6d15870624521bfe1b69916a8",
-    "addedAt": "2026-10-29T10:42:24.630Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nOttime·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nVend switch en très bon état avec son chargeur et sa pochette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 61.05
-  },
-  {
-    "id": "10581040458",
-    "category": "Console",
-    "title": "Console Factice d'exposition / Non fonctionnel / Déco Xbox Series S à l'Échelle 1:1 blanche",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 85% sotto il tipico per Xbox Series S (~200€)",
-    "url": "https://www.vinted.it/items/10581040458-console-factice-dexposition-non-fonctionnel-deco-xbox-series-s-a-lechelle-11-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01733_ZLPqDbk1EwyZFt6SZb6W3Vtr/310x430/07edca7b.webp?s=51df1d073c86b2db2f1845197eca9d4690b87683",
-    "addedAt": "2026-10-29T10:44:28.764Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "10581172256",
     "category": "Console",
     "title": "PS4 slim",
@@ -19437,5 +19404,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10633230825",
+    "category": "Console",
+    "title": "Caja xbox one",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 90% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10633230825-caja-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00a7a_WSBi6qkNk1JoCCAtXhXVWTiz/310x430/c5a4a7e7.webp?s=ec02db06c234ec4d84b2d1a784c0edd19e06ca07",
+    "addedAt": "2026-11-02T10:43:24.690Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
   }
 ]
