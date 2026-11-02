@@ -19671,5 +19671,23 @@
     "geminiFault": "lettore difettoso",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.85
+  },
+  {
+    "id": "10632000739",
+    "category": "Console",
+    "title": "Nintendo switch 1 non funzionante..leggi descrizione",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10632000739-nintendo-switch-1-non-funzionanteleggi-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0173b_4iqekbDmpfcYdjv7HCzN96Tr/310x430/b73996df.webp?s=441c274a764b923d8e20ad78a3ac64164a5af513",
+    "addedAt": "2026-11-02T08:42:54.565Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch 1 non funzionante..leggi descrizione\nDiscrete·Nintendo·Caricato proprio adesso\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nLa console non funziona, ha la scheda madre bruciata e anche lo schermo non accende più, io la usavo esclusivamente collegata alla TV per giocare. Se c è qualcuno interessato x pezzi di ricambio, o nel caso la vogliate sistemare,la vendo per 30€\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Scheda madre bruciata, schermo spento, funzionante solo collegata alla TV (secondo quanto dichiarato dal venditore).",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.8
   }
 ]
