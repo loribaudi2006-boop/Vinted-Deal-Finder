@@ -1,41 +1,5 @@
 [
   {
-    "id": "10589671717",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10589671717-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01a7f_kDZNnUKWFsBbhRkhRnqWTSJc/310x430/b07a48b6.webp?s=b06cad51eb7ec29cdaa856a0c7c3dd9114daca9c",
-    "addedAt": "2026-10-29T22:09:02.810Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nbon état\nPeu utilisé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10589682563",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10589682563-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_014d8_bnT5eJwkc21nwrjqnignP6NY/310x430/953d2d6c.webp?s=c1c60fab45f485e08c903b1d77dec115c341258c",
-    "addedAt": "2026-10-29T22:10:05.015Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 9\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nBon état\npeu utilisé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10589757888",
     "category": "Console",
     "title": "PlayStation 5 live contest",
@@ -19874,8 +19838,10 @@
     "url": "https://www.vinted.it/items/10642877740-nintendo-switch-met-11-spellen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0057f_XxBZoTeSLAygsuEhrVLAiUfT/310x430/0f2d3f80.webp?s=a90a27106591a21893a7b63902a924811133f251",
     "addedAt": "2026-11-02T22:03:10.943Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10642877520",
@@ -19887,7 +19853,45 @@
     "url": "https://www.vinted.it/items/10642877520-ps4-slim-bien-lire-lannonce?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_012a5_YkN9KPsF1aqAcaZ5xmKiLac8/310x430/2add87fa.webp?s=40f2c5fa572d90981a806a3acd00ed2cd80eff71",
     "addedAt": "2026-11-02T22:03:10.943Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 slim (bien lire l’annonce)\nBuone·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nJe vends cette ps4 slim en bonne état\n! Le lecteur cd ne marche pas\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Le lecteur cd ne marche pas",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10640355214",
+    "category": "Console",
+    "title": "Nintendo DSi XL console portatile",
+    "price": 64.99,
+    "totalPrice": 68.94,
+    "reason": "parola chiave: \"rotta\"",
+    "url": "https://www.vinted.it/items/10640355214-nintendo-dsi-xl-console-portatile-porta-di-ricarica-rotta-batteria-che-tiene-la-carica?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0155e_XCogKGSX6nJqF4KdnSK4WH61/310x430/fa64f92b.webp?s=68d2209aed3b835892b9eadf8efd7cc64590772c",
+    "addedAt": "2026-11-02T22:10:27.719Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.94€, sotto soglia"
+  },
+  {
+    "id": "10642973556",
+    "category": "Console",
+    "title": "Je vend ma ps4 tout neuve je l’utilise plus elle et en bonne états elle marche très bien",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10642973556-je-vend-ma-ps4-tout-neuve-je-lutilise-plus-elle-et-en-bonne-etats-elle-marche-tres-bien?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0068a_CCwFTSAX4Uw9btbnWAA7gqBp/310x430/25613b19.webp?s=58e07dffa9ec77330eb230a290734affd992dd12",
+    "addedAt": "2026-11-02T22:13:34.694Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nJe vend ma ps4 tout neuve je l’utilise plus elle et en bonne états elle marche très bien\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nElle marche très bien elle et à vendre sans manette que la ps4\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   }
 ]
