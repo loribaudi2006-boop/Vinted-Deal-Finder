@@ -1,56 +1,5 @@
 [
   {
-    "id": "10580163637",
-    "category": "Console",
-    "title": "Ps4 blanche",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10580163637-ps4-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00b64_u4hYSnfM3M6EwvtxwKMrfqwp/310x430/c32c4c8a.webp?s=b39b88e1226a63cf878eca5fe6ce3ff7441b3eec",
-    "addedAt": "2026-10-29T09:23:43.317Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 blanche\nOttime·Sony·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe revend ma ps4 avec une manette\nLa deuxieme manette a un mauvais contact\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "La seconda manette ha un falso contatto",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 61.55
-  },
-  {
-    "id": "10580182053",
-    "category": "Console",
-    "title": "Deux switch noir et jaune plus d’informations",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10580182053-deux-switch-noir-et-jaune-plus-dinformations-contactez-moi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_005e8_BHsmmpVQNKCrs3ZZF1wvM9LL/310x430/61c30e5a.webp?s=dd94cdf819993cf20839bd15389717c8220a4070",
-    "addedAt": "2026-10-29T09:25:47.408Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-23.7€, sotto soglia"
-  },
-  {
-    "id": "10580225268",
-    "category": "Console",
-    "title": "Switche",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10580225268-switche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0239c_igCJTdGbVvD1N1FgZrkLbnk3/310x430/914931ef.webp?s=702f5c00cace172ea0af39df75c904caffaad741",
-    "addedAt": "2026-10-29T09:29:55.632Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitche\nBuone·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSwitche\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 71.55
-  },
-  {
     "id": "10580245847",
     "category": "Console",
     "title": "PS5 + PS portal + 2 manettes + 1 jeu ( Ne pas achetez l’annonce )",
@@ -19601,7 +19550,9 @@
     "url": "https://www.vinted.it/items/10632312653-consolle-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_005ad_An1Xg5ZuX4fzggLVNcKQEGxH/310x430/a3345f8d.webp?s=948fef4f21003de9e64887ca526de1378c42165e",
     "addedAt": "2026-11-02T09:20:16.933Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
