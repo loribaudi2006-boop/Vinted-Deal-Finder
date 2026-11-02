@@ -1,21 +1,5 @@
 [
   {
-    "id": "10578325470",
-    "category": "Console",
-    "title": "PS4: Manette",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10578325470-ps4-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00bcf_bHLz24YoZLoP3hDb3UrV85dr/310x430/97f05b5c.webp?s=0e699669ead1a397fc868a65d96400c79bf8772c",
-    "addedAt": "2026-10-29T01:26:09.638Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10578451638",
     "category": "Console",
     "title": "Ps4 alles geht",
@@ -19807,5 +19791,31 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10630473240",
+    "category": "Console",
+    "title": "XBOX One + manette + cables",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10630473240-xbox-one-manette-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007cf_f69P8uhkHs5GYzbTJ76AEzmx/310x430/881b9fa7.webp?s=a6de96e24f8afa413b77e9c70937986f13959ddb",
+    "addedAt": "2026-11-02T01:32:03.423Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10630481612",
+    "category": "Console",
+    "title": "XBOX One",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10630481612-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0222f_agQ6xECEbWxGQStYTrwkjxJj/310x430/9f74e873.webp?s=1507f9166bd92be08e7f1c1672db2becb28d9030",
+    "addedAt": "2026-11-02T01:34:07.784Z",
+    "processed": false,
+    "triaged": false
   }
 ]
