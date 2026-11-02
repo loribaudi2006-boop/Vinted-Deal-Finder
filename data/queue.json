@@ -19770,6 +19770,22 @@
     "url": "https://www.vinted.it/items/10631204278-ps4-1to?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02230_PxtMvHsxnCWCjxGzrFncYtud/310x430/d7b735b6.webp?s=c31b0abc0e3557aa67c05ae8fabc71de4f7a4dd4",
     "addedAt": "2026-11-02T05:05:03.253Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10631259854",
+    "category": "Console",
+    "title": "Ps4 bien entretenue",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10631259854-ps4-bien-entretenue?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02441_Ys3NQqFxPKUEsjLqUSA6BZ14/310x430/0bc8b17d.webp?s=b96b308958a7cd34e18147f3ea3d05e9b9df8ebd",
+    "addedAt": "2026-11-02T05:34:05.988Z",
     "processed": false,
     "triaged": false
   }
