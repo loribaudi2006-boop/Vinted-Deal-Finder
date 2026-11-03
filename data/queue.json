@@ -20098,7 +20098,39 @@
     "url": "https://www.vinted.it/items/10656468469-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00736_FJg1NFAoJMhoMTixMfNgggJ8/310x430/f4c62694.webp?s=abd171f1db7baf85a6d0d2ae4209182ac1b09954",
     "addedAt": "2026-11-03T22:27:21.087Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.8€, sotto soglia"
+  },
+  {
+    "id": "10656500427",
+    "category": "Console",
+    "title": "Console Nintendo 64 Vintage (N64) PAL GiG - Solo Macchina (Non Testata)",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10656500427-console-nintendo-64-vintage-n64-pal-gig-solo-macchina-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026d0_WAgC4wtSSGcgNrg1YvBb9Wmg/310x430/da494651.webp?s=daba7174be5cecfe56e8a43c9fed565954253463",
+    "addedAt": "2026-11-03T22:31:27.903Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.05€, sotto soglia"
+  },
+  {
+    "id": "10656510084",
+    "category": "Console",
+    "title": "Alimentation console PS5 slim digital",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10656510084-alimentation-console-ps5-slim-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e9b_VXsbDsCJFV7JMYw58tyyzre7/310x430/a51b8e76.webp?s=434465693677912582daf64684c47ef202163948",
+    "addedAt": "2026-11-03T22:32:30.008Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.15€, sotto soglia"
   }
 ]
