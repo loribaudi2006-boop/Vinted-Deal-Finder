@@ -19816,5 +19816,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10644418568",
+    "category": "Console",
+    "title": "Façade personnalisée pour ps5",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10644418568-facade-personnalisee-pour-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003d4_YS5sibQ9j79nAB6nSwLLnD4t/310x430/6ddbd921.webp?s=45839624eb0ca6707cc5b776eeab87db0067400c",
+    "addedAt": "2026-11-03T02:09:25.801Z",
+    "processed": false,
+    "triaged": false
   }
 ]
