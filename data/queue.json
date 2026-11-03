@@ -19848,5 +19848,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10645452469",
+    "category": "Console",
+    "title": "Bolsa para Nintendo Switch",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10645452469-bolsa-para-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02363_eGuWBMCJPrTdqPaxM83jZ6Cd/310x430/1fbcb829.webp?s=e1de07ea61459b3a4ec489aadc709eff1b220060",
+    "addedAt": "2026-11-03T07:23:50.054Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.3€, sotto soglia"
   }
 ]
