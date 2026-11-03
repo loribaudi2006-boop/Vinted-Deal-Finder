@@ -19905,5 +19905,18 @@
     "geminiFault": "Manca il controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.05
+  },
+  {
+    "id": "10643813386",
+    "category": "Console",
+    "title": "PS5 payement par Vinted",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10643813386-ps5-payement-par-vinted?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00379_dRvQMBC2B9M86gMuJNnMGWf5/310x430/ac85dfb6.webp?s=928097760afa9bcd73078df22e4af980082eadc6",
+    "addedAt": "2026-11-03T00:16:50.031Z",
+    "processed": false,
+    "triaged": false
   }
 ]
