@@ -1,23 +1,5 @@
 [
   {
-    "id": "10591856430",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10591856430-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_024d8_kj2NQdQwXsZ8sgkxcHjCAW2c/310x430/e881032f.webp?s=bfc428d8ba802ec4e19dc811279a5f9335de4714",
-    "addedAt": "2026-10-30T07:58:26.211Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n13\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nBuone·Nintendo·Caricato 4 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\n4 min fa\nSwitch lite bleu\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 67.8
-  },
-  {
     "id": "10591880639",
     "category": "Console",
     "title": "Raffreddamento per PlayStation 5",
@@ -19878,5 +19860,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10645587789",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10645587789-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_002b2_FAVeXuVSQyS48ddUoEJnVptY/310x430/25fc5549.webp?s=0d7e6f38bc3088ba165bb4f476604e9affbfd13a",
+    "addedAt": "2026-11-03T07:51:39.512Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
