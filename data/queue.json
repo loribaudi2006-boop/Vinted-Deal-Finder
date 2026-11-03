@@ -19795,8 +19795,11 @@
     "url": "https://www.vinted.it/items/10645231186-ps4-con-2-joystick?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00707_oweLQnePPeBpuRZwDvtDkStQ/310x430/684ada78.webp?s=321e1db10a4be22fd6c1d84574b00f342ecbf0d6",
     "addedAt": "2026-11-03T06:18:56.912Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10645266214",
@@ -19808,6 +19811,19 @@
     "url": "https://www.vinted.it/items/10645266214-2-x-playstation-5-ladestationen?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a30_fQBANf2zVxu8CbduYkFuykCn/310x430/54e91fe5.webp?s=7f8633b28f9a84cf1a42392ec617076cef720696",
     "addedAt": "2026-11-03T06:31:18.717Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10645347176",
+    "category": "Console",
+    "title": "4 verre trempé Nintendo switch 2",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10645347176-4-verre-trempe-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b23_L2TvNfsH76kqarMUBhg6u1Z6/310x430/3d4b6f89.webp?s=5f9f9ba7594a1d019817ecbe6d2ad59d15cee663",
+    "addedAt": "2026-11-03T06:57:03.472Z",
     "processed": false,
     "triaged": false
   }
