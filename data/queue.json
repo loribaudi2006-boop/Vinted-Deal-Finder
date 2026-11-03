@@ -19779,8 +19779,11 @@
     "url": "https://www.vinted.it/items/10645223720-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_025a8_rXt16vtoUkFJ9vKaSBLiUnSS/310x430/e61c0918.webp?s=ec1f4807b7fc6a6284012f27991e7f28791a16f1",
     "addedAt": "2026-11-03T06:16:53.101Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10645231186",
