@@ -1,21 +1,5 @@
 [
   {
-    "id": "10591455373",
-    "category": "Console",
-    "title": "PlayStation 4 fat",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10591455373-playstation-4-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00ef0_99UBvssbCj2wbJyQgFWbr8tV/310x430/2958cd52.webp?s=20459cf667ce476549c9ae4bc8d9aff7aaaed81c",
-    "addedAt": "2026-10-30T06:07:53.518Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10591604937",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19779,6 +19763,22 @@
     "url": "https://www.vinted.it/items/10645056100-xbox-one-x-1tb-konsole-wireless-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01971_gpeyAfnxvCz1L8vDXLwQ54CQ/310x430/a6fc935f.webp?s=767bd672cb0c42a676ed1a3c807c2a0bac71d6ff",
     "addedAt": "2026-11-03T05:38:43.995Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10645223720",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10645223720-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_025a8_rXt16vtoUkFJ9vKaSBLiUnSS/310x430/e61c0918.webp?s=ec1f4807b7fc6a6284012f27991e7f28791a16f1",
+    "addedAt": "2026-11-03T06:16:53.101Z",
     "processed": false,
     "triaged": false
   }
