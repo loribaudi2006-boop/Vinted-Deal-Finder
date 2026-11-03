@@ -19509,5 +19509,36 @@
     "geminiFault": "Senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10649455539",
+    "category": "Console",
+    "title": "Switch moddabile (contatemi per il prezzo)",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10649455539-switch-moddabile-contatemi-per-il-prezzo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01add_2zDKmgBeeEHwVwKjYr2XGR6P/310x430/25d4f7ed.webp?s=7e8352b95cea89e468a5a8df190decc12e791dfd",
+    "addedAt": "2026-11-03T13:57:21.467Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch moddabile (contatemi per il prezzo)\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n26,00 €\n\n28,00 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nSi vende con jig\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 100
+  },
+  {
+    "id": "10649507701",
+    "category": "Console",
+    "title": "Playstation 4 met games",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10649507701-playstation-4-met-games?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01ae4_E6eYdXAfs8aHDtmTeGoCMMCC/310x430/5e10a953.webp?s=c5bbece743742c7cda98a3794586ac587636f359",
+    "addedAt": "2026-11-03T14:00:27.343Z",
+    "processed": false,
+    "triaged": false
   }
 ]
