@@ -1,20 +1,5 @@
 [
   {
-    "id": "10596526516",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10596526516-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00bfa_3stXDL9gdQTFV3aU9HA37Uc2/310x430/4cff56f3.webp?s=30fd4ca78b2adc7b5b9ff340e051c0728f449c7a",
-    "addedAt": "2026-10-30T15:01:49.579Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-35.2€, sotto soglia"
-  },
-  {
     "id": "10596664619",
     "category": "Console",
     "title": "Ps4 Slim Edition plus 2 games",
@@ -19637,7 +19622,57 @@
     "url": "https://www.vinted.it/items/10650334302-boite-de-la-switch-oled-vide?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01220_Bs61rYe1MMzp3BTaNyZyQgKW/310x430/3816765c.webp?s=f8da16e9efbe2c54924e524d0066a5f326107f22",
     "addedAt": "2026-11-03T15:00:34.398Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "10650358793",
+    "category": "Console",
+    "title": "PS4 Slim 1TB + DualShock 4 + Cavi completi (Formattata / 6 Anni di utilizzo)",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10650358793-ps4-slim-1tb-dualshock-4-cavi-completi-formattata-6-anni-di-utilizzo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00620_avAwhmkxvPSDDruJ3yaPvFcR/310x430/7c270263.webp?s=a995db78cc28505fcbb19fb8b65a5c4e02240081",
+    "addedAt": "2026-11-03T15:02:38.410Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 Slim 1TB + DualShock 4 + Cavi completi (Formattata / 6 Anni di utilizzo)\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nVendo console PlayStation 4 Slim con memoria da 1TB, originale e già completamente formattata/ripristinata alle impostazioni di fabbrica.\n💰 Prezzo: 60€(TRATTABILE)\n🎮 Il pacchetto comprende:\nConsole PS4 Slim 1TB \nController originale DualShock 4 nero \nSet completo di cavi: Alimentazione, HDMI, Cavo LAN Ethernet e cavo USB per la ricarica \nScatola originale FIFA 19 Edition (ATTENZIONE: Il gioco FIFA 19 NON è incluso, vendo solo la console nella sua scatola) \n⚙️ Condizioni dell'usato:\nConsole: Ha circa 6 anni di vita e presenta i normali segni del tempo e dell'utilizzo. Funziona regolarmente, ma tenete conto che è una macchina usata negli anni (potrebbe risultare leggermente più rumorosa sui giochi più pesanti, come è normale che sia). \nController: Funzionante nei comandi, presenta evidenti segni d'usura estetica sulle plastiche e sulle leve analogiche dovuti al tanto utilizzo (visibili in foto). \nScatola: Originale ma usurata sugli angoli/bordi, ottima come protezione rigida per il trasporto.\n📦 Spedizione: Spedisco rapidamente con imballaggio accurato e protettivo!\n💬 Per qualsiasi domanda o chiarimento rispondo volentieri in chat.\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni di usura estetica su console e controller, rumorosa sui giochi pesanti, scatola usurata senza gioco",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10650402547",
+    "category": "Console",
+    "title": "Ps4 medio nueva",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10650402547-ps4-medio-nueva?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_019c8_FztLAkCiPANnPfkSXRUFYzv6/310x430/c0afc6a9.webp?s=fd30e0adf39d05b208619423814d91eb9de0fdfb",
+    "addedAt": "2026-11-03T15:04:42.329Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10650452465",
+    "category": "Console",
+    "title": "Lot accessoires Nintendo Switch : Hori Multiport USB PlayStand + Joy-Con Grip officiel",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10650452465-lot-accessoires-nintendo-switch-hori-multiport-usb-playstand-joy-con-grip-officiel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01344_1yHYwmxVTEucjbFpxXCcFq6N/310x430/ef719842.webp?s=0d7cb7be0861e842ebaafd84250a205f09803d6c",
+    "addedAt": "2026-11-03T15:08:50.405Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
   }
 ]
