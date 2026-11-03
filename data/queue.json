@@ -1,20 +1,5 @@
 [
   {
-    "id": "10592100569",
-    "category": "Console",
-    "title": "Nintendo Switch Halterung",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10592100569-nintendo-switch-halterung?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a68_wAJ5oFqDGnYUwf74dFTEsFcc/310x430/8b870889.webp?s=0bbe30a2893c04e953bb7c46db7be508d9ee0094",
-    "addedAt": "2026-10-30T08:32:34.439Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.2€, sotto soglia"
-  },
-  {
     "id": "10592179480",
     "category": "Console",
     "title": "Nintendo switch oled",
@@ -19878,5 +19863,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-30€, sotto soglia"
+  },
+  {
+    "id": "10645841758",
+    "category": "Console",
+    "title": "PlayStation 4 Sony.",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10645841758-playstation-4-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_006d3_ouPN1LJ7QF6usokmj5kAWmvm/310x430/e892fe81.webp?s=8f4b3025a4ba0c5481893dc1b7a43f09ff01acea",
+    "addedAt": "2026-11-03T08:33:23.176Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4 Sony.\nBuone·Sony·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nTrès bon état de marche.\nPetit bémol aucun fil de branchement.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Nessun cavo di collegamento incluso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.55
   }
 ]
