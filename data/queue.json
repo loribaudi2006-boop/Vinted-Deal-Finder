@@ -1,41 +1,5 @@
 [
   {
-    "id": "10592275838",
-    "category": "Console",
-    "title": "Xbox one s white",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10592275838-xbox-one-s-white?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00131_kGSPQ3FhiumdpfWbNCnURmwo/310x430/9c3835d0.webp?s=3df152cc14cfdf95ae1f60fd57d87f66b7fa2c46",
-    "addedAt": "2026-10-30T08:55:21.966Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one s white\nBuone·Xbox·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandXbox\nPiattaforma\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nXbox one s usata ma funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
-    "id": "10592291027",
-    "category": "Console",
-    "title": "Ps4 Konsole",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10592291027-ps4-konsole?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_009ff_Dtsktg5i2wh8gjzX2QsE5G9X/310x430/539109fc.webp?s=8a6f262ea0c556f21c78198ff0bfb8605fffad6e",
-    "addedAt": "2026-10-30T08:56:24.074Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 Konsole\nBuone·Sony·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPiattaforma\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nZustand gut funktioniert einwandfrei mit 2 kontroller in nicht so gut Zustand\nSpedizione\nda 13,59 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "2 controller in non buone condizioni",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10592484784",
     "category": "Console",
     "title": "Xbox one s all digital",
@@ -19863,5 +19827,23 @@
     "geminiFault": "Ha un problema a mostrare le immagini sulla TV, per il resto si accende e funziona bene",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 61.55
+  },
+  {
+    "id": "10645969432",
+    "category": "Console",
+    "title": "PlayStation 4 Pro con Cavi",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10645969432-playstation-4-pro-con-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01a71_wLxboq5dpVqW3RJsLETARZ55/310x430/6ba6d4b6.webp?s=4572774457ea35b626ad5a5ac89a0c68079c79b0",
+    "addedAt": "2026-11-03T08:49:52.081Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "talogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 Pro con Cavi\nDiscrete·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nHa un problema a mostrare le immagini sulla TV, per il resto si accende e funziona bene\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ha un problema a mostrare le immagini sulla TV, per il resto si accende e funziona bene",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.55
   }
 ]
