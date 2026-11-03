@@ -1,38 +1,5 @@
 [
   {
-    "id": "10592603230",
-    "category": "Console",
-    "title": "Nintendo Switch Lite Replacement Parts",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10592603230-nintendo-switch-lite-replacement-parts?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00a45_TmAPE51qBnnYUXQpEb3PDeyF/310x430/b3762878.webp?s=0d756008896ba596d5d4a7eef6fcfaaf5f3535e3",
-    "addedAt": "2026-10-30T09:31:33.677Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18.55€, sotto soglia"
-  },
-  {
-    "id": "10592606638",
-    "category": "Console",
-    "title": "Nintendo switch 1",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10592606638-nintendo-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02291_MzJLJAzeu65Egze3KkP32q9S/310x430/a5b5db8a.webp?s=ca0ed59f127ae49266378c101eee8b0f049efe07",
-    "addedAt": "2026-10-30T09:36:44.395Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nVenduto\nNintendo switch 1\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPiattaforma\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nHet is een Nintendo Switch 1 met alles erbij wat erbij hoort maar zelfs ook een carry case en 2 sets Joy Cons! De switch werkt top maar op 1 van de 4 controllers doet de know L1 het niet, zelf nooit last van gehad. Volgens mij is er geen stick drift. Er mag geboden worden!\n... altro\nSpedizione\nda 5,19 €",
-    "geminiFault": "Il tasto L1 non funziona su uno dei 4 controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10592678765",
     "category": "Console",
     "title": "PS4 Slim",
@@ -19821,5 +19788,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10646330940",
+    "category": "Console",
+    "title": "Console xbox one",
+    "price": 24,
+    "totalPrice": 25.9,
+    "reason": "prezzo 76% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10646330940-console-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0265a_8W1TSr838Sjqypg7xLQr76V7/310x430/0f4f8da7.webp?s=e1dcf5e1077589bc36d0898c2e7b0e19971b18f3",
+    "addedAt": "2026-11-03T09:31:06.629Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nConsole xbox one\nBuone·Nintendo·Caricato un minuto fa\n\n24,00 €\n\n25,90 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nFonctionne , il n y a pas de cable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Fonctionne , il n y a pas de cable",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.1
+  },
+  {
+    "id": "10646326027",
+    "category": "Console",
+    "title": "Sac à dos switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10646326027-sac-a-dos-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_018b2_kp1t2mSCmmh2Av3mSWw9eqQu/310x430/b89de707.webp?s=6f3099301061000511ae6151e8a52fcbc993fa1b",
+    "addedAt": "2026-11-03T09:31:06.629Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.55€, sotto soglia"
   }
 ]
