@@ -1,20 +1,5 @@
 [
   {
-    "id": "10592004655",
-    "category": "Console",
-    "title": "Ventola di raffreddamento per ps5 a LED",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10592004655-ventola-di-raffreddamento-per-ps5-a-led?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01072_VrHBfas78MjGc2nJMv2LL5qD/310x430/2d4989cb.webp?s=439c210c43a4c65013d0f0578406190bcf5ce7de",
-    "addedAt": "2026-10-30T08:19:07.722Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-30€, sotto soglia"
-  },
-  {
     "id": "10592100569",
     "category": "Console",
     "title": "Nintendo Switch Halterung",
@@ -19842,5 +19827,56 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10645751829",
+    "category": "Console",
+    "title": "PS4 + controle.",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10645751829-ps4-controle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_003d0_4jzf4QBVDCZz4MUxomGpnEUK/310x430/2a207373.webp?s=0a8231ccf40de7a903be25f7f475fb3912ac4090",
+    "addedAt": "2026-11-03T08:19:56.040Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 + controle.\nBuone·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPS4\nWerk goed zonder geluid\nMet cd.\n45 euro.\n+Bakje.\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Werk goed zonder geluid (Funziona bene senza audio)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10645744532",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10645744532-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00d8b_FsGns3EsigRErFWtwEFGhunT/310x430/ba9363af.webp?s=6507252e9fb7e9f56befa0494050d86038d7d047",
+    "addedAt": "2026-11-03T08:19:56.040Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo PlayStation 4 senza cavi la\nConsole è stata testa funziona perfettamente a solo un difetto il lettore dischi prende i dischi lentamente e avvolte il disco rimane all’interno e non vuole uscire la console a bisogno di una pulizia internamente\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore dischi lento a prendere i dischi e a volte si blocca all'interno, necessita pulizia interna, senza cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10645806032",
+    "category": "Console",
+    "title": "Caja ps4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10645806032-caja-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_016b5_UMLE4JMXN4gMYjYQVbeJGUdg/310x430/03ad3615.webp?s=41d19ffff260ea5111fe3629f59aba5bbe7114d1",
+    "addedAt": "2026-11-03T08:27:09.747Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-30€, sotto soglia"
   }
 ]
