@@ -19863,5 +19863,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-3.3€, sotto soglia"
+  },
+  {
+    "id": "10645532005",
+    "category": "Console",
+    "title": "Volant + Pédalier Mariokart pour Switch",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10645532005-volant-pedalier-mariokart-pour-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025f9_KnPkB535g2PFQhHagHCRnxbF/310x430/361bddd3.webp?s=83b2ff990a385beac669697427705b59bf1617b0",
+    "addedAt": "2026-11-03T07:41:21.440Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
