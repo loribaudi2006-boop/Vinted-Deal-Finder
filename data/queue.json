@@ -19811,7 +19811,10 @@
     "url": "https://www.vinted.it/items/10644418568-facade-personnalisee-pour-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_003d4_YS5sibQ9j79nAB6nSwLLnD4t/310x430/6ddbd921.webp?s=45839624eb0ca6707cc5b776eeab87db0067400c",
     "addedAt": "2026-11-03T02:09:25.801Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
