@@ -20132,5 +20132,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.15€, sotto soglia"
+  },
+  {
+    "id": "10656618570",
+    "category": "Console",
+    "title": "Switch lite et 2 jeux",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10656618570-switch-lite-et-2-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0196d_sBKDyVYW1tDqM2BoXSNUZ8uP/310x430/48082e3a.webp?s=38c0753d3aaedfb359c6806dbdbd9a45b3507e55",
+    "addedAt": "2026-11-03T22:45:52.691Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
