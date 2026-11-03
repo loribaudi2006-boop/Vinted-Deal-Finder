@@ -1,20 +1,5 @@
 [
   {
-    "id": "10592853406",
-    "category": "Console",
-    "title": "Switch lite grise très bon état",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10592853406-switch-lite-grise-tres-bon-etat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00262_gXGW7NboQnXZPk6gjk7tKX6u/310x430/38941ea7.webp?s=c47b014bab57347c3d3031149c7fae4a3d9503bb",
-    "addedAt": "2026-10-30T09:56:24.093Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~36.3€, sotto soglia"
-  },
-  {
     "id": "10592897284",
     "category": "Console",
     "title": "Mando dualschock ps4 Fortnite",
@@ -19791,5 +19776,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10646575997",
+    "category": "Console",
+    "title": "Ps5 scattola vuota",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10646575997-ps5-scattola-vuota?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d89_QEq4pPenFxemgtdY8dr9pEiB/310x430/8a9d9adc.webp?s=db0ed65c6e85f9f5c05fae0037197cd69f044723",
+    "addedAt": "2026-11-03T09:55:53.669Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
   }
 ]
