@@ -1,41 +1,5 @@
 [
   {
-    "id": "10601896964",
-    "category": "Console",
-    "title": "Jeux Switch",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10601896964-jeux-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0026c_pFTV942fu9sof6nQWWa91gq3/310x430/e0254ef9.webp?s=2967e69780ed552b3d156ced75691974051ec83d",
-    "addedAt": "2026-10-30T23:21:11.906Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nJeux Switch\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n10,00 €\n\n11,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nLot de 4 jeux Nintendo Switch – à partir de 10 €\nJe vends mes jeux Nintendo Switch, au choix ou en lot :\n🎮 Luigi's Mansion 3 – 20 €\n🎮 The Legend of Zelda : Breath of the Wild – 30 €\n🎮 1-2-Switch – 15 €\n🎮 Mario + Rabbids Kingdom Battle – 10 €\n💡 Prix dégressif si tu prends plusieurs jeux, n'hésite pas à me proposer un lot.\n🕹️ Je vends aussi ma Nintendo Switch OLED, avec sa sacoche et son chargeur (dock non inclus), à 200 €. Package console + jeux possible avec un prix à négocier : écris-moi pour en discuter.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 43.8
-  },
-  {
-    "id": "10601927601",
-    "category": "Console",
-    "title": "Nintendo Switch Lite (Grey) - with Case",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10601927601-nintendo-switch-lite-grey-with-case?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01f9b_vnUBP4diL3mvovyd4SrBMBE7/310x430/0dd1db88.webp?s=9d8f5297bfb1cc15ef7732e289e1d0b399c1d776",
-    "addedAt": "2026-10-30T23:27:26.452Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Lite (Grey) - with Case\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo Switch Lite in grey. Fully working console.\nComes with a black hard carrying case and cute thumb grips.\nPlease note: there are two visible cracks/scratches on the screen from being dropped (see photos). The screen and touch function still work perfectly.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Two visible cracks/scratches on the screen from being dropped, fully working otherwise",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10601941829",
     "category": "Console",
     "title": "Carcasa PS5 color negro",
@@ -20159,5 +20123,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 190
+  },
+  {
+    "id": "10656851186",
+    "category": "Console",
+    "title": "Socle Ps5 slim sans lecteur cd",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10656851186-socle-ps5-slim-sans-lecteur-cd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01904_ZVH1ptSD31qrRUwq9XDoW1yR/310x430/748c36f0.webp?s=caaab4a7365a0bae921d6d881e1145e785e8bed5",
+    "addedAt": "2026-11-03T23:19:49.355Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6.55€, sotto soglia"
   }
 ]
