@@ -20069,5 +20069,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~14.4€, sotto soglia"
+  },
+  {
+    "id": "10657393743",
+    "category": "Console",
+    "title": "Xbox one 500gb",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10657393743-xbox-one-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f53_qs9N7J5TUeYKAVkHMYs1GFkG/310x430/a1438936.webp?s=d68b3ec9cf261e78e49e06e4468796377bd078b1",
+    "addedAt": "2026-11-04T00:55:46.300Z",
+    "processed": false,
+    "triaged": false
   }
 ]
