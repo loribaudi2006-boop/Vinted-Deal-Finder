@@ -1,20 +1,5 @@
 [
   {
-    "id": "10613210439",
-    "category": "Console",
-    "title": "Magazine promotionnel Switch 2",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10613210439-magazine-promotionnel-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00efe_5Qj7J9117XMpsMXYoiyE4zcd/310x430/8215d8b5.webp?s=a255b5e31c42870fe4b5f0d33da19c23ae1d6d8a",
-    "addedAt": "2026-10-31T20:50:34.606Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8€, sotto soglia"
-  },
-  {
     "id": "10613293411",
     "category": "Console",
     "title": "PS4 500 gb mit controller",
@@ -20179,5 +20164,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "10668906469",
+    "category": "Console",
+    "title": "Switch Light Hülle plus Minecraft Dungeons",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10668906469-switch-light-hulle-plus-minecraft-dungeons?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00956_hpgzZ6oGrtTwTizy6UTwoMSR/310x430/cdb53564.webp?s=81b8c217362f364c85d21d86daf18f309670f318",
+    "addedAt": "2026-11-04T20:54:26.024Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.05€, sotto soglia"
+  },
+  {
+    "id": "10668918150",
+    "category": "Console",
+    "title": "Playstation 4 slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10668918150-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c9d_t7kEFFJEceV9coueScRKPouy/310x430/2c19c57f.webp?s=93084ed346cdcd1adae9b169defb05292da8727d",
+    "addedAt": "2026-11-04T20:56:29.864Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 slim\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 slim solo cavo alimentazione senza hdmi con modalita provvisoria da aggiornare con usb perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "modalita provvisoria da aggiornare con usb, senza cavo hdmi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
