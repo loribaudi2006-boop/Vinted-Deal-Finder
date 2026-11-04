@@ -1,23 +1,5 @@
 [
   {
-    "id": "10611150570",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10611150570-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0139d_63Tkd2VgrgdEpar8Za2LjWTx/310x430/973890ed.webp?s=aa255626cdd375bc774497c1d5f14eb9c10de89a",
-    "addedAt": "2026-10-31T17:41:47.574Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nC est une Switch Lite. Je souhaite la vendre car pour mon anniversaire on m'a offert la switch 2, je ne joue donc plus avec mon ancienne. Il y a avec, la boite d origine, le chargeur d origine, le jeux Splatoon 3 et pour finir une pochette afin dr proteger les produits citaient précédement.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.05
-  },
-  {
     "id": "10611248392",
     "category": "Console",
     "title": "Vend ps5 (lire description)",
@@ -19684,5 +19666,35 @@
     "geminiFault": "manca la manette (controller)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 51.55
+  },
+  {
+    "id": "10666141825",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10666141825-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d2f_uAXkfKwePMUdDuf5erYn6Zh6/310x430/ad5371c6.webp?s=6fadaf4157ca8c973ea9782ce3b7ae37f153e73f",
+    "addedAt": "2026-11-04T17:40:30.831Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.8€, sotto soglia"
+  },
+  {
+    "id": "10666198214",
+    "category": "Console",
+    "title": "Scocca lettore disco ps5",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10666198214-scocca-lettore-disco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0083a_CJSeSf4eDqs7Wz39ghV2eomg/310x430/a0d68503.webp?s=9f8387433db98518ee90a7b4723fec4b4b44339d",
+    "addedAt": "2026-11-04T17:44:38.107Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~14.9€, sotto soglia"
   }
 ]
