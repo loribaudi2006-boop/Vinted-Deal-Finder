@@ -1,38 +1,5 @@
 [
   {
-    "id": "10612377633",
-    "category": "Console",
-    "title": "nintendo switch bleu",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10612377633-nintendo-switch-bleu?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0118e_RJnCBJgGAtJFB8Ej8NCW932q/310x430/f70b6280.webp?s=e56b9091192c2aa420fbf2767ec1c3d01991c5b0",
-    "addedAt": "2026-10-31T21:08:13.093Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch bleu\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nnintendo switch bleu\nsans chargeur\nsans boîte\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Mancano caricabatterie e scatola",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.3
-  },
-  {
-    "id": "10613376599",
-    "category": "Console",
-    "title": "Ps4 normale",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10613376599-ps4-normale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_000fd_CfAfTTgEz754XFtpcusDtQHG/310x430/e06dd03e.webp?s=9331eecabf5aad5d594014c6d69e7f5830b40e42",
-    "addedAt": "2026-10-31T21:10:17.591Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10613656606",
     "category": "Console",
     "title": "Nintendo switch",
@@ -20212,5 +20179,36 @@
     "geminiFault": "Presenza di rayures (graffi) sullo schermo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10669186930",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10669186930-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025a1_ZjJK9Pz7PCZqwWtMcFTDcqJd/310x430/26a2edb9.webp?s=9dd030b3a77ddbfb6b78679fd8f0d1a5e99ec147",
+    "addedAt": "2026-11-04T21:17:06.833Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4\nNuovo senza cartellino·Sony·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nJe vend ma console Playstation 4\nVendu avec câble d'alimentation\n1 manette\n10€ de plus pour un compte avec plein de jeux (venir me demande pour avoir la liste des jeux)\nEnvoie rapide et soignée\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10669189476",
+    "category": "Console",
+    "title": "PS4 Slim inkl. Zubehör",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10669189476-ps4-slim-inkl-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_015e7_2ke1UU9EdAoFkMk3o35s1ZXo/310x430/3e1d063d.webp?s=595130ef5d1a1d5f8d78a92680e92a47bd4c9127",
+    "addedAt": "2026-11-04T21:18:09.010Z",
+    "processed": false,
+    "triaged": false
   }
 ]
