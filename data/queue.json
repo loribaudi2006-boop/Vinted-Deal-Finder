@@ -20284,5 +20284,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10651629266",
+    "category": "Console",
+    "title": "Tarjeta MicroSd 256gb Nintendo Switch (Pikachu)",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 80% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10651629266-tarjeta-microsd-256gb-nintendo-switch-pikachu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008dc_kkaguXG37NF9SfREM3USuU9e/310x430/b72d2dd6.webp?s=5966e3bb79edca20e3b8adce3dd96bb177b8adab",
+    "addedAt": "2026-11-04T08:46:59.389Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15.6€, sotto soglia"
   }
 ]
