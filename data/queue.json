@@ -20094,5 +20094,31 @@
     "addedAt": "2026-11-04T06:45:21.552Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10658638254",
+    "category": "Console",
+    "title": "Astro HDMI-Adapter PS5",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10658638254-astro-hdmi-adapter-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_024d5_YRQxa966JNJAWbKg5DZk5qwc/310x430/3b248ca4.webp?s=132803565a18544fc61244576a8971c06fa57b0c",
+    "addedAt": "2026-11-04T06:46:23.796Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10658645743",
+    "category": "Console",
+    "title": "Console switch Nintendo",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10658645743-console-switch-nintendo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a02_EqbEXSrqfAxswn6krH3nonzH/310x430/8afc21c2.webp?s=2bf5a697945f08db5231de00dd6a4c040f41b1c8",
+    "addedAt": "2026-11-04T06:48:28.041Z",
+    "processed": false,
+    "triaged": false
   }
 ]
