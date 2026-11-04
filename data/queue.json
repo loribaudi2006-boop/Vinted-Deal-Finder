@@ -20063,6 +20063,35 @@
     "url": "https://www.vinted.it/items/10658503929-nintendo-switch-lite-drift?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_009e4_CTw4L5T4PbmC2UzcQofQGxgL/310x430/c3183c28.webp?s=1759a6a35028f0fbc78c2cceb0d7b257a29a93b8",
     "addedAt": "2026-11-04T06:01:49.377Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10658557843",
+    "category": "Console",
+    "title": "Nintendo Switch en perfecto estado",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10658557843-nintendo-switch-en-perfecto-estado?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01227_CPx48iyH7S5weCxNGtE4MK19/310x430/7f088c69.webp?s=84623556ba1e8e8914ec49d76eaeca15dfbd6e1a",
+    "addedAt": "2026-11-04T06:36:02.133Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10658631704",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10658631704-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_008ae_zo89CduVJhY7EdeLLMGV8743/310x430/09a7cab5.webp?s=41a1b45d297e7bd3e6d13515b79bd71addf01a25",
+    "addedAt": "2026-11-04T06:45:21.552Z",
     "processed": false,
     "triaged": false
   }
