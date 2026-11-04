@@ -20095,7 +20095,10 @@
     "url": "https://www.vinted.it/items/10658099979-vendo-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01d1f_yyLpvVHQhbgZi2NnXTPYN3nD/310x430/0d0978c1.webp?s=a342765249c2ba0f3bfc260978be8f0523735fd1",
     "addedAt": "2026-11-04T03:27:18.110Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
