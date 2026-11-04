@@ -1,20 +1,5 @@
 [
   {
-    "id": "10599030083",
-    "category": "Console",
-    "title": "Écran de protection Nintendo switch lite",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10599030083-ecran-de-protection-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_008a8_aomQwnLYNhmcyhLFaA5Ne97j/310x430/f061c22a.webp?s=b714d4d4244cabe1b373dae0f3329a0a6d80b1fb",
-    "addedAt": "2026-10-31T08:29:09.134Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3.2€, sotto soglia"
-  },
-  {
     "id": "10604031207",
     "category": "Console",
     "title": "Ps4 blanche",
@@ -20218,5 +20203,53 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10659114163",
+    "category": "Console",
+    "title": "Jeu Nintendo Switch Mario Party",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10659114163-jeu-nintendo-switch-mario-party?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b33_jCcNqbZZaXq9BZqisqHVGH5n/310x430/bcdd0599.webp?s=40f72744072ebdb8f846e97ffa2e4cce1bc70d49",
+    "addedAt": "2026-11-04T08:27:15.746Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.3€, sotto soglia"
+  },
+  {
+    "id": "10659165633",
+    "category": "Console",
+    "title": "Ps4 classique",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10659165633-ps4-classique-testee-et-parfaitement-fonctionnelle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02350_gkhrTxZHRDLbPRD6i6TVSSSu/310x430/30a43fa3.webp?s=1d9907de97ecb4006799a73b46355bdc7a26baf9",
+    "addedAt": "2026-11-04T08:29:20.342Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "| Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 classique , testée et parfaitement fonctionnelle\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nConsole Sony PlayStation 4 PS4 – Fonctionnelle – Vendue seule\n\nBonjour,\n\nJe vends une console Sony PlayStation 4 (PS4) classique, testée et parfaitement fonctionnelle.\n\n🎮 Console vendue seule :\n\n* Sans manette\n* Sans câble HDMI\n* Sans câble d’alimentation\n* Sans aucun autre accessoire\n\nLa console a été testée et fonctionne correctement.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console venduta sola, senza manette, cavi o accessori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
+  },
+  {
+    "id": "10659188221",
+    "category": "Console",
+    "title": "Juego switch 2 bobo sponja",
+    "price": 32,
+    "totalPrice": 34.3,
+    "reason": "prezzo 83% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10659188221-juego-switch-2-bobo-sponja?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f49_kJe1wtoMnRY7TYSkzzcJAFNo/310x430/8092f924.webp?s=25824005a04aaa420ee2c389b314de4e3cdf4645",
+    "addedAt": "2026-11-04T08:32:27.244Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.3€, sotto soglia"
   }
 ]
