@@ -1,20 +1,5 @@
 [
   {
-    "id": "10609623192",
-    "category": "Console",
-    "title": "Coque ps5 slim standard blanche",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10609623192-coque-ps5-slim-standard-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004d3_1oMYEHNrtmmsu74dFypisjYU/310x430/5a26afb9.webp?s=d82d3a7c232bfab6c4fe82d381c6915d2e81cb59",
-    "addedAt": "2026-10-31T15:45:33.657Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5.45€, sotto soglia"
-  },
-  {
     "id": "10609852262",
     "category": "Console",
     "title": "PS4 (leer descripción)",
@@ -19152,7 +19137,7 @@
     "url": "https://www.vinted.it/items/10663707864-carcasas-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0198f_sTupZ1AWgzGeJ7r1ZpsGcEsZ/310x430/3febc289.webp?s=8b50d824a5f700b35b06757b9a3857c4bb4943b2",
     "addedAt": "2026-11-04T15:38:16.962Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "uto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nCarcasas PS5 slim\nNuovo senza cartellino·PlayStation·Caricato un'ora fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\nun'ora fa\nPara Modelo con lector de discos. PS5 30 anniversary\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -19185,7 +19170,7 @@
     "url": "https://www.vinted.it/items/10663777437-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01b64_KCVnB1EbHbm5mgCvbzJ89Nxg/310x430/f47e22d6.webp?s=42583a93a12cdb772fd86a8e4f5ef7ca5422b19d",
     "addedAt": "2026-11-04T15:39:19.713Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleSony Console\nPlaystation 4\nBuone·Sony·Caricato un'ora fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nWorks great no heat no sound\n\nFirmware 13.52 storage 500gb\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -19203,8 +19188,13 @@
     "url": "https://www.vinted.it/items/10663744311-playstation-4-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0267a_T4WG3gHxjmtgwTfGDfiZsbfM/310x430/a0147f87.webp?s=5fac483be119c7eb2be5bc6bea0256c6b6b7faa7",
     "addedAt": "2026-11-04T15:39:19.714Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleSony Console\nPlaystation 4 500gb\nBuone·Sony·Caricato un'ora fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nWorks fine just few point\n\nWonky hdmi\nDisc goed slow inside\n\n500gb starage and firmware 11.02\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Wonky hdmi, Disc goed slow inside, firmware 11.02",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   },
   {
     "id": "10663822764",
@@ -19216,8 +19206,10 @@
     "url": "https://www.vinted.it/items/10663822764-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0209d_Rdsz51KVTso8V9JZug6JKFET/310x430/fe926529.webp?s=fe1fa71d678bf457f6d2bdb0afa71b427f8bebee",
     "addedAt": "2026-11-04T15:40:22.367Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
   },
   {
     "id": "10663822643",
@@ -19229,7 +19221,7 @@
     "url": "https://www.vinted.it/items/10663822643-ps4-blanche-4-jeux-sans-boite-jaunissement-qui-ne-se-voit-pas-au-photo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01676_DVZ77Udo55yQWT6a442vKaNN/310x430/05d6e02b.webp?s=969ae3036a927af10e99016809a83ca5f716204d",
     "addedAt": "2026-11-04T15:40:22.367Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "T\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 15\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 blanche + 4 jeux sans boite 🚨 Jaunissement qui ne se voit pas au photo\nOttime·PlayStation·Caricato 39 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n39 min fa\n🚨Proposez moi des prix 🚨\nTrès bonne etat lis bien les jeux avec 1 manette et 4 jeux attention la console comporte des jaunissement il y a des rayure voir photo\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -19247,8 +19239,10 @@
     "url": "https://www.vinted.it/items/10663820023-playstation-4-crash-game?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_006b6_eeWsgSBVTtVMV8AoMGWuux1Y/310x430/70dd1adf.webp?s=50c1927be6c79924b34ae697c383505aa653f68e",
     "addedAt": "2026-11-04T15:40:22.368Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
   },
   {
     "id": "10663790499",
@@ -19260,8 +19254,10 @@
     "url": "https://www.vinted.it/items/10663790499-xbox-one-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0187a_ivcL9RkZWx8rWbD1rP1QjChW/310x430/ce4d72ef.webp?s=89a6537d9868f6294d1ab48eddb7b8852190afef",
     "addedAt": "2026-11-04T15:40:22.368Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
   },
   {
     "id": "10663924703",
@@ -19273,8 +19269,13 @@
     "url": "https://www.vinted.it/items/10663924703-playstation-4-sony?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01ca5_CVei6cznt5B8PN3dvnCugZkZ/310x430/04a75f4a.webp?s=01357b9050460c4653379c7a2f49fde6b0115487",
     "addedAt": "2026-11-04T15:42:27.385Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlaystation 4 Sony\nOttime·Sony·Caricato 40 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n40 min fa\nPlaystation 4 inclusief spelletjes en oplaadkabel. Geen bediening consoles beschikbaar.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Geen bediening consoles beschikbaar (manca il controller)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   },
   {
     "id": "10664043142",
@@ -19286,8 +19287,10 @@
     "url": "https://www.vinted.it/items/10664043142-boite-rangement-24-jeux-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00bad_3uHmb5zufDYkQfs3jisb7x1a/310x430/b62bcc8f.webp?s=866bf11828054b7965999747815e3ada573f40cd",
     "addedAt": "2026-11-04T15:43:29.789Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.9€, sotto soglia"
   },
   {
     "id": "10664007240",
@@ -19299,8 +19302,10 @@
     "url": "https://www.vinted.it/items/10664007240-support-double-chargeur-pour-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_003d5_8ehtHcpCj99kuaZRvKhfnskE/310x430/003d2ec8.webp?s=439542c9605600274e128792960b4ad9ba6af8e6",
     "addedAt": "2026-11-04T15:43:29.790Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.1€, sotto soglia"
   },
   {
     "id": "10664099403",
@@ -19312,8 +19317,10 @@
     "url": "https://www.vinted.it/items/10664099403-carton-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c88_F1jakjKdsYZvt2Q5pevWsdhU/310x430/4c4786de.webp?s=2d4c14c4e56c941028dcf1725aaea3678c1beb3a",
     "addedAt": "2026-11-04T15:44:32.203Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   },
   {
     "id": "10664050093",
@@ -19325,6 +19332,127 @@
     "url": "https://www.vinted.it/items/10664050093-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0156c_fnDYGQJMPadTMsTqyepA31kF/310x430/d016fa42.webp?s=9000cb320fd3d3a5c7b9cdfb01b25d5e17c228a9",
     "addedAt": "2026-11-04T15:44:32.204Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\n+ 14\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nDiscrete·PlayStation·Caricato 33 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n33 min fa\nOriginal Playstation 4 2013/ Original ps4 2013\n\n‼️ATTENTION: Important buying information at bottom of description‼️\n\nCONSOLE:\n\nThe console has been tested and works well. Plays games, can connect to the internet, can change settings. I have NOT tested the PS store. The console has now been factory reset and has no primary user set, the photos showing games on the console are no longer there. This ps4 was originally purchased in the UK.\n\nThe condition is not great, lots of scratches, marks and dust. I have not checked the inside of the console. Please look at every photo carefully and more can be provided on request :)\n\nCONTROLLER:\n\nThe controller is in okay condition and has stick drift. It is in need of a clean. Other than that, it works and can connect to the console\n\nCABLES:\n\nThe charging cable is fragile and will only charge the controller at certain angles. Hdmi cable works fine and the power plug works fine but it is a UK one, please see photos!!\n\n‼️ATTENTION: Please no buyers with under 10 reviews. No buyers with multiple bad reviews. This console was originally purchased in the UK, consider this before buying.\n\nI will record myself showing the condition of the console and also when packing it. I will take note of its weight before shipping and I will take photos of packing it and send those photos to you with distinct marks on the box, which will then be photographed again at the post office just before posting\n\nAlso note that the tv shown and games in the photos is NOT included in this sale, it is there to show that the console works\n\nPreferred no Vinted Go 🙏‼️\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Condizioni estetiche discrete con graffi, segni e polvere; controller con stick drift e da pulire; cavo di ricarica fragile; spina UK",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.85
+  },
+  {
+    "id": "10664184593",
+    "category": "Console",
+    "title": "PS4 Slim 500GB 2016 con Vari accessori",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10664184593-ps4-slim-500gb-2016-con-vari-accessori?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_010de_Z28QAD9uacQuy6MqfzFrUX12/310x430/32fd6f9b.webp?s=2f392d501477f19032ca2f468d01510a3f17dd42",
+    "addedAt": "2026-11-04T15:46:36.705Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 Slim 500GB 2016 con Vari accessori\nBuone·PlayStation·Caricato 24 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n24 min fa\nDettagli sulle condizioni:\n​Console: Esteticamente non perfetta (presenta graffi o segni di usura sulla scocca), ma il sistema è fluido e non ha problemi di surriscaldamento.\n​Controller Nacon: Incluso, ma segnalo stick drift sull'analogico destro (va riparato o usato per pezzi di ricambio).\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console con graffi sulla scocca; controller Nacon con stick drift sull'analogico destro.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10664259000",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10664259000-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_015e4_FZiFybHRQPDVW1oMYJ6k9Eji/310x430/35912071.webp?s=a0075b2302bc8b03688231f143e8d5f69e1c00d2",
+    "addedAt": "2026-11-04T15:47:39.056Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10664240132",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10664240132-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0251d_6xmr4xF4ueAEhXZuZyZMaXpo/310x430/975eda49.webp?s=72b0901a7bbde276d16caeaf4e2e896b665cf32b",
+    "addedAt": "2026-11-04T15:47:39.056Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10664223199",
+    "category": "Console",
+    "title": "Sega Saturn Modelo 2 with cables ( region unlock Mod + 50/60 Hz switch)",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10664223199-sega-saturn-modelo-2-with-cables-region-unlock-mod-5060-hz-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f8c_qRTR8E1yMNJjC87Hoza8zvtE/310x430/179c763e.webp?s=2a7af7f4c338691cd02de92bbb11c1ed0a18d0e3",
+    "addedAt": "2026-11-04T15:47:39.057Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "i\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsoleSega Console\nSega Saturn Modelo 2 with cables ( region unlock Mod + 50/60 Hz switch)\nOttime·Sega·Caricato 22 min fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandSega\nPlatform\nSega Saturn\nCondizioni\nOttime\nCaricato\n22 min fa\nSega Saturn Model 2 with cables ( region unlock Mod + 50/60 Hz switch)\nThe console is not reading game discs. The optical Lens are weak it feels like it needs some adjustment or needs to be replaced\nThe price is on the low side due to this constraint.\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "The console is not reading game discs. Optical lens are weak, needs adjustment or replacement.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10664401841",
+    "category": "Console",
+    "title": "PS4 Fat",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10664401841-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02180_pBTJPkRUZ7tYnTcdBLUrSAEL/310x430/2f9ae42e.webp?s=c0ad46c9b0cd8023433070dc3b1211e7be67f1fd",
+    "addedAt": "2026-11-04T15:49:44.000Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10664382669",
+    "category": "Console",
+    "title": "Boîte PS5 – Encore utilisable",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10664382669-boite-ps5-encore-utilisable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_022fb_Xj17WDs5GBK91NCPy2RQYUHQ/310x430/3cd4c2f0.webp?s=d5619493fa1cbf5b09c4eb5eebc935d95a9b1ecb",
+    "addedAt": "2026-11-04T15:49:44.000Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10664528664",
+    "category": "Console",
+    "title": "Switch Lite",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10664528664-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_013d9_1FFDHWQVAqnyR82bRxxsTxDH/310x430/a83afe0c.webp?s=0185b689adaa5e6d04ddd94de490d5beb8c65cc9",
+    "addedAt": "2026-11-04T15:52:51.404Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10664547945",
+    "category": "Console",
+    "title": "Sony PS4 - lecteur blu-ray HS - SSD 480GO",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10664547945-sony-ps4-lecteur-blu-ray-hs-ssd-480go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0120a_5KRiwfsgiQ2av4Fc3xAgatiH/310x430/05eaaabb.webp?s=ecfbe7fa7a4b5c8d3d1c301deb8a52a97c5f31f5",
+    "addedAt": "2026-11-04T15:53:53.909Z",
     "processed": false,
     "triaged": false
   }
