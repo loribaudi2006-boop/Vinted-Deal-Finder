@@ -1,20 +1,5 @@
 [
   {
-    "id": "10613049125",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10613049125-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_004d9_YzW2yLaPErCGsx4vsNWUTtLY/310x430/2cab84bd.webp?s=b5b931fa6898bbe5703894a3feb0df659aeac881",
-    "addedAt": "2026-10-31T20:32:56.822Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10613140066",
     "category": "Console",
     "title": "Nintendo switch pour pièce!",
@@ -20161,5 +20146,56 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 87.35
+  },
+  {
+    "id": "10668626332",
+    "category": "Console",
+    "title": "Switch + manette",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10668626332-switch-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01dc4_WfXgUtvYgNg8PWZ2jw7Cr6mr/310x430/399b4023.webp?s=f36f885bcab6cafb18e51da20a565c6d3ed065f9",
+    "addedAt": "2026-11-04T20:33:49.421Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10668644691",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10668644691-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0029a_VKdj7M5sBZHvq45arkeNRTKd/310x430/c2e2830d.webp?s=e925ddace2286df18aa351b1035b5154a498aa24",
+    "addedAt": "2026-11-04T20:34:51.155Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nNormale PlayStation 4 werkt nog normaal alleen een klein beetje schade aan de achterkant maar dat heeft geen invloed op de PlayStation zelf ik doe m weg omdat ik een nieuwe PlayStation heb.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "klein beetje schade aan de achterkant (piccolo danno sul retro che non influisce sul funzionamento)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.8
+  },
+  {
+    "id": "10668679911",
+    "category": "Console",
+    "title": "Nintendo Switch 1",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10668679911-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cec_8bo5zFoc45fWiVXbo1r8FCsU/310x430/8e0b6c7f.webp?s=827b0dd9b8043613d2bc97aef407469e8670f6e7",
+    "addedAt": "2026-11-04T20:36:54.693Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch 1\nOttime·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo Nintendo Switch 1, usata per circa un mese\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80
   }
 ]
