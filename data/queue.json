@@ -1,23 +1,5 @@
 [
   {
-    "id": "10611723641",
-    "category": "Console",
-    "title": "Nintendo switch light jaune",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10611723641-nintendo-switch-light-jaune?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00229_7F25V1DondFZ7BX9B8pF2jfL/310x430/bb96ef40.webp?s=6bbdc9fd3327ea07cdb2cd2da0592bb4721b6502",
-    "addedAt": "2026-10-31T18:27:25.694Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch light jaune\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\navec chargeur, plus jeux Mario kart de luxe tout marche\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10611856884",
     "category": "Console",
     "title": "Ps4 grise+manette ps4+câble ps4",
@@ -19849,5 +19831,33 @@
     "geminiFault": "non official controllers, dusty",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.3
+  },
+  {
+    "id": "10666955733",
+    "category": "Console",
+    "title": "Scatola xbox series x",
+    "price": 4.99,
+    "totalPrice": 5.94,
+    "reason": "prezzo 99% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/10666955733-scatola-xbox-series-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01221_ng4DBPWwbYYWcUXr96idPiww/310x430/95f83896.webp?s=77877d160028520e288f1be98a7a114b6044eec7",
+    "addedAt": "2026-11-04T18:36:14.441Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10666962359",
+    "category": "Console",
+    "title": "PlayStation 4 Slim+Elden ring",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10666962359-playstation-4-slimelden-ring?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00aee_Y4Z32BT83LqCihB4FTxru9m2/310x430/940ecf18.webp?s=856c4514c1a63616b835181208f507a6316e99c8",
+    "addedAt": "2026-11-04T18:37:16.214Z",
+    "processed": false,
+    "triaged": false
   }
 ]
