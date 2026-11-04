@@ -19954,5 +19954,20 @@
     "geminiFault": "Vendue avec une manette non officielle",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10667949590",
+    "category": "Console",
+    "title": "PS5 camera HD",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10667949590-ps5-camera-hd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_012ae_wC259yrsEqn2v6VsimUJDNXZ/310x430/7cdf311d.webp?s=3b97635cdbb5b7ee82d27c3d85b820f3ca1666e8",
+    "addedAt": "2026-11-04T19:45:19.182Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
   }
 ]
