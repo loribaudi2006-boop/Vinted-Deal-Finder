@@ -20317,5 +20317,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.55€, sotto soglia"
+  },
+  {
+    "id": "10670201061",
+    "category": "Console",
+    "title": "Ps4 tekoop",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10670201061-ps4-tekoop?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e4a_ssJS8fB5ihmRRsqHwUgGKMWP/310x430/c6836157.webp?s=e1fa9b729f5ca55a8f756ca8e7a3ecd6c6020b59",
+    "addedAt": "2026-11-04T23:10:11.637Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 tekoop\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nAlles werkt perfect.\nHeb geen kabels\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Heb geen kabels (manca di cavi)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
   }
 ]
