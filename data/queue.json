@@ -20084,5 +20084,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10658390244",
+    "category": "Console",
+    "title": "Xbox One 500 Go - Console seule avec câbles",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10658390244-xbox-one-500-go-console-seule-avec-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cf1_tjzbamVTvpQXbZ3N2Xw9Krif/310x430/36189e9b.webp?s=ac330b2d6e4698fdd43734fdbd5d9853c13a9286",
+    "addedAt": "2026-11-04T05:13:05.817Z",
+    "processed": false,
+    "triaged": false
   }
 ]
