@@ -20095,7 +20095,10 @@
     "url": "https://www.vinted.it/items/10658209381-rcm-loader-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_011c4_CvrbBDLQxf96Ff5xUzYdYcJQ/310x430/1712e830.webp?s=c3abaf138e6462f12d0069ff57959cb65b3c84bb",
     "addedAt": "2026-11-04T03:59:27.131Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
