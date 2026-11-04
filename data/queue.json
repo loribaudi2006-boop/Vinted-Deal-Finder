@@ -20208,7 +20208,27 @@
     "url": "https://www.vinted.it/items/10669189476-ps4-slim-inkl-zubehor?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_015e7_2ke1UU9EdAoFkMk3o35s1ZXo/310x430/3e1d063d.webp?s=595130ef5d1a1d5f8d78a92680e92a47bd4c9127",
     "addedAt": "2026-11-04T21:18:09.010Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10669206809",
+    "category": "Console",
+    "title": "Nintendo Switch met Joy-Cons en oplader",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669206809-nintendo-switch-met-joy-cons-en-oplader?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_004e9_54CA4bTrXLNfC6418xckiH4i/310x430/64084829.webp?s=e3d13c5eea4228875351bf888710dcef53e8637f",
+    "addedAt": "2026-11-04T21:19:11.250Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "alogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch met Joy-Cons en oplader\nOttime·Nintendo·Caricato proprio adesso\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nTe koop aangeboden: een goed onderhouden Nintendo Switch console met de originele rode en blauwe Joy-Con controllers. De console is in uitstekende staat en werkt perfect. Inclusief de originele oplader. Ideaal voor urenlang speelplezier, zowel thuis als onderweg.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.35
   }
 ]
