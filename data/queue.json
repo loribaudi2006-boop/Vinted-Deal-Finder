@@ -1,20 +1,5 @@
 [
   {
-    "id": "10614210309",
-    "category": "Console",
-    "title": "Carcasas PS5 Edición 30 Aniversario",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10614210309-carcasas-ps5-edicion-30-aniversario?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e97_JC1YNQQvHuhCqmG8QokRZDx8/310x430/683c4a42.webp?s=2a5dc5aba2ee55eeacde1bc9cf7c950d808953de",
-    "addedAt": "2026-10-31T23:33:37.179Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.55€, sotto soglia"
-  },
-  {
     "id": "10614250197",
     "category": "Console",
     "title": "Je vend cette switch HS elle ne charge pas pour 35€",
@@ -20317,5 +20302,23 @@
     "geminiFault": "Heb geen kabels (manca di cavi)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40
+  },
+  {
+    "id": "10670319938",
+    "category": "Console",
+    "title": "Nintendo Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10670319938-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_000ab_zo6JycC6wKB5sUzqFN2rPfKK/310x430/58dd90d8.webp?s=97b54b09e452c8e05216f706e89bb38b07b696ba",
+    "addedAt": "2026-11-04T23:29:54.545Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch lite\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsola em bom estado geral.\nMotivo de venda é a falta de uso.\nFunciona perfeitamente.\nO único detalhe a referir é que o joystick direito está sem a capa de silicone (mas funciona sem problemas).\nPronta a usar!\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick diritto senza la capa di silicone",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
