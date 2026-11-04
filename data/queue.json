@@ -1,38 +1,5 @@
 [
   {
-    "id": "10606063471",
-    "category": "Console",
-    "title": "Switch Sports",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10606063471-switch-sports?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0013d_N34ysAXHYSShrnxNfKcFWqJ6/310x430/025dbf69.webp?s=e498c9f54907ec4a61364b66c61534c4af0993a9",
-    "addedAt": "2026-10-31T11:48:46.502Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10606095568",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10606095568-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_010fb_gLnPTs9MLmiUAkPd7KDS7KNC/310x430/fad4bc6a.webp?s=29743929b4bc51477174db24b2bbd9da8c7e45f4",
-    "addedAt": "2026-10-31T11:50:50.897Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one\nOttime·Xbox·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nVends Xbox One 500 Go, fonctionne très bien.\npetit nettoyage à prévoir pour l’extérieur\nCâble d’origine fourni, avec une manette.\nEnvoi rapide✅\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "esterno da pulire",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.55
-  },
-  {
     "id": "10606171141",
     "category": "Console",
     "title": "Console Sony PSP 1004 FAT (Non testata / Per ricambi o riparazione) + Custodia",
@@ -19734,7 +19701,42 @@
     "url": "https://www.vinted.it/items/10661158252-playstation-4-slim-1tb-speicher?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0099c_NHcTvFRHhfWsRoch7vWCMn7N/310x430/2e5bbf1b.webp?s=2f5a5ab2a89591af371355e98911b141c8f79d11",
     "addedAt": "2026-11-04T11:42:55.726Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10661203622",
+    "category": "Console",
+    "title": "Nintendo Switch original Joy-Con Comfort",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10661203622-nintendo-switch-original-joy-con-comfort?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f68_3vGZEgWAknXbm9g9gEmrj7GM/310x430/b9ca73cd.webp?s=4b14eaa097e09f1d3bde387f68dc6ee0a6ef9152",
+    "addedAt": "2026-11-04T11:46:03.035Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
+  },
+  {
+    "id": "10661268691",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10661268691-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01117_Nzgvy231maCpAqZyfWbsPXHo/310x430/e4df5ac7.webp?s=063428d153bae9212d49b3ecdfb83b2b37ea89f2",
+    "addedAt": "2026-11-04T11:52:18.517Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlaystation 4\nBuone·Sony·Caricato proprio adesso\n\n48,00 €\n\n51,10 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nSony Playstation 4 in goede staat met 2 controllers\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 58.9
   }
 ]
