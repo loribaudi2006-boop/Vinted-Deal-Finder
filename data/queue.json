@@ -20299,5 +20299,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-15.6€, sotto soglia"
+  },
+  {
+    "id": "10659401946",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10659401946-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_007ec_z8SFwm2WSU3MjNoSZdUzY4tn/310x430/692da5eb.webp?s=a6ff6be114a78bc1329f726951065edc15adca47",
+    "addedAt": "2026-11-04T09:00:28.091Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.55€, sotto soglia"
+  },
+  {
+    "id": "10659417702",
+    "category": "Console",
+    "title": "XboX one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10659417702-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00293_tN3NEAdvr1DtKHtMp1vip9jQ/310x430/474fc107.webp?s=3ffa6f75f60b9c8dd535ad15335c37a9048278a2",
+    "addedAt": "2026-11-04T09:02:32.627Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.3€, sotto soglia"
   }
 ]
