@@ -20079,7 +20079,10 @@
     "url": "https://www.vinted.it/items/10657446227-koffer-fur-nintendo-switch-mit-platz-fur-18-spiele?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_02067_eHHELBwTQrpxWLnWmXSRpZV5/310x430/8bf6895d.webp?s=49f485f878f640569b73abf321d114a6e88b2a5a",
     "addedAt": "2026-11-04T01:06:12.066Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
