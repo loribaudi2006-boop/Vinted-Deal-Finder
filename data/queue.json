@@ -1,35 +1,5 @@
 [
   {
-    "id": "10605512452",
-    "category": "Console",
-    "title": "Consolle per pezzi di ricambio",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "parola chiave: \"per pezzi\"",
-    "url": "https://www.vinted.it/items/10605512452-consolle-per-pezzi-di-ricambio?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015a4_TwrFW5FewRz3gZXWapGMectd/310x430/410dc802.webp?s=b77474d89846b225b9ce91ce2db01945ef510f47",
-    "addedAt": "2026-10-31T11:09:18.858Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3.2€, sotto soglia"
-  },
-  {
-    "id": "10605561250",
-    "category": "Console",
-    "title": "Supporti per PS5",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10605561250-supporti-per-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01422_rBHWoYkFHuS3xBgcDEmfaaCM/310x430/b9ce0db0.webp?s=e9ba3edbccd8bc679270710bb335fe2951a9fa84",
-    "addedAt": "2026-10-31T11:12:25.632Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
     "id": "10605648283",
     "category": "Console",
     "title": "Console PlayStation 4 Fat 12.52 Ps4 500GB",
@@ -19930,5 +19900,20 @@
     "geminiFault": "Tasto a sfioramento dell'Eject non funziona, compromette l'uso dei dischi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 72.05
+  },
+  {
+    "id": "10660698184",
+    "category": "Console",
+    "title": "Fourreau Nintendo Switch Mario kart 8",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10660698184-fourreau-nintendo-switch-mario-kart-8?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01b40_zoTPjh5K5EqCftvGd9DHuNWs/310x430/e2b36317.webp?s=b14a15ab510e91f09a9759aa911564a8001a93c5",
+    "addedAt": "2026-11-04T11:03:22.433Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
