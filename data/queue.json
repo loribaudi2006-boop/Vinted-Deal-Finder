@@ -20230,5 +20230,50 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 67.35
+  },
+  {
+    "id": "10669368140",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669368140-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01fb3_LDvosFYMwDJcyyj5NRk6YDnD/310x430/00708a7b.webp?s=4116fc9bc7245be0d0bb7acd0bbdcd491bc2ede7",
+    "addedAt": "2026-11-04T21:33:37.960Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.3€, sotto soglia"
+  },
+  {
+    "id": "10669395618",
+    "category": "Console",
+    "title": "façade ps5 slim",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10669395618-facade-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0221c_cRXxAELhx4qvWFqaUrTJsC8D/310x430/c6380126.webp?s=7efc83b6c26d1ded94b0cd8f9e8d2a4859b869c1",
+    "addedAt": "2026-11-04T21:35:41.643Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.3€, sotto soglia"
+  },
+  {
+    "id": "10669392906",
+    "category": "Console",
+    "title": "Xbox One originale (2013) con alimentatore",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10669392906-xbox-one-originale-2013-con-alimentatore-funzionante-senza-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0223e_55YLVf3CY1obmh1cHoZo8V9r/310x430/a8b67c17.webp?s=8f34e06bc64ed7c6ff73b2e7851a3fd839901518",
+    "addedAt": "2026-11-04T21:35:41.643Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
