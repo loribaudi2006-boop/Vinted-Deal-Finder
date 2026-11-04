@@ -1,20 +1,5 @@
 [
   {
-    "id": "10613859207",
-    "category": "Console",
-    "title": "Lots ps4 + manettes ps5 + jeux",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10613859207-lots-ps4-manettes-ps5-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01da6_hJuY4hvi5iwJVKVB1vgMtuqF/310x430/e176c51c.webp?s=d2f62d4096fc50f229c2a19beb3e643f9ef39492",
-    "addedAt": "2026-10-31T22:18:59.289Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10613934900",
     "category": "Console",
     "title": "PS4 Pro weiß nur Konsole ohne Kabel",
@@ -20284,5 +20269,56 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10669826823",
+    "category": "Console",
+    "title": "Nintendo Switch fonctionnelle",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669826823-nintendo-switch-fonctionnelle-peu-abime?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a62_jFKi4JeQiFFrY3b8QR872u3B/310x430/306dc081.webp?s=72a830cadc6cd04a23488e3e164831ddd6561302",
+    "addedAt": "2026-11-04T22:20:33.536Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch fonctionnelle, peu abîmé\nDiscrete·Nintendo·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nUne Nintendo Switch bien fonctionnelle, peu abîmé sur le haut\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "poco abîmé sur le haut (leggera usura estetica sulla parte superiore)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 82.05
+  },
+  {
+    "id": "10669864161",
+    "category": "Console",
+    "title": "Nintendo Switch with bigger battery capacity v2",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669864161-nintendo-switch-with-bigger-battery-capacity-v2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01b91_rYwBoPgphUDzV4a8An3aaYHk/310x430/df3c1f70.webp?s=5709ac06dd6346348fd7d7925440e4903c556e10",
+    "addedAt": "2026-11-04T22:24:41.228Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch with bigger battery capacity v2\nBuone·Nintendo·Caricato proprio adesso\n\n9,00 €\n\n10,15 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nIn new state. Some scratches on the side of the screen because of the dock, but not on the screen itself. Works flawlessly.\nSpedizione\nda 6,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Scratches on the side of the screen because of the dock",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 129.85
+  },
+  {
+    "id": "10669855763",
+    "category": "Console",
+    "title": "Nintendo Switch RDS Deluxe System Case Hard Travel Carrying Bag Official",
+    "price": 28.95,
+    "totalPrice": 31.1,
+    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669855763-nintendo-switch-rds-deluxe-system-case-hard-travel-carrying-bag-official?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01fae_8KMNQnqcwRy2n5rHSTTxah4g/310x430/0bd3140e.webp?s=2182e2c9959a3bd57f59784c5c89454521f2ee28",
+    "addedAt": "2026-11-04T22:24:41.229Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8.1€, sotto soglia"
   }
 ]
