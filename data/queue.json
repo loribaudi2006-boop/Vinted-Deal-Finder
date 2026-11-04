@@ -1,20 +1,5 @@
 [
   {
-    "id": "10613680013",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10613680013-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_004d9_YzW2yLaPErCGsx4vsNWUTtLY/310x430/2cab84bd.webp?s=b5b931fa6898bbe5703894a3feb0df659aeac881",
-    "addedAt": "2026-10-31T21:50:59.571Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10613735906",
     "category": "Console",
     "title": "Écran nintendo switch",
@@ -20260,5 +20245,56 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 75.3
+  },
+  {
+    "id": "10669535569",
+    "category": "Console",
+    "title": "Xbox One S 1TO en très bon état matériel",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10669535569-xbox-one-s-1to-en-tres-bon-etat-materiel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00409_NQ4oLuLWUdPx4jnfE5HUngKd/310x430/dabe66b9.webp?s=c9e1c1de2ede4996cd87f91c495a4492cde28bc8",
+    "addedAt": "2026-11-04T21:49:05.492Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.8€, sotto soglia"
+  },
+  {
+    "id": "10669555049",
+    "category": "Console",
+    "title": "Nintendo switch 1 console seule",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669555049-nintendo-switch-1-console-seule?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0123c_Zm6BnmR78QjMGDN4gqwaE8ks/310x430/6d788f10.webp?s=020a82b9ca2cab401d919731697cd2ccdca4322e",
+    "addedAt": "2026-11-04T21:51:09.158Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch 1 console seule\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nNintendo switch console seule\nSans accessoires\nConnexion à la TV fonctionnelle\nConnexion joy-Con fonctionnels\nLecteur de carte SD fonctionnel\nLecteur de jeux fonctionnel\nIl manque juste le petit cache en haut\nConsole entièrement testée\nQuelques petites marques sur lecran. Aucun impact sur le fonctionnement.\nEnvoi rapide et soigné.\nGarantie 14 jours contre les éventuels problèmes de fonctionnement.\nD’autres accessoires Nintendo Switch sont disponibles sur mon compte.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il piccolo sportellino superiore, leggeri segni sullo schermo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
+  },
+  {
+    "id": "10669618156",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10669618156-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0152f_wXdmUJncbiSiGeoXqp6Gz3uR/310x430/ae153fb1.webp?s=2540eab1c9df961996aa30d13572eecfd61f3692",
+    "addedAt": "2026-11-04T21:57:22.006Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSwitch\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 70
   }
 ]
