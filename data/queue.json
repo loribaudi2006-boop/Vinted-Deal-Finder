@@ -1,41 +1,5 @@
 [
   {
-    "id": "10602028647",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10602028647-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00ef4_oshpc8vr3BGFV1TVMsEwE4BT/310x430/c6535006.webp?s=997b33a980bfa607e55fa7fbcb44364e64151fc6",
-    "addedAt": "2026-10-30T23:48:15.875Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "uto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nNintendo switch\nTrès bon état quasiment neuf.\nJ’ai encore sa boîte d’origine , ( pour plus de photos n’hésitez pas)\nDes accessoires en plus c’est cadeaux ☺️\nNégociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 138
-  },
-  {
-    "id": "10602166022",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10602166022-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_025dc_fSA8BXqvozMGv6QtzCXNqqdC/310x430/bfc0ac4e.webp?s=1a7f73159b48ff10b7d150262f3d91ba1ca4f253",
-    "addedAt": "2026-10-31T00:20:29.315Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo playstation 4 con un joystick, e con fifa 18 e assasin’s creed origins, Tutto perfettamente funzionante, unico difetto un angolo della play rotto ma i tasti funzionano lo stesso\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "un angolo della play rotto ma i tasti funzionano lo stesso",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
     "id": "10602203790",
     "category": "Console",
     "title": "Nintendo Switch NON funzionante",
@@ -20108,5 +20072,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~6.55€, sotto soglia"
+  },
+  {
+    "id": "10657228867",
+    "category": "Console",
+    "title": "PlayStation PSP-1004 per ricambi",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10657228867-playstation-psp-1004-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022a2_z3i3fYmHPTPJsfnmtg6amvHV/310x430/544ec4dd.webp?s=758f72e4b305cd54c41550b93b4be242162d65dd",
+    "addedAt": "2026-11-04T00:25:41.539Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~14.4€, sotto soglia"
   }
 ]
