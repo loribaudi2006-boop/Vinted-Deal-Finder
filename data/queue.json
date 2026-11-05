@@ -1,23 +1,5 @@
 [
   {
-    "id": "10615347777",
-    "category": "Console",
-    "title": "PS4 sony",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10615347777-ps4-sony?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01c86_6DGmycaorr4f9eJUWu69D3aw/310x430/515feb89.webp?s=8ae3f9170b58e9391b13cec57204bf050b832768",
-    "addedAt": "2026-11-01T07:37:13.641Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 sony\nBuone·Sony·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVends console Playstation 4.\nDans son carton d'origine, sans câble d'alimentation ni câble HDMI.\n3 manettes officielles Sony, la bleue et la grise sont impeccables, les joystick de la noire sont abîmés.\nLa console fonctionne parfaitement, elle a été réinitialisé.\nComme la très grande majorité des PS4 de cette génération, la ventilation a tendance à se faire entendre et la console peut chauffer lors des sessions de jeu intense.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Mancano cavo alimentazione e HDMI, joystick nero con levette rovinate, ventola rumorosa/surriscaldamento sotto sforzo",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10615375255",
     "category": "Console",
     "title": "Socle LED Venom PS5",
@@ -20387,5 +20369,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10672222181",
+    "category": "Console",
+    "title": "Boîte vide Nintendo Switch Mariokart",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10672222181-boite-vide-nintendo-switch-mariokart?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00580_P5HDT7heiadUKs1w6WHH34kM/310x430/50c28fa7.webp?s=111c40404c7280ed45a239241e8ea711d8e844d7",
+    "addedAt": "2026-11-05T07:35:04.817Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10672246428",
+    "category": "Console",
+    "title": "Boîte vide PS5",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10672246428-boite-vide-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0082a_jHocDVKe8fzUBCMwEhGuoxhY/310x430/29b42927.webp?s=19656b05a415366cffcf16a5c1ad256b996f2e4d",
+    "addedAt": "2026-11-05T07:39:13.714Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12€, sotto soglia"
   }
 ]
