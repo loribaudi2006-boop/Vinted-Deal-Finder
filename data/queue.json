@@ -1,20 +1,5 @@
 [
   {
-    "id": "10621284788",
-    "category": "Console",
-    "title": "Xbox one bonne état",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10621284788-xbox-one-bonne-etat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01957_RMNPQvV9b6W79KCrgNUHoNsL/310x430/453916a1.webp?s=e25d0f5b869edeed117d751e777d16bc653c79f4",
-    "addedAt": "2026-11-01T14:35:27.392Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10621343541",
     "category": "Console",
     "title": "Nintendo switch",
@@ -19649,5 +19634,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10676548756",
+    "category": "Console",
+    "title": "Caixa Ps5 (vazia)",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10676548756-caixa-ps5-vazia?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0107d_prhSybb62RRB24BK5k2SDq1z/310x430/021f975c.webp?s=151e3dbe4b035aa07e1b4a854bac07ec1e08e0c3",
+    "addedAt": "2026-11-05T14:33:06.008Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
