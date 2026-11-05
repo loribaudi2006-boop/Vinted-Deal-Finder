@@ -20289,5 +20289,18 @@
     "geminiFault": "Manca il caricabatterie, custodia rovinata con disegni sopra",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10670921266",
+    "category": "Console",
+    "title": "Bloc d'alimentation d'origine Xbox One",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10670921266-bloc-dalimentation-dorigine-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0211f_XCMy52JteUQ6SpMYuF51y4Hu/310x430/a49495bb.webp?s=c5bb4efaeb79de68cd54bdd48d10129aaca5e6b0",
+    "addedAt": "2026-11-05T01:20:59.755Z",
+    "processed": false,
+    "triaged": false
   }
 ]
