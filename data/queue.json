@@ -1,20 +1,5 @@
 [
   {
-    "id": "10615644836",
-    "category": "Console",
-    "title": "Xbox one 500gb",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10615644836-xbox-one-500gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_016fc_jFuTnsC1bDFVnstZJNMmKavY/310x430/75dc2754.webp?s=7e9889d73a7fc2302cf47683ae176f51f63809bc",
-    "addedAt": "2026-11-01T08:28:09.052Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~12.8€, sotto soglia"
-  },
-  {
     "id": "10615767703",
     "category": "Console",
     "title": "PlayStation 4 slim 500gb",
@@ -20486,5 +20471,56 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10672528880",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10672528880-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_008ff_NfvSW94jKs98JVx7jfoxw4Yy/310x430/2d7950fd.webp?s=f6cfbb607111af67c8893c77663bdde31182bb84",
+    "addedAt": "2026-11-05T08:25:56.356Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10672524289",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10672524289-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02282_wirPjQjTTppdwFYx4yn4LgHT/310x430/a4e06cc8.webp?s=a24ecc471791d102af56b4ffc276f3cbcf3bba8d",
+    "addedAt": "2026-11-05T08:25:56.356Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nBuone·Nintendo·Caricato 7 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n7 min fa\nBonjour je vend ma switch lite j’ai mon joystike qui et casser sinon elle marche tres bien j’ai la coque le chargeur la housse pour la ranger je la mais pour le prix de 60€ non négociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick rotto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
+  },
+  {
+    "id": "10672569326",
+    "category": "Console",
+    "title": "Xbox series S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10672569326-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00533_yRL6AC1D4M5CiMB1rd9TLk83/310x430/213d0617.webp?s=67d2fcb8b9b2058033f730f07337f9a6f2394f9f",
+    "addedAt": "2026-11-05T08:32:10.367Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox series S\nOttime·Xbox·Caricato 2 min fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nOttime\nCaricato\n2 min fa\nFunktioniert einwandfrei keine probleme\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
