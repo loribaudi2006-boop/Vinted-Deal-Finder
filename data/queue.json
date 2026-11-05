@@ -1,20 +1,5 @@
 [
   {
-    "id": "10615233187",
-    "category": "Console",
-    "title": "Ventilateur pour ps5",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10615233187-ventilateur-pour-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00d4e_aKJbxzW443rDqgYuYaqhuPEe/310x430/468ab431.webp?s=890defa25f085cac485055a5de1db626c18d910c",
-    "addedAt": "2026-11-01T07:07:40.110Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.55€, sotto soglia"
-  },
-  {
     "id": "10595615568",
     "category": "Console",
     "title": "Playstation 4 Slim Noire Non Fonctionnelle",
@@ -20369,5 +20354,36 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 51.05
+  },
+  {
+    "id": "10672117960",
+    "category": "Console",
+    "title": "Xbox series S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10672117960-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00533_yRL6AC1D4M5CiMB1rd9TLk83/310x430/213d0617.webp?s=67d2fcb8b9b2058033f730f07337f9a6f2394f9f",
+    "addedAt": "2026-11-05T07:10:12.033Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox series S\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nProprio adesso\nFunktioniert einwandfrei keine probleme\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10672126224",
+    "category": "Console",
+    "title": "Support Nintendo switch 2",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10672126224-support-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0196b_XnfkGANFcvS2BdXguXbEY5Qi/310x430/d8d64a50.webp?s=44ddfcb0f2be6e1937f940172a1f097823781e3a",
+    "addedAt": "2026-11-05T07:13:18.179Z",
+    "processed": false,
+    "triaged": false
   }
 ]
