@@ -20332,8 +20332,11 @@
     "url": "https://www.vinted.it/items/10671889210-playstation-4-slimelden-ring?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00aee_Y4Z32BT83LqCihB4FTxru9m2/310x430/940ecf18.webp?s=856c4514c1a63616b835181208f507a6316e99c8",
     "addedAt": "2026-11-05T05:56:38.883Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10671912370",
