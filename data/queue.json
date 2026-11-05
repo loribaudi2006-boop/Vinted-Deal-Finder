@@ -1,35 +1,5 @@
 [
   {
-    "id": "10615886043",
-    "category": "Console",
-    "title": "Caja vacía ps4 slim Star Wars",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10615886043-caja-vacia-ps4-slim-star-wars?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_023f7_sYv9WGxFHDiRJoJ3EjMbQbF8/310x430/8f621a0c.webp?s=412836b6ae0b70ef106a830311cb6077c63950e8",
-    "addedAt": "2026-11-01T08:56:16.876Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.7€, sotto soglia"
-  },
-  {
-    "id": "10615952611",
-    "category": "Console",
-    "title": "Original Nintendo Switch Deluxe Travel Case / Koffer Tasche schwarz wie neu",
-    "price": 14,
-    "totalPrice": 15.4,
-    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10615952611-original-nintendo-switch-deluxe-travel-case-koffer-tasche-schwarz-wie-neu?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00949_xQCmQEcstoz5krCV3ELcvFN3/310x430/d87107a2.webp?s=d5fe71d9fc625a7b8f58e52b985cf72bf9b27576",
-    "addedAt": "2026-11-01T09:03:32.597Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.6€, sotto soglia"
-  },
-  {
     "id": "10615981222",
     "category": "Console",
     "title": "Sacoche de transport Nintendo Switch 2 – Édition collector The Legend of Zelda",
@@ -20471,5 +20441,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10672769657",
+    "category": "Console",
+    "title": "Sony Playstation 4 PS4 Console Nera + Cavo Alimentazione e HDMI - Funzionante",
+    "price": 64.89,
+    "totalPrice": 68.83,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10672769657-sony-playstation-4-ps4-console-nera-cavo-alimentazione-e-hdmi-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_015b1_WaFRo4ctefs6v73GWcaqHGv8/310x430/b6f5a522.webp?s=d30de3740c361a3001a01d2bd20b5c1c95e81702",
+    "addedAt": "2026-11-05T08:58:12.329Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.17€, sotto soglia"
   }
 ]
