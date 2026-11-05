@@ -19528,5 +19528,23 @@
     "geminiFault": "Ne fonctionne pas - pour pièces",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10680607613",
+    "category": "Console",
+    "title": "nintendo switch sans manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10680607613-nintendo-switch-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e08_95etJ1XuwedvfdMhrQu1sbxi/310x430/abc84b47.webp?s=9eca1de887eeb4ed0cec3a01827e0c630b5b548a",
+    "addedAt": "2026-11-05T19:29:25.766Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Iscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch sans manette\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nnégociable\nen bon état\nnégociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano i controller (sans manette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
