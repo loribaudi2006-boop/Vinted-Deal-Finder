@@ -20302,5 +20302,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10670503996",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 46,
+    "totalPrice": 49,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10670503996-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01aa0_zHve4Z8qcptAx2zA1MQNoaTo/310x430/f05d6288.webp?s=5ada5a44dcb7b47ed2db4c7ee75a5c318b562932",
+    "addedAt": "2026-11-05T00:02:05.944Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n46,00 €\n\n49,00 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nHey ich biete meine PS4 mit Stromkabel und einem controller (siehe bilder) an.\nDas Gehäuse der Playstation ist etwas schmutzig denn es waren einige Sticker drauf.\nKann man denke ich wegbekommen eventuell nicht zu 100%\nSie funktioniert ansonsten ganz normal.\nKeine Garantie, Gewährleistung oder Rücknahme da Privatverkauf\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Scocca sporca a causa di residui di adesivi di sticker rimossi, ma funzionante normalmente.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41
+  },
+  {
+    "id": "10670517617",
+    "category": "Console",
+    "title": "Ps5 standard",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10670517617-ps5-standard?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01ab4_wKUgQRhmGXeTbd2tLfiCAF9B/310x430/c4145cee.webp?s=29ccc235eb76615bb544f794484402fee8a1dfd9",
+    "addedAt": "2026-11-05T00:04:10.101Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~340€, sotto soglia"
   }
 ]
