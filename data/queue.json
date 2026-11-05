@@ -1,20 +1,5 @@
 [
   {
-    "id": "10615375255",
-    "category": "Console",
-    "title": "Socle LED Venom PS5",
-    "price": 12,
-    "totalPrice": 13.3,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10615375255-socle-led-venom-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01343_P1adbMiBrjyHLztfUy3EbkmZ/310x430/11f76abb.webp?s=45f86612e5d9cee442723bedcec26db9afd2088e",
-    "addedAt": "2026-11-01T07:43:27.640Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-0.3€, sotto soglia"
-  },
-  {
     "id": "10615431652",
     "category": "Console",
     "title": "console Nintendo Game Boy Pocket funzionante con problema al display mgb-001",
@@ -20399,5 +20384,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-12€, sotto soglia"
+  },
+  {
+    "id": "10672313146",
+    "category": "Console",
+    "title": "Xbox series S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10672313146-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00533_yRL6AC1D4M5CiMB1rd9TLk83/310x430/213d0617.webp?s=67d2fcb8b9b2058033f730f07337f9a6f2394f9f",
+    "addedAt": "2026-11-05T07:51:40.817Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox series S\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nProprio adesso\nFunktioniert einwandfrei keine probleme\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
