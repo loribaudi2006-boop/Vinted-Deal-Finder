@@ -19350,7 +19350,7 @@
     "url": "https://www.vinted.it/items/10677646892-lot-switch-animal-crossing-barre-de-son?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00002_2rs9QhvyaJSRYf783r7EPTCk/310x430/1596b4a9.webp?s=edc4a1d10c41127bcbb6aa384c29d8a7d0a5783f",
     "addedAt": "2026-11-05T15:52:15.676Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nlot switch animal crossing + barre de son\nDiscrete·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\npour la barre de son a vous de mettre les fils,prix pas negociable\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -19383,7 +19383,42 @@
     "url": "https://www.vinted.it/items/10673247801-playstation-2-fat-nera-scph-30004-pal-non-legge-i-dischi-per-ricambi-o-riparazione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01012_gooQLg7ztDBZwpQ1KTHHbGcV/310x430/69bae160.webp?s=e2456310054eadc5158631d574b4b5b5afba0cdc",
     "addedAt": "2026-11-05T15:55:22.137Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10677774287",
+    "category": "Console",
+    "title": "Jeux switch lot",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10677774287-jeux-switch-lot?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01d87_bLb6c8Yi6JNk9XzLrQYWiWvT/310x430/55d74ef2.webp?s=76101751d79992c362a3a4e1c652423d8bd3c262",
+    "addedAt": "2026-11-05T16:00:32.258Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.8€, sotto soglia"
+  },
+  {
+    "id": "10677778661",
+    "category": "Console",
+    "title": "Nintendo switch et 3 jeux",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10677778661-nintendo-switch-et-3-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ba4_R3LJD78ukuH6wegMJ8iRYXbj/310x430/9ede03a0.webp?s=13427e6ee58c2945f0c8a00caf94961404b2082d",
+    "addedAt": "2026-11-05T16:01:34.188Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "talogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n14\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nNintendo switch et 3 jeux\nOttime·Nintendo Switch·Caricato un minuto fa\n\n64,00 €\n\n67,90 €\nincl. la commissione Vinted\nBrandNintendo Switch\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends ma Nintendo Switch classique, déja utilisée mais en très bon état général.\nLa console est parfaitement fonctionnelle et a été soigneusement conservée.\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.1
   }
 ]
