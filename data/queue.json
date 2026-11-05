@@ -1,23 +1,5 @@
 [
   {
-    "id": "10615505740",
-    "category": "Console",
-    "title": "Ps4 blanche",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10615505740-ps4-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0092c_jktxpoh2YdiTkPp8MXPjYhnd/310x430/50f2769f.webp?s=c7be6acfa18114e3b041467278b57f8e79a7de7c",
-    "addedAt": "2026-11-01T08:07:19.423Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 blanche\nDiscrete·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nEtat satisfaisant\nLecteur CD HS et abimé en haut à gauche (cf photo)\nTestée ✅ fonctionne très bien\nFournis sans câble\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Lecteur CD HS et abimé en haut à gauche",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.55
-  },
-  {
     "id": "10615644836",
     "category": "Console",
     "title": "Xbox one 500gb",
@@ -20416,8 +20398,10 @@
     "url": "https://www.vinted.it/items/10672361686-ps4-mit-2-controllern?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00e79_UwmSBWX2zoXh9idRh6X55jYW/310x430/be2ecf1a.webp?s=6fa0ff5806d44a2c275fd97a1dd2fbef54db2769",
     "addedAt": "2026-11-05T07:59:57.832Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10672367394",
@@ -20433,5 +20417,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10672390706",
+    "category": "Console",
+    "title": "ps4 + controller e giochi",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10672390706-ps4-controller-e-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_026f0_qLq2qW95XgpCxQTLZ8EyJWX7/310x430/526185c5.webp?s=36a1efb0453fa6af118d5fd04fbcb82471ed99d6",
+    "addedAt": "2026-11-05T08:05:08.139Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10672440075",
+    "category": "Console",
+    "title": "Xbox series S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10672440075-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00533_yRL6AC1D4M5CiMB1rd9TLk83/310x430/213d0617.webp?s=67d2fcb8b9b2058033f730f07337f9a6f2394f9f",
+    "addedAt": "2026-11-05T08:13:27.528Z",
+    "processed": false,
+    "triaged": false
   }
 ]
