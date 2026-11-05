@@ -20284,7 +20284,10 @@
     "url": "https://www.vinted.it/items/10670921266-bloc-dalimentation-dorigine-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0211f_XCMy52JteUQ6SpMYuF51y4Hu/310x430/a49495bb.webp?s=c5bb4efaeb79de68cd54bdd48d10129aaca5e6b0",
     "addedAt": "2026-11-05T01:20:59.755Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
