@@ -1,38 +1,5 @@
 [
   {
-    "id": "10620023021",
-    "category": "Console",
-    "title": "PS4 hs",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10620023021-ps4-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_005af_FXa3QuCo61JQiBdPxMHzqc5A/310x430/9fde14f2.webp?s=592603a801e770a4f6148efadcada91e287aa680",
-    "addedAt": "2026-11-01T13:29:11.277Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 hs\nDiscrete·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nPS4 hs Blanche car elle clignote bleu. Si vous avez des question n’hésitez à me contacter.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Luce blu lampeggiante (Blue Light of Death)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.55
-  },
-  {
-    "id": "10620052208",
-    "category": "Console",
-    "title": "Console Xbox one",
-    "price": 43,
-    "totalPrice": 45.85,
-    "reason": "prezzo 57% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10620052208-console-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0107d_UA8K5LbfkuWdkQtYJNE4pwNP/310x430/09f2507a.webp?s=6b9ade29bd4b6b71d00f0e63a94c1bd74223ebc5",
-    "addedAt": "2026-11-01T13:31:15.430Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~24.15€, sotto soglia"
-  },
-  {
     "id": "10618419870",
     "category": "Console",
     "title": "Sacoche Switch",
@@ -19700,5 +19667,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~1.55€, sotto soglia"
+  },
+  {
+    "id": "10675751939",
+    "category": "Console",
+    "title": "PlayStation 4 Fat 500GB - Funzionante (Da sistemare / Per pezzi di ricambio)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "parola chiave: \"per pezzi\" + prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10675751939-playstation-4-fat-500gb-funzionante-da-sistemare-per-pezzi-di-ricambio?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00dc5_joPhra7W4VWRJ9qoVkxf2rh2/310x430/b924f605.webp?s=f40a6ea64ddb35bb670ed41df5bf3968e43061d5",
+    "addedAt": "2026-11-05T13:33:40.510Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 Fat 500GB - Funzionante (Da sistemare / Per pezzi di ricambio)\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo PlayStation 4 Fat (500 GB) usata.\n​Dettagli sulle condizioni del prodotto:\n​Funzionamento: La console si accende e invia correttamente il segnale video a schermo.\n​Scocca: La cover di sotto di copertura è inclusa ma é attaccata solo a scatto non ci sono viti per fidsarla ma mancano diverse viti interne ed esterne.\n​Ventola: Funzionante, ma molto rumorosa, pertanto ne è consigliata la sostituzione.\n​Componenti: Interni ed esterni visibili nelle foto allegate.\n​Dotazione: Viene venduta la sola console (senza controller e senza cavi). I cavi di alimentazione e HDMI sono standard C7 e facilmente reperibili.\n​In privato posso inviare video che dimostrano il corretto avvio e il funzionamento della console a schermo. volendo posso dare un cavo HDMI\n​Prezzo: 50 Euro (trattabili)\nDisponibile per consegna a mano o spedizione.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano diverse viti interne ed esterne, cover inferiore fissata solo a scatto, ventola rumorosa da sostituire, senza cavi e senza controller.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
