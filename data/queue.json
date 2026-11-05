@@ -1,35 +1,5 @@
 [
   {
-    "id": "10615981222",
-    "category": "Console",
-    "title": "Sacoche de transport Nintendo Switch 2 – Édition collector The Legend of Zelda",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10615981222-sacoche-de-transport-nintendo-switch-2-edition-collector-the-legend-of-zelda?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01374_NLu6zujG8gu7Vrznd9Yr4quu/310x430/d53be38b.webp?s=7725aea560fa085a029b0fd7bfd700c4f29a21b6",
-    "addedAt": "2026-11-01T09:05:37.805Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-17.65€, sotto soglia"
-  },
-  {
-    "id": "10616033440",
-    "category": "Console",
-    "title": "Nintendo Switch 1",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10616033440-nintendo-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01dd0_AhPvfictNP2ZNdjEBZAhijsv/310x430/8975ee47.webp?s=941b7e47366f473d5a098040f45f70e694a29671",
-    "addedAt": "2026-11-01T09:11:51.297Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10616102411",
     "category": "Console",
     "title": "PS4 Slim noire",
@@ -20456,5 +20426,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.17€, sotto soglia"
+  },
+  {
+    "id": "10672849348",
+    "category": "Console",
+    "title": "Xbox series S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 75% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10672849348-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00533_yRL6AC1D4M5CiMB1rd9TLk83/310x430/213d0617.webp?s=67d2fcb8b9b2058033f730f07337f9a6f2394f9f",
+    "addedAt": "2026-11-05T09:06:29.335Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox series S\nOttime·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nun minuto fa\nFunktioniert einwandfrei keine probleme\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 85
   }
 ]
