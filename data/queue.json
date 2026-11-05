@@ -1,23 +1,5 @@
 [
   {
-    "id": "10615204724",
-    "category": "Console",
-    "title": "Switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10615204724-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015f3_5SgYKAVkWsbBfbxpk24v7BXk/310x430/ee050e99.webp?s=d9236134755506307872b3e0c7452b93ebd9c0b4",
-    "addedAt": "2026-11-01T06:57:15.450Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nDiscrete·Nintendo·Caricato 3 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n3 min fa\nBonjour je vends ma swith je ses pas ses quoi le problème\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Bonjour je vends ma swith je ses pas ses quoi le problème",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 87.8
-  },
-  {
     "id": "10615233187",
     "category": "Console",
     "title": "Ventilateur pour ps5",
@@ -20350,8 +20332,10 @@
     "url": "https://www.vinted.it/items/10671994280-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0079d_KDfwB5hL2eEnNFd9rJL15Rs4/310x430/ae7b3474.webp?s=5ecff4b68078575d904c77d421a582e71980b1c2",
     "addedAt": "2026-11-05T06:34:58.494Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   },
   {
     "id": "10672036873",
@@ -20363,8 +20347,10 @@
     "url": "https://www.vinted.it/items/10672036873-ps4-fat-ps4-slim-ps3-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0025b_X8U2ArsvtTnDMNEmisCLWAUa/310x430/c15c8ab3.webp?s=99c0e951823efa3c1b130e60731acbb3cded97cb",
     "addedAt": "2026-11-05T06:48:26.544Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   },
   {
     "id": "10672048342",
@@ -20376,7 +20362,12 @@
     "url": "https://www.vinted.it/items/10672048342-playstation-4-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00cfa_gTUFQAquJAF8hXGGZJLB3Eac/310x430/ff78a7b3.webp?s=ac9459c71b91aa3e3dbb9851c0fad660d40b5df1",
     "addedAt": "2026-11-05T06:51:32.718Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "atalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 + controller ( met lader)\nOttime·PlayStation·Caricato 9 min fa\n\n70,00 €\n\n74,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n9 min fa\nGoed werkende playstation 4 met controller en oplader. Laatste 2 jaar niet meer gebruikt.\nOnlangs volledig upgedate en geheugen gewist.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.05
   }
 ]
