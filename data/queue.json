@@ -19603,5 +19603,50 @@
     "geminiFault": "Console con graffi ed etichette/segni estetici, manette nera di terze parti danneggiata e incompleta",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10682642530",
+    "category": "Console",
+    "title": "Nintendo Switch Lite jaune",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10682642530-nintendo-switch-lite-jaune?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02099_SNKkjonKeH8gXiKKujTMR7VQ/310x430/81b73728.webp?s=fa354628ad73a02fc454f67f61e11a5b66636ccf",
+    "addedAt": "2026-11-05T22:27:00.222Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
+  },
+  {
+    "id": "10682660464",
+    "category": "Console",
+    "title": "Ps5 l’ire description",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10682660464-ps5-lire-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b97_4nCzYk48VamgpxST5TeoHRGM/310x430/5c6719af.webp?s=00499303f8c27ed9196d646a63042982dccbdcdd",
+    "addedAt": "2026-11-05T22:29:04.681Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10682665832",
+    "category": "Console",
+    "title": "Console XBOX one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10682665832-console-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01546_w3CLk3b8SUWN6KE88XfDDAvp/310x430/5915d2d0.webp?s=9123c729505afb6439d33ff994ffb755c1fcad70",
+    "addedAt": "2026-11-05T22:30:06.938Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
   }
 ]
