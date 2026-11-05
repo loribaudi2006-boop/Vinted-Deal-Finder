@@ -1,20 +1,5 @@
 [
   {
-    "id": "10615170931",
-    "category": "Console",
-    "title": "Giochi ps4",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10615170931-giochi-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01724_HJdLuzjnt78y9wX6H9vib62y/310x430/e7f48f3c.webp?s=276dbc90167831f352722ae5a3dd3aa1c56e67fb",
-    "addedAt": "2026-11-01T06:44:47.156Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.3€, sotto soglia"
-  },
-  {
     "id": "10615204724",
     "category": "Console",
     "title": "Switch",
@@ -20349,8 +20334,11 @@
     "url": "https://www.vinted.it/items/10668104230-switch-light-rose-customiser-derriere?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00d6b_JAAvZox8kAeKmtsxJWzdMD3d/310x430/fde296ae.webp?s=8894cdead3451b0b1fa9519c8c358b530a32ce6e",
     "addedAt": "2026-11-05T06:19:25.705Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10671994280",
@@ -20362,6 +20350,32 @@
     "url": "https://www.vinted.it/items/10671994280-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0079d_KDfwB5hL2eEnNFd9rJL15Rs4/310x430/ae7b3474.webp?s=5ecff4b68078575d904c77d421a582e71980b1c2",
     "addedAt": "2026-11-05T06:34:58.494Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10672036873",
+    "category": "Console",
+    "title": "Ps4 fat- ps4 slim - ps3 slim",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10672036873-ps4-fat-ps4-slim-ps3-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0025b_X8U2ArsvtTnDMNEmisCLWAUa/310x430/c15c8ab3.webp?s=99c0e951823efa3c1b130e60731acbb3cded97cb",
+    "addedAt": "2026-11-05T06:48:26.544Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10672048342",
+    "category": "Console",
+    "title": "Playstation 4 + controller",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10672048342-playstation-4-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00cfa_gTUFQAquJAF8hXGGZJLB3Eac/310x430/ff78a7b3.webp?s=ac9459c71b91aa3e3dbb9851c0fad660d40b5df1",
+    "addedAt": "2026-11-05T06:51:32.718Z",
     "processed": false,
     "triaged": false
   }
