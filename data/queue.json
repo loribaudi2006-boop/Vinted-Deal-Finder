@@ -1,23 +1,5 @@
 [
   {
-    "id": "10595615568",
-    "category": "Console",
-    "title": "Playstation 4 Slim Noire Non Fonctionnelle",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10595615568-playstation-4-slim-noire-non-fonctionnelle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01687_Sah7vzMn4mvwCY1EQA1vMw5N/310x430/d13a1578.webp?s=310bc407bb15e6007d7ff43e7a0db68611d4daae",
-    "addedAt": "2026-11-01T07:23:16.902Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 Slim Noire Non Fonctionnelle\nBuone·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\n🎮 Playstation 4 Slim Noire CUH-1004A Non Fonctionnelle en loose\n\n1. État & Contenu :\n• Boîte : Absente\n• Notice : Absente\n• État global : Bon état\n\n2. Test & Expédition :\n👁️‍🗨️ La console s'allume est s'éteint rapidement\n📦 Envoi les Lundis, Mercredis et Vendredis dans un emballage protégé.\n🚨 En cas d'envoi urgent, merci de le préciser à l'achat 😉\n\n#diiscoloot2ps4 #diiscoloot2console\n\nSuite à de nombreux abus, je ne fais plus aucune réservation. Merci de votre compréhension.\n\nN'hésitez pas à faire des lots pour obtenir des prix plus intéressants !\n\nBon Loot à vous !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "La console s'allume et s'éteint rapidement",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 43.05
-  },
-  {
     "id": "10615347777",
     "category": "Console",
     "title": "PS4 sony",
@@ -20383,7 +20365,9 @@
     "url": "https://www.vinted.it/items/10672126224-support-nintendo-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0196b_XnfkGANFcvS2BdXguXbEY5Qi/310x430/d8d64a50.webp?s=44ddfcb0f2be6e1937f940172a1f097823781e3a",
     "addedAt": "2026-11-05T07:13:18.179Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
