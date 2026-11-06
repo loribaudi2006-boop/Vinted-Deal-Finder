@@ -20162,5 +20162,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10686685954",
+    "category": "Console",
+    "title": "Console Xbox one",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10686685954-console-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02311_yL2VtjkLhy1R5sfY7SLzeAxr/310x430/cdfad4b6.webp?s=e5401a6bb2136ee76c7f9951e35281b5341336a5",
+    "addedAt": "2026-11-06T11:00:52.196Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.55€, sotto soglia"
   }
 ]
