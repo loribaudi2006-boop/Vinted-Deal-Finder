@@ -1,20 +1,5 @@
 [
   {
-    "id": "10631417369",
-    "category": "Console",
-    "title": "Ps4 Set",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10631417369-ps4-set?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0070a_F9vLy1QSsuNanws2sAKFsZsA/310x430/3aca1909.webp?s=1aa241d2cd871a18e10cd5eacdc9f3975c2bd001",
-    "addedAt": "2026-11-02T06:41:29.410Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10631465608",
     "category": "Console",
     "title": "Ps4 Olympique de Marseille",
@@ -19875,6 +19860,45 @@
     "url": "https://www.vinted.it/items/10684618959-console-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0049a_VcAEW1J3NR8ucwXixxLd8ZJJ/310x430/3f61d3fa.webp?s=d727a7efe9d31ac1f9f8cd2162650dd22119f874",
     "addedAt": "2026-11-06T06:23:27.501Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10684691766",
+    "category": "Console",
+    "title": "Nintendo switch lite bleu",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10684691766-nintendo-switch-lite-bleu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01ff4_a7vA3CAzQJZf79iy4pocaJYR/310x430/63303e82.webp?s=574262c98563bea0a3fc9f4434788dec256b4fb5",
+    "addedAt": "2026-11-06T06:33:50.685Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10684704105",
+    "category": "Console",
+    "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10684704105-animal-crossing-new-horizons-nintendo-switch-2-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0016e_jyDUkquNmDhZ46jiSx4fZWzu/310x430/5e8d8798.webp?s=61c36a40f44b5c1bd64b6cbabc9ee25b9825df12",
+    "addedAt": "2026-11-06T06:37:59.952Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10684707528",
+    "category": "Console",
+    "title": "Face plate blanche Sony PS5",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10684707528-face-plate-blanche-sony-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e4d_pkG1rqX2zYgcuGNTmKuugWu4/310x430/fa9d836b.webp?s=9b3af9f3160209848c957ca6bea2817895cb8cf4",
+    "addedAt": "2026-11-06T06:39:02.300Z",
     "processed": false,
     "triaged": false
   }
