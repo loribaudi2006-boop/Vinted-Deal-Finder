@@ -20111,5 +20111,18 @@
     "geminiFault": "Nueva actualización no sincroniza mando ps4 con la consola. Lector ok. Disco duro para formatear.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10685381799",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 75% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10685381799-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_011aa_qHkLjrSjj5wwY4sUVEVxoQDu/310x430/09479bc5.webp?s=25e01ed51c3581b245b594e57305fe4f530157d9",
+    "addedAt": "2026-11-06T08:53:01.732Z",
+    "processed": false,
+    "triaged": false
   }
 ]
