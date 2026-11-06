@@ -20044,7 +20044,9 @@
     "url": "https://www.vinted.it/items/10684950091-nintendo-switch-2-con-animali-crossing?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_003c2_RB12D8J7H5WQLs2ArVarh5L5/310x430/52884edf.webp?s=c2ee427f7f936adc02c62a91f2b5a31a50c6b9dc",
     "addedAt": "2026-11-06T07:42:25.205Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
