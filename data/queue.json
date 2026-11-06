@@ -1,37 +1,5 @@
 [
   {
-    "id": "10630481612",
-    "category": "Console",
-    "title": "XBOX One",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10630481612-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0222f_agQ6xECEbWxGQStYTrwkjxJj/310x430/9f74e873.webp?s=1507f9166bd92be08e7f1c1672db2becb28d9030",
-    "addedAt": "2026-11-02T01:34:07.784Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10630504804",
-    "category": "Console",
-    "title": "PS4  10",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10630504804-ps4-1001?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01682_jyxh9H4otyJxoxvYmJFZUrbp/310x430/c27db770.webp?s=6b3953f071fa16e58ea5d41235f8633befc10b11",
-    "addedAt": "2026-11-02T01:38:16.500Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10631084856",
     "category": "Console",
     "title": "Xbox One S Ersatzteile-Paket: Mainboard",
