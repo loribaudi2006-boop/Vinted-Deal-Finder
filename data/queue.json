@@ -19672,5 +19672,35 @@
     "geminiFault": "switch HS (réparable), tablette batterie morte, manette fonctionne très bien",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10683517388",
+    "category": "Console",
+    "title": "Cavo Hdmi originale ps5 slim (quello che esce dalla scatola)",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10683517388-cavo-hdmi-originale-ps5-slim-quello-che-esce-dalla-scatola?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0268e_kVV1nxnFQwYZTcymZCEstusX/310x430/7071ca2b.webp?s=3ca3c104a724f5526a02de827f0de7f7375e9aaa",
+    "addedAt": "2026-11-06T00:57:19.735Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.2€, sotto soglia"
+  },
+  {
+    "id": "10683524261",
+    "category": "Console",
+    "title": "Cavo originale USB ps5 slim quello in dotazione della scatola",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10683524261-cavo-originale-usb-ps5-slim-quello-in-dotazione-della-scatola?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0197e_aocQWw6ExPcmyxzMajYwULaM/310x430/18c664b1.webp?s=6962accc842800e835744fba7c15ad86764977be",
+    "addedAt": "2026-11-06T00:58:21.797Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
