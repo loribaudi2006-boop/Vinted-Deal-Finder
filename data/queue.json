@@ -1,38 +1,5 @@
 [
   {
-    "id": "10643602213",
-    "category": "Console",
-    "title": "CERCO Ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10643602213-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00aa7_DoayLEEvRS7DLudh3gGUp1fN/310x430/00836fed.webp?s=881d3cb32a03d2a6b0f3108f0803f165022f0123",
-    "addedAt": "2026-11-02T23:40:40.802Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
-    "id": "10643640724",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10643640724-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_020df_BzFRJv7K5g8iisBT7uai4W51/310x430/93b4976a.webp?s=fd97e358b8f2a016b0afa37acbc66ff27681298d",
-    "addedAt": "2026-11-02T23:46:53.005Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsole playstation 4\nCavo hdmi\nCavo alimentazione\nNon c'è il controller\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca il controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.05
-  },
-  {
     "id": "10643813386",
     "category": "Console",
     "title": "PS5 payement par Vinted",
@@ -19730,5 +19697,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 71.55
+  },
+  {
+    "id": "10695630832",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10695630832-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0137d_Y6zbeYpY94wtYXNkZsbLcF2A/310x430/99750c2e.webp?s=5105100c9b3635992b3350e6c3477107c945eb5f",
+    "addedAt": "2026-11-06T23:40:40.369Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one S\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox one S\nFonctionne bien\nAvec tout les fils\nUne manette avec pile\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
   }
 ]
