@@ -1,21 +1,5 @@
 [
   {
-    "id": "10630473240",
-    "category": "Console",
-    "title": "XBOX One + manette + cables",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10630473240-xbox-one-manette-cables?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_007cf_f69P8uhkHs5GYzbTJ76AEzmx/310x430/881b9fa7.webp?s=a6de96e24f8afa413b77e9c70937986f13959ddb",
-    "addedAt": "2026-11-02T01:32:03.423Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10630481612",
     "category": "Console",
     "title": "XBOX One",
@@ -19796,5 +19780,18 @@
     "geminiFault": "Non funzionante, è stata aperta non da me, solo per pezzi di ricambio",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 37.8
+  },
+  {
+    "id": "10683664899",
+    "category": "Console",
+    "title": "Xbox one s 1 To",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10683664899-xbox-one-s-1-to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015f3_k89n4nKeF4mD7wVox48y5FCo/310x430/2dadab21.webp?s=7a7260b540f4f86fd3b8cbeeb91874863010be51",
+    "addedAt": "2026-11-06T01:28:16.482Z",
+    "processed": false,
+    "triaged": false
   }
 ]
