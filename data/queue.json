@@ -1,20 +1,5 @@
 [
   {
-    "id": "10643465400",
-    "category": "Console",
-    "title": "PS5 prevendita (leggere bio",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10643465400-ps5-prevendita-leggere-bio-non-comprare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0083c_uFBVwMtSExLcJ79My2MRCiVg/310x430/f6ef21f9.webp?s=5e3514fe5e77215bf75264b79b6831d187313f6c",
-    "addedAt": "2026-11-02T23:17:56.015Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~300€, sotto soglia"
-  },
-  {
     "id": "10643518958",
     "category": "Console",
     "title": "Nintendo switch 2",
@@ -19709,5 +19694,20 @@
     "geminiFault": "alcune macchie sulla scocca superiore, senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10695475097",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10695475097-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_009f7_MuRRofQDCQRotYwQoEcprpk9/310x430/39c34fb3.webp?s=3f154dcfddeb89406dced4115e87e91a351c9345",
+    "addedAt": "2026-11-06T23:13:45.383Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
