@@ -20063,5 +20063,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-12€, sotto soglia"
+  },
+  {
+    "id": "10685200720",
+    "category": "Console",
+    "title": "Boîte vide switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10685200720-boite-vide-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01e9d_fH6V9YzEBEcQi3iSKDMpkp8M/310x430/2470408b.webp?s=1592b4e12c63584ca29847e1f234e8854456cb1c",
+    "addedAt": "2026-11-06T08:28:07.253Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-26.95€, sotto soglia"
+  },
+  {
+    "id": "10685189477",
+    "category": "Console",
+    "title": "Boîte vide Sony PS5",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10685189477-boite-vide-sony-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02048_9tsJYKbpSfu6b1rLBA4ZXMxT/310x430/06e539c2.webp?s=eea479b271ff791437170d55b42b969856c0b366",
+    "addedAt": "2026-11-06T08:28:07.253Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12€, sotto soglia"
   }
 ]
