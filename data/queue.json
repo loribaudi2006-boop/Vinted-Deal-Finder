@@ -20198,5 +20198,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.3€, sotto soglia"
+  },
+  {
+    "id": "10685700880",
+    "category": "Console",
+    "title": "Ps4 met controler",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10685700880-ps4-met-controler?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_018ea_xx7aHfRTacLfgeE8Ex1MzfEB/310x430/b704fbea.webp?s=f0a8a2da6f92774fa86a8b924b6613d2d60f0b3d",
+    "addedAt": "2026-11-06T09:26:17.220Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
