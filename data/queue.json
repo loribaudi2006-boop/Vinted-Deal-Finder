@@ -1,38 +1,5 @@
 [
   {
-    "id": "10635566039",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10635566039-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_005e4_jGVn6Yg5vZesGeW3HcgWmh1f/310x430/7953d933.webp?s=8f3b785283c4c7377f677d323872d0323940131c",
-    "addedAt": "2026-11-02T13:42:43.135Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.55€, sotto soglia"
-  },
-  {
-    "id": "10635563833",
-    "category": "Console",
-    "title": "PlayStation 4 slim",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10635563833-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00615_qVnpJvgV1qf5La57P433Lbtk/310x430/ff1f368f.webp?s=8c6be149c9605a18dbb28568615bc1e16846b8d5",
-    "addedAt": "2026-11-02T13:42:43.136Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 slim\nOttime·PlayStation·Caricato 2 min fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPlayStation 4 in buone condizioni con cavi originali base per ricarica controller con controller incluso e ventole di raffreddamento\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 57.85
-  },
-  {
     "id": "10632732845",
     "category": "Console",
     "title": "Bioshock - The Collection für Nintendo Switch / Nintendo Switch 2",
@@ -19979,5 +19946,38 @@
     "geminiFault": "Senza caricabatterie e senza giochi. Include custodia e scheda SD da 128gb. Condizioni discrete.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.35
+  },
+  {
+    "id": "10688562965",
+    "category": "Console",
+    "title": "Nintendo Switch+ Zubehör",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10688562965-nintendo-switch-zubehor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00f85_xKjrtaEo6M2HPVBRZqqaGp6K/310x430/8bc41875.webp?s=8c5c38d793812d3b375f0b26871a4acc9b8e6df0",
+    "addedAt": "2026-11-06T13:43:01.571Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch+ Zubehör\nBuone·Nintendo·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nDie Switch wurde nicht sehr oft genutzt aber bei dem roten Kontrolleur fehlt der Stick der ist leider angegangen\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il joysticking (levetta analogica) del controller rosso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.05
+  },
+  {
+    "id": "10688593970",
+    "category": "Console",
+    "title": "Ensemble protection Switch",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10688593970-ensemble-protection-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00527_Ht2QEFrsygD13PAoN3VBPgJi/310x430/fbff7a4d.webp?s=8e4330f128cbd43e6e5fdb5202197cd6813bffbc",
+    "addedAt": "2026-11-06T13:45:05.443Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
