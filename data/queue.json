@@ -19702,5 +19702,44 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10683557234",
+    "category": "Console",
+    "title": "Libretto originale ps5 slim",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10683557234-libretto-originale-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01e0d_crWp3oSiyNvEe8WEDzZfdQ4t/310x430/e6287563.webp?s=fbdcafb900e71af0d7fc7e54605f490998c01a97",
+    "addedAt": "2026-11-06T01:05:37.966Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10683570789",
+    "category": "Console",
+    "title": "Nintendo switch noire",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10683570789-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00310_hayTCDiVjBwdn1HPBrVajCDC/310x430/af1bd7b5.webp?s=ba1a4dbf467c7cb9b662bb37daa75d20410d2960",
+    "addedAt": "2026-11-06T01:07:42.468Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10683596876",
+    "category": "Console",
+    "title": "Boîte vde xbox one s",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10683596876-boite-vde-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0219b_gLhCAJhHS3RTscFDES8V6hWW/310x430/fdf90685.webp?s=208d35c88b4efa59bdf8341d5532dca2557199fc",
+    "addedAt": "2026-11-06T01:13:55.752Z",
+    "processed": false,
+    "triaged": false
   }
 ]
