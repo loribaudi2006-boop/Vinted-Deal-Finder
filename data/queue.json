@@ -1,23 +1,5 @@
 [
   {
-    "id": "10638471717",
-    "category": "Console",
-    "title": "Recherche PS5 urgent !!",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10638471717-recherche-ps5-urgent?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_006d2_GdDxYxcrGZCjco1VFAjdTynD/310x430/86be4a9c.webp?s=db6eab6f07cefc6779687b65401a9eef4c2ccbe0",
-    "addedAt": "2026-11-02T16:54:05.892Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ontenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nRecherche PS5 urgent !!\nNuovo con cartellino·Sony·Caricato proprio adesso\n\n26,00 €\n\n28,00 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\nProprio adesso\nAjouter sur mon Snap si vous êtes intéressé : r.afal2\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 300
-  },
-  {
     "id": "10638855186",
     "category": "Console",
     "title": "Console Nintendo Switch pour Pièces / HS",
@@ -20285,5 +20267,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-32.2€, sotto soglia"
+  },
+  {
+    "id": "10691135863",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10691135863-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01d33_ciGuqPTFsfBiynUjqYmjJwcS/310x430/08403be5.webp?s=4168464b1b89a15d4aea88d0445307d411d31159",
+    "addedAt": "2026-11-06T16:54:39.272Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
+  },
+  {
+    "id": "10691162789",
+    "category": "Console",
+    "title": "Je vend une switch rose juste elle ne marche pas je sais pas pourquoi",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10691162789-je-vend-une-switch-rose-juste-elle-ne-marche-pas-je-sais-pas-pourquoi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00b7a_dW3Es9FFda9goNjPXYC5NNBo/310x430/cd951b4b.webp?s=251556e1c00d8b8b0e39fd97f13cd8ed4b334760",
+    "addedAt": "2026-11-06T16:54:39.272Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "endi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n10\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nJe vend une switch rose juste elle ne marche pas je sais pas pourquoi\nDiscrete·Nintendo·Caricato 4 min fa\n\n5,00 €\n\n5,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n4 min fa\n#switchrose\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ne marche pas, cause inconnue",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 84.05
   }
 ]
