@@ -19782,8 +19782,11 @@
     "url": "https://www.vinted.it/items/10683780923-sony-hd-camera-voor-playstation-5-wit?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_021bb_GrV1H54rzmDKgCjNiUKojbmL/310x430/0e24de7a.webp?s=d4b84bc99df695ef30322dee0fe0475f91800d09",
     "addedAt": "2026-11-06T01:51:11.807Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10683798220",
