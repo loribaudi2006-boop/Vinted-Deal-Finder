@@ -1,23 +1,5 @@
 [
   {
-    "id": "10634981545",
-    "category": "Console",
-    "title": "Nintendo switch con 1 mando y funda de kakashi y cargador original",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10634981545-nintendo-switch-con-1-mando-y-funda-de-kakashi-y-cargador-original?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01296_PcjsKkLcheDshNMC2C4cify4/310x430/0945e472.webp?s=db6449d52f0070f3a54c6953463e0a226839d7e5",
-    "addedAt": "2026-11-02T13:00:05.990Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Donna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch con 1 mando y funda de kakashi y cargador original\nDiscrete·Nintendo·Caricato un minuto fa\n\n80,00 €\n\n84,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nLa Nintendo funciona muy bien y el mando es como nuevo\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Condizioni discrete, ma funziona molto bene",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60.3
-  },
-  {
     "id": "10635005754",
     "category": "Console",
     "title": "Switch oled avec coffret collector",
@@ -19934,5 +19916,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.55€, sotto soglia"
+  },
+  {
+    "id": "10687940287",
+    "category": "Console",
+    "title": "Jeux switch et pochette",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10687940287-jeux-switch-et-pochette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01e08_u8Htq7GSNV8kiG1XmELrTn8G/310x430/cba6ab83.webp?s=6f8e04775a39938c13a31773d15bb7f8814f8c9c",
+    "addedAt": "2026-11-06T12:52:17.903Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
