@@ -19621,5 +19621,38 @@
     "geminiFault": "Está todo muy bien solo tiene un fallo que no sé cuál es ya que me compré la 5 creo que es algo de limpieza por dentro de la play o algo así.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10683381944",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10683381944-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0188d_qvCidtR8LTtnxngKWoSqoaNo/310x430/3687e87d.webp?s=fbf7da60dfa8f1809671a52f5f6452c8e0c051e4",
+    "addedAt": "2026-11-06T00:29:58.360Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10683393434",
+    "category": "Console",
+    "title": "Nintendo switch oled",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 75% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10683393434-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019fc_yfQiY4dbevspPhaaJtGfyWTr/310x430/c6a235fe.webp?s=2f826ee8727bff4947da0fee55e690e02736f1a5",
+    "addedAt": "2026-11-06T00:32:02.904Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "uto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nNintendo switch oled\nOttime·Nintendo Switch·Caricato un minuto fa\n\n64,00 €\n\n67,90 €\nincl. la commissione Vinted\nBrandNintendo Switch\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends ma Nintendo Switch modèle OLED blanche, en très bon état.\nLa console a été protégée dès l'achat : coque de protection et verre trempé posé directement sur l'écran. Aucune rayure sur l'écran.\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 102.1
   }
 ]
