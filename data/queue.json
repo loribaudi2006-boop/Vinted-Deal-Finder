@@ -19654,5 +19654,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10683477455",
+    "category": "Console",
+    "title": "switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10683477455-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01588_gSmbqAygDW7KD9bscJQu3Zda/310x430/846154fb.webp?s=06a8685b0aef830d5c750a3b175fc935c3316f21",
+    "addedAt": "2026-11-06T00:49:01.743Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nswitch\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\n-PRIX NÉGOCIABLE ‼️\n-switch HS (réparable)\n-manette fonctionne très bien\n-problème la tablette batterie morte\n-pour plus de question venez privé\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "switch HS (réparable), tablette batterie morte, manette fonctionne très bien",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 46.8
   }
 ]
