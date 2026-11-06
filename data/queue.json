@@ -1,50 +1,5 @@
 [
   {
-    "id": "10632253847",
-    "category": "Console",
-    "title": "Switch écran LCD HS",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10632253847-switch-ecran-lcd-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0224f_mYAoqMgNPEmNCtekWtrCh3PQ/310x430/6e537211.webp?s=cea70e556cf9e6efba7b1f4849870c6d9bfd3d2a",
-    "addedAt": "2026-11-02T09:14:01.931Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.55€, sotto soglia"
-  },
-  {
-    "id": "10632292155",
-    "category": "Console",
-    "title": "lege doos Xbox One S",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 90% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10632292155-lege-doos-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00778_XxNLPqq6RCwvGp26oTo9b1Ak/310x430/15580b0f.webp?s=d7cf2604c4234db6efc25a6a973478da31373d1f",
-    "addedAt": "2026-11-02T09:18:11.416Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.2€, sotto soglia"
-  },
-  {
-    "id": "10632312653",
-    "category": "Console",
-    "title": "Consolle Xbox one",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 90% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10632312653-consolle-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_005ad_An1Xg5ZuX4fzggLVNcKQEGxH/310x430/a3345f8d.webp?s=948fef4f21003de9e64887ca526de1378c42165e",
-    "addedAt": "2026-11-02T09:20:16.933Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10632567328",
     "category": "Console",
     "title": "Ps4 sans manettes",
@@ -20228,5 +20183,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10685636845",
+    "category": "Console",
+    "title": "Ps4 avec fil alimentation",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10685636845-ps4-avec-fil-alimentation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0181f_Vq8cNvWBHvdL9A19BodsyvK6/310x430/90ae368a.webp?s=11590d4e4ebb603054f9a1f1e49922d7d661ac43",
+    "addedAt": "2026-11-06T09:19:01.371Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   }
 ]
