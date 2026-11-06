@@ -19862,5 +19862,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10688196242",
+    "category": "Console",
+    "title": "Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10688196242-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00411_QNcygdu3p8ZScSJPJYpBL6rA/310x430/1ce4da99.webp?s=3ec30b8ed1fec94e9b1ea6c2f5383764df5579d9",
+    "addedAt": "2026-11-06T13:12:58.314Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10688231985",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10688231985-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e03_1rJAxZVGBUGAukyp8vb2r3C5/310x430/5e2cd140.webp?s=d1d888e71a34a8d0cd13d02feecf71e66c760842",
+    "addedAt": "2026-11-06T13:16:04.172Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10688278506",
+    "category": "Console",
+    "title": "Playstation 4 avec 2 manettes",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10688278506-playstation-4-avec-2-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0059e_Qb3tZqeP2WkSzT5zLaxmqUco/310x430/058ae4c5.webp?s=5d56023172e35d7bf3c7d549bc533ecb2728bf7b",
+    "addedAt": "2026-11-06T13:20:12.230Z",
+    "processed": false,
+    "triaged": false
   }
 ]
