@@ -1,23 +1,5 @@
 [
   {
-    "id": "10631465608",
-    "category": "Console",
-    "title": "Ps4 Olympique de Marseille",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10631465608-ps4-olympique-de-marseille?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01038_3JauvrVXXK6MHXED59hrwJzD/310x430/e6e192ee.webp?s=b01e4e1f0957ef4bece1a806d82e9272732afdd7",
-    "addedAt": "2026-11-02T06:58:05.123Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 Olympique de Marseille\nOttime·Sony·Caricato 3 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nFaire offres\nFonctionne parfaitement\nVendu comme sur les photos\n📢Envoie uniquement par mondial relais\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 120
-  },
-  {
     "id": "10631576893",
     "category": "Console",
     "title": "Nintendo switch",
@@ -19847,8 +19829,11 @@
     "url": "https://www.vinted.it/items/10684641646-ps4-blanche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00df9_dvxciiJN1KvttTdnv4NAAsE8/310x430/4346d1bc.webp?s=f667341a1bce03018600ec71a44a65ab5253cda4",
     "addedAt": "2026-11-06T06:23:27.500Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10684618959",
@@ -19860,8 +19845,11 @@
     "url": "https://www.vinted.it/items/10684618959-console-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0049a_VcAEW1J3NR8ucwXixxLd8ZJJ/310x430/3f61d3fa.webp?s=d727a7efe9d31ac1f9f8cd2162650dd22119f874",
     "addedAt": "2026-11-06T06:23:27.501Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10684691766",
@@ -19873,8 +19861,13 @@
     "url": "https://www.vinted.it/items/10684691766-nintendo-switch-lite-bleu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01ff4_a7vA3CAzQJZf79iy4pocaJYR/310x430/63303e82.webp?s=574262c98563bea0a3fc9f4434788dec256b4fb5",
     "addedAt": "2026-11-06T06:33:50.685Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite bleu\nBuone·Nintendo·Caricato 27 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n27 min fa\nNintendo switch lite couleur bleu turquoise fonctionne bien\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
   },
   {
     "id": "10684704105",
@@ -19886,8 +19879,10 @@
     "url": "https://www.vinted.it/items/10684704105-animal-crossing-new-horizons-nintendo-switch-2-edition?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0016e_jyDUkquNmDhZ46jiSx4fZWzu/310x430/5e8d8798.webp?s=61c36a40f44b5c1bd64b6cbabc9ee25b9825df12",
     "addedAt": "2026-11-06T06:37:59.952Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10684707528",
@@ -19899,7 +19894,42 @@
     "url": "https://www.vinted.it/items/10684707528-face-plate-blanche-sony-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00e4d_pkG1rqX2zYgcuGNTmKuugWu4/310x430/fa9d836b.webp?s=9b3af9f3160209848c957ca6bea2817895cb8cf4",
     "addedAt": "2026-11-06T06:39:02.300Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.35€, sotto soglia"
+  },
+  {
+    "id": "10684768959",
+    "category": "Console",
+    "title": "Lecteur de switch/adaptateur",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10684768959-lecteur-de-switchadaptateur-tv-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b1f_igDDsw4eLJ5jM4TpkzvQayRX/310x430/9f0b637d.webp?s=29d4a999dac64152f0cc0d8fe6120bdbd808b79b",
+    "addedAt": "2026-11-06T06:57:43.723Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.55€, sotto soglia"
+  },
+  {
+    "id": "10684783864",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10684783864-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_026a8_faDgJrpjss3swVtbQfDyKdmx/310x430/b384505f.webp?s=894d92d50e885e845ffdf1d760f9002556630cde",
+    "addedAt": "2026-11-06T07:01:55.107Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nMooie PlayStation 4\nInclusief 2 controllers\n+ alle kabels\n\nWerkt zoals het moet!\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.3
   }
 ]
