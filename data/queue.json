@@ -1,35 +1,5 @@
 [
   {
-    "id": "10642349508",
-    "category": "Console",
-    "title": "Nintendo switch cover",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10642349508-nintendo-switch-cover?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01532_nTRCTN3ppHaL9zKtFLc8hkF3/310x430/c6ae3b64.webp?s=b2e7a75561d967c636dc2ebf52ab749af7f68de8",
-    "addedAt": "2026-11-02T21:14:12.568Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.2€, sotto soglia"
-  },
-  {
-    "id": "10642362515",
-    "category": "Console",
-    "title": "PlayStation 4 VR46",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10642362515-playstation-4-vr46?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01b8a_RGB9W4BKbtUej9JAmRgouNv7/310x430/79766acf.webp?s=6dc7de5b20d625f85a5219ed5f436d88023ae4a6",
-    "addedAt": "2026-11-02T21:15:16.775Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~30.3€, sotto soglia"
-  },
-  {
     "id": "10642421787",
     "category": "Console",
     "title": "Xbox One",
@@ -19909,7 +19879,42 @@
     "url": "https://www.vinted.it/items/10694402068-ps4-blanche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0188e_sRA5tmTVC6pPij8WQxxFmFZ1/310x430/399d4148.webp?s=5fd570179c6b7a49535a74131c2acdf2cd84fcb2",
     "addedAt": "2026-11-06T21:08:20.094Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 blanche\nDiscrete·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nJe vends cette console PS4 blanche, fonctionnelle et prête à jouer. Idéale pour les amateurs de jeux PlayStation !\n- Type de produit : Console de salon\n- Marque : Sony\n- Modèle : PlayStation 4\n- Couleur : Blanc\n- Accessoires inclus : Câble d'alimentation\nÉtat satisfaisant\nN'hésitez pas à me contacter pour plus d'informations ou de photos !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "10694460735",
+    "category": "Console",
+    "title": "juego nintendo switch mario tennis aces y raquetas",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10694460735-juego-nintendo-switch-mario-tennis-aces-y-raquetas?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02264_D7RwFLf56bvmazhkWuPCmz2J/310x430/bd86f96a.webp?s=93c0a6851009d29d7c91bd298f926109686faecb",
+    "addedAt": "2026-11-06T21:14:33.356Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.05€, sotto soglia"
+  },
+  {
+    "id": "10694495856",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10694495856-playstation-4-lire-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0182b_MLTTkekCjirxDnauJRWwTSZb/310x430/30e75184.webp?s=d6da25ee19a9b40894b2a543dfda8319f8299fc7",
+    "addedAt": "2026-11-06T21:17:39.808Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
   }
 ]
