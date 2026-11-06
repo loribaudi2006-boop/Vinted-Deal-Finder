@@ -19713,8 +19713,10 @@
     "url": "https://www.vinted.it/items/10683557234-libretto-originale-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01e0d_crWp3oSiyNvEe8WEDzZfdQ4t/310x430/e6287563.webp?s=fbdcafb900e71af0d7fc7e54605f490998c01a97",
     "addedAt": "2026-11-06T01:05:37.966Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
   },
   {
     "id": "10683570789",
@@ -19726,8 +19728,10 @@
     "url": "https://www.vinted.it/items/10683570789-nintendo-switch-noire?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00310_hayTCDiVjBwdn1HPBrVajCDC/310x430/af1bd7b5.webp?s=ba1a4dbf467c7cb9b662bb37daa75d20410d2960",
     "addedAt": "2026-11-06T01:07:42.468Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10683596876",
@@ -19739,7 +19743,58 @@
     "url": "https://www.vinted.it/items/10683596876-boite-vde-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0219b_gLhCAJhHS3RTscFDES8V6hWW/310x430/fdf90685.webp?s=208d35c88b4efa59bdf8341d5532dca2557199fc",
     "addedAt": "2026-11-06T01:13:55.752Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-25€, sotto soglia"
+  },
+  {
+    "id": "10683615545",
+    "category": "Console",
+    "title": "Nintendo switch oled",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 76% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10683615545-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01cca_8V23oHHMZmrJuWViqMUi2R5C/310x430/220cde51.webp?s=83d2f58bf2d841fcb78c4075cbc08d6f1e5a7e10",
+    "addedAt": "2026-11-06T01:17:02.650Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n8\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nNintendo switch oled\nOttime·Nintendo Switch·Caricato 5 min fa\n\n63,00 €\n\n66,85 €\nincl. la commissione Vinted\nBrandNintendo Switch\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 min fa\nJe vends ma Nintendo Switch OLED blanche, achetée neuve en mars 2025 chez Micromania (première main).\nConsole en très bon état, parfaitement fonctionnelle, avec un écran sans aucune rayure.\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 123.15
+  },
+  {
+    "id": "10683623587",
+    "category": "Console",
+    "title": "Nintendo switch noire",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10683623587-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00105_91VSJA8iUVAzKNu5vYjzMF3N/310x430/aaa51049.webp?s=8bc0d59d5af9440e53e30d4b1e88653f45315701",
+    "addedAt": "2026-11-06T01:19:07.203Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10683631787",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non funzionante\" + prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10683631787-nintendo-switch-lite-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02603_ieXuF8nmExjbYTmWA5S3dwK9/310x430/b39446b3.webp?s=d3f475cc5236c35f2b800f351318b49ecf6b567c",
+    "addedAt": "2026-11-06T01:21:11.519Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "enuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite, non funzionante\nBuone·Nintendo·Caricato 2 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nVendo Nintendo switch lite, non funzionante, è stata aperta non da me, era in un lotto. Solo per pezzi di ricambio\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non funzionante, è stata aperta non da me, solo per pezzi di ricambio",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.8
   }
 ]
