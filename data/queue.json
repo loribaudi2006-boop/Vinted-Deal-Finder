@@ -1,20 +1,5 @@
 [
   {
-    "id": "10656851186",
-    "category": "Console",
-    "title": "Socle Ps5 slim sans lecteur cd",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10656851186-socle-ps5-slim-sans-lecteur-cd?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01904_ZVH1ptSD31qrRUwq9XDoW1yR/310x430/748c36f0.webp?s=caaab4a7365a0bae921d6d881e1145e785e8bed5",
-    "addedAt": "2026-11-03T23:19:49.355Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.55€, sotto soglia"
-  },
-  {
     "id": "10657228867",
     "category": "Console",
     "title": "PlayStation PSP-1004 per ricambi",
@@ -20266,5 +20251,36 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10710487714",
+    "category": "Console",
+    "title": "Switch juste l’écran",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10710487714-switch-juste-lecran?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00bab_cerT6RPVUqz5axe6VisfnDPv/310x430/b6da1506.webp?s=ab99d2fa1b7679b2afa99f1d3a24002d6bfcaf08",
+    "addedAt": "2026-11-07T23:19:11.059Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch juste l’écran\nBuone·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSent manette , ni accessoires, elle fonctionne Sofe un coin de l’écran voir photo\nIl manque le support arrière\n\nElle a été remise à zéro\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Difetto a un angolo dello schermo, manca il supporto posteriore, nessun controller o accessorio",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10710504647",
+    "category": "Console",
+    "title": "Custodia protettiva Nintendo Switch 2",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10710504647-custodia-protettiva-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_009ed_juBtQT34XZeitphWbvnyE6vn/310x430/997dd778.webp?s=0e1deb03f0369b323acd24821a0d807a21711e56",
+    "addedAt": "2026-11-07T23:21:15.439Z",
+    "processed": false,
+    "triaged": false
   }
 ]
