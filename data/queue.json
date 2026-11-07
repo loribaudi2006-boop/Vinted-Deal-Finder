@@ -19887,5 +19887,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10697527704",
+    "category": "Console",
+    "title": "Switch lite bleu clair",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10697527704-switch-lite-bleu-clair?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00216_B4Zf34PfmNEZuMEQLSX4tCfa/310x430/bca4226f.webp?s=335597e502123092d7017cf5fd32e3bf08bb83de",
+    "addedAt": "2026-11-07T07:57:00.685Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10697528924",
+    "category": "Console",
+    "title": "Socle tv switch",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10697528924-socle-tv-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01778_Gw1nhueWTvtNQGrVZ2Q5E3kM/310x430/0bb270b1.webp?s=9aa42b0e66475f04d93006769c2b5e831b640e52",
+    "addedAt": "2026-11-07T07:58:02.772Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.55€, sotto soglia"
   }
 ]
