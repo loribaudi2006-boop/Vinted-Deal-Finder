@@ -1,35 +1,5 @@
 [
   {
-    "id": "10656500427",
-    "category": "Console",
-    "title": "Console Nintendo 64 Vintage (N64) PAL GiG - Solo Macchina (Non Testata)",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10656500427-console-nintendo-64-vintage-n64-pal-gig-solo-macchina-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_026d0_WAgC4wtSSGcgNrg1YvBb9Wmg/310x430/da494651.webp?s=daba7174be5cecfe56e8a43c9fed565954253463",
-    "addedAt": "2026-11-03T22:31:27.903Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~17.05€, sotto soglia"
-  },
-  {
-    "id": "10656510084",
-    "category": "Console",
-    "title": "Alimentation console PS5 slim digital",
-    "price": 23,
-    "totalPrice": 24.85,
-    "reason": "prezzo 94% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10656510084-alimentation-console-ps5-slim-digital?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00e9b_VXsbDsCJFV7JMYw58tyyzre7/310x430/a51b8e76.webp?s=434465693677912582daf64684c47ef202163948",
-    "addedAt": "2026-11-03T22:32:30.008Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.15€, sotto soglia"
-  },
-  {
     "id": "10656618570",
     "category": "Console",
     "title": "Switch lite et 2 jeux",
@@ -20341,5 +20311,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10710112357",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10710112357-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01de7_HmiinP4ibdtJYABZgFFVgowL/310x430/b6ce9a59.webp?s=63e8b3e24de1380f7b6fb3e86b2843c9687911ad",
+    "addedAt": "2026-11-07T22:31:27.468Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nVend switch lite couleur corail pour piece , elle ne charge plus , ses sûrement la batterie hs , écran intact et coque intact ainsi que tout les joystique , pour pieces ou a réparer\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non si carica, probabilmente batteria guasta. Schermo, scocca e joystick intatti. Venduta per pezzi o da riparare.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45
+  },
+  {
+    "id": "10710152602",
+    "category": "Console",
+    "title": "Console Sony PlayStation 4 (PS4) Fat - 500GO",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10710152602-console-sony-playstation-4-ps4-fat-500go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0115e_CrC1WnkKJqFk1H9AvUvUPbSY/310x430/3047eabd.webp?s=557ec37aa07cd82c9756476b4a717865f10a4ca2",
+    "addedAt": "2026-11-07T22:36:39.869Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
   }
 ]
