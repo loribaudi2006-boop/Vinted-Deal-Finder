@@ -20821,5 +20821,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "10706209438",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 58,
+    "totalPrice": 61.6,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10706209438-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01fb0_ZYWGHA1KMJEz1nteD6GigEFV/310x430/daf0c426.webp?s=6d3818a2c3150e8ec0a90a321cee031dcab9959b",
+    "addedAt": "2026-11-07T17:37:27.983Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch 1\nOttime·Nintendo·Caricato un minuto fa\n\n58,00 €\n\n61,60 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nTrès bonne qualité juste quelque rayure pas très visible\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "giusto qualche graffio non molto visibile",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 68.4
+  },
+  {
+    "id": "10706280493",
+    "category": "Console",
+    "title": "Sony PlayStation 4 Camera (V2)",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10706280493-sony-playstation-4-camera-v2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01b04_5vRbtz75566ei3oktctkVEbB/310x430/091c6e0d.webp?s=7ec099314943f8a92f46cbb38d4f723b60b265f7",
+    "addedAt": "2026-11-07T17:42:38.911Z",
+    "processed": false,
+    "triaged": false
   }
 ]
