@@ -1,20 +1,5 @@
 [
   {
-    "id": "10643813386",
-    "category": "Console",
-    "title": "PS5 payement par Vinted",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10643813386-ps5-payement-par-vinted?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00379_dRvQMBC2B9M86gMuJNnMGWf5/310x430/ac85dfb6.webp?s=928097760afa9bcd73078df22e4af980082eadc6",
-    "addedAt": "2026-11-03T00:16:50.031Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10644026074",
     "category": "Console",
     "title": "Playstation 4",
@@ -19762,8 +19747,10 @@
     "url": "https://www.vinted.it/items/10695777386-nintendo-ds-lite-slot-giochi-ds-non-funzionante-slot-gba-funzionante-leggere-la-descrizione?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02485_gXoW7PtkJrmksgkSdUBYAbHJ/310x430/36da8304.webp?s=947b94cc3cb1bb7bbf3067ef6c885835903973fd",
     "addedAt": "2026-11-07T00:08:43.611Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.81€, sotto soglia"
   },
   {
     "id": "10695543390",
@@ -19775,7 +19762,42 @@
     "url": "https://www.vinted.it/items/10695543390-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0078a_cChKrA33Pp9F3KrXT1mKiXDx/310x430/625bd71f.webp?s=e49fd27f6a8649e48203ee7874a9599343a363e7",
     "addedAt": "2026-11-07T00:08:43.611Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato 43 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n43 min fa\nNintendo con estuche\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 130
+  },
+  {
+    "id": "10695787706",
+    "category": "Console",
+    "title": "Power Supply for Xbox One X",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10695787706-power-supply-for-xbox-one-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01fa3_sWnmU1neVPRXnkWxD886xTib/310x430/e6ac8a44.webp?s=056c8a217c84035e7028b1ca79c8fec9583994f2",
+    "addedAt": "2026-11-07T00:10:48.700Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.3€, sotto soglia"
+  },
+  {
+    "id": "10695794645",
+    "category": "Console",
+    "title": "Replacement Fan for Xbox One X",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10695794645-replacement-fan-for-xbox-one-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0005c_HretZpWA1jZVqtUCnkAJfEMy/310x430/881677f7.webp?s=0b93e2bc5245299d7e990424168ec79da573b575",
+    "addedAt": "2026-11-07T00:11:50.902Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
   }
 ]
