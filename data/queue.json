@@ -20763,5 +20763,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10701627697",
+    "category": "Console",
+    "title": "NEU Xbox Series S Wandhalterung mit Lüfter & Controller-Halter RGB unbenutzt",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 93% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10701627697-neu-xbox-series-s-wandhalterung-mit-lufter-controller-halter-rgb-unbenutzt?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b52_mSuxkW7w5JjemQUrU6eMHDmS/310x430/faa14533.webp?s=90d9d8f06e7ad5702ce9bd9e39899e70eca5214f",
+    "addedAt": "2026-11-07T13:16:47.966Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.55€, sotto soglia"
+  },
+  {
+    "id": "10701715819",
+    "category": "Console",
+    "title": "Livre le guide des 945 jeux ps4",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 98% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10701715819-livre-le-guide-des-945-jeux-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0269b_zY9w778RbudqE9LtWrn9NowW/310x430/b85150f2.webp?s=574e69699f3053d4884f97db954c7f845b71d98e",
+    "addedAt": "2026-11-07T13:21:59.224Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.15€, sotto soglia"
   }
 ]
