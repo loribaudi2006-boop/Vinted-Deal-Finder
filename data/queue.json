@@ -20280,7 +20280,9 @@
     "url": "https://www.vinted.it/items/10710504647-custodia-protettiva-nintendo-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_009ed_juBtQT34XZeitphWbvnyE6vn/310x430/997dd778.webp?s=0e1deb03f0369b323acd24821a0d807a21711e56",
     "addedAt": "2026-11-07T23:21:15.439Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-9.2€, sotto soglia"
   }
 ]
