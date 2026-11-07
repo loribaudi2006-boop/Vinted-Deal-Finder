@@ -19733,5 +19733,49 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10695741353",
+    "category": "Console",
+    "title": "Ps4 pro",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 73% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10695741353-ps4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01f60_G1uGq1SnffTrZJYXxeveH2Ka/310x430/631e8488.webp?s=cc2dcc1a1ceaaee7bdf315ab6d65fe8b3946a6f9",
+    "addedAt": "2026-11-07T00:01:24.925Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nVenduto\nPs4 pro\nDiscrete·PlayStation·Caricato un minuto fa\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nWerkt goed niks mis me geen controoler of kabel me\nSpedizione\nda 5,29 €",
+    "geminiFault": "Manca controller e cavi (Werkt goed niks mis me geen controoler of kabel me)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.85
+  },
+  {
+    "id": "10695777386",
+    "category": "Console",
+    "title": "Nintendo DS Lite (slot giochi ds non funzionante",
+    "price": 29.99,
+    "totalPrice": 32.19,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10695777386-nintendo-ds-lite-slot-giochi-ds-non-funzionante-slot-gba-funzionante-leggere-la-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02485_gXoW7PtkJrmksgkSdUBYAbHJ/310x430/36da8304.webp?s=947b94cc3cb1bb7bbf3067ef6c885835903973fd",
+    "addedAt": "2026-11-07T00:08:43.611Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10695543390",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10695543390-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0078a_cChKrA33Pp9F3KrXT1mKiXDx/310x430/625bd71f.webp?s=e49fd27f6a8649e48203ee7874a9599343a363e7",
+    "addedAt": "2026-11-07T00:08:43.611Z",
+    "processed": false,
+    "triaged": false
   }
 ]
