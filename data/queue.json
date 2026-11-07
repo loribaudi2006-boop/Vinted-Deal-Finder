@@ -19832,5 +19832,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10695943211",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10695943211-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_006f3_33mnxvG19ySBANQERijq42CL/310x430/37c71057.webp?s=322e519dcfb6980569bb68f9ff840c20984119d4",
+    "addedAt": "2026-11-07T00:42:54.491Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nJuste caoutchou anologue enlever se qui ne gêne pas au jeu\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "gommino analogico rimosso ma non pregiudica il gioco",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
