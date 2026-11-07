@@ -19862,7 +19862,10 @@
     "url": "https://www.vinted.it/items/10696730053-switch-v2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_003e9_oCvArN5Da2HzBTV83hCZo9KH/310x430/94ca9f88.webp?s=24851d86a619826726dcdad737ffd0ff9dd8fec6",
     "addedAt": "2026-11-07T03:51:39.259Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
