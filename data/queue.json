@@ -1,20 +1,5 @@
 [
   {
-    "id": "10646501747",
-    "category": "Console",
-    "title": "PS4 Mit 2 Controllern",
-    "price": 58,
-    "totalPrice": 61.6,
-    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10646501747-ps4-mit-2-controllern-spielen-und-mehr-zubehor?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00088_WrJcZpy2EW8qNnrAgYFj1R4S/310x430/61c9bc57.webp?s=9cccf01eab643b82fde2a36587b6add2fe6044fd",
-    "addedAt": "2026-11-03T09:48:40.491Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10646575997",
     "category": "Console",
     "title": "Ps5 scattola vuota",
@@ -20175,5 +20160,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10698580976",
+    "category": "Console",
+    "title": "Ps4 bonne état",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10698580976-ps4-bonne-etat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020a2_4b1yFPQWeq3zxgyeQHMbtoaC/310x430/02b74e96.webp?s=62e82ed0700dd76b2e7bd44b5c2062f7211b6a92",
+    "addedAt": "2026-11-07T09:50:05.693Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 bonne état\nBuone·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 500giga\nLecteur cd un peu fatigué mais marche et reconnais tout les CD\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lecteur cd un peu fatigué mais marche et reconnais tout les CD",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 53.05
+  },
+  {
+    "id": "10698650029",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10698650029-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_018fe_RgZS22kyg1QD4zvN3g5d4BLx/310x430/f6545bae.webp?s=e708951e2f39d3b25aaf7de3fc337efb94bf975b",
+    "addedAt": "2026-11-07T09:55:18.825Z",
+    "processed": false,
+    "triaged": false
   }
 ]
