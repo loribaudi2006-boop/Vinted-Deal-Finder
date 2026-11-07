@@ -20284,5 +20284,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-9.2€, sotto soglia"
+  },
+  {
+    "id": "10710607081",
+    "category": "Console",
+    "title": "Switch premiere edition",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10710607081-switch-premiere-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00be6_T25K5mFSH68D1Kp2QnwuTwN6/310x430/c015d9fa.webp?s=245be0cb3b517dc5bc62e592c62a570e843f9b43",
+    "addedAt": "2026-11-07T23:35:45.970Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch premiere edition\nBuone·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nQuelque rayures visible sur l'écran quand il est éteint plus rien quand il est allumer\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Quelque rayures visible sur l'écran quand il est éteint plus rien quand il est allumer",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 76.8
+  },
+  {
+    "id": "10710631449",
+    "category": "Console",
+    "title": "Solo box Nintendo switch vuoto",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10710631449-solo-box-nintendo-switch-vuoto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020b3_KC3dXKVRGax1jeLKvFMkHcpo/310x430/6e0d4e30.webp?s=9a246f1bc74fff50a72e7015aace279d2188404b",
+    "addedAt": "2026-11-07T23:39:54.520Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8€, sotto soglia"
   }
 ]
