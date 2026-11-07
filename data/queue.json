@@ -1,56 +1,5 @@
 [
   {
-    "id": "10645360210",
-    "category": "Console",
-    "title": "PlayStation 5 horizontal Support",
-    "price": 16.9,
-    "totalPrice": 18.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10645360210-playstation-5-horizontal-support?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02368_PeLQUPzbuEcWa4UPWWGtJaaa/310x430/ddd84040.webp?s=bc2ec09a1c437228e39e640ec3ac59c964613f2d",
-    "addedAt": "2026-11-03T07:00:08.996Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5€, sotto soglia"
-  },
-  {
-    "id": "10645374890",
-    "category": "Console",
-    "title": "Lot complet Nintendo switch",
-    "price": 66,
-    "totalPrice": 70,
-    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10645374890-lot-complet-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01b12_G71rERnVZztz3J8ANtv1mEAb/310x430/497eaf4f.webp?s=105b536ef36d4628761a59da381f66a06d2268aa",
-    "addedAt": "2026-11-03T07:04:16.661Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Switch Console\nLot complet Nintendo switch\nOttime·Nintendo Switch·Caricato proprio adesso\n\n66,00 €\n\n70,00 €\nincl. la commissione Vinted\nBrandNintendo Switch\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe vends un lot complet Nintendo Switch comprenant la console, 3 jeux et plusieurs accessoires.\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
-    "id": "10645373330",
-    "category": "Console",
-    "title": "PlayStation 4 sony",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10645373330-playstation-4-sony?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01fee_xtSTLsznXXb6oATi3o6mxE26/310x430/a7d1fb70.webp?s=c4cf7f1993aa9689a131b5727f49b7e74e858357",
-    "addedAt": "2026-11-03T07:04:16.661Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 sony\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlayStation 4 sony\navec câble HDMI neuf\n#ps4 #playstation4 #playstationsony #sony #ps4sony\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10645452469",
     "category": "Console",
     "title": "Bolsa para Nintendo Switch",
@@ -19821,5 +19770,20 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10697240407",
+    "category": "Console",
+    "title": "Nintendo Switch 2 + Mario Kart World Bundle - Leerbox (2025)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10697240407-nintendo-switch-2-mario-kart-world-bundle-leerbox-2025?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_026fc_hgvTu8tJipUreadRpGKbetUA/310x430/a3ece6ff.webp?s=45fbd0c2636a864e2cb35adce957bac7cfb4b3e8",
+    "addedAt": "2026-11-07T06:59:30.622Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-26.95€, sotto soglia"
   }
 ]
