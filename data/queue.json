@@ -19799,5 +19799,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "10695856748",
+    "category": "Console",
+    "title": "PlayStation 4 Slim + Controller – Black",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10695856748-playstation-4-slim-controller-black?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0048a_NSbSJHoszvfGV7QVABA4taUv/310x430/d3a67850.webp?s=be8d5a3cc9c0bd607da0f45d6067ba0e1274e2e8",
+    "addedAt": "2026-11-07T00:24:16.102Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "criviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 Slim + Controller – Black\nOttime·PlayStation·Caricato proprio adesso\n\n49,00 €\n\n52,15 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nSelling my PlayStation 4 Slim in black, including one original DualShock 4 controller.\nConsole: PS4 Slim\nColour: Black\nIncludes: 1 controller\nGood overall condition\nPerfect for gaming!\nFeel free to message me if you're interested.\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10695861902",
+    "category": "Console",
+    "title": "Grand concours PS5 slim 1 to",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10695861902-grand-concours-ps5-slim-1-to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f9d_GZuR2W7N8746dcwsgGLgWirz/310x430/ec2e6d71.webp?s=2a22861d540088bd6f0883cc52b6bb25289599c9",
+    "addedAt": "2026-11-07T00:25:18.182Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
