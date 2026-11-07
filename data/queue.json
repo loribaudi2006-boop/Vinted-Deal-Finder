@@ -1,20 +1,5 @@
 [
   {
-    "id": "10647583859",
-    "category": "Console",
-    "title": "Scatola PlayStation 4 Slim",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10647583859-scatola-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00012_Eu3zX9SGPASi5bdzivW6M8cv/310x430/3b87f9c3.webp?s=7ee4dfff9ded00370e079fc1cb770285e9a957f6",
-    "addedAt": "2026-11-03T11:25:39.054Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
     "id": "10647751564",
     "category": "Console",
     "title": "Xbox One noire + manette + 2 jeux + accessoires – Très bon état",
@@ -20382,5 +20367,56 @@
     "geminiFault": "Controller non in buone condizioni estetiche ma funzionante, console funzionante",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.3
+  },
+  {
+    "id": "10700001852",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10700001852-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0078a_cChKrA33Pp9F3KrXT1mKiXDx/310x430/625bd71f.webp?s=e49fd27f6a8649e48203ee7874a9599343a363e7",
+    "addedAt": "2026-11-07T11:30:44.683Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nNintendo con estuche\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 138.25
+  },
+  {
+    "id": "10699996336",
+    "category": "Console",
+    "title": "PlayStation PSP-1004 per ricambi",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10699996336-playstation-psp-1004-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0203c_JSr3QKQFw17PTEpZWiDpCZEz/310x430/ad5ebdac.webp?s=23a54dfa23c3f6bde5477e3e9b55c13f1d265d13",
+    "addedAt": "2026-11-07T11:30:44.684Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.55€, sotto soglia"
+  },
+  {
+    "id": "10700038020",
+    "category": "Console",
+    "title": "Ps4 slim 500Gb",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10700038020-ps4-slim-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00118_HvSczQk1drJxNx3nQC9HAWaP/310x430/f442bc07.webp?s=07258fe293fefac59a583a842605cda619a66a28",
+    "addedAt": "2026-11-07T11:33:51.140Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim 500Gb\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nUsado\n1 comando\nEstou a vender porque não utilizo mais\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
   }
 ]
