@@ -19867,5 +19867,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10696846111",
+    "category": "Console",
+    "title": "PlayStation 3 (per ricambi)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10696846111-playstation-3-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_010dd_Qb8c6Kfu2vnwjzgp1T6U83Cw/310x430/2d44afec.webp?s=2be8935e13ba1fda0cd9b85a88909a0f49ad37cc",
+    "addedAt": "2026-11-07T04:30:51.626Z",
+    "processed": false,
+    "triaged": false
   }
 ]
