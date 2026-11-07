@@ -1,21 +1,5 @@
 [
   {
-    "id": "10645231186",
-    "category": "Console",
-    "title": "PS4 con 2 joystick",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10645231186-ps4-con-2-joystick?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00707_oweLQnePPeBpuRZwDvtDkStQ/310x430/684ada78.webp?s=321e1db10a4be22fd6c1d84574b00f342ecbf0d6",
-    "addedAt": "2026-11-03T06:18:56.912Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10645266214",
     "category": "Console",
     "title": "2 x PlayStation 5 Ladestationen",
@@ -19862,7 +19846,10 @@
     "url": "https://www.vinted.it/items/10697053199-lot-nintendo-wii-et-jeux-wii-ds-3-ds-et-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00549_B6dfNoG8Jd25FL5vYF4P5SWJ/310x430/56c962a9.webp?s=c6b1a624c8b0b2d6cb02dfe628db526da116f3ad",
     "addedAt": "2026-11-07T05:56:35.854Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
