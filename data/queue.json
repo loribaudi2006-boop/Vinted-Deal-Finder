@@ -1,35 +1,5 @@
 [
   {
-    "id": "10646134382",
-    "category": "Console",
-    "title": "PS4 Spiele",
-    "price": 7,
-    "totalPrice": 8.05,
-    "reason": "prezzo 95% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10646134382-ps4-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01e7d_m17mWhzenrfrfyMKdEAEyYCd/310x430/75581a06.webp?s=f627a20ee8051849dcbc3385ae6b48e81262f697",
-    "addedAt": "2026-11-03T09:10:29.625Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1€, sotto soglia"
-  },
-  {
-    "id": "10633740327",
-    "category": "Console",
-    "title": "Mando Nintendo Switch",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10633740327-mando-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01237_GKcGYLCFVJZ2eRPnfmkY5Jnf/310x430/5407105f.webp?s=29887a8df4c555333a468b40fdf88970c97018ae",
-    "addedAt": "2026-11-03T09:14:37.358Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.3€, sotto soglia"
-  },
-  {
     "id": "10646283641",
     "category": "Console",
     "title": "Accessoire Casque Elite Ps5",
@@ -20079,5 +20049,38 @@
     "geminiFault": "Console precedentemente riparata",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10698105624",
+    "category": "Console",
+    "title": "Console portable Nintendo Switch noire",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10698105624-console-portable-nintendo-switch-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c2c_LucpkJe3LzNoJ5XszgRXAMni/310x430/98521b2b.webp?s=356106710dc4ae41bbc037882998a2d6501b5a07",
+    "addedAt": "2026-11-07T09:08:36.511Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nConsole portable Nintendo Switch noire\nOttime·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch noire peu servie,sans emballage\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza emballage",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.55
+  },
+  {
+    "id": "10698127890",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10698127890-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_003c6_hAfLMETtw9oMgiYyNnK1vLeQ/310x430/e9340789.webp?s=9aaa64d5e5edf9d2161d936d8c8e4728b5c4131c",
+    "addedAt": "2026-11-07T09:10:40.676Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   }
 ]
