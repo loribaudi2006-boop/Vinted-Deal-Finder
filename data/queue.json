@@ -19846,8 +19846,11 @@
     "url": "https://www.vinted.it/items/10696148304-ps4-en-mode-echec?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02456_UP3NQKn6WXVDf7U4pqkWfuMK/310x430/eb9dd8f7.webp?s=6df35a0471bef12d1e5a8c95363ef0f0e53a6da5",
     "addedAt": "2026-11-07T01:27:14.731Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10696262693",
