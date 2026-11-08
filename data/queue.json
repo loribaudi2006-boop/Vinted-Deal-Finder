@@ -1,23 +1,5 @@
 [
   {
-    "id": "10658557843",
-    "category": "Console",
-    "title": "Nintendo Switch en perfecto estado",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10658557843-nintendo-switch-en-perfecto-estado?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01227_CPx48iyH7S5weCxNGtE4MK19/310x430/7f088c69.webp?s=84623556ba1e8e8914ec49d76eaeca15dfbd6e1a",
-    "addedAt": "2026-11-04T06:36:02.133Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "| Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n15\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nVenduto\nNintendo Switch en perfecto estado\nNuovo senza cartellino·Nintendo·Caricato 41 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n41 min fa\nVendo Nintendo switch usada en perfectas condiciones con bloqueo de control parental si tienes ordenador la puedes resetear tú mismo si no ir a cualquier tienda a hacerle el reset ya que era de mi hermana pequeña i no nos acordamos de la clave\n... altro\nSpedizione\nda 5,49 €",
-    "geminiFault": "Bloqueo de control parental activo, no se sabe la clave",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10658631704",
     "category": "Console",
     "title": "Ps4 slim",
@@ -20383,5 +20365,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10712280100",
+    "category": "Console",
+    "title": "Joistick ps4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10712280100-joistick-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00290_uAXPuPEts2wMcjxt1pMFKVDC/310x430/5c8c68d6.webp?s=7598cd704a76a05be34291d20a4f837199e1f149",
+    "addedAt": "2026-11-08T06:35:45.180Z",
+    "processed": false,
+    "triaged": false
   }
 ]
