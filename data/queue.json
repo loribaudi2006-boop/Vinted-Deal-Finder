@@ -1,20 +1,5 @@
 [
   {
-    "id": "10660625895",
-    "category": "Console",
-    "title": "Nitendo Switch opberg",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10660625895-nitendo-switch-opberg?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0020a_i4CWn1ENTTmgd52LrG7CUXpL/310x430/055f864b.webp?s=a60a6477bfc88979151e2f98c1a6d294c226a24a",
-    "addedAt": "2026-11-04T11:14:49.233Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10660939740",
     "category": "Console",
     "title": "Socle switch 2",
@@ -20914,5 +20899,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 150
+  },
+  {
+    "id": "10715171642",
+    "category": "Console",
+    "title": "Nintendo Switch 1 replacement screws",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10715171642-nintendo-switch-1-replacement-screws?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00051_NCYczeCY9V9YgUKw6QPzGcJf/310x430/b41eea1e.webp?s=6c335810d396afa10dddc4fcd34dd1afa94c2fec",
+    "addedAt": "2026-11-08T11:07:39.650Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1.2€, sotto soglia"
+  },
+  {
+    "id": "10715290500",
+    "category": "Console",
+    "title": "Ps2 per pezzi",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10715290500-ps2-per-pezzi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0057b_j9zTzRmK4qwiNeJv9K4j4ZgS/310x430/990df099.webp?s=57731915b704f3f7b3f771362bdadcd5da654d98",
+    "addedAt": "2026-11-08T11:13:53.651Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.55€, sotto soglia"
+  },
+  {
+    "id": "10715351428",
+    "category": "Console",
+    "title": "Juegos de ps4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10715351428-juegos-de-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00822_dkk2Xy3sG1SdR5PLrNHqF8hC/310x430/b3b8ffb0.webp?s=1feed557f972bbb09c124ea1f3b51c76c37ec66a",
+    "addedAt": "2026-11-08T11:17:00.937Z",
+    "processed": false,
+    "triaged": false
   }
 ]
