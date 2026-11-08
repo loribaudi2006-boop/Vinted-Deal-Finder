@@ -20320,5 +20320,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10710986490",
+    "category": "Console",
+    "title": "Xbox one + mannette hs",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10710986490-xbox-one-mannette-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c25_UQMXiyaSFMe2jngt5Qb71EuU/310x430/15f5559d.webp?s=9d23b52e36b75cac6e45abc15dd4eb0097bc71cf",
+    "addedAt": "2026-11-08T00:40:04.963Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
