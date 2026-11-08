@@ -20330,8 +20330,11 @@
     "url": "https://www.vinted.it/items/10711136694-cherche-un-don-dune-console-ps4-ou-xbox?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_008d6_nqMSRJriWMkJtQ5PgNso7JYj/310x430/616001b8.webp?s=12722763fc3367ab1eb8c46fb686a30d7ae7733a",
     "addedAt": "2026-11-08T01:08:04.607Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10711220974",
