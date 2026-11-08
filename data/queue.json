@@ -23655,7 +23655,12 @@
     "url": "https://www.vinted.it/items/10728589849-nintendo-switch-neon-azulrojo-funda-correas-con-detalles?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00d17_13setcPB6K9yFPkBRNGE1PnQ/310x430/95aad67d.webp?s=7cbd7c0b1534bea258ddb2fbe6a7d64c198be12e",
     "addedAt": "2026-11-08T22:32:51.543Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "edi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Neón Azul/Rojo + Funda + Correas - Con detalles\nBuone·Nintendo·Caricato un minuto fa\n\n47,00 €\n\n50,05 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo Nintendo Switch modelo clásico en color Neón Azul y Rojo.\n\nFunciona perfectamente y los Joy-Con van bien, sin drift.\n\n• Le falta la patilla trasera para apoyarla en modo sobremesa (el pie de apoyo). En portátil no afecta para nada.\n• Tiene algún rasguño leve en la pantalla y por detrás, de uso normal. No afecta al juego, se ve bien al encenderla.\n\nIncluye lo que se ve en las fotos:\n• Consola Nintendo Switch\n• Joy-Con izquierdo azul neón\n• Joy-Con derecho rojo neón\n• 2 correas Joy-Con originales\n• Funda rígida de transporte oficial Nintendo Switch\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca la patilla trasera (piedino di supporto) e presenta lievi graffi su schermo e scocca",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 79.95
   }
 ]
