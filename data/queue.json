@@ -1,38 +1,5 @@
 [
   {
-    "id": "10659656861",
-    "category": "Console",
-    "title": "PS4 Slim 1tb + Joypad originale",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10659656861-ps4-slim-1tb-joypad-originale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01ff4_tr5AGuPRYbbdY2G9tRuZN52i/310x430/1f26d044.webp?s=a74faec8b56bd5b69436679499646681c8d4a88f",
-    "addedAt": "2026-11-04T09:28:39.956Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 Slim 1tb + Joypad originale\nBuone·Sony·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo per inutilizzo e per passaggio a PS5. Console e Joypad Presentano segni di utilizzo, ma funziona perfettamente\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Segni di utilizzo estetici, ma funziona perfettamente",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
-    "id": "10659715276",
-    "category": "Console",
-    "title": "Boîte de switch",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10659715276-boite-de-switch-edition-animal-crossing?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02678_35YrK3MMHVTfevEr44Xwx1Gs/310x430/be228945.webp?s=430ff3fac84c4b43e840986beec1c1878fd85350",
-    "addedAt": "2026-11-04T09:34:54.134Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.95€, sotto soglia"
-  },
-  {
     "id": "10660303590",
     "category": "Console",
     "title": "PS4 13.50",
@@ -20407,5 +20374,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~17.05€, sotto soglia"
+  },
+  {
+    "id": "10713517208",
+    "category": "Console",
+    "title": "Console PS4 Fat + 2 Controller",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10713517208-console-ps4-fat-2-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01449_mB2GggueCnQYex5GJBHvWTJa/310x430/73b65020.webp?s=f66eff9b03cfef85605c033849570d0f4037a9f7",
+    "addedAt": "2026-11-08T09:28:51.202Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nConsole PS4 Fat + 2 Controller\nDiscrete·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nConsole PS4 Fat: Modello originale con scocca bicolore (memoria interna da 500GB o 1TB, non verificabile al momento perché già formattata e riposta nella scatola\n\nStato dell'oggetto (LEGGERE BENE):\n• Inizializzata/Formattata: La console è già stata riportata alle impostazioni di fabbrica. Chi la acquista dovrà semplicemente configurarla come se fosse nuova.\n• Lettore Disco da verificare: Ho sempre acquistato e scaricato i giochi in digitale dal PlayStation Store, quindi il lettore di supporti fisici (Bluray) non è testato o potrebbe non funzionare. Viene venduta assumendo che funzioni solo per il gioco in digitale.\n• Tendenza a scaldarsi: La console si accende e funziona, ma dopo un po' tende a scaldarsi e la ventola diventa rumorosa. Ha chiaramente bisogno di una pulita interna dalla polvere e possibilmente del cambio della pasta termica.\nFormula visto e piaciuto\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lettore disco da verificare (potrebbe non funzionare), tendenza a scaldarsi con ventola rumorosa (necessita pulizia e cambio pasta termica)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.55
   }
 ]
