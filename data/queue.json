@@ -1,23 +1,5 @@
 [
   {
-    "id": "10669618156",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10669618156-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0152f_wXdmUJncbiSiGeoXqp6Gz3uR/310x430/ae153fb1.webp?s=2540eab1c9df961996aa30d13572eecfd61f3692",
-    "addedAt": "2026-11-04T21:57:22.006Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSwitch\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 70
-  },
-  {
     "id": "10669692941",
     "category": "Console",
     "title": "Ps4 tekoop",
@@ -23542,5 +23524,38 @@
     "geminiFault": "Non funzionante, schermo con pochi graffi, difetti non specificati. Include piccola console retro con batterie scariche.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.31
+  },
+  {
+    "id": "10728178537",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10728178537-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e5e_ukMS2gTayF3vpPUpZhwGCfkq/310x430/e37a4989.webp?s=0e4c7354f0db02440ebe607efa7f3afbfac52728",
+    "addedAt": "2026-11-08T21:56:26.038Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nFunziona perfettamente, joystick funzionante.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10728235968",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10728235968-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00376_LTDGPQ6CwJA1QkaVGhi18Tmp/310x430/ecd93d45.webp?s=9513e1a1984ea1b8e9c997959361c95b66b57713",
+    "addedAt": "2026-11-08T22:01:38.039Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   }
 ]
