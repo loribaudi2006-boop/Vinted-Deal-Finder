@@ -1,20 +1,5 @@
 [
   {
-    "id": "10657393743",
-    "category": "Console",
-    "title": "Xbox one 500gb",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10657393743-xbox-one-500gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00f53_qs9N7J5TUeYKAVkHMYs1GFkG/310x430/a1438936.webp?s=d68b3ec9cf261e78e49e06e4468796377bd078b1",
-    "addedAt": "2026-11-04T00:55:46.300Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
     "id": "10657446227",
     "category": "Console",
     "title": "Koffer für Nintendo Switch mit Platz für 18 Spiele",
@@ -20335,5 +20320,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10711051317",
+    "category": "Console",
+    "title": "Xbox one black",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10711051317-xbox-one-black?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a72_CXW2ztbumw4A3RT66vbo8nvQ/310x430/1acf65a3.webp?s=f24922d7414c4775bea2eccf896e9d0a65ada0c3",
+    "addedAt": "2026-11-08T00:52:31.609Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
