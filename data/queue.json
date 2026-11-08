@@ -1,56 +1,5 @@
 [
   {
-    "id": "10670156912",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10670156912-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01919_URGiSTnnBB76MNfaFjJvLD3s/310x430/72f6592e.webp?s=cca388fede17de50ae47fd7ca936c74ce7ce5b8f",
-    "addedAt": "2026-11-04T23:03:58.026Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nBuone·Nintendo·Caricato un minuto fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\ncargador original y viene con funda incluida\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 100
-  },
-  {
-    "id": "10670162719",
-    "category": "Console",
-    "title": "façade ps5 slim",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10670162719-facade-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02225_NjrUDF7jQ5zbaTSPyQ1gTstu/310x430/2af5ea3e.webp?s=9cdd6c7d029eaea37dca8ad2ab97a688cf02885c",
-    "addedAt": "2026-11-04T23:05:00.597Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.55€, sotto soglia"
-  },
-  {
-    "id": "10670201061",
-    "category": "Console",
-    "title": "Ps4 tekoop",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10670201061-ps4-tekoop?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01e4a_ssJS8fB5ihmRRsqHwUgGKMWP/310x430/c6836157.webp?s=e1fa9b729f5ca55a8f756ca8e7a3ecd6c6020b59",
-    "addedAt": "2026-11-04T23:10:11.637Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 tekoop\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nAlles werkt perfect.\nHeb geen kabels\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Heb geen kabels (manca di cavi)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40
-  },
-  {
     "id": "10670319938",
     "category": "Console",
     "title": "Nintendo Switch lite",
@@ -23659,5 +23608,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10728911308",
+    "category": "Console",
+    "title": "Dock Station originale Nintendo Switch OLED (colore bianco) + accessori joy-con",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10728911308-dock-station-originale-nintendo-switch-oled-colore-bianco-accessori-joy-con?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c10_Nce6y3tUjFZasagTvddvaamF/310x430/fc47a33b.webp?s=f2c936dbdb80be3e2a5db806ca250a708868d21a",
+    "addedAt": "2026-11-08T23:07:09.542Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
