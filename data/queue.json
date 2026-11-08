@@ -20749,5 +20749,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10714270665",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10714270665-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0169c_BXw1TJVKFUCDsDy6udmoLycu/310x430/32f71412.webp?s=ad98e406417b8618e5b10bdde31a36d9ecdfcef8",
+    "addedAt": "2026-11-08T10:17:45.836Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nBuone·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nA vendre Switch lite .bon état\nÉcran un peu abîmé mais ne gêne pas\nRemise aux paramètres d'usine\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Écran un peu abîmé mais ne gêne pas",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10714324674",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 54.99,
+    "totalPrice": 58.44,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10714324674-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00bc3_z3YJWBY5m4BQdVs7yMnURXyd/310x430/9a92a90b.webp?s=2ec42affb5e13d13e0663131347c2d05bdffa1f4",
+    "addedAt": "2026-11-08T10:21:55.370Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n54,99 €\n\n58,44 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nNintendo switch en états satisfaisant elle s’allume et fonctionne normalement mais l’écran est rayé et les joy-con ne fonctionne pas bien\nVendu avec housse de protection\nSans accessoires ni jeux\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Schermo rayé, joy-con non funzionano bene, senza accessori né giochi, con custodia",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.56
   }
 ]
