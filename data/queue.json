@@ -20394,7 +20394,10 @@
     "url": "https://www.vinted.it/items/10712091491-xbox-one-kabel-defekt-defekt-ersatzteilspender?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_026d4_Sxpkcxe1WWNQdCf2A72r2yhQ/310x430/44c72b58.webp?s=6b3b5aa910e8a021f7f1278eac41b8fdce281918",
     "addedAt": "2026-11-08T05:18:21.374Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
