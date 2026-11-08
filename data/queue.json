@@ -1,35 +1,5 @@
 [
   {
-    "id": "10660466543",
-    "category": "Console",
-    "title": "Refrigeración PS5",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10660466543-refrigeracion-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0050d_vN82KKoFSQcQ4g8fsQwAeg49/310x430/0be3306e.webp?s=feedb3cc81d3e6cf6e615b9e382be3e2b024919f",
-    "addedAt": "2026-11-04T10:43:32.640Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-22.7€, sotto soglia"
-  },
-  {
-    "id": "10660482830",
-    "category": "Console",
-    "title": "Nintendo Switch Halterung.",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10660482830-nintendo-switch-halterung?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_018e8_SvFMeSD6vrSL5WRLr1rnpSVq/310x430/a46da39e.webp?s=d63d2b18cef97b76b825ef1a7e4f0ded768be384",
-    "addedAt": "2026-11-04T10:44:34.839Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.7€, sotto soglia"
-  },
-  {
     "id": "10660520683",
     "category": "Console",
     "title": "Xbox one 500",
@@ -20785,5 +20755,33 @@
     "geminiFault": "Minor cosmetic wear from normal use",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 67.85
+  },
+  {
+    "id": "10714616096",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10714616096-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_017b5_8VNcPadBP8d2LzvkJ7ifPeHk/310x430/4c848a42.webp?s=505590acb0093eee26a18d3a3b330e33ff56cb11",
+    "addedAt": "2026-11-08T10:37:30.660Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10714780609",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10714780609-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_008bc_VGaT4PNPLueu5NbJyDj6FkUx/310x430/19b625e7.webp?s=2ae5f1365f74506e7d6998802fc6f52a0774bba7",
+    "addedAt": "2026-11-08T10:46:50.822Z",
+    "processed": false,
+    "triaged": false
   }
 ]
