@@ -23662,5 +23662,38 @@
     "geminiFault": "Manca la patilla trasera (piedino di supporto) e presenta lievi graffi su schermo e scocca",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 79.95
+  },
+  {
+    "id": "10728691585",
+    "category": "Console",
+    "title": "Ps4 1to",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10728691585-ps4-1to?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02651_PrW5EEUg8hHdGJFyjMRYKKku/310x430/a48e0658.webp?s=d586582b9812ffb32ea758df4d616d34952b57ec",
+    "addedAt": "2026-11-08T22:43:14.018Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 1to\nBuone·Sony·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nBon état avec 1 manette filaire\nEt 2 jeux the witcher\ncâble hdmi et alimentation\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.3
+  },
+  {
+    "id": "10728727197",
+    "category": "Console",
+    "title": "Nintendo switch leer descripción",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10728727197-nintendo-switch-leer-descripcion?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_001db_ZWLM6W7Fz6BWbLHNAMCnCUn4/310x430/2f702d44.webp?s=7d99e04903406e26ad0d4a67e26a4fb51078d48e",
+    "addedAt": "2026-11-08T22:46:21.100Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
