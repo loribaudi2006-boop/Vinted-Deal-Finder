@@ -20378,8 +20378,11 @@
     "url": "https://www.vinted.it/items/10711518464-console-xbox-one-s-all-digital-edition-1tb-1to-microsoft-console-only-looseb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01d98_n7YX87WCE8erwKAMXBrPofhm/310x430/43581216.webp?s=ce43d8640d7583d71965fee0dd2ade08cf6d97ff",
     "addedAt": "2026-11-08T02:28:55.037Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10711540862",
