@@ -20317,5 +20317,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-8€, sotto soglia"
+  },
+  {
+    "id": "10710810641",
+    "category": "Console",
+    "title": "nintendo switch lite grise",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10710810641-nintendo-switch-lite-grise?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b8a_Fdr25Xj3xjaDZfy5M8sAvvHW/310x430/d9e17d36.webp?s=a171dc06854a7cf9153f6c900ac32710fc77d361",
+    "addedAt": "2026-11-08T00:08:58.137Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "go\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch lite grise\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nparfaite état acheter pour mon ex copine mais elle m’a tromper donc je l’ai recup et je la revend ici\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
