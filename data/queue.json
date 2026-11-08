@@ -1,21 +1,5 @@
 [
   {
-    "id": "10658390244",
-    "category": "Console",
-    "title": "Xbox One 500 Go - Console seule avec câbles",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10658390244-xbox-one-500-go-console-seule-avec-cables?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01cf1_tjzbamVTvpQXbZ3N2Xw9Krif/310x430/36189e9b.webp?s=ac330b2d6e4698fdd43734fdbd5d9853c13a9286",
-    "addedAt": "2026-11-04T05:13:05.817Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10658503929",
     "category": "Console",
     "title": "Nintendo switch lite drift",
@@ -20399,5 +20383,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10712091491",
+    "category": "Console",
+    "title": "Xbox One –  Kabel defekt Defekt / Ersatzteilspender",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10712091491-xbox-one-kabel-defekt-defekt-ersatzteilspender?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_026d4_Sxpkcxe1WWNQdCf2A72r2yhQ/310x430/44c72b58.webp?s=6b3b5aa910e8a021f7f1278eac41b8fdce281918",
+    "addedAt": "2026-11-08T05:18:21.374Z",
+    "processed": false,
+    "triaged": false
   }
 ]
