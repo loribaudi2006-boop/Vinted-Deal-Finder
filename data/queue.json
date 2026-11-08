@@ -20362,6 +20362,22 @@
     "url": "https://www.vinted.it/items/10711317406-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01589_14DtmcwJZbrFb9cXvmW4DfTX/310x430/460feaa1.webp?s=9f94899b61def2bc42260d761b2fc3c6375288f4",
     "addedAt": "2026-11-08T01:45:23.763Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10711518464",
+    "category": "Console",
+    "title": "Console Xbox One S All Digital Edition 1Tb 1To Microsoft Console Only Loose/B",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10711518464-console-xbox-one-s-all-digital-edition-1tb-1to-microsoft-console-only-looseb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01d98_n7YX87WCE8erwKAMXBrPofhm/310x430/43581216.webp?s=ce43d8640d7583d71965fee0dd2ade08cf6d97ff",
+    "addedAt": "2026-11-08T02:28:55.037Z",
     "processed": false,
     "triaged": false
   }
