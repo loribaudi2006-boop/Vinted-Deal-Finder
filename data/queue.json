@@ -1,38 +1,5 @@
 [
   {
-    "id": "10669864161",
-    "category": "Console",
-    "title": "Nintendo Switch with bigger battery capacity v2",
-    "price": 9,
-    "totalPrice": 10.15,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10669864161-nintendo-switch-with-bigger-battery-capacity-v2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01b91_rYwBoPgphUDzV4a8An3aaYHk/310x430/df3c1f70.webp?s=5709ac06dd6346348fd7d7925440e4903c556e10",
-    "addedAt": "2026-11-04T22:24:41.228Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch with bigger battery capacity v2\nBuone·Nintendo·Caricato proprio adesso\n\n9,00 €\n\n10,15 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nIn new state. Some scratches on the side of the screen because of the dock, but not on the screen itself. Works flawlessly.\nSpedizione\nda 6,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Scratches on the side of the screen because of the dock",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 129.85
-  },
-  {
-    "id": "10669855763",
-    "category": "Console",
-    "title": "Nintendo Switch RDS Deluxe System Case Hard Travel Carrying Bag Official",
-    "price": 28.95,
-    "totalPrice": 31.1,
-    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10669855763-nintendo-switch-rds-deluxe-system-case-hard-travel-carrying-bag-official?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01fae_8KMNQnqcwRy2n5rHSTTxah4g/310x430/0bd3140e.webp?s=2182e2c9959a3bd57f59784c5c89454521f2ee28",
-    "addedAt": "2026-11-04T22:24:41.229Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-8.1€, sotto soglia"
-  },
-  {
     "id": "10669945119",
     "category": "Console",
     "title": "Nintendo switch 1 console seule",
@@ -23659,5 +23626,36 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10728561541",
+    "category": "Console",
+    "title": "Xbox One 1.5 terabytes",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10728561541-xbox-one-15-terabytes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02401_73PZSVS15vYjEEmdnFmAzJU4/310x430/efe32bc2.webp?s=fc229eff0075f623ec53047c916bad3220658f6c",
+    "addedAt": "2026-11-08T22:29:44.946Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox One 1.5 terabytes\nOttime·Xbox·Caricato un minuto fa\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox One s em muito bom estada como nova\nSem marcas de uso\nTem disco de 1.5 terabytes\nA Xbox vai pronta a usar, só precisa colocar a conta e divertir-se.\nO comando já tem algum uso, ainda dá para jogar mas tem o botão RB que não funciona.\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Controller con tasto RB non funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.55
+  },
+  {
+    "id": "10728589849",
+    "category": "Console",
+    "title": "Nintendo Switch Neón Azul/Rojo + Funda + Correas - Con detalles",
+    "price": 47,
+    "totalPrice": 50.05,
+    "reason": "prezzo 75% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10728589849-nintendo-switch-neon-azulrojo-funda-correas-con-detalles?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d17_13setcPB6K9yFPkBRNGE1PnQ/310x430/95aad67d.webp?s=7cbd7c0b1534bea258ddb2fbe6a7d64c198be12e",
+    "addedAt": "2026-11-08T22:32:51.543Z",
+    "processed": false,
+    "triaged": false
   }
 ]
