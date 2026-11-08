@@ -1,21 +1,5 @@
 [
   {
-    "id": "10657446227",
-    "category": "Console",
-    "title": "Koffer für Nintendo Switch mit Platz für 18 Spiele",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10657446227-koffer-fur-nintendo-switch-mit-platz-fur-18-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_02067_eHHELBwTQrpxWLnWmXSRpZV5/310x430/8bf6895d.webp?s=49f485f878f640569b73abf321d114a6e88b2a5a",
-    "addedAt": "2026-11-04T01:06:12.066Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10658099979",
     "category": "Console",
     "title": "Vendo PS4",
@@ -20335,5 +20319,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10711136694",
+    "category": "Console",
+    "title": "Cherche un don d'une console ps4 ou Xbox",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10711136694-cherche-un-don-dune-console-ps4-ou-xbox?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_008d6_nqMSRJriWMkJtQ5PgNso7JYj/310x430/616001b8.webp?s=12722763fc3367ab1eb8c46fb686a30d7ae7733a",
+    "addedAt": "2026-11-08T01:08:04.607Z",
+    "processed": false,
+    "triaged": false
   }
 ]
