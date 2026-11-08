@@ -20377,5 +20377,35 @@
     "geminiFault": "batterie dei controller esaurite",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10713436424",
+    "category": "Console",
+    "title": "Lotto giochi ps4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10713436424-lotto-giochi-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02666_wvzRs7tejeLiwDUSDCgn89kE/310x430/9a693d85.webp?s=21a10f4f856130c2b87510a360d72f42b4093b46",
+    "addedAt": "2026-11-08T09:22:36.997Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-21.7€, sotto soglia"
+  },
+  {
+    "id": "10713450080",
+    "category": "Console",
+    "title": "Console Xbox One Fat 500 Go Noire",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10713450080-console-xbox-one-fat-500-go-noire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01538_st44rLPK5mg8hTvZr99J5Via/310x430/46769721.webp?s=105938b00607fb09b124137e3956b2d0cd76280f",
+    "addedAt": "2026-11-08T09:23:39.765Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.05€, sotto soglia"
   }
 ]
