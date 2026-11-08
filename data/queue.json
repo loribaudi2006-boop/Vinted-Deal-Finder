@@ -20394,7 +20394,10 @@
     "url": "https://www.vinted.it/items/10711808004-playstation-4-slim-500gb-nette-staat-met-kabels?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00951_KCoKUSSLiTbmxjPVD7LV1SAu/310x430/67627866.webp?s=16d2f68cebc61e079a09d550f03a131e62f4ba5f",
     "addedAt": "2026-11-08T03:40:09.560Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
