@@ -22582,5 +22582,53 @@
     "geminiFault": "légère imperfections en dessous de la ps4",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10720209125",
+    "category": "Console",
+    "title": "Nintendo switch rose avec pochette personnalisée",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10720209125-nintendo-switch-rose-avec-pochette-personnalisee?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01045_HTq7ksmNGeiGd7fWaJ7bBCvr/310x430/0b4143f7.webp?s=ca6cb65f335ee2a259025e22a3f3ce9ab015411a",
+    "addedAt": "2026-11-08T15:25:29.228Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch rose avec pochette personnalisée\nNuovo senza cartellino·Nintendo·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nJe vends ma Nintendo Switch rose en parfaite état et très peu utilisée (moins de 10 fois) !\nElle est comme neuve, soigneusement entretenue et fonctionne parfaitement.\n⚠️Vendue sans chargeur.\nIdéal pour offrir à Noël ou pour se faire plaisir !\n\nEnvoi soigné. N’hésitez pas à m’envoyer un message pour plus de photos ou d’informations !\n\nMe proposez des prix raisonnable pas en dessous de 100/120€\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il caricatore",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 140
+  },
+  {
+    "id": "10720500378",
+    "category": "Console",
+    "title": "Bolsa Nintendo switch",
+    "price": 17.5,
+    "totalPrice": 19.08,
+    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10720500378-bolsa-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004a9_cRJcGuzLphg8Nsc3KzyZBArT/310x430/2e88f5fa.webp?s=cd183c41b3c7cc728c09aed07a35e7ad21eafab5",
+    "addedAt": "2026-11-08T15:27:33.076Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.08€, sotto soglia"
+  },
+  {
+    "id": "10720574080",
+    "category": "Console",
+    "title": "Konsolenständer für die Switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10720574080-konsolenstander-fur-die-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0056a_8L6CKVaffXFDw3NKK6v6Ywsd/310x430/62003f1c.webp?s=562c93a747cf1e42af8a3a5baf27fecae294121e",
+    "addedAt": "2026-11-08T15:29:38.170Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-35.95€, sotto soglia"
   }
 ]
