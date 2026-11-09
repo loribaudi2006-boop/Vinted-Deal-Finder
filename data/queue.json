@@ -1,20 +1,5 @@
 [
   {
-    "id": "10672390706",
-    "category": "Console",
-    "title": "ps4 + controller e giochi",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10672390706-ps4-controller-e-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_026f0_qLq2qW95XgpCxQTLZ8EyJWX7/310x430/526185c5.webp?s=36a1efb0453fa6af118d5fd04fbcb82471ed99d6",
-    "addedAt": "2026-11-05T08:05:08.139Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~30€, sotto soglia"
-  },
-  {
     "id": "10672440075",
     "category": "Console",
     "title": "Xbox series S",
@@ -23723,5 +23708,20 @@
     "geminiFault": "La console ne marche pas !",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10731303890",
+    "category": "Console",
+    "title": "Ps4 negra",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10731303890-ps4-negra?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_022f5_Ee7szDaZdkQtkF8xU5t21LUW/310x430/97abc1a1.webp?s=145b4c45b5137f05ff35b1c0a7062674977663c9",
+    "addedAt": "2026-11-09T08:02:26.344Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
   }
 ]
