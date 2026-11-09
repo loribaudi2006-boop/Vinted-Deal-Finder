@@ -23590,5 +23590,41 @@
     "geminiFault": "lector de disco que no funciona y suciedad",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 47.3
+  },
+  {
+    "id": "10729579464",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10729579464-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01437_og3zUrWiomiMrdgChqFs3GYs/310x430/e2ebd25e.webp?s=2c546c876f0db64f39282e201ee1d73d1869b6d5",
+    "addedAt": "2026-11-09T00:44:46.776Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nDiscrete·Nintendo·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nNintendo Switch creo que no va ala batería enciende pero no carga\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "non va ala batería enciende pero no carga",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 83.05
+  },
+  {
+    "id": "10729592067",
+    "category": "Console",
+    "title": "playstation 4 Fat con due joystick",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10729592067-playstation-4-fat-con-due-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0142b_LLKjn5QYgAZkPuMpXZwVc5yc/310x430/150e4abf.webp?s=2d85d590b6204fe2948dd045955143958334672f",
+    "addedAt": "2026-11-09T00:46:52.034Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nplaystation 4 Fat con due joystick\nDiscrete·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nplaystation 4 fat con due joystick uno un po difettoso quando lo si carica non si carica tanto bene pero l’altro va bene\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Un joystick ha problemi di ricarica",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
