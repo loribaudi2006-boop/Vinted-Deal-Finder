@@ -24003,5 +24003,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2.8€, sotto soglia"
+  },
+  {
+    "id": "10742997674",
+    "category": "Console",
+    "title": "xbox one s",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10742997674-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_010b2_LkVrXh86r7EvEiS6quSvzDEb/310x430/83e6c55a.webp?s=b5c43e8809de8ea5efc4a4d4114f17c73e98292d",
+    "addedAt": "2026-11-09T23:03:14.652Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nxbox one s\nBuone·Xbox·Caricato un minuto fa\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nvendo xbox usata un po con controller insieme\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10743007168",
+    "category": "Console",
+    "title": "PS4 1TB y Mando original",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10743007168-ps4-1tb-y-mando-original?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f1c_47U7WWifU1kNMWPCRoNMYuG5/310x430/a9da7278.webp?s=4e1c139a46c46d8303a7097b6ca93f4e403737de",
+    "addedAt": "2026-11-09T23:04:22.549Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
