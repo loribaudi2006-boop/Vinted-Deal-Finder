@@ -23686,8 +23686,11 @@
     "url": "https://www.vinted.it/items/10730744525-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01415_Uj6EuA1i5xKE7VmmkCf5hnzR/310x430/0c6d0173.webp?s=e1278d99842eeb531ad81cf55e1576fe8bb39676",
     "addedAt": "2026-11-09T05:14:56.042Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10730752041",
@@ -23699,8 +23702,11 @@
     "url": "https://www.vinted.it/items/10730752041-lot-ps4-et-xbox-hs?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00391_BFqA78TFS3WYYwt6CmDhgShn/310x430/aaa2e9ee.webp?s=fc23fb610dc7d326cf2cb88b7e6eb19afd9437ad",
     "addedAt": "2026-11-09T05:18:01.763Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10730801776",
