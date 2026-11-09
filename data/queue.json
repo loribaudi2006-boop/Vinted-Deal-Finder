@@ -1,21 +1,5 @@
 [
   {
-    "id": "10668104230",
-    "category": "Console",
-    "title": "Switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10668104230-switch-light-rose-customiser-derriere?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00d6b_JAAvZox8kAeKmtsxJWzdMD3d/310x430/fde296ae.webp?s=8894cdead3451b0b1fa9519c8c358b530a32ce6e",
-    "addedAt": "2026-11-05T06:19:25.705Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10671994280",
     "category": "Console",
     "title": "Playstation 4",
@@ -23702,6 +23686,19 @@
     "url": "https://www.vinted.it/items/10730882570-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0073a_H3YHKXHtgU2CmWK6oq2rBQ6e/310x430/d2fe963a.webp?s=2bb05a9052334108125c527b1e6f23e8db184f66",
     "addedAt": "2026-11-09T06:10:43.892Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10730889133",
+    "category": "Console",
+    "title": "Console Microsoft Xbox One (Fat) Nera + Alimentatore originale",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10730889133-console-microsoft-xbox-one-fat-nera-alimentatore-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0147e_SQxfCbANHbj77qj7kcu9CL3u/310x430/cdc2fa42.webp?s=0c9c2e4a0e9d8aa12391d89fe2560accdec725c7",
+    "addedAt": "2026-11-09T06:13:49.901Z",
     "processed": false,
     "triaged": false
   }
