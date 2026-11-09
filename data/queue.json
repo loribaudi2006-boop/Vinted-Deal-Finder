@@ -1,53 +1,5 @@
 [
   {
-    "id": "10682933338",
-    "category": "Console",
-    "title": "Nintendo switch Light",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10682933338-nintendo-switch-light-rose?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01b1f_BDU56PbtMVEvyiT8bPGWtWjb/310x430/02911377.webp?s=d93aad9a1b8db6d399df84ed770ae376aca15be7",
-    "addedAt": "2026-11-05T23:08:45.322Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch Light, rose\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nNintendo switch, Lite, rose\nChargeur d’origine compris\nCarte SD comprise, marque Nintendo switch\nQuelques rayures sur la switch\nUne petite rayure sur l’écran\nNégociable mais dans la limite du négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Qualche graffio sulla scocca e un piccolo graffio sullo schermo",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
-    "id": "10682951128",
-    "category": "Console",
-    "title": "Switch lite Hülle",
-    "price": 3,
-    "totalPrice": 3.85,
-    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10682951128-switch-lite-hulle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00084_LsVjdqw1LfdmeXezV1bhZfT1/310x430/7d42b39a.webp?s=b1a467e158f7b729b5fb306e834b5217d02f0515",
-    "addedAt": "2026-11-05T23:10:49.819Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.15€, sotto soglia"
-  },
-  {
-    "id": "10682980729",
-    "category": "Console",
-    "title": "Étuis Cartouches Switch",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10682980729-etuis-cartouches-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_009c9_58dCyeiv9cmwbqH4N1kDXvKH/310x430/0d204ff6.webp?s=77a0388c76d965fa43f2993ac5a57cd3cfbc2f3b",
-    "addedAt": "2026-11-05T23:16:00.615Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
     "id": "10683007782",
     "category": "Console",
     "title": "PSP Street E1004( da testare vendo come non funzionante)",
@@ -24036,5 +23988,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10743059018",
+    "category": "Console",
+    "title": "Jeu console ps4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10743059018-jeu-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0042b_eokYbfdeoHkirYK7HydRq135/310x430/292be3db.webp?s=512d55d23dfc840e5800dc35a0f8fd262573f2ca",
+    "addedAt": "2026-11-09T23:11:39.206Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nJeu console ps4\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsole avec 2 manette une sans fil et autre avec fil\nFonctionne parfaitement\nEspace 1TO\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.05
   }
 ]
