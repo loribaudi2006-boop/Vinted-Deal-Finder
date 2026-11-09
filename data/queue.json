@@ -1,35 +1,5 @@
 [
   {
-    "id": "10682742260",
-    "category": "Console",
-    "title": "Recherche un play Xbox ps4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10682742260-recherche-un-play-xbox-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b0d_2UJo5nJunuZE3H1ks9pBVnBG/310x430/eeb39f6f.webp?s=4fa7e4bdbbda9795f579e9813885b6a7e7495e63",
-    "addedAt": "2026-11-05T22:39:30.161Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10682749913",
-    "category": "Console",
-    "title": "Suporte para PlayStation 5",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10682749913-suporte-para-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01024_1oRfEg3TPXfCPQDdaMHj9t3i/310x430/74b9ca2f.webp?s=f0d5ee313107c468f1f2431aea102334f294527e",
-    "addedAt": "2026-11-05T22:41:34.781Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-40.2€, sotto soglia"
-  },
-  {
     "id": "10682933338",
     "category": "Console",
     "title": "Nintendo switch Light",
@@ -24018,5 +23988,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.05€, sotto soglia"
+  },
+  {
+    "id": "10742739880",
+    "category": "Console",
+    "title": "Dock TV Nintendo Switch + Manette Joy-Con",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10742739880-dock-tv-nintendo-switch-manette-joy-con?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0207e_Hdx3H7mFL8baX6CpdtwyLD2D/310x430/4acfe143.webp?s=db92b3907105018869ab3504a5a0762ec47c9f74",
+    "addedAt": "2026-11-09T22:48:43.748Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.8€, sotto soglia"
   }
 ]
