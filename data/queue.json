@@ -1,20 +1,5 @@
 [
   {
-    "id": "10682188911",
-    "category": "Console",
-    "title": "PS4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10682188911-ps4-sem-comando-500-gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00f06_Td2G4RXD7gzYzWCA9P7Mrr94/310x430/839bf80a.webp?s=949c2125ea89b8ae17d70ae158041784f5d36d29",
-    "addedAt": "2026-11-05T21:36:57.440Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.3€, sotto soglia"
-  },
-  {
     "id": "10682320720",
     "category": "Console",
     "title": "Ps5 Digital black Cover/Faceplates",
@@ -24012,5 +23997,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.95€, sotto soglia"
+  },
+  {
+    "id": "10742271259",
+    "category": "Console",
+    "title": "Nintendo Switch Lite in Türkis",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10742271259-nintendo-switch-lite-in-turkis?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f30_p7jeVkNaZoBbXEP6jSt9ZbZB/310x430/7a637083.webp?s=52a435f648f300eee48d75660c63f6d34fdd4e47",
+    "addedAt": "2026-11-09T21:43:48.553Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "enuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Lite in Türkis\nOttime·Nintendo·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nIch verkaufe meine Nintendo Switch Lite in der Farbe Türkis.\n\nWichtig: Es wird ausschließlich das Gerät verkauft. Kein Zubehör und keine weiteren Teile.\n\nDie Konsole funktioniert einwandfrei und ist voll funktionsfähig. Optisch weist sie ein paar Gebrauchsspuren in Form von Kratzern auf, sowohl auf dem Bildschirm als auch auf der Rückseite.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lievi graffi su schermo e scocca posteriore, solo console senza accessori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10742270160",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10742270160-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0204e_XxqjEkQ1s3QcBsiFYePdBhyM/310x430/a36cedfe.webp?s=92301751262a536d67658ecb02edb766e4d850c9",
+    "addedAt": "2026-11-09T21:43:48.553Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nEnvide y parace que valla todo bien le falta los mandos tiene arañazos y está un poco mal por fuera\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano i Joy-Con, presenta graffi e usura estetica esterna",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.05
   }
 ]
