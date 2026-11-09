@@ -1,20 +1,5 @@
 [
   {
-    "id": "10672126224",
-    "category": "Console",
-    "title": "Support Nintendo switch 2",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10672126224-support-nintendo-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0196b_XnfkGANFcvS2BdXguXbEY5Qi/310x430/d8d64a50.webp?s=44ddfcb0f2be6e1937f940172a1f097823781e3a",
-    "addedAt": "2026-11-05T07:13:18.179Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.8€, sotto soglia"
-  },
-  {
     "id": "10672211383",
     "category": "Console",
     "title": "Xbox series S",
@@ -23720,5 +23705,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10731077697",
+    "category": "Console",
+    "title": "Decor pour ps5 slim",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10731077697-decor-pour-ps5-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_009b5_nB29AhF6worNhb75DBKVPxtG/310x430/afc48cf0.webp?s=4b83b3d934f4a37dfa4085d94c9c84cc637eb9f5",
+    "addedAt": "2026-11-09T07:14:50.367Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10731096078",
+    "category": "Console",
+    "title": "Decor ps5 slim beige playstation",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10731096078-decor-ps5-slim-beige-playstation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_021a0_NskinG1nvW5vw2va1bzXaDxF/310x430/024f2672.webp?s=8111aef4f5d98429334653ac7adf17051ecf2caf",
+    "addedAt": "2026-11-09T07:18:58.314Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10731099861",
+    "category": "Console",
+    "title": "Xbox one fat",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10731099861-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01360_aXNwW7VfC7jQpcCypCaVonW5/310x430/7f5ec31d.webp?s=b7c7a7d6ccd4d529b68ff2e252e9c89bf281c1f3",
+    "addedAt": "2026-11-09T07:20:00.251Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one fat\nBuone·Xbox·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nPremier modèle de xbox one model 1540 fonctionne toujours avec le jeu one piece blood burning édition steelbook\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.3
   }
 ]
