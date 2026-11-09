@@ -23663,5 +23663,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-63.7€, sotto soglia"
+  },
+  {
+    "id": "10732980159",
+    "category": "Console",
+    "title": "Bundle Xbox 360 Slim + 2 Controller Kinect",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10732980159-bundle-xbox-360-slim-2-controller-kinect-cavi-e-9-giochi-console-da-riparare-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0104c_r4cgidbSndiWdxJG6yT8kDTX/310x430/6fd72d3e.webp?s=7dcb545566b200feac75e7a85386bda282a83f1a",
+    "addedAt": "2026-11-09T10:59:48.134Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.05€, sotto soglia"
+  },
+  {
+    "id": "10733020662",
+    "category": "Console",
+    "title": "PlayStation 4 FAT CUH-1216A 14.00 500GB",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10733020662-playstation-4-fat-cuh-1216a-1400-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0159a_HiiVZPivxpzad6jF7XepeB4Q/310x430/06ab1500.webp?s=0fb9981059ac512662dca0f02e6d7d9e4b9f7e24",
+    "addedAt": "2026-11-09T11:02:53.974Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10733082367",
+    "category": "Console",
+    "title": "PS4 usata Potenza",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10733082367-ps4-usata-potenza?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00275_jMNWZWLeFVakXJV7LCD473dr/310x430/b7239e67.webp?s=6b29cb88108809c9e4fe0eda0f781cb7a8f59424",
+    "addedAt": "2026-11-09T11:08:05.610Z",
+    "processed": false,
+    "triaged": false
   }
 ]
