@@ -23670,8 +23670,11 @@
     "url": "https://www.vinted.it/items/10730692792-ps4-con-dos-mandos-y-cables?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00e1a_xrpi4GF5k4YYZFnWV53ZhmU5/310x430/fd2d99e1.webp?s=b311c6557bd08992421670cf67aa55075584e367",
     "addedAt": "2026-11-09T04:53:13.893Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10727535965",
