@@ -1,20 +1,5 @@
 [
   {
-    "id": "10672036873",
-    "category": "Console",
-    "title": "Ps4 fat- ps4 slim - ps3 slim",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10672036873-ps4-fat-ps4-slim-ps3-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0025b_X8U2ArsvtTnDMNEmisCLWAUa/310x430/c15c8ab3.webp?s=99c0e951823efa3c1b130e60731acbb3cded97cb",
-    "addedAt": "2026-11-05T06:48:26.544Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "10672048342",
     "category": "Console",
     "title": "Playstation 4 + controller",
@@ -23671,8 +23656,11 @@
     "url": "https://www.vinted.it/items/10730882570-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0073a_H3YHKXHtgU2CmWK6oq2rBQ6e/310x430/d2fe963a.webp?s=2bb05a9052334108125c527b1e6f23e8db184f66",
     "addedAt": "2026-11-09T06:10:43.892Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10730889133",
@@ -23684,8 +23672,11 @@
     "url": "https://www.vinted.it/items/10730889133-console-microsoft-xbox-one-fat-nera-alimentatore-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0147e_SQxfCbANHbj77qj7kcu9CL3u/310x430/cdc2fa42.webp?s=0c9c2e4a0e9d8aa12391d89fe2560accdec725c7",
     "addedAt": "2026-11-09T06:13:49.901Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10730932974",
@@ -23697,6 +23688,19 @@
     "url": "https://www.vinted.it/items/10730932974-ps4-blanche-4-jeux-sans-boite-jaunissement-qui-ne-se-voit-pas-au-photo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01676_DVZ77Udo55yQWT6a442vKaNN/310x430/05d6e02b.webp?s=969ae3036a927af10e99016809a83ca5f716204d",
     "addedAt": "2026-11-09T06:29:19.318Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10730994878",
+    "category": "Console",
+    "title": "Tvps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10730994878-tvps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022a8_ejTg1ehg4y6X3qGdGcZSi9Yi/310x430/2183232d.webp?s=3b09e6aa688f733db20d5cd0b54e3ad6c418246f",
+    "addedAt": "2026-11-09T06:49:59.649Z",
     "processed": false,
     "triaged": false
   }
