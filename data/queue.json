@@ -1,21 +1,5 @@
 [
   {
-    "id": "10670921266",
-    "category": "Console",
-    "title": "Bloc d'alimentation d'origine Xbox One",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10670921266-bloc-dalimentation-dorigine-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0211f_XCMy52JteUQ6SpMYuF51y4Hu/310x430/a49495bb.webp?s=c5bb4efaeb79de68cd54bdd48d10129aaca5e6b0",
-    "addedAt": "2026-11-05T01:20:59.755Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10671148475",
     "category": "Console",
     "title": "Inserto Frontale PS5 \"PlayStation Edition\" - Cover Griglia Bicolore",
@@ -23626,5 +23610,44 @@
     "geminiFault": "Un joystick ha problemi di ricarica",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10729751050",
+    "category": "Console",
+    "title": "Xbox One 500gb zonder controller en spellen.",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10729751050-xbox-one-500gb-zonder-controller-en-spellen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_013f6_r556tXWcexGVvRztC2e9yJmg/310x430/ad65bd72.webp?s=71a68559ed903ef929424c4908c334d8a81cb8d5",
+    "addedAt": "2026-11-09T01:13:50.756Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10723531813",
+    "category": "Console",
+    "title": "Scatola Nintendo switch!",
+    "price": 19.9,
+    "totalPrice": 21.6,
+    "reason": "prezzo 90% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10723531813-scatola-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020f5_ZP4Cwov4qSTJYUQijem3TsVd/310x430/2826289e.webp?s=53a2c9e760133a63b3098e643f0a163a668bc254",
+    "addedAt": "2026-11-09T01:14:52.891Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10729778643",
+    "category": "Console",
+    "title": "Nintendo Switch 1",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10729778643-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0220d_LeoN3gxPAhkTrnfj4bzYfUBi/310x430/cfbd37de.webp?s=6ad051dc5bbbc28f06554d1e2b97d9498beb5234",
+    "addedAt": "2026-11-09T01:19:01.558Z",
+    "processed": false,
+    "triaged": false
   }
 ]
