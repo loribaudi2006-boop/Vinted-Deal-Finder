@@ -23720,5 +23720,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10731194179",
+    "category": "Console",
+    "title": "Console Playstation 4 slim",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10731194179-console-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0181c_EjahcMseZF4faPjeCNPEifnp/310x430/b0e0ff9c.webp?s=11c847500eaa3c72f1750dca095b9e7a12cf1451",
+    "addedAt": "2026-11-09T07:41:43.882Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nConsole Playstation 4 slim\nOttime·Sony·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nSolo console nera Playstation\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 65
+  },
+  {
+    "id": "10731222941",
+    "category": "Console",
+    "title": "Nintendo Switch 2 + Pack completo + Garantía",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10731222941-nintendo-switch-2-pack-completo-garantia?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_025a5_Qh7wRXtU3wrJqN3wUYhKhqKT/310x430/d36a1493.webp?s=3960ae9f1822dfbf6bfc08818fff4e3695f9e798",
+    "addedAt": "2026-11-09T07:47:55.728Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
