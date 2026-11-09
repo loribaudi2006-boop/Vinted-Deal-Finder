@@ -1,20 +1,5 @@
 [
   {
-    "id": "10676548756",
-    "category": "Console",
-    "title": "Caixa Ps5 (vazia)",
-    "price": 13,
-    "totalPrice": 14.35,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10676548756-caixa-ps5-vazia?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0107d_prhSybb62RRB24BK5k2SDq1z/310x430/021f975c.webp?s=151e3dbe4b035aa07e1b4a854bac07ec1e08e0c3",
-    "addedAt": "2026-11-05T14:33:06.008Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10676641984",
     "category": "Console",
     "title": "Nintendo switch xaj 4006 hs",
@@ -23867,5 +23852,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.05€, sotto soglia"
+  },
+  {
+    "id": "10735722795",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10735722795-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f61_an3AWaRmd7v3X7wqSfP2dCxZ/310x430/b55bd077.webp?s=8c28b37e16a3658e0eb9a36dde9179139debf1df",
+    "addedAt": "2026-11-09T14:30:44.600Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.3€, sotto soglia"
+  },
+  {
+    "id": "10735705289",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10735705289-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00378_NHpZt5LAM3Lz9RJBKrBQofyY/310x430/1f976237.webp?s=968be5424dde2dc8ff2dd4016c1d04bb15560f3b",
+    "addedAt": "2026-11-09T14:30:44.601Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nDiscrete·Nintendo·Caricato 2 min fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n2 min fa\nVendo Nintendo switch con batteria non funzionante utilizzabile per ricambi, spedisco soltanto quello che si vede in foto\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "batteria non funzionante, solo console come in foto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10735769640",
+    "category": "Console",
+    "title": "Sony PSP serie 3000 nera - non testata",
+    "price": 39.99,
+    "totalPrice": 42.69,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10735769640-sony-psp-serie-3000-nera-non-testata-solo-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02632_ZGg7H8imMo9dSSf7yMsobR4N/310x430/762e2864.webp?s=a272f7c765888fcdd48bfa9bc55d654f6c865763",
+    "addedAt": "2026-11-09T14:33:50.848Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.31€, sotto soglia"
   }
 ]
