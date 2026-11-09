@@ -1,21 +1,5 @@
 [
   {
-    "id": "10671912370",
-    "category": "Console",
-    "title": "Playstation 4 + controller the last of us",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10671912370-playstation-4-controller-the-last-of-us?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0025b_mzReYPqcLqmaLZ78HWtAWrFC/310x430/180d6be7.webp?s=f3be50f59ca62542c3f453d6c177f905ed5f8d85",
-    "addedAt": "2026-11-05T06:05:58.622Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10668104230",
     "category": "Console",
     "title": "Switch",
@@ -23702,6 +23686,22 @@
     "url": "https://www.vinted.it/items/10730801776-ps4-avec-1-manette-officielle?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_004e3_8h5gLeZoTDGKobCjnECh4hfu/310x430/24066e22.webp?s=f0ab05d2f9cead98fc6d2547292858e4785d622e",
     "addedAt": "2026-11-09T05:38:41.990Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10730882570",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10730882570-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0073a_H3YHKXHtgU2CmWK6oq2rBQ6e/310x430/d2fe963a.webp?s=2bb05a9052334108125c527b1e6f23e8db184f66",
+    "addedAt": "2026-11-09T06:10:43.892Z",
     "processed": false,
     "triaged": false
   }
