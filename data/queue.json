@@ -1,23 +1,5 @@
 [
   {
-    "id": "10681859245",
-    "category": "Console",
-    "title": "Tausche Xbox Series S gegen defektes Xbox Series X",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/10681859245-tausche-xbox-series-s-gegen-defektes-xbox-series-x?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_021ef_Hxywx4SdQrhzeAXN7aMLNRqf/310x430/4fd1b83a.webp?s=7b9532d382651bc4688f41b40c2597451e94fe47",
-    "addedAt": "2026-11-05T21:06:48.772Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nTausche Xbox Series S gegen defektes Xbox Series X\nOttime·Xbox·Caricato 2 min fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nOttime\nCaricato\n2 min fa\nHiermit tausche ich meine Xbox Series S top Zustand gegen eine defektes Xbox Series X\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 138
-  },
-  {
     "id": "10682021580",
     "category": "Console",
     "title": "Nintendo switch et accessoires",
@@ -23955,5 +23937,23 @@
     "geminiFault": "graffi estetici sulla scocca dovuti allo sfregamento sul mobile",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10741874789",
+    "category": "Console",
+    "title": "Ps5 nuova",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10741874789-ps5-nuova?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0240f_gkhLF5yNemeh4nRtBxk6Q4wV/310x430/7244da9e.webp?s=eec27cdd74b31a945b28e0a6ad61bcf8ac1d450a",
+    "addedAt": "2026-11-09T21:11:42.192Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs5 nuova\nNuovo senza cartellino·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nTutto quello che volete dello stesso valore o più o meno quello\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
   }
 ]
