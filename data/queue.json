@@ -1,53 +1,5 @@
 [
   {
-    "id": "10674775696",
-    "category": "Console",
-    "title": "Accessoire switch + casque",
-    "price": 33,
-    "totalPrice": 35.35,
-    "reason": "prezzo 83% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10674775696-accessoire-switch-casque?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00bea_pjXdYLHQpfCHmV2MDA8dYBcc/310x430/69267266.webp?s=2d6f664003d3e7079df6aae2a89312a239561062",
-    "addedAt": "2026-11-05T12:08:27.860Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5€, sotto soglia"
-  },
-  {
-    "id": "10674789229",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10674789229-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_009ee_MGZaxzpwG6AbzfvosUympbe1/310x430/57a18ea2.webp?s=5d78c6da68da0b765f2ce4a3918e0d34dbfc3ec6",
-    "addedAt": "2026-11-05T12:09:30.068Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite\nBuone·Nintendo·Caricato 3 min fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 min fa\nNintendo switch lite en perfecto estado SIN CAJA ORIGINAL. Incluye la consola en color azul, funda protectora transparente, cargador, manual de instrucciones, pantalla protectora (puesta) funda para transportarlo y dos juegos:\nImmortals fenyx rising\nFifa19.\nHay que tener en cuenta que la consola ha sido jugada.\nLa consola ha sido puesta a controles de fábrica. Tengo vídeo para que veas que funciona.\nVendo por falta de uso.\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.05
-  },
-  {
-    "id": "10674815265",
-    "category": "Console",
-    "title": "Databank PS4",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10674815265-databank-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_021e1_cwndrte9gekv9Uo8DCsr4APd/310x430/ac3bd272.webp?s=a1177784b584c9f4ed0779867a31e161bdc8598b",
-    "addedAt": "2026-11-05T12:11:34.504Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
     "id": "10674921310",
     "category": "Console",
     "title": "Ps4 pro",
@@ -23810,5 +23762,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10733861547",
+    "category": "Console",
+    "title": "PS4 + cavo + giochi",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10733861547-ps4-cavo-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01f34_JbQJhwVMDGG2AvVpJgF3KfPJ/310x430/ee82eb4a.webp?s=c9fc8b1be9557c56bd27aeebe60a680360b8574f",
+    "addedAt": "2026-11-09T12:12:19.792Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10733931786",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10733931786-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01544_4jNRpS2PGVH3fnwL36qbGjaZ/310x430/e156a9c0.webp?s=669847c58980e3ef35dda3942a8d943ea94fadde",
+    "addedAt": "2026-11-09T12:18:34.659Z",
+    "processed": false,
+    "triaged": false
   }
 ]
