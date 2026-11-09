@@ -1,23 +1,5 @@
 [
   {
-    "id": "10672048342",
-    "category": "Console",
-    "title": "Playstation 4 + controller",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10672048342-playstation-4-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00cfa_gTUFQAquJAF8hXGGZJLB3Eac/310x430/ff78a7b3.webp?s=ac9459c71b91aa3e3dbb9851c0fad660d40b5df1",
-    "addedAt": "2026-11-05T06:51:32.718Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "atalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 + controller ( met lader)\nOttime·PlayStation·Caricato 9 min fa\n\n70,00 €\n\n74,20 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n9 min fa\nGoed werkende playstation 4 met controller en oplader. Laatste 2 jaar niet meer gebruikt.\nOnlangs volledig upgedate en geheugen gewist.\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.05
-  },
-  {
     "id": "10672117960",
     "category": "Console",
     "title": "Xbox series S",
@@ -23688,8 +23670,11 @@
     "url": "https://www.vinted.it/items/10730932974-ps4-blanche-4-jeux-sans-boite-jaunissement-qui-ne-se-voit-pas-au-photo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01676_DVZ77Udo55yQWT6a442vKaNN/310x430/05d6e02b.webp?s=969ae3036a927af10e99016809a83ca5f716204d",
     "addedAt": "2026-11-09T06:29:19.318Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10730994878",
@@ -23701,6 +23686,21 @@
     "url": "https://www.vinted.it/items/10730994878-tvps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_022a8_ejTg1ehg4y6X3qGdGcZSi9Yi/310x430/2183232d.webp?s=3b09e6aa688f733db20d5cd0b54e3ad6c418246f",
     "addedAt": "2026-11-09T06:49:59.649Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10731023774",
+    "category": "Console",
+    "title": "Boîte vide Nintendo Switch 2  Édition Pokémon Légendes  Z-A avec Protections",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10731023774-boite-vide-nintendo-switch-2-edition-pokemon-legendes-z-a-avec-protections?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0052c_yEU1ktiTbRwN4cxYmQdevuL8/310x430/0a036865.webp?s=5a35448b4cc58f58c7cb4edb43c37383828ab3cb",
+    "addedAt": "2026-11-09T06:59:16.954Z",
     "processed": false,
     "triaged": false
   }
