@@ -1,21 +1,5 @@
 [
   {
-    "id": "10684025452",
-    "category": "Console",
-    "title": "Recherche un play Xbox ps4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10684025452-recherche-un-play-xbox-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00b0d_2UJo5nJunuZE3H1ks9pBVnBG/310x430/eeb39f6f.webp?s=4fa7e4bdbbda9795f579e9813885b6a7e7495e63",
-    "addedAt": "2026-11-06T02:45:34.880Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10684471259",
     "category": "Console",
     "title": "Nintendo Switch Original Netzteil / Ladekabel",
@@ -23837,8 +23821,11 @@
     "url": "https://www.vinted.it/items/10744166714-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01e4f_4vdyU9TAYDkVzgHGSpVPPYXv/310x430/186efcd2.webp?s=667e91c7ef344e372a602c3d17288d6fcedfdfed",
     "addedAt": "2026-11-10T02:16:18.272Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744204161",
