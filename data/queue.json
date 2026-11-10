@@ -1,23 +1,5 @@
 [
   {
-    "id": "10687454598",
-    "category": "Console",
-    "title": "Xbox one s",
-    "price": 11.9,
-    "totalPrice": 13.2,
-    "reason": "prezzo 88% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10687454598-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00fe7_exG6pUtuxFkJajXnQbmpgD6u/310x430/2114556f.webp?s=208148f491cf8fe236d92129751b1e46f47a21a7",
-    "addedAt": "2026-11-06T12:10:27.743Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one s\nOttime·Xbox·Caricato un minuto fa\n\n11,90 €\n\n13,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox one s\nConsole xbox one s en très bon etat non tester donc vendu comme hs. Envoie rapide et soignée\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "non testata, venduta come non funzionante (hs)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 51.8
-  },
-  {
     "id": "10687788910",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -24063,8 +24045,13 @@
     "url": "https://www.vinted.it/items/10747822921-switch-lite-pour-piece?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00900_4btwCDm1AUa2B9JzubETZX4X/310x430/b831d664.webp?s=fc002121fb975de3e6032ef40f70d04f656871fd",
     "addedAt": "2026-11-10T12:01:12.922Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite pour piece\nOttime·Nintendo·Caricato 5 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 min fa\nSwitch lite pour pièce on vois l'ecrant avec lampe il y a le son\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Schermo visibile solo con torcia, c'è l'audio",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "10747816108",
@@ -24080,5 +24067,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10747883570",
+    "category": "Console",
+    "title": "Remotto PS4",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10747883570-remotto-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01488_vimLq6rv4s8MJ5fGohmeNrGT/310x430/983c6352.webp?s=41109f011819f3b64e54cd8401b4e6668d75c977",
+    "addedAt": "2026-11-10T12:06:54.221Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10747910732",
+    "category": "Console",
+    "title": "🎮 Suporte para 12 Jogos Nintendo Switch | Organizador de Jogos",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10747910732-suporte-para-12-jogos-nintendo-switch-organizador-de-jogos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018ca_F8r2yVTqXgQFrnWnKEUe6GGJ/310x430/f1d272a6.webp?s=313e6fc9dd38a6c0e67adcfd979c5564a2bcc146",
+    "addedAt": "2026-11-10T12:08:58.507Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4.35€, sotto soglia"
   }
 ]
