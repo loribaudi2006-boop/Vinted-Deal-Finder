@@ -23830,5 +23830,20 @@
     "geminiFault": "cavo hdmi danneggiato",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10725396319",
+    "category": "Console",
+    "title": "Portefeuille Zelda Tunique de Link – Bonus précommande Ocarina of Time Switch 2",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10725396319-portefeuille-zelda-tunique-de-link-bonus-precommande-ocarina-of-time-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_002b2_QEaenSfVSjAzoaJHtZRwZBSU/310x430/be102b1c.webp?s=cbf1e03260892cfeb5c190821dad6d07e2802b95",
+    "addedAt": "2026-11-10T07:50:14.217Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.55€, sotto soglia"
   }
 ]
