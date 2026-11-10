@@ -23853,8 +23853,11 @@
     "url": "https://www.vinted.it/items/10743768851-cargador-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01ca8_bLuLPYLFVtn516rvb9ZpD4BL/310x430/cdb59abb.webp?s=f93d4ca983325bfa457261c98966e238a558e049",
     "addedAt": "2026-11-10T01:06:49.444Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10743797466",
