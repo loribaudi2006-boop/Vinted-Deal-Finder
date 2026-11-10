@@ -1,35 +1,5 @@
 [
   {
-    "id": "10694460735",
-    "category": "Console",
-    "title": "juego nintendo switch mario tennis aces y raquetas",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10694460735-juego-nintendo-switch-mario-tennis-aces-y-raquetas?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02264_D7RwFLf56bvmazhkWuPCmz2J/310x430/bd86f96a.webp?s=93c0a6851009d29d7c91bd298f926109686faecb",
-    "addedAt": "2026-11-06T21:14:33.356Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.05€, sotto soglia"
-  },
-  {
-    "id": "10694495856",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10694495856-playstation-4-lire-la-description?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0182b_MLTTkekCjirxDnauJRWwTSZb/310x430/30e75184.webp?s=d6da25ee19a9b40894b2a543dfda8319f8299fc7",
-    "addedAt": "2026-11-06T21:17:39.808Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.05€, sotto soglia"
-  },
-  {
     "id": "10694620226",
     "category": "Console",
     "title": "Mini Console Retro Gaming Stile NES + Controller - Non Testata",
@@ -21955,5 +21925,51 @@
     "geminiFault": "Estetica non nuovissima, senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.8
+  },
+  {
+    "id": "10751179647",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10751179647-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0147e_2RFqsaHMGsQfFL2V8P3cX7kP/310x430/bc05cadd.webp?s=db7bfa50b78032956f05a6e8f85999c5a97df8c8",
+    "addedAt": "2026-11-10T21:16:12.389Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~66.3€, sotto soglia"
+  },
+  {
+    "id": "10751146726",
+    "category": "Console",
+    "title": "PS4 Prima edizione",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10751146726-ps4-prima-edizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01330_NSUYgJCPLNzM9bKfBbdtm5Ks/310x430/2a53bc08.webp?s=5a8d96010fc191a88b7d2f6ea9088dd990af724c",
+    "addedAt": "2026-11-10T21:17:14.963Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 Prima edizione\nOttime·PlayStation·Caricato 4 ore fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 ore fa\nbuone condizioni funzionante, 2 pad 3 giochi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10751219618",
+    "category": "Console",
+    "title": "Nintendo switch 2",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10751219618-nintendo-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00350_vRVnKoyjZWMHTGeCEn8jGLVR/310x430/c091acc8.webp?s=088d3a6aa341b6d1272a6f9cf6e1097e065363c5",
+    "addedAt": "2026-11-10T21:22:25.582Z",
+    "processed": false,
+    "triaged": false
   }
 ]
