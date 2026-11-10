@@ -1,23 +1,5 @@
 [
   {
-    "id": "10695368984",
-    "category": "Console",
-    "title": "Xbox One X Guasta! Leggere descrizione",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"guasta\" + prezzo 75% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10695368984-xbox-one-x-guasta-leggere-descrizione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_018eb_F6kNkCz33eaWy8KhXKpky9u6/310x430/01397771.webp?s=fdec0654aef477bb4b3326c8d89f2cdd8b2ce48e",
-    "addedAt": "2026-11-06T22:58:12.682Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox One X Guasta! Leggere descrizione\nDiscrete·Xbox·Caricato 2 min fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nDiscrete\nCaricato\n2 min fa\nLa console si accende ma ha un problema all'uscita hdmi in pratica non si vede nulla a video (schermata nera) e va riparata dall'interno sulla scheda madre, quindi la vendo come non funzionante per pezzi di ricambio.\nTutto come in foto.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Problema all'uscita HDMI (schermata nera), da riparare sulla scheda madre",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10695404893",
     "category": "Console",
     "title": "PS4 Pro",
@@ -21727,5 +21709,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10751536572",
+    "category": "Console",
+    "title": "Nintendo Switch Lite - Bolsa de transporte",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10751536572-nintendo-switch-lite-bolsa-de-transporte?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_013a9_7Jjn3vmofgZoEsvJwfWwThji/310x430/65f811e0.webp?s=95200051648b80a334369dbe86da504afa419193",
+    "addedAt": "2026-11-10T22:56:40.523Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.1€, sotto soglia"
   }
 ]
