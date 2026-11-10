@@ -1,37 +1,5 @@
 [
   {
-    "id": "10684471259",
-    "category": "Console",
-    "title": "Nintendo Switch Original Netzteil / Ladekabel",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10684471259-nintendo-switch-original-netzteil-ladekabel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01cf7_Bc2VH5ommsyHyaftxjVurfgu/310x430/3c1500a3.webp?s=8aa6c44bc7140681b04d8ab663d116d43d1d936a",
-    "addedAt": "2026-11-06T05:07:08.244Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10684473046",
-    "category": "Console",
-    "title": "Nintendo Switch Original Netzteil / Ladekabel",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10684473046-nintendo-switch-original-netzteil-ladekabel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01970_HZ2agHNYc9zQ58h19hLTKXby/310x430/1448a4b5.webp?s=7fb63b2ca98c37774ad75cf0f3ca556bb107c17b",
-    "addedAt": "2026-11-06T05:08:10.458Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10684549314",
     "category": "Console",
     "title": "Ps4 blanche",
@@ -23917,8 +23885,11 @@
     "url": "https://www.vinted.it/items/10744619034-nintendo-switch-v1-con-modifica?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_024de_8pzti1ZanifpBX25vMJeyWKv/310x430/83bfb2cc.webp?s=93532ffe4cc6256a43e2aa021d4640bd42a83b9a",
     "addedAt": "2026-11-10T04:37:58.628Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744824483",
