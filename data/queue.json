@@ -1,20 +1,5 @@
 [
   {
-    "id": "10694860884",
-    "category": "Console",
-    "title": "Console Nintendo 2DS Bianco/Rossa (Edizione Standard) - Non Testata / Da Sistemare",
-    "price": 33,
-    "totalPrice": 35.35,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10694860884-console-nintendo-2ds-biancorossa-edizione-standard-non-testata-da-sistemare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00f4a_4npBdT7qvySggiCSm92HBqRi/310x430/afabc839.webp?s=a53ce5b9d69c73d9124f24c968a8c5582f469049",
-    "addedAt": "2026-11-06T21:53:58.561Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10694950930",
     "category": "Console",
     "title": "Nintendo Switch + Juegos + Estuche",
@@ -21826,5 +21811,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10751410460",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10751410460-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01bd5_t6mxAaESGXSPSCWC9xKd23gj/310x430/1c461065.webp?s=9be50f0b150c7bc291b5f712197a9594f48f8b35",
+    "addedAt": "2026-11-10T22:02:49.154Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4\nOttime·Sony·Caricato 5 ore fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 ore fa\nPlayStation 4 à vendre avec câble seulement console remise à zéro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   }
 ]
