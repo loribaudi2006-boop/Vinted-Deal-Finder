@@ -1,37 +1,5 @@
 [
   {
-    "id": "10683954298",
-    "category": "Console",
-    "title": "PlayStation 5",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10683954298-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0189b_gw1dWybtYDZa6BruGkWPjh9B/310x430/05c55cb2.webp?s=08023547c9e710eda92fc540b319fa5df3678e81",
-    "addedAt": "2026-11-06T02:29:33.642Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10683954057",
-    "category": "Console",
-    "title": "xbox one",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10683954057-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01797_TYVo4oTHN7KswxsLmt7FkrxN/310x430/f8527a78.webp?s=f52fd7558d71a71e9e54945287de42c492fd50c5",
-    "addedAt": "2026-11-06T02:29:33.642Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10684025452",
     "category": "Console",
     "title": "Recherche un play Xbox ps4",
@@ -23869,6 +23837,19 @@
     "url": "https://www.vinted.it/items/10744166714-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01e4f_4vdyU9TAYDkVzgHGSpVPPYXv/310x430/186efcd2.webp?s=667e91c7ef344e372a602c3d17288d6fcedfdfed",
     "addedAt": "2026-11-10T02:16:18.272Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10744204161",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10744204161-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01e4f_4vdyU9TAYDkVzgHGSpVPPYXv/310x430/186efcd2.webp?s=667e91c7ef344e372a602c3d17288d6fcedfdfed",
+    "addedAt": "2026-11-10T02:22:31.640Z",
     "processed": false,
     "triaged": false
   }
