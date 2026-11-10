@@ -1,41 +1,5 @@
 [
   {
-    "id": "10683631787",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "parola chiave: \"non funzionante\" + prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10683631787-nintendo-switch-lite-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02603_ieXuF8nmExjbYTmWA5S3dwK9/310x430/b39446b3.webp?s=d3f475cc5236c35f2b800f351318b49ecf6b567c",
-    "addedAt": "2026-11-06T01:21:11.519Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "enuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite, non funzionante\nBuone·Nintendo·Caricato 2 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nVendo Nintendo switch lite, non funzionante, è stata aperta non da me, era in un lotto. Solo per pezzi di ricambio\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non funzionante, è stata aperta non da me, solo per pezzi di ricambio",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 37.8,
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10683664899",
-    "category": "Console",
-    "title": "Xbox one s 1 To",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10683664899-xbox-one-s-1-to?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015f3_k89n4nKeF4mD7wVox48y5FCo/310x430/2dadab21.webp?s=7a7260b540f4f86fd3b8cbeeb91874863010be51",
-    "addedAt": "2026-11-06T01:28:16.482Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10683780923",
     "category": "Console",
     "title": "Sony HD-camera voor PlayStation 5 (wit)",
@@ -23873,8 +23837,11 @@
     "url": "https://www.vinted.it/items/10742243949-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0023c_AjTGfUowWbDnLWkVnnrv1w9r/310x430/4f2c10a9.webp?s=888ca0c302670da3f36c3cf656b91f1a85a91aa3",
     "addedAt": "2026-11-10T00:59:33.752Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10743768851",
