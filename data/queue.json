@@ -23885,8 +23885,12 @@
     "url": "https://www.vinted.it/items/10744937670-housse-de-protection-switch-et-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02163_obEkM5jWnPjAnZUitcY7WKb3/310x430/0e27a7f4.webp?s=f2f4e7f0ee828d736c69d2fd17b30f0f0f3adf87",
     "addedAt": "2026-11-10T05:44:39.109Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
+    "triageNote": "margine stimato ~-0.2€, sotto soglia"
   },
   {
     "id": "10744975256",
@@ -23898,8 +23902,10 @@
     "url": "https://www.vinted.it/items/10744975256-ps3-fat-lettore-disco-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00e49_Nwz52LdUY8axEGNu5P1SWXAw/310x430/2ea27908.webp?s=1886bb5dd8d82950d40cd5cb7d7f902530a24d56",
     "addedAt": "2026-11-10T05:59:09.554Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   },
   {
     "id": "10744988854",
@@ -23911,8 +23917,13 @@
     "url": "https://www.vinted.it/items/10744988854-switch-v2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01c49_JijVWtaNmtw5Cdsnr3FWjkKF/310x430/038d25a1.webp?s=86059d753fb836954ba14889502520dc1159f6a3",
     "addedAt": "2026-11-10T06:03:18.451Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch V2\nBuone·Nintendo·Caricato 12 min fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n12 min fa\nConsole Nintendo Switch V2 vendue seule ( sans aucun accessoires)et fonctionnelle, avec quelques rayures sur l'écran (voir photos)\nVous achetez en connaissance de cause donc aucune réclamation ni retour ne sera accepté.\nLe prix est légèrement négociable.\nenvoi rapide et soigné\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "graffi sullo schermo, venduta senza accessori",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   },
   {
     "id": "10744988145",
@@ -23924,8 +23935,13 @@
     "url": "https://www.vinted.it/items/10744988145-ps4-sony?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02385_29H776bewYgzDcMpMvVAiZdJ/310x430/ecd7b440.webp?s=03e7d1aba743dc4e4f5343c39b7dc0372b4cb2e9",
     "addedAt": "2026-11-10T06:03:18.451Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 sony\nOttime·PlayStation·Caricato 12 min fa\n\n45,00 €\n\n47,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n12 min fa\nPs4 PlayStation sans manettes\nFonctionne très bien\nMerci\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   },
   {
     "id": "10744998242",
@@ -23937,7 +23953,27 @@
     "url": "https://www.vinted.it/items/10744998242-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01af4_s2EKZSmKWYRbgSKvXRTJ9gyu/310x430/a72a5593.webp?s=c25e3d53cfe1faae818a9002ac7a826c333f6e17",
     "addedAt": "2026-11-10T06:07:27.462Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10745017372",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10745017372-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01006_aWT26t2oFDA89avaZSMdLPn9/310x430/4a4b13a2.webp?s=3cda85cfbae2007cc94eec2dfa7b486742aa1cdf",
+    "addedAt": "2026-11-10T06:13:41.193Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nOttime·Nintendo·Caricato 2 min fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nNintendo Switch lite\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.3
   }
 ]
