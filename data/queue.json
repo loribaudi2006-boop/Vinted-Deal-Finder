@@ -1,23 +1,5 @@
 [
   {
-    "id": "10694950930",
-    "category": "Console",
-    "title": "Nintendo Switch + Juegos + Estuche",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10694950930-nintendo-switch-juegos-estuche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01200_HxMq3m9dNfcux2jbiojDo7sT/310x430/cca670a0.webp?s=33308abf78153fb3ee02ba80597694ac78d18af9",
-    "addedAt": "2026-11-06T22:04:20.489Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "atalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch + Juegos + Estuche\nOttime·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nNintendo switch + los tres juegos + accesorios + estuche\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 138.25
-  },
-  {
     "id": "10695038156",
     "category": "Console",
     "title": "ps4 pro",
@@ -21829,5 +21811,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10751395781",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 32,
+    "totalPrice": 34.3,
+    "reason": "prezzo 83% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10751395781-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014b1_y6YUgPaGnse9MFf9TKpucoVz/310x430/e3048d71.webp?s=2aaed261b89eb970377639df67dc8a7132cabcc6",
+    "addedAt": "2026-11-10T22:11:06.059Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nOttime·Nintendo·Caricato 5 ore fa\n\n32,00 €\n\n34,30 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 ore fa\nNintendo Switch ohne Lade Gerät ohne ladestation nur die Switch Preis verhandelbar\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza caricatore e senza stazione di ricarica, solo la console",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80.7
   }
 ]
