@@ -1,53 +1,5 @@
 [
   {
-    "id": "10694620226",
-    "category": "Console",
-    "title": "Mini Console Retro Gaming Stile NES + Controller - Non Testata",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10694620226-mini-console-retro-gaming-stile-nes-controller-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_008d0_M5WWs2VzadJEpFh8PPZ4ryC9/310x430/faaa72ab.webp?s=c391b946845ff8d71ffdb912cabb8da367aea33e",
-    "addedAt": "2026-11-06T21:29:03.810Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
-    "id": "10694617966",
-    "category": "Console",
-    "title": "Mando Ergonómico DOBE para Nintendo Switch (Modo Portátil USB-C)",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10694617966-mando-ergonomico-dobe-para-nintendo-switch-modo-portatil-usb-c?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_026d9_A74T76wgtDnWW1oadx1AceE5/310x430/c68b4b59.webp?s=b09bcfd5e41d484976790c402d52e801bcdf1a20",
-    "addedAt": "2026-11-06T21:29:03.810Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.8€, sotto soglia"
-  },
-  {
-    "id": "10694630552",
-    "category": "Console",
-    "title": "Ps4 piezas",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10694630552-ps4-piezas?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01eb9_SE9Bc4RNuhYcgRiAtuNhsL8v/310x430/033382a7.webp?s=c92a17a0194362c4d9d7a4d2cda93f70a724b2b3",
-    "addedAt": "2026-11-06T21:31:08.349Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 piezas\nOttime·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4: vendo para piezas o para recambiar el disco duro\n\nfunciona todo perfecto excepto el disco duro!!!\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "non funziona il disco duro, tutto il resto funziona perfettamente",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
     "id": "10694687940",
     "category": "Console",
     "title": "PS4 en très bon état",
@@ -21969,7 +21921,9 @@
     "url": "https://www.vinted.it/items/10751219618-nintendo-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00350_vRVnKoyjZWMHTGeCEn8jGLVR/310x430/c091acc8.webp?s=088d3a6aa341b6d1272a6f9cf6e1097e065363c5",
     "addedAt": "2026-11-10T21:22:25.582Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
