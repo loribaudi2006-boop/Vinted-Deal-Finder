@@ -1,38 +1,5 @@
 [
   {
-    "id": "10694259685",
-    "category": "Console",
-    "title": "Console Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10694259685-console-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_018fe_gNGHc3pEJH8Ys5wiN7URi44k/310x430/800b3bd5.webp?s=65b63b08cc6a6ea20287bbba3f9ccaf06a05e26a",
-    "addedAt": "2026-11-06T20:55:49.295Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
-    "id": "10694333642",
-    "category": "Console",
-    "title": "xbox one nera",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10694333642-xbox-one-nera?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01039_BVtZrhV83Cap4Qei3NJfrQ5M/310x430/3cd6d529.webp?s=1429c564cc9b3749a86b62429b31a2f8df30d133",
-    "addedAt": "2026-11-06T21:03:07.208Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleXbox Console\nxbox one nera\nBuone·Xbox·Caricato 2 min fa\n\n30,00 €\n\n32,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\n2 min fa\nsenza controller\ncon tutti i cavi\ncon account attivo con un po di giochi dentro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "senza controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.8
-  },
-  {
     "id": "10694347272",
     "category": "Console",
     "title": "Box Rangement Switch",
@@ -22021,5 +21988,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10751081354",
+    "category": "Console",
+    "title": "xbox one s",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10751081354-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_006c5_RiQmUPDMEg5bxsTRKST1KXgh/310x430/62dd272e.webp?s=da3565ad59e2043d481b9ae43cf8e6369942e066",
+    "addedAt": "2026-11-10T21:01:40.306Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.3€, sotto soglia"
+  },
+  {
+    "id": "10751082533",
+    "category": "Console",
+    "title": "Ps4 noir",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10751082533-ps4-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_006a8_2Wc1RVm6zFo1U97Db57donc5/310x430/dfd49835.webp?s=acc3bea65cb7fc899ce9bd2137b8d4376bb62c41",
+    "addedAt": "2026-11-10T21:02:42.378Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 noir\nBuone·PlayStation·Caricato 4 ore fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 ore fa\nTout fonctionne correctement mais pas tres neuf esthétiquement\nLe colis sera bien emballé et envoie sous 48h.\nPrix négociable\nSans manettes\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Estetica non nuovissima, senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
   }
 ]
