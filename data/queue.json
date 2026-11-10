@@ -23869,8 +23869,11 @@
     "url": "https://www.vinted.it/items/10744581466-nintendo-switch-complete?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01427_JNbvWbUt2nVWET7EeXHeCbdJ/310x430/80906c92.webp?s=cdf0d6fb180bdab039a47333620c3ba8fd2ced56",
     "addedAt": "2026-11-10T03:43:30.690Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744600007",
@@ -23882,8 +23885,11 @@
     "url": "https://www.vinted.it/items/10744600007-nintendo-3ds-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_013a2_62KwjpMzm12FUMmW3nSdXfp4/310x430/d3ddd77e.webp?s=5da20d5a3037ce5735ea13bc6dc0e74fedc1b13f",
     "addedAt": "2026-11-10T03:47:39.986Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744643314",
@@ -23895,6 +23901,22 @@
     "url": "https://www.vinted.it/items/10744643314-nintendo-3ds-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_013a2_62KwjpMzm12FUMmW3nSdXfp4/310x430/d3ddd77e.webp?s=5da20d5a3037ce5735ea13bc6dc0e74fedc1b13f",
     "addedAt": "2026-11-10T03:59:06.659Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10744619034",
+    "category": "Console",
+    "title": "Nintendo switch v1 con modifica",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10744619034-nintendo-switch-v1-con-modifica?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_024de_8pzti1ZanifpBX25vMJeyWKv/310x430/83bfb2cc.webp?s=93532ffe4cc6256a43e2aa021d4640bd42a83b9a",
+    "addedAt": "2026-11-10T04:37:58.628Z",
     "processed": false,
     "triaged": false
   }
