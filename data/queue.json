@@ -1,50 +1,5 @@
 [
   {
-    "id": "10685840476",
-    "category": "Console",
-    "title": "Coque de protection Switch Lite",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10685840476-coque-de-protection-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01b1e_XrVcgRWJKqDcsyjsAvhTXfyh/310x430/c72360b6.webp?s=b303a8f0258c2113d0fb2ea5ad1c86dc161574f8",
-    "addedAt": "2026-11-06T09:40:50.530Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.05€, sotto soglia"
-  },
-  {
-    "id": "10685836814",
-    "category": "Console",
-    "title": "Xbox One S 500go sans manette",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10685836814-xbox-one-s-500go-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0073f_Vpz2rWnHMQ2wqWsRiosTYmQs/310x430/97380caa.webp?s=8e2af352b382081c0ebede3586f29306c71821c0",
-    "addedAt": "2026-11-06T09:40:50.531Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~17.8€, sotto soglia"
-  },
-  {
-    "id": "10685876642",
-    "category": "Console",
-    "title": "Coque de protection Switch Lite",
-    "price": 4,
-    "totalPrice": 4.9,
-    "reason": "prezzo 98% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10685876642-coque-de-protection-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01efe_pvzRuaTsG8ov8n78UaWvUt6d/310x430/a7373f63.webp?s=fe5c7ec78e5352690a49897d54fe5a0d2089e5b5",
-    "addedAt": "2026-11-06T09:44:59.836Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.1€, sotto soglia"
-  },
-  {
     "id": "10685918909",
     "category": "Console",
     "title": "Nintendo switch",
@@ -23826,8 +23781,13 @@
     "url": "https://www.vinted.it/items/10746200124-ps4-fat-con-scatolo-e-cavi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01ea1_HsUDG2pmMts9u4vdogUYSUj1/310x430/51ccf809.webp?s=6115889e0c41cb7d26784bbf631409eb213ae0eb",
     "addedAt": "2026-11-10T09:38:22.888Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "uto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 Fat con Scatolo e Cavi\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsole funzionante, in buono stato, inclusi cavo alimentatore e cavo HDMI\n500GB di memoria\nVersione software di sistema 14.00\nNo controller\nVENDITA SOLO IN ITALIA\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   },
   {
     "id": "10746177024",
@@ -23839,7 +23799,9 @@
     "url": "https://www.vinted.it/items/10746177024-xbox-one-s-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01ef8_JCsw74EWp1Zihsom3ne9Vf25/310x430/f9bca1cf.webp?s=09e3fc6e20f3c65fa293c3e27a04b0568a8c93b4",
     "addedAt": "2026-11-10T09:38:22.888Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
