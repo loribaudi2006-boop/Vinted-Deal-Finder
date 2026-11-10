@@ -1,53 +1,5 @@
 [
   {
-    "id": "10684549314",
-    "category": "Console",
-    "title": "Ps4 blanche",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10684549314-ps4-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00df9_dvxciiJN1KvttTdnv4NAAsE8/310x430/4346d1bc.webp?s=f667341a1bce03018600ec71a44a65ab5253cda4",
-    "addedAt": "2026-11-06T05:40:18.074Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10684556398",
-    "category": "Console",
-    "title": "Alimentation Console PS5",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10684556398-alimentation-console-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00616_GDhu2YLd5i2toCf991uP7qQW/310x430/51099851.webp?s=8656f3ff22c5c55b69cea92ec61e5085be8a2a83",
-    "addedAt": "2026-11-06T05:43:24.915Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10684560763",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10684560763-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c7b_9gBBsPycPtXsshsQ7SaRic53/310x430/de78743c.webp?s=1ea28592b0463b020d97ea7fc61eb8fb2a8a96c5",
-    "addedAt": "2026-11-06T05:45:29.111Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10684582291",
     "category": "Console",
     "title": "Nintendo switch 2 spiele",
@@ -23930,6 +23882,19 @@
     "url": "https://www.vinted.it/items/10744879050-ecran-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01107_mH7fdC4eXbLeuggduaq4BQmq/310x430/d95d87b5.webp?s=804334080c405ba961bf177e85325d30d0e5f4cc",
     "addedAt": "2026-11-10T05:20:31.598Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10744937670",
+    "category": "Console",
+    "title": "Housse de Protection Switch et manette",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10744937670-housse-de-protection-switch-et-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02163_obEkM5jWnPjAnZUitcY7WKb3/310x430/0e27a7f4.webp?s=f2f4e7f0ee828d736c69d2fd17b30f0f0f3adf87",
+    "addedAt": "2026-11-10T05:44:39.109Z",
     "processed": false,
     "triaged": false
   }
