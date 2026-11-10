@@ -1,35 +1,5 @@
 [
   {
-    "id": "10683557234",
-    "category": "Console",
-    "title": "Libretto originale ps5 slim",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10683557234-libretto-originale-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01e0d_crWp3oSiyNvEe8WEDzZfdQ4t/310x430/e6287563.webp?s=fbdcafb900e71af0d7fc7e54605f490998c01a97",
-    "addedAt": "2026-11-06T01:05:37.966Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1€, sotto soglia"
-  },
-  {
-    "id": "10683570789",
-    "category": "Console",
-    "title": "Nintendo switch noire",
-    "price": 64,
-    "totalPrice": 67.9,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10683570789-nintendo-switch-noire?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00310_hayTCDiVjBwdn1HPBrVajCDC/310x430/af1bd7b5.webp?s=ba1a4dbf467c7cb9b662bb37daa75d20410d2960",
-    "addedAt": "2026-11-06T01:07:42.468Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10683596876",
     "category": "Console",
     "title": "Boîte vde xbox one s",
@@ -23954,6 +23924,19 @@
     "url": "https://www.vinted.it/items/10742243949-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0023c_AjTGfUowWbDnLWkVnnrv1w9r/310x430/4f2c10a9.webp?s=888ca0c302670da3f36c3cf656b91f1a85a91aa3",
     "addedAt": "2026-11-10T00:59:33.752Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10743768851",
+    "category": "Console",
+    "title": "Cargador Nintendo Switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10743768851-cargador-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ca8_bLuLPYLFVtn516rvb9ZpD4BL/310x430/cdb59abb.webp?s=f93d4ca983325bfa457261c98966e238a558e049",
+    "addedAt": "2026-11-10T01:06:49.444Z",
     "processed": false,
     "triaged": false
   }
