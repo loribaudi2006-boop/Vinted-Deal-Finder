@@ -1,20 +1,5 @@
 [
   {
-    "id": "10688196242",
-    "category": "Console",
-    "title": "Switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10688196242-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00411_QNcygdu3p8ZScSJPJYpBL6rA/310x430/1ce4da99.webp?s=3ec30b8ed1fec94e9b1ea6c2f5383764df5579d9",
-    "addedAt": "2026-11-06T13:12:58.314Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10688231985",
     "category": "Console",
     "title": "PlayStation 5",
@@ -24010,5 +23995,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-9.7€, sotto soglia"
+  },
+  {
+    "id": "10748206795",
+    "category": "Console",
+    "title": "PlayStation 5 doos",
+    "price": 9.95,
+    "totalPrice": 11.15,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10748206795-playstation-5-doos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d11_WEKntemgd8bxar14nkbPQKJZ/310x430/1ca2794a.webp?s=0e9d0932dbed1c724f06e0f93e20f87a373c8dbc",
+    "addedAt": "2026-11-10T13:09:04.601Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10748270621",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10748270621-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_018d4_hNpXD7PPbP3NmRa9qh5A1DTn/310x430/f8cd0926.webp?s=a6d03b6e803940cb112a08ba208e21ed5f14582d",
+    "addedAt": "2026-11-10T13:15:17.724Z",
+    "processed": false,
+    "triaged": false
   }
 ]
