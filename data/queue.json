@@ -1,35 +1,5 @@
 [
   {
-    "id": "10684704105",
-    "category": "Console",
-    "title": "Animal Crossing: New Horizons – Nintendo Switch 2 Edition",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10684704105-animal-crossing-new-horizons-nintendo-switch-2-edition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0016e_jyDUkquNmDhZ46jiSx4fZWzu/310x430/5e8d8798.webp?s=61c36a40f44b5c1bd64b6cbabc9ee25b9825df12",
-    "addedAt": "2026-11-06T06:37:59.952Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10684707528",
-    "category": "Console",
-    "title": "Face plate blanche Sony PS5",
-    "price": 19,
-    "totalPrice": 20.65,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10684707528-face-plate-blanche-sony-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00e4d_pkG1rqX2zYgcuGNTmKuugWu4/310x430/fa9d836b.webp?s=9b3af9f3160209848c957ca6bea2817895cb8cf4",
-    "addedAt": "2026-11-06T06:39:02.300Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.35€, sotto soglia"
-  },
-  {
     "id": "10684768959",
     "category": "Console",
     "title": "Lecteur de switch/adaptateur",
@@ -23949,6 +23919,19 @@
     "url": "https://www.vinted.it/items/10743659415-ps4-con-mando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02598_JSFdQatBWENcJiiyUA3D2n4F/310x430/13dd7a3d.webp?s=376dfff254886dae79893dd57e4b58fdbfba9122",
     "addedAt": "2026-11-10T06:36:34.189Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10745123575",
+    "category": "Console",
+    "title": "Playstation 4 konsole",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10745123575-playstation-4-konsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02394_j7CyWmbquASQDdtYneWp5erQ/310x430/a4e96d10.webp?s=2699c5b53147cc2e8c984bae5ea88902d47e7377",
+    "addedAt": "2026-11-10T06:47:58.662Z",
     "processed": false,
     "triaged": false
   }
