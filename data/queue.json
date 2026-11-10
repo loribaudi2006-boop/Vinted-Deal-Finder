@@ -22560,7 +22560,9 @@
     "url": "https://www.vinted.it/items/10750478189-supporti-orizzontali-playstation-5-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_018aa_ucL6PTNbMSLf37msMDvDY6ec/310x430/a50e0fa3.webp?s=05001e6ef538be173dfd6e6b22a22d5bb0c45f30",
     "addedAt": "2026-11-10T18:33:31.638Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0.2€, sotto soglia"
   }
 ]
