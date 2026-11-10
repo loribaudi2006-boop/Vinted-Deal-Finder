@@ -1,38 +1,5 @@
 [
   {
-    "id": "10695149691",
-    "category": "Console",
-    "title": "Ps4 come nuova",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10695149691-ps4-come-nuova?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_010ea_UpFJUYrW8LP8YvZfH3wECVUq/310x430/2ed7376f.webp?s=74400c05a8fe5cfb68f2dc314f35868e9ee64dc2",
-    "addedAt": "2026-11-06T22:28:10.661Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.05€, sotto soglia"
-  },
-  {
-    "id": "10695192399",
-    "category": "Console",
-    "title": "Xbox one S",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10695192399-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0137d_Y6zbeYpY94wtYXNkZsbLcF2A/310x430/99750c2e.webp?s=5105100c9b3635992b3350e6c3477107c945eb5f",
-    "addedAt": "2026-11-06T22:33:21.221Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one S\nOttime·Xbox·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox one S\nFonctionne bien\nAvec tout les fils\nUne manette avec pile\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.8
-  },
-  {
     "id": "10695237367",
     "category": "Console",
     "title": "Xbox One S",
@@ -21811,5 +21778,20 @@
     "geminiFault": "Controller con leggero stick-drift",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10751550859",
+    "category": "Console",
+    "title": "Nintendo DS Lite Per Ricambi",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10751550859-nintendo-ds-lite-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_014f2_gQDfywbrn68NcePYfyEnWayF/310x430/4fc9b949.webp?s=afd8a044187a01047b74751c2ca2a96cebc1c6e4",
+    "addedAt": "2026-11-10T22:32:49.952Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3€, sotto soglia"
   }
 ]
