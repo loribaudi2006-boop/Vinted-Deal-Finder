@@ -1,20 +1,5 @@
 [
   {
-    "id": "10690789429",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10690789429-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01200_fjTSb6a71ZS34Mkzxk88pjMB/310x430/22bf09c8.webp?s=a90b96b6f271b3f90633c8bc4e79c92766f67f59",
-    "addedAt": "2026-11-06T16:26:42.979Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10690951571",
     "category": "Console",
     "title": "Ps5 manette et câble",
@@ -23050,5 +23035,23 @@
     "geminiFault": "La manette a un disfonctionnement niveau intérieur mais marche quand même",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45.05
+  },
+  {
+    "id": "10749981376",
+    "category": "Console",
+    "title": "Ps4 Slim 500go",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10749981376-ps4-slim-500go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02508_ekw3NTKYNUW3XkqyiP2sMgQQ/310x430/b190bd84.webp?s=6c1534a8c15d87e0ab56892a1f7bb4eddda973f0",
+    "addedAt": "2026-11-10T16:35:27.211Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 Slim 500go\nBuone·Sony·Caricato un'ora fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nJe vend ma ps4 slim 500go,en parfait état,aucune griffe esthétiquement.Fonctionne parfaitement.\nLe lecteur bug de temps en temps,il suffit juste de l’éteindre et la rallumer et ça fonctionne nickel !\nNégociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il lettore disc fa i capricci ogni tanto (bug di tanto in tanto), si risolve spegnendo e riaccendendo la console",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
