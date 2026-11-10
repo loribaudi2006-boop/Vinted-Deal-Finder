@@ -23901,8 +23901,11 @@
     "url": "https://www.vinted.it/items/10744824483-ps4-con-dos-mandos-originales-y-cables-leer-bien-antes?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00148_4g9EY6pDj1qkUg2PUu7yhKX7/310x430/95678be0.webp?s=d14cf4ef563ad60df842c90f31eec61bbe6c6cc3",
     "addedAt": "2026-11-10T04:59:45.338Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744871597",
