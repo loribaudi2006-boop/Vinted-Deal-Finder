@@ -1,38 +1,5 @@
 [
   {
-    "id": "10685573422",
-    "category": "Console",
-    "title": "Support switch Dragon Ball Z",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10685573422-support-switch-dragon-ball-z?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_010b0_f9D7EsLkp3Y4zwuquZJAyFN6/310x430/d99ae1d0.webp?s=1a9901e145589dfc6ffd78ad83c64c077daab8f7",
-    "addedAt": "2026-11-06T09:11:45.751Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
-    "id": "10685582176",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10685582176-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_002bb_tHvacx8MCRhCuza5pX67kkek/310x430/a37586ce.webp?s=a78975b4197d2b7898844515b26b2e49497d39c1",
-    "addedAt": "2026-11-06T09:12:47.972Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation mit spielen sowie Controller\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.05
-  },
-  {
     "id": "10685636845",
     "category": "Console",
     "title": "Ps4 avec fil alimentation",
@@ -23779,5 +23746,48 @@
     "geminiFault": "Manette doit être brancher pour fonctionner",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45
+  },
+  {
+    "id": "10745992906",
+    "category": "Console",
+    "title": "Joypad Nintendo Switch completo",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10745992906-joypad-nintendo-switch-completo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01736_RWzp15AZtEUYKxRBw6mkexX9/310x430/ef3a2b35.webp?s=b282d85e200d2d7d5801744d1280347e59fe2137",
+    "addedAt": "2026-11-10T09:15:28.313Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "10746006696",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10746006696-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01128_cVkjHuLxEaxgiQpzYvPWzauv/310x430/66666c84.webp?s=5b6114743c7fdd6039fb6162e63f27d7c0f6261b",
+    "addedAt": "2026-11-10T09:17:35.320Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.3€, sotto soglia"
+  },
+  {
+    "id": "10746016526",
+    "category": "Console",
+    "title": "xbox one s avec 2 manettes",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10746016526-xbox-one-s-avec-2-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02361_tTYrLfv9RUWAo2NcSXKfNtGD/310x430/da2b2926.webp?s=a32a2e07e6e4bf3ee161953d5ee04adac844435c",
+    "addedAt": "2026-11-10T09:18:37.574Z",
+    "processed": false,
+    "triaged": false
   }
 ]
