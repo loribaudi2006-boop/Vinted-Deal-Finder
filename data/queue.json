@@ -1,21 +1,5 @@
 [
   {
-    "id": "10684582291",
-    "category": "Console",
-    "title": "Nintendo switch 2 spiele",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10684582291-nintendo-switch-2-spiele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00dc4_mwaaAQuY9y87sqUG2ZRFBeWb/310x430/24327d7c.webp?s=1b9334ae52a31555879f6e71e4892671ec505fa6",
-    "addedAt": "2026-11-06T05:53:46.802Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10684641646",
     "category": "Console",
     "title": "Ps4 blanche",
@@ -23869,8 +23853,11 @@
     "url": "https://www.vinted.it/items/10744871597-boite-ps5-sony-vide?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02301_cgdaRqESugo7SZP2LsGoa6Ve/310x430/cd856a70.webp?s=b652be7dfe9874730d6dc571c17d1a2df75fac16",
     "addedAt": "2026-11-10T05:18:27.064Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744879050",
@@ -23882,8 +23869,11 @@
     "url": "https://www.vinted.it/items/10744879050-ecran-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01107_mH7fdC4eXbLeuggduaq4BQmq/310x430/d95d87b5.webp?s=804334080c405ba961bf177e85325d30d0e5f4cc",
     "addedAt": "2026-11-10T05:20:31.598Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10744937670",
