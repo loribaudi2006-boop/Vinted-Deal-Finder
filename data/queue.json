@@ -21733,5 +21733,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.3
+  },
+  {
+    "id": "10752041588",
+    "category": "Console",
+    "title": "Lot Dock + Support Manette + Joy-Con Gauche Fortnite - Nintendo Switch",
+    "price": 29,
+    "totalPrice": 31.15,
+    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10752041588-lot-dock-support-manette-joy-con-gauche-fortnite-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014d2_FTP8MaVpDoYY9kugam2nUmW5/310x430/446fceac.webp?s=d644b94c8fda15f5656ee457314a6ec8628da80d",
+    "addedAt": "2026-11-10T23:43:14.784Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10752179962",
+    "category": "Console",
+    "title": "Lot d’équipement Nintendo Switch 🎮",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10752179962-lot-dequipement-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00d52_NFHCe9dK3dE4WkYEbTfT7rdv/310x430/a0a35cb4.webp?s=aa55c030b1c405bfb9559ca8c8becaad99fea7c4",
+    "addedAt": "2026-11-10T23:49:27.648Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10752011830",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 37,
+    "totalPrice": 39.55,
+    "reason": "prezzo 72% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10752011830-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00441_58QkX3ct7XNN8BPA585rsXV7/310x430/216334c2.webp?s=c85fc52fa702655c581ce89afde478468210180e",
+    "addedAt": "2026-11-10T23:51:32.014Z",
+    "processed": false,
+    "triaged": false
   }
 ]
