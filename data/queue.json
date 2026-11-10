@@ -23869,8 +23869,11 @@
     "url": "https://www.vinted.it/items/10743797466-soporte-para-mando-de-la-nintendo-switch-con-mando-incluido?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0095a_7FGKjmpCVGtT8u8Ltk9vHp3i/310x430/6f0911c2.webp?s=1a61a446c2312688374b68c1e06a459fe46435fd",
     "addedAt": "2026-11-10T01:12:00.549Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10743815058",
@@ -23882,7 +23885,10 @@
     "url": "https://www.vinted.it/items/10743815058-correos-seguridad-manos-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01ded_TCMr3fqmNuTTJDMsJrHyRmkx/310x430/1a038935.webp?s=776a13b6745cb04c92f60db3f932a60235f2dab6",
     "addedAt": "2026-11-10T01:14:04.932Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
