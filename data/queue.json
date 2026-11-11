@@ -23168,8 +23168,11 @@
     "url": "https://www.vinted.it/items/10756460704-nintendo-switch-light-hs?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_012fc_3t6sxw7bAQ2TS8uSZLLoQXE8/310x430/076dc9d8.webp?s=9ec165cf1d52fd9a9556bd799c30601aa1c17480",
     "addedAt": "2026-11-11T03:26:26.930Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10756457518",
@@ -23221,5 +23224,31 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.05
+  },
+  {
+    "id": "10757179322",
+    "category": "Console",
+    "title": "Étui rangement Nintendo switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10757179322-etui-rangement-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00f6c_2VLDgSq4MD5KhJECKy8up84e/310x430/f4099910.webp?s=a165e024e02352da197090f4d3539c2f9b562fa2",
+    "addedAt": "2026-11-11T03:55:29.770Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10757469737",
+    "category": "Console",
+    "title": "Ps4 500GB Funktioniert 2 Controller plus hdmi und Netzteil",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10757469737-ps4-500gb-funktioniert-2-controller-plus-hdmi-und-netzteil?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01665_D7eJNDxAhWW3v7VaFBu9N85J/310x430/fe721cf7.webp?s=b758057d1c7f84666bdd9fa013cb97ebc212fe4c",
+    "addedAt": "2026-11-11T04:00:41.449Z",
+    "processed": false,
+    "triaged": false
   }
 ]
