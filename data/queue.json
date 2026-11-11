@@ -23748,7 +23748,12 @@
     "url": "https://www.vinted.it/items/10772205817-nintendo-switch-noire-dock-1-joy-con-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00bba_r36nVytuH1bDGe5FAhicdc4Q/310x430/e5cb7b8d.webp?s=03e1acd986350cc54f70720669bec5564484dede",
     "addedAt": "2026-11-11T23:41:00.786Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "i | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch noire + dock + 1 Joy-Con (sans manette)\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nVends ma Nintendo Switch avec son dock et un Joy-Con.(SANS CÂBLE D'ALIMENTATION,SANS CÂBLE HDMI,LE LECTEUR CARTE ET CASSÉ)\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza cavo di alimentazione, senza cavo HDMI, un solo Joy-Con, lettore cartucce rotto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
   }
 ]
