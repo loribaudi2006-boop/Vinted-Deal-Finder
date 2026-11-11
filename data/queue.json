@@ -1,20 +1,5 @@
 [
   {
-    "id": "10697240407",
-    "category": "Console",
-    "title": "Nintendo Switch 2 + Mario Kart World Bundle - Leerbox (2025)",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10697240407-nintendo-switch-2-mario-kart-world-bundle-leerbox-2025?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_026fc_hgvTu8tJipUreadRpGKbetUA/310x430/a3ece6ff.webp?s=45fbd0c2636a864e2cb35adce957bac7cfb4b3e8",
-    "addedAt": "2026-11-07T06:59:30.622Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-26.95€, sotto soglia"
-  },
-  {
     "id": "10694942806",
     "category": "Console",
     "title": "Scatola originale nintendo switch compresa di bustine",
@@ -23283,8 +23268,10 @@
     "url": "https://www.vinted.it/items/10757933954-looking-for-ps5-dont-buy?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00d4c_AXekXQvSoFKk2X9E6AUKrjSQ/310x430/cb12507b.webp?s=4772c6db553d93e177ece0273966cc0e110fd550",
     "addedAt": "2026-11-11T06:50:37.069Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10757942721",
@@ -23296,8 +23283,10 @@
     "url": "https://www.vinted.it/items/10757942721-ps4-con-giochi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0157f_dMv8nyfohiw8uQXyVS7XXnAS/310x430/735afc6e.webp?s=53cc1b7596945bf745d2e2e29cb53aae83a28c49",
     "addedAt": "2026-11-11T06:52:41.419Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10757948039",
@@ -23309,8 +23298,10 @@
     "url": "https://www.vinted.it/items/10757948039-boite-vide-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00b69_zcBFdnLh1jicAxVhS7ur7eHH/310x430/f647e33e.webp?s=4dcba7089843498b5b44519a999bb4d922ac8141",
     "addedAt": "2026-11-11T06:54:45.353Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13.3€, sotto soglia"
   },
   {
     "id": "10757963237",
@@ -23322,7 +23313,39 @@
     "url": "https://www.vinted.it/items/10757963237-boite-vide-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01001_sz3cdLwTrQsjWNn182tXTzFg/310x430/74bb6b8e.webp?s=c273d7a7b96c648d0802ae5919d23db0f1490aff",
     "addedAt": "2026-11-11T06:58:53.625Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-9.3€, sotto soglia"
+  },
+  {
+    "id": "10757966917",
+    "category": "Console",
+    "title": "Boite vide switch 2",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 94% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10757966917-boite-vide-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01813_CjExv5AvXQjyTMdAUzZPvpQE/310x430/0826c315.webp?s=9c2492bf21d2dee99788f26d527cf6718395915f",
+    "addedAt": "2026-11-11T06:59:55.516Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10753875950",
+    "category": "Console",
+    "title": "Porta cartucce Nintendo switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10753875950-porta-cartucce-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00936_ppkCcujaXoYK7PCqivNJkpaQ/310x430/f753713c.webp?s=3d32ad7504c573b98ff99d3dec4d1cf1f30bdc9a",
+    "addedAt": "2026-11-11T06:59:55.516Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
   }
 ]
