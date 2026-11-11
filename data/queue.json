@@ -1,41 +1,5 @@
 [
   {
-    "id": "10699846064",
-    "category": "Console",
-    "title": "Nintendo Switch Neon Red / Neon Blue con scatola originale e accessori",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10699846064-nintendo-switch-neon-red-neon-blue-con-scatola-originale-e-accessori?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00197_Dztf6GqbYd1inYh9euZ9MA2X/310x430/09db608f.webp?s=a9a62afd93746c663eeca1d17f07f6f31857e57a",
-    "addedAt": "2026-11-07T11:20:22.644Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "to\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Neon Red / Neon Blue con scatola originale e accessori\nOttime·Nintendo·Caricato proprio adesso\n\n59,00 €\n\n62,65 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo Nintendo Switch modello standard in colorazione Blu/Rosso Neon.\nLa console è perfettamente funzionante e tenuta con molta cura. Vendo completa di:\nConsole Nintendo Switch\nController Joy-Con (Blu Neon / Rosso Neon)\nScatola originale\nCavi e accessori inclusi nella confezione originale\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80
-  },
-  {
-    "id": "10699858066",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10699858066-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d14_KK6fSUx7eMQvujrnhMEuUSJU/310x430/0f3519ba.webp?s=929254bb07be137879f07836a2c99c8e9252c636",
-    "addedAt": "2026-11-07T11:21:24.832Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox One\nBuone·Microsoft·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nMoin,\nzu verkaufen.\nFunktioniert inklusive original Kabel und Kontroller.\nDer Kontroller ist nicht mehr im guten Zustand Funktioniert aber einwandfrei.\n\nLG\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Controller non in buone condizioni estetiche ma funzionante, console funzionante",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
     "id": "10700001852",
     "category": "Console",
     "title": "Nintendo switch",
@@ -23031,7 +22995,24 @@
     "url": "https://www.vinted.it/items/10760659618-boite-vide-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0094a_T4jFeKpqEEEfWEMwkTmtigsp/310x430/8abfa6d7.webp?s=7d1c643a68775095f2fa0bb4385d8b4919fdca41",
     "addedAt": "2026-11-11T11:20:17.657Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10760741000",
+    "category": "Console",
+    "title": "Xbox One S qui ne détecte plus les manettes",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10760741000-xbox-one-s-qui-ne-detecte-plus-les-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_002ed_DmcozKEFgMbG4RvRdxbA7ACK/310x430/a6541959.webp?s=929b29dc0808f7b9097745b0f23ce0170142cd5e",
+    "addedAt": "2026-11-11T11:25:28.109Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
