@@ -23730,7 +23730,24 @@
     "url": "https://www.vinted.it/items/10771927559-playstation-5-cerco?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0124e_zjghEufU9aV8XKNMSWv1M4B7/310x430/e7d5de62.webp?s=27cc95ba128ba1a40e04e17681c3615a5a9c86c1",
     "addedAt": "2026-11-11T23:01:37.819Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10771971000",
+    "category": "Console",
+    "title": "Cagnotte leetchi PS5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10771971000-cagnotte-leetchi-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_010ec_5NwCMi3z2LG6YH7ubLq7gdEV/310x430/f5f2af25.webp?s=51e9c7af388d769ab878b11bc44438e90ea7293a",
+    "addedAt": "2026-11-11T23:06:48.463Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.2€, sotto soglia"
   }
 ]
