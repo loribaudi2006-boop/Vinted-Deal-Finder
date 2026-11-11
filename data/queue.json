@@ -23095,13 +23095,15 @@
     "url": "https://www.vinted.it/items/10755938213-ps4-slime?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01281_jCh9TXkMwfjw9GAzJjQjJQDC/310x430/e400510e.webp?s=fff94eb019595144ca37793dabdf7ac17dadbe4a",
     "addedAt": "2026-11-11T03:02:36.206Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nps4 slime\nBuone·PlayStation·Caricato 4 ore fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 ore fa\nplaystation 4\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 88.25
+    "geminiRoughMargin": 88.25,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10755960577",
@@ -23113,13 +23115,15 @@
     "url": "https://www.vinted.it/items/10755960577-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00fe3_ink1tjKhoPsug3Ed4edqAoBV/310x430/cd80b4e7.webp?s=bf5fa41b2bedacbc66618d5edf158f94e7476898",
     "addedAt": "2026-11-11T03:03:38.610Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 8\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nOttime·Nintendo·Caricato 4 ore fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n4 ore fa\nJe vends le lots complet (le chargeur est compris avec) il manque juste les manettes. D’où le prix\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "Manette (joy-con) mancanti",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
+    "geminiRoughMargin": 46.3,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10756126284",
@@ -23131,8 +23135,11 @@
     "url": "https://www.vinted.it/items/10756126284-nintendo-game-boy-color-atomic-purple-cgb-001-originale-non-testato?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_003d7_6ZYhjKfwtyAUDe63TuNtnPYy/310x430/01b1ab92.webp?s=a57affb923177539de5dd99229937e190e88788d",
     "addedAt": "2026-11-11T03:11:56.113Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10756344905",
