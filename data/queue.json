@@ -22569,13 +22569,15 @@
     "url": "https://www.vinted.it/items/10754858643-nitendo-switch-v2-ne-tiens-plus-la-batterie?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01765_KeTHNo6vkCPe5VqUCjQ36waj/310x430/9b33f692.webp?s=e52df3e487ac52c9493c8861f4d94abba80c9785",
     "addedAt": "2026-11-11T02:04:28.917Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNitendo switch v2 ne tiens plus la batterie\nOttime·Nintendo·Caricato 5 ore fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 ore fa\nElle ne tiens plus la batterie se décharge au bout de 20 minutes sans accessoires\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "Batteria guasta, si scarica dopo 20 minuti senza accessori",
     "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 61.55
+    "geminiRoughMargin": 61.55,
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10754579389",
@@ -22765,7 +22767,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_00a8e_NJMKkYBq8cdamsP9dMqkDLPP/310x430/4dd3fb87.webp?s=f5d6165db3a5104d0c4c5451ea251b4eed2b81d0",
     "addedAt": "2026-11-11T02:21:06.419Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox One S – Funktioniert einwandfrei\nOttime·Xbox·Caricato 5 ore fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\n5 ore fa\nDie Konsole funktioniert ohne Probleme.\n\n• Ohne Controller (Joystick)\n• Inklusive Netzteil / Stromkabel\n• HDMI-Kabel auf Wunsch dazu.\n\nVerkauf wie abgebildet. Bei Interesse gerne melden!\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (incluso cavo di alimentazione, HDMI su richiesta)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
   },
   {
     "id": "10755199789",
@@ -22822,7 +22829,7 @@
     "url": "https://www.vinted.it/items/10755038696-equipement-de-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01c13_VMhMuRHxbPSRpLpPoNZXsLFC/310x430/f512e48f.webp?s=575752d9a1797d093715f3fab3f15b8292693ef5",
     "addedAt": "2026-11-11T02:25:15.704Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nÉquipement de switch\nOttime·Nintendo·Caricato 5 ore fa\n\n35,00 €\n\n37,45 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n5 ore fa\nJe vend cette ensemble de switch que javais acheter car j’avais cru que j’allais acheter une switch\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -22840,8 +22847,13 @@
     "url": "https://www.vinted.it/items/10755357479-una-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00754_4yv2j8xBNYbL9TkXhHJaPzf6/310x430/4153a188.webp?s=9f3c3441f5475725e9e717e71dd89a3b44cf8ed9",
     "addedAt": "2026-11-11T02:29:24.471Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nUna Nintendo switch\nOttime·Nintendo·Caricato 4 ore fa\n\n25,00 €\n\n26,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo DS\nCondizioni\nOttime\nCaricato\n4 ore fa\nEs una Nintendo switch con Mario bro, Mario Bros, juegos pasados\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 110.05
   },
   {
     "id": "10755423130",
@@ -22853,7 +22865,63 @@
     "url": "https://www.vinted.it/items/10755423130-ps5-nueva?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02371_bJPUpUxqaMkxaZpoSmsdaAKL/310x430/8f598294.webp?s=8bcf7e418a92e0a8afc9f3238e57aa514ec93184",
     "addedAt": "2026-11-11T02:31:28.961Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs5 nueva\nNuovo con cartellino·PlayStation·Caricato 4 ore fa\n\n10,00 €\n\n11,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\n4 ore fa\nPs5 como la foto nueva en su caja\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 380
+  },
+  {
+    "id": "10755638176",
+    "category": "Console",
+    "title": "Nintendo Switch Lite Amarilla con joystick roto + funda",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10755638176-nintendo-switch-lite-amarilla-con-joystick-roto-funda?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00203_xEADgwHd2zh9Qtpb2gQTuWaL/310x430/9fe9d6f1.webp?s=47edc0411690309ba44373cc06e51512bb8e26d7",
+    "addedAt": "2026-11-11T02:37:41.956Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "i | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Lite Amarilla con joystick roto + funda\nDiscrete·Nintendo·Caricato 4 ore fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n4 ore fa\nNintendo switch lite amarilla con el único defecto del joystick, es de fácil reparación\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick rotto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.8
+  },
+  {
+    "id": "10755359628",
+    "category": "Console",
+    "title": "Switch 1 + pochette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10755359628-switch-1-pochette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e4c_LpdFtFPcbuZNrtCpVZJErmj5/310x430/d601c23e.webp?s=09eeda9e5d5ae7b55ae77f54f673733bf4743db3",
+    "addedAt": "2026-11-11T02:37:41.957Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch 1 + pochette\nDiscrete·Nintendo·Caricato 4 ore fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n4 ore fa\nEn moyen état , le joystick vert ne peut bouger mais on ne peut pas appuyer dessus, le joystick bleu marche , la switch est un peu rayer a l'écran et derrière ( voir photos ) , la pochette est incluse\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick verde bloccato e tasto non cliccabile, joystick blu funzionante, schermo e retro graffiati",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
+  },
+  {
+    "id": "10755388797",
+    "category": "Console",
+    "title": "Alimentation PS5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10755388797-alimentation-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_008c6_ctWJLk74J8ohtZk3zP9hL1d3/310x430/b4b4afdf.webp?s=249cd6192bf06653c328b4c897923df5a6532a7d",
+    "addedAt": "2026-11-11T02:38:44.320Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
