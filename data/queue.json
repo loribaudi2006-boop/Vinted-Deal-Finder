@@ -1,21 +1,5 @@
 [
   {
-    "id": "10696730053",
-    "category": "Console",
-    "title": "Switch V2",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10696730053-switch-v2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_003e9_oCvArN5Da2HzBTV83hCZo9KH/310x430/94ca9f88.webp?s=24851d86a619826726dcdad737ffd0ff9dd8fec6",
-    "addedAt": "2026-11-07T03:51:39.259Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10696846111",
     "category": "Console",
     "title": "PlayStation 3 (per ricambi)",
@@ -23151,8 +23135,13 @@
     "url": "https://www.vinted.it/items/10756344905-playstation-4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01d4c_DCqCxG3aW2GERx4dfy1Yx28b/310x430/f7c1d6cb.webp?s=b9bb8d4e7ae3068cbb930771f405d1207fcf3be8",
     "addedAt": "2026-11-11T03:22:17.758Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 slim 1TB\nBuone·PlayStation·Caricato 3 ore fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n3 ore fa\nBuone condizioni, prezzo trattabile\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   },
   {
     "id": "10756415852",
@@ -23164,8 +23153,10 @@
     "url": "https://www.vinted.it/items/10756415852-xbox-one-edition-fornite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00906_L33AtVxWPvXAeCvQAms3p2AV/310x430/83385c6c.webp?s=b9814febd392df7fd0aa2d410e08c6d17e60b6a9",
     "addedAt": "2026-11-11T03:25:24.500Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10756460704",
@@ -23190,7 +23181,45 @@
     "url": "https://www.vinted.it/items/10756457518-ps4-usata?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00bc9_XAbpxHH2WxY3G8mkhd5Z8zRn/310x430/3a3796a6.webp?s=fc8ece9b5c1e7432d367687cc1144a98fc60310a",
     "addedAt": "2026-11-11T03:26:26.930Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10757356831",
+    "category": "Console",
+    "title": "XBOX One X 1TB schwarz ohne Controller und Originalverpackung",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10757356831-xbox-one-x-1tb-schwarz-ohne-controller-und-originalverpackung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_018d2_1xNxbu2BD5nMzDByUmdGe7ou/310x430/8afb4f49.webp?s=795c9f33aa0438c1c805c6d0c8450f6e69adf2cf",
+    "addedAt": "2026-11-11T03:48:13.640Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "scriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXBOX One X 1TB schwarz ohne Controller und Originalverpackung\nOttime·Xbox·Caricato 18 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\n18 min fa\nGude, verkaufe hier meine Xbox in einem sehr guten Zustand mit allen Kabeln, leider ohne Controller und Originalverpackung\n\nBei Fragen gerne anschreiben 🫡\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il controller e la scatola originale",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10757356015",
+    "category": "Console",
+    "title": "Ps4 500GB 2 controller hdmi und Netzwerk Kabel",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10757356015-ps4-500gb-2-controller-hdmi-und-netzwerk-kabel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_007fa_Gfe959JSNJ9dzDwPQp3WFyKV/310x430/b840858d.webp?s=9a1cd7ae1bfd8e0bcd79011f3e383e6e1c442385",
+    "addedAt": "2026-11-11T03:48:13.641Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "scriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 500GB 2 controller hdmi und Netzwerk Kabel\nBuone·PlayStation·Caricato 19 min fa\n\n45,00 €\n\n47,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n19 min fa\nSie funktioniert noch 1A\nWurde nur ersetzt und sucht ein neues Zuhause\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.05
   }
 ]
