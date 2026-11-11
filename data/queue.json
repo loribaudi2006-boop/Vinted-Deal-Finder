@@ -1,35 +1,5 @@
 [
   {
-    "id": "10709831143",
-    "category": "Console",
-    "title": "Nintendo Switch funzionante e testata",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10709831143-nintendo-switch-funzionante-e-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0109a_cnfj5hPD3Bd2f8rycWZTZw2K/310x430/af5e3311.webp?s=a668153b8e126333b331e0623efdad9b4fafb099",
-    "addedAt": "2026-11-07T22:03:20.615Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~7.8€, sotto soglia"
-  },
-  {
-    "id": "10709887506",
-    "category": "Console",
-    "title": "Ufc6 für ps5",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10709887506-ufc6-fur-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01219_PNiMdZh8gEedFaMiRaGeXXVC/310x430/fce4b8e6.webp?s=181c9135549e5f3c396eb21646d9d4aef1079427",
-    "addedAt": "2026-11-07T22:08:33.894Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10710055919",
     "category": "Console",
     "title": "Je switch",
@@ -23719,5 +23689,38 @@
     "geminiFault": "Tasto R1 del Joy-Con destro non funzionante, manca lo sportellino copri slot cartucce, usura estetica",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 87.3
+  },
+  {
+    "id": "10771456710",
+    "category": "Console",
+    "title": "Câble ps4",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 98% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10771456710-cable-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015b2_vDPttukiZGwS9fJKh5K5LTPo/310x430/f0718970.webp?s=f8b29acd391cb9db9f9dfb07c08dcee9af5b4ad0",
+    "addedAt": "2026-11-11T22:07:39.895Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.15€, sotto soglia"
+  },
+  {
+    "id": "10771475982",
+    "category": "Console",
+    "title": "Ps4 à vendre",
+    "price": 56.8,
+    "totalPrice": 60.34,
+    "reason": "prezzo 56% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10771475982-ps4-a-vendre?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00eb9_xxG3dKJdeR2zPFDKRgaL62vk/310x430/c6df7f0e.webp?s=1f7847d83372b80af39bc6a5a8068f0855468eb5",
+    "addedAt": "2026-11-11T22:09:45.469Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 à vendre\nBuone·Sony·Caricato proprio adesso\n\n56,80 €\n\n60,34 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nBon état et réinitialiser avant l’expédition\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 39.66
   }
 ]
