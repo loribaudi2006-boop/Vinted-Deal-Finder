@@ -1,56 +1,5 @@
 [
   {
-    "id": "10697680948",
-    "category": "Console",
-    "title": "PlayStation 4 + twee controllers",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10697680948-playstation-4-twee-controllers?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00ddc_UEzCyRyZ6SFL3ssgrhxBVvM8/310x430/cf8d04f9.webp?s=7a2e5aa5c73ee0523cc673e71e7f57f60d61064b",
-    "addedAt": "2026-11-07T08:19:49.990Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "enuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 + twee controllers\nOttime·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPlayStation 4 + twee controllers\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.05
-  },
-  {
-    "id": "10697705687",
-    "category": "Console",
-    "title": "Switch 1",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10697705687-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_007ff_WUAgmRisra97rBeapuBeMxbc/310x430/4fcc9407.webp?s=fddc6aa918d3c0fbe910d2277874db19ae50090f",
-    "addedAt": "2026-11-07T08:22:57.360Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch 1\nOttime·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nLot de 6 articles Switch\n- station de charge\n- 2 chargeurs\n- 2 joy-con\n- 1 manette adaptable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
-    "id": "10695391619",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10695391619-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01cd9_ed7nYgngcEkTCew7SmAhCqi4/310x430/53234196.webp?s=ce31b59cca3742a2a692738db56f770bb0d36168",
-    "addedAt": "2026-11-07T08:22:57.361Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10697909329",
     "category": "Console",
     "title": "Je recherche une ps5",
@@ -23149,5 +23098,20 @@
     "geminiFault": "non si sa se funziona, venduta per pezzi di ricambio",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.55
+  },
+  {
+    "id": "10758405616",
+    "category": "Console",
+    "title": "caja nintendo switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10758405616-caja-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0011e_q4oVx2PeLFZmpPoa5KHnXKDe/310x430/108a61c9.webp?s=bde85266883769f6bf6ff2e6c2f8b152d0118e0c",
+    "addedAt": "2026-11-11T08:21:52.818Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
   }
 ]
