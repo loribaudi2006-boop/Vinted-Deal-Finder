@@ -1,20 +1,5 @@
 [
   {
-    "id": "10710152602",
-    "category": "Console",
-    "title": "Console Sony PlayStation 4 (PS4) Fat - 500GO",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10710152602-console-sony-playstation-4-ps4-fat-500go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0115e_CrC1WnkKJqFk1H9AvUvUPbSY/310x430/3047eabd.webp?s=557ec37aa07cd82c9756476b4a717865f10a4ca2",
-    "addedAt": "2026-11-07T22:36:39.869Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.05€, sotto soglia"
-  },
-  {
     "id": "10710210143",
     "category": "Console",
     "title": "Boîte vide PlayStation 5 avec son notice intérieur nike",
@@ -23722,5 +23707,35 @@
     "geminiFault": "La connessione alla TV non è funzionale (non si collega alla TV, ma carica bene)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.3
+  },
+  {
+    "id": "10771705111",
+    "category": "Console",
+    "title": "Cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10771705111-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00835_ezkdNHfo7ZQNb4Fmx4bMXL4d/310x430/a72ae9f2.webp?s=f202939931b034ad27023c0197311c5c30a26660",
+    "addedAt": "2026-11-11T22:33:35.340Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10771721648",
+    "category": "Console",
+    "title": "cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10771721648-cerco-ps5-scambio-con-nintendo-switch-oled-e-vari-giochi-piu-un-po-di-soldi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01530_z18c4CpW6Kyj7bENVz6Czb9b/310x430/433cf652.webp?s=66bd5572ff1657497c0214cffbae7828cef4aee3",
+    "addedAt": "2026-11-11T22:35:39.637Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
