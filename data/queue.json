@@ -23267,8 +23267,11 @@
     "url": "https://www.vinted.it/items/10757571729-ps4-500gb-2-controller-plus-hdmi-und-netzteil?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00ecb_KLf6Bqyqukie4PALAGYiupfm/310x430/48ef268e.webp?s=e82f5bbb2e4098c77427af118744e5b67b2eff4d",
     "addedAt": "2026-11-11T04:35:58.102Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10757618848",
