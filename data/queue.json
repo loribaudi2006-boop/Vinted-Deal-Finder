@@ -1,35 +1,5 @@
 [
   {
-    "id": "10708589387",
-    "category": "Console",
-    "title": "🎮 Console Xbox One – Fonctionnelle",
-    "price": 19.99,
-    "totalPrice": 21.69,
-    "reason": "prezzo 80% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10708589387-console-xbox-one-fonctionnelle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0065b_QXny3KyBUy69s7JQCnfY77qa/310x430/1e63b672.webp?s=a823675dc09c68247694a05732b47894ad39df7c",
-    "addedAt": "2026-11-07T20:21:25.989Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~28.31€, sotto soglia"
-  },
-  {
-    "id": "10708655019",
-    "category": "Console",
-    "title": "Pochette Steam deck LCD",
-    "price": 17,
-    "totalPrice": 18.55,
-    "reason": "prezzo 96% sotto il tipico per Steam Deck (~380€)",
-    "url": "https://www.vinted.it/items/10708655019-pochette-steam-deck-lcd?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01cec_EZtc1vXfCVLiEW9HRTwfeYap/310x430/8f08c780.webp?s=ff2c5a758148aa142e15053a88c2c3cbc7f2eaff",
-    "addedAt": "2026-11-07T20:25:35.258Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.45€, sotto soglia"
-  },
-  {
     "id": "10708786620",
     "category": "Console",
     "title": "PS4 Konsole von Sony",
@@ -23692,5 +23662,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10770072404",
+    "category": "Console",
+    "title": "Xbox One avec les câbles",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10770072404-xbox-one-avec-les-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c79_rf7V9RcoV3dn5GUweABxY5JY/310x430/3e55695a.webp?s=ae124eb0068c685167adaed06b5ace2b36202233",
+    "addedAt": "2026-11-11T20:21:46.266Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.3€, sotto soglia"
   }
 ]
