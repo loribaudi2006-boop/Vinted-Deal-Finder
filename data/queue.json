@@ -22485,5 +22485,44 @@
     "addedAt": "2026-11-11T01:52:01.620Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10754484363",
+    "category": "Console",
+    "title": "Vends Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10754484363-vends-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00a8d_cABYHWpgbfXwWkBuZBdx41PS/310x430/0018ac17.webp?s=3d098ccdc41ecab47b1b7ed556234a3f4f4465a5",
+    "addedAt": "2026-11-11T01:54:06.210Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10754633000",
+    "category": "Console",
+    "title": "Ps4 avec cable",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10754633000-ps4-avec-cable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00f46_dWKTPKAXtcDHQkw3zw2qQVaF/310x430/5837e131.webp?s=81ccb6e6cf46482f39b5d9a8f4299cb8be21a98d",
+    "addedAt": "2026-11-11T01:57:12.848Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10754751955",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10754751955-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b4b_6UiMX2kECn3z2PYWWFbv8fqE/310x430/8ee9ff0d.webp?s=da9371a9c759897e541947b718d47dd0425ff5b2",
+    "addedAt": "2026-11-11T02:01:21.681Z",
+    "processed": false,
+    "triaged": false
   }
 ]
