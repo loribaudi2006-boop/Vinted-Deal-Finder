@@ -23251,8 +23251,11 @@
     "url": "https://www.vinted.it/items/10757553019-ps4-500gb-2-controller-plus-hdmi-und-netzwerk-kabel?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_010ee_bby3R2EVavLuHJUzQB9yzMgt/310x430/a58949c7.webp?s=d3d21a324dbd511ddb46814737d1c1838fe796b7",
     "addedAt": "2026-11-11T04:29:44.566Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10757571729",
@@ -23264,6 +23267,19 @@
     "url": "https://www.vinted.it/items/10757571729-ps4-500gb-2-controller-plus-hdmi-und-netzteil?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00ecb_KLf6Bqyqukie4PALAGYiupfm/310x430/48ef268e.webp?s=e82f5bbb2e4098c77427af118744e5b67b2eff4d",
     "addedAt": "2026-11-11T04:35:58.102Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10757618848",
+    "category": "Console",
+    "title": "Playstation 4 - Schwarz - guter zustand",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10757618848-playstation-4-schwarz-guter-zustand?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ca1_khoU4LA7rexfoFxmnABouT3b/310x430/bd844869.webp?s=03c93dda60299333d801037a5c7c01290069089c",
+    "addedAt": "2026-11-11T04:54:37.317Z",
     "processed": false,
     "triaged": false
   }
