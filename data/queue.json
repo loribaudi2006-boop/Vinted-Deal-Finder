@@ -23056,5 +23056,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50
+  },
+  {
+    "id": "10763016513",
+    "category": "Console",
+    "title": "Adattatori per Nintendo switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10763016513-adattatori-per-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00cc1_6p7NgkTfLrQm4DymHo5oe4XU/310x430/9869559e.webp?s=f5f83e679bcc10b6c681c1fb1628d3b8023c8aa2",
+    "addedAt": "2026-11-11T13:47:15.843Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.7€, sotto soglia"
+  },
+  {
+    "id": "10763041054",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10763041054-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ac6_WuvjJTsToaN8dVtG9F7h3rss/310x430/f08df5e9.webp?s=4e1a6280c10a131a1ce08e660d43fc8383b24155",
+    "addedAt": "2026-11-11T13:48:18.092Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Lite\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch Lite couleur bleu.\nEn très bon état car peu utilisée.\nAvec pochette et carte SD.\nPar contre, je n’ai plus le jeu Prince of Persia.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il gioco Prince of Persia (specificato nella descrizione)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
+  },
+  {
+    "id": "10763103649",
+    "category": "Console",
+    "title": "Lettore ps5",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10763103649-lettore-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d88_uxq1Bhj6KWGPF7fRRBzzmYAk/310x430/d4a844a6.webp?s=c154f4a84998ff0a2ca66b3ec90af6084075cb2b",
+    "addedAt": "2026-11-11T13:51:24.997Z",
+    "processed": false,
+    "triaged": false
   }
 ]
