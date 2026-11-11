@@ -22295,8 +22295,10 @@
     "url": "https://www.vinted.it/items/10753495255-scatola-xbox-series-x?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e19_S6NVCZZkEdGtMCPCUVTWoSpg/310x430/6a874fb2.webp?s=b199789be75787bcb5cb887f5d30961fa16830ad",
     "addedAt": "2026-11-11T01:22:57.280Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-30.7€, sotto soglia"
   },
   {
     "id": "10753862715",
@@ -22351,8 +22353,10 @@
     "url": "https://www.vinted.it/items/10753644229-console-sony-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01413_KwRZwSKHajXVcicVKKiWnLJb/310x430/ddc4dc0f.webp?s=1d28056dbf321d6609c86c451c4e218933536b97",
     "addedAt": "2026-11-11T01:30:13.050Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
   },
   {
     "id": "10753962071",
@@ -22364,7 +22368,39 @@
     "url": "https://www.vinted.it/items/10753962071-maquina-arcade-para-colocar-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_004ef_F58z9AFY5AmuijXikG9dJ6cg/310x430/b1348edb.webp?s=429454bd9d9351ddd265c3056ae93c1acf1c1856",
     "addedAt": "2026-11-11T01:31:15.562Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.8€, sotto soglia"
+  },
+  {
+    "id": "10754145431",
+    "category": "Console",
+    "title": "(Ne pas acheter) je recherche une ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10754145431-ne-pas-acheter-je-recherche-une-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_020d2_WGmvH11qLcZUYKLa1csXVjBE/310x430/0bc668b1.webp?s=9eb69342c4b9190a84d4ef2bc26942f20b356cce",
+    "addedAt": "2026-11-11T01:39:33.014Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10753928070",
+    "category": "Console",
+    "title": "Xbox one s + manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10753928070-xbox-one-s-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_001d9_bpZXmPUyEr7B1WqLfC1oBYLs/310x430/b33cd814.webp?s=b04768997ee82beefe1258700bcc032ae6d60068",
+    "addedAt": "2026-11-11T01:39:33.014Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
