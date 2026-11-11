@@ -1,23 +1,5 @@
 [
   {
-    "id": "10698580976",
-    "category": "Console",
-    "title": "Ps4 bonne état",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10698580976-ps4-bonne-etat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_020a2_4b1yFPQWeq3zxgyeQHMbtoaC/310x430/02b74e96.webp?s=62e82ed0700dd76b2e7bd44b5c2062f7211b6a92",
-    "addedAt": "2026-11-07T09:50:05.693Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n5\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 bonne état\nBuone·PlayStation·Caricato un minuto fa\n\n25,00 €\n\n26,95 €\nincl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 500giga\nLecteur cd un peu fatigué mais marche et reconnais tout les CD\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Lecteur cd un peu fatigué mais marche et reconnais tout les CD",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 53.05
-  },
-  {
     "id": "10698650029",
     "category": "Console",
     "title": "Nintendo Switch Lite",
@@ -23181,7 +23163,54 @@
     "url": "https://www.vinted.it/items/10759131178-dragon-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00eae_7cSH4GqFkn8nEnawtnMcEYNg/310x430/c147eacf.webp?s=e0c4ff8048d1378c303c300a7bc80e5dced0a352",
     "addedAt": "2026-11-11T09:39:43.374Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10759243882",
+    "category": "Console",
+    "title": "Boîte de switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10759243882-boite-de-switch-edition-animal-crossing?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_021d8_n6uYZfdATssoizjhyabjPJcU/310x430/a3e74d34.webp?s=31c15d15abb91b32a747beddf22a8a11ff3d21c7",
+    "addedAt": "2026-11-11T09:43:53.668Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14€, sotto soglia"
+  },
+  {
+    "id": "10759240633",
+    "category": "Console",
+    "title": "support caméra xbox one",
+    "price": 2.5,
+    "totalPrice": 3.33,
+    "reason": "prezzo 98% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10759240633-support-camera-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0182f_HCSwDGAMLRA6dFPfxAp1Hh5Z/310x430/2c6e5bc9.webp?s=7db8951a784f2563e3b399cce1c3981f4f8be90d",
+    "addedAt": "2026-11-11T09:43:53.669Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
+  },
+  {
+    "id": "10759269647",
+    "category": "Console",
+    "title": "Juego Nintendo switch sports",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10759269647-juego-nintendo-switch-sports?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0221f_kJWWdHUGsRvCuFAJCbCDmCF6/310x430/2c3fc9f5.webp?s=15f962731a3bc04f60182c25f71eeb7979be5b2f",
+    "addedAt": "2026-11-11T09:45:57.587Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-18.2€, sotto soglia"
   }
 ]
