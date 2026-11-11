@@ -1,20 +1,5 @@
 [
   {
-    "id": "10710210143",
-    "category": "Console",
-    "title": "Boîte vide PlayStation 5 avec son notice intérieur nike",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10710210143-boite-vide-playstation-5-avec-son-notice-interieur-nike?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01ca0_w4GxKyJJfoGxftRYR1Pruw41/310x430/f0144e56.webp?s=f1e89be536c6e2f9013fc5720f12e81d4e493063",
-    "addedAt": "2026-11-07T22:42:53.242Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-16.45€, sotto soglia"
-  },
-  {
     "id": "10710312193",
     "category": "Console",
     "title": "PS4 Slim",
@@ -23737,5 +23722,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10771775016",
+    "category": "Console",
+    "title": "PlayStation 4 Slim 500GB + Controller compatibile e cavi",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10771775016-playstation-4-slim-500gb-controller-compatibile-e-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01665_KTCtnfUe82rY9LsX5FhdQAvq/310x430/cb82bb01.webp?s=cdbdce07fa062594c106e00b1a766b91df2812a3",
+    "addedAt": "2026-11-11T22:41:54.174Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10771792317",
+    "category": "Console",
+    "title": "PlayStation 4 Slim 500GB + Controller compatibile e cavi",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10771792317-playstation-4-slim-500gb-controller-compatibile-e-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01665_KTCtnfUe82rY9LsX5FhdQAvq/310x430/cb82bb01.webp?s=cdbdce07fa062594c106e00b1a766b91df2812a3",
+    "addedAt": "2026-11-11T22:44:00.812Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "cedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 Slim 500GB + Controller compatibile e cavi\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo console Sony PlayStation 4 Slim da 500GB, testata e perfettamente funzionante.\n\nLa console è in buone condizioni ed è stata formattata, pronta per essere configurata.\nInclusi nella vendita:\n\n• Console PS4 Slim 500GB\n• 1 controller compatibile (non originale Sony) funzionante\n• Cavo di alimentazione e cavo HDMI\n\nNota: scatola originale non presente).\n\nSpedizione rapida con imballaggio molto protettivo e ben imbottito. Valuto offerte sensate!\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 115
   }
 ]
