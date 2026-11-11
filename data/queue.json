@@ -22470,8 +22470,13 @@
     "url": "https://www.vinted.it/items/10754328593-nintendo-switch-v1-2-controllers-and-1-game?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00db7_jaFwiZ3e4nVAw75guSRi8uLH/310x430/f743eb67.webp?s=2002ad1b14087e6639c3897cec139d14ee2d8ae6",
     "addedAt": "2026-11-11T01:46:49.552Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch V1 +2 controllers and 1 game\nBuone·Nintendo·Caricato 5 ore fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n5 ore fa\nHereby I am selling my Nintendo Switch (V1 model). The set is used, but otherwise works completely properly. Ideal for gaming right away!\nWhat is included?\nNintendo Switch console (32GB)\nOriginal red Joy-Cons +\nJoy-Con Grip + supermario oddesy game &\nExtra wireless controller (blue/green - very nice for co-op or longer gaming sessions) !\nImportant note:\nThe left analog stick of the red Joy-Con has a defect. It works for movement, but you cannot swipe to the right with it and the press function (clicking) does not work. Fortunately, you get the extra blue/green controller with it on which everything works 100%, and the Switch is also fine to use with the touchscreen or separate controllers. Pick-up only. If you are interested, send me a DM\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Left analog stick of the red Joy-Con has a defect (right swipe and click do not work)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   },
   {
     "id": "10754448595",
@@ -22483,8 +22488,10 @@
     "url": "https://www.vinted.it/items/10754448595-giochi-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00078_GNkL8wHCizsdZyRJBmqYKoU4/310x430/306bc199.webp?s=cc0832dbed37b86197fc4522423c6964ff835126",
     "addedAt": "2026-11-11T01:52:01.620Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   },
   {
     "id": "10754484363",
@@ -22496,8 +22503,10 @@
     "url": "https://www.vinted.it/items/10754484363-vends-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00a8d_cABYHWpgbfXwWkBuZBdx41PS/310x430/0018ac17.webp?s=3d098ccdc41ecab47b1b7ed556234a3f4f4465a5",
     "addedAt": "2026-11-11T01:54:06.210Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.8€, sotto soglia"
   },
   {
     "id": "10754633000",
@@ -22509,8 +22518,13 @@
     "url": "https://www.vinted.it/items/10754633000-ps4-avec-cable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00f46_dWKTPKAXtcDHQkw3zw2qQVaF/310x430/5837e131.webp?s=81ccb6e6cf46482f39b5d9a8f4299cb8be21a98d",
     "addedAt": "2026-11-11T01:57:12.848Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 avec cable\nBuone·Sony·Caricato 5 ore fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n5 ore fa\nPs4 en bon etat qui marche tres bien. Totalement réinitialiser. Acheter en magasin a 300€. prix negociable.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   },
   {
     "id": "10754751955",
@@ -22522,6 +22536,91 @@
     "url": "https://www.vinted.it/items/10754751955-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b4b_6UiMX2kECn3z2PYWWFbv8fqE/310x430/8ee9ff0d.webp?s=da9371a9c759897e541947b718d47dd0425ff5b2",
     "addedAt": "2026-11-11T02:01:21.681Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10754750182",
+    "category": "Console",
+    "title": "Switch ohne Joy cons",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10754750182-switch-ohne-joy-cons?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01955_3d7NM68YfZyf7hKGSWr5WJKT/310x430/ba02307a.webp?s=36255a019aadb21bcc68327b714c2db5a75d1d3d",
+    "addedAt": "2026-11-11T02:03:26.126Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch ohne Joy cons\nBuone·Nintendo·Caricato 5 ore fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n5 ore fa\nGut zu stand\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano i Joy-Con",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.05
+  },
+  {
+    "id": "10754858643",
+    "category": "Console",
+    "title": "Nitendo switch v2 ne tiens plus la batterie",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10754858643-nitendo-switch-v2-ne-tiens-plus-la-batterie?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01765_KeTHNo6vkCPe5VqUCjQ36waj/310x430/9b33f692.webp?s=e52df3e487ac52c9493c8861f4d94abba80c9785",
+    "addedAt": "2026-11-11T02:04:28.917Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10754579389",
+    "category": "Console",
+    "title": "Xbox one all digital",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10754579389-xbox-one-all-digital?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00ab0_kf9DfHMYD3dwUmPzXyaDfpp8/310x430/5ba55b24.webp?s=65014fab4446961309bcbf4c86983cec94a8e7d0",
+    "addedAt": "2026-11-11T02:05:31.241Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10754916958",
+    "category": "Console",
+    "title": "Playstation 5 Kontroller mit Kopfhörer",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10754916958-playstation-5-kontroller-mit-kopfhorer?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01bcf_CxMkTrriyea8EevdbBnnghPz/310x430/db0e0f84.webp?s=4adcaf65ab42656f8360ff5bf5bb5da100bead49",
+    "addedAt": "2026-11-11T02:07:35.835Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10754488371",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10754488371-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01a12_jhhHqgHJMhjgeWPAFRagyHTu/310x430/aea19713.webp?s=93273ce7e05e72c486f3dd888588fa06ef86da62",
+    "addedAt": "2026-11-11T02:08:38.322Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10754703850",
+    "category": "Console",
+    "title": "Nintendo switch Aufbewahrungs Tasche",
+    "price": 9,
+    "totalPrice": 10.15,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10754703850-nintendo-switch-aufbewahrungs-tasche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_005a9_B6wwQtRbZWghFHPRrU4Wcp3U/310x430/90d2f820.webp?s=8c55c90347d05001d7d0be479e4878324557d99d",
+    "addedAt": "2026-11-11T02:11:44.765Z",
     "processed": false,
     "triaged": false
   }
