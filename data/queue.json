@@ -23752,5 +23752,23 @@
     "geminiFault": "Senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10772137913",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10772137913-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02297_e1DvmDieAWyRNFByEfuv7Jv6/310x430/692c10d0.webp?s=1e9c7987e7e39ac2238654d475db7efd14e76682",
+    "addedAt": "2026-11-11T23:30:39.044Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one S\nNuovo senza cartellino·Xbox·Caricato un minuto fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nSans manette fonctionne parfaitement je veux vite m’en débarrasser à vendre au plus vite\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sans manette",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.3
   }
 ]
