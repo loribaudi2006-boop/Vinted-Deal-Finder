@@ -1,21 +1,5 @@
 [
   {
-    "id": "10696846111",
-    "category": "Console",
-    "title": "PlayStation 3 (per ricambi)",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/10696846111-playstation-3-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_010dd_Qb8c6Kfu2vnwjzgp1T6U83Cw/310x430/2d44afec.webp?s=2be8935e13ba1fda0cd9b85a88909a0f49ad37cc",
-    "addedAt": "2026-11-07T04:30:51.626Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10697053199",
     "category": "Console",
     "title": "Lot nintendo wii et jeux wii ds 3 ds et ps4",
@@ -23235,8 +23219,11 @@
     "url": "https://www.vinted.it/items/10757179322-etui-rangement-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00f6c_2VLDgSq4MD5KhJECKy8up84e/310x430/f4099910.webp?s=a165e024e02352da197090f4d3539c2f9b562fa2",
     "addedAt": "2026-11-11T03:55:29.770Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10757469737",
@@ -23248,6 +23235,22 @@
     "url": "https://www.vinted.it/items/10757469737-ps4-500gb-funktioniert-2-controller-plus-hdmi-und-netzteil?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01665_D7eJNDxAhWW3v7VaFBu9N85J/310x430/fe721cf7.webp?s=b758057d1c7f84666bdd9fa013cb97ebc212fe4c",
     "addedAt": "2026-11-11T04:00:41.449Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10757553019",
+    "category": "Console",
+    "title": "Ps4 500GB 2 controller plus hdmi und Netzwerk Kabel",
+    "price": 46,
+    "totalPrice": 49,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10757553019-ps4-500gb-2-controller-plus-hdmi-und-netzwerk-kabel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_010ee_bby3R2EVavLuHJUzQB9yzMgt/310x430/a58949c7.webp?s=d3d21a324dbd511ddb46814737d1c1838fe796b7",
+    "addedAt": "2026-11-11T04:29:44.566Z",
     "processed": false,
     "triaged": false
   }
