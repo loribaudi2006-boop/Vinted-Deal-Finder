@@ -1,50 +1,5 @@
 [
   {
-    "id": "10697483862",
-    "category": "Console",
-    "title": "Switch lite bleu",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10697483862-switch-lite-bleu?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01036_z5i3KoJcpcUy5F2dHdV9NXMX/310x430/4d76a6d4.webp?s=86d602394fae865b14c6e67b0178d36908210b53",
-    "addedAt": "2026-11-07T07:49:45.345Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10697527704",
-    "category": "Console",
-    "title": "Switch lite bleu clair",
-    "price": 63,
-    "totalPrice": 66.85,
-    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10697527704-switch-lite-bleu-clair?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00216_B4Zf34PfmNEZuMEQLSX4tCfa/310x430/bca4226f.webp?s=335597e502123092d7017cf5fd32e3bf08bb83de",
-    "addedAt": "2026-11-07T07:57:00.685Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10697528924",
-    "category": "Console",
-    "title": "Socle tv switch",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10697528924-socle-tv-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01778_Gw1nhueWTvtNQGrVZ2Q5E3kM/310x430/0bb270b1.webp?s=9aa42b0e66475f04d93006769c2b5e831b640e52",
-    "addedAt": "2026-11-07T07:58:02.772Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.55€, sotto soglia"
-  },
-  {
     "id": "10697581126",
     "category": "Console",
     "title": "Ps3 fat non funzionante Led rosso lampeggiante",
@@ -23269,5 +23224,23 @@
     "geminiFault": "Estetica non nuovissima, senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10758242001",
+    "category": "Console",
+    "title": "Nintendo switch V1 +2 controllers and 1 game",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10758242001-nintendo-switch-v1-2-controllers-and-1-game?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00db7_jaFwiZ3e4nVAw75guSRi8uLH/310x430/f743eb67.webp?s=2002ad1b14087e6639c3897cec139d14ee2d8ae6",
+    "addedAt": "2026-11-11T07:56:54.698Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch V1 +2 controllers and 1 game\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nHereby I am selling my Nintendo Switch (V1 model). The set is used, but otherwise works completely properly. Ideal for gaming right away!\nWhat is included?\nNintendo Switch console (32GB)\nOriginal red Joy-Cons +\nJoy-Con Grip + supermario oddesy game &\nExtra wireless controller (blue/green - very nice for co-op or longer gaming sessions) !\nImportant note:\nThe left analog stick of the red Joy-Con has a defect. It works for movement, but you cannot swipe to the right with it and the press function (clicking) does not work. Fortunately, you get the extra blue/green controller with it on which everything works 100%, and the Switch is also fine to use with the touchscreen or separate controllers. Pick-up only. If you are interested, send me a DM\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Left analog stick of the red Joy-Con has a defect (cannot swipe right and click doesn't work), but includes an extra working blue/green wireless controller and Super Mario Odyssey",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
