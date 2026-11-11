@@ -23347,5 +23347,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10758026203",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10758026203-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_012db_sWGtrdV9WQ5D1N5dmtprZnK3/310x430/f81b8787.webp?s=e47f309af5d0175088a26eedfae6495f82bb3a65",
+    "addedAt": "2026-11-11T07:14:25.870Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nBuone·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nSie geht an und funktioniert super!\nEin paar Kratzer , ansonsten in gutem Zustand 😊\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ein paar Kratzer",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
   }
 ]
