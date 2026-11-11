@@ -23626,5 +23626,51 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-11.2€, sotto soglia"
+  },
+  {
+    "id": "10769623761",
+    "category": "Console",
+    "title": "PlayStation 4 PS4 500 Go + manette officielle + câbles",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10769623761-playstation-4-ps4-500-go-manette-officielle-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01009_9428jmFs7JLsqqqQ4xM53ZUU/310x430/4aad1995.webp?s=4a9f30a10b3d24ada1397d3ccb2c0d340f22c2a9",
+    "addedAt": "2026-11-11T19:53:37.731Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 PS4 500 Go + manette officielle + câbles\nBuone·PlayStation·Caricato proprio adesso\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nJe vends ma PlayStation 4 noire 500 Go en bon état général.\n\nConsole bien entretenue, vendue avec tous les accessoires nécessaires :\n\n- Console Sony PlayStation 4\n- Manette officielle DualShock 4 noire\n- Câble HDMI\n- Câble d'alimentation secteur\n\nConsole idéale pour profiter des jeux PlayStation 4.\n\nEnvoi soigné et bien protégé.\n\nN'hésitez pas à me contacter pour toute question !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.35
+  },
+  {
+    "id": "10769643761",
+    "category": "Console",
+    "title": "Sacoche switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10769643761-sacoche-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0057a_gMCbwqKyuijva5tApdistCXM/310x430/5153e5cf.webp?s=8ffa8de34d2f606d5eeb5b99a50564ee9378b4c3",
+    "addedAt": "2026-11-11T19:54:40.135Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10769725175",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 64,
+    "totalPrice": 67.9,
+    "reason": "prezzo 51% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10769725175-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cfc_9gD8JpqZKtdzqyzukB8ZvBPT/310x430/14fe4859.webp?s=d5f26ffb018dd5a630f95eff79ae481d212060b0",
+    "addedAt": "2026-11-11T19:59:53.827Z",
+    "processed": false,
+    "triaged": false
   }
 ]
