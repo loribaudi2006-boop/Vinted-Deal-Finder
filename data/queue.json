@@ -23146,5 +23146,44 @@
     "addedAt": "2026-11-11T03:22:17.758Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10756415852",
+    "category": "Console",
+    "title": "Xbox one ( édition fornite )",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10756415852-xbox-one-edition-fornite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00906_L33AtVxWPvXAeCvQAms3p2AV/310x430/83385c6c.webp?s=b9814febd392df7fd0aa2d410e08c6d17e60b6a9",
+    "addedAt": "2026-11-11T03:25:24.500Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10756460704",
+    "category": "Console",
+    "title": "Nintendo Switch Light HS",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10756460704-nintendo-switch-light-hs?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_012fc_3t6sxw7bAQ2TS8uSZLLoQXE8/310x430/076dc9d8.webp?s=9ec165cf1d52fd9a9556bd799c30601aa1c17480",
+    "addedAt": "2026-11-11T03:26:26.930Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10756457518",
+    "category": "Console",
+    "title": "ps4 usata",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10756457518-ps4-usata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00bc9_XAbpxHH2WxY3G8mkhd5Z8zRn/310x430/3a3796a6.webp?s=fc8ece9b5c1e7432d367687cc1144a98fc60310a",
+    "addedAt": "2026-11-11T03:26:26.930Z",
+    "processed": false,
+    "triaged": false
   }
 ]
