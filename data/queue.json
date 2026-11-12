@@ -23889,5 +23889,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10774536547",
+    "category": "Console",
+    "title": "Ps4 slim 500 go",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10774536547-ps4-slim-500-go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00291_zd5UtPuV9j5g5jWvnrisiLxZ/310x430/454392fb.webp?s=80bbb99b1f1d166858bff69aa74b6a6e28f37786",
+    "addedAt": "2026-11-12T08:40:02.427Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 slim 500 go\nOttime·Sony·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nBonjour, je vend une ps4 slim 500 go en très bon état, produit seul sans manette ou boite, fonctionne parfaitement bien.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console sola senza controller o scatola, ma perfettamente funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
   }
 ]
