@@ -1,21 +1,5 @@
 [
   {
-    "id": "10711136694",
-    "category": "Console",
-    "title": "Cherche un don d'une console ps4 ou Xbox",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10711136694-cherche-un-don-dune-console-ps4-ou-xbox?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_008d6_nqMSRJriWMkJtQ5PgNso7JYj/310x430/616001b8.webp?s=12722763fc3367ab1eb8c46fb686a30d7ae7733a",
-    "addedAt": "2026-11-08T01:08:04.607Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10711220974",
     "category": "Console",
     "title": "Cherche un don de console ps4",
@@ -23839,5 +23823,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 47.3
+  },
+  {
+    "id": "10772682111",
+    "category": "Console",
+    "title": "Verkaufe ps4.",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10772682111-verkaufe-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0210e_gPT7pLbeYtQZK9kaRBTPegTP/310x430/fe0fa51f.webp?s=2d03cb388b875c12fe3cf2cf2e1d5ecc24860983",
+    "addedAt": "2026-11-12T01:03:58.213Z",
+    "processed": false,
+    "triaged": false
   }
 ]
