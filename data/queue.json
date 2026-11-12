@@ -23914,7 +23914,10 @@
     "url": "https://www.vinted.it/items/10773753225-xbox-one-black?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0165a_FaiWYvdsDNq4bmJgPjn7N7ee/310x430/2949192b.webp?s=8ecde667f713573fd8c4e1d8043e7486b9daed39",
     "addedAt": "2026-11-12T05:34:21.185Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
