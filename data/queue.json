@@ -1,35 +1,5 @@
 [
   {
-    "id": "10715171642",
-    "category": "Console",
-    "title": "Nintendo Switch 1 replacement screws",
-    "price": 2,
-    "totalPrice": 2.8,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10715171642-nintendo-switch-1-replacement-screws?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00051_NCYczeCY9V9YgUKw6QPzGcJf/310x430/b41eea1e.webp?s=6c335810d396afa10dddc4fcd34dd1afa94c2fec",
-    "addedAt": "2026-11-08T11:07:39.650Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.2€, sotto soglia"
-  },
-  {
-    "id": "10715290500",
-    "category": "Console",
-    "title": "Ps2 per pezzi",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "parola chiave: \"per pezzi\"",
-    "url": "https://www.vinted.it/items/10715290500-ps2-per-pezzi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0057b_j9zTzRmK4qwiNeJv9K4j4ZgS/310x430/990df099.webp?s=57731915b704f3f7b3f771362bdadcd5da654d98",
-    "addedAt": "2026-11-08T11:13:53.651Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~23.55€, sotto soglia"
-  },
-  {
     "id": "10715351428",
     "category": "Console",
     "title": "Juegos de ps4",
@@ -23649,5 +23619,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10776042440",
+    "category": "Console",
+    "title": "Nintendo switch standaard",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10776042440-nintendo-switch-standaard?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a3b_nFxPBP8CHsRJbKSr2Gsuzgvh/310x430/6b27cddc.webp?s=abba57a73e4b5bf0ef7af1142b022bf513047373",
+    "addedAt": "2026-11-12T11:07:55.484Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10776128720",
+    "category": "Console",
+    "title": "Xbox One première génération",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 52% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10776128720-xbox-one-premiere-generation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01020_nYx7C6Dtjobhbn3TyziBaya4/310x430/173135b1.webp?s=fa96eb47dd70135ac47d3d849a255a2072515224",
+    "addedAt": "2026-11-12T11:15:10.444Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.9€, sotto soglia"
   }
 ]
