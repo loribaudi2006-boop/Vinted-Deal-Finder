@@ -1,38 +1,5 @@
 [
   {
-    "id": "10728235968",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10728235968-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00376_LTDGPQ6CwJA1QkaVGhi18Tmp/310x430/ecd93d45.webp?s=9513e1a1984ea1b8e9c997959361c95b66b57713",
-    "addedAt": "2026-11-08T22:01:38.039Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.3€, sotto soglia"
-  },
-  {
-    "id": "10728269462",
-    "category": "Console",
-    "title": "Xbox One 1.5 terabytes",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10728269462-xbox-one-15-terabytes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02401_73PZSVS15vYjEEmdnFmAzJU4/310x430/efe32bc2.webp?s=fc229eff0075f623ec53047c916bad3220658f6c",
-    "addedAt": "2026-11-08T22:03:43.405Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox One 1.5 terabytes\nOttime·Xbox·Caricato proprio adesso\n\n35,00 €\n\n37,45 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\nXbox One s em muito bom estada como nova\nSem marcas de uso\nTem disco de 1.5 terabytes\nA Xbox vai pronta a usar, só precisa colocar a conta e divertir-se.\nO comando já tem algum uso, ainda dá para jogar mas tem o botão RB que não funciona.\n... altro\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Pulsante RB del controller non funzionante",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.55
-  },
-  {
     "id": "10728317160",
     "category": "Console",
     "title": "Playstation 4",
@@ -21969,5 +21936,46 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "10784841828",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10784841828-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012e8_9jVhxbDxLJehjAeXxJHmAenQ/310x430/4cced923.webp?s=314447b6c90d860322f353a5a551ea7cb3b0132d",
+    "addedAt": "2026-11-12T22:03:08.303Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10784890207",
+    "category": "Console",
+    "title": "Ps4 te koop",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10784890207-ps4-te-koop?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02488_2TMwu2rd4WYSCKkSjxu3DM3S/310x430/a29efa3b.webp?s=c31ef75a4cfe0ca794cf92cc0a42c26fb9bfee08",
+    "addedAt": "2026-11-12T22:07:17.029Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10784883541",
+    "category": "Console",
+    "title": "Recherche PS5 – Paris / Île-de-France 🎮",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10784883541-recherche-ps5-paris-ile-de-france?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022b1_s5XoSJDpupbrnQucZdXYoKbG/310x430/04356337.webp?s=e42eab85b4b49232e7c1afdb5136a3b4f4b941a7",
+    "addedAt": "2026-11-12T22:07:17.029Z",
+    "processed": false,
+    "triaged": false
   }
 ]
