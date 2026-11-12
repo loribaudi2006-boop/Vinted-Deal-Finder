@@ -23834,7 +23834,10 @@
     "url": "https://www.vinted.it/items/10773110089-nintendo-switch-edition-collector?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_011d7_Egis3evjQ5otwYWedor3o46a/310x430/2b1b4798.webp?s=0f30d07c31d530ca58924963913c93422788a4dd",
     "addedAt": "2026-11-12T02:26:32.853Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
