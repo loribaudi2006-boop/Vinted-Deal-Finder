@@ -1,20 +1,5 @@
 [
   {
-    "id": "10714616096",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10714616096-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_017b5_8VNcPadBP8d2LzvkJ7ifPeHk/310x430/4c848a42.webp?s=505590acb0093eee26a18d3a3b330e33ff56cb11",
-    "addedAt": "2026-11-08T10:37:30.660Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10714780609",
     "category": "Console",
     "title": "Nintendo switch",
@@ -23762,7 +23747,45 @@
     "url": "https://www.vinted.it/items/10775657954-ps4-fonctionelle-fournie-avec-manette-custome-et-cable-lire-description?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0004f_kLziJ2pwEApG3qE7R5LqPreq/310x430/47640170.webp?s=01cedaff9eeff4d4302c7125c965f522ace57723",
     "addedAt": "2026-11-12T10:34:50.505Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 fonctionelle fournie avec manette custome et cable lire description\nBuone·PlayStation·Caricato 3 min fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n3 min fa\nPs4 pleinement fonctionel qui souflle beaucoup avec trace juste visuel voir photo mannette bug un peu fournie avec cable hdmi\nEnvoie soigné\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ventola rumorosa (soffia molto), tracce visive di usura, controller con lievi bug",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10775715835",
+    "category": "Console",
+    "title": "Ps4 à vendre",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10775715835-ps4-a-vendre?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_005d2_XcfEbmh88hGtNLAN4SeqoXEi/310x430/322d743e.webp?s=d11a8b32a2052eb782b65c57ef0483df6f3be534",
+    "addedAt": "2026-11-12T10:40:01.519Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 à vendre\nOttime·Sony·Caricato proprio adesso\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 en parfait état\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10775707049",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10775707049-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f6e_hHUJEGfqfs7c6i9S7Zs778qb/310x430/106112a4.webp?s=2656ea07377d29dae2f649f08a7a50e3dc0b61c6",
+    "addedAt": "2026-11-12T10:41:03.424Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
