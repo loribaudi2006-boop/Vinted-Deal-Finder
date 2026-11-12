@@ -1,21 +1,5 @@
 [
   {
-    "id": "10712091491",
-    "category": "Console",
-    "title": "Xbox One –  Kabel defekt Defekt / Ersatzteilspender",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 85% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10712091491-xbox-one-kabel-defekt-defekt-ersatzteilspender?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_026d4_Sxpkcxe1WWNQdCf2A72r2yhQ/310x430/44c72b58.webp?s=6b3b5aa910e8a021f7f1278eac41b8fdce281918",
-    "addedAt": "2026-11-08T05:18:21.374Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10712280100",
     "category": "Console",
     "title": "Joistick ps4",
@@ -23882,8 +23866,11 @@
     "url": "https://www.vinted.it/items/10773616925-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0009b_VchGEHURQk3D86DvZCqVPWCA/310x430/365da31f.webp?s=a860f11371c2b39d469b0b3a61bd1b08ff3e9163",
     "addedAt": "2026-11-12T04:39:41.114Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10773626817",
@@ -23895,8 +23882,11 @@
     "url": "https://www.vinted.it/items/10773626817-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01f34_jY6ALdKaxcePSsDwy6txEZcp/310x430/1a0c2028.webp?s=14ec1f2fa6c15dd3d83cb5e028090036d7109e14",
     "addedAt": "2026-11-12T04:43:48.983Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10773637959",
@@ -23908,7 +23898,10 @@
     "url": "https://www.vinted.it/items/10773637959-switch-seule-bien-lire-lannonce?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00663_UxannHB4VVVRRHBD4KcjHJ8W/310x430/4ca47c3a.webp?s=640bc8be452ba1d0fe7eeaad88258276cff5b957",
     "addedAt": "2026-11-12T04:47:56.786Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
