@@ -1,21 +1,5 @@
 [
   {
-    "id": "10711540862",
-    "category": "Console",
-    "title": "Nintendo Switch Lite Corail avec sa boite.",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10711540862-nintendo-switch-lite-corail-avec-sa-boite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_023df_LBEK2pAiTrGjhXqwojLMQUz5/310x430/409b6e90.webp?s=d63f89c4d203cc19b77b674666ab5a7ee5c7a3d1",
-    "addedAt": "2026-11-08T02:39:14.821Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10711785825",
     "category": "Console",
     "title": "PlayStation 4",
@@ -23834,8 +23818,11 @@
     "url": "https://www.vinted.it/items/10773027007-nintendo-switch-classique?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00b1d_XXSiVoqFt5s9VvMCeMcB4tWu/310x430/b1586311.webp?s=58fb56174868d25373b0b36fd2f4a8032e8aeda1",
     "addedAt": "2026-11-12T02:10:03.341Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10773110089",
