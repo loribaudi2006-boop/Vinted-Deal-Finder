@@ -22352,7 +22352,30 @@
     "url": "https://www.vinted.it/items/10778785926-playstation-4-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0023a_qSzxAsDLHdTLE1nq2zCK9y8D/310x430/88b5b62b.webp?s=748c1b264a2979bcf8dd64ce1625b79a077d8226",
     "addedAt": "2026-11-12T14:44:17.554Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 (Ps4)\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nLa vendo porque ya no la utilizo y debo de decir que no lee los discos creo que la lente está sucia no estoy segura , PLAY SOLA\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non legge i dischi, probabile lente sporca (Play sola, senza accessori)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10778897012",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10778897012-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01fe0_UMC1qdT1Kws2wK4iY7GbEuHj/310x430/f52e1e4c.webp?s=cf8d47401adf7e52c76bd963614a6165e4d5c3b0",
+    "addedAt": "2026-11-12T14:52:33.692Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 usata slim\nno controller\nno scatola\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano controller e scatola",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
