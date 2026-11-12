@@ -23818,6 +23818,22 @@
     "url": "https://www.vinted.it/items/10772682111-verkaufe-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0210e_gPT7pLbeYtQZK9kaRBTPegTP/310x430/fe0fa51f.webp?s=2d03cb388b875c12fe3cf2cf2e1d5ecc24860983",
     "addedAt": "2026-11-12T01:03:58.213Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10772860145",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10772860145-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0206d_VUqHLQKu8GYASDrFFs1xKNWA/310x430/41c7cdbc.webp?s=243ab1f8ffb8cbfd32202d8625d0d195c60a5590",
+    "addedAt": "2026-11-12T01:37:02.059Z",
     "processed": false,
     "triaged": false
   }
