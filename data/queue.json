@@ -21900,5 +21900,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10785522371",
+    "category": "Console",
+    "title": "Xbox One avec jeux et manette",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10785522371-xbox-one-avec-jeux-et-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01560_FVJS7Wo5rgPqa31FjyjLFNZg/310x430/7f191e8a.webp?s=45c25a35156be1a1674550e5b64b20c90078d55f",
+    "addedAt": "2026-11-12T23:32:16.323Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
