@@ -23755,5 +23755,23 @@
     "geminiFault": "Senza cavo di alimentazione, senza cavo HDMI, un solo Joy-Con, lettore cartucce rotto",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60
+  },
+  {
+    "id": "10772284032",
+    "category": "Console",
+    "title": "Ps4 + controller (prezzo speciale per difetto lettore CD)",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10772284032-ps4-controller-prezzo-speciale-per-difetto-lettore-cd?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01db3_dKoZhdB2wmdsVKDHK3gzG8d3/310x430/2c05af6e.webp?s=79f00608a2e4895b36699ef67641f02794faae2e",
+    "addedAt": "2026-11-11T23:53:26.407Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Vendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 + controller (prezzo speciale per difetto lettore CD)\nDiscrete·PlayStation·Caricato proprio adesso\n\n59,99 €\n\n63,69 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nPlayStation 4 Slim 1 TB + DualShock .\nUsurati dal tempo ma perfettamente funzionanti entrambi , la console a distanza di anni si comporta ancora molto bene unica pecca quando si inseriscono i CD non sempre li riconosce , a volte li trattiene o li risputa immediatamente , per quanto riguarda i giochi digitali va ancora perfettamente .\nPrezzo €59,99 per console+joystick\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il lettore CD non sempre riconosce i dischi, a volte li trattiene o li risputa. Perfetta con i giochi digitali.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.31
   }
 ]
