@@ -1,21 +1,5 @@
 [
   {
-    "id": "10711808004",
-    "category": "Console",
-    "title": "playstation 4 slim 500gb nette staat met kabels",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10711808004-playstation-4-slim-500gb-nette-staat-met-kabels?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00951_KCoKUSSLiTbmxjPVD7LV1SAu/310x430/67627866.webp?s=16d2f68cebc61e079a09d550f03a131e62f4ba5f",
-    "addedAt": "2026-11-08T03:40:09.560Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10712091491",
     "category": "Console",
     "title": "Xbox One –  Kabel defekt Defekt / Ersatzteilspender",
@@ -23834,7 +23818,10 @@
     "url": "https://www.vinted.it/items/10773325603-ps4-blanche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_018ba_Xg9rYHNU43DLPNgGNnHvX97R/310x430/93485457.webp?s=7e3c8e23d21634a7b3b4ed60b14c471556cdd00a",
     "addedAt": "2026-11-12T03:14:01.868Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
