@@ -1,35 +1,5 @@
 [
   {
-    "id": "10712358905",
-    "category": "Console",
-    "title": "Écran LCD switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10712358905-ecran-lcd-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_017f3_TsQNt6qiWA68j53pZyXJrsST/310x430/02379160.webp?s=48199881c150a951cfeb5095c6fd32078e23b69b",
-    "addedAt": "2026-11-08T07:00:30.788Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~23.55€, sotto soglia"
-  },
-  {
-    "id": "10712375345",
-    "category": "Console",
-    "title": "Station de charge switch 1",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10712375345-station-de-charge-switch-1?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_00a30_Wnj6T5nDGTc3nyA8gnt5UTmQ/310x430/cac621d5.webp?s=5fa0c95aa613894d179e2d00b6b6033ad491d05b",
-    "addedAt": "2026-11-08T07:04:40.418Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-40€, sotto soglia"
-  },
-  {
     "id": "10712381884",
     "category": "Console",
     "title": "Nintendo switch écran seul",
@@ -23915,7 +23885,12 @@
     "url": "https://www.vinted.it/items/10773982718-console-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_012d1_mN3EZHsu4pFyc5hG6kjKY9Ba/310x430/1ec5045b.webp?s=7cbd944e588b1d07b7657d228e1e13a11bfafcad",
     "addedAt": "2026-11-12T06:53:39.023Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n11\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nConsole Nintendo switch lite\nOttime·Nintendo·Caricato 7 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n7 min fa\nPAS DE VINTED GO, Vends console Nintendo switch lite turquoise en excellent état de marche et esthétique, aucunes rayures sur l écran, vendue sans chargeur, pas de Vinted go merci\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "venduta senza chargeur",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
