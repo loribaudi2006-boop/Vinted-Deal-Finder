@@ -23852,7 +23852,9 @@
     "url": "https://www.vinted.it/items/10774134864-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_014bb_sHrFSxFC8hsiwXuCi3xjgZmq/310x430/67bed209.webp?s=0378b56385d9a44358538be9e31dba264375549b",
     "addedAt": "2026-11-12T07:32:52.847Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
