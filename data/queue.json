@@ -1,20 +1,5 @@
 [
   {
-    "id": "10711051317",
-    "category": "Console",
-    "title": "Xbox one black",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10711051317-xbox-one-black?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01a72_CXW2ztbumw4A3RT66vbo8nvQ/310x430/1acf65a3.webp?s=f24922d7414c4775bea2eccf896e9d0a65ada0c3",
-    "addedAt": "2026-11-08T00:52:31.609Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10711136694",
     "category": "Console",
     "title": "Cherche un don d'une console ps4 ou Xbox",
@@ -23847,7 +23832,12 @@
     "url": "https://www.vinted.it/items/10772594169-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01f0d_8VWDZEjb3KdJkf5bRDcU32Kc/310x430/136b2b36.webp?s=2e661e82529c0e8b7793e4f4667a17c7c492cb0c",
     "addedAt": "2026-11-12T00:47:25.896Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nplaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nen bonne état\nrien à signaler\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.3
   }
 ]
