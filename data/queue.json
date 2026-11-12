@@ -1,35 +1,5 @@
 [
   {
-    "id": "10713126026",
-    "category": "Console",
-    "title": "Coque silicone PSG pour ps5 slim",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10713126026-coque-silicone-psg-pour-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01070_LRQkc7JjTtrrqSn8yEwzvpw1/310x430/9191423e.webp?s=13dd35d54501315dbae3f0ae6de7bcca634a7590",
-    "addedAt": "2026-11-08T08:56:37.926Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.7€, sotto soglia"
-  },
-  {
-    "id": "10712373199",
-    "category": "Console",
-    "title": "Bloc de switch base",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10712373199-bloc-de-switch-base?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01a40_X9197wg4Lddo1dNacAQrCC4p/310x430/093f91dd.webp?s=f7662ecf6af9afc24c38b05e52354398667c76a3",
-    "addedAt": "2026-11-08T09:04:56.208Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.55€, sotto soglia"
-  },
-  {
     "id": "10713268378",
     "category": "Console",
     "title": "Boîte vide Nintendo switch",
@@ -23873,7 +23843,45 @@
     "url": "https://www.vinted.it/items/10774665243-consol-xbox-one-black-1540?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_009bc_2PchD3RcqwZNRoZGCw3zb8PB/310x430/13ae1549.webp?s=a639e091fbe654b439abdc5a12f00df80dca0bc6",
     "addedAt": "2026-11-12T08:56:36.006Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleXbox Console\nConsol Xbox One Black 1540\nOttime·Xbox·Caricato un minuto fa\n\n35,00 €\n\n37,45 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsol Xbox One Black 1540 joypad alimentatore e cavo Hdmi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.55
+  },
+  {
+    "id": "10774700961",
+    "category": "Console",
+    "title": "Boîte de switch 1",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10774700961-boite-de-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00f28_MPsUkdiV7fZ2o3bFtK64SR2u/310x430/296a22ce.webp?s=c892a955b0a38f11a7fc0ecd807655b5cab2d16c",
+    "addedAt": "2026-11-12T09:00:44.155Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.45€, sotto soglia"
+  },
+  {
+    "id": "10774731489",
+    "category": "Console",
+    "title": "PlayStation 4 et 10 jeux",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10774731489-playstation-4-et-10-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f16_kenmP8YG6CbhX7ocSC99MGpx/310x430/9b135e5b.webp?s=37941839ae4c3a18611767ded0e204629afae0a1",
+    "addedAt": "2026-11-12T09:04:51.897Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "enuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 et 10 jeux\nOttime·PlayStation·Caricato proprio adesso\n\n45,00 €\n\n47,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlayStation 4\nCâbles\n10 jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
   }
 ]
