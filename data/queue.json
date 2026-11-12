@@ -23834,6 +23834,22 @@
     "url": "https://www.vinted.it/items/10772868865-ps4-5-jeux-lot-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01b4b_zaBFVmwuuvHYx8kBJeR6Gwtt/310x430/7b8aba59.webp?s=bba209c736adec93695dd0d201f18b9e774577e1",
     "addedAt": "2026-11-12T01:39:05.641Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10773027007",
+    "category": "Console",
+    "title": "Nintendo switch classique",
+    "price": 66,
+    "totalPrice": 70,
+    "reason": "prezzo 65% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10773027007-nintendo-switch-classique?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00b1d_XXSiVoqFt5s9VvMCeMcB4tWu/310x430/b1586311.webp?s=58fb56174868d25373b0b36fd2f4a8032e8aeda1",
+    "addedAt": "2026-11-12T02:10:03.341Z",
     "processed": false,
     "triaged": false
   }
