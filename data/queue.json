@@ -1,20 +1,5 @@
 [
   {
-    "id": "10710986490",
-    "category": "Console",
-    "title": "Xbox one + mannette hs",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10710986490-xbox-one-mannette-hs?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00c25_UQMXiyaSFMe2jngt5Qb71EuU/310x430/15f5559d.webp?s=9d23b52e36b75cac6e45abc15dd4eb0097bc71cf",
-    "addedAt": "2026-11-08T00:40:04.963Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "10711051317",
     "category": "Console",
     "title": "Xbox one black",
@@ -23851,5 +23836,18 @@
     "geminiFault": "Una manette bianca non funziona bene (déconne)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10772594169",
+    "category": "Console",
+    "title": "playstation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10772594169-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01f0d_8VWDZEjb3KdJkf5bRDcU32Kc/310x430/136b2b36.webp?s=2e661e82529c0e8b7793e4f4667a17c7c492cb0c",
+    "addedAt": "2026-11-12T00:47:25.896Z",
+    "processed": false,
+    "triaged": false
   }
 ]
