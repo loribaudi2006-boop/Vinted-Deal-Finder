@@ -1,21 +1,5 @@
 [
   {
-    "id": "10730801776",
-    "category": "Console",
-    "title": "Ps4 avec 1 manette officielle",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10730801776-ps4-avec-1-manette-officielle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004e3_8h5gLeZoTDGKobCjnECh4hfu/310x430/24066e22.webp?s=f0ab05d2f9cead98fc6d2547292858e4785d622e",
-    "addedAt": "2026-11-09T05:38:41.990Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10730882570",
     "category": "Console",
     "title": "Nintendo switch lite",
@@ -21850,5 +21834,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10787098436",
+    "category": "Console",
+    "title": "Ps5 no comprar",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10787098436-ps5-no-comprar?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_020dd_CFKXf2Nd623hEPCR5YQ57UvS/310x430/dbd74ed9.webp?s=85883618870995304821f4f26559f787c9cc847f",
+    "addedAt": "2026-11-13T05:42:28.016Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10787097864",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10787097864-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0193e_SEPhMP5QtbWTZX5KyrNeEdfS/310x430/721eb351.webp?s=c51500182095ccc096ef3f66bc4b0d61097c8efb",
+    "addedAt": "2026-11-13T05:42:28.016Z",
+    "processed": false,
+    "triaged": false
   }
 ]
