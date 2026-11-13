@@ -1,20 +1,5 @@
 [
   {
-    "id": "10731657745",
-    "category": "Console",
-    "title": "Xbox One S avec jeu inclus",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10731657745-xbox-one-s-avec-jeu-inclus?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_002ef_ffvNXzmcYtp5B9QVkDeb4n6E/310x430/9682acd2.webp?s=1debb717144f29a14467078bf59138e1b7b431ad",
-    "addedAt": "2026-11-09T08:54:13.746Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~21.8€, sotto soglia"
-  },
-  {
     "id": "10731747348",
     "category": "Console",
     "title": "Nintendo switch 1 goede staat",
@@ -21816,5 +21801,20 @@
     "geminiFault": "Il tasto fisico di espulsione disco non funziona, bisogna espellere i dischi dalla home",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45.8
+  },
+  {
+    "id": "10784558584",
+    "category": "Console",
+    "title": "Base de rangement  Mario Switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10784558584-base-de-rangement-mario-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0049c_JwJ1vDwU1darJ98ozbGnXoF5/310x430/35014efb.webp?s=ebce91337a1a9aa51126bc61441bd84db93cd3a9",
+    "addedAt": "2026-11-13T09:02:28.396Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
