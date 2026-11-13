@@ -21877,8 +21877,11 @@
     "url": "https://www.vinted.it/items/10786731872-caja-completa-nintendo-switch-fat-2017?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_023b6_14GNemjGznjMJW88sZP3Zv6K/310x430/fc3954dd.webp?s=6ad95997d0700575ece2e1cace33b64452aa0dd1",
     "addedAt": "2026-11-13T03:34:52.386Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10786785535",
