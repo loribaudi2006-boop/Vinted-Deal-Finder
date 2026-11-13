@@ -21060,5 +21060,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10798570657",
+    "category": "Console",
+    "title": "Ps5 a gagné ne pas acheté anonce",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10798570657-ps5-a-gagne-ne-pas-achete-anonce?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_025f2_r87W2yPn1ggYfzKQ1hZkFK9W/310x430/1bdcecb1.webp?s=3edbbf677707a0d6513603b3e10a1e3e6ffd2867",
+    "addedAt": "2026-11-13T23:38:57.731Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.95€, sotto soglia"
+  },
+  {
+    "id": "10798591924",
+    "category": "Console",
+    "title": "Nintendo Switch 1 sans joycon",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10798591924-nintendo-switch-1-sans-joycon?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_013ef_6DD3p8Fxd2Gkt5ZxxiR9Uh2M/310x430/720988a3.webp?s=7391160b29016388ad986a5b6028b7fc70c9ab07",
+    "addedAt": "2026-11-13T23:38:57.732Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ontenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch 1 sans joycon\nOttime·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends ma switch 1 seule sans joycon ou accessoires\nFonctionne parfaitement\nEnvoi rapide et soigné\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
