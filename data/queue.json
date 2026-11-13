@@ -1,21 +1,5 @@
 [
   {
-    "id": "10730932974",
-    "category": "Console",
-    "title": "Ps4 blanche + 4 jeux sans boite 🚨 Jaunissement qui ne se voit pas au photo",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10730932974-ps4-blanche-4-jeux-sans-boite-jaunissement-qui-ne-se-voit-pas-au-photo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01676_DVZ77Udo55yQWT6a442vKaNN/310x430/05d6e02b.webp?s=969ae3036a927af10e99016809a83ca5f716204d",
-    "addedAt": "2026-11-09T06:29:19.318Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10730994878",
     "category": "Console",
     "title": "Tvps5",
@@ -21845,6 +21829,19 @@
     "url": "https://www.vinted.it/items/10787168504-switch-controller-halterung?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01f45_9m4t4KsbFNNQy8uGnBuGT7nz/310x430/dd126bc7.webp?s=852b07bc925e013ba770507ee4cafd57610f9d50",
     "addedAt": "2026-11-13T06:09:11.090Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10781112063",
+    "category": "Console",
+    "title": "Pochette de switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10781112063-pochette-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b7e_kuURpBVcdHz7HKv2FStRs8Qx/310x430/4826114a.webp?s=b367cd7ff7c5367e2e5a71df06a5015bda24f824",
+    "addedAt": "2026-11-13T06:29:45.264Z",
     "processed": false,
     "triaged": false
   }
