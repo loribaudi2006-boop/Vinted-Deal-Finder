@@ -1,20 +1,5 @@
 [
   {
-    "id": "10732603873",
-    "category": "Console",
-    "title": "Nintendo Switch mit Zubehör und Originalverpackung",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10732603873-nintendo-switch-mit-zubehor-und-originalverpackung?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0001f_sUJEoshwoLHRBa7HoYr8T7UC/310x430/90682367.webp?s=ae51d805f3307703c25694fc8cf3891acd0b63f0",
-    "addedAt": "2026-11-09T10:27:42.890Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10732689421",
     "category": "Console",
     "title": "Xbox One 1TO",
@@ -21594,5 +21579,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10€, sotto soglia"
+  },
+  {
+    "id": "10789001425",
+    "category": "Console",
+    "title": "Étui anti poussière rgb Nintendo Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10789001425-etui-anti-poussiere-rgb-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_020b4_foogFUJogZf1HKYkXxDyi6EY/310x430/daac9fac.webp?s=c768fd6fbb10cd3ba59d17f5a9f3e6fa2bad9371",
+    "addedAt": "2026-11-13T10:32:44.612Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.05€, sotto soglia"
+  },
+  {
+    "id": "10789014174",
+    "category": "Console",
+    "title": "Xbox one S blanche 500Go + 3 jeux",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10789014174-xbox-one-s-blanche-500go-3-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_012ec_5yE48HtB5xBWEaHArmycSxq4/310x430/0d6e9804.webp?s=c99f5c1c9f67dc29f25d28662b02b569b148398b",
+    "addedAt": "2026-11-13T10:33:48.637Z",
+    "processed": false,
+    "triaged": false
   }
 ]
