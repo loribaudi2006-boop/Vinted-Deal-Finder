@@ -1,20 +1,5 @@
 [
   {
-    "id": "10742063159",
-    "category": "Console",
-    "title": "PlayStation 5 base ricarica",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10742063159-playstation-5-base-ricarica?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01697_1LSFcqAFMAPD4b823npATMng/310x430/a9af035d.webp?s=8572b1bcbe1484b25f1710271242e2de8ae1e5cc",
-    "addedAt": "2026-11-09T21:33:27.442Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-6.95€, sotto soglia"
-  },
-  {
     "id": "10742271259",
     "category": "Console",
     "title": "Nintendo Switch Lite in Türkis",
@@ -20928,5 +20913,53 @@
     "geminiFault": "Lettore dischi non legge i giochi, rallentamenti di sistema, joystick con gommino usurato",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 65
+  },
+  {
+    "id": "10797614811",
+    "category": "Console",
+    "title": "Lote Nintendo Switch para piezas / reparar",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10797614811-lote-nintendo-switch-para-piezas-reparar?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f25_Gd1s2iQup1CyDn6K2JREpmi4/310x430/2b18e308.webp?s=e7c8392329fad7efa59a45052ed11313f015da94",
+    "addedAt": "2026-11-13T21:34:42.190Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsoleNintendo Console\nLote Nintendo Switch para piezas / reparar\nBuone·Nintendo·Caricato un minuto fa\n\n45,00 €\n\n47,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSe vende lote de Nintendo Switch desmontada para piezas o reparación. No se ha probado si enciende, se vende tal cual aparece en las fotos\n\n​El lote incluye todo lo que se ve en las imágenes:\n\n​Consola con pantalla, placa base, ventilador y altavoces (sin batería ni tapa trasera).\n\n​Lector de tarjetas microSD suelto (HAC-SD-01) y soportes de plástico internos.\n\n​Pareja de Joy-Con azul y rojo (el rojo no tiene la goma del joystick).\n\n​Ideal para repuestos o técnicos. Envío bien protegido.\n... altro\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console smontata, non testata, senza batteria né tappo posteriore, lettore microSD staccato, Joy-Con rosso senza gomma dello stick",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.05
+  },
+  {
+    "id": "10797656474",
+    "category": "Console",
+    "title": "Switch OLED - Schutzhülle",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10797656474-switch-oled-schutzhulle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a8e_pRNhYX2rT4rWArwzqRGKUrHw/310x430/28c99d50.webp?s=d3593d69d117fabe857f882ec1f1bcac3b72accb",
+    "addedAt": "2026-11-13T21:38:50.008Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-15€, sotto soglia"
+  },
+  {
+    "id": "10797674211",
+    "category": "Console",
+    "title": "Switch Transportkoffer",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10797674211-switch-transportkoffer?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_019ce_UhupXSTjgxRLzvPGZTfPvK5t/310x430/84e838a9.webp?s=649b039986eb042c89e3cc1c2777dff7a1ae061e",
+    "addedAt": "2026-11-13T21:39:52.494Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-22.45€, sotto soglia"
   }
 ]
