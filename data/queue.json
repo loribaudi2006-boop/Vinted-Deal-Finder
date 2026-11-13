@@ -1,23 +1,5 @@
 [
   {
-    "id": "10731881858",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10731881858-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00632_NNimVtrafh696q91xsX7jWUw/310x430/942405c0.webp?s=e549557069c98ed6be16c30fdb273f2f2fdf06ff",
-    "addedAt": "2026-11-09T09:20:03.922Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4\nOttime·Sony·Caricato un minuto fa\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nBonjour,\n\nJe mets en vente une PlayStation 4 en très bon état, fonctionne parfaitement avec son câble d’alimentation ainsi que son câble HDMI, je ne retrouve plus la manette, mais la console a été testée avec une autre manette et elle fonctionne parfaitement.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller (manette)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10732272593",
     "category": "Console",
     "title": "Ps4 classique",
@@ -21768,5 +21750,20 @@
     "geminiFault": "Tasto power non funziona (si accende solo da controller), scocca inferiore modificata con foro per aerazione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10788176257",
+    "category": "Console",
+    "title": "Nintendo Switch Case Hülle in schwarz",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10788176257-nintendo-switch-case-hulle-in-schwarz?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01628_BxttS5wKAbPSCzQCdbXz3EDF/310x430/55e18102.webp?s=5ac555409fa28b9ff19af52e20c986b271792e55",
+    "addedAt": "2026-11-13T09:14:55.240Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2€, sotto soglia"
   }
 ]
