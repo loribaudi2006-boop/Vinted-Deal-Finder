@@ -1,53 +1,5 @@
 [
   {
-    "id": "10731023774",
-    "category": "Console",
-    "title": "Boîte vide Nintendo Switch 2  Édition Pokémon Légendes  Z-A avec Protections",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10731023774-boite-vide-nintendo-switch-2-edition-pokemon-legendes-z-a-avec-protections?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0052c_yEU1ktiTbRwN4cxYmQdevuL8/310x430/0a036865.webp?s=5a35448b4cc58f58c7cb4edb43c37383828ab3cb",
-    "addedAt": "2026-11-09T06:59:16.954Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-42.7€, sotto soglia"
-  },
-  {
-    "id": "10731046430",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10731046430-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00be1_nEULsu5NRBjRhH9pHHqStxbB/310x430/e21ff9b5.webp?s=9fe19d074d4b34a8dbead4f2293cd6674b4e6d25",
-    "addedAt": "2026-11-09T07:05:32.854Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nOttime·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\n0 bug 0 latence\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40.3
-  },
-  {
-    "id": "10731044645",
-    "category": "Console",
-    "title": "Nintendo Switch 2 + Pack completo + Garantía",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10731044645-nintendo-switch-2-pack-completo-garantia?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_025a5_Qh7wRXtU3wrJqN3wUYhKhqKT/310x430/d36a1493.webp?s=3960ae9f1822dfbf6bfc08818fff4e3695f9e798",
-    "addedAt": "2026-11-09T07:05:32.854Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10731077697",
     "category": "Console",
     "title": "Decor pour ps5 slim",
@@ -21830,8 +21782,10 @@
     "url": "https://www.vinted.it/items/10781112063-pochette-de-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01b7e_kuURpBVcdHz7HKv2FStRs8Qx/310x430/4826114a.webp?s=b367cd7ff7c5367e2e5a71df06a5015bda24f824",
     "addedAt": "2026-11-13T06:29:45.264Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
   },
   {
     "id": "10785779571",
@@ -21843,6 +21797,21 @@
     "url": "https://www.vinted.it/items/10785779571-suporte-comando-ps5-xbox-homem-aranha?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0089e_c4XfBZmvXEkPwm8VpvNzYLSV/310x430/a11f2730.webp?s=18a020ad618fc3cf3db16ba3a8c8ce7c0d605eed",
     "addedAt": "2026-11-13T06:43:07.029Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-13.95€, sotto soglia"
+  },
+  {
+    "id": "10787348506",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10787348506-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0189e_ySyAS1AE6ikiUsVCyDA3RQ8s/310x430/0865f9c9.webp?s=4c0150cf34eddd23996d629d55167b5e7a627b7d",
+    "addedAt": "2026-11-13T07:04:41.930Z",
     "processed": false,
     "triaged": false
   }
