@@ -1,37 +1,5 @@
 [
   {
-    "id": "10730882570",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10730882570-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0073a_H3YHKXHtgU2CmWK6oq2rBQ6e/310x430/d2fe963a.webp?s=2bb05a9052334108125c527b1e6f23e8db184f66",
-    "addedAt": "2026-11-09T06:10:43.892Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10730889133",
-    "category": "Console",
-    "title": "Console Microsoft Xbox One (Fat) Nera + Alimentatore originale",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10730889133-console-microsoft-xbox-one-fat-nera-alimentatore-originale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0147e_SQxfCbANHbj77qj7kcu9CL3u/310x430/cdc2fa42.webp?s=0c9c2e4a0e9d8aa12391d89fe2560accdec725c7",
-    "addedAt": "2026-11-09T06:13:49.901Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10730932974",
     "category": "Console",
     "title": "Ps4 blanche + 4 jeux sans boite 🚨 Jaunissement qui ne se voit pas au photo",
@@ -21845,8 +21813,11 @@
     "url": "https://www.vinted.it/items/10787098436-ps5-no-comprar?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_020dd_CFKXf2Nd623hEPCR5YQ57UvS/310x430/dbd74ed9.webp?s=85883618870995304821f4f26559f787c9cc847f",
     "addedAt": "2026-11-13T05:42:28.016Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10787097864",
@@ -21858,6 +21829,22 @@
     "url": "https://www.vinted.it/items/10787097864-nintendo-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0193e_SEPhMP5QtbWTZX5KyrNeEdfS/310x430/721eb351.webp?s=c51500182095ccc096ef3f66bc4b0d61097c8efb",
     "addedAt": "2026-11-13T05:42:28.016Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10787168504",
+    "category": "Console",
+    "title": "Switch Controller Halterung",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10787168504-switch-controller-halterung?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01f45_9m4t4KsbFNNQy8uGnBuGT7nz/310x430/dd126bc7.webp?s=852b07bc925e013ba770507ee4cafd57610f9d50",
+    "addedAt": "2026-11-13T06:09:11.090Z",
     "processed": false,
     "triaged": false
   }
