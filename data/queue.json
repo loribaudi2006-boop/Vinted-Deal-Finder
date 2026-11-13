@@ -21765,5 +21765,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10788498014",
+    "category": "Console",
+    "title": "Sony PlayStation 5 Digital Edition 825 GB Wi-Fi Nero",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10788498014-sony-playstation-5-digital-edition-825-gb-wi-fi-nero-bianco?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ee9_jhM9qJMRBVGhbeY8QbdMH566/310x430/69b7e1fb.webp?s=d1cc316693a9c41853c759a18cd3b930fd43129f",
+    "addedAt": "2026-11-13T09:47:04.156Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
