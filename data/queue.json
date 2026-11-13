@@ -21898,5 +21898,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10786907431",
+    "category": "Console",
+    "title": "LED Case für PlayStation 5",
+    "price": 36.99,
+    "totalPrice": 39.54,
+    "reason": "prezzo 90% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10786907431-led-case-fur-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01ca0_DUJVDNnxAT9hMh4PfYnUBULv/310x430/9bb2918a.webp?s=d6d1110679f7da723d73e7e1ab3b5181c9337312",
+    "addedAt": "2026-11-13T04:29:25.884Z",
+    "processed": false,
+    "triaged": false
   }
 ]
