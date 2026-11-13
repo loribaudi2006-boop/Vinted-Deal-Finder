@@ -1,38 +1,5 @@
 [
   {
-    "id": "10742366447",
-    "category": "Console",
-    "title": "Ps5 - Ps4 Games",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10742366447-ps5-ps4-games?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0180d_CHd3m6uKRRvwaT7C4MyPpLkp/310x430/b89c88e8.webp?s=bffd1d2aad2ed763f8421fd1d0154f5c4f008bc4",
-    "addedAt": "2026-11-09T21:53:06.923Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-23.2€, sotto soglia"
-  },
-  {
-    "id": "10742388956",
-    "category": "Console",
-    "title": "Xbox series S",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Xbox Series S (~200€)",
-    "url": "https://www.vinted.it/items/10742388956-xbox-series-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0142e_FUoCtWYqfkS1WxZc6uGpTb79/310x430/1b77461f.webp?s=a982d297d1816a3dd36de2b12e78f7c70c4b1723",
-    "addedAt": "2026-11-09T21:55:12.862Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox series S\nOttime·Xbox·Caricato un minuto fa\n\n1,00 €\n\n1,75 €\nincl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox à échanger contre une ps5 venez privé pour procéder à l’échange\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 138.25
-  },
-  {
     "id": "10742591273",
     "category": "Console",
     "title": "PS4 500Go",
@@ -20936,7 +20903,27 @@
     "url": "https://www.vinted.it/items/10797792042-ps4-fat-noir-prix-negociable?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00f0b_cbHUw1UbqnCWwJ4jn56wqU8k/310x430/db9263d2.webp?s=7a04de7936aee5786c487a90a4a534095fb29d38",
     "addedAt": "2026-11-13T21:52:16.579Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 fat noir ( Prix-négociable\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vend que la ps4 sans mannette et sans cable\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza mannette e senza cable",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10797799798",
+    "category": "Console",
+    "title": "Accessoire switch + enceinte Bluetooth",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10797799798-accessoire-switch-enceinte-bluetooth?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01a3a_SZMk3uF7GNV5sfrtFkGZmEJi/310x430/97babdd5.webp?s=629ea1cc66180c4c63244b72568b7b0a7253fdcc",
+    "addedAt": "2026-11-13T21:54:20.817Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-12.45€, sotto soglia"
   }
 ]
