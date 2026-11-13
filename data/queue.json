@@ -21915,5 +21915,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.8€, sotto soglia"
+  },
+  {
+    "id": "10785771041",
+    "category": "Console",
+    "title": "nintendo switch lite + 5 giochi – da riparare",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10785771041-nintendo-switch-lite-5-giochi-da-riparare?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01373_UZNMynzrYQ5nhHBRje5519n7/310x430/e3355319.webp?s=b0a8643e2b33eacada3f762e8073967236af9142",
+    "addedAt": "2026-11-13T00:15:48.153Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "iviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch lite + 5 giochi – da riparare\nDiscrete·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nVendo Nintendo Switch Lite grigia, insieme a 5 giochi e caricabatterie non originale Nintendo.\n\n📦 Giochi inclusi:\n• Splatoon 2\n• LEGO Harry Potter Collection\n• Miitopia\n• Sonic & All-Stars Racing Transformed (3DS)\n• Mario Party DS\n\n⚠️ Difetti:\n• Pulsanti di gioco non funzionanti, tranne accensione.\n• Volume, +/−, Home e acquisizione funzionanti.\n• Scocca molto segnata e usurata.\n• Console si accende e mostra il menu.\n\n🔧 Venduta da riparare o per ricambi.\n📸 Foto reali. No resi, condizioni dichiarate.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Pulsanti di gioco non funzionanti tranne accensione; scocca molto segnata e usurata",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
   }
 ]
