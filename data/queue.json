@@ -1,20 +1,5 @@
 [
   {
-    "id": "10731077697",
-    "category": "Console",
-    "title": "Decor pour ps5 slim",
-    "price": 6,
-    "totalPrice": 7,
-    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10731077697-decor-pour-ps5-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_009b5_nB29AhF6worNhb75DBKVPxtG/310x430/afc48cf0.webp?s=4b83b3d934f4a37dfa4085d94c9c84cc637eb9f5",
-    "addedAt": "2026-11-09T07:14:50.367Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8€, sotto soglia"
-  },
-  {
     "id": "10731096078",
     "category": "Console",
     "title": "Decor ps5 slim beige playstation",
@@ -21812,7 +21797,30 @@
     "url": "https://www.vinted.it/items/10787348506-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0189e_ySyAS1AE6ikiUsVCyDA3RQ8s/310x430/0865f9c9.webp?s=4c0150cf34eddd23996d629d55167b5e7a627b7d",
     "addedAt": "2026-11-13T07:04:41.930Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nBuone·Nintendo·Caricato 4 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n4 min fa\nVerkaufe meien Switch, weil ich sie nicht mehr nutze. Funktioniert einwandfrei. Hat Gebrauchsspuren. Ist 2 Jahre alt.\nVerkauf mit Zelda Hülle. Original Ladekabel nicht dabei.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Segni di usura, cavo di ricarica originale mancante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10787386959",
+    "category": "Console",
+    "title": "Nitendo Switch Jaune",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10787386959-nitendo-switch-jaune?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01c0a_rnf6DPpnTdZgMS9E36wWyUw2/310x430/fe2f803a.webp?s=9ccdb3b3354102430cf6e03a98a5047e515f2284",
+    "addedAt": "2026-11-13T07:13:58.272Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNitendo Switch Jaune\nBuone·Nintendo·Caricato proprio adesso\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nBonjour\nLégère marques d’usures\nQuelques petites micro rayures sur l’écran due a l’utilisation mais ne se voit plus la console allumée.\nVendue avec son chargeur sans jeu, ni boite.\nMario party deja installé dans la console.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Légères marques d'usures, petites micro rayures sur l'écran, vendue sans boîte ni jeu",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
