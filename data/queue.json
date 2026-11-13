@@ -21850,5 +21850,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10782221824",
+    "category": "Console",
+    "title": "Soporte vertical ergonómico Nintendo Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10782221824-soporte-vertical-ergonomico-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a42_KeGrgj3cqfLE2QHGNx9TNkCu/310x430/e76282fe.webp?s=ddabbb0c1f7e1b4074013215a4dd406f66535578",
+    "addedAt": "2026-11-13T02:43:25.944Z",
+    "processed": false,
+    "triaged": false
   }
 ]
