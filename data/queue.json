@@ -1,38 +1,5 @@
 [
   {
-    "id": "10733578456",
-    "category": "Console",
-    "title": "nintendo 2ds xl pokeball edition (schermo inferiore rotto)",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "parola chiave: \"rotto\"",
-    "url": "https://www.vinted.it/items/10733578456-nintendo-2ds-xl-pokeball-edition-schermo-inferiore-rotto?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015cc_oaRTX9bAxsWYGHVThBWa8gE9/310x430/37b48565.webp?s=245934c017d90e2916be635e7fa270f952feba57",
-    "addedAt": "2026-11-09T11:49:32.701Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ccedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo 2ds xl pokeball edition (schermo inferiore rotto)\nDiscrete·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo 2DS\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nla console presenta graffi in generale e lo schermo inferiore non funziona, se riparato funziona perfettamente.\nvenduto con custodia e cavo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Schermo inferiore rotto/non funzionante, graffi generali",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 87.3
-  },
-  {
-    "id": "10733593046",
-    "category": "Console",
-    "title": "Nintendo Switch",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10733593046-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01cf2_z4LHd7eDCtVhvJeQv39scRhk/310x430/0cbfb4f5.webp?s=f18cebebb2ed2e77c812e8cb562568dde9d4f977",
-    "addedAt": "2026-11-09T11:50:34.689Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10733701067",
     "category": "Console",
     "title": "Nintendo Switch Tasche",
@@ -21525,5 +21492,36 @@
     "geminiFault": "Légère rayure sur l'écran, vendue sans câble de charge ni jeux",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10789892115",
+    "category": "Console",
+    "title": "PlayStation 4 Slim – Zwart – Werkt goed",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10789892115-playstation-4-slim-zwart-werkt-goed?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00de4_J2UB33Wf4YqBGwpqZy1jbt9w/310x430/f9e96591.webp?s=fe7d60f17ef7520a608847874241a5f0a9d67e5d",
+    "addedAt": "2026-11-13T11:49:38.261Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Iscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 Slim – Zwart – Werkt goed\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlayStation 4 Slim in zwarte uitvoering.\n\nGetest & werkt helemaal naar behoren.\n\nDe PS4 heeft zichtbare gebruikssporen en beschadigingen aan de behuizing (zie foto’s), maar werkt naar behoren.\n\nInbegrepen:\n\n* PlayStation 4 Slim\n* 2 stroomkabels\n\nDe console functioneert goed. Ideaal om nog lekker mee te gamen!\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Zichtbare gebruikssporen en beschadigingen aan de behuizing",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10789946154",
+    "category": "Console",
+    "title": "Nintendo switch lite+caricabatterie originale",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10789946154-nintendo-switch-litecaricabatterie-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01d44_rS97kTM2YbUqX7JX4jKx875M/310x430/57a27844.webp?s=36df28c50f403a959159b7b5a554ee0ea17a537f",
+    "addedAt": "2026-11-13T11:53:47.174Z",
+    "processed": false,
+    "triaged": false
   }
 ]
