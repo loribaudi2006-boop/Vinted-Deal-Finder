@@ -21053,8 +21053,13 @@
     "url": "https://www.vinted.it/items/10798299734-nintendo-switch-bleu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_002fa_X5aS7w2F4uTyu2MudAJKFpyF/310x430/2fa340cf.webp?s=8ebd03dee43564712014da23ecd6d4fbd249fc8d",
     "addedAt": "2026-11-13T22:52:24.628Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch bleu\nBuone·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSans boîte d’occasion marche bien\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Sans boîte d’occasion marche bien (Senza scatola, usato, funziona bene)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 71.55
   },
   {
     "id": "10798296078",
@@ -21066,6 +21071,24 @@
     "url": "https://www.vinted.it/items/10798296078-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_010ca_hxGKESPEiuDFuBa47eCCUCdn/310x430/da9d609b.webp?s=c5ed23fd79dc268aa1b58277122ec76d804b5048",
     "addedAt": "2026-11-13T22:52:24.628Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 SLIM\nBuone·PlayStation·Caricato 2 min fa\n\n62,00 €\n\n65,80 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nJe vends cette console PS4 Slim noire avec sa manette Dua Shock 4 blanche. Parfait pour les amateurs de jeux PlayStation !\n- Type de produit : Console de salon\n- Marque : Sony\n- Modèle : PlayStation 4 Slim\n- Couleur : Noir\n- Accessoires inclus: 1 manette DualShock\n4 blanche\nBon état\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 44.2
+  },
+  {
+    "id": "10798368816",
+    "category": "Console",
+    "title": "ps4  perfettamente funzionante",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10798368816-ps4-perfettamente-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0114f_QD1tDRSUTKRdsfyKUtJaTob3/310x430/6dbfc4e5.webp?s=c4f0a8279b1e56b259fc94d7e5b4e4e9bbd028a1",
+    "addedAt": "2026-11-13T23:02:45.281Z",
     "processed": false,
     "triaged": false
   }
