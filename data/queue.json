@@ -21933,5 +21933,23 @@
     "geminiFault": "Pulsanti di gioco non funzionanti tranne accensione; scocca molto segnata e usurata",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.8
+  },
+  {
+    "id": "10785786566",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10785786566-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0193e_SEPhMP5QtbWTZX5KyrNeEdfS/310x430/721eb351.webp?s=c51500182095ccc096ef3f66bc4b0d61097c8efb",
+    "addedAt": "2026-11-13T00:18:54.502Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite\nOttime·Nintendo·Caricato un minuto fa\n\n20,00 €\n\n21,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\n⭕️⭕️ PAS D’ENVOI\n\nConsole Nintendo switch lite\nGrise foncée\nSoucis de batterie, il faut l’utiliser et la mettre en charge en même temps sinon elle s’eteint ! D’où le prix\nVendu avec chargeur\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Problema di batteria: si spegne se non viene usata mentre è in carica",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 68.3
   }
 ]
