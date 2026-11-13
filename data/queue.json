@@ -21147,5 +21147,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~21.05€, sotto soglia"
+  },
+  {
+    "id": "10797257304",
+    "category": "Console",
+    "title": "Réparation PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10797257304-reparation-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01705_3F8yp3p4gb8NibwqHPPPd5kX/310x430/a188c9ae.webp?s=28f13ca8a9ebd16d579d01f2d17ab3d5314c412d",
+    "addedAt": "2026-11-13T21:01:34.218Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
