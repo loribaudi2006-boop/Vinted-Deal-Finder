@@ -1,35 +1,5 @@
 [
   {
-    "id": "10735769640",
-    "category": "Console",
-    "title": "Sony PSP serie 3000 nera - non testata",
-    "price": 39.99,
-    "totalPrice": 42.69,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10735769640-sony-psp-serie-3000-nera-non-testata-solo-console?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02632_ZGg7H8imMo9dSSf7yMsobR4N/310x430/762e2864.webp?s=a272f7c765888fcdd48bfa9bc55d654f6c865763",
-    "addedAt": "2026-11-09T14:33:50.848Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.31€, sotto soglia"
-  },
-  {
-    "id": "10735872812",
-    "category": "Console",
-    "title": "PlayStation 4 PS4 Slim",
-    "price": 49.2,
-    "totalPrice": 52.36,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10735872812-playstation-4-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02592_wbHvdGkMaUFWdrn1FG2q9hWh/310x430/4609757a.webp?s=d5cec05b6d16c7c7ba97c9d3b6910fb464a44aa2",
-    "addedAt": "2026-11-09T14:41:06.237Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10735895128",
     "category": "Console",
     "title": "Xbox One S Bianca + 2 Controller + Cavi – Usata",
@@ -21422,7 +21392,45 @@
     "url": "https://www.vinted.it/items/10791966839-lot-complet-ps5-ps-vr2-volant-g29-faire-offre-ecran-21-jeux-a-venir-chercher?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0146a_ttkuSpe2zv4Ei7zu5mLW8v6T/310x430/e616ad39.webp?s=dad91c59ee130ad30d32a1d0820d596ffa8adaee",
     "addedAt": "2026-11-13T14:32:02.769Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "rticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsolePlayStation Console\nLot complet PS5 + PS VR2 + Volant G29. Faire offre + Écran + 21 jeux– À venir chercher\nBuone·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nBuone\nCaricato\nProprio adesso\nJe vends mon lot complet PS5 en excellent état de fonctionnement.\n\n**Contenu du lot :**\n\n- Console PlayStation 5 Fat (avec lecteur de disque)\n- Casque PS VR2 + 2 manettes Sense + station de charge Venom\n- Volant + pédales Logitech G29\n- Écran PC iiyama G-Master G2530HSU (24,5\" Full HD 75Hz FreeSync)\n- 21 jeux PS4/PS5 (liste ci-dessous)\n- Tous les câbles d’origine inclus\n\n**État :**\n- Matériel très peu utilisé\n- Console et accessoires en très bon état de fonctionnement\n- Pas de cartons d’origine\n- Pas de manette DualSense fournie avec la PS5\n- Câble du casque VR2 abîmé (voir photo) mais cela n’affecte en rien le fonctionnement ni la qualité d’image\n- Certaines boîtes de jeux peuvent être un peu abîmées, mais **tous les jeux fonctionnent parfaitement**\n\n**Liste des jeux :**\nAssassin’s Creed Valhalla, Metro Exodus, Farpoint, Slime Rancher, Battlefield 1, Watch Dogs Complete Edition, Watch Dogs 2, Blacksad, The Last of Us Part II, Horizon Forbidden West (PS5), Fallout 4, The Division 2, Among the Sleep, God of War, Horizon Zero Dawn Complete Edition, LEGO Jurassic World, Call of Duty Modern Warfare, Spider-Man Miles Morales, Call of Duty Vanguard, Ghost Recon Wildlands, **Call of Duty Modern Warfare II (PS5)**\n\n**Vente en lot uniquement.**\nRemise en main propre uniquement.\nFaire offre sérieuse.\n\nMerci de ne pas demander de livraison.\n💢Si vous achetez à 1 €, vous ne recevrez rien💢\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano scatole originali, manca il controller DualSense, cavo del PS VR2 danneggiato",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 570
+  },
+  {
+    "id": "10792024070",
+    "category": "Console",
+    "title": "Vendo Nintendo Switch  y una cama de princesa",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10792024070-vendo-nintendo-switch-y-una-cama-de-princesa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0094d_ZJFWpA7jLmZECg9AapqehZZk/310x430/226afa8c.webp?s=a55022bd6de2f18dd03ff25f8e9f99b48e844a25",
+    "addedAt": "2026-11-13T14:36:10.089Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "alogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nVendo Nintendo Switch y una cama de princesa\nOttime·Nintendo·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendo Nintendo Switch ,cama para chica de princesa .Detalles en privado\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Dettagli in privato (probabile prezzo civetta o vendita abbinata con letto)",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 138
+  },
+  {
+    "id": "10792084020",
+    "category": "Console",
+    "title": "Scatola originale Nintendo Switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10792084020-scatola-originale-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_003bd_NRvUabQmZpV8s7XTvceEtEqM/310x430/96a82ff3.webp?s=d8e863b1968e5fa3742f139b0c5788df9288f340",
+    "addedAt": "2026-11-13T14:40:17.771Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
