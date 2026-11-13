@@ -1,53 +1,5 @@
 [
   {
-    "id": "10731572984",
-    "category": "Console",
-    "title": "Xbox bianca non funziona",
-    "price": 18,
-    "totalPrice": 19.6,
-    "reason": "parola chiave: \"non funziona\"",
-    "url": "https://www.vinted.it/items/10731572984-xbox-bianca-non-funziona?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0091a_1zYc8gQUnjiVxFGaZHbojdyJ/310x430/1861b7b6.webp?s=6413208a5fbe31975f4d500b5ffaa6ad588c1970",
-    "addedAt": "2026-11-09T08:42:50.963Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15.4€, sotto soglia"
-  },
-  {
-    "id": "10731610912",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 39,
-    "totalPrice": 41.65,
-    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10731610912-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0174f_zDnaaD18f2VshbToneNhhSuM/310x430/716ce3fd.webp?s=04ba3f8f5518eae0bf5e2ff1ca789d72e626bb30",
-    "addedAt": "2026-11-09T08:49:03.277Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18€, sotto soglia"
-  },
-  {
-    "id": "10731646178",
-    "category": "Console",
-    "title": "Nintendo Switch noire – Sans Joy-Con + chargeur officiel",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10731646178-nintendo-switch-noire-sans-joy-con-chargeur-officiel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_026af_B9EbLbsR4oRTafuZWjuPvbG4/310x430/16f0d54b.webp?s=cf90ab8abec31e8d606bcc6c47cf6fb8a47fc5e7",
-    "addedAt": "2026-11-09T08:52:09.819Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "i | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch noire – Sans Joy-Con + chargeur officiel\nBuone·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nBonjour,\n\nJe vends ma Nintendo Switch noire, accompagnée de son chargeur officiel Nintendo.\n\n🎮 Contenu de la vente :\n\n* Console Nintendo Switch\n* Chargeur officiel Nintendo\n\n⚠️ Important : La console est vendue sans les manettes Joy-Con, car celles-ci présentent un problème de joystick (Joy-Con Drift). J’ai donc préféré ne pas les inclure dans la vente.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joy-Con non inclusi (drift), console venduta solo con caricabatterie",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "10731657745",
     "category": "Console",
     "title": "Xbox One S avec jeu inclus",
@@ -21857,7 +21809,12 @@
     "url": "https://www.vinted.it/items/10787907017-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00714_GqW9CkGJwGcQixJ3o6j8s5Vu/310x430/228046d9.webp?s=f2f217b6e36c057c641282540d84bf670edda434",
     "addedAt": "2026-11-13T08:42:45.382Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 Fat\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 FAT\nla console dal lato funzionale è perfetta tranne per un piccolo problema che per espellere i dischi si deve fare dalla home e non funziona il bottone di espulsione del disco, per sistemarlo basta cambiare la scocca inferiore di plastica.\nIn vendita c’è anche il cavo di alimentazione compreso con la console a questo prezzo\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il tasto fisico di espulsione disco non funziona, bisogna espellere i dischi dalla home",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45.8
   }
 ]
