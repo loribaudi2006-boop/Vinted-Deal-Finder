@@ -1,20 +1,5 @@
 [
   {
-    "id": "10731385283",
-    "category": "Console",
-    "title": "Nintendo Switch Controllers",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10731385283-nintendo-switch-controllers?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01ef4_DeZF5juPtgRzM1exS2d6yg3q/310x430/d4b0d2b0.webp?s=09a522e16faba26bbf03de54ac4aad98919e40c2",
-    "addedAt": "2026-11-09T08:15:51.887Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2€, sotto soglia"
-  },
-  {
     "id": "10731572984",
     "category": "Console",
     "title": "Xbox bianca non funziona",
@@ -21792,5 +21777,23 @@
     "geminiFault": "punto di luce bianco nella parte superiore destra dello schermo visibile con schermo nero",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.05
+  },
+  {
+    "id": "10787721659",
+    "category": "Console",
+    "title": "Ps4 avec manette fonctionne tres bien",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10787721659-ps4-avec-manette-fonctionne-tres-bien?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02680_Nr2TJjPv96B3kMvSJyPhGcEH/310x430/c035780e.webp?s=653bf2b41e9c1805b0758aa841a2ff50f9aeffbf",
+    "addedAt": "2026-11-13T08:16:48.977Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 avec manette fonctionne tres bien\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nJe vends cette PlayStation 4 noire, accompagnée d'une manette et de tous les câbles nécessaires. Console fonctionnelle, prête à jouer mais a un defaut on ne peut pas retirer le disque manuellement mais uniquement depuis la PlayStation en allant sur option et retirer le disque. Elle est legerement fendue au niveau du bouton pour retirer le disque je vous rassure ca n empêche pas de jouer.\nOn a laissé fifa 2023 dedans car j ai plus le boîtier\n55 euros la ps4 avec manette et fifa 2023\nJ ai des jeux 5 euros le jeu en photo si besoin\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Impossibile espellere il disco con il tasto fisico (solo da menu), fessura leggermente incrinata vicino al tasto di espulsione.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
