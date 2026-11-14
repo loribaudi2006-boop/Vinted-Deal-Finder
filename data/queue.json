@@ -1,20 +1,5 @@
 [
   {
-    "id": "10725396319",
-    "category": "Console",
-    "title": "Portefeuille Zelda Tunique de Link – Bonus précommande Ocarina of Time Switch 2",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10725396319-portefeuille-zelda-tunique-de-link-bonus-precommande-ocarina-of-time-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_002b2_QEaenSfVSjAzoaJHtZRwZBSU/310x430/be102b1c.webp?s=cbf1e03260892cfeb5c190821dad6d07e2802b95",
-    "addedAt": "2026-11-10T07:50:14.217Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~2.55€, sotto soglia"
-  },
-  {
     "id": "10745534221",
     "category": "Console",
     "title": "Nintendo Switch blu",
@@ -20770,5 +20755,35 @@
     "geminiFault": "Mancano i controller (joy-con), ma la descrizione dice 'inclu les manettes' creando contraddizione (probabilmente solo schermo e accessori senza joy-con)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10800444360",
+    "category": "Console",
+    "title": "Xbox one avec 2 manettes officielle",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10800444360-xbox-one-avec-2-manettes-officielle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_022ff_99seDWnsrbyG3TpQrhYbtcMP/310x430/c5deb699.webp?s=999fddcddc12bb37d4cdc49e86f502cb790056f9",
+    "addedAt": "2026-11-14T07:44:59.920Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10800470348",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10800470348-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_024a0_jrpJJCpAMc6m3sy3hB8eX4hj/310x430/4b89183f.webp?s=0d0a4d9c2e3aa0f9d4e1493ed3d03cc7641670bd",
+    "addedAt": "2026-11-14T07:49:07.482Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
