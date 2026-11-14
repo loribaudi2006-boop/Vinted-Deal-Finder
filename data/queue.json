@@ -21014,5 +21014,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 45.06
+  },
+  {
+    "id": "10799187407",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10799187407-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0000f_fkcdH9BzZ997Dtcx6Ynun1Ji/310x430/bfa60c27.webp?s=b0ec6480b9744a724ae11bf7e4a2355b3fddd4a5",
+    "addedAt": "2026-11-14T01:39:56.696Z",
+    "processed": false,
+    "triaged": false
   }
 ]
