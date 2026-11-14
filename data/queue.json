@@ -1,23 +1,5 @@
 [
   {
-    "id": "10750714069",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10750714069-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_024ac_EmC1GQKPbKbnhGRZbuzhHnZ8/310x430/11478b05.webp?s=24f7fa59612134f7361edf28a88e84d2219454dd",
-    "addedAt": "2026-11-10T19:59:30.570Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato 4 ore fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n4 ore fa\nNintendo switch bleu et rouge chargeur fourni avec toute et parfait appart le support pour la poser qui y est cassée\nenvoie rapide\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Supporto posteriore (kickstand) rotto, caricabatterie incluso",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 76.3
-  },
-  {
     "id": "10750894632",
     "category": "Console",
     "title": "Ps4 slim",
@@ -23706,7 +23688,42 @@
     "url": "https://www.vinted.it/items/10811377541-nintendo-switch-lite-noir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0269b_n1JxfM2YfddD9MXgx9oLJzJP/310x430/de9dead1.webp?s=d6c4d44b55aa1df2acfe557df14e83bd4670fd5f",
     "addedAt": "2026-11-14T19:58:58.131Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite noir\nOttime·Nintendo·Caricato un minuto fa\n\n62,00 €\n\n65,80 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nBjr je vend cette Nintendo switch lite sans défaut mais sans chargeur il marche avec un chargeur Samsung\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "senza caricatore",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
+  },
+  {
+    "id": "10811396163",
+    "category": "Console",
+    "title": "Nintendo Switch original hdmi Kabel",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10811396163-nintendo-switch-original-hdmi-kabel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00d98_8FUeBaE4fvagS6XxQnSZcdBd/310x430/a6c0835e.webp?s=02dd9a1209c4b94da622942c4346f2abda4a0e9d",
+    "addedAt": "2026-11-14T20:01:01.185Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
+  },
+  {
+    "id": "10753597539",
+    "category": "Console",
+    "title": "Console Xbox 360 per pezzi",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10753597539-console-xbox-360-per-pezzi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e43_9DUg8gdx3ka5Dnn827toXwnF/310x430/e123f585.webp?s=d33ca96b6c8e7da05bd6bbf36b20a336cb4102e8",
+    "addedAt": "2026-11-14T20:01:01.185Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13€, sotto soglia"
   }
 ]
