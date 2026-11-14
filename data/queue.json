@@ -21169,5 +21169,41 @@
     "geminiFault": "Schermo con qualche graffio",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.9
+  },
+  {
+    "id": "10802162103",
+    "category": "Console",
+    "title": "console ps4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10802162103-console-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_019be_w91YUTyJbNNYcWFagu8qqaer/310x430/a2ee88e5.webp?s=13e58ab56308d5bc31ed9434d2551c7e69b052f9",
+    "addedAt": "2026-11-14T10:34:05.871Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nconsole ps4\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nconsole ps4 + 2 joestik con problemi però\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "due joystick con problemi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.55
+  },
+  {
+    "id": "10802163921",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10802163921-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00832_Nn5b9JuwxX8G4DRYYDyWjn6Q/310x430/d1f44553.webp?s=89de9a6ab88f0f2c83c1efc54c27f9a4ba18e131",
+    "addedAt": "2026-11-14T10:34:05.872Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch 1\nBuone·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe ne m’en sers plus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.05
   }
 ]
