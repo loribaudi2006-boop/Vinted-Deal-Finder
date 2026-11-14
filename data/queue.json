@@ -1,23 +1,5 @@
 [
   {
-    "id": "10745202213",
-    "category": "Console",
-    "title": "switch 1 a vendre pour pièces",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10745202213-switch-1-a-vendre-pour-pieces?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0184b_H8UxWuhQYvuL2PLLxQ7uWrMT/310x430/d28d8f97.webp?s=95428d9eb35ffc713f6d9d6d26da471c8114c348",
-    "addedAt": "2026-11-10T07:09:45.357Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "enuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nswitch 1 a vendre pour pièces\nBuone·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €\nincl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nLa console marche mais le lecteur de cartouches ne marche plus et les manette on tendance a drifter\nil n’y a pas sur la photo mais elle sera livré avec chargeur, doc , accessoires\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "lettore cartouches non funzionante, joycon con drift",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 62.3
-  },
-  {
     "id": "10745218941",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -20788,5 +20770,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 66.3
+  },
+  {
+    "id": "10800273293",
+    "category": "Console",
+    "title": "Xbox one X bien lire la description",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10800273293-xbox-one-x-bien-lire-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00faa_nYmuTjr1FiqNbgKAKMrGww9V/310x430/1b08f81c.webp?s=881850b4247a9b76be604e787571f710862a320d",
+    "addedAt": "2026-11-14T07:09:54.157Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "talogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox one X bien lire la description\nBuone·Microsoft·Caricato un minuto fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nXbox one X blanche vendu sans disque dur et une nappe de connexion et casser idéal pour bricoleur et connaisseur pour réinstaller le disque et l’OS de Microsoft et réparer la nappe casser ou juste pour pièces tout fonctionne hormis ça vous pouvez me faire une offre\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza hard disk, nappe di connessione rotte, da riparare o per pezzi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.8
   }
 ]
