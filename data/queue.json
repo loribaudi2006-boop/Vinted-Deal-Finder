@@ -1,23 +1,5 @@
 [
   {
-    "id": "10750894632",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10750894632-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01f38_uANPoyykAxDXHxzfvm8jRqqt/310x430/93628d86.webp?s=4afca8d5695eaecc8452bcdf7acf593bf62b9a60",
-    "addedAt": "2026-11-10T20:43:00.212Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim\nOttime·PlayStation·Caricato 4 ore fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n4 ore fa\nfunzionante ottima\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 45
-  },
-  {
     "id": "10751081354",
     "category": "Console",
     "title": "xbox one s",
@@ -23907,8 +23889,13 @@
     "url": "https://www.vinted.it/items/10811946218-nintendo-switch-pour-piece-ne-sallume-pas?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00e00_dFw1xbwbMzWkaJc1CbtvWGzC/310x430/97c1dfb8.webp?s=4f2cef77904df5b8e79c93d439d0f091858952a0",
     "addedAt": "2026-11-14T20:39:02.504Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "alogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch pour pièce ne s'allume pas\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch pour pièce ne s'allume pas état général très propre la manette bleue le plastique sortie de ça place comme indiqué sur la dernière photo vendu en l'état pas de retour accepté\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ne s'allume pas, manette bleue avec plastique sorti de sa place",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   },
   {
     "id": "10811944670",
@@ -23920,7 +23907,24 @@
     "url": "https://www.vinted.it/items/10811944670-fifa-19-per-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0123f_dUjymrtZGRXD1kfxMnAfQLC7/310x430/969f8ed5.webp?s=7d921b1c14d1ff6b34f5be75cd776c5c245ddaca",
     "addedAt": "2026-11-14T20:39:02.504Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-8.45€, sotto soglia"
+  },
+  {
+    "id": "10811961600",
+    "category": "Console",
+    "title": "Pochette switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10811961600-pochette-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02501_XBqT9Xn4ycjCzrxPZLJfDWXw/310x430/b445db2b.webp?s=4c72acff0af7dfe254b161cf62a0a4667b59190d",
+    "addedAt": "2026-11-14T20:40:04.240Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.05€, sotto soglia"
   }
 ]
