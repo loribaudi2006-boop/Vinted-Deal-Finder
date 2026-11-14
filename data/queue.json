@@ -1,20 +1,5 @@
 [
   {
-    "id": "10748135711",
-    "category": "Console",
-    "title": "cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10748135711-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_007d1_UnMPiyqEpNL47R68VTHED9WB/310x430/4610fff6.webp?s=0754a866c550108b9a2a2a600408158ef21ad54f",
-    "addedAt": "2026-11-10T12:45:14.620Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10748145232",
     "category": "Console",
     "title": "Xbox one donnez moi un prix",
@@ -21574,5 +21559,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80.5
+  },
+  {
+    "id": "10804040280",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10804040280-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0183b_fUMHDRQPaazstvmwx8epx1nt/310x430/b4f3b4e4.webp?s=dd37f1b5b08f86b6e1efe48865b5ff23f4f600af",
+    "addedAt": "2026-11-14T12:41:42.193Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10804082111",
+    "category": "Console",
+    "title": "Scatola ps4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10804082111-scatola-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01240_zLFBMjDudCBq74ADTZCm2akt/310x430/84ee30bb.webp?s=d8cf6b47cc7f29071d7900a1e37326a705c6fc82",
+    "addedAt": "2026-11-14T12:44:48.264Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.55€, sotto soglia"
   }
 ]
