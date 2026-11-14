@@ -21025,6 +21025,22 @@
     "url": "https://www.vinted.it/items/10799187407-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0000f_fkcdH9BzZ997Dtcx6Ynun1Ji/310x430/bfa60c27.webp?s=b0ec6480b9744a724ae11bf7e4a2355b3fddd4a5",
     "addedAt": "2026-11-14T01:39:56.696Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10799300325",
+    "category": "Console",
+    "title": "Station d'accueil Dock Nintendo Switch officiel + Chargeur secteur d'origine",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10799300325-station-daccueil-dock-nintendo-switch-officiel-chargeur-secteur-dorigine?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01daa_TKzN5hW3q83q1VqJgMWsPFkE/310x430/68e61785.webp?s=2c4236576c9b6b0ae5da88c8d377dbac8026209d",
+    "addedAt": "2026-11-14T02:05:47.989Z",
     "processed": false,
     "triaged": false
   }
