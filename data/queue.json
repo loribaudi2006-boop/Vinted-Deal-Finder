@@ -1,23 +1,5 @@
 [
   {
-    "id": "10749920787",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10749920787-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00bcc_qwSV4Nne85VDTxNpL97riuaR/310x430/8b9db36a.webp?s=7db61973f91684e8d26e27134846bea929b6c553",
-    "addedAt": "2026-11-10T16:44:48.615Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4\nOttime·Sony·Caricato un'ora fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun'ora fa\nBonjour.\n\nVends PS4 très bon état. Quelques rayures sur le dessus mais fonctionne très bien.\nVendue avec 1 manette.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Quelques rayures sur le dessus",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.05
-  },
-  {
     "id": "10750024986",
     "category": "Console",
     "title": "PS4 slim 500GB",
@@ -22798,5 +22780,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.55€, sotto soglia"
+  },
+  {
+    "id": "10808352031",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10808352031-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0121a_V6XADx3i22Sp5Xbqc8VXZ6h5/310x430/4d791902.webp?s=3a852a6baedd02381d86c679893d8cd3db9c46ec",
+    "addedAt": "2026-11-14T16:47:51.607Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.3€, sotto soglia"
   }
 ]
