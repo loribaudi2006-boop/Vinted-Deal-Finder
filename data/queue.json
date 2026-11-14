@@ -23005,5 +23005,48 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10809520722",
+    "category": "Console",
+    "title": "Original PlayStation 4 Slim Karton / Box – Inkl. Inlay & Zubehör – Top Sammlerzustand!",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10809520722-original-playstation-4-slim-karton-box-inkl-inlay-zubehor-top-sammlerzustand?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00b3a_qdpwypf77xW2mj9x3jZZPxqy/310x430/998e35bb.webp?s=ca256070a0bc83769d994b26b46f1f09299cb9f8",
+    "addedAt": "2026-11-14T17:56:41.813Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.7€, sotto soglia"
+  },
+  {
+    "id": "10809529444",
+    "category": "Console",
+    "title": "Ps5 Clip",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10809529444-ps5-clip?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_016f8_x3eTUDhqob3x1SNbn6q4zSz1/310x430/ff4f5704.webp?s=f7db57ec9debae2a0934ca475458066c7bef6a45",
+    "addedAt": "2026-11-14T17:57:43.414Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~6€, sotto soglia"
+  },
+  {
+    "id": "10809546644",
+    "category": "Console",
+    "title": "PlayStation 4 e controller con cavo",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10809546644-playstation-4-e-controller-con-cavo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00766_dGA9k6kTsD7bkFEeHTJZgfx9/310x430/3ae2f8b9.webp?s=f6def35b46df6fadc34a4ac8b8e98beceef559f6",
+    "addedAt": "2026-11-14T17:58:44.999Z",
+    "processed": false,
+    "triaged": false
   }
 ]
