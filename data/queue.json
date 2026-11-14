@@ -20752,5 +20752,23 @@
     "geminiFault": "Senza hard disk, nappe di connessione rotte, da riparare o per pezzi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10800336401",
+    "category": "Console",
+    "title": "Écran switch + accessoires",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10800336401-ecran-switch-accessoires?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_018b3_fnW7MSrKBFmuHaJqqV5hsw2o/310x430/1aa8e2f0.webp?s=2c550cd7b5c512d2fdca0a382144d68a4d6b495d",
+    "addedAt": "2026-11-14T07:23:19.216Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nÉcran switch + accessoires\nBuone·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nVend écran de switch( il n'y a pas les manettes) inclu les manettes + le chargement\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Mancano i controller (joy-con), ma la descrizione dice 'inclu les manettes' creando contraddizione (probabilmente solo schermo e accessori senza joy-con)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
   }
 ]
