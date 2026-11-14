@@ -20763,8 +20763,13 @@
     "url": "https://www.vinted.it/items/10796686298-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01149_W3wJjqJCuQXjarwbL78p34CH/310x430/18fec929.webp?s=9baf22989d1758b125c10bf9ad4091d0e037ef85",
     "addedAt": "2026-11-14T06:39:57.805Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nBuone·Nintendo·Caricato 20 min fa\n\n45,00 €\n\n47,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n20 min fa\nNintendo switch que funciona al 100%, con solo un mando y la base sin cable\nSpedizione\nda 5,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Solo un mando (un joy-con) e la base senza cavo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 82.05
   },
   {
     "id": "10797799222",
@@ -20776,7 +20781,12 @@
     "url": "https://www.vinted.it/items/10797799222-switch-remi-en-main-propre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_006a2_XmZ9JgjrmwSAZ4y8qEz69qQi/310x430/2ccdaa24.webp?s=4b7c3551fdf75a75bbbba4eb377f55c1edec9340",
     "addedAt": "2026-11-14T06:39:57.805Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "atalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n8\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch Rémi en main propre\nNuovo senza cartellino·Nintendo·Caricato 22 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n22 min fa\nSwitch lit presque jamais utilisé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
