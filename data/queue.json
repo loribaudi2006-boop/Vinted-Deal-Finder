@@ -1,53 +1,5 @@
 [
   {
-    "id": "10749981376",
-    "category": "Console",
-    "title": "Ps4 Slim 500go",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10749981376-ps4-slim-500go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02508_ekw3NTKYNUW3XkqyiP2sMgQQ/310x430/b190bd84.webp?s=6c1534a8c15d87e0ab56892a1f7bb4eddda973f0",
-    "addedAt": "2026-11-10T16:35:27.211Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 Slim 500go\nBuone·Sony·Caricato un'ora fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun'ora fa\nJe vend ma ps4 slim 500go,en parfait état,aucune griffe esthétiquement.Fonctionne parfaitement.\nLe lecteur bug de temps en temps,il suffit juste de l’éteindre et la rallumer et ça fonctionne nickel !\nNégociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Il lettore disc fa i capricci ogni tanto (bug di tanto in tanto), si risolve spegnendo e riaccendendo la console",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
-    "id": "10749969127",
-    "category": "Console",
-    "title": "Nintendo Switch console originale con scatola",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10749969127-nintendo-switch-console-originale-con-scatola?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01db7_jb1rNUpmDcLZaadPEjJB6A5E/310x430/e4ec6210.webp?s=aacf43553772207b572910476f7ff5d6a4ad468a",
-    "addedAt": "2026-11-10T16:37:31.562Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10749894346",
-    "category": "Console",
-    "title": "Supporto ps5 slim per console disco e digitale",
-    "price": 18,
-    "totalPrice": 19.6,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10749894346-supporto-ps5-slim-per-console-disco-e-digitale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0257d_qtvmRAYPQA3Vu6cXXkVyi89o/310x430/b525ca66.webp?s=44ff1c3589883d15ba2d5fce03bcdf43ba9b1c61",
-    "addedAt": "2026-11-10T16:38:34.456Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.4€, sotto soglia"
-  },
-  {
     "id": "10749920787",
     "category": "Console",
     "title": "PlayStation 4",
@@ -22831,5 +22783,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~1.95€, sotto soglia"
+  },
+  {
+    "id": "10808199476",
+    "category": "Console",
+    "title": "Ventilateur de refroidissement PlayStation 5 lumineux multifonction",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10808199476-ventilateur-de-refroidissement-playstation-5-lumineux-multifonction?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0152d_2YDKL4GP1YncCnkxxgBmrbFs/310x430/86b28b53.webp?s=4a6e4d891d39f476c7cdd8076ec7ad0fc2267625",
+    "addedAt": "2026-11-14T16:38:37.219Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.55€, sotto soglia"
   }
 ]
