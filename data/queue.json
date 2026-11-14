@@ -23410,5 +23410,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-11.2€, sotto soglia"
+  },
+  {
+    "id": "10810423272",
+    "category": "Console",
+    "title": "Ps4 avec câbles",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10810423272-ps4-avec-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_008c0_RVgRbh6jzJPSTuMRgNSgSxLH/310x430/65a7d33c.webp?s=6ee188cd1d5d78dee0b7a99c49010c028afbcf27",
+    "addedAt": "2026-11-14T18:54:15.739Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 avec câbles\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nMarche comme neuf\nÀ vendre sans manettes\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "À vendre sans manettes",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10810456407",
+    "category": "Console",
+    "title": "Batterie externe switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10810456407-batterie-externe-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_026cc_Tb9tUwJXbVqvXW5W9yESSyJS/310x430/b5f76fc4.webp?s=9ecf35bebd7d2633eb7077956179be4a4ecf1325",
+    "addedAt": "2026-11-14T18:57:20.584Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.55€, sotto soglia"
   }
 ]
