@@ -1,20 +1,5 @@
 [
   {
-    "id": "10750826892",
-    "category": "Console",
-    "title": "Caja original PS5",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10750826892-caja-original-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02191_Ya6E7JuxUxZ2VdWtPRDNEpeL/310x430/f68bbe95.webp?s=222898b1099c550da003c94791bd62405aae14c8",
-    "addedAt": "2026-11-10T19:54:19.111Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-12.45€, sotto soglia"
-  },
-  {
     "id": "10750714069",
     "category": "Console",
     "title": "Nintendo switch",
@@ -23692,5 +23677,36 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10811277472",
+    "category": "Console",
+    "title": "Ps5 en bonne etat.(ne pas acheter)",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10811277472-ps5-en-bonne-etatne-pas-acheter?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00f78_AtFURbp1V1kcdBm96bpLiivR/310x430/7dbcc4a1.webp?s=9214950f34c9471bea520c50d47aefd35f781a53",
+    "addedAt": "2026-11-14T19:52:48.812Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs5 en bonne etat.(ne pas acheter)\nOttime·PlayStation·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs5 en bonne état.\nProposer des offres.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
+  },
+  {
+    "id": "10811377541",
+    "category": "Console",
+    "title": "Nintendo switch lite noir",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 67% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10811377541-nintendo-switch-lite-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0269b_n1JxfM2YfddD9MXgx9oLJzJP/310x430/de9dead1.webp?s=d6c4d44b55aa1df2acfe557df14e83bd4670fd5f",
+    "addedAt": "2026-11-14T19:58:58.131Z",
+    "processed": false,
+    "triaged": false
   }
 ]
