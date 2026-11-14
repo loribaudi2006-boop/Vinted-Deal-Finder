@@ -1,20 +1,5 @@
 [
   {
-    "id": "10743659415",
-    "category": "Console",
-    "title": "Ps4 con mando",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10743659415-ps4-con-mando?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02598_JSFdQatBWENcJiiyUA3D2n4F/310x430/13dd7a3d.webp?s=376dfff254886dae79893dd57e4b58fdbfba9122",
-    "addedAt": "2026-11-10T06:36:34.189Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10745123575",
     "category": "Console",
     "title": "Playstation 4 konsole",
@@ -20785,5 +20770,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10796686298",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10796686298-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01149_W3wJjqJCuQXjarwbL78p34CH/310x430/18fec929.webp?s=9baf22989d1758b125c10bf9ad4091d0e037ef85",
+    "addedAt": "2026-11-14T06:39:57.805Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10797799222",
+    "category": "Console",
+    "title": "Switch Rémi en main propre",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10797799222-switch-remi-en-main-propre?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_006a2_XmZ9JgjrmwSAZ4y8qEz69qQi/310x430/2ccdaa24.webp?s=4b7c3551fdf75a75bbbba4eb377f55c1edec9340",
+    "addedAt": "2026-11-14T06:39:57.805Z",
+    "processed": false,
+    "triaged": false
   }
 ]
