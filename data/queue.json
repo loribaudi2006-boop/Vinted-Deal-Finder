@@ -24250,5 +24250,36 @@
     "geminiFault": "Il joystick sinistro comincia ad avere del gioco (senza drift)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.55
+  },
+  {
+    "id": "10813641674",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10813641674-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0060a_svFKqdgqAUKz5Xf61NUmXUXn/310x430/4cb710da.webp?s=c0089957b26ba026f37fde5b8839550786a4f2e3",
+    "addedAt": "2026-11-14T23:13:15.039Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVisto e piaciuto con un piccolo graffio sullo schermo ma il resto è tutto funzionante con all’interno la scheda da 100 gb\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "piccolo graffio sullo schermo",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 77.35
+  },
+  {
+    "id": "10813668014",
+    "category": "Console",
+    "title": "Playstation 5 disco",
+    "price": 1.01,
+    "totalPrice": 1.76,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10813668014-playstation-5-disco?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02568_gH5gNKg3M32FsUfvNygZwr7x/310x430/ff693755.webp?s=387eb59ea930b84d90fd7790428dad24738cf6d6",
+    "addedAt": "2026-11-14T23:17:23.093Z",
+    "processed": false,
+    "triaged": false
   }
 ]
