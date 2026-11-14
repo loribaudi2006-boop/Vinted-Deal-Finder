@@ -24028,5 +24028,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10812733458",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 45.5,
+    "totalPrice": 48.48,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10812733458-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01c15_7pgJR7F2AwzNv87VCCSA42yZ/310x430/fa92012d.webp?s=622de85f4469c865e035937d035e7053989928c3",
+    "addedAt": "2026-11-14T21:39:09.887Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim\nBuone·PlayStation·Caricato proprio adesso\n\n45,50 €\n\n48,48 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nDie Ps4 ist in einem gutem Zustand und hat fast keine Gebrauchsspuren\nSpedizione\nda 10,25 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 61.52
+  },
+  {
+    "id": "10812810448",
+    "category": "Console",
+    "title": "🔥 Giveaway PlayStation 5 🔥",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10812810448-giveaway-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0143d_rrvmkSfuvWWEjftnq2yjqoPg/310x430/f2764fd0.webp?s=947e467f9bdaac40a32f5e774539e71daffb99f4",
+    "addedAt": "2026-11-14T21:46:24.251Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
