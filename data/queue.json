@@ -1,20 +1,5 @@
 [
   {
-    "id": "10745992906",
-    "category": "Console",
-    "title": "Joypad Nintendo Switch completo",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10745992906-joypad-nintendo-switch-completo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01736_RWzp15AZtEUYKxRBw6mkexX9/310x430/ef3a2b35.webp?s=b282d85e200d2d7d5801744d1280347e59fe2137",
-    "addedAt": "2026-11-10T09:15:28.313Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
     "id": "10746006696",
     "category": "Console",
     "title": "Nintendo switch",
@@ -20851,5 +20836,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.7€, sotto soglia"
+  },
+  {
+    "id": "10801137682",
+    "category": "Console",
+    "title": "Switch en panne",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10801137682-switch-en-panne?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00fe9_wokwM7vLEKJoAafDtkb1D8c2/310x430/aa73afb7.webp?s=19791c66b3ee84d4ea51ff180aed21c8e75460b1",
+    "addedAt": "2026-11-14T09:11:09.079Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch en panne\nOttime·Nintendo·Caricato proprio adesso\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nJe vends cette switch en panne, je n’arrive pas à La recharger\nJe ne suis pas experte, donc je préfère la vendre et en racheter une autre\nElle est vendue avec les accessoires sur la photo, pas de manette merci\nL’écran est en bon état\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Non si ricarica",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 70
+  },
+  {
+    "id": "10801201309",
+    "category": "Console",
+    "title": "Tasche Spiele Nintendo Switch",
+    "price": 9.99,
+    "totalPrice": 11.19,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10801201309-tasche-spiele-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013e8_M3dgavud6kaTUxheGYAnexLb/310x430/a978883b.webp?s=bdb0f976d2078e4628424a7d592c72f93f98b54e",
+    "addedAt": "2026-11-14T09:17:21.523Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~2.81€, sotto soglia"
   }
 ]
