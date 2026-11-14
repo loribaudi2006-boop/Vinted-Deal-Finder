@@ -21205,5 +21205,50 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.05
+  },
+  {
+    "id": "10802280735",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10802280735-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01dcf_MUccHrCeEovLNjLDwdvkeefb/310x430/ff0ece37.webp?s=42a3fb286e80174bcb6bbbc9e9b66d0286058855",
+    "addedAt": "2026-11-14T10:41:20.359Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
+  },
+  {
+    "id": "10802330786",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10802330786-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ab5_B5QSYE4a8nutnDPsSp4dUCaF/310x430/69773c4e.webp?s=bbc53c66410ab3c3ececbadf5c158ad0a3f39444",
+    "addedAt": "2026-11-14T10:45:28.514Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10802354677",
+    "category": "Console",
+    "title": "Console Sony Playstation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10802354677-console-sony-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00f41_EgGbRRL3VH8VVTcqLBjdaUXv/310x430/f5749c42.webp?s=1e78d92db365ca68f5a2d66f0a1239f2a688f5c8",
+    "addedAt": "2026-11-14T10:46:30.802Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.05€, sotto soglia"
   }
 ]
