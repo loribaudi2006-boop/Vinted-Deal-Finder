@@ -1,23 +1,5 @@
 [
   {
-    "id": "10749813732",
-    "category": "Console",
-    "title": "Ps4 silm ohne Festplatte  mit Controller",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10749813732-ps4-silm-ohne-festplatte-mit-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02446_NAnh24755qBAgtQHzAw15nyH/310x430/eb0816ad.webp?s=298e45bf485bf8b9399b22f7abd9728262344fd8",
-    "addedAt": "2026-11-10T15:51:55.307Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 silm ohne Festplatte mit Controller\nDiscrete·PlayStation·Caricato un'ora fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun'ora fa\nHallo zusammen angeboten wird eine ps4 silm im gebrauchten Zustand sie ist funktionsfähig aber keine Festplatte vorhanden Controller ist mit dabei funktionsfähig es wird nur die Konsole und der Controller verkauft wer interesse hat bitte melden lg\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manca l'hard disk (keine Festplatte vorhanden)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10749887346",
     "category": "Console",
     "title": "Ps4 + manette + fc26",
@@ -22524,8 +22506,13 @@
     "url": "https://www.vinted.it/items/10807337273-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01583_pyP34JjAo73TTXuX3AAk25NP/310x430/e68b9367.webp?s=f75d141e4f0d9c2f6b0351d81f9596d89bd95e8f",
     "addedAt": "2026-11-14T15:48:16.619Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nDiscrete·Nintendo·Caricato proprio adesso\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNintendo switch sohkle duel shok pas de chargeur\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "pas de chargeur (manca il caricabatterie)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.35
   },
   {
     "id": "10805142674",
@@ -22537,8 +22524,10 @@
     "url": "https://www.vinted.it/items/10805142674-lot-accessoires-nintendo-switch-oled-2-verres-trempes-2-dragonnes-joy-con-neuf?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00569_krqPtTZJYj17doK5sDFmW4FM/310x430/a7a9be70.webp?s=74f1d7a1fd60c5d22344034ab9fff3a7d46ca4f4",
     "addedAt": "2026-11-14T15:48:16.620Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
   },
   {
     "id": "10807324703",
@@ -22550,7 +22539,63 @@
     "url": "https://www.vinted.it/items/10807324703-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00575_HFoR9YQMqixeMS1igbv3HdUL/310x430/b143b588.webp?s=554e6ace6e007d7138e8f16124f215d5d3bf6501",
     "addedAt": "2026-11-14T15:48:16.620Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one s\nBuone·Xbox·Caricato un minuto fa\n\n25,00 €\n\n26,95 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nXbox one s vendu sans câble, j'ai testé la xbox je la trouve assez longue en chargement ou autre , la manette a un drift à l'analogue gauche .\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Lenta nel caricamento e controller con drift all'analogico sinistro, senza cavi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35
+  },
+  {
+    "id": "10807379066",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10807379066-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0239f_tLd3R6mD3gYpc16VLqX9yLry/310x430/9184a990.webp?s=04396c3dcbcece11fcee4038afbdd169e098ca9f",
+    "addedAt": "2026-11-14T15:50:19.892Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nFunzionante, tenuta bene con 2 controller\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10807385261",
+    "category": "Console",
+    "title": "nintendo switch pezzo",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10807385261-nintendo-switch-pezzo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00d28_NHzDFRJPWAC7TZsHMcVwARoL/310x430/8b614fa8.webp?s=ae1fc3a1883337cd1ddc8fd4c70cd22c5f81fb76",
+    "addedAt": "2026-11-14T15:51:22.745Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch pezzo\nBuone·Nintendo·Caricato un minuto fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nunico pezzo nintendo switch schermo perfetto retro molto graffiato ma funziona perfettamente ,è bordi danneggiati non compromette il funzionamento,grazie\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Retro molto graffiato e bordi danneggiati, ma schermo perfetto e perfettamente funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.3
+  },
+  {
+    "id": "10807442053",
+    "category": "Console",
+    "title": "Xbox 360 slim per ricambi",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"per ricambi\"",
+    "url": "https://www.vinted.it/items/10807442053-xbox-360-slim-per-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cee_vJ1cau1CoYvRoyQJHu7U5DwB/310x430/3364e173.webp?s=9f74ddfc1dbad64019aba40db93a968ecfc18926",
+    "addedAt": "2026-11-14T15:54:27.836Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
   }
 ]
