@@ -1,20 +1,5 @@
 [
   {
-    "id": "10752041588",
-    "category": "Console",
-    "title": "Lot Dock + Support Manette + Joy-Con Gauche Fortnite - Nintendo Switch",
-    "price": 29,
-    "totalPrice": 31.15,
-    "reason": "prezzo 85% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10752041588-lot-dock-support-manette-joy-con-gauche-fortnite-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_014d2_FTP8MaVpDoYY9kugam2nUmW5/310x430/446fceac.webp?s=d644b94c8fda15f5656ee457314a6ec8628da80d",
-    "addedAt": "2026-11-10T23:43:14.784Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10752179962",
     "category": "Console",
     "title": "Lot d’équipement Nintendo Switch 🎮",
@@ -24241,5 +24226,33 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10813727733",
+    "category": "Console",
+    "title": "Pochette Switch Zelda",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10813727733-pochette-switch-zelda?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f81_1TfB9c8iHtFryQ4BE2sUm1uD/310x430/1fd00155.webp?s=84716a87be1cd76d3e131b1b3d05f4f257d47256",
+    "addedAt": "2026-11-14T23:39:06.416Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10813887109",
+    "category": "Console",
+    "title": "Lettore dischi ps5",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10813887109-lettore-dischi-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_007e9_a1UHEdYV9LG5ty64t1njakbn/310x430/3dd71282.webp?s=eea2f6a1029b3daded2618f90e1ada6d516d96d6",
+    "addedAt": "2026-11-14T23:47:22.425Z",
+    "processed": false,
+    "triaged": false
   }
 ]
