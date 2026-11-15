@@ -1,41 +1,5 @@
 [
   {
-    "id": "10758102258",
-    "category": "Console",
-    "title": "PlayStation 5",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10758102258-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_014ca_5Zpa6YxnS14DEMscoqbAsFQL/310x430/f7179073.webp?s=b3b04b7c5080fbe02ecfde9d893c7a4c4ee16fc3",
-    "addedAt": "2026-11-11T07:37:13.617Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 5\nDiscrete·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 min fa\nWurde angemalt aber funktioniert einwandfrei Controller fehlt ein Gummi aber funktioniert auch noch einwandfrei\n\nPreis verhandelbar\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Wurde angemalt aber funktioniert einwandfrei Controller fehlt ein Gummi aber funktioniert auch noch einwandfrei",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 66.8
-  },
-  {
-    "id": "10758154750",
-    "category": "Console",
-    "title": "Ps4 noir",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10758154750-ps4-noir?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_006a8_2Wc1RVm6zFo1U97Db57donc5/310x430/dfd49835.webp?s=acc3bea65cb7fc899ce9bd2137b8d4376bb62c41",
-    "addedAt": "2026-11-11T07:41:21.940Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 noir\nBuone·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nTout fonctionne correctement mais pas tres neuf esthétiquement\nLe colis sera bien emballé et envoie sous 48h.\nPrix négociable\nSans manettes\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Estetica non nuovissima, senza controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.8
-  },
-  {
     "id": "10758242001",
     "category": "Console",
     "title": "Nintendo switch V1 +2 controllers and 1 game",
@@ -22854,5 +22818,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~22.55€, sotto soglia"
+  },
+  {
+    "id": "10815852336",
+    "category": "Console",
+    "title": "PlayStation 4 avec jeux",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10815852336-playstation-4-avec-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01cd9_zJzibohuCYbf8VNmyhtLdkUQ/310x430/bc16b2e2.webp?s=d5cc9e78a3c97640d644e568c102597e6246eea3",
+    "addedAt": "2026-11-15T07:44:48.472Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 avec jeux\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nIdéal pour offrir cadeau noël ect console Playstation 4 avec jeux et une manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   }
 ]
