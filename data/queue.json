@@ -1,37 +1,5 @@
 [
   {
-    "id": "10757179322",
-    "category": "Console",
-    "title": "Étui rangement Nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10757179322-etui-rangement-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00f6c_2VLDgSq4MD5KhJECKy8up84e/310x430/f4099910.webp?s=a165e024e02352da197090f4d3539c2f9b562fa2",
-    "addedAt": "2026-11-11T03:55:29.770Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10757469737",
-    "category": "Console",
-    "title": "Ps4 500GB Funktioniert 2 Controller plus hdmi und Netzteil",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10757469737-ps4-500gb-funktioniert-2-controller-plus-hdmi-und-netzteil?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01665_D7eJNDxAhWW3v7VaFBu9N85J/310x430/fe721cf7.webp?s=b758057d1c7f84666bdd9fa013cb97ebc212fe4c",
-    "addedAt": "2026-11-11T04:00:41.449Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10757553019",
     "category": "Console",
     "title": "Ps4 500GB 2 controller plus hdmi und Netzwerk Kabel",
@@ -22869,5 +22837,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10815137419",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10815137419-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_001da_9C33Jf46bcqmAwUJpoX1YvSi/310x430/4448bb7f.webp?s=57378dcca6e634f605e62e0609a325bda1026955",
+    "addedAt": "2026-11-15T03:59:56.888Z",
+    "processed": false,
+    "triaged": false
   }
 ]
