@@ -1,56 +1,5 @@
 [
   {
-    "id": "10758762051",
-    "category": "Console",
-    "title": "PS4 flat nettoyage complet",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10758762051-ps4-flat-nettoyage-complet?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0050b_YAEVuyx2DmiGjz8J5GyMXymr/310x430/e4874335.webp?s=aa5893710a1b99788fae9aebf01ec6ab7ecf8607",
-    "addedAt": "2026-11-11T09:01:25.192Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 flat nettoyage complet\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe vends cette console PS4 Flat noire, fonctionnelle et prête à l'emploi. Nettoyage complet effectué ainsi que changement de pâte thermique, avec cd de jeu dark souls III\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.05
-  },
-  {
-    "id": "10758777451",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10758777451-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00984_NCJosizY4hMyQ8LSo9vK1vGU/310x430/6aa16436.webp?s=c40c7adc73cb12a2fdc71f2fa0624a94c2b7ab1f",
-    "addedAt": "2026-11-11T09:02:27.191Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 slim\nDiscrete·Sony·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nBonjour, je vends ma ps4 slim pour pièces ou pour bricoleur si quelqu'un s'y connaît, je ne sais pas du tout ce qu'elle a cela fait longtemps qu'elle dort dans mon placard je la vends seul sans manette et il faut que je regarde si j'ai encore le câble d'alimentation le câble service sur la photo à partir à mon fils pour sa Xbox . Je la vend 50€ négociable\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non testata, fermata da tempo, venduta senza manette e probabilmente senza cavo di alimentazione",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
-    "id": "10758769785",
-    "category": "Console",
-    "title": "Chargeur Nintendo Switch",
-    "price": 25.99,
-    "totalPrice": 27.99,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10758769785-chargeur-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_013e4_f8maA5Fz9zpKYcYHfFKHdTcV/310x430/28cc1027.webp?s=2446941d38d9dd506d314b3d6fe3ba6d9828ee2d",
-    "addedAt": "2026-11-11T09:02:27.192Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "10758883395",
     "category": "Console",
     "title": "Xbox one S",
@@ -22682,7 +22631,9 @@
     "url": "https://www.vinted.it/items/10816412883-boite-de-playstation-5-editio-god-of-war-ragnarok?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_014d2_LG8E6tZiZbZiuLNJkXPCybuS/310x430/69c00f52.webp?s=997b99014f7418a81352abb9929503569f444dc7",
     "addedAt": "2026-11-15T08:55:41.389Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5€, sotto soglia"
   }
 ]
