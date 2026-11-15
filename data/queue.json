@@ -1,20 +1,5 @@
 [
   {
-    "id": "10771927559",
-    "category": "Console",
-    "title": "Playstation 5 (cerco)",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10771927559-playstation-5-cerco?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0124e_zjghEufU9aV8XKNMSWv1M4B7/310x430/e7d5de62.webp?s=27cc95ba128ba1a40e04e17681c3615a5a9c86c1",
-    "addedAt": "2026-11-11T23:01:37.819Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10771971000",
     "category": "Console",
     "title": "Cagnotte leetchi PS5",
@@ -24689,5 +24674,56 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10832790687",
+    "category": "Console",
+    "title": "Sony PlayStation 4 PS4 Fat nera – Solo console senza cavi e controller",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10832790687-sony-playstation-4-ps4-fat-nera-solo-console-senza-cavi-e-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cfb_rqZRmGvigrzKUsUCfC7J5QAp/310x430/b87217d7.webp?s=2c97de214077a42691f902771d17c2ade4f5ec19",
+    "addedAt": "2026-11-15T22:56:43.139Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ubito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nSony PlayStation 4 PS4 Fat nera – Solo console senza cavi e controller\nBuone·PlayStation·Caricato un minuto fa\n\n35,00 €\n\n37,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo console Sony PlayStation 4 (PS4) originale, colore nero.\n\nLa console presenta segni di utilizzo, graffi superficiali e segni di usura visibili nelle fotografie.\n\nIncluso nella vendita:\n\n* Console PlayStation 4\n\nNON inclusi:\n\n* Controller / joystick\n* Cavo di alimentazione\n* Cavo HDMI\n* Altri accessori\n\nNon avendo l’alimentatore, non posso verificarne attualmente il funzionamento. Viene quindi venduta come non testata, nelle condizioni mostrate in foto.\n\nIdeale per chi possiede già gli accessori necessari oppure per recupero di componenti e ricambi.\n\nPrezzo basso per liberare spazio. Disponibile per ulteriori informazioni!\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Console non testata per mancanza di alimentatore, segni di utilizzo e graffi superficiali. Mancano cavi e controller.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.55
+  },
+  {
+    "id": "10832804940",
+    "category": "Console",
+    "title": "Ps4 plus manette noir",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10832804940-ps4-plus-manette-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_002af_fcX2VCpwdx8VovJaDHZWDQMk/310x430/ca59e59a.webp?s=6657eaa8e16a827ad0fc49a701eb767d7ed87d5a",
+    "addedAt": "2026-11-15T22:57:44.993Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 plus manette noir\nOttime·PlayStation·Caricato un minuto fa\n\n45,00 €\n\n47,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 plus manette noir\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 62.05
+  },
+  {
+    "id": "10832799068",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10832799068-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00918_fosLk2sDyFT9Gc9ggGA8M4ff/310x430/7a13052f.webp?s=5b0ff27ed2410d72761231c9f56d9a0f69f37818",
+    "addedAt": "2026-11-15T22:57:44.993Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4€, sotto soglia"
   }
 ]
