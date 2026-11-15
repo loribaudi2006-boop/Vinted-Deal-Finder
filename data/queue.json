@@ -1,20 +1,5 @@
 [
   {
-    "id": "10765703995",
-    "category": "Console",
-    "title": "Nintendo switch corail lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10765703995-nintendo-switch-corail-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_025b7_oUr24ysLF5yLdwMCys6QE5Su/310x430/3d82a8c8.webp?s=7bba1f8e9bc7e29654de4c6f69786d890017da0c",
-    "addedAt": "2026-11-11T16:10:48.171Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10765865227",
     "category": "Console",
     "title": "Microsoft Xbox One Nera - 360GB",
@@ -24332,5 +24317,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10825279582",
+    "category": "Console",
+    "title": "Ps4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10825279582-ps4-prix-negociable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0063f_wYhGkyBevVf55kHMhv8rTj8F/310x430/bb014d7f.webp?s=70bf86ef074c69d7a3d18878d2bfa6144df345eb",
+    "addedAt": "2026-11-15T16:15:54.176Z",
+    "processed": false,
+    "triaged": false
   }
 ]
