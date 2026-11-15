@@ -1,23 +1,5 @@
 [
   {
-    "id": "10772205817",
-    "category": "Console",
-    "title": "Nintendo Switch noire + dock + 1 Joy-Con (sans manette)",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10772205817-nintendo-switch-noire-dock-1-joy-con-sans-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00bba_r36nVytuH1bDGe5FAhicdc4Q/310x430/e5cb7b8d.webp?s=03e1acd986350cc54f70720669bec5564484dede",
-    "addedAt": "2026-11-11T23:41:00.786Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "i | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch noire + dock + 1 Joy-Con (sans manette)\nDiscrete·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nun minuto fa\nVends ma Nintendo Switch avec son dock et un Joy-Con.(SANS CÂBLE D'ALIMENTATION,SANS CÂBLE HDMI,LE LECTEUR CARTE ET CASSÉ)\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza cavo di alimentazione, senza cavo HDMI, un solo Joy-Con, lettore cartucce rotto",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10772284032",
     "category": "Console",
     "title": "Ps4 + controller (prezzo speciale per difetto lettore CD)",
@@ -24767,5 +24749,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10833168765",
+    "category": "Console",
+    "title": "Switch proposer vos prix",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10833168765-switch-proposer-vos-prix?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02215_WxZvQhcZNcTe5AURtcdtvBwu/310x430/971588f6.webp?s=09927078a719aac403001477f2fd9e2f4d03ced4",
+    "addedAt": "2026-11-15T23:41:09.488Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch proposer vos prix\nOttime·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nSwitch vendu avec le chargeur poser vos prix deux petits impacts sur l'écran mais rien de grave voir photos proposez vos prix\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "due piccoli impatti sullo schermo",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 110.25
   }
 ]
