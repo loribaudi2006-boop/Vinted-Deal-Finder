@@ -1,20 +1,5 @@
 [
   {
-    "id": "10755388797",
-    "category": "Console",
-    "title": "Alimentation PS5",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10755388797-alimentation-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_008c6_ctWJLk74J8ohtZk3zP9hL1d3/310x430/b4b4afdf.webp?s=249cd6192bf06653c328b4c897923df5a6532a7d",
-    "addedAt": "2026-11-11T02:38:44.320Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10755727100",
     "category": "Console",
     "title": "PlayStation 4 slim nera",
@@ -23194,7 +23179,10 @@
     "url": "https://www.vinted.it/items/10814691087-xbox-one-forza-edition?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_004ea_CoLAwq2VfSazfBuuoc5abjH4/310x430/11b11ebe.webp?s=3c36053183aba7fd3bd903d31ea3106958106743",
     "addedAt": "2026-11-15T02:13:00.298Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
