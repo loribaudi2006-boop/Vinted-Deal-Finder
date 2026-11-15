@@ -24401,5 +24401,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-10€, sotto soglia"
+  },
+  {
+    "id": "10827752629",
+    "category": "Console",
+    "title": "PS4 1TB con controller e giochi",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10827752629-ps4-1tb-con-controller-e-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02131_bbw6urrbRHCLC35ezJRQ3hos/310x430/1c1e464f.webp?s=5d93a47f6bb14e191c447e72322742289cd87d95",
+    "addedAt": "2026-11-15T18:01:11.436Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 1TB con controller e giochi\nOttime·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo PlayStation 4 Standard da 1TB in buone condizioni, perfettamente funzionante\n\nInclusi nella vendita:\n\n- Console PlayStation 4 da 1000GB\n- 1 controller\n- Diversi giochi per PS4\n\nLa console funziona correttamente. Disponibile per ulteriori informazioni e foto\n\nPrezzo leggermente trattabile\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.3
+  },
+  {
+    "id": "10827776384",
+    "category": "Console",
+    "title": "Boîte Console Playstation 5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10827776384-boite-console-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00edf_TksHVrbo44fDnvbUCd53w4f9/310x430/e53be034.webp?s=80e9f720cc31650ae53a22c46e2044f2bb19c467",
+    "addedAt": "2026-11-15T18:03:15.855Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
   }
 ]
