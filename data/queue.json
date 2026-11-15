@@ -22816,8 +22816,11 @@
     "url": "https://www.vinted.it/items/10815514823-cerco-ps5-usata-non-vendo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00b2a_RWk5EZcmNz988u5ijijxgWQa/310x430/8383d6bd.webp?s=54640135555aaffdf1886db3b56fe43b46e9c5e7",
     "addedAt": "2026-11-15T06:13:24.850Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10811538386",
