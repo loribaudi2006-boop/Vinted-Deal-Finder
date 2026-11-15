@@ -1,20 +1,5 @@
 [
   {
-    "id": "10758405616",
-    "category": "Console",
-    "title": "caja nintendo switch",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10758405616-caja-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0011e_q4oVx2PeLFZmpPoa5KHnXKDe/310x430/108a61c9.webp?s=bde85266883769f6bf6ff2e6c2f8b152d0118e0c",
-    "addedAt": "2026-11-11T08:21:52.818Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8€, sotto soglia"
-  },
-  {
     "id": "10758482367",
     "category": "Console",
     "title": "Ps4 black",
@@ -22800,5 +22785,33 @@
     "geminiFault": "Pulsante fisico di espulsione del disco non funzionante (espulsione possibile solo via menu), assenza di controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.4
+  },
+  {
+    "id": "10816072861",
+    "category": "Console",
+    "title": "Boîtier de switch",
+    "price": 25.99,
+    "totalPrice": 27.99,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10816072861-boitier-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0226b_uYP6Ufjgeozs8BJuFVpGz8BM/310x430/fd17d04d.webp?s=bb8041f63aecd406ca4d024bf1457d6ccb4e5c18",
+    "addedAt": "2026-11-15T08:18:42.069Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.01€, sotto soglia"
+  },
+  {
+    "id": "10816127869",
+    "category": "Console",
+    "title": "Console Microsoft Xbox One 500GB Nera + Alimentatore Originale",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10816127869-console-microsoft-xbox-one-500gb-nera-alimentatore-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00741_47AVAm8i6hpo8ooLs5zzTPFY/310x430/8c3b8051.webp?s=864adc701ed14df586e807ea41b6170a0438d24d",
+    "addedAt": "2026-11-15T08:24:51.858Z",
+    "processed": false,
+    "triaged": false
   }
 ]
