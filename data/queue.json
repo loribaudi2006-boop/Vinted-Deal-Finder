@@ -1,35 +1,5 @@
 [
   {
-    "id": "10757933954",
-    "category": "Console",
-    "title": "Looking for Ps5 ( dont buy )",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10757933954-looking-for-ps5-dont-buy?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00d4c_AXekXQvSoFKk2X9E6AUKrjSQ/310x430/cb12507b.webp?s=4772c6db553d93e177ece0273966cc0e110fd550",
-    "addedAt": "2026-11-11T06:50:37.069Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10757942721",
-    "category": "Console",
-    "title": "Ps4 con giochi",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10757942721-ps4-con-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0157f_dMv8nyfohiw8uQXyVS7XXnAS/310x430/735afc6e.webp?s=53cc1b7596945bf745d2e2e29cb53aae83a28c49",
-    "addedAt": "2026-11-11T06:52:41.419Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10757948039",
     "category": "Console",
     "title": "Boite vide switch 2",
@@ -22832,8 +22802,11 @@
     "url": "https://www.vinted.it/items/10811538386-switch-neuve-avec-cables-et-branchement-tele?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00974_99fdCLWnHEM1wcqYYMU51wu9/310x430/e577b25d.webp?s=7f5c03d5d5cb7c53d9308f798f5a28134db45ec8",
     "addedAt": "2026-11-15T06:21:37.442Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10815534582",
@@ -22845,8 +22818,11 @@
     "url": "https://www.vinted.it/items/10815534582-ps4-slim-1tb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_013b3_tqUMqZuSm8sCdZNJwM2WjLA6/310x430/ba57f4e7.webp?s=d815aa2a50f022c1be5ffeda1a43fb23a71d08bb",
     "addedAt": "2026-11-15T06:21:37.442Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10811610239",
@@ -22858,6 +22834,22 @@
     "url": "https://www.vinted.it/items/10811610239-nintendo-switch-lite-noir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01865_sDA4NdNsF8GJY4nTvSnTdLjP/310x430/7adcc923.webp?s=3b51fe422aebd38e10959db091dbdfb9a01e3aa8",
     "addedAt": "2026-11-15T06:22:39.039Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10815616173",
+    "category": "Console",
+    "title": "PS4 Slim 1TB",
+    "price": 52,
+    "totalPrice": 55.3,
+    "reason": "prezzo 60% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10815616173-ps4-slim-1tb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013b3_tqUMqZuSm8sCdZNJwM2WjLA6/310x430/ba57f4e7.webp?s=d815aa2a50f022c1be5ffeda1a43fb23a71d08bb",
+    "addedAt": "2026-11-15T06:49:21.438Z",
     "processed": false,
     "triaged": false
   }
