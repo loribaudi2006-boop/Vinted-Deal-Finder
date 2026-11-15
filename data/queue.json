@@ -22824,5 +22824,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-14.2€, sotto soglia"
+  },
+  {
+    "id": "10815770625",
+    "category": "Console",
+    "title": "Socle switch 1",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10815770625-socle-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02503_y5W5HhRWfWUNfcMXE3SJB1mk/310x430/2264609b.webp?s=e9b2e1a760675b0ef66928c34e7bf065b3382d08",
+    "addedAt": "2026-11-15T07:28:22.495Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.55€, sotto soglia"
+  },
+  {
+    "id": "10815800885",
+    "category": "Console",
+    "title": "Alimentation ps5 adp-400fr",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10815800885-alimentation-ps5-adp-400fr?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00d6b_CooRgvMs3qGik1i7ps3vJZZ4/310x430/f5d18fd3.webp?s=3743cb0318e49481d740b622489483bcb8f9ceb6",
+    "addedAt": "2026-11-15T07:34:32.329Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.55€, sotto soglia"
   }
 ]
