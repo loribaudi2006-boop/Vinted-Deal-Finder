@@ -1,38 +1,5 @@
 [
   {
-    "id": "10777383524",
-    "category": "Console",
-    "title": "Sony Playstation 4 Ps4 nera",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10777383524-sony-playstation-4-ps4-nera?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01ec0_Dou4XTM3epa3Ze45Bo9NB9CZ/310x430/21765b2f.webp?s=537e2e0ded810f3a4c6a7c21f7bfd9b6e73a4a64",
-    "addedAt": "2026-11-12T13:05:01.285Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nSony Playstation 4 Ps4 nera\nOttime·Sony·Caricato 5 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nPlayStation 4 nera, solo console\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10777310247",
-    "category": "Console",
-    "title": "Nintendo Switch dockingstation mit originalem hdmi Kabel",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10777310247-nintendo-switch-dockingstation-mit-originalem-hdmi-kabel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00a41_jek44pqf4rzqABURUhJoqm57/310x430/93687ec8.webp?s=fe09ea772b6c378c97f0727f892a13110f7808b5",
-    "addedAt": "2026-11-12T13:05:01.285Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
     "id": "10777503868",
     "category": "Console",
     "title": "nintendo switch",
@@ -24618,5 +24585,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.05€, sotto soglia"
+  },
+  {
+    "id": "10838630061",
+    "category": "Console",
+    "title": "Console rotta",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "parola chiave: \"rotta\"",
+    "url": "https://www.vinted.it/items/10838630061-console-rotta?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0182e_jfCiJ8xXaLPFWNBCWmEjYaM5/310x430/55436498.webp?s=992751bb1e06641ddd7c50884e7c81cddbf89c27",
+    "addedAt": "2026-11-16T13:02:59.798Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nConsole rotta\nDiscrete·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nPS4 completamente distrutta utile come soprammobile\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "PS4 completamente distrutta utile come soprammobile",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 43
   }
 ]
