@@ -1,23 +1,5 @@
 [
   {
-    "id": "10775018020",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10775018020-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00795_A2xzThoiHkWvBx6owpsm8KqC/310x430/cd792593.webp?s=734b25f73e921485284c5fa351bc4e094016812a",
-    "addedAt": "2026-11-12T09:35:52.678Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato 2 min fa\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nNintendo switch en tres bon état mise apart le joystick gauche a changer. On peut le trouver sur internet a apeine 5 euros. Vendue avec chargeur , câble hdmi et manette Nintendo\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joystick sinistro da sostituire",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80
-  },
-  {
     "id": "10775102266",
     "category": "Console",
     "title": "PS5-Horizontalständer",
@@ -24576,5 +24558,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.05
+  },
+  {
+    "id": "10836119774",
+    "category": "Console",
+    "title": "2 Scatole Ps4",
+    "price": 14,
+    "totalPrice": 15.4,
+    "reason": "prezzo 89% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10836119774-2-scatole-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00b2a_xWpC91BwoqMDYwmS8bWfBAah/310x430/5877c52c.webp?s=4984a1212ada4716a0f4b3f0b1ce672bf5534d7a",
+    "addedAt": "2026-11-16T09:34:32.713Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.4€, sotto soglia"
+  },
+  {
+    "id": "10836148707",
+    "category": "Console",
+    "title": "Supporto originale Sony per PS5 Slim",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10836148707-supporto-originale-sony-per-ps5-slim-2-pezzi-staffa-di-posizionamento-orizzontale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_014b0_1YMWbKoKWaxbULFmn1UaCEp8/310x430/e9c23aec.webp?s=c85b1bfaead0a1be2f0794f483bb27f64b3edb96",
+    "addedAt": "2026-11-16T09:38:41.358Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20.2€, sotto soglia"
   }
 ]
