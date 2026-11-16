@@ -1,20 +1,5 @@
 [
   {
-    "id": "10785522371",
-    "category": "Console",
-    "title": "Xbox One avec jeux et manette",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10785522371-xbox-one-avec-jeux-et-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01560_FVJS7Wo5rgPqa31FjyjLFNZg/310x430/7f191e8a.webp?s=45c25a35156be1a1674550e5b64b20c90078d55f",
-    "addedAt": "2026-11-12T23:32:16.323Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10785610211",
     "category": "Console",
     "title": "Xbox one",
@@ -24363,5 +24348,49 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10847426508",
+    "category": "Console",
+    "title": "PS4 fat 500gb",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10847426508-ps4-fat-500gb?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02216_UmKy4vmFDwyQ517iqGvuGYX4/310x430/fbfdad1e.webp?s=79071193ff9b55afbe615df2fa62ec820c3cd409",
+    "addedAt": "2026-11-16T23:33:58.576Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 fat 500gb\nBuone·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nConsola em bom estado estético\nLimpa e pasta térmica nova\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10847468356",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10847468356-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0150a_YsdjAYCwxBuirH9oso3a24e9/310x430/19cad64a.webp?s=44ed4cd777be784a13726549ce78938c876ee06a",
+    "addedAt": "2026-11-16T23:40:08.216Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10847467187",
+    "category": "Console",
+    "title": "Consola Sony PS4 Preto",
+    "price": 47,
+    "totalPrice": 50.05,
+    "reason": "prezzo 64% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10847467187-consola-sony-ps4-preto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00bda_g5pDMZjcVEi7Euhc7s2buGZZ/310x430/dd3d0960.webp?s=c32c87cd0a7c28a5092c900abaa3d1aa67f952c3",
+    "addedAt": "2026-11-16T23:40:08.216Z",
+    "processed": false,
+    "triaged": false
   }
 ]
