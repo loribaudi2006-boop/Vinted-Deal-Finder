@@ -24704,5 +24704,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10833669997",
+    "category": "Console",
+    "title": "Nintendo switch qu’on peux modifier",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10833669997-nintendo-switch-quon-peux-modifier?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02446_NYc9Nzbpxzy1tHWsYLWkMV9L/310x430/3420d838.webp?s=1048085f2cf3b50ac26125b1099aa103db33b475",
+    "addedAt": "2026-11-16T00:56:32.190Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch qu’on peux modifier\nBuone·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nFaire offre ⚠️\nNuméro de série ✅\nSwitch facilement modifiable ✅\nManette a changer beug joystick\nLa switch fonctionne parfaitement\nColis envoyer rapidement\n📦✅\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manette a changer beug joystick",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 138
   }
 ]
