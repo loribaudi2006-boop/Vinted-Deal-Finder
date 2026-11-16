@@ -24685,8 +24685,11 @@
     "url": "https://www.vinted.it/items/10833807379-ps4-1tb-keine-mangel?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_011db_UNh9tvsfKs7zH76sbEsVtwu5/310x430/fb25dc92.webp?s=c1d42ba1e91d6f07b5e07f220a0a1a53a1d6f285",
     "addedAt": "2026-11-16T01:19:14.289Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10833889852",
