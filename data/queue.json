@@ -1,23 +1,5 @@
 [
   {
-    "id": "10773982718",
-    "category": "Console",
-    "title": "Console Nintendo switch lite",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10773982718-console-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_012d1_mN3EZHsu4pFyc5hG6kjKY9Ba/310x430/1ec5045b.webp?s=7cbd944e588b1d07b7657d228e1e13a11bfafcad",
-    "addedAt": "2026-11-12T06:53:39.023Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n11\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nConsole Nintendo switch lite\nOttime·Nintendo·Caricato 7 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n7 min fa\nPAS DE VINTED GO, Vends console Nintendo switch lite turquoise en excellent état de marche et esthétique, aucunes rayures sur l écran, vendue sans chargeur, pas de Vinted go merci\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "venduta senza chargeur",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10774128110",
     "category": "Console",
     "title": "J’aimerais avoir une ps5",
@@ -24701,8 +24683,10 @@
     "url": "https://www.vinted.it/items/10835038165-ps5-recherche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_015e9_THFGWCTZ5iDchwoyhDBSeVMX/310x430/56389b5c.webp?s=91219c1dbe83f2489bbf24cec553b601a71d320d",
     "addedAt": "2026-11-16T06:33:54.993Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10835059297",
@@ -24714,7 +24698,9 @@
     "url": "https://www.vinted.it/items/10835059297-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_016ff_G9YoEqKxiL2pMr2EkUBZPAjY/310x430/f1dc1213.webp?s=4677065aa4ac91b8f58702fb2dd691f801b37a04",
     "addedAt": "2026-11-16T06:41:10.690Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
