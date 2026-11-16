@@ -24701,7 +24701,10 @@
     "url": "https://www.vinted.it/items/10834211472-ps5-negociar-o-preco-nao-compre-logo-direto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01eab_z1ev3tUYjzvtZhE1m9idKPKu/310x430/a856ef3f.webp?s=5442a3b43808a52e1bf9388ed436051b0c33ffff",
     "addedAt": "2026-11-16T02:29:26.883Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
