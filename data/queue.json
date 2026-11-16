@@ -24621,8 +24621,11 @@
     "url": "https://www.vinted.it/items/10834827338-ps5-scattola-vuota?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02164_jwVgepG49mGX4qNGRa8siYPZ/310x430/1b8337d6.webp?s=bc9a1444cf427a0ef6363b78bafee5a89d420677",
     "addedAt": "2026-11-16T05:15:06.210Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10834871589",
@@ -24647,6 +24650,32 @@
     "url": "https://www.vinted.it/items/10830563578-switch-objet?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00a77_wnRMcuJyB6j6TnfryHTgt5bz/310x430/aa1034e0.webp?s=347b03a97b6b00da3c2f9e188e72527833a77681",
     "addedAt": "2026-11-16T05:41:02.191Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10830589319",
+    "category": "Console",
+    "title": "Nintendo Switch 1",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10830589319-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02155_ZafJdedKKdQ2XmbV82PHpFby/310x430/97f2fd0b.webp?s=5e5eac6b2c3ef1a30a045507f1746245d92cd6e6",
+    "addedAt": "2026-11-16T05:42:04.327Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10830789153",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10830789153-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00e0f_BU7Xaq9Khgu3FbYZHS5R52Q2/310x430/f865a81f.webp?s=2d728b7da096c921886f7ede01a499f2b04ae635",
+    "addedAt": "2026-11-16T05:47:15.798Z",
     "processed": false,
     "triaged": false
   }
