@@ -1,20 +1,5 @@
 [
   {
-    "id": "10774134864",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10774134864-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_014bb_sHrFSxFC8hsiwXuCi3xjgZmq/310x430/67bed209.webp?s=0378b56385d9a44358538be9e31dba264375549b",
-    "addedAt": "2026-11-12T07:32:52.847Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10774219409",
     "category": "Console",
     "title": "Chargeur Xbox one",
@@ -24746,7 +24731,12 @@
     "url": "https://www.vinted.it/items/10835243223-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00e68_Hd2d19f5WcboK9bUGvmGts9T/310x430/fb40fa94.webp?s=fc1385bbc6915e7b8474ddf98261f516847ff82a",
     "addedAt": "2026-11-16T07:31:00.757Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox One\nOttime·Microsoft·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox One, voll funktionsfähig.\n\nMit Controller, HDMI Kabel, und Netzteil.\nDie Konsole ist voll funktionsfähig und wurde zurückgesetzt.\nDie Originalverpackung kann ich leider nicht mehr finden.\nLeichte Kratzer auf der Oberseite, die üblichen Gebrauchsspuren.\n\nBei Fragen gerne melden.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Leichte Kratzer auf la Oberseite, übliche Gebrauchsspuren, keine OVP",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.8
   }
 ]
