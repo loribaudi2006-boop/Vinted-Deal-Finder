@@ -1,23 +1,5 @@
 [
   {
-    "id": "10777006446",
-    "category": "Console",
-    "title": "ps4 500gb n.2 joystick",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10777006446-ps4-500gb-n2-joystick?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_015c3_PAiKkFY5SarnCexD88wdHCYq/310x430/f17c92e4.webp?s=5cd9caddbac3130d3dabc6d4dc984e40e96fe277",
-    "addedAt": "2026-11-12T12:29:42.763Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nVenduto\nps4 500gb n.2 joystick\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 500 gb con 2 joystick e relativi cavi\nSpedizione\nda 4,09 €",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
     "id": "10777383524",
     "category": "Console",
     "title": "Sony Playstation 4 Ps4 nera",
@@ -24522,5 +24504,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10838236355",
+    "category": "Console",
+    "title": "Nintendo Switch 2 - Leerkarton mit Inlays & Handgelenkschlaufen",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10838236355-nintendo-switch-2-leerkarton-mit-inlays-handgelenkschlaufen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01953_t2wNYQKze38gmv798dBD5ZYE/310x430/2a6ac381.webp?s=65682ad030619e89bee5f78f7522e05ae22d5119",
+    "addedAt": "2026-11-16T12:33:03.869Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-20€, sotto soglia"
+  },
+  {
+    "id": "10838259629",
+    "category": "Console",
+    "title": "Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10838259629-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00c5c_ctWXeFkjRY7JjAFr9UFAThKj/310x430/f437c396.webp?s=ed8d4959238c2a6487d468763a8fca74df79c6c9",
+    "addedAt": "2026-11-16T12:35:07.731Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nOttime·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nVends switch en très bon état, mise à part le bouton RZ qui ne fonctionne plus suite à une chute\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il tasto RZ non funziona più a seguito di una caduta",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 60.3
   }
 ]
