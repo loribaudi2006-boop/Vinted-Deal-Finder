@@ -24605,8 +24605,11 @@
     "url": "https://www.vinted.it/items/10834648042-ps5-original-cover-plates?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_012e7_6g4Pp9VZA4tbyEaeFkrYs17N/310x430/158ab83d.webp?s=a487d6a581661b01840cc92bba7a6acb3676ac7b",
     "addedAt": "2026-11-16T04:31:33.600Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10834793671",
