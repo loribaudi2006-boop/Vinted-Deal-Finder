@@ -24537,5 +24537,46 @@
     "geminiFault": "Il tasto RZ non funziona più a seguito di una caduta",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "10838378846",
+    "category": "Console",
+    "title": "Scatola per Xbox series X",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 92% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/10838378846-scatola-per-xbox-series-x?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00a3c_bmtjdAkqqtxVoCRJoLN7X2gy/310x430/b225437c.webp?s=0be29fb52c8f2406d29d12a46d6c79a4dd1da27c",
+    "addedAt": "2026-11-16T12:44:24.426Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-17.2€, sotto soglia"
+  },
+  {
+    "id": "10838452043",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10838452043-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0084f_FvUyB66RnREfhGVepWzcKwQc/310x430/0f95f417.webp?s=06633d6a8aca462a94d6c3d8d34b7b87d258af5e",
+    "addedAt": "2026-11-16T12:49:33.896Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10838439534",
+    "category": "Console",
+    "title": "Boîte vide PS5 d'origine avec cales et manuels",
+    "price": 8,
+    "totalPrice": 9.1,
+    "reason": "prezzo 98% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10838439534-boite-vide-ps5-dorigine-avec-cales-et-manuels?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0063c_wdE6Mv25zXp5KUyVyb37nQJ4/310x430/275776ba.webp?s=79bb1118689a494ae4ae025a9edf125d7fd1f0c2",
+    "addedAt": "2026-11-16T12:49:33.896Z",
+    "processed": false,
+    "triaged": false
   }
 ]
