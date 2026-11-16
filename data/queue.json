@@ -1,20 +1,5 @@
 [
   {
-    "id": "10785331408",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10785331408-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00e15_UvwWxkgrfqEUs3ZPFbfaUbj8/310x430/097c3955.webp?s=9f0c225175f5e779a13c295c4d690830a11ed1ab",
-    "addedAt": "2026-11-12T23:02:13.903Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.3€, sotto soglia"
-  },
-  {
     "id": "10785522371",
     "category": "Console",
     "title": "Xbox One avec jeux et manette",
@@ -24333,5 +24318,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10847255034",
+    "category": "Console",
+    "title": "Looking for a PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10847255034-looking-for-a-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01f1e_1zNHGEwRMw3xrASkHJDSxR4B/310x430/cafcdffa.webp?s=0bfd210374a9a3f79e9fc95308ff9bbef35ef072",
+    "addedAt": "2026-11-16T23:10:21.516Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10847299188",
+    "category": "Console",
+    "title": "Xbox One 1ère génération",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10847299188-xbox-one-1ere-generation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02337_grwJxgeN4ySRiaCYJPNPNjrU/310x430/935fd2cc.webp?s=5a2617983dcadf0f2a62ace59805aa09e960230f",
+    "addedAt": "2026-11-16T23:15:29.577Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.05€, sotto soglia"
   }
 ]
