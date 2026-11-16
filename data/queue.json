@@ -24690,5 +24690,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10835038165",
+    "category": "Console",
+    "title": "Ps5 recherche",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10835038165-ps5-recherche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_015e9_THFGWCTZ5iDchwoyhDBSeVMX/310x430/56389b5c.webp?s=91219c1dbe83f2489bbf24cec553b601a71d320d",
+    "addedAt": "2026-11-16T06:33:54.993Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10835059297",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10835059297-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_016ff_G9YoEqKxiL2pMr2EkUBZPAjY/310x430/f1dc1213.webp?s=4677065aa4ac91b8f58702fb2dd691f801b37a04",
+    "addedAt": "2026-11-16T06:41:10.690Z",
+    "processed": false,
+    "triaged": false
   }
 ]
