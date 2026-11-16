@@ -24348,5 +24348,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~27.05€, sotto soglia"
+  },
+  {
+    "id": "10847350240",
+    "category": "Console",
+    "title": "PlayStation 4 Slim noire avec câbles",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10847350240-playstation-4-slim-noire-avec-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014ae_83hxWWJTT429MiqBeXH7bi3Y/310x430/94bda76e.webp?s=f23ba9a535853899e1098ff240f50b02cfd12df4",
+    "addedAt": "2026-11-16T23:22:41.018Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
