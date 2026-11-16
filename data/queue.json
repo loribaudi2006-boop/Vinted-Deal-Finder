@@ -1,23 +1,5 @@
 [
   {
-    "id": "10774128110",
-    "category": "Console",
-    "title": "J’aimerais avoir une ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10774128110-jaimerais-avoir-une-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_023a1_aNJxPVVHHY4zvqC8q3PjjvQp/310x430/f75f3f62.webp?s=ebcdd4cfd7105e4c794f0a64a0fa31586161c117",
-    "addedAt": "2026-11-12T07:30:48.592Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nJ’aimerais avoir une ps5\nNuovo senza cartellino·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nJ’ai toujours rêvé d’avoir une ps5 et pour moi tout les don compte même les plus petit\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 300
-  },
-  {
     "id": "10774134864",
     "category": "Console",
     "title": "Playstation 4",
@@ -24735,5 +24717,36 @@
     "geminiFault": "I controller funzionano solo se collegati via cavo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10835232602",
+    "category": "Console",
+    "title": "Switch 1 et boite a switch",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10835232602-switch-1-et-boite-a-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0063e_sLob5k33T14ksRjZZVEDArbE/310x430/1ad89009.webp?s=57788193cb9304da1de9ecd93be578191035490d",
+    "addedAt": "2026-11-16T07:28:56.357Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch 1 et boite a switch\nOttime·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nL’écran de protection et enlever\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "L'écran de protection en moins (manca la pellicola protettiva)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 65.35
+  },
+  {
+    "id": "10835243223",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10835243223-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00e68_Hd2d19f5WcboK9bUGvmGts9T/310x430/fb40fa94.webp?s=fc1385bbc6915e7b8474ddf98261f516847ff82a",
+    "addedAt": "2026-11-16T07:31:00.757Z",
+    "processed": false,
+    "triaged": false
   }
 ]
