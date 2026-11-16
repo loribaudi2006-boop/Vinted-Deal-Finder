@@ -24702,5 +24702,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10832742075",
+    "category": "Console",
+    "title": "PlayStation 5 complet",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10832742075-playstation-5-complet?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b30_jurx5YuC3kX1htHen5QoAuhL/310x430/29f1a708.webp?s=35a8eb50673260e829332bee83cde54c3e49d41b",
+    "addedAt": "2026-11-16T07:06:05.334Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10835164803",
+    "category": "Console",
+    "title": "Playstation 4 1TB mit Controller",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10835164803-playstation-4-1tb-mit-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01a2b_H5DyfJyJYELcx7npCRdZU1iL/310x430/2bbbdc17.webp?s=f5440bf52172969dd4c38b6386f1fb6e7e01520c",
+    "addedAt": "2026-11-16T07:11:16.688Z",
+    "processed": false,
+    "triaged": false
   }
 ]
