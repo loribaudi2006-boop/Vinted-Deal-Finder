@@ -1,20 +1,5 @@
 [
   {
-    "id": "10775295498",
-    "category": "Console",
-    "title": "Protectora de mando switch",
-    "price": 2,
-    "totalPrice": 2.8,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10775295498-protectora-de-mando-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01a95_cR35GbX1U4oCYASPW7zGjUXU/310x430/33b3f8fd.webp?s=76e66d4db96e0e4ac245b7747b0c0b3480937207",
-    "addedAt": "2026-11-12T10:02:45.418Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~5€, sotto soglia"
-  },
-  {
     "id": "10775402151",
     "category": "Console",
     "title": "Ps4 pro",
@@ -24668,8 +24653,13 @@
     "url": "https://www.vinted.it/items/10836410431-switch-lite-bleu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a44_ysN55TaAyBduNWL9tq89fBpp/310x430/a036386b.webp?s=14d63f1bfced38245128110a65ca018ad1d355be",
     "addedAt": "2026-11-16T10:02:33.188Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite bleu\nBuone·Nintendo·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nSwitch lite bleu\nEn bon état\n( Joystick manque caoutchouc et côté gauche petit bout casser)\nSinon en bon état\nMarche très bien\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Joystick manca di gommino e piccolo pezzo rotto sul lato sinistro",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   },
   {
     "id": "10836415164",
@@ -24681,7 +24671,9 @@
     "url": "https://www.vinted.it/items/10836415164-switch-lite-bleu?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0082c_jzKhAiDCnGyCACFqAFnobYeq/310x430/31054207.webp?s=57328510cd4d0ddacec5172a69a718c8221861c0",
     "addedAt": "2026-11-16T10:02:33.189Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
