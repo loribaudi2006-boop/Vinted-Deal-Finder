@@ -1,23 +1,5 @@
 [
   {
-    "id": "10782739617",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10782739617-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01648_9GwL38k37ADVveLvdYJfsHB2/310x430/41f3556a.webp?s=889bfff7ffff5188d9a9ebea8326c95a6a13e18e",
-    "addedAt": "2026-11-12T19:19:02.120Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nBuone·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nTutto funzionante , vendo perché non la uso più oerò funziona\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 77.35
-  },
-  {
     "id": "10782892613",
     "category": "Console",
     "title": "PlayStation Vita PSVITA 1000 OLED - Non funzionante / Da riparare o ricambi",
@@ -24393,5 +24375,53 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10844362242",
+    "category": "Console",
+    "title": "Lot pour Switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10844362242-lot-pour-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02609_BwBqbYP2cjs8iA54qpdUiMQD/310x430/da0a937c.webp?s=4284114231663d268a0d746203b649cdb4c97bb3",
+    "addedAt": "2026-11-16T19:19:45.090Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10844483973",
+    "category": "Console",
+    "title": "Cerco PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10844483973-cerco-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0090d_NQVbM1oUwEit6Gnif4kcAJij/310x430/34bc1531.webp?s=8be6106290ba46ab1d6c134dd993411587f3f813",
+    "addedAt": "2026-11-16T19:27:01.862Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10844471596",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10844471596-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_019f4_QzqGFp8Uv62Pe3xC5dej9qqb/310x430/2b4172a9.webp?s=faf8578110f5d42aa58539733100fe05193ae98a",
+    "addedAt": "2026-11-16T19:27:01.862Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nOttime·Nintendo·Caricato un minuto fa\n\n25,00 €\n\n26,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo Switch\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 103.05
   }
 ]
