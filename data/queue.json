@@ -1,21 +1,5 @@
 [
   {
-    "id": "10773753225",
-    "category": "Console",
-    "title": "Xbox one black",
-    "price": 36,
-    "totalPrice": 38.5,
-    "reason": "prezzo 64% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10773753225-xbox-one-black?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0165a_FaiWYvdsDNq4bmJgPjn7N7ee/310x430/2949192b.webp?s=8ecde667f713573fd8c4e1d8043e7486b9daed39",
-    "addedAt": "2026-11-12T05:34:21.185Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10773982718",
     "category": "Console",
     "title": "Console Nintendo switch lite",
@@ -24637,6 +24621,32 @@
     "url": "https://www.vinted.it/items/10834827338-ps5-scattola-vuota?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02164_jwVgepG49mGX4qNGRa8siYPZ/310x430/1b8337d6.webp?s=bc9a1444cf427a0ef6363b78bafee5a89d420677",
     "addedAt": "2026-11-16T05:15:06.210Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10834871589",
+    "category": "Console",
+    "title": "Ps5 scattola vuota",
+    "price": 12,
+    "totalPrice": 13.3,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10834871589-ps5-scattola-vuota?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0089a_R3QunY3fqALmcjZRhX7sQ1XD/310x430/91f9766f.webp?s=e9d628d01946a2191de928d5a65d9521dd872bc3",
+    "addedAt": "2026-11-16T05:31:41.580Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10830563578",
+    "category": "Console",
+    "title": "Switch objet",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10830563578-switch-objet?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00a77_wnRMcuJyB6j6TnfryHTgt5bz/310x430/aa1034e0.webp?s=347b03a97b6b00da3c2f9e188e72527833a77681",
+    "addedAt": "2026-11-16T05:41:02.191Z",
     "processed": false,
     "triaged": false
   }
