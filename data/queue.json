@@ -1,20 +1,5 @@
 [
   {
-    "id": "10785610211",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10785610211-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0208e_Vq1ii5sJLd2ES42TCd8vPeNk/310x430/b65f84aa.webp?s=5298db2114f4bb367ad4e8fca0098f5d6de7f14c",
-    "addedAt": "2026-11-12T23:46:46.312Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~22.8€, sotto soglia"
-  },
-  {
     "id": "10785771041",
     "category": "Console",
     "title": "nintendo switch lite + 5 giochi – da riparare",
@@ -24377,8 +24362,13 @@
     "url": "https://www.vinted.it/items/10847468356-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0150a_YsdjAYCwxBuirH9oso3a24e9/310x430/19cad64a.webp?s=44ed4cd777be784a13726549ce78938c876ee06a",
     "addedAt": "2026-11-16T23:40:08.216Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlaystation 4 con giochi e controller perfettamente funzionante, vendo per inutilizzo.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   },
   {
     "id": "10847467187",
@@ -24390,7 +24380,30 @@
     "url": "https://www.vinted.it/items/10847467187-consola-sony-ps4-preto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00bda_g5pDMZjcVEi7Euhc7s2buGZZ/310x430/dd3d0960.webp?s=c32c87cd0a7c28a5092c900abaa3d1aa67f952c3",
     "addedAt": "2026-11-16T23:40:08.216Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nConsola Sony PS4 Preto\nOttime·PlayStation·Caricato un minuto fa\n\n47,00 €\n\n50,05 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsola a funcionar com 2 comandos.\nPreço negociável.\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 60
+  },
+  {
+    "id": "10847518332",
+    "category": "Console",
+    "title": "PS4 SLIM en bon état + 1  manette",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10847518332-ps4-slim-en-bon-etat-1-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00994_3HDEGbG8wy1fByGngzi9jwP4/310x430/8980b7ab.webp?s=e56b4646a19b04355c47dc1896a0483a0462b9e7",
+    "addedAt": "2026-11-16T23:49:22.801Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 SLIM en bon état + 1 manette\nBuone·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nJe mets en vente ma PS4 Slim 500Go + 1 manette, en bon était de marche car j'ai récemment acheté une ps5.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41
   }
 ]
