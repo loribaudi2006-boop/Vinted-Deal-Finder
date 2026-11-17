@@ -1,23 +1,5 @@
 [
   {
-    "id": "10787395462",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10787395462-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_000f4_XmWmTTk3r7AV27ZZiiCnEcj1/310x430/520a3235.webp?s=c75e55fdb1cbbdfec55fdf5c05b657a06de54730",
-    "addedAt": "2026-11-13T07:50:53.920Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato 35 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n35 min fa\n⚠️❗️NON COMPRARE A 1€ ❗️valuto offerte.Compresa di cavi e joystick, la vendo per inutilizzo.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 78
-  },
-  {
     "id": "10787619273",
     "category": "Console",
     "title": "Nintendo Switch Lite",
@@ -24476,5 +24458,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.05
+  },
+  {
+    "id": "10849648874",
+    "category": "Console",
+    "title": "Concours Remporter deux PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10849648874-concours-remporter-deux-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01c0b_vhtcKVhinvjwFZyBDGP6FqxW/310x430/520443cf.webp?s=145dccf1a34cd7cd7977adba27aaad9eacc90187",
+    "addedAt": "2026-11-17T07:50:27.865Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
