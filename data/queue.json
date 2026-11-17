@@ -1,20 +1,5 @@
 [
   {
-    "id": "10788739199",
-    "category": "Console",
-    "title": "Nintendo Switch Spiel Mario Galaxy 1&2",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10788739199-nintendo-switch-spiel-mario-galaxy-12?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00d19_ZAuEojM9t1ypx7yLTaKwGoLS/310x430/c5ce70ca.webp?s=3e40ae8c1714eca1e1e13d9bc59f4cf6469e9692",
-    "addedAt": "2026-11-13T10:08:52.552Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
     "id": "10789001425",
     "category": "Console",
     "title": "Étui anti poussière rgb Nintendo Switch",
@@ -24608,5 +24593,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-20€, sotto soglia"
+  },
+  {
+    "id": "10850761951",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10850761951-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c9e_wJKKTMQYNXtp9XkZz76H9GZS/310x430/f1ff58e8.webp?s=ff808832afe0764a41441219d410239552f520d6",
+    "addedAt": "2026-11-17T10:06:21.188Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~32.8€, sotto soglia"
   }
 ]
