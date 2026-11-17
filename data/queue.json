@@ -24527,5 +24527,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10849136800",
+    "category": "Console",
+    "title": "Console Nintendo Wii Bianca RVL-001 - Per pezzi di ricambio / Non testata",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "parola chiave: \"per pezzi\"",
+    "url": "https://www.vinted.it/items/10849136800-console-nintendo-wii-bianca-rvl-001-per-pezzi-di-ricambio-non-testata?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00997_EeMHGHdD9jsNqD9gV6LS5agX/310x430/7fbb9302.webp?s=2d70c8b33f95ea8da3e7d191f850ddf96b0f8459",
+    "addedAt": "2026-11-17T05:29:32.044Z",
+    "processed": false,
+    "triaged": false
   }
 ]
