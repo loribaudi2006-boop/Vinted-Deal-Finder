@@ -1,20 +1,5 @@
 [
   {
-    "id": "10785779571",
-    "category": "Console",
-    "title": "Suporte Comando PS5 / Xbox – Homem-Aranha",
-    "price": 26.9,
-    "totalPrice": 28.95,
-    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10785779571-suporte-comando-ps5-xbox-homem-aranha?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0089e_c4XfBZmvXEkPwm8VpvNzYLSV/310x430/a11f2730.webp?s=18a020ad618fc3cf3db16ba3a8c8ce7c0d605eed",
-    "addedAt": "2026-11-13T06:43:07.029Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-13.95€, sotto soglia"
-  },
-  {
     "id": "10787348506",
     "category": "Console",
     "title": "Nintendo Switch",
@@ -24512,5 +24497,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10849386427",
+    "category": "Console",
+    "title": "Boite vide switch 2",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10849386427-boite-vide-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0215a_CZkFrwDckeHX2eWk3X3dofZY/310x430/66adcd98.webp?s=e3c07bc4c88e9360bfff0cfaf89334827e444e75",
+    "addedAt": "2026-11-17T06:48:17.671Z",
+    "processed": false,
+    "triaged": false
   }
 ]
