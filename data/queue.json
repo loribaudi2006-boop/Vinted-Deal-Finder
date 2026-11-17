@@ -24586,7 +24586,10 @@
     "url": "https://www.vinted.it/items/10848327316-cerco-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01259_CjAUD5Vj42rXarTe2McJq2aC/310x430/9e59a78f.webp?s=b80925316372ec4cefdc4adc46d177c78c02b685",
     "addedAt": "2026-11-17T02:02:53.469Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
