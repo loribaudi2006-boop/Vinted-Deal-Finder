@@ -1,21 +1,5 @@
 [
   {
-    "id": "10786261423",
-    "category": "Console",
-    "title": "Switch",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10786261423-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01694_v8AuZa7woxjKybJQmEQynXDH/310x430/e1d833cd.webp?s=ca755409634169d94ecab3106b38e9412f7e61ed",
-    "addedAt": "2026-11-13T01:50:53.814Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10782221824",
     "category": "Console",
     "title": "Soporte vertical ergonómico Nintendo Switch",
@@ -24554,8 +24538,11 @@
     "url": "https://www.vinted.it/items/10848109035-lotto-2-sony-psp-1000-fat-1-nera-funzionante-1-bianca-per-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00fc7_D3hc5ZynKskmaJg8dxaABEYb/310x430/742b21ce.webp?s=a53a84786fee7108bdc7aa408bf387953b7056fa",
     "addedAt": "2026-11-17T01:25:55.751Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10848193064",
@@ -24567,6 +24554,19 @@
     "url": "https://www.vinted.it/items/10848193064-volant-ps4ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0031c_3o21BA6TK1LgPdFcHYMfEaAc/310x430/b6d64349.webp?s=13ea2de9969a01f5e40cc374bf09d64b5b253a3d",
     "addedAt": "2026-11-17T01:40:18.290Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10843935867",
+    "category": "Console",
+    "title": "Nintendo Switch OLED Modell Rot/blau  Komplettset Ovp",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 90% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10843935867-nintendo-switch-oled-modell-rotblau-komplettset-ovp?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f52_yQdZB4J3CX1jaX5sUE1zoneW/310x430/1b11f5db.webp?s=76e75eba062e60f629e9156f64d1a9333a35f271",
+    "addedAt": "2026-11-17T01:51:36.520Z",
     "processed": false,
     "triaged": false
   }
