@@ -1,23 +1,5 @@
 [
   {
-    "id": "10797391717",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10797391717-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01061_USmiUMZfZMuow3gGHnS7MbNj/310x430/b7f7f8ce.webp?s=1bdedd470b1d79df54e30d2c93cbeff678145c4e",
-    "addedAt": "2026-11-13T21:14:00.166Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\n.....\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 47.3
-  },
-  {
     "id": "10797352890",
     "category": "Console",
     "title": "Assistenza installazione Golden hen ps4",
@@ -26471,5 +26453,53 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "10860115327",
+    "category": "Console",
+    "title": "[Jeu Nintendo Switch] The Legend of Zelda: Breath of the Wild édition française",
+    "price": 38,
+    "totalPrice": 40.6,
+    "reason": "prezzo 80% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10860115327-jeu-nintendo-switch-the-legend-of-zelda-breath-of-the-wild-edition-francaise?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0090d_rGHDTLs6tQdXrzy5ewmuXCdx/310x430/6aebd1a5.webp?s=3d870667c6da5310775891fd3479fc383776bee9",
+    "addedAt": "2026-11-17T21:08:03.678Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.6€, sotto soglia"
+  },
+  {
+    "id": "10860104006",
+    "category": "Console",
+    "title": "Switch2 Konsolenkoffer Aufbewahrungsbox",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10860104006-switch2-konsolenkoffer-aufbewahrungsbox?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01c61_KGwCKX1he57sJYbXaVXoQLCx/310x430/e8632eb9.webp?s=cd671e0388ab845753cac47fc0fbec27783a9d67",
+    "addedAt": "2026-11-17T21:08:03.678Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.45€, sotto soglia"
+  },
+  {
+    "id": "10860146807",
+    "category": "Console",
+    "title": "playstation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10860146807-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0159e_4wD97RP9iG8BdBCfPxamwVai/310x430/0b0f51cb.webp?s=04c33bb52b3770326a1e939c6af552d5c79c0b3e",
+    "addedAt": "2026-11-17T21:10:07.670Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nplaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nbuono\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.3
   }
 ]
