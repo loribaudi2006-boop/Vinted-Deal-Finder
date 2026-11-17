@@ -24506,8 +24506,11 @@
     "url": "https://www.vinted.it/items/10849226040-sacoche-switch-1-mario-kart?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c83_agj4Naz6zDUMMFVonqLZRDcv/310x430/65c7a304.webp?s=b5faa3cf88c4356609070945e9e778288368edc4",
     "addedAt": "2026-11-17T05:57:30.651Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10849250440",
