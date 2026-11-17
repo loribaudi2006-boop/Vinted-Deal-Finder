@@ -24481,7 +24481,24 @@
     "url": "https://www.vinted.it/items/10849812728-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00eb8_2BwsoQ3whWVb69tzysNPcjaa/310x430/72dcbf67.webp?s=09a38a3886eb710c8afbcd215726aa306ccfdd10",
     "addedAt": "2026-11-17T08:18:27.477Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10849836865",
+    "category": "Console",
+    "title": "Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10849836865-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025ac_2CT93QCkqaRLqdBYMAr4Ae4r/310x430/d36d8d26.webp?s=d15ce1aba891fa2274b56b57705218bb0bb6b5d9",
+    "addedAt": "2026-11-17T08:23:40.178Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
