@@ -24538,8 +24538,11 @@
     "url": "https://www.vinted.it/items/10848033594-vorrei-una-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00f31_igu3SDdUGgScGSRPX4AWe37k/310x430/44862e96.webp?s=48314fb3aaa349c7f7a7ffd638bca9445a2a96ed",
     "addedAt": "2026-11-17T01:12:35.758Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10848109035",
