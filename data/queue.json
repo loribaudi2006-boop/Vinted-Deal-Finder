@@ -24656,5 +24656,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~26.3€, sotto soglia"
+  },
+  {
+    "id": "10847012904",
+    "category": "Console",
+    "title": "Caja vacía Nintendo switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10847012904-caja-vacia-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01fa0_ik8tf1Wwpny7EeNUX9hVaRzV/310x430/328e3ef1.webp?s=3b1f7a6ebfa217015bf145a61fcc2bf9584e782f",
+    "addedAt": "2026-11-17T10:25:04.958Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.95€, sotto soglia"
+  },
+  {
+    "id": "10851007872",
+    "category": "Console",
+    "title": "PlayStation 4 glacial white modello FAT 500 gb con controller e giochi",
+    "price": 51,
+    "totalPrice": 54.25,
+    "reason": "prezzo 61% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10851007872-playstation-4-glacial-white-modello-fat-500-gb-con-controller-e-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02517_4CVaRatw9KHpjhcVHLXcxnep/310x430/030ec8a6.webp?s=1a5c307f8d4265904c1bd6f5548fcfe3fba219ca",
+    "addedAt": "2026-11-17T10:28:11.426Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 glacial white modello FAT 500 gb con controller e giochi\nBuone·PlayStation·Caricato un minuto fa\n\n51,00 €\n\n54,25 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlayStation 4 glacial white 500 gb con controller e giochi Vendo PlayStation 4 bianca (modello FAT da 500GB) perfettamente funzionante, completa di cavo di alimentazione e un controller DualShock nero. f8ec06c3588c.jpg\n⚠️ Condizioni: La console funziona benissimo ed è stata testata, ma presenta qualche segno di usura e lievi imperfezioni/graffietti estetici sui bordi (visibili in foto).\n🎮 Incluso nel prezzo (o vendo anche separatamente, scrivimi in privato se ti interessa qualcosa in particolare):\nMarvel's Spider-Man\nThe Last of Us Remastered\nTom Clancy’s Ghost Recon Breakpoint\nUncharted 4: Fine di un Ladro\nFIFA 19\nSpedizione rapida e imballaggio accurato. Scrivimi pure in privato se vuoi altre foto o informazioni!\n#playstation4 #ps4 #ps4slim #ps4fat #sonyplaystation #videogiochi #gaming #console #spiderps4 #thelastofus #fifa19 #uncharted4\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Qualche segno di usura e lievi imperfezioni/graffietti estetici sui bordi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 45
   }
 ]
