@@ -1,21 +1,5 @@
 [
   {
-    "id": "10786174396",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10786174396-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00117_XXsQa1kv8eAWa82GzPnWx7BW/310x430/2f327932.webp?s=3c19c8c59cf907a95238e0a07a7cb13fa27c10ce",
-    "addedAt": "2026-11-13T01:34:10.553Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10786261423",
     "category": "Console",
     "title": "Switch",
@@ -24567,6 +24551,19 @@
     "url": "https://www.vinted.it/items/10848109035-lotto-2-sony-psp-1000-fat-1-nera-funzionante-1-bianca-per-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00fc7_D3hc5ZynKskmaJg8dxaABEYb/310x430/742b21ce.webp?s=a53a84786fee7108bdc7aa408bf387953b7056fa",
     "addedAt": "2026-11-17T01:25:55.751Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10848193064",
+    "category": "Console",
+    "title": "Volant ps4/ps5",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10848193064-volant-ps4ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0031c_3o21BA6TK1LgPdFcHYMfEaAc/310x430/b6d64349.webp?s=13ea2de9969a01f5e40cc374bf09d64b5b253a3d",
+    "addedAt": "2026-11-17T01:40:18.290Z",
     "processed": false,
     "triaged": false
   }
