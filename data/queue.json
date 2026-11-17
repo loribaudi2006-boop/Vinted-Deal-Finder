@@ -1,20 +1,5 @@
 [
   {
-    "id": "10781112063",
-    "category": "Console",
-    "title": "Pochette de switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10781112063-pochette-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01b7e_kuURpBVcdHz7HKv2FStRs8Qx/310x430/4826114a.webp?s=b367cd7ff7c5367e2e5a71df06a5015bda24f824",
-    "addedAt": "2026-11-13T06:29:45.264Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
     "id": "10785779571",
     "category": "Console",
     "title": "Suporte Comando PS5 / Xbox – Homem-Aranha",
@@ -24522,7 +24507,10 @@
     "url": "https://www.vinted.it/items/10849250440-frontalino-ps5-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00b98_rgtNgMxesPdo4SA9AK9jhGZL/310x430/e47cd28e.webp?s=adc04b2937aaf99e4f423b4574cf0ca8bea2040d",
     "addedAt": "2026-11-17T06:05:48.931Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
