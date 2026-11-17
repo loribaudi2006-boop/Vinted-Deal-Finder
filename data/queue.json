@@ -24570,8 +24570,11 @@
     "url": "https://www.vinted.it/items/10843935867-nintendo-switch-oled-modell-rotblau-komplettset-ovp?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00f52_yQdZB4J3CX1jaX5sUE1zoneW/310x430/1b11f5db.webp?s=76e75eba062e60f629e9156f64d1a9333a35f271",
     "addedAt": "2026-11-17T01:51:36.520Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10848327316",
