@@ -24483,5 +24483,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-40€, sotto soglia"
+  },
+  {
+    "id": "10847831167",
+    "category": "Console",
+    "title": "Vorrei una Ps5 Perfavore",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10847831167-vorrei-una-ps5-perfavore?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01d8d_kyYpwRVdAVjUQWgDY73WzaJ5/310x430/dcde7982.webp?s=2e43d3890317cb9f9a72bd70786652567aaa0549",
+    "addedAt": "2026-11-17T00:38:43.691Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~347.2€, sotto soglia"
   }
 ]
