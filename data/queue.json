@@ -24554,8 +24554,11 @@
     "url": "https://www.vinted.it/items/10848193064-volant-ps4ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0031c_3o21BA6TK1LgPdFcHYMfEaAc/310x430/b6d64349.webp?s=13ea2de9969a01f5e40cc374bf09d64b5b253a3d",
     "addedAt": "2026-11-17T01:40:18.290Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10843935867",
