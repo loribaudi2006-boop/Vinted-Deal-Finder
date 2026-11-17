@@ -1,23 +1,5 @@
 [
   {
-    "id": "10787721659",
-    "category": "Console",
-    "title": "Ps4 avec manette fonctionne tres bien",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10787721659-ps4-avec-manette-fonctionne-tres-bien?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02680_Nr2TJjPv96B3kMvSJyPhGcEH/310x430/c035780e.webp?s=653bf2b41e9c1805b0758aa841a2ff50f9aeffbf",
-    "addedAt": "2026-11-13T08:16:48.977Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 avec manette fonctionne tres bien\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nJe vends cette PlayStation 4 noire, accompagnée d'une manette et de tous les câbles nécessaires. Console fonctionnelle, prête à jouer mais a un defaut on ne peut pas retirer le disque manuellement mais uniquement depuis la PlayStation en allant sur option et retirer le disque. Elle est legerement fendue au niveau du bouton pour retirer le disque je vous rassure ca n empêche pas de jouer.\nOn a laissé fifa 2023 dedans car j ai plus le boîtier\n55 euros la ps4 avec manette et fifa 2023\nJ ai des jeux 5 euros le jeu en photo si besoin\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Impossibile espellere il disco con il tasto fisico (solo da menu), fessura leggermente incrinata vicino al tasto di espulsione.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.55
-  },
-  {
     "id": "10787862998",
     "category": "Console",
     "title": "PlayStation 4 zu verkaufen",
@@ -24455,5 +24437,51 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10849744153",
+    "category": "Console",
+    "title": "Nintendo Switch Sports",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10849744153-nintendo-switch-sports?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_009f2_dpwirv3yM6MWoZKiJJnpWA6R/310x430/44bf127e.webp?s=f589145512ff18ed142fa4a339cf4899176c1c0b",
+    "addedAt": "2026-11-17T08:12:13.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.3€, sotto soglia"
+  },
+  {
+    "id": "10849746446",
+    "category": "Console",
+    "title": "Playstation 4 slim",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10849746446-playstation-4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_019a7_NYw5A4Z76AwXj8kJYxKuivmy/310x430/34f966d8.webp?s=538d39d215eccaa2300597aff138c9740bec905c",
+    "addedAt": "2026-11-17T08:12:13.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 slim\nOttime·PlayStation·Caricato 5 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nPlayStation 4 slim perfettamente funzionante vendo per inutilizzo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10849812728",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10849812728-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00eb8_2BwsoQ3whWVb69tzysNPcjaa/310x430/72dcbf67.webp?s=09a38a3886eb710c8afbcd215726aa306ccfdd10",
+    "addedAt": "2026-11-17T08:18:27.477Z",
+    "processed": false,
+    "triaged": false
   }
 ]
