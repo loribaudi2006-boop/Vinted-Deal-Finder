@@ -26729,5 +26729,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10863918528",
+    "category": "Console",
+    "title": "PlayStation 5 msi monitor",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10863918528-playstation-5-msi-monitor?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_011b6_AbDyHYs6jJ8ZnCED2k3f4QAu/310x430/8e0639b0.webp?s=c995f5101fb4cbcd3f4ccc3478997e72755d17eb",
+    "addedAt": "2026-11-18T08:34:50.871Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 5 msi monitor\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\nProprio adesso\nNIET GELIJK KOPEN VIA DE ADVERTENTIE BIEDEN KAN IN CHAT !!!!!\n\nPlayStation 5 heeft 2 controllers en nog een jaar garantie de monitor is 24 inch curved monitor ook met een jaar garantie prachtige set up voor niewe gamers\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 320
+  },
+  {
+    "id": "10863921853",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10863921853-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00cdf_CvL5o1XiuL4DAkHrxMZkh146/310x430/d9e38fb8.webp?s=5068ea69ebfaada51578a2653f2c2f12fe3cf9bb",
+    "addedAt": "2026-11-18T08:35:53.094Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch Lite\nBuone·Nintendo·Caricato un minuto fa\n\n59,00 €\n\n62,65 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nFonctionne très bien même si joystick abîmé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "joystick abîmé",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 37.35
   }
 ]
