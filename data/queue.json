@@ -26459,8 +26459,11 @@
     "url": "https://www.vinted.it/items/10862373774-mandos-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_01601_1sa3rAZoKxhw2ScaatNyApkU/310x430/e8d1f262.webp?s=f6f5ae91392d3050d7872fa5efa0bb09afef84d1",
     "addedAt": "2026-11-18T02:04:37.522Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10862474614",
