@@ -26519,8 +26519,11 @@
     "url": "https://www.vinted.it/items/10863300912-switch-1-v2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01dc9_dWtPb8cDnrphb1qVAW4HTFne/310x430/d524a402.webp?s=6f6f490fd3c9fa1b830717b9d8e441793d71fc4e",
     "addedAt": "2026-11-18T06:26:34.964Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10863283978",
@@ -26532,8 +26535,11 @@
     "url": "https://www.vinted.it/items/10863283978-recherche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01ac1_6BkJ96ND2mBgNUCLAzmz2bVC/310x430/cda19b8a.webp?s=07370c073b505506a42ded62723855961bf8ab5c",
     "addedAt": "2026-11-18T06:26:34.965Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10863343128",
@@ -26545,8 +26551,10 @@
     "url": "https://www.vinted.it/items/10863343128-ps4-con-mandos?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00da9_Rfr6XxtzRE9JKTbk75NnDGXc/310x430/fb0526d9.webp?s=75f4deaa5c41b2bc3c4c44c2bd8854759ae34217",
     "addedAt": "2026-11-18T06:31:45.473Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10863369290",
@@ -26558,8 +26566,13 @@
     "url": "https://www.vinted.it/items/10863369290-ps4-slim-500gb-senza-pad?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_024aa_suiDcRAEnscEhheBV6tPcyyt/310x430/0db343c7.webp?s=850ade99ed098022827839208645d9b6064b2ba1",
     "addedAt": "2026-11-18T06:40:01.511Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nVenduto\nPS4 Slim 500gb senza pad\nOttime·PlayStation·Caricato 21 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n21 min fa\nvendo questa ps4 per inutilizzo con 4 giochi\nSpedizione\nda 4,09 €",
+    "geminiFault": "senza pad",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   },
   {
     "id": "10863367522",
@@ -26571,7 +26584,27 @@
     "url": "https://www.vinted.it/items/10863367522-nintendo-switch-oled-dock-station?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_013b2_k7f88uuUQLZYfksjfiKwhtVz/310x430/af160ece.webp?s=4d6a0ae904a531957d9d15382af61e19b181c9e1",
     "addedAt": "2026-11-18T06:40:01.511Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.8€, sotto soglia"
+  },
+  {
+    "id": "10863435068",
+    "category": "Console",
+    "title": "Ps4 sans manettes",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10863435068-ps4-sans-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0051a_eJYxGyNUxEPgypu9XDkc55RG/310x430/250d1131.webp?s=d595be2939fa8d75134f491a49799efae64097ee",
+    "addedAt": "2026-11-18T06:58:38.880Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 sans manettes\nDiscrete·PlayStation·Caricato 2 min fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 min fa\nBon jour, je vend ma ps4 sans manettes car je ne les ai plus.\nElle a un défaut au niveau de la prise HDMI. Sinon marche bien dans l’ensemble.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Difetto al livello della presa HDMI, senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 47.3
   }
 ]
