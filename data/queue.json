@@ -1,20 +1,5 @@
 [
   {
-    "id": "10800470348",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10800470348-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_024a0_jrpJJCpAMc6m3sy3hB8eX4hj/310x430/4b89183f.webp?s=0d0a4d9c2e3aa0f9d4e1493ed3d03cc7641670bd",
-    "addedAt": "2026-11-14T07:49:07.482Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10800559573",
     "category": "Console",
     "title": "Switch joycon stick decor",
@@ -26617,8 +26602,13 @@
     "url": "https://www.vinted.it/items/10863647997-playstation-4-slim-guasta?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01901_s1diwoZbc9KuQEw9W2oBrSaz/310x430/aa768d2d.webp?s=420a29855031dcd7fecacc107d6560444f3f4968",
     "addedAt": "2026-11-18T07:46:12.545Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 slim guasta\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nps4 guasta mi da l’errore in foto per il resto è in buone condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "errore in foto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   },
   {
     "id": "10863645064",
@@ -26630,7 +26620,30 @@
     "url": "https://www.vinted.it/items/10863645064-xbox-one-original-verpackung-inkl-mit-kamara?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01aca_qz7NXfWjzSaHLyUHvhDkh3oh/310x430/b55d9582.webp?s=ad4236af577524a122a3cfbb56d0cc521b502a01",
     "addedAt": "2026-11-18T07:46:12.545Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "talogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one original Verpackung inkl. mit kamara\nBuone·Xbox·Caricato un minuto fa\n\n35,00 €\n\n37,45 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nMit Kamera allen Kabeln und Konsole in guten Zustand.\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.55
+  },
+  {
+    "id": "10863669517",
+    "category": "Console",
+    "title": "Ps4+comando+jogos",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10863669517-ps4comandojogos?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02279_sJLMr2LGyDtKznAZPmbQRDoN/310x430/50d8e64e.webp?s=d3847e89004482a7bf389aa4e3467f4af63ecab4",
+    "addedAt": "2026-11-18T07:50:22.082Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4+comando+jogos\nOttime·PlayStation·Caricato proprio adesso\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 a funcionar perfeitamente e mesmo assim a ps4 continua a ser uma excelente consola em 2026 os jogos e comando estam incluídos\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   }
 ]
