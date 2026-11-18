@@ -27812,5 +27812,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10875146712",
+    "category": "Console",
+    "title": "Ventilador para ps5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10875146712-ventilador-para-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00716_SPpDQYEzUae6Umu7cZdJ3Kf9/310x430/ef7977b6.webp?s=deb7e577e48a9004e6424d04929b6f49d9dcc4c8",
+    "addedAt": "2026-11-18T22:40:28.001Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10875145813",
+    "category": "Console",
+    "title": "Socle switch 1",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10875145813-socle-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_002f3_Dy4Q7HpN5TLjZg7Cq6hqsfwJ/310x430/f10a1185.webp?s=72a9bdc87b4bae8f1a76ec7b622c102413262040",
+    "addedAt": "2026-11-18T22:40:28.001Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.3€, sotto soglia"
   }
 ]
