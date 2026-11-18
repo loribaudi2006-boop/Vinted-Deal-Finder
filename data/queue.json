@@ -26603,5 +26603,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.56€, sotto soglia"
+  },
+  {
+    "id": "10863567488",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10863567488-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01286_mDLpX4q1jLr4XFJDfxKjjgTZ/310x430/c6b11416.webp?s=c94ff1a233fca38dd1a2dd317be38131791288b9",
+    "addedAt": "2026-11-18T07:30:42.272Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch lite\nBuone·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\nFonctionnel, bon état, sans jeux\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Fonctionnel, bon état, sans jeux",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
   }
 ]
