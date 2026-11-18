@@ -26491,8 +26491,11 @@
     "url": "https://www.vinted.it/items/10862973166-xbox-series-s-1tb-con-mando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0158b_fUr1z6LEhnZdS8rstLcupAvH/310x430/37bbe312.webp?s=26b0b8cbdc0be0363190583b94bf6ed933af4511",
     "addedAt": "2026-11-18T04:19:43.747Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10863028294",
