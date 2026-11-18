@@ -1,20 +1,5 @@
 [
   {
-    "id": "10813727733",
-    "category": "Console",
-    "title": "Pochette Switch Zelda",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10813727733-pochette-switch-zelda?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00f81_1TfB9c8iHtFryQ4BE2sUm1uD/310x430/1fd00155.webp?s=84716a87be1cd76d3e131b1b3d05f4f257d47256",
-    "addedAt": "2026-11-14T23:39:06.416Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.8€, sotto soglia"
-  },
-  {
     "id": "10813887109",
     "category": "Console",
     "title": "Lettore dischi ps5",
@@ -27826,6 +27811,21 @@
     "url": "https://www.vinted.it/items/10875504902-je-recherche-une-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0116d_DFU6WYwVYr6TfW3332HpUPiD/310x430/808e5365.webp?s=7d0fe5dc024c4e4517d5f5ae9fa781b3f03054b1",
     "addedAt": "2026-11-18T23:31:13.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10875543713",
+    "category": "Console",
+    "title": "Cerco PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10875543713-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_005c3_LMRvft4h4Yv9BoSGuLzmUXTA/310x430/43f54e48.webp?s=d8fdb097dc4eb27174cdd8289b9e4833a3d486d0",
+    "addedAt": "2026-11-18T23:38:28.094Z",
     "processed": true,
     "triaged": true,
     "triageResult": "discard",
