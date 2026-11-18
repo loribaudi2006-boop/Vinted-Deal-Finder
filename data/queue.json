@@ -27850,8 +27850,10 @@
     "url": "https://www.vinted.it/items/10875249731-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00598_NDC2k8cxmMTba4CeyCFwR57f/310x430/3fa47dd8.webp?s=15b2a52dce9bd59f21a6fbc24ce08ec8af2fe05f",
     "addedAt": "2026-11-18T22:53:55.842Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10875241835",
@@ -27878,7 +27880,27 @@
     "url": "https://www.vinted.it/items/10875258385-ps4-sony?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00813_eM34gdjuRiGfjw7yG5G7zLor/310x430/cef225d5.webp?s=ca2fa42b7a5fd140647a782de3fc58361abadaf1",
     "addedAt": "2026-11-18T22:54:58.235Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10875316721",
+    "category": "Console",
+    "title": "vendo PS4 perfettamente funzionante mancante controller",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "parola chiave: \"manca\"",
+    "url": "https://www.vinted.it/items/10875316721-vendo-ps4-perfettamente-funzionante-mancante-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01477_Cd432QvAowpzrz5STxbY47TY/310x430/acccd681.webp?s=3c3db1f452f32248768e6b55a482a1fe79c57fd4",
+    "addedAt": "2026-11-18T23:04:17.449Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nvendo PS4 perfettamente funzionante mancante controller\nBuone·Sony·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlayStation 4 di cui manca il controller ma funziona perfettamente\n-in omaggio GTA 5\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "mancante controller",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 68.25
   }
 ]
