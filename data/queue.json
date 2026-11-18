@@ -1,23 +1,5 @@
 [
   {
-    "id": "10800273293",
-    "category": "Console",
-    "title": "Xbox one X bien lire la description",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10800273293-xbox-one-x-bien-lire-la-description?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00faa_nYmuTjr1FiqNbgKAKMrGww9V/310x430/1b08f81c.webp?s=881850b4247a9b76be604e787571f710862a320d",
-    "addedAt": "2026-11-14T07:09:54.157Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "talogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox one X bien lire la description\nBuone·Microsoft·Caricato un minuto fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\nun minuto fa\nXbox one X blanche vendu sans disque dur et une nappe de connexion et casser idéal pour bricoleur et connaisseur pour réinstaller le disque et l’OS de Microsoft et réparer la nappe casser ou juste pour pièces tout fonctionne hormis ça vous pouvez me faire une offre\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza hard disk, nappe di connessione rotte, da riparare o per pezzi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 42.8
-  },
-  {
     "id": "10800336401",
     "category": "Console",
     "title": "Écran switch + accessoires",
@@ -26606,5 +26588,23 @@
     "geminiFault": "Difetto al livello della presa HDMI, senza controller",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 47.3
+  },
+  {
+    "id": "10863492813",
+    "category": "Console",
+    "title": "écran nintendo switch à réparer",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10863492813-ecran-nintendo-switch-a-reparer?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_016ff_V3HtVaFEy8stJtSXt5tSowao/310x430/072e25c8.webp?s=da94c3df0e7b04dc342a887cf2c660906a1a9558",
+    "addedAt": "2026-11-18T07:14:09.789Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "tenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nécran nintendo switch à réparer\nOttime·Nintendo·Caricato un minuto fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nécran s’allume pas\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "écran s’allume pas",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 87.8
   }
 ]
