@@ -26480,5 +26480,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.35€, sotto soglia"
+  },
+  {
+    "id": "10861823992",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10861823992-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00d82_KD5eXyjzVEDV5NuRfCfz1Crh/310x430/a0c1a565.webp?s=bfdb4284147de9128aede7e6c39a99d6a0fdf9b0",
+    "addedAt": "2026-11-18T00:27:43.100Z",
+    "processed": false,
+    "triaged": false
   }
 ]
