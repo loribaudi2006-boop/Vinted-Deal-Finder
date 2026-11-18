@@ -1,23 +1,5 @@
 [
   {
-    "id": "10813017219",
-    "category": "Console",
-    "title": "Ps4 usata",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10813017219-ps4-usata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01dc0_2shDHpSUDbQoVCLaczrGbZbC/310x430/da04448e.webp?s=3bd3b218d0c0340b4d0b0866f0223324067c8536",
-    "addedAt": "2026-11-14T22:05:02.220Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 usata\nOttime·Sony·Caricato 2 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nConsole originale ottime condizioni funzionante con un joystik vari giochi non comprare a 1\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 93
-  },
-  {
     "id": "10813193482",
     "category": "Console",
     "title": "Lot tablette  lenovo tab P11 gen 2 et étui de Nintendo switch",
@@ -27817,8 +27799,13 @@
     "url": "https://www.vinted.it/items/10874821144-cherche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02579_WTL1RRcqHF61p9CZeXYB1s2o/310x430/d2fa5768.webp?s=66e64247f7219e88ba801e0dcbf29794eac57a0a",
     "addedAt": "2026-11-18T22:04:08.243Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nCherche ps5\nOttime·PlayStation·Caricato 2 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\n2 min fa\nJe peux faire des échanges contre des beau habits aussi\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
   },
   {
     "id": "10874815028",
@@ -27837,5 +27824,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 300
+  },
+  {
+    "id": "10874903880",
+    "category": "Console",
+    "title": "Inserto Frontale PS5 \"PlayStation Edition\" frontalino PlayStation 5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10874903880-inserto-frontale-ps5-playstation-edition-frontalino-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c74_w4sQyKwZyDLZMvSXWNQ4CJQm/310x430/3967322f.webp?s=bec502baea9f6151fe597b0753a9413b5ba5c228",
+    "addedAt": "2026-11-18T22:13:31.384Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.8€, sotto soglia"
   }
 ]
