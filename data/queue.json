@@ -26475,7 +26475,10 @@
     "url": "https://www.vinted.it/items/10862474614-nitendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01d51_SZsYmxTafTuQVXiccQSZE83H/310x430/e9f9c791.webp?s=bcfb732e1943f5ea43c359ce9012f0062ac19584",
     "addedAt": "2026-11-18T02:22:09.336Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
