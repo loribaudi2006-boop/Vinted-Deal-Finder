@@ -26464,5 +26464,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10862945811",
+    "category": "Console",
+    "title": "Nintendo Switch oled",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 81% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10862945811-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_023c4_k8AqFnGFrSYZY15jssEcB5LP/310x430/3511b57a.webp?s=ea8c572b9f94c2aca8b84af659e535920aad6be0",
+    "addedAt": "2026-11-18T04:11:27.875Z",
+    "processed": false,
+    "triaged": false
   }
 ]
