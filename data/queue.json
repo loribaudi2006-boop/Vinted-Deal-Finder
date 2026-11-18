@@ -1,38 +1,5 @@
 [
   {
-    "id": "10811748009",
-    "category": "Console",
-    "title": "Ps4+2jeux",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10811748009-ps42jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02575_fEtxr4Qi3L6qAkiN7u4TckSQ/310x430/ae979389.webp?s=7f6fb843b400fba0128b16d2f2ce12e0218a78d4",
-    "addedAt": "2026-11-14T20:24:39.105Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4+2jeux\nDiscrete·PlayStation·Caricato proprio adesso\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nPs4(sans cable+pas de manette) + gta5 (sans boite) + fifa20\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza cavi, senza controller, GTA 5 senza custodia",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 32.3
-  },
-  {
-    "id": "10811830173",
-    "category": "Console",
-    "title": "Xbox One S qui ne détecte plus les manettes",
-    "price": 44.99,
-    "totalPrice": 47.94,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10811830173-xbox-one-s-qui-ne-detecte-plus-les-manettes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_013cc_3nrkuEPt2Fx9cpFHmZuQBJtr/310x430/8405ff00.webp?s=edf4c7cd07cbf4babf9cab6b915da33b72dfdfab",
-    "addedAt": "2026-11-14T20:30:49.446Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10811903348",
     "category": "Console",
     "title": "Playstation 4",
@@ -27389,5 +27356,23 @@
     "geminiFault": "Controller non originale (compatibile da negozio cinese)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10873652853",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10873652853-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00970_VPkDkEPBgNVV51bmrWVbqGm2/310x430/966865bb.webp?s=b80de1d72a84d4ebf6b4277be980df9ae9c1bd0e",
+    "addedAt": "2026-11-18T20:33:49.878Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nNoch sehr gut, für fragen bitte melden\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   }
 ]
