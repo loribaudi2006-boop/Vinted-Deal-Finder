@@ -1,20 +1,5 @@
 [
   {
-    "id": "10808199476",
-    "category": "Console",
-    "title": "Ventilateur de refroidissement PlayStation 5 lumineux multifonction",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10808199476-ventilateur-de-refroidissement-playstation-5-lumineux-multifonction?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0152d_2YDKL4GP1YncCnkxxgBmrbFs/310x430/86b28b53.webp?s=4a6e4d891d39f476c7cdd8076ec7ad0fc2267625",
-    "addedAt": "2026-11-14T16:38:37.219Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~8.55€, sotto soglia"
-  },
-  {
     "id": "10808352031",
     "category": "Console",
     "title": "Xbox One",
@@ -26465,5 +26450,53 @@
     "geminiFault": "Ogni tanto si disconnette il joy-con quando è collegato alla console, piccola fessura sul bordo dello schermo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "10870180003",
+    "category": "Console",
+    "title": "xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10870180003-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_006e8_qpSuq1Fo5vtPijzcQ4eDQMeF/310x430/093b56e8.webp?s=683823629decc8811ad0db7db50a7400b779fde0",
+    "addedAt": "2026-11-18T16:40:06.597Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
+  },
+  {
+    "id": "10870213856",
+    "category": "Console",
+    "title": "Steelbook officiel PlayStation 20th Anniversary (édition limitée PS4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10870213856-steelbook-officiel-playstation-20th-anniversary-edition-limitee-ps4-vide-sans-jeu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012cb_Z29wJakWNCKtD9fwoqTC3qeN/310x430/7a79cfb0.webp?s=01a730bf6fc8cb8cc2466f12e3befa7d4b2e05fc",
+    "addedAt": "2026-11-18T16:42:10.803Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.05€, sotto soglia"
+  },
+  {
+    "id": "10870223108",
+    "category": "Console",
+    "title": "Playstation 4pro",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10870223108-playstation-4pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01572_f2xKfXTxDm3dYkTjP7yc4pJ4/310x430/ff2113d4.webp?s=075ba715d5bb0f1586aff093729ea6435930ed86",
+    "addedAt": "2026-11-18T16:43:12.917Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4pro\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\n🎮 VENDO PLAYSTATION 4 PRO – 50€\n\nVendo PlayStation 4 Pro usata, in buone condizioni e funzionante.\n\nOttima per divertirsi con tantissimi giochi e godersi le proprie sessioni di gaming!\n\n💰 Prezzo: 50€\n📦 Disponibile da subito.\n📩 Per informazioni o foto, scrivetemi in privato!\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.8
   }
 ]
