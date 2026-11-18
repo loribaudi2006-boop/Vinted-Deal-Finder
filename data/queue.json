@@ -26491,7 +26491,12 @@
     "url": "https://www.vinted.it/items/10861823992-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00d82_KD5eXyjzVEDV5NuRfCfz1Crh/310x430/a0c1a565.webp?s=bfdb4284147de9128aede7e6c39a99d6a0fdf9b0",
     "addedAt": "2026-11-18T00:27:43.100Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nVerkaufe meine PlayStation 4 mit Kabeln\n\nSehr gepflegt und sauber gehalten alles funktioniert\n\nOhne Controller!!\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller (Ohne Controller)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.3
   }
 ]
