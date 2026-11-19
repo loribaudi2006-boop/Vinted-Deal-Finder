@@ -1,23 +1,5 @@
 [
   {
-    "id": "10815852336",
-    "category": "Console",
-    "title": "PlayStation 4 avec jeux",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10815852336-playstation-4-avec-jeux?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01cd9_zJzibohuCYbf8VNmyhtLdkUQ/310x430/bc16b2e2.webp?s=d5cc9e78a3c97640d644e568c102597e6246eea3",
-    "addedAt": "2026-11-15T07:44:48.472Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 avec jeux\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nIdéal pour offrir cadeau noël ect console Playstation 4 avec jeux et une manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10815988397",
     "category": "Console",
     "title": "Sony PlayStation 4 PS4 Fat funzionante con 2 giochi e cavi",
@@ -27633,5 +27615,20 @@
     "geminiFault": "La console s'allume, le cd entre et sort, mais pas d'image sur le televiseur",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.55
+  },
+  {
+    "id": "10877529055",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10877529055-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00b17_TrmtgiFFCPAx1gpEipruxfJD/310x430/4d94f08f.webp?s=fbdddf6c7c803827208f0f2c91b439b2090bff87",
+    "addedAt": "2026-11-19T07:40:04.578Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.8€, sotto soglia"
   }
 ]
