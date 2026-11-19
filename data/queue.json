@@ -27673,5 +27673,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10877037634",
+    "category": "Console",
+    "title": "Psp batteria guasta",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "parola chiave: \"guasta\"",
+    "url": "https://www.vinted.it/items/10877037634-psp-batteria-guasta?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01fb1_rxCMskmja3tdjCqM3V3Honjd/310x430/db517514.webp?s=6311e41ca9f4a57211d52e2a7300c0d34beb7527",
+    "addedAt": "2026-11-19T05:05:01.988Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10877044380",
+    "category": "Console",
+    "title": "PS5 mannete enchères",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10877044380-ps5-mannete-encheres?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00e2a_gjE4Vm6m5jkRsHYeaV7sCauD/310x430/da49e37f.webp?s=3de5cc90c8a324e728576d33ac4deed02bb47fdf",
+    "addedAt": "2026-11-19T05:07:05.364Z",
+    "processed": false,
+    "triaged": false
   }
 ]
