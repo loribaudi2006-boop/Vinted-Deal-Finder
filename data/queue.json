@@ -1,21 +1,5 @@
 [
   {
-    "id": "10814691087",
-    "category": "Console",
-    "title": "Xbox One Forza Edition",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10814691087-xbox-one-forza-edition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_004ea_CoLAwq2VfSazfBuuoc5abjH4/310x430/11b11ebe.webp?s=3c36053183aba7fd3bd903d31ea3106958106743",
-    "addedAt": "2026-11-15T02:13:00.298Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10815137419",
     "category": "Console",
     "title": "Nintendo switch",
@@ -27636,7 +27620,10 @@
     "url": "https://www.vinted.it/items/10876236358-ps4-2-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0045b_gCbWAi1JkDEHXTeyxpWC5Dk7/310x430/d2c1bba3.webp?s=2cb0827533ebc49029f7d8954824282ac44366d7",
     "addedAt": "2026-11-19T01:42:29.898Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
