@@ -1,23 +1,5 @@
 [
   {
-    "id": "10833188524",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10833188524-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01ab6_z2CeEf8NkCaehGT7qRDMdRbs/310x430/ecd60b96.webp?s=6f472c804aeb0b4656e88970e3a7b3a7f8567dc8",
-    "addedAt": "2026-11-15T23:44:15.018Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nNintendo switch\nManette bleu et rouge\nAucun défaut fonctionnel\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 71.55
-  },
-  {
     "id": "10833267449",
     "category": "Console",
     "title": "PlayStation 4 avec manette",
@@ -26617,8 +26599,10 @@
     "url": "https://www.vinted.it/items/10888567586-cerco-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02143_vP4XXdn2X4RzPeGojxFLWFca/310x430/17caee49.webp?s=37c15bd8d229a13bb82dc1d6c12efb84b0276ca7",
     "addedAt": "2026-11-19T23:42:07.452Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10888568035",
@@ -26630,6 +26614,39 @@
     "url": "https://www.vinted.it/items/10888568035-nintendo-switch-zubehor-top?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01d09_DdyMoKivN7ExUBoMhQp9aybR/310x430/12df1e67.webp?s=e94a3d89d25693762fbaf52363a22fe5de1f3ed6",
     "addedAt": "2026-11-19T23:42:07.452Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch + Zubehör TOP\nBuone·Nintendo·Caricato 3 min fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n3 min fa\nVerkaufen hier eine von zwei Nintendo Switch. Sie wurden lange bespielt, sind jedoch technisch im einwandfreien Zustand. Optisch gibt es ein paar Kratzer auf der Außenseite, sowie bitte Fotos beachten.\n\nLadekabel, Tasche, sowie ein zusätzlicher Controller sind mit dabei (Fotos folgen).\n\nKann gerne vor Ort getestet werden.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "graffi sulla parte esterna, usato a lungo ma tecnicamente funzionante",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 95
+  },
+  {
+    "id": "10888607864",
+    "category": "Console",
+    "title": "Console Xbox One avec son Bloc d'alimentation",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10888607864-console-xbox-one-avec-son-bloc-dalimentation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0259e_b1WFBRHxXUgr6Zfcfh2dLgQT/310x430/d044831c.webp?s=13d4d8179d0beea560993598b9d6a271fb4298f8",
+    "addedAt": "2026-11-19T23:48:17.966Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.05€, sotto soglia"
+  },
+  {
+    "id": "10888636073",
+    "category": "Console",
+    "title": "Sony PlayStation 5 ps5 black Friday",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10888636073-sony-playstation-5-ps5-black-friday?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00813_Bm8nkKAv4fo3FAaK2tEwbo9a/310x430/3d1859bf.webp?s=cd6b96264f07c935f28e1f125d5e73b3b18e775a",
+    "addedAt": "2026-11-19T23:52:25.750Z",
     "processed": false,
     "triaged": false
   }
