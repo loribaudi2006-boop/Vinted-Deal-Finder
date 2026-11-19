@@ -1,23 +1,5 @@
 [
   {
-    "id": "10832724261",
-    "category": "Console",
-    "title": "Ps4 standard",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10832724261-ps4-standard?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00904_xnS1bDHboTApza7HJC5DmGz1/310x430/b33fa32e.webp?s=ccdb90707061f5400b084c102a5ace9303291236",
-    "addedAt": "2026-11-15T22:50:31.793Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 standard\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 ottime condizioni utilizzata pochissimo perfettamente funzionante sia controller che console con anche cavo alimentazione incluso\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.05
-  },
-  {
     "id": "10832759204",
     "category": "Console",
     "title": "Mannette Xbox one",
@@ -26738,5 +26720,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10888235037",
+    "category": "Console",
+    "title": "Étui pour Nintendo Switch",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10888235037-etui-pour-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_02646_P8vVCHZdyJ8qAytkGApthpr3/310x430/e44b6a81.webp?s=369b2f30d38a0d9177d9cb6242778b5f80633856",
+    "addedAt": "2026-11-19T22:48:32.791Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
