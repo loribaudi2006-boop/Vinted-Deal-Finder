@@ -26160,8 +26160,10 @@
     "url": "https://www.vinted.it/items/10882493832-ps4-slim-para-pecas-ou-reparacao?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_025f7_tg1TURBaqA5TEsCQCNcQ1ptw/310x430/efc483a5.webp?s=8f2ac63d65bf6cf97022bd910ce962083cf4a87d",
     "addedAt": "2026-11-19T15:20:54.640Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10882528150",
@@ -26224,8 +26226,13 @@
     "url": "https://www.vinted.it/items/10882568985-ps4-blanche?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_00e66_ZqLMKHD78Yh1soxF9MqWjt3G/310x430/05a04f99.webp?s=e516e6401cfd6293fdbee129dc1f8ab0da3c8a35",
     "addedAt": "2026-11-19T15:27:04.810Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n17\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 blanche\nBuone·PlayStation·Caricato 19 min fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n19 min fa\nFonctionne super bien, silencieuse.\nVendu seule avec deux jeux sans manettes car la manette ne tien pas la charge\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza manette (la manette non tiene la carica), venduta solo con due giochi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
   },
   {
     "id": "10882626517",
@@ -26253,7 +26260,12 @@
     "photoUrl": "https://images1.vinted.net/t/01_02231_DhaQ8miGjiAL4j8skHeE2c9h/310x430/9c53509a.webp?s=04f669da999d26fdf9d1717ba435014df88df3fa",
     "addedAt": "2026-11-19T15:36:19.930Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nswitch\nBuone·Nintendo·Caricato 11 min fa\n\n5,00 €\n\n5,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n11 min fa\nvs savez ! tout est a discute\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 130
   },
   {
     "id": "10882706289",
@@ -26266,7 +26278,12 @@
     "photoUrl": "https://images1.vinted.net/t/05_02351_2F71qp3jgUu17fyfC34Aj94A/310x430/159bfb83.webp?s=7ae55d278be50a34d6a3b27d73fa3adc8636cdaa",
     "addedAt": "2026-11-19T15:36:19.930Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch seule\nOttime·Nintendo·Caricato 12 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n12 min fa\nJe vends cette Switch seule sans aucun accessoires.\nElle est 100% fonctionnelle\nL'écran est protégé par un film\nLe numéro de série est présent.\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
   },
   {
     "id": "10882723822",
@@ -26278,8 +26295,10 @@
     "url": "https://www.vinted.it/items/10882723822-cerco-ps5-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0227b_63F737NB2oChCXjucvwz6gZ6/310x430/db7a3b0b.webp?s=4c22c264cf84204172784313783352c663eb3ca9",
     "addedAt": "2026-11-19T15:38:23.321Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10882713850",
@@ -26292,7 +26311,12 @@
     "photoUrl": "https://images1.vinted.net/t/02_020d3_oF1amnrb6XUxWWeHB93LyoQL/310x430/c7e4f50a.webp?s=5d40e76fefe4451758854f96d85f899c3f458d64",
     "addedAt": "2026-11-19T15:38:23.321Z",
     "processed": false,
-    "triaged": false
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox One completa\nOttime·Xbox·Caricato 15 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\n15 min fa\nXbox One 1 Gen. PREZZO TRATTABILE !\n\noriginale ✅\nCondizioni ottime, perfettamente funzionante, già resettata pronta all’uso!👍🏽\n\ncompreso nel prezzo:\n- Console Xbox One\n- Joypad Xbox originale\n- alimentatore Xbox originale\n- cavo HDMI con attacco dorato\nTutto quanto in ottime condizioni e perfettamente funzionanti!!🤙🏽\n... altro\nSpedizione\nda 4,89 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
   },
   {
     "id": "10882747719",
@@ -26304,8 +26328,10 @@
     "url": "https://www.vinted.it/items/10882747719-nintendo-switch-lite-avec-une-pochette-mario-kart?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0087c_9vLEkNWurdogkNYvAM7t1cfe/310x430/de43826b.webp?s=adfe9b5dde38fd498904300cc6677c415b2a2a14",
     "addedAt": "2026-11-19T15:40:27.378Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10882748195",
@@ -26317,6 +26343,93 @@
     "url": "https://www.vinted.it/items/10882748195-cerco-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00811_RtVy95MEEBFoMeKJhY1mkxMS/310x430/fa26f864.webp?s=2eb931c287c0d17db230264f5482924aaf9dc662",
     "addedAt": "2026-11-19T15:40:27.378Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10882849846",
+    "category": "Console",
+    "title": "PS4 Slim fonctionnel",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10882849846-ps4-slim-fonctionnel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_008b2_hXXXepxvf2kAHNG5pLtUNrpb/310x430/913e46c8.webp?s=cbf09384c9aea1040db61438a7f130df5718f0c9",
+    "addedAt": "2026-11-19T15:46:37.696Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 Slim fonctionnel\nOttime·Sony·Caricato 3 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n3 min fa\nJe vend ma PS4 Slim elle fonctionne parfaitement sans aucun bug et fourni avec le câble d'alimentation mais sans les manettes je les ai perdu. Il y a un léger défaut à l'arrière(le cercle ) mais qui n'empêche pas le fonctionnement en revanche un petit petit nettoyage est mieux je ne savais pas comment le faire.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Léger défaut à l'arrière, sans manettes, besoin d'un petit nettoyage",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 65
+  },
+  {
+    "id": "10882909888",
+    "category": "Console",
+    "title": "Playstation 5 Leggere descrizione prima di acquistare",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10882909888-playstation-5-leggere-descrizione-prima-di-acquistare?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_022d8_vzDJUzSrDDrfkMfQA7t8wB4S/310x430/945b3e06.webp?s=b3204b46abab771b9d92d9f1a9bf3394d308d204",
+    "addedAt": "2026-11-19T15:50:44.773Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~250€, sotto soglia"
+  },
+  {
+    "id": "10882890775",
+    "category": "Console",
+    "title": "Scatolo PlayStation 4 pro",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10882890775-scatolo-playstation-4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02115_LhQD1gHwXayatZg3di3Zi8Vi/310x430/ea49d0ce.webp?s=1fde87f8f4cb6f099bd6b5e55da6dcce663cd7cb",
+    "addedAt": "2026-11-19T15:50:44.773Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8€, sotto soglia"
+  },
+  {
+    "id": "10882902849",
+    "category": "Console",
+    "title": "Switch oled",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 75% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10882902849-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02353_FpCKFsoRak6px3tqbSQeaDzp/310x430/2001e2fd.webp?s=7c8b36f352a1c20009ba48efd68dcde655f49ac0",
+    "addedAt": "2026-11-19T15:50:44.773Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10882916294",
+    "category": "Console",
+    "title": "Nintendo switch V2 Mario Red and Blue edition",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10882916294-nintendo-switch-v2-mario-red-and-blue-edition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01014_hrKU4YyFryZQAtAw5tvrTsCE/310x430/a585c176.webp?s=83eede6cbedde03581b026c8dac8fc5b937f1769",
+    "addedAt": "2026-11-19T15:52:48.263Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10882915329",
+    "category": "Console",
+    "title": "playstation 4 PS4",
+    "price": 49,
+    "totalPrice": 52.15,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10882915329-playstation-4-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003d1_xBCdJH3s9SgCh2bxALTogsrk/310x430/9904f980.webp?s=829bd611f58af7b21839aeac0c8dc0562046acad",
+    "addedAt": "2026-11-19T15:52:48.263Z",
     "processed": false,
     "triaged": false
   }
