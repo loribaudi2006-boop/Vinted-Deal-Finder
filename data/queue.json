@@ -1,23 +1,5 @@
 [
   {
-    "id": "10833168765",
-    "category": "Console",
-    "title": "Switch proposer vos prix",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10833168765-switch-proposer-vos-prix?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02215_WxZvQhcZNcTe5AURtcdtvBwu/310x430/971588f6.webp?s=09927078a719aac403001477f2fd9e2f4d03ced4",
-    "addedAt": "2026-11-15T23:41:09.488Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch proposer vos prix\nOttime·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nProprio adesso\nSwitch vendu avec le chargeur poser vos prix deux petits impacts sur l'écran mais rien de grave voir photos proposez vos prix\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "due piccoli impatti sullo schermo",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 110.25
-  },
-  {
     "id": "10833188524",
     "category": "Console",
     "title": "Nintendo switch",
@@ -26624,5 +26606,31 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10888567586",
+    "category": "Console",
+    "title": "Cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10888567586-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02143_vP4XXdn2X4RzPeGojxFLWFca/310x430/17caee49.webp?s=37c15bd8d229a13bb82dc1d6c12efb84b0276ca7",
+    "addedAt": "2026-11-19T23:42:07.452Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10888568035",
+    "category": "Console",
+    "title": "Nintendo Switch + Zubehör TOP",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10888568035-nintendo-switch-zubehor-top?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01d09_DdyMoKivN7ExUBoMhQp9aybR/310x430/12df1e67.webp?s=e94a3d89d25693762fbaf52363a22fe5de1f3ed6",
+    "addedAt": "2026-11-19T23:42:07.452Z",
+    "processed": false,
+    "triaged": false
   }
 ]
