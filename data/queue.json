@@ -1,23 +1,5 @@
 [
   {
-    "id": "10814005257",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10814005257-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01144_9rxwgGbNWjTUB2G2mNpFrudX/310x430/5ea0041c.webp?s=0fe2b46b2bd7b48b3f238069d4d16ab5f85365cf",
-    "addedAt": "2026-11-15T00:07:00.111Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nDiscrete·Nintendo·Caricato 2 min fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n2 min fa\nvendo Nintendo Switch senza joy-con e senza cavi.\nmanca la staffetta per appoggiare la nintendo switch a un piano (vedi foto)\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza joy-con, senza cavi, manca la staffetta posteriore, condizioni discrete",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 47.8
-  },
-  {
     "id": "10814123441",
     "category": "Console",
     "title": "ps4 slim",
@@ -27779,5 +27761,38 @@
     "geminiFault": "Rumorosa per la polvere a causa dell'inutilizzo",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35
+  },
+  {
+    "id": "10875744122",
+    "category": "Console",
+    "title": "Playstation 4 - 1 Terabyte",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10875744122-playstation-4-1-terabyte?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02280_ZBbLXJB2eJndNqw81nGEM5BY/310x430/d8f72e3f.webp?s=c3ff1615d4188b8558306e88bd5b6d6119b91c45",
+    "addedAt": "2026-11-19T00:11:36.571Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 - 1 Terabyte\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo PlayStation 4 da 1TB, utilizzata per circa 5 anni e ancora perfettamente funzionante. La console è in buone condizioni e funziona correttamente, senza problemi di funzionamento.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10875750623",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10875750623-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0248b_5VcayZaJPnYr3SDnThCTD666/310x430/ec3a0327.webp?s=89ec8929af4b41430028440214d4efc58ecf5666",
+    "addedAt": "2026-11-19T00:12:38.777Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
