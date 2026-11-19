@@ -27668,7 +27668,10 @@
     "url": "https://www.vinted.it/items/10876898379-facade-ps5-edition-numerique-noir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_019d0_dzTefjc5JzV9LjxN3AkiQndg/310x430/b06d9794.webp?s=ec63e2eb5f081a360e500987bc57cf71c545c747",
     "addedAt": "2026-11-19T04:14:38.451Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
