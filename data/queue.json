@@ -27716,7 +27716,10 @@
     "url": "https://www.vinted.it/items/10877058553-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0056f_8V7nBxD23PUQXgEwHWMJNNbv/310x430/d59a0454.webp?s=93a0765b8795cff980de7ed3a401a9344e502078",
     "addedAt": "2026-11-19T05:14:16.870Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
