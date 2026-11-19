@@ -1,53 +1,5 @@
 [
   {
-    "id": "10811538386",
-    "category": "Console",
-    "title": "Switch neuve avec câbles et branchement télé",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10811538386-switch-neuve-avec-cables-et-branchement-tele?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00974_99fdCLWnHEM1wcqYYMU51wu9/310x430/e577b25d.webp?s=7f5c03d5d5cb7c53d9308f798f5a28134db45ec8",
-    "addedAt": "2026-11-15T06:21:37.442Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10815534582",
-    "category": "Console",
-    "title": "PS4 Slim 1TB",
-    "price": 52,
-    "totalPrice": 55.3,
-    "reason": "prezzo 60% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10815534582-ps4-slim-1tb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_013b3_tqUMqZuSm8sCdZNJwM2WjLA6/310x430/ba57f4e7.webp?s=d815aa2a50f022c1be5ffeda1a43fb23a71d08bb",
-    "addedAt": "2026-11-15T06:21:37.442Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10811610239",
-    "category": "Console",
-    "title": "Nintendo switch lite noir",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10811610239-nintendo-switch-lite-noir?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01865_sDA4NdNsF8GJY4nTvSnTdLjP/310x430/7adcc923.webp?s=3b51fe422aebd38e10959db091dbdfb9a01e3aa8",
-    "addedAt": "2026-11-15T06:22:39.039Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10815616173",
     "category": "Console",
     "title": "PS4 Slim 1TB",
@@ -27716,7 +27668,10 @@
     "url": "https://www.vinted.it/items/10877147441-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_007fa_cxNH8wZEgX72JFxqLXkzRvEK/310x430/a8b15b04.webp?s=a38116bb7b90ec12deba5db7095af6d2a11b0c51",
     "addedAt": "2026-11-19T05:48:10.489Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
