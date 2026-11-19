@@ -27625,5 +27625,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10876425006",
+    "category": "Console",
+    "title": "CERCO PlayStation 5 (PS5) completa – Budget max 350 euro",
+    "price": 1.5,
+    "totalPrice": 2.28,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10876425006-cerco-playstation-5-ps5-completa-budget-max-350-euro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_001f5_VABbjPs7jyLDmcoah5taswSm/310x430/eaa600db.webp?s=902a91bd83efbfb7c8ad3a73f069dea3cdaabb27",
+    "addedAt": "2026-11-19T02:19:30.782Z",
+    "processed": false,
+    "triaged": false
   }
 ]
