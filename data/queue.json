@@ -27668,7 +27668,10 @@
     "url": "https://www.vinted.it/items/10876630260-nintendo-switch-2020-solo-schermo?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01cb9_v271TLwbMH9gQ2TxiP8mtyB3/310x430/b64fed3b.webp?s=999e3955d789c2d578f2e6cd9a85414d0c23d188",
     "addedAt": "2026-11-19T03:03:42.746Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
