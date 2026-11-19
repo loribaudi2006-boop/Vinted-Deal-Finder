@@ -27673,5 +27673,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10877284897",
+    "category": "Console",
+    "title": "Console Switch",
+    "price": 26,
+    "totalPrice": 28,
+    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10877284897-console-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_012f0_xLJYFRR9G4Fa87wcQhED5hFX/310x430/7f69b844.webp?s=ce87d1a9b19b5cd60a3053569bbebe9d08ed288e",
+    "addedAt": "2026-11-19T06:34:25.096Z",
+    "processed": false,
+    "triaged": false
   }
 ]
