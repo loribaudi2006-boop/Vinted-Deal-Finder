@@ -26835,5 +26835,46 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 33.15
+  },
+  {
+    "id": "10891774658",
+    "category": "Console",
+    "title": "PS4+manettes",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10891774658-ps4manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_011a8_YLHqf6UAzSF9BpfNVLkkAe4F/310x430/f2a20691.webp?s=1d1a4eae2e2430ea6b2610a1f6683a235a3eb774",
+    "addedAt": "2026-11-20T10:23:57.235Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10891859895",
+    "category": "Console",
+    "title": "playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10891859895-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_003fa_H6gaDuq527Cpu3GSw9vW4SKT/310x430/ce01f4f1.webp?s=4a72015a28c505cd2c3460061820acaf19ce6945",
+    "addedAt": "2026-11-20T10:32:15.253Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10891849682",
+    "category": "Console",
+    "title": "Xbox One edición forza horizon 4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10891849682-xbox-one-edicion-forza-horizon-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00399_Xs4AwDVTuTHyzx1UAQRwdJuw/310x430/0cc782eb.webp?s=b00afd86e165613fec4e0a7be84f3b4b857de4e6",
+    "addedAt": "2026-11-20T10:32:15.253Z",
+    "processed": false,
+    "triaged": false
   }
 ]
