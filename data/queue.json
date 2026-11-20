@@ -1,20 +1,5 @@
 [
   {
-    "id": "10836542434",
-    "category": "Console",
-    "title": "Console Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10836542434-console-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_013ff_ENjA7LG3azqN2S1Ejzk6a9GP/310x430/5fe9675d.webp?s=4223267cd0ce11578ae85fcb8072d089ec3ab06d",
-    "addedAt": "2026-11-16T10:13:57.839Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.8€, sotto soglia"
-  },
-  {
     "id": "10836931831",
     "category": "Console",
     "title": "Nintendo Switch lite turquoise",
@@ -26843,7 +26828,12 @@
     "url": "https://www.vinted.it/items/10891646384-ps4manettes?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_011a8_YLHqf6UAzSF9BpfNVLkkAe4F/310x430/f2a20691.webp?s=1d1a4eae2e2430ea6b2610a1f6683a235a3eb774",
     "addedAt": "2026-11-20T10:12:33.250Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4+manettes\nOttime·Sony·Caricato 2 min fa\n\n63,00 €\n\n66,85 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPS4 +manettes\nTrès bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 33.15
   }
 ]
