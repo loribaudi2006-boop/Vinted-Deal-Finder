@@ -1,37 +1,5 @@
 [
   {
-    "id": "10833889852",
-    "category": "Console",
-    "title": "Cambio ps 4 por xbox series s  (leer descripción)",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Xbox Series S (~200€)",
-    "url": "https://www.vinted.it/items/10833889852-cambio-ps-4-por-xbox-series-s-leer-descripcion?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0229a_B6wKFUi39BbqFRm7daHoMh62/310x430/159ab158.webp?s=96f61dbb85c4a532756e5b9b71a9ee08dbc74bf9",
-    "addedAt": "2026-11-16T01:32:39.015Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10833908315",
-    "category": "Console",
-    "title": "Cambio ps 5 por xbox series x o un pc",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Xbox Series X (~380€)",
-    "url": "https://www.vinted.it/items/10833908315-cambio-ps-5-por-xbox-series-x-o-un-pc?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_019f0_HeTkkULDexyKPnirwXmSJpjd/310x430/77a830e1.webp?s=146725a31b36c6414c949c77eec673891ccb0f41",
-    "addedAt": "2026-11-16T01:35:44.832Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10834211472",
     "category": "Console",
     "title": "Ps5 negociar o preço não compre logo direto",
@@ -26845,5 +26813,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10889187168",
+    "category": "Console",
+    "title": "Nintendo Switch + Zubehör TOP",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10889187168-nintendo-switch-zubehor-top?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01d09_DdyMoKivN7ExUBoMhQp9aybR/310x430/12df1e67.webp?s=e94a3d89d25693762fbaf52363a22fe5de1f3ed6",
+    "addedAt": "2026-11-20T01:39:38.634Z",
+    "processed": false,
+    "triaged": false
   }
 ]
