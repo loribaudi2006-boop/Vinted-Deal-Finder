@@ -1,23 +1,5 @@
 [
   {
-    "id": "10835477602",
-    "category": "Console",
-    "title": "Nintendo switch da aggiustare andare in descrizione",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10835477602-nintendo-switch-da-aggiustare-andare-in-descrizione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_02397_ZqeqRjwWnjnWjeCQB85v5uTM/310x430/74425696.webp?s=939017cf88c44bbf5f50d6109752e986fd94f95b",
-    "addedAt": "2026-11-16T08:15:39.278Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "iti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 3\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch da aggiustare andare in descrizione\nBuone·Nintendo·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nNintendo switch da aggiustare ⚠️FARE OFFERTE⚠️\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Da aggiustare, richiesta di fare offerte nella descrizione",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 98.25
-  },
-  {
     "id": "10835712081",
     "category": "Console",
     "title": "PS4 für Bastler - Defekte Festplatte",
@@ -26805,5 +26787,53 @@
     "geminiFault": "Controller driftoccasionale",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10890694038",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10890694038-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_014c5_H7B5YCoETYT1Czy2d948DnXM/310x430/b9046d79.webp?s=ab7718aa6d43412c68fab4bca6be6ff2a62c64ad",
+    "addedAt": "2026-11-20T08:23:01.449Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10890628768",
+    "category": "Console",
+    "title": "Ps4 noir",
+    "price": 53,
+    "totalPrice": 56.35,
+    "reason": "prezzo 59% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10890628768-ps4-noir?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0100e_TbUvscWroGQs8v7ykULc33GG/310x430/2ec2a31d.webp?s=34cf8d382312d39cd358c09bae0f8bec388d3b2e",
+    "addedAt": "2026-11-20T08:23:01.450Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 noir\nOttime·PlayStation·Caricato 13 min fa\n\n53,00 €\n\n56,35 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n13 min fa\nPS4, noir en très bon état\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 43.65
+  },
+  {
+    "id": "10890753367",
+    "category": "Console",
+    "title": "(Gezocht) Playstation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10890753367-gezocht-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0187c_tVc1GUTeVmfy1Mcbwzi7T6W2/310x430/7cea5a7e.webp?s=e8de4a7f1364e365d7a28e1863d0b99f9a11ee88",
+    "addedAt": "2026-11-20T08:31:16.484Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
