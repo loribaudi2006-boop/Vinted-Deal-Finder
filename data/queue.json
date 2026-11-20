@@ -26828,7 +26828,24 @@
     "url": "https://www.vinted.it/items/10890222265-busco-ps5-sony?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0160a_jh7E9zCRWdTo7LggjdLTc3NL/310x430/16bb0e6d.webp?s=0752b8d2fd96497aacf2607a23cf3924a5959841",
     "addedAt": "2026-11-20T06:39:26.929Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-52.15€, sotto soglia"
+  },
+  {
+    "id": "10890286747",
+    "category": "Console",
+    "title": "psp completa di caricatore ma non funzionante",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10890286747-psp-completa-di-caricatore-ma-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_02248_zZWKxMe9aun2tyyV7nBDRcuv/310x430/0040c7d3.webp?s=0a48780fb84a42f219bdacd57a33351e81ced192",
+    "addedAt": "2026-11-20T06:58:05.931Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.05€, sotto soglia"
   }
 ]
