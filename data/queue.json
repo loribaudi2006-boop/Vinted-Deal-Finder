@@ -1,23 +1,5 @@
 [
   {
-    "id": "10835243223",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10835243223-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00e68_Hd2d19f5WcboK9bUGvmGts9T/310x430/fb40fa94.webp?s=fc1385bbc6915e7b8474ddf98261f516847ff82a",
-    "addedAt": "2026-11-16T07:31:00.757Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox One\nOttime·Microsoft·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox One, voll funktionsfähig.\n\nMit Controller, HDMI Kabel, und Netzteil.\nDie Konsole ist voll funktionsfähig und wurde zurückgesetzt.\nDie Originalverpackung kann ich leider nicht mehr finden.\nLeichte Kratzer auf der Oberseite, die üblichen Gebrauchsspuren.\n\nBei Fragen gerne melden.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Leichte Kratzer auf la Oberseite, übliche Gebrauchsspuren, keine OVP",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.8
-  },
-  {
     "id": "10835316069",
     "category": "Console",
     "title": "cerco ps5 usata",
@@ -26811,5 +26793,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~10.1€, sotto soglia"
+  },
+  {
+    "id": "10890456745",
+    "category": "Console",
+    "title": "Ps4 bonne état (photo)",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10890456745-ps4-bonne-etat-photo?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012f4_UHM44uT4wj7TRWrTTT6ANDrn/310x430/8064da9b.webp?s=33f9d9d75f4aaed3c50293a2658dbd5bda271929",
+    "addedAt": "2026-11-20T07:39:33.672Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 bonne état (photo)\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPs4 bonne état (photo)\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.8
+  },
+  {
+    "id": "10890453155",
+    "category": "Console",
+    "title": "Xbox One S (wit) - Werkt",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10890453155-xbox-one-s-wit-werkt-zonder-kabels?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_002b4_vaPU9Sj5KRiMgguU5N58YK97/310x430/1a953521.webp?s=281e8e48091124a162f26a5c2bce456792058500",
+    "addedAt": "2026-11-20T07:39:33.672Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
