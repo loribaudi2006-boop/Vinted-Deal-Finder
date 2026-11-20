@@ -1,23 +1,5 @@
 [
   {
-    "id": "10847518332",
-    "category": "Console",
-    "title": "PS4 SLIM en bon état + 1  manette",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10847518332-ps4-slim-en-bon-etat-1-manette?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00994_3HDEGbG8wy1fByGngzi9jwP4/310x430/8980b7ab.webp?s=e56b4646a19b04355c47dc1896a0483a0462b9e7",
-    "addedAt": "2026-11-16T23:49:22.801Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "nuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 SLIM en bon état + 1 manette\nBuone·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nJe mets en vente ma PS4 Slim 500Go + 1 manette, en bon était de marche car j'ai récemment acheté une ps5.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41
-  },
-  {
     "id": "10847651240",
     "category": "Console",
     "title": "Sony PlayStation 4 PS4 slim",
@@ -27764,5 +27746,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~14.3€, sotto soglia"
+  },
+  {
+    "id": "10897576345",
+    "category": "Console",
+    "title": "Protection d'ecran switch 2",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10897576345-protection-decran-switch-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00134_Qqvqk9dwj6Rbu85UDoqnEekN/310x430/cab53763.webp?s=1402edc05365563f5c3f91d8c1694e2ab744c207",
+    "addedAt": "2026-11-20T23:58:19.399Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.45€, sotto soglia"
   }
 ]
