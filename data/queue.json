@@ -1,41 +1,5 @@
 [
   {
-    "id": "10847468356",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10847468356-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0150a_YsdjAYCwxBuirH9oso3a24e9/310x430/19cad64a.webp?s=44ed4cd777be784a13726549ce78938c876ee06a",
-    "addedAt": "2026-11-16T23:40:08.216Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nOttime·PlayStation·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPlaystation 4 con giochi e controller perfettamente funzionante, vendo per inutilizzo.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10847467187",
-    "category": "Console",
-    "title": "Consola Sony PS4 Preto",
-    "price": 47,
-    "totalPrice": 50.05,
-    "reason": "prezzo 64% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10847467187-consola-sony-ps4-preto?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00bda_g5pDMZjcVEi7Euhc7s2buGZZ/310x430/dd3d0960.webp?s=c32c87cd0a7c28a5092c900abaa3d1aa67f952c3",
-    "addedAt": "2026-11-16T23:40:08.216Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nConsola Sony PS4 Preto\nOttime·PlayStation·Caricato un minuto fa\n\n47,00 €\n\n50,05 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nConsola a funcionar com 2 comandos.\nPreço negociável.\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10847518332",
     "category": "Console",
     "title": "PS4 SLIM en bon état + 1  manette",
@@ -27785,5 +27749,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~0€, sotto soglia"
+  },
+  {
+    "id": "10901136456",
+    "category": "Console",
+    "title": "Nintendo Switch: Coppia Joy-Con + Volante Originale + Custodia e Accessori",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10901136456-nintendo-switch-coppia-joy-con-volante-originale-custodia-e-accessori?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01958_4TC3qMjwAxUA4CkSPb44AqHs/310x430/cdc2112a.webp?s=33ad88b86f1a652ffe8489e8d1139fd9c7a20555",
+    "addedAt": "2026-11-20T23:48:02.023Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~14.3€, sotto soglia"
   }
 ]
