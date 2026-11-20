@@ -27123,5 +27123,48 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10895087435",
+    "category": "Console",
+    "title": "PS5 - Lire Description",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10895087435-ps5-lire-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00cd9_BtEBwPGDHGrHgF5SUt29RQU8/310x430/5133a451.webp?s=4e539805397bdd9e27e68089ff74049aae31d12d",
+    "addedAt": "2026-11-20T15:01:46.844Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-26.95€, sotto soglia"
+  },
+  {
+    "id": "10895156152",
+    "category": "Console",
+    "title": "PSP guasta",
+    "price": 27,
+    "totalPrice": 29.05,
+    "reason": "parola chiave: \"guasta\"",
+    "url": "https://www.vinted.it/items/10895156152-psp-guasta?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_021ec_aq8mwRacagFfgr18SpweTngr/310x430/6af2b50f.webp?s=1778283947c1a3eb11062fc3d58c4d1cd6f89c98",
+    "addedAt": "2026-11-20T15:04:52.620Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.95€, sotto soglia"
+  },
+  {
+    "id": "10895247160",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10895247160-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00084_Cux1y4sFGuU4yr1nzMd1ktCL/310x430/60068707.webp?s=d249ce38b6fd10609cef66dc0f918d3863e8c903",
+    "addedAt": "2026-11-20T15:11:04.256Z",
+    "processed": false,
+    "triaged": false
   }
 ]
