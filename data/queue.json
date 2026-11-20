@@ -26728,7 +26728,45 @@
     "url": "https://www.vinted.it/items/10888895419-pezzi-di-ricambio-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01411_3sZer7XHitXqW8U8sBTyRsWF/310x430/dcae3e2e.webp?s=049b9edae28eea14bf1af5f2b97e49cc5477e417",
     "addedAt": "2026-11-20T00:41:54.332Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\npezzi di ricambio ps4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nps4 completa\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10888927283",
+    "category": "Console",
+    "title": "Wolverine ps5",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10888927283-wolverine-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a59_xn6vys3F3yqWR3AwjPMmws8f/310x430/92100e2f.webp?s=b59b6d211fbbd11c3a2527df07a0562f540f776a",
+    "addedAt": "2026-11-20T00:48:05.102Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-42.7€, sotto soglia"
+  },
+  {
+    "id": "10888933530",
+    "category": "Console",
+    "title": "Nintendo Switch + Zubehör TOP",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 84% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10888933530-nintendo-switch-zubehor-top?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01d09_DdyMoKivN7ExUBoMhQp9aybR/310x430/12df1e67.webp?s=e94a3d89d25693762fbaf52363a22fe5de1f3ed6",
+    "addedAt": "2026-11-20T00:50:11.451Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch + Zubehör TOP\nBuone·Nintendo·Caricato un minuto fa\n\n30,00 €\n\n32,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nVerkaufen hier eine von zwei Nintendo Switch. Sie wurden lange bespielt, sind jedoch technisch im einwandfreien Zustand. Optisch gibt es ein paar Kratzer auf der Außenseite, sowie bitte Fotos beachten.\n\nLadekabel, Tasche, sowie ein zusätzlicher Controller sind mit dabei (Fotos folgen).\n\nKann gerne vor Ort getestet werden.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "graffi sulla scocca esterna",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 97.8
   }
 ]
