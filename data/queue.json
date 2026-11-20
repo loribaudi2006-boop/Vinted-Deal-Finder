@@ -1,35 +1,5 @@
 [
   {
-    "id": "10847255034",
-    "category": "Console",
-    "title": "Looking for a PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10847255034-looking-for-a-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01f1e_1zNHGEwRMw3xrASkHJDSxR4B/310x430/cafcdffa.webp?s=0bfd210374a9a3f79e9fc95308ff9bbef35ef072",
-    "addedAt": "2026-11-16T23:10:21.516Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10847299188",
-    "category": "Console",
-    "title": "Xbox One 1ère génération",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10847299188-xbox-one-1ere-generation?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02337_grwJxgeN4ySRiaCYJPNPNjrU/310x430/935fd2cc.webp?s=5a2617983dcadf0f2a62ace59805aa09e960230f",
-    "addedAt": "2026-11-16T23:15:29.577Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~27.05€, sotto soglia"
-  },
-  {
     "id": "10847350240",
     "category": "Console",
     "title": "PlayStation 4 Slim noire avec câbles",
@@ -27764,5 +27734,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-5.95€, sotto soglia"
+  },
+  {
+    "id": "10900921676",
+    "category": "Console",
+    "title": "Caja vacía Nintendo switch oled",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 92% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10900921676-caja-vacia-nintendo-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02464_tAGizDpYhY83zzNWmYpqvc6W/310x430/0fcb1956.webp?s=203fd41960829dc00be848bc912d8d0f77290850",
+    "addedAt": "2026-11-20T23:11:00.524Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10900929761",
+    "category": "Console",
+    "title": "cherche ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10900929761-cherche-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_020ef_vrofiGGEwASfpDvZZ3HLARLi/310x430/5e601258.webp?s=5c5031ede03032ae23b2f8b2f2984152297da73f",
+    "addedAt": "2026-11-20T23:13:04.133Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\ncherche ps5\nOttime·PlayStation·Caricato 2 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\n2 min fa\nJe cherche ps5 à vendre\naux alentour de 100-200€ en bon état avec une manette.\nMe contacter si intéressé\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 338
   }
 ]
