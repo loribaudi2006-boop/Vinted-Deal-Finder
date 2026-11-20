@@ -26842,8 +26842,11 @@
     "url": "https://www.vinted.it/items/10889881958-console-playstation-3-fat-nera-non-funzionante-solo-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00de3_7VCHv52Rmg8z5iiSw94GuJ6c/310x430/7f2e2c1d.webp?s=0ee0b49b2ec0cce6f57e8927f189523685f3dbdf",
     "addedAt": "2026-11-20T04:51:37.762Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10889884432",
@@ -26855,7 +26858,10 @@
     "url": "https://www.vinted.it/items/10889884432-console-psp-slim-lite-2004-silver-lettore-umd-non-testato-difetto-al-vano-umd-solo-console?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01f19_8ruEijbcT6K6HBM15Z8nzMct/310x430/49eb07a4.webp?s=da988c223ba8131d59e2f72bd610ce53a9a81f9d",
     "addedAt": "2026-11-20T04:53:42.030Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
