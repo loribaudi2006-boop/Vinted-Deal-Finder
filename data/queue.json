@@ -1,20 +1,5 @@
 [
   {
-    "id": "10835712081",
-    "category": "Console",
-    "title": "PS4 für Bastler - Defekte Festplatte",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10835712081-ps4-fur-bastler-defekte-festplatte?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_008a5_Su5HkcDA6vAw9VuGMcPWYKb1/310x430/936acb5d.webp?s=e3b365fa2d40f3e97ba9c74acd5cfe3012c70673",
-    "addedAt": "2026-11-16T08:48:52.129Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10835750180",
     "category": "Console",
     "title": "Playstation 4",
@@ -26835,5 +26820,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10890878567",
+    "category": "Console",
+    "title": "Busco PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10890878567-busco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b1a_QbzeadvnVAXMSVZkvbawk3ii/310x430/a3f6f354.webp?s=c3903fb95e2d502e6f5ef49a56ba9a4f41b8fe2c",
+    "addedAt": "2026-11-20T08:49:52.006Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
