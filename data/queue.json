@@ -1,35 +1,5 @@
 [
   {
-    "id": "10837609259",
-    "category": "Console",
-    "title": "Ps5 mini imitación",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10837609259-ps5-mini-imitacion?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_022b6_yfG5u17fwvwJrTMCbkNL1DZA/310x430/5ffc60cc.webp?s=9c69bdff21df8d88786b0109599d1c99a1d8c1aa",
-    "addedAt": "2026-11-16T11:43:16.255Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
-    "id": "10837606795",
-    "category": "Console",
-    "title": "XBox one S 500 mb",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10837606795-xbox-one-s-500-mb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0188c_ZNdDuMYw9qYPZ94vJFfvYTA2/310x430/4418d24b.webp?s=14c244c2581a5816c755a7f23c668b29aac8bc98",
-    "addedAt": "2026-11-16T11:43:16.255Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10837729251",
     "category": "Console",
     "title": "PS4 + manettes",
@@ -26895,5 +26865,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "10892720216",
+    "category": "Console",
+    "title": "Non funzionante",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10892720216-non-funzionante?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01b34_prtdmCS9E1h6RERLifoWf9su/310x430/78c65f8c.webp?s=3aa81381c37c006d1c2db51e0596fef111868204",
+    "addedAt": "2026-11-20T11:49:53.548Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.55€, sotto soglia"
   }
 ]
