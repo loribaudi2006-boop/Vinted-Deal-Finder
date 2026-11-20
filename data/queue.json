@@ -27727,12 +27727,42 @@
     "url": "https://www.vinted.it/items/10900842623-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00aa8_uvGfgp2S81Mpou3N1WN5sWaS/310x430/081299bf.webp?s=7722053fc84548c682bd6b9af98cd678ae94dc10",
     "addedAt": "2026-11-20T22:58:41.069Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nplaystation 4\nOttime·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nBasically new ps4\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10900864847",
+    "category": "Console",
+    "title": "PlayStation 5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10900864847-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01eeb_P1QypkXQgEKoS9VgEb3cuwYT/310x430/938b30cd.webp?s=350b0c8350547c5696b5f46c516d6f160c646067",
+    "addedAt": "2026-11-20T23:02:47.552Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "10900878366",
+    "category": "Console",
+    "title": "ps5 leggi",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10900878366-ps5-leggi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01286_szSBivaMedk2Hgmp6aSeQH5j/310x430/27ab4a0a.webp?s=c975acdaf86d030ec372df3402dc19079cda80e7",
+    "addedAt": "2026-11-20T23:04:50.841Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-5.95€, sotto soglia"
   }
 ]
