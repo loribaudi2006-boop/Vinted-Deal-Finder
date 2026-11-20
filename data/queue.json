@@ -26858,7 +26858,10 @@
     "url": "https://www.vinted.it/items/10889034292-porta-giochi-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0192c_hBWTvbEgjy2mFuJHEWMDTtUB/310x430/6cb7ab88.webp?s=83032cda4fa6cf22e50675f2ade8b375c335f167",
     "addedAt": "2026-11-20T03:28:43.943Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
