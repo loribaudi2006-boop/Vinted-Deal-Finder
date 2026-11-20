@@ -26842,8 +26842,11 @@
     "url": "https://www.vinted.it/items/10889584182-ps4-de-500-gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00907_X5AXqefRE2fS1AGkteCaPctB/310x430/c0b1d4b6.webp?s=6438cf38bba22115d720babf416625d05b14e612",
     "addedAt": "2026-11-20T03:05:56.549Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10889034292",
