@@ -26799,5 +26799,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10890085522",
+    "category": "Console",
+    "title": "Dead Wave Ps5 disc",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10890085522-dead-wave-ps5-disc?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_02338_85YGiPXDwZmJmrD4a3XnJMRa/310x430/8f369348.webp?s=34efbf7d83a453f00c31a646e8519aa60dc96877",
+    "addedAt": "2026-11-20T05:51:44.903Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10890107982",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 59,
+    "totalPrice": 62.65,
+    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10890107982-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01686_muZAYuUSeBH1Vb5xCBHWg8Zi/310x430/55acdacd.webp?s=61d64d7d839245af058d549bcf73ede7dc45fbea",
+    "addedAt": "2026-11-20T06:00:02.437Z",
+    "processed": false,
+    "triaged": false
   }
 ]
