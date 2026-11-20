@@ -1,20 +1,5 @@
 [
   {
-    "id": "10832742075",
-    "category": "Console",
-    "title": "PlayStation 5 complet",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10832742075-playstation-5-complet?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01b30_jurx5YuC3kX1htHen5QoAuhL/310x430/29f1a708.webp?s=35a8eb50673260e829332bee83cde54c3e49d41b",
-    "addedAt": "2026-11-16T07:06:05.334Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10835164803",
     "category": "Console",
     "title": "Playstation 4 1TB mit Controller",
@@ -26847,5 +26832,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~18.05€, sotto soglia"
+  },
+  {
+    "id": "10890312811",
+    "category": "Console",
+    "title": "console Nintendo switch blanche",
+    "price": 44,
+    "totalPrice": 46.9,
+    "reason": "prezzo 77% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10890312811-console-nintendo-switch-blanche?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01b03_N5RCiYM9ASrD38tTYuyX1XDv/310x430/8b390a58.webp?s=11638024390b099e4bb3d65b0cc2801d8f149082",
+    "addedAt": "2026-11-20T07:04:19.366Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.1€, sotto soglia"
   }
 ]
