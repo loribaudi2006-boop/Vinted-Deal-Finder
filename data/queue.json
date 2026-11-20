@@ -1,20 +1,5 @@
 [
   {
-    "id": "10828376087",
-    "category": "Console",
-    "title": "Nintendo Switch Super Mario",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10828376087-nintendo-switch-super-mario?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_025d6_aTbBGk99GaprgRnKPsfRDHGr/310x430/d6fdf3ec.webp?s=fd8b5577d2f1d34a082e495284acdcccc5038e35",
-    "addedAt": "2026-11-16T00:27:37.290Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.8€, sotto soglia"
-  },
-  {
     "id": "10833669997",
     "category": "Console",
     "title": "Nintendo switch qu’on peux modifier",
@@ -26702,5 +26687,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10888843775",
+    "category": "Console",
+    "title": "Joypad ps4 + back botton + giochi",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10888843775-joypad-ps4-back-botton-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_017bc_ReusKi4brAsJJ2u2M3JVBRSZ/310x430/802e0727.webp?s=e60025041172f1fdd1b5fd6cba673207fd891524",
+    "addedAt": "2026-11-20T00:31:36.791Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.8€, sotto soglia"
   }
 ]
