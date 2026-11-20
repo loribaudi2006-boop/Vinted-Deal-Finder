@@ -1,20 +1,5 @@
 [
   {
-    "id": "10837219677",
-    "category": "Console",
-    "title": "Scatola switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10837219677-scatola-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_015f8_b8fRWM4poJjSLFt9FDSEK1sY/310x430/34eb9fc3.webp?s=e8d612e3d3e9220e865a5e2af3ea08c93af64a29",
-    "addedAt": "2026-11-16T11:11:12.337Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10837257059",
     "category": "Console",
     "title": "Accessoire switch 1",
@@ -26817,5 +26802,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~30€, sotto soglia"
+  },
+  {
+    "id": "10892201215",
+    "category": "Console",
+    "title": "Ps4 nova mas com porta do HDMI por arranjar",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10892201215-ps4-nova-mas-com-porta-do-hdmi-por-arranjar?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_020be_6Sz2rzjPgSTVThDXj9MWiPdb/310x430/65e230c2.webp?s=d54d7fbce31e7622255c6bb57d215cb2ea2fac42",
+    "addedAt": "2026-11-20T11:03:19.527Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 nova mas com porta do HDMI por arranjar\nBuone·PlayStation·Caricato 2 min fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nA ps4 está nova funciona normalmente do tem que meter uma nova porta de HDMI\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Porta HDMI danneggiata da sostituire",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 52.3
+  },
+  {
+    "id": "10892262208",
+    "category": "Console",
+    "title": "PlayStation 4 + 2 giochi",
+    "price": 58,
+    "totalPrice": 61.6,
+    "reason": "prezzo 55% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10892262208-playstation-4-2-giochi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_015e9_4YjnVtx68VZhP5hPUNESzh13/310x430/a473c69e.webp?s=3441aa8aa3826d0a9adf18d2f7e77e33aea78e37",
+    "addedAt": "2026-11-20T11:08:28.747Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 5\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4 + 2 giochi\nBuone·Sony·Caricato un minuto fa\n\n58,00 €\n\n61,60 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlayStation 4 di colore bianca con i due cavi\nConsole usata ma pulita e in buone condizioni\nE due giochi: hogwarts legacy e the last of us 2\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 38.4
   }
 ]
