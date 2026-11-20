@@ -1,20 +1,5 @@
 [
   {
-    "id": "10837909323",
-    "category": "Console",
-    "title": "PlayStation PS5 Pro",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10837909323-playstation-ps5-pro?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01c97_NctHRrwoBtY8fXZTdXVej3Sr/310x430/9264e392.webp?s=bc194cd472254785f1ccb454732f593150d11c13",
-    "addedAt": "2026-11-16T12:07:07.813Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-53.2€, sotto soglia"
-  },
-  {
     "id": "10837989519",
     "category": "Console",
     "title": "PS4 Fat 1TB",
@@ -26847,5 +26832,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 60.3
+  },
+  {
+    "id": "10892948481",
+    "category": "Console",
+    "title": "Nintendo DS Lite Rosa funzionante (leggere descrizione / touch graffiato)",
+    "price": 23,
+    "totalPrice": 24.85,
+    "reason": "parola chiave: \"graffiato\"",
+    "url": "https://www.vinted.it/items/10892948481-nintendo-ds-lite-rosa-funzionante-leggere-descrizione-touch-graffiato?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_003fc_QiwBBAH6Zx26s8M2VrrnmdeN/310x430/b3f99028.webp?s=f168f5985af43f993c62b8269482cc4b8ddf9536",
+    "addedAt": "2026-11-20T12:10:31.936Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.15€, sotto soglia"
+  },
+  {
+    "id": "10892952813",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10892952813-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00b22_MEy3WsuGC1pcaKz3oiZ5FA9D/310x430/b195e320.webp?s=fd1a0fce3c2cdb8564f08d90156cc8bdc4e1a3f1",
+    "addedAt": "2026-11-20T12:10:31.936Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
   }
 ]
