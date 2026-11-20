@@ -26702,5 +26702,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~8.8€, sotto soglia"
+  },
+  {
+    "id": "10888856792",
+    "category": "Console",
+    "title": "Xbox one 2013",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10888856792-xbox-one-2013?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_022a9_fR7CdRw48Vc7KWQATKGNLuVz/310x430/a2d774a6.webp?s=77fefecfa925c30a2539fdfb68c64bd0c4efa9cd",
+    "addedAt": "2026-11-20T00:35:43.865Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10888895419",
+    "category": "Console",
+    "title": "pezzi di ricambio ps4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10888895419-pezzi-di-ricambio-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01411_3sZer7XHitXqW8U8sBTyRsWF/310x430/dcae3e2e.webp?s=049b9edae28eea14bf1af5f2b97e49cc5477e417",
+    "addedAt": "2026-11-20T00:41:54.332Z",
+    "processed": false,
+    "triaged": false
   }
 ]
