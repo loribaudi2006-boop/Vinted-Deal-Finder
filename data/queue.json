@@ -1,38 +1,5 @@
 [
   {
-    "id": "10845381615",
-    "category": "Console",
-    "title": "Ps5 Concours - lire description(je donne le top à chaque achat)",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10845381615-ps5-concours-lire-descriptionje-donne-le-top-a-chaque-achat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01893_P4W4ydrp2Fb3WnxCNeTDRtTS/310x430/2323f246.webp?s=02d026c1ae9b84df89c4cf7eeb4a69f8d109abfc",
-    "addedAt": "2026-11-16T20:24:14.007Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
-    "id": "10845461524",
-    "category": "Console",
-    "title": "Nintendo switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10845461524-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00d07_zoNp2N3aW2E2ycfQe6bc8ota/310x430/cb6ed9dd.webp?s=b731e9b721113172dd2989c7f9dd69f7fad360d0",
-    "addedAt": "2026-11-16T20:29:42.385Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nBuone·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nProprio adesso\n⚠️ ne pas acheter à ce prix. 1 euro proposé vous prix. Switch avec housse Mario kart est accessoire ring fit. Sans cartouche Vendu sans chargeur consoles fonctionne parfaitement 2 Joy con inclus avec pas 4\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza cartellucce, senza caricatore, 2 Joy-con inclusi invece di 4",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 100
-  },
-  {
     "id": "10845571052",
     "category": "Console",
     "title": "PlayStation 4 compra di 3 joystick",
@@ -27562,8 +27529,10 @@
     "url": "https://www.vinted.it/items/10899316201-lot-de-jeux-ps4-et-une-manette-de-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01ffb_ig3qhd2HHoaWiW6Nhcfqq6rn/310x430/9d2865cc.webp?s=db905a0e7502f5fe4026e650f5ce4b08debb1f05",
     "addedAt": "2026-11-20T20:21:05.901Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   },
   {
     "id": "10899306424",
@@ -27575,8 +27544,13 @@
     "url": "https://www.vinted.it/items/10899306424-ps4-tres-bonne-etat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01aeb_7xrPabWfjfZyGr4ihnea7Ac6/310x430/7e15d65c.webp?s=1ac29de22c47d32f8b50bbc31c6c101b17866cd2",
     "addedAt": "2026-11-20T20:21:05.901Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 Tres bonne état\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nJe vend ma ps4 non endommagé tres bonne état pas tres cher avec manette chargeur inclus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   },
   {
     "id": "10899301897",
@@ -27588,7 +27562,60 @@
     "url": "https://www.vinted.it/items/10899301897-sony-psp-1004-nera-fat-da-sbloccare-per-ricambi-accessori-e-batteria-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_018f8_3qzZKSaNHAfuuPD9CW1izm1g/310x430/af4acfce.webp?s=cdea3422881b3715d4be0284995beac6d87a1e3a",
     "addedAt": "2026-11-20T20:21:05.901Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.55€, sotto soglia"
+  },
+  {
+    "id": "10899336165",
+    "category": "Console",
+    "title": "PlayStation 5 & manettes Sony",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10899336165-playstation-5-manettes-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00000_4xgjoC7SNYLUBZARrPB8s71W/310x430/f63e7a34.webp?s=85f43c99daf96652312196d24db830a0ae05ce6d",
+    "addedAt": "2026-11-20T20:23:12.747Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 5 & manettes Sony\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nBuone\nCaricato\nun minuto fa\nAvec les câbles et la console\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 270
+  },
+  {
+    "id": "10899323241",
+    "category": "Console",
+    "title": "Console Nintendo Switch manque une manette",
+    "price": 54,
+    "totalPrice": 57.4,
+    "reason": "prezzo 72% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10899323241-console-nintendo-switch-manque-une-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02379_XqAyAm2eCL3DchVH8vowHgtm/310x430/1b941eeb.webp?s=3b437903f99dae8585ddd04b438df4b36b1e91fd",
+    "addedAt": "2026-11-20T20:23:12.747Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nConsole Nintendo Switch manque une manette\nOttime·Nintendo·Caricato 2 min fa\n\n54,00 €\n\n57,40 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nConsole Nintendo Switch\nTrès bonne état\nmanque une manette\nEnvoie par mondial Relay\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "manca una manette (manca un controller)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 67.6
+  },
+  {
+    "id": "10899365781",
+    "category": "Console",
+    "title": "Cagnotte pour ma ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10899365781-cagnotte-pour-ma-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0207a_J8HAUUTTzmQhnNeSniTbXuYb/310x430/5be0bae2.webp?s=83806158a1b9f134779debfd0eac347cf75368b0",
+    "addedAt": "2026-11-20T20:25:17.168Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
