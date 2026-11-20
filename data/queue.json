@@ -27203,8 +27203,10 @@
     "url": "https://www.vinted.it/items/10896386139-procuro-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_002ba_tgbkXskgyRLQcQRqniwgVWyB/310x430/43e758dd.webp?s=98ab88de4dbb7d16f174ec7d02d31bba67c32e18",
     "addedAt": "2026-11-20T16:36:04.593Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3€, sotto soglia"
   },
   {
     "id": "10896378168",
@@ -27216,8 +27218,13 @@
     "url": "https://www.vinted.it/items/10896378168-ps4-slim-non-funzionante?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00d14_bEME6cerc29wEjWWAsL7oKry/310x430/e14bd4f6.webp?s=2ed1262661b6dbcfda6ab5f276ad1f1dc977f35a",
     "addedAt": "2026-11-20T16:36:04.593Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim non funzionante\nOttime·PlayStation·Caricato 7 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n7 min fa\nPs4 slim non funzionante non si accende\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "non si accende",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   },
   {
     "id": "10896419002",
@@ -27229,8 +27236,10 @@
     "url": "https://www.vinted.it/items/10896419002-boite-de-switch-lite-jaune?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01f29_5RBjDGtEasn3VK4C9HAVovnr/310x430/f51600ae.webp?s=ff508baa21dfca428336637de7105996f182259d",
     "addedAt": "2026-11-20T16:38:08.541Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.05€, sotto soglia"
   },
   {
     "id": "10896420256",
@@ -27257,6 +27266,36 @@
     "url": "https://www.vinted.it/items/10896441390-console-nintendo-wii-bianca-funzionante-per-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01b8f_egGaSjBsKeANYRRT2C8gLTvL/310x430/81934af8.webp?s=b877e4e40a282f4ff0c34849869fa4074a8a8b8e",
     "addedAt": "2026-11-20T16:40:12.932Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~8.3€, sotto soglia"
+  },
+  {
+    "id": "10896539180",
+    "category": "Console",
+    "title": "PS4 et manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10896539180-ps4-et-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_02275_NtXGTN56KB57xmKdsuyQ5t3C/310x430/ff6e25a7.webp?s=ac4c5e8297be79fcc57cfba0829cb36bdcdb885f",
+    "addedAt": "2026-11-20T16:47:26.960Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.3€, sotto soglia"
+  },
+  {
+    "id": "10896566018",
+    "category": "Console",
+    "title": "PS4 no joystick + GTA 5",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10896566018-ps4-no-joystick-gta-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00160_q4zPe92qG93pSP1YD6NwUBnP/310x430/88bd4838.webp?s=e8621fc2f8cf3ba4dbbbac028b326f9170de94a8",
+    "addedAt": "2026-11-20T16:49:33.915Z",
     "processed": false,
     "triaged": false
   }
