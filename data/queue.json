@@ -1,53 +1,5 @@
 [
   {
-    "id": "10843099696",
-    "category": "Console",
-    "title": "Ps5 ( lire description ! )",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10843099696-ps5-lire-description?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01d53_TvpbQAa2nhB2nPVBQdotbGoA/310x430/be86a133.webp?s=2694e35f2d5cd2fc5ce4be100c6e806ad4ad593c",
-    "addedAt": "2026-11-16T18:02:54.259Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
-    "id": "10843151468",
-    "category": "Console",
-    "title": "PS4 FAT CUH-1116A – Da riparare",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10843151468-ps4-fat-cuh-1116a-da-riparare-semplice?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_011c8_HE2iKdx3DHPtHAjjbkGWBGfZ/310x430/acbe9399.webp?s=f3c8866b397178555a3c40821b55dda1a83e2a10",
-    "addedAt": "2026-11-16T18:04:58.695Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "o\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 FAT CUH-1116A – Da riparare, semplice\nOttime·PlayStation·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\n🎮 VENDO PLAYSTATION 4 FAT – DA RIPARARE\n\n⚠️ CONSOLE CON PROBLEMA\n\nLa PS4 si accende, ma dopo poco si spegne improvvisamente.\n\n🔧 Venduta come NON FUNZIONANTE, ideale per riparazione, tecnici o recupero ricambi.\n\n📌 Modello: CUH-1116A\n🔌 Cavo di alimentazione incluso.\n📸 Foto reali dell'oggetto.\n\n💰 PREZZO TRATTABILE – ACCETTO OFFERTE!\n🔥 VENDITA URGENTE!\n📩 Info in privato.\n\n⚡ SEMPRE DISPONIBILE!!\n\n#PS4 #PlayStation4 #PS4Fat #Sony #Console #ConsoleGaming #Gaming #Videogiochi #DaRiparare #PS4Ricambi #RicambiConsole #RiparazioneConsole #PlayStationItalia #VintedItalia #Occasione #GamingSetup #Videogames #Elettronica #Tecnologia #PrezzoTrattabile\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Si accende ma dopo poco si spegne improvvisamente",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.55
-  },
-  {
-    "id": "10843222018",
-    "category": "Console",
-    "title": "Nintendo switch tm2 Dochnstore",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10843222018-nintendo-switch-tm2-dochnstore?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0134a_nddhrLMXLC5WC4MVUSLBWkmh/310x430/33ff4054.webp?s=cfda850a97d09b16646fa27eff814315be066205",
-    "addedAt": "2026-11-16T18:09:07.428Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10843279142",
     "category": "Console",
     "title": "Ps4 avec clavier",
@@ -27415,8 +27367,10 @@
     "url": "https://www.vinted.it/items/10897546565-xbox-one-500go-noir?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c2e_KdS5M4WcLEuNXs385bq4xfuS/310x430/4e29bf72.webp?s=21e583b7376b9feb303ab3887150326b1bb35121",
     "addedAt": "2026-11-20T18:01:08.810Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~11.8€, sotto soglia"
   },
   {
     "id": "10897537067",
@@ -27428,8 +27382,10 @@
     "url": "https://www.vinted.it/items/10897537067-xbox-one-per-riparazione-o-ricambi?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_015c8_2jhdiuE1NNDrnHpncZA3C1RR/310x430/b0485732.webp?s=cdc93c89b9176ef765602b45e7cd4b9959fa9387",
     "addedAt": "2026-11-20T18:01:08.810Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~14.9€, sotto soglia"
   },
   {
     "id": "10897521814",
@@ -27441,7 +27397,9 @@
     "url": "https://www.vinted.it/items/10897521814-ps4-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_024b5_VdqjYpJzeXxbp3a8AnFsagGa/310x430/273e46ff.webp?s=d73a9c5488fc9520a96ff443b50d8c60f558c98b",
     "addedAt": "2026-11-20T18:01:08.810Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~10.55€, sotto soglia"
   }
 ]
