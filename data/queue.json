@@ -1,35 +1,5 @@
 [
   {
-    "id": "10846945631",
-    "category": "Console",
-    "title": "Base de charge switch",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10846945631-base-de-charge-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02302_PLFQPBwnosa1jRVXtaYe8E5B/310x430/aab96a3e.webp?s=349f97ab6a0d1c5535f5f969b5141df1b41cce3b",
-    "addedAt": "2026-11-16T22:30:21.988Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.3€, sotto soglia"
-  },
-  {
-    "id": "10846952881",
-    "category": "Console",
-    "title": "PS5 Pro",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10846952881-ps5-pro?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_001d0_dZ6BYP4BamMuop1hLu3BW5uR/310x430/d844301b.webp?s=56f2c68eb3289cc7bfcf7c3c2f14da40a9a8d3c0",
-    "addedAt": "2026-11-16T22:31:24.230Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-53.2€, sotto soglia"
-  },
-  {
     "id": "10847099219",
     "category": "Console",
     "title": "PlayStation 4",
@@ -27668,5 +27638,38 @@
     "geminiFault": "Manca il controller (da acquistarne uno separatamente)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10900648338",
+    "category": "Console",
+    "title": "🎁 🎁 Concours ps5 🎁🎁",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10900648338-concours-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00a38_mGY3ozg8XuQvHt2jGXiokXBM/310x430/3e32c807.webp?s=ee73a53510b0a549983d2d85fdb729dcbd1f8e0b",
+    "addedAt": "2026-11-20T22:31:55.451Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10900658687",
+    "category": "Console",
+    "title": "🎮 Nintendo Switch – bon état + 5 jeux + pochette Pokémon",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10900658687-nintendo-switch-bon-etat-5-jeux-pochette-pokemon?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00a90_BRCn8zcHJ53439b9MWTxfuaW/310x430/6ba878c2.webp?s=fd86271915b60dce251c07de8f73e16f8d399eb0",
+    "addedAt": "2026-11-20T22:34:00.277Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "| Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\n🎮 Nintendo Switch – bon état + 5 jeux + pochette Pokémon\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\n🎮 Nintendo Switch – bon état + 5 jeux + pochette Pokémon\n\nJe vends ma Nintendo Switch première génération, en bon état et parfaitement fonctionnelle.\n\nVendue avec :\n\n* 🥋 Cobra Kai\n* ⚽ FIFA 22\n* ⚽ FIFA 23\n* 🎮 Pokémon Bouclier\n* 🏎️ Mario Kart (pas Mario World)\n* 🎒 Une pochette de transport Pokémon\n\nConsole idéale pour jouer en famille ou entre amis.\n\nN’hésitez pas à me contacter pour plus d’informations !\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 66.3
   }
 ]
