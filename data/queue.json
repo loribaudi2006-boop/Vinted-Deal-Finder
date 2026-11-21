@@ -27599,8 +27599,11 @@
     "url": "https://www.vinted.it/items/10901496119-une-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02481_BhVGohrEcsZpLy2zmTTErYeb/310x430/ac95378d.webp?s=0060f532d01c6c3fac44b12afe1631208f72c301",
     "addedAt": "2026-11-21T00:59:59.079Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10901576123",
@@ -27625,6 +27628,19 @@
     "url": "https://www.vinted.it/items/10901605286-cherche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_0012e_8K1Ci1WVghqmKSMZ4QBVhY2X/310x430/01f0ac1e.webp?s=99911f23df6cc06bc3b4cd6d944970d384b77a38",
     "addedAt": "2026-11-21T01:24:39.349Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10901658785",
+    "category": "Console",
+    "title": "cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10901658785-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00068_sPXeUhPrMkUPPNhjgvu6wJq8/310x430/cdd43185.webp?s=b02e5f41687183040fe78780e6ba36426212a724",
+    "addedAt": "2026-11-21T01:34:56.233Z",
     "processed": false,
     "triaged": false
   }
