@@ -1,21 +1,5 @@
 [
   {
-    "id": "10848109035",
-    "category": "Console",
-    "title": "Lotto 2 Sony PSP 1000 Fat 1 nera funzionante + 1 Bianca per ricambi",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "parola chiave: \"per ricambi\"",
-    "url": "https://www.vinted.it/items/10848109035-lotto-2-sony-psp-1000-fat-1-nera-funzionante-1-bianca-per-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00fc7_D3hc5ZynKskmaJg8dxaABEYb/310x430/742b21ce.webp?s=a53a84786fee7108bdc7aa408bf387953b7056fa",
-    "addedAt": "2026-11-17T01:25:55.751Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10848193064",
     "category": "Console",
     "title": "Volant ps4/ps5",
@@ -27628,6 +27612,19 @@
     "url": "https://www.vinted.it/items/10901576123-leggi-bene-ps4-1tera?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c0b_77QU6Vjwh1WsMHhvEUbgEXJe/310x430/85a4931e.webp?s=8cb720f66e09d64af69a3e989bd60d73744f9f69",
     "addedAt": "2026-11-21T01:16:25.863Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10901605286",
+    "category": "Console",
+    "title": "Cherche ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10901605286-cherche-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0012e_8K1Ci1WVghqmKSMZ4QBVhY2X/310x430/01f0ac1e.webp?s=99911f23df6cc06bc3b4cd6d944970d384b77a38",
+    "addedAt": "2026-11-21T01:24:39.349Z",
     "processed": false,
     "triaged": false
   }
