@@ -1,20 +1,5 @@
 [
   {
-    "id": "10854285847",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10854285847-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_0042e_2CEMXfWArS4KjSktU2N7zVxE/310x430/cbf4cf89.webp?s=91ddae698bb32f983dee197d462d30057647b60d",
-    "addedAt": "2026-11-17T14:41:08.086Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10854334146",
     "category": "Console",
     "title": "Xbox One",
@@ -28972,7 +28957,45 @@
     "url": "https://www.vinted.it/items/10908215135-ps5-disc?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d65_Thwnb3ozQheQb8FqaSY3ZRfE/310x430/71556961.webp?s=6999b3352b9319fc1f764f54d32bea50b1fa8dff",
     "addedAt": "2026-11-21T14:33:31.178Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10908373842",
+    "category": "Console",
+    "title": "ps4 avec manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10908373842-ps4-avec-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a59_BzrViMqRB4vvrDkqEMK5PD2F/310x430/5e75166f.webp?s=f33e0668e9c0f8129608aee3f3ce11105fa0d88b",
+    "addedAt": "2026-11-21T14:41:49.357Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 4\nElettronicaVideogiochi e consoleConsolePlayStation Console\nps4 avec manette\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 avec manette en très bonne état avec câble d’alimentation\nEnvoi rapide et soigner\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10908405718",
+    "category": "Console",
+    "title": "Ps4- slim",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 63% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10908405718-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_021c8_EMPC1pSrbDrb6L6VGsj3AYfS/310x430/2910023d.webp?s=bc6ce7f32a750d62a9c1b2c5996d0924db63c659",
+    "addedAt": "2026-11-21T14:43:53.488Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4- slim\nBuone·PlayStation·Caricato un minuto fa\n\n48,00 €\n\n51,10 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlayStation 4 Slim – guter gebrauchter Zustand\n\nIch verkaufe meine PS4 Slim.\n\nDie Konsole befindet sich in einem normalen gebrauchten Zustand und weist übliche Gebrauchsspuren auf.\n\nSie eignet sich perfekt zum Spielen und funktioniert einwandfrei (sofern zutreffend).\n\nBei Interesse oder Fragen gerne melden!\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
