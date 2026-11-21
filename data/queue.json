@@ -27761,5 +27761,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-16.45€, sotto soglia"
+  },
+  {
+    "id": "10901219088",
+    "category": "Console",
+    "title": "cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10901219088-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0064a_Hih97hCFCNGB5BsKXrj12rDp/310x430/08a1e7d1.webp?s=0fa1818b35e3ab9d9ff86fe6b485902bbdda1082",
+    "addedAt": "2026-11-21T00:02:26.706Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
