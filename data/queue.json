@@ -1,20 +1,5 @@
 [
   {
-    "id": "10861624185",
-    "category": "Console",
-    "title": "Xbox ONE",
-    "price": 39,
-    "totalPrice": 41.65,
-    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10861624185-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00ffb_LkYVHUDpwAtJTUZRiEB8JwQG/310x430/b20e4d71.webp?s=d4816f64ff7cc32fbe1319c2419c54654f20c2d5",
-    "addedAt": "2026-11-17T23:53:01.046Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~23.35€, sotto soglia"
-  },
-  {
     "id": "10861823992",
     "category": "Console",
     "title": "PlayStation 4",
@@ -28384,6 +28369,21 @@
     "url": "https://www.vinted.it/items/10915740546-jeux-concours-ps5-a-gagner?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01a6a_dKuYt4HqnRpkJn4sYF6TCDbk/310x430/d0f3131a.webp?s=f94ca97faf2676023c3dcd23c851e7365f179490",
     "addedAt": "2026-11-21T23:45:12.351Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10915809886",
+    "category": "Console",
+    "title": "Ps4 segunda mano",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10915809886-ps4-segunda-mano?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00311_4sRhSXo5R5LLs1CBxqoUkMgs/310x430/d9741bb7.webp?s=ceec72913f91479c1cea603228da8ec876fcc4c6",
+    "addedAt": "2026-11-21T23:55:37.438Z",
     "processed": false,
     "triaged": false
   }
