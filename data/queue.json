@@ -1,20 +1,5 @@
 [
   {
-    "id": "10849648874",
-    "category": "Console",
-    "title": "Concours Remporter deux PlayStation 5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10849648874-concours-remporter-deux-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c0b_vhtcKVhinvjwFZyBDGP6FqxW/310x430/520443cf.webp?s=145dccf1a34cd7cd7977adba27aaad9eacc90187",
-    "addedAt": "2026-11-17T07:50:27.865Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10849744153",
     "category": "Console",
     "title": "Nintendo Switch Sports",
@@ -27743,5 +27728,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 345
+  },
+  {
+    "id": "10903007006",
+    "category": "Console",
+    "title": "PS VR PS4 PlayStation",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10903007006-ps-vr-ps4-playstation?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0142d_bReYZhQSMkzPZAxQVcgq95dQ/310x430/4d84688f.webp?s=a70afc1f2d53b9933c61e6473e0826204c8da6d2",
+    "addedAt": "2026-11-21T07:56:48.418Z",
+    "processed": false,
+    "triaged": false
   }
 ]
