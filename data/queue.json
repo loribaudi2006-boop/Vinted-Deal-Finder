@@ -27695,7 +27695,10 @@
     "url": "https://www.vinted.it/items/10902162067-nintendo-switch-light?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00c05_rxe9zuj3mqCqLTgTMfiW63vg/310x430/4b4619ed.webp?s=29be20b2479503527a8b2b916edc0947a4256836",
     "addedAt": "2026-11-21T03:37:54.855Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
