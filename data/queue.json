@@ -1,35 +1,5 @@
 [
   {
-    "id": "10849812728",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10849812728-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00eb8_2BwsoQ3whWVb69tzysNPcjaa/310x430/72dcbf67.webp?s=09a38a3886eb710c8afbcd215726aa306ccfdd10",
-    "addedAt": "2026-11-17T08:18:27.477Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10849836865",
-    "category": "Console",
-    "title": "Switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10849836865-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_025ac_2CT93QCkqaRLqdBYMAr4Ae4r/310x430/d36d8d26.webp?s=d15ce1aba891fa2274b56b57705218bb0bb6b5d9",
-    "addedAt": "2026-11-17T08:23:40.178Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10849894460",
     "category": "Console",
     "title": "playstation 4 - VS 9.60 - 500GB",
@@ -27791,5 +27761,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-37.45€, sotto soglia"
+  },
+  {
+    "id": "10903169360",
+    "category": "Console",
+    "title": "Console Sony PSP-2004 Piano Black + Custodia Originale – Non testata / Da ricambi",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non testata\"",
+    "url": "https://www.vinted.it/items/10903169360-console-sony-psp-2004-piano-black-custodia-originale-non-testata-da-ricambi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_026dd_mVySY5BgUMLft371oqmzazJ2/310x430/e6b3cb9c.webp?s=56630505250f911446d27225b5ddd1f919c30d52",
+    "addedAt": "2026-11-21T08:21:43.260Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.8€, sotto soglia"
   }
 ]
