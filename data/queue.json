@@ -27788,5 +27788,53 @@
     "geminiFault": "La console démarre directement en mode sans échec",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.8
+  },
+  {
+    "id": "10903338086",
+    "category": "Console",
+    "title": "Boîte ps4",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 88% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10903338086-boite-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0170f_oeuHuXvwq8QAjccLxdLge7AH/310x430/2be599b3.webp?s=044fe09da84be811e768a1a83b908cbed6b5bafe",
+    "addedAt": "2026-11-21T08:42:27.158Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.45€, sotto soglia"
+  },
+  {
+    "id": "10903330968",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10903330968-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00066_m5aQkcMY9BLfYc8GhD3PQXu4/310x430/0bf4b964.webp?s=c7233402e942515a3dda18c5e22cbf446f74ad8d",
+    "addedAt": "2026-11-21T08:42:27.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10903328429",
+    "category": "Console",
+    "title": "Switch",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10903328429-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e84_rp1vvV2NKcEtW7NLvLKrRsEa/310x430/7234c485.webp?s=47c44357afc73c9e439de9cdee758d6a659cbba6",
+    "addedAt": "2026-11-21T08:42:27.159Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n9\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch\nOttime·Nintendo·Caricato 3 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nSwitch avec accessoire\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 80
   }
 ]
