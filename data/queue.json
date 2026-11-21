@@ -1,38 +1,5 @@
 [
   {
-    "id": "10849744153",
-    "category": "Console",
-    "title": "Nintendo Switch Sports",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10849744153-nintendo-switch-sports?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_009f2_dpwirv3yM6MWoZKiJJnpWA6R/310x430/44bf127e.webp?s=f589145512ff18ed142fa4a339cf4899176c1c0b",
-    "addedAt": "2026-11-17T08:12:13.252Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~13.3€, sotto soglia"
-  },
-  {
-    "id": "10849746446",
-    "category": "Console",
-    "title": "Playstation 4 slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10849746446-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_019a7_NYw5A4Z76AwXj8kJYxKuivmy/310x430/34f966d8.webp?s=538d39d215eccaa2300597aff138c9740bec905c",
-    "addedAt": "2026-11-17T08:12:13.252Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4 slim\nOttime·PlayStation·Caricato 5 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n5 min fa\nPlayStation 4 slim perfettamente funzionante vendo per inutilizzo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 56.8
-  },
-  {
     "id": "10849812728",
     "category": "Console",
     "title": "PlayStation 4",
@@ -27809,5 +27776,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-6.7€, sotto soglia"
+  },
+  {
+    "id": "10903114210",
+    "category": "Console",
+    "title": "Accesoir switch 1",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 82% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10903114210-accesoir-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_012b0_EQuWAjAmadKg491ToEhqXgpp/310x430/0cf9c5f2.webp?s=02275ee7dd3df88a8d6802c0c18d9336a0495a46",
+    "addedAt": "2026-11-21T08:13:26.645Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-37.45€, sotto soglia"
   }
 ]
