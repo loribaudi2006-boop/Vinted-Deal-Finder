@@ -27679,8 +27679,11 @@
     "url": "https://www.vinted.it/items/10902140383-leggi-bene-ps4-1tera?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c0b_77QU6Vjwh1WsMHhvEUbgEXJe/310x430/85a4931e.webp?s=8cb720f66e09d64af69a3e989bd60d73744f9f69",
     "addedAt": "2026-11-21T03:31:42.636Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10902162067",
