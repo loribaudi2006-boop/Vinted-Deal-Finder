@@ -27663,6 +27663,22 @@
     "url": "https://www.vinted.it/items/10902561054-non-e-switch-originale?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00dd9_ktCJC3fmSNeXe2XvKTMRrjRv/310x430/13ad912a.webp?s=63cdddfbc1b189fb9fffb9510b489aa2146e676b",
     "addedAt": "2026-11-21T06:02:48.766Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10902654452",
+    "category": "Console",
+    "title": "[Gezocht] playstation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10902654452-gezocht-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02068_fNRfEvGtJ9HcruRggxuFCffg/310x430/ccc844e8.webp?s=02ba734342ba22f42c1a2da5f0e8044b127074e0",
+    "addedAt": "2026-11-21T06:35:57.912Z",
     "processed": false,
     "triaged": false
   }
