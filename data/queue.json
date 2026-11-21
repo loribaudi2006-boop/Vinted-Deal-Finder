@@ -27615,6 +27615,22 @@
     "url": "https://www.vinted.it/items/10901758039-playstation-5-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02107_JsdefUqkRcGuT5SFjEJKMpHx/310x430/75caa7c5.webp?s=d47a361f3124630c67844bacf41cd57ca1d98ed8",
     "addedAt": "2026-11-21T01:57:32.460Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10901890236",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10901890236-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02532_MYuCPYCt8hiT5dAbbdQgVP69/310x430/cc145f08.webp?s=ada8b8b5a57bc9e503554315f0fa0d67edf6b76d",
+    "addedAt": "2026-11-21T02:28:22.112Z",
     "processed": false,
     "triaged": false
   }
