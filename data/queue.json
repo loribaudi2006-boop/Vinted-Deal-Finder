@@ -1,21 +1,5 @@
 [
   {
-    "id": "10848327316",
-    "category": "Console",
-    "title": "Cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10848327316-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01259_CjAUD5Vj42rXarTe2McJq2aC/310x430/9e59a78f.webp?s=b80925316372ec4cefdc4adc46d177c78c02b685",
-    "addedAt": "2026-11-17T02:02:53.469Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10849136800",
     "category": "Console",
     "title": "Console Nintendo Wii Bianca RVL-001 - Per pezzi di ricambio / Non testata",
@@ -27615,8 +27599,11 @@
     "url": "https://www.vinted.it/items/10901658785-cerco-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00068_sPXeUhPrMkUPPNhjgvu6wJq8/310x430/cdd43185.webp?s=b02e5f41687183040fe78780e6ba36426212a724",
     "addedAt": "2026-11-21T01:34:56.233Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10901758039",
