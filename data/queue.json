@@ -1,20 +1,5 @@
 [
   {
-    "id": "10849386427",
-    "category": "Console",
-    "title": "Boite vide switch 2",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10849386427-boite-vide-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0215a_CZkFrwDckeHX2eWk3X3dofZY/310x430/66adcd98.webp?s=e3c07bc4c88e9360bfff0cfaf89334827e444e75",
-    "addedAt": "2026-11-17T06:48:17.671Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-20€, sotto soglia"
-  },
-  {
     "id": "10849431350",
     "category": "Console",
     "title": "Scatola Originale PlayStation 5 Digital PS5",
@@ -27679,6 +27664,32 @@
     "url": "https://www.vinted.it/items/10902654452-gezocht-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02068_fNRfEvGtJ9HcruRggxuFCffg/310x430/ccc844e8.webp?s=02ba734342ba22f42c1a2da5f0e8044b127074e0",
     "addedAt": "2026-11-21T06:35:57.912Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10902702585",
+    "category": "Console",
+    "title": "Xbox ONE",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10902702585-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01deb_wee23SZ8Ct6d7MXmyqi5ij2m/310x430/b5b40ec4.webp?s=6c2dad95a6d231788f9706620f567d50e39aed75",
+    "addedAt": "2026-11-21T06:50:27.397Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10902712801",
+    "category": "Console",
+    "title": "Sorteo ps5 Y GTA VI",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10902712801-sorteo-ps5-y-gta-vi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a93_6Eofb64SffrzD6AMCbywuuuh/310x430/a4b54d01.webp?s=85fd9d33f222947cd04461ea4c77f9fae734fa9c",
+    "addedAt": "2026-11-21T06:56:39.662Z",
     "processed": false,
     "triaged": false
   }
