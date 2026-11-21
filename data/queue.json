@@ -1,38 +1,5 @@
 [
   {
-    "id": "10861027157",
-    "category": "Console",
-    "title": "🎮 PS5 Slim Digital 1 To + manette à gagner !",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10861027157-ps5-slim-digital-1-to-manette-a-gagner?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_017de_XtZpJzR6S4z4jRJfPdcVNPkX/310x430/bc17efa0.webp?s=771378baf67a098d4fbf156270fbb7bbf748a7f3",
-    "addedAt": "2026-11-17T22:42:58.141Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10861131409",
-    "category": "Console",
-    "title": "PS4 with controllers and 4 games",
-    "price": 59.99,
-    "totalPrice": 63.69,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10861131409-ps4-with-controllers-and-4-games?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00276_QyPRXABYEiPjKqfEm8UgKWEA/310x430/0448e31b.webp?s=953e3d383133cb8c253de19a7d2ba28595224ae1",
-    "addedAt": "2026-11-17T22:42:58.141Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 with controllers and 4 games\nBuone·Sony·Caricato un minuto fa\n\n59,99 €\n\n63,69 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nLa PlayStation est en bon état malgré son utilisation depuis 2023 ; elle fonctionne parfaitement. Les jeux fonctionnent et sont en parfait état ; la jaquette du disque de Tekken 7 est légèrement usée/La manette noire n'est pas d'origine ; aucun bouton n'est défectueux, mais elle est en mauvais état. La manette LEED d'origine a un bouton L1 défectueux. Idéalement, vous devriez acheter une nouvelle manette.\n... altro\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manica nera non originale in cattivo stato, manica originale con tasto L1 difettoso, custodia Tekken 7 usurata",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50.31
-  },
-  {
     "id": "10861198725",
     "category": "Console",
     "title": "PlayStation 4 PS4 500 GB inkl. Controller & Kabel",
@@ -28319,5 +28286,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10915235421",
+    "category": "Console",
+    "title": "Nintendo Switch mit Hülle und Home",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10915235421-nintendo-switch-mit-hulle-und-home?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00df9_dTbmFt5RpXtwnx2tTD635Ve7/310x430/daab870a.webp?s=10d3555894c4b7a7735f9c4b766d93e9ebdf58fa",
+    "addedAt": "2026-11-21T22:36:44.473Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Catalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch mit Hülle und Home\nBuone·Nintendo·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nEine Nintendo Switch ohne Zubehör, nur mit Home und Schutzhülle\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza accessori, solo console con custodia e protezione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.55
   }
 ]
