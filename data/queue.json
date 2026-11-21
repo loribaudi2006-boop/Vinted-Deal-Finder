@@ -27631,8 +27631,11 @@
     "url": "https://www.vinted.it/items/10901890236-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02532_MYuCPYCt8hiT5dAbbdQgVP69/310x430/cc145f08.webp?s=ada8b8b5a57bc9e503554315f0fa0d67edf6b76d",
     "addedAt": "2026-11-21T02:28:22.112Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10901932684",
@@ -27644,6 +27647,22 @@
     "url": "https://www.vinted.it/items/10901932684-ps4-manette-et-fil?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_002f0_QbUjDYLVgBFtcHPiLWkc9KDK/310x430/9d4687ac.webp?s=a40d66b979a6662a64144fac6b52d14f0f65319a",
     "addedAt": "2026-11-21T02:38:38.137Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10902002580",
+    "category": "Console",
+    "title": "Ps4 + Manette  – Bonne Affaire ( 500 giga )",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10902002580-ps4-manette-bonne-affaire-500-giga?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013a9_uEkdY6324WHXG81VfNo78S17/310x430/7efd14c0.webp?s=40724fac24e35fd9c947bcdc774b28bac1080a7f",
+    "addedAt": "2026-11-21T03:17:13.584Z",
     "processed": false,
     "triaged": false
   }
