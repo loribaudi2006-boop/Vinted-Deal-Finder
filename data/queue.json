@@ -1,37 +1,5 @@
 [
   {
-    "id": "10849226040",
-    "category": "Console",
-    "title": "Sacoche Switch 1 Mario Kart",
-    "price": 8,
-    "totalPrice": 9.1,
-    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10849226040-sacoche-switch-1-mario-kart?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c83_agj4Naz6zDUMMFVonqLZRDcv/310x430/65c7a304.webp?s=b5faa3cf88c4356609070945e9e778288368edc4",
-    "addedAt": "2026-11-17T05:57:30.651Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10849250440",
-    "category": "Console",
-    "title": "Frontalino Ps5 fat",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10849250440-frontalino-ps5-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b98_rgtNgMxesPdo4SA9AK9jhGZL/310x430/e47cd28e.webp?s=adc04b2937aaf99e4f423b4574cf0ca8bea2040d",
-    "addedAt": "2026-11-17T06:05:48.931Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10849386427",
     "category": "Console",
     "title": "Boite vide switch 2",
@@ -27684,5 +27652,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10902561054",
+    "category": "Console",
+    "title": "Non è switch originale",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10902561054-non-e-switch-originale?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00dd9_ktCJC3fmSNeXe2XvKTMRrjRv/310x430/13ad912a.webp?s=63cdddfbc1b189fb9fffb9510b489aa2146e676b",
+    "addedAt": "2026-11-21T06:02:48.766Z",
+    "processed": false,
+    "triaged": false
   }
 ]
