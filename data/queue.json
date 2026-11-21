@@ -27677,5 +27677,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10902804552",
+    "category": "Console",
+    "title": "Ps4 slim une manette 250 go",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10902804552-ps4-slim-une-manette-250-go?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_003fe_E7WcLcxqbDfDnm7qvn28aE5y/310x430/7f123070.webp?s=e66868961ab2be9e82bab74755b0def518827e74",
+    "addedAt": "2026-11-21T07:17:22.854Z",
+    "processed": false,
+    "triaged": false
   }
 ]
