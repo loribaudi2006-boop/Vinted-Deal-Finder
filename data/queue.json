@@ -1,20 +1,5 @@
 [
   {
-    "id": "10861520035",
-    "category": "Console",
-    "title": "Super Nintendo Snes Pal con 1 pad originale - non testata",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10861520035-super-nintendo-snes-pal-con-1-pad-originale-non-testata?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01e7f_6XZKS2ABsQEuU8S3mnWPKpVD/310x430/4b00ed61.webp?s=5a853c3b8e7ace4242dff70f313ec38f5270fdc0",
-    "addedAt": "2026-11-17T23:36:33.816Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25.8€, sotto soglia"
-  },
-  {
     "id": "10861624185",
     "category": "Console",
     "title": "Xbox ONE",
@@ -28388,5 +28373,18 @@
     "geminiFault": "Un graffietto al lato posteriore",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 51.55
+  },
+  {
+    "id": "10915740546",
+    "category": "Console",
+    "title": "jeux concours ps5 à gagner",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10915740546-jeux-concours-ps5-a-gagner?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01a6a_dKuYt4HqnRpkJn4sYF6TCDbk/310x430/d0f3131a.webp?s=f94ca97faf2676023c3dcd23c851e7365f179490",
+    "addedAt": "2026-11-21T23:45:12.351Z",
+    "processed": false,
+    "triaged": false
   }
 ]
