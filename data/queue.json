@@ -1,23 +1,5 @@
 [
   {
-    "id": "10861198725",
-    "category": "Console",
-    "title": "PlayStation 4 PS4 500 GB inkl. Controller & Kabel",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10861198725-playstation-4-ps4-500-gb-inkl-controller-kabel?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01dc2_gJmyraPz3dwZGBU6vdJNMnLm/310x430/e0c6dea6.webp?s=792a70ece387f53ed67fb28265486795f16f6a64",
-    "addedAt": "2026-11-17T22:51:12.936Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 PS4 500 GB inkl. Controller & Kabel\nBuone·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nVerkaufe meine PlayStation 4 mit 500 GB Speicherplatz inklusive Controller, Netzkabel und Micro-USB-Kabel.\n\nDie Konsole funktioniert einwandfrei. Lediglich die R2-Taste des Controllers klemmt gelegentlich.\n\nBei Fragen gerne melden! 😊\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "R2-Taste des Controllers klemnmt gelegentlich",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40
-  },
-  {
     "id": "10861357826",
     "category": "Console",
     "title": "Xbox One 500GB",
@@ -28304,5 +28286,23 @@
     "geminiFault": "Senza accessori, solo console con custodia e protezione",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10915351922",
+    "category": "Console",
+    "title": "PlayStation 4 prima generazione",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10915351922-playstation-4-prima-generazione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_011eb_Y2z5CvUA7bi3PSFJhVoSCQvv/310x430/a882fa3c.webp?s=520e13a10ba666749a0aa1671f0093ec719d7657",
+    "addedAt": "2026-11-21T22:51:15.657Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "o\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 prima generazione\nBuone·PlayStation·Caricato 2 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nFunzionante ma con graffi\nVendo per inutilizzo della PlayStation 4\nScrivermi pure per altre foto.\nPrezzo trattabile\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "graffi, funzionante ma con graffi",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.8
   }
 ]
