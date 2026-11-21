@@ -1,21 +1,5 @@
 [
   {
-    "id": "10848193064",
-    "category": "Console",
-    "title": "Volant ps4/ps5",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 88% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10848193064-volant-ps4ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0031c_3o21BA6TK1LgPdFcHYMfEaAc/310x430/b6d64349.webp?s=13ea2de9969a01f5e40cc374bf09d64b5b253a3d",
-    "addedAt": "2026-11-17T01:40:18.290Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10843935867",
     "category": "Console",
     "title": "Nintendo Switch OLED Modell Rot/blau  Komplettset Ovp",
@@ -27615,8 +27599,11 @@
     "url": "https://www.vinted.it/items/10901576123-leggi-bene-ps4-1tera?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00c0b_77QU6Vjwh1WsMHhvEUbgEXJe/310x430/85a4931e.webp?s=8cb720f66e09d64af69a3e989bd60d73744f9f69",
     "addedAt": "2026-11-21T01:16:25.863Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10901605286",
