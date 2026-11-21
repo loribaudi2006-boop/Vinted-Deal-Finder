@@ -1,38 +1,5 @@
 [
   {
-    "id": "10850041517",
-    "category": "Console",
-    "title": "Ps4 Funzionante",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10850041517-ps4-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00069_rFdYW5oGqzdw5kBLQ4JvW89u/310x430/a799d576.webp?s=215de372dfbfa54fc0b4a7862714d4c0327358c7",
-    "addedAt": "2026-11-17T08:50:36.485Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 Funzionante\nOttime·Sony·Caricato un minuto fa\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPs4 funzionante ma non dispone dei cavi\nSpedizione\n6,99 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "non dispone dei cavi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
-    "id": "10850075577",
-    "category": "Console",
-    "title": "Porta joystick+ cuffie PS5 e Xbox",
-    "price": 35,
-    "totalPrice": 37.45,
-    "reason": "prezzo 91% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10850075577-porta-joystick-cuffie-ps5-e-xbox?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00cf8_XYcHcDxTjGdheG7hrzFGAV8c/310x430/0d230cb3.webp?s=04cd1f52ea30183dccf49aa0e6c48ee84d61b351",
-    "addedAt": "2026-11-17T08:54:45.229Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-12.45€, sotto soglia"
-  },
-  {
     "id": "10850156240",
     "category": "Console",
     "title": "Carcaça exterior PS4 Fat CUH-1004A",
@@ -27836,5 +27803,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 80
+  },
+  {
+    "id": "10903378294",
+    "category": "Console",
+    "title": "Boîte vide Nintendo switch édition Splatoon 2",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10903378294-boite-vide-nintendo-switch-edition-splatoon-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01897_NQggZuJJUzV5cVgSvbsrE4QN/310x430/481a62ec.webp?s=6aa6eeecd677bfa185788e84e8023a01c5f1d2e3",
+    "addedAt": "2026-11-21T08:48:42.911Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-30€, sotto soglia"
+  },
+  {
+    "id": "10903452165",
+    "category": "Console",
+    "title": "Cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10903452165-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_021bd_cJZYYUHsZFffEdfFykY8j2eY/310x430/1314a5b4.webp?s=39625c2a107da0d6004c47a8874f5306f09e49a2",
+    "addedAt": "2026-11-21T08:57:00.349Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
