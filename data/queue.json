@@ -1,21 +1,5 @@
 [
   {
-    "id": "10848033594",
-    "category": "Console",
-    "title": "Vorrei una ps5",
-    "price": 2,
-    "totalPrice": 2.8,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10848033594-vorrei-una-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00f31_igu3SDdUGgScGSRPX4AWe37k/310x430/44862e96.webp?s=48314fb3aaa349c7f7a7ffd638bca9445a2a96ed",
-    "addedAt": "2026-11-17T01:12:35.758Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10848109035",
     "category": "Console",
     "title": "Lotto 2 Sony PSP 1000 Fat 1 nera funzionante + 1 Bianca per ricambi",
@@ -27631,6 +27615,19 @@
     "url": "https://www.vinted.it/items/10901496119-une-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02481_BhVGohrEcsZpLy2zmTTErYeb/310x430/ac95378d.webp?s=0060f532d01c6c3fac44b12afe1631208f72c301",
     "addedAt": "2026-11-21T00:59:59.079Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10901576123",
+    "category": "Console",
+    "title": "Leggi bene! Ps4 1tera",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10901576123-leggi-bene-ps4-1tera?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c0b_77QU6Vjwh1WsMHhvEUbgEXJe/310x430/85a4931e.webp?s=8cb720f66e09d64af69a3e989bd60d73744f9f69",
+    "addedAt": "2026-11-21T01:16:25.863Z",
     "processed": false,
     "triaged": false
   }
