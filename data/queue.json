@@ -1,20 +1,5 @@
 [
   {
-    "id": "10850156240",
-    "category": "Console",
-    "title": "Carcaça exterior PS4 Fat CUH-1004A",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10850156240-carcaca-exterior-ps4-fat-cuh-1004a?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0131b_gfRbBMsr1F5to6rE1Np17vCL/310x430/c4853de3.webp?s=22bcd22283009df82e3e96e3506e7e5464becaa0",
-    "addedAt": "2026-11-17T09:04:05.053Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.7€, sotto soglia"
-  },
-  {
     "id": "10850226484",
     "category": "Console",
     "title": "PlayStation 4 slim",
@@ -27833,5 +27818,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10903523745",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10903523745-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00c6c_E5LXBWSaqrJjDtA1Pv6rSe6z/310x430/78d72bd7.webp?s=cee3a2c065ccdb6585a72f0f1ce90adc267b8488",
+    "addedAt": "2026-11-21T09:03:13.355Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n63,00 €\n\n66,85 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo playstation 4 in ottime condizioni, senza segni di usura. Completa di cavi e Joypad.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 43.15
   }
 ]
