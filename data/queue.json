@@ -1,23 +1,5 @@
 [
   {
-    "id": "10863435068",
-    "category": "Console",
-    "title": "Ps4 sans manettes",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10863435068-ps4-sans-manettes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0051a_eJYxGyNUxEPgypu9XDkc55RG/310x430/250d1131.webp?s=d595be2939fa8d75134f491a49799efae64097ee",
-    "addedAt": "2026-11-18T06:58:38.880Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ssa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 sans manettes\nDiscrete·PlayStation·Caricato 2 min fa\n\n40,00 €\n\n42,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n2 min fa\nBon jour, je vend ma ps4 sans manettes car je ne les ai plus.\nElle a un défaut au niveau de la prise HDMI. Sinon marche bien dans l’ensemble.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Difetto al livello della presa HDMI, senza controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 47.3
-  },
-  {
     "id": "10863492813",
     "category": "Console",
     "title": "écran nintendo switch à réparer",
@@ -28557,7 +28539,30 @@
     "url": "https://www.vinted.it/items/10917403736-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_000b1_vVepqSbUcgh8rPAWpF4urs6m/310x430/85395c13.webp?s=df46a97eacff37a0d85c2d51cdb35ae7d3d04c78",
     "addedAt": "2026-11-22T06:40:23.689Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato 21 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n21 min fa\nUsata pochissimo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 80
+  },
+  {
+    "id": "10901436537",
+    "category": "Console",
+    "title": "PS4 tudo a funcionar e tens um controle",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10901436537-ps4-tudo-a-funcionar-e-tens-um-controle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_006cf_NaHSKkBr6KHq4EEHWm9d7KRN/310x430/077b8ccf.webp?s=97c8ebfe5e4a78cc9cc52c3180781d8e42a2cd13",
+    "addedAt": "2026-11-22T07:01:00.275Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "alogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 tudo a funcionar e tens um controle\nOttime·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPs4 de cor preta 500GB\nIncluindo os cabos também\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.05
   }
 ]
