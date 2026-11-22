@@ -1,37 +1,5 @@
 [
   {
-    "id": "10863116562",
-    "category": "Console",
-    "title": "Ps5. a gagner",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10863116562-ps5-a-gagner?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01bdd_muSWMe36n98RCFx2ZXXddajq/310x430/eb4d1f5e.webp?s=81280387e969670cc6665946763dc5b3cee5b761",
-    "addedAt": "2026-11-18T05:11:16.477Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10863121815",
-    "category": "Console",
-    "title": "PlayStation 4 slim",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10863121815-playstation-4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_026bb_Q4c8oX2j9cHXsgZ6HCQ8Yx6m/310x430/4cc1c5ac.webp?s=eabf06de169568b68d9af7714b173669d4da8857",
-    "addedAt": "2026-11-18T05:13:20.284Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10863300912",
     "category": "Console",
     "title": "Switch 1 v2",
@@ -28637,7 +28605,10 @@
     "url": "https://www.vinted.it/items/10917091095-xbox-one-s-weiss-inkl-vertikalem-standfuss-nur-konsole?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01e21_kRidK6ZpdYXg5Hpcg9z6Z471/310x430/f9ddf835.webp?s=28cd03e244e119afdada1b4e134c35cc4eb55cd1",
     "addedAt": "2026-11-22T04:38:39.137Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
