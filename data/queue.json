@@ -1,41 +1,5 @@
 [
   {
-    "id": "10864410482",
-    "category": "Console",
-    "title": "Ps4 slim 2018",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10864410482-ps4-slim-2018?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_000ec_MrMdsWFRXYG71ohtYUmq48n4/310x430/1920a787.webp?s=8d5828e141e468dc9e2ce6b55de63b85ceac4b06",
-    "addedAt": "2026-11-18T09:29:39.318Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 slim 2018\nOttime·Sony·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPlaystation 4 slim de 2018 ,\nTemps d'utilisation (environ 2ans)\nNettoyer et bien entretenue\nNon fumeur\n\nCapot en \"carbon\" car plaque d'origine dégradé\n\nPas de manette (joystick drift)\n\nCable Hdmi et d'alimentation fournis\n\nOffre possible\n... altro\nSpedizione\nda 5,29 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Pannello superiore modificato con effetto carbonio (quello originale era rovinato), nessun controller incluso (drift), cavi HDMI e alimentazione inclusi",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
-    "id": "10864439450",
-    "category": "Console",
-    "title": "PS4 édition standard",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10864439450-ps4-edition-standard?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_005f6_a1EfS8yEgpDacYgiyAbqY2fN/310x430/51dd03c1.webp?s=86cc027020fd0961a7169db26b4f46eb93bcbcbb",
-    "addedAt": "2026-11-18T09:32:45.276Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 édition standard\nOttime·Sony·Caricato 2 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nBonjour,\n\nJe vends cette ps4 édition standard en parfait état je l’ai réinitialiser ce matin donc rien à prévoir 😁✅\n\nEnvoi rapide et soigné\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
     "id": "10864490366",
     "category": "Console",
     "title": "PlayStation 4",
@@ -28495,5 +28459,20 @@
     "geminiFault": "La console non si accende, venduta per ricambi o riparazione.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 56.8
+  },
+  {
+    "id": "10918532012",
+    "category": "Console",
+    "title": "Scatola Originale Ps4 1TB + Cavi",
+    "price": 19,
+    "totalPrice": 20.65,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10918532012-scatola-originale-ps4-1tb-cavi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_014e4_NYqU1N125Xc7UMa42JoaWZEn/310x430/ab775285.webp?s=54b629c6d1e21159a497bc9dc814357a8bb64474",
+    "addedAt": "2026-11-22T09:25:34.572Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~4.35€, sotto soglia"
   }
 ]
