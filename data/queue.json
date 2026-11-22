@@ -28621,8 +28621,11 @@
     "url": "https://www.vinted.it/items/10917057435-ps4-pate-thermique-a-change?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01962_YY2xgRpdULxbHRQRup562Qn1/310x430/135d2bb0.webp?s=22339a650677586740786ea696271610fbc4b501",
     "addedAt": "2026-11-22T04:28:20.352Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10917091095",
