@@ -28546,5 +28546,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.3
+  },
+  {
+    "id": "10917635491",
+    "category": "Console",
+    "title": "PlayStation 4 Konsole (Fat / 500 GB) inkl. Strom- & HDMI-Kabel",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10917635491-playstation-4-konsole-fat-500-gb-inkl-strom-hdmi-kabel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00d7b_uCCopgeLMEtQ5MC7nee1cNzv/310x430/e6257f1b.webp?s=f7103291ce85781627cf341ed9980d73685a4554",
+    "addedAt": "2026-11-22T07:40:13.157Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Vendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4 Konsole (Fat / 500 GB) inkl. Strom- & HDMI-Kabel\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nVerkaufe meine gebrauchte, aber voll funktionsfähige PlayStation 4. Das Laufwerk funktioniert einwandfrei.\nMit dabei: PS4 Konsole, Stromkabel und HDMI-Kabel.\nWichtig: Es ist kein Controller dabei.\nOptisch guter Zustand mit den üblichen feinen Kratzern auf der Hochglanz-Abdeckung.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Nessun controller incluso",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10917630178",
+    "category": "Console",
+    "title": "DOBE Console Grip für Nintendo Switch 2 – Neu",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10917630178-dobe-console-grip-fur-nintendo-switch-2-neu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01662_4SaUfdFnNTRNv1pGNCztS96z/310x430/0834dad0.webp?s=a0e1ec9d1b908dc54ad68c63b19f7c7245f191c6",
+    "addedAt": "2026-11-22T07:40:13.157Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.8€, sotto soglia"
   }
 ]
