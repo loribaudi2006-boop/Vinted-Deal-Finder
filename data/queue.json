@@ -1,52 +1,5 @@
 [
   {
-    "id": "10863300912",
-    "category": "Console",
-    "title": "Switch 1 v2",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10863300912-switch-1-v2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01dc9_dWtPb8cDnrphb1qVAW4HTFne/310x430/d524a402.webp?s=6f6f490fd3c9fa1b830717b9d8e441793d71fc4e",
-    "addedAt": "2026-11-18T06:26:34.964Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10863283978",
-    "category": "Console",
-    "title": "Recherche ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10863283978-recherche-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01ac1_6BkJ96ND2mBgNUCLAzmz2bVC/310x430/cda19b8a.webp?s=07370c073b505506a42ded62723855961bf8ab5c",
-    "addedAt": "2026-11-18T06:26:34.965Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10863343128",
-    "category": "Console",
-    "title": "PS4 Con mandos",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10863343128-ps4-con-mandos?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00da9_Rfr6XxtzRE9JKTbk75NnDGXc/310x430/fb0526d9.webp?s=75f4deaa5c41b2bc3c4c44c2bd8854759ae34217",
-    "addedAt": "2026-11-18T06:31:45.473Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10863369290",
     "category": "Console",
     "title": "PS4 Slim 500gb senza pad",
@@ -28621,7 +28574,10 @@
     "url": "https://www.vinted.it/items/10917292985-jeux-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_000b4_RGaAQ7NhhYEVy1nZYmcDLSiE/310x430/9cf214ea.webp?s=11920f5c5f8689149b828482295079fc3a262084",
     "addedAt": "2026-11-22T05:57:04.964Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
