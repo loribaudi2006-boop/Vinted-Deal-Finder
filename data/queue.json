@@ -28621,8 +28621,11 @@
     "url": "https://www.vinted.it/items/10916472803-wer-eine-ps5-sucht?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00e96_UmcSPJRkkdJHh738XvRFFho8/310x430/833e4306.webp?s=b2ef3325e513c2498c0421efa9d603160a088707",
     "addedAt": "2026-11-22T02:00:06.568Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10916487490",
@@ -28634,7 +28637,10 @@
     "url": "https://www.vinted.it/items/10916487490-como-nueva-nintendo-switch-oled-completa-con-accesorios?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01c3d_zEK5T8ERfGSbJrUDppodJnLK/310x430/4709a696.webp?s=f4ef6f265620f0bceee368f136d917902c113e49",
     "addedAt": "2026-11-22T02:04:15.035Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
