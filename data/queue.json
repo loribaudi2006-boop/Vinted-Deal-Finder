@@ -28417,7 +28417,9 @@
     "url": "https://www.vinted.it/items/10915879894-busco-ps5-o-xbox-serie-x-nueva-o-muy-buen-estado?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_021ed_8mh27qFGXfdtgehvdyDW1pwc/310x430/f617162f.webp?s=710229a385811c1a489df755ed9ce47cbdb3e76b",
     "addedAt": "2026-11-22T00:06:00.797Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
