@@ -1,23 +1,5 @@
 [
   {
-    "id": "10861823992",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10861823992-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00d82_KD5eXyjzVEDV5NuRfCfz1Crh/310x430/a0c1a565.webp?s=bfdb4284147de9128aede7e6c39a99d6a0fdf9b0",
-    "addedAt": "2026-11-18T00:27:43.100Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato 2 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nVerkaufe meine PlayStation 4 mit Kabeln\n\nSehr gepflegt und sauber gehalten alles funktioniert\n\nOhne Controller!!\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Senza controller (Ohne Controller)",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10862373774",
     "category": "Console",
     "title": "mandos ps4",
@@ -28421,5 +28403,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10916013618",
+    "category": "Console",
+    "title": "Cherche ps5 avec lecteur de disque",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10916013618-cherche-ps5-avec-lecteur-de-disque?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02520_krAvssjKh18HxHSLmsbyJvJ4/310x430/14f6635e.webp?s=305edc186c078cc1f5b6dd6db5f7205f9bedacf2",
+    "addedAt": "2026-11-22T00:30:53.335Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
