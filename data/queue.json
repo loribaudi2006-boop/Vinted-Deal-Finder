@@ -1,23 +1,5 @@
 [
   {
-    "id": "10864129979",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10864129979-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_022e2_WSdvaN1qxffg5zdELGNr16RK/310x430/75131699.webp?s=bd8dfa566b70aca39a8c265ce1aab7959dbf9a85",
-    "addedAt": "2026-11-18T09:02:46.261Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "ontenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nPubblicità\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nplaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nplaystation 4 usata con pellicola juventus removibile\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Pellicola Juventus removibile",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10864144258",
     "category": "Console",
     "title": "Playstation 5 digital",
@@ -28443,7 +28425,27 @@
     "url": "https://www.vinted.it/items/10918182904-vorrei-comprarmi-la-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01b79_BoSSMM3uCKvh8cTafKhN1RaE/310x430/67f7e11a.webp?s=95b7c5870302e84ab73ae976374b73ae9e6ecc44",
     "addedAt": "2026-11-22T08:54:32.239Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.28€, sotto soglia"
+  },
+  {
+    "id": "10918260954",
+    "category": "Console",
+    "title": "Switch 1",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10918260954-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b1e_JouU6EW6PixbtWcychDJsxJU/310x430/0dc6989d.webp?s=f3f4b09ae3030c8fb242c08f8b712920c20520d6",
+    "addedAt": "2026-11-22T09:02:47.792Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch 1\nBuone·Nintendo·Caricato 2 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\n2 min fa\nSwitch 1\nje met bien évidemment le chargeur le truc pour le mettre à la télé mais pas le câble hdmi\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Manca il cavo HDMI",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 56.3
   }
 ]
