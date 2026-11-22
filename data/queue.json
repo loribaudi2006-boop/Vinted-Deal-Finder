@@ -1,20 +1,5 @@
 [
   {
-    "id": "10863858767",
-    "category": "Console",
-    "title": "Je cherche une ps5 a récupérer en main propre sur Cannes",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10863858767-je-cherche-une-ps5-a-recuperer-en-main-propre-sur-cannes?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00b90_2hswuAghDtPARdCkaF9RFeXV/310x430/377049f2.webp?s=992f8545421b13f418c37ec577cea35e7d721787",
-    "addedAt": "2026-11-18T08:21:24.486Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10863918528",
     "category": "Console",
     "title": "PlayStation 5 msi monitor",
@@ -28444,5 +28429,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.8€, sotto soglia"
+  },
+  {
+    "id": "10917861011",
+    "category": "Console",
+    "title": "Xbox One S",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10917861011-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01308_xjLMs2XQ6NJdhR8HkUTydQPh/310x430/8e50de9a.webp?s=6f9c1163541914f3a7c491680c6c9f815046cb2b",
+    "addedAt": "2026-11-22T08:17:22.570Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~26.8€, sotto soglia"
   }
 ]
