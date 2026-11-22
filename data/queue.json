@@ -28547,8 +28547,11 @@
     "url": "https://www.vinted.it/items/10916283082-nintendo-switch-bannie?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_025f5_tLg7ezUz5L4URWPtEQJuVUAW/310x430/8269e0f0.webp?s=c03b24a832a249a14e9ed0d50c7efec0eb7b1805",
     "addedAt": "2026-11-22T01:22:46.259Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10916386814",
@@ -28560,6 +28563,73 @@
     "url": "https://www.vinted.it/items/10916386814-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01a2c_CKhUHuTmuDjkitaBuCuveMe9/310x430/4b762376.webp?s=c4210b18be3d8288420921ef02c474ddfebf1727",
     "addedAt": "2026-11-22T01:43:30.591Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10916413420",
+    "category": "Console",
+    "title": "Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10916413420-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0112f_78qxsFY2J55wPLpnZNNch3Y7/310x430/0e382730.webp?s=73fdca0d9d7db157c302f0b882d370b80dd32b03",
+    "addedAt": "2026-11-22T01:47:39.164Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10916426444",
+    "category": "Console",
+    "title": "Switch",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10916426444-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0112f_78qxsFY2J55wPLpnZNNch3Y7/310x430/0e382730.webp?s=73fdca0d9d7db157c302f0b882d370b80dd32b03",
+    "addedAt": "2026-11-22T01:51:48.010Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10916442677",
+    "category": "Console",
+    "title": "Caja vacía switch lite",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10916442677-caja-vacia-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_02386_G3p3z43t7gvusjC2rBmubaii/310x430/3444cb68.webp?s=54d23a0dfdd49530054bb4485400d294720703f7",
+    "addedAt": "2026-11-22T01:53:52.364Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10916439097",
+    "category": "Console",
+    "title": "PS5 lettore",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10916439097-ps5-lettore?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0194b_f8pH85SyXz3mTqBRuSQzSqct/310x430/7ca46e8f.webp?s=31dc5bba8676c81c0a4f5b4fbbe597af5c5ff39a",
+    "addedAt": "2026-11-22T01:53:52.365Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10916406090",
+    "category": "Console",
+    "title": "Stop met kopen van ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10916406090-stop-met-kopen-van-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00028_k8888k5681zXiKLWGpvEGtpa/310x430/e4d10636.webp?s=128617b6b7fe6a8f507655149a4ebd8498bb70a5",
+    "addedAt": "2026-11-22T01:55:56.993Z",
     "processed": false,
     "triaged": false
   }
