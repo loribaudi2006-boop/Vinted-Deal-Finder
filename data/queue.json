@@ -1,21 +1,5 @@
 [
   {
-    "id": "10863028294",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10863028294-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02165_DLYk4PTsWCM9VeeB2rAzGxD1/310x430/38b9d8c8.webp?s=29e4a029c6fe17d0dea25e32bf06db7f3d3c6f45",
-    "addedAt": "2026-11-18T04:38:16.853Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10863116562",
     "category": "Console",
     "title": "Ps5. a gagner",
@@ -28634,6 +28618,19 @@
     "url": "https://www.vinted.it/items/10917057435-ps4-pate-thermique-a-change?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01962_YY2xgRpdULxbHRQRup562Qn1/310x430/135d2bb0.webp?s=22339a650677586740786ea696271610fbc4b501",
     "addedAt": "2026-11-22T04:28:20.352Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10917091095",
+    "category": "Console",
+    "title": "Xbox One S (Weiß) inkl. vertikalem Standfuß – nur Konsole",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10917091095-xbox-one-s-weiss-inkl-vertikalem-standfuss-nur-konsole?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01e21_kRidK6ZpdYXg5Hpcg9z6Z471/310x430/f9ddf835.webp?s=28cd03e244e119afdada1b4e134c35cc4eb55cd1",
+    "addedAt": "2026-11-22T04:38:39.137Z",
     "processed": false,
     "triaged": false
   }
