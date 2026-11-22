@@ -1,53 +1,5 @@
 [
   {
-    "id": "10865386303",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10865386303-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016e6_y5GAWLvV2aPsGv91FBBtUmw9/310x430/abf8713e.webp?s=b8a36bce0e4f9162ec2ebba0386322a6dd45fa99",
-    "addedAt": "2026-11-18T10:56:35.239Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPS4 avec câble hdmi et câble d’alimentation\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
-    "id": "10865434647",
-    "category": "Console",
-    "title": "Ps5 a gagner",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10865434647-ps5-a-gagner?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00a8d_6pETNpcTZ4jTjqRqS79GyZRk/310x430/422ef1b6.webp?s=6d56e8c2b2ecb835fcebf45c7a78cbc646a021a1",
-    "addedAt": "2026-11-18T10:59:41.331Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
-    "id": "10865451862",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10865451862-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_005d9_9n2LJdRuAeaeAsE4cGcjNNB8/310x430/a6c4f15e.webp?s=ad4f64e65bdd6aa4fa5607e058980dbc6316f56f",
-    "addedAt": "2026-11-18T11:00:43.368Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~6.3€, sotto soglia"
-  },
-  {
     "id": "10865341051",
     "category": "Console",
     "title": "PS4 blanche + câbles",
@@ -28683,8 +28635,10 @@
     "url": "https://www.vinted.it/items/10919920267-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_02270_WVmadmDy5qQnTMEAUbM3zJ1W/310x430/6a442d66.webp?s=126603cdb8f83def14e34565b9c871e72fbe5190",
     "addedAt": "2026-11-22T10:52:02.043Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   },
   {
     "id": "10919908089",
@@ -28696,8 +28650,10 @@
     "url": "https://www.vinted.it/items/10919908089-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_023d5_aGgcw4kJAG5TpN16VWcR4f2J/310x430/2f5a3108.webp?s=dffa169243e936fe318956995ac128cd785dcb19",
     "addedAt": "2026-11-22T10:52:02.043Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
   },
   {
     "id": "10919905216",
@@ -28709,7 +28665,57 @@
     "url": "https://www.vinted.it/items/10919905216-switch-live?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00c2b_7axwFo1xy5pL6K5fu63YRGzc/310x430/ce751621.webp?s=f05c3222b45ac7432f2b41d6cf00db2b0dff6320",
     "addedAt": "2026-11-22T10:52:02.043Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch live\nOttime·Nintendo·Caricato 2 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n2 min fa\nVend Switch live\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 86.8
+  },
+  {
+    "id": "10919965253",
+    "category": "Console",
+    "title": "Boîte Console PS5 - 30eme Anniversaire",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10919965253-boite-console-ps5-30eme-anniversaire?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01d0f_V35duGHS6VvosMam412nG4n2/310x430/1494289d.webp?s=64d14a9668dcf9e76225c99f88f3c933c0a421c5",
+    "addedAt": "2026-11-22T10:54:06.202Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25.3€, sotto soglia"
+  },
+  {
+    "id": "10919959718",
+    "category": "Console",
+    "title": "Je recherche PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10919959718-je-recherche-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00631_ksmHPNRVku9uMEW6motRyvNF/310x430/41a8f194.webp?s=8740b184417525cf0690564be6a20a95ef09f28e",
+    "addedAt": "2026-11-22T10:54:06.203Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10920029103",
+    "category": "Console",
+    "title": "Ventola di raffreddamento per Xbox Series X NUOVA",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per Xbox Series X (~380€)",
+    "url": "https://www.vinted.it/items/10920029103-ventola-di-raffreddamento-per-xbox-series-x-nuova?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0241d_EZjsuF1z4AJ8h6mQLn7zsiN1/310x430/ac06d466.webp?s=c5d1201b23e194346784a981bd950565c1d15e24",
+    "addedAt": "2026-11-22T10:58:18.041Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-30€, sotto soglia"
   }
 ]
