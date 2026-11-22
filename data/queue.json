@@ -1,20 +1,5 @@
 [
   {
-    "id": "10875543713",
-    "category": "Console",
-    "title": "Cerco PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10875543713-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_005c3_LMRvft4h4Yv9BoSGuLzmUXTA/310x430/43f54e48.webp?s=d8fdb097dc4eb27174cdd8289b9e4833a3d486d0",
-    "addedAt": "2026-11-18T23:38:28.094Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10875663884",
     "category": "Console",
     "title": "Playstation 5 Ps 5/ xbox serie x/s",
@@ -29900,5 +29885,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~23.4€, sotto soglia"
+  },
+  {
+    "id": "10933827573",
+    "category": "Console",
+    "title": "Ps4 fonctionne bien",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10933827573-ps4-fonctionne-bien?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0053a_omTuhmsGJKYKu9MHWe2Ka95f/310x430/5c16f5b5.webp?s=9c546893e52726aa019ab400e33224b9185ae728",
+    "addedAt": "2026-11-22T23:45:24.484Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "assa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 fonctionne bien\nBuone·PlayStation·Caricato 4 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n4 min fa\nPs4 sans manette avec fil\nprix négociable et je vous ajoute 2jeux dans le colis\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "manca il controller (sans manette)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
   }
 ]
