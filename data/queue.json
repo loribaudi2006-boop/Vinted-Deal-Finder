@@ -30036,5 +30036,53 @@
     "geminiFault": "Una petite rayure sur l'écran dans le coin droit haut",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10935998421",
+    "category": "Console",
+    "title": "Une xbox one",
+    "price": 33,
+    "totalPrice": 35.35,
+    "reason": "prezzo 67% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10935998421-une-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01cd3_6bF5FS6ConqC8ugWPYMShffj/310x430/1aea91d7.webp?s=5e6c57c2bb555e08fcb70b7110c3940cb5e611d5",
+    "addedAt": "2026-11-23T08:01:17.823Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~29.65€, sotto soglia"
+  },
+  {
+    "id": "10936008348",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10936008348-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_011a9_MtVG8fPJcPWVwSJbCxQZPQgJ/310x430/5765e40d.webp?s=12b184c9fff5bc7af877e61f0bef0942ff5cdd5c",
+    "addedAt": "2026-11-23T08:03:26.156Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10936024975",
+    "category": "Console",
+    "title": "Ps4 mit Kontroller",
+    "price": 62,
+    "totalPrice": 65.8,
+    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10936024975-ps4-mit-kontroller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_007f6_uFogHGdJGZehGmXsZfrVmwmY/310x430/215d01a6.webp?s=397e016dadaa75b174057babc3cf9a8321c5a9a7",
+    "addedAt": "2026-11-23T08:05:30.708Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 mit Kontroller\nBuone·Sony·Caricato proprio adesso\n\n62,00 €\n\n65,80 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nIch verkaufe meine PS4 inklusive Controller und den dazugehörigen Kabeln.\n\nDas originale Ladekabel des PS4-Controllers ist leider nicht mehr vorhanden. Ein Ersatzkabel wird selbstverständlich mitgeliefert.\n\nBei Fragen oder Interesse gerne melden! 😊\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Il cavo di ricarica originale del controller è mancante ed è sostituito da un cavo non originale.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 44.2
   }
 ]
