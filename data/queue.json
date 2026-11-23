@@ -29962,8 +29962,11 @@
     "url": "https://www.vinted.it/items/10935608559-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c4e_2FjRHxffTmuuv8STnwSqX4mr/310x430/c453154e.webp?s=e532803f053c4f6f17365ff52d80cd0b69e39ce1",
     "addedAt": "2026-11-23T06:21:55.801Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10929415435",
