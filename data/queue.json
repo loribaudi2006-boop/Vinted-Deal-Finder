@@ -29931,6 +29931,22 @@
     "url": "https://www.vinted.it/items/10934945066-ps4-bianca?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_007b5_azrdS55tBkFXN3skSZDaugct/310x430/6ea224d1.webp?s=2bf68926420b40137786b11c4da43b1fcac5f9f3",
     "addedAt": "2026-11-23T02:55:50.649Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10935066607",
+    "category": "Console",
+    "title": "Recherche ps5 !!",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10935066607-recherche-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_011b1_irs8gv8D8AHnxA2qzLGxBquK/310x430/34eab09c.webp?s=f6e3f3df68890a186cbc8e76d9c9164ad7fb0b14",
+    "addedAt": "2026-11-23T03:22:44.418Z",
     "processed": false,
     "triaged": false
   }
