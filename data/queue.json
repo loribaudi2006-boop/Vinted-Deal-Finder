@@ -1,23 +1,5 @@
 [
   {
-    "id": "10877428490",
-    "category": "Console",
-    "title": "Ps4 bon état",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10877428490-ps4-bon-etat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02336_DLfhVJrhUNpo1HcSr7dTiiaA/310x430/29d6b1f7.webp?s=54192de860765e3233e3063dde8a18f7c3bf1c50",
-    "addedAt": "2026-11-19T07:25:40.424Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPs4 bon état\nBuone·Sony·Caricato 11 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n11 min fa\nBonjour, je vends une PS4 qui fonctionne parfaitement avec son câble d’alimentation\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10877482511",
     "category": "Console",
     "title": "Ps4 pour pieces",
@@ -30051,5 +30033,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~11.8€, sotto soglia"
+  },
+  {
+    "id": "10935826364",
+    "category": "Console",
+    "title": "Ps4 slim fonctionne parfaitement",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10935826364-ps4-slim-fonctionne-parfaitement-encore-etiquette-de-garantie?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02324_YHceKKPJ3zkPTWCtGz1eD8GL/310x430/f388ac46.webp?s=a6989a472728a15631964d82bd88366154b6aca7",
+    "addedAt": "2026-11-23T07:26:06.950Z",
+    "processed": false,
+    "triaged": false
   }
 ]
