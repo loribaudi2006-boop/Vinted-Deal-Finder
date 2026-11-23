@@ -29946,8 +29946,11 @@
     "url": "https://www.vinted.it/items/10935577892-ps4-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_015d9_FdrHcrgdJn4hFXAEkuq8j5zk/310x430/3959c405.webp?s=395a80327468dfb53527126098c5436d148b44bc",
     "addedAt": "2026-11-23T06:09:31.490Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10935608559",
@@ -29959,6 +29962,32 @@
     "url": "https://www.vinted.it/items/10935608559-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_01c4e_2FjRHxffTmuuv8STnwSqX4mr/310x430/c453154e.webp?s=e532803f053c4f6f17365ff52d80cd0b69e39ce1",
     "addedAt": "2026-11-23T06:21:55.801Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10929415435",
+    "category": "Console",
+    "title": "Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10929415435-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01b47_xisARrutDxHLycbrkV2g5LrC/310x430/8356297b.webp?s=af0522c8990bdb462098eae419ab6d285b8178d8",
+    "addedAt": "2026-11-23T06:40:32.074Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10935635710",
+    "category": "Console",
+    "title": "Xbox One S All-Digital 1 TB - Per Appassionati / Modder / Ricambi + Cavo (Prezzo Affare)",
+    "price": 34.99,
+    "totalPrice": 37.44,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10935635710-xbox-one-s-all-digital-1-tb-per-appassionati-modder-ricambi-cavo-prezzo-affare?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01469_ZRWu7tkvNebH9Zs4KLZbB4rJ/310x430/a5b36f7a.webp?s=02ea34149de5ce640ed57b4c783356d642fc7daf",
+    "addedAt": "2026-11-23T06:42:36.138Z",
     "processed": false,
     "triaged": false
   }
