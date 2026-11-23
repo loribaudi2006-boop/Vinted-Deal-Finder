@@ -1,38 +1,5 @@
 [
   {
-    "id": "10878673581",
-    "category": "Console",
-    "title": "Ps4 con disco",
-    "price": 62,
-    "totalPrice": 65.8,
-    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10878673581-ps4-con-disco?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0020c_88JkVK3uPUjXQp9bnM1Ss2Cv/310x430/7ad2263f.webp?s=8f3652071ec1b45f07a77ee4a721c7526d6fde48",
-    "addedAt": "2026-11-19T10:07:14.664Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 con disco\nOttime·PlayStation·Caricato un minuto fa\n\n62,00 €\n\n65,80 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nVendita per acquisto ps5\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.2
-  },
-  {
-    "id": "10878741721",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10878741721-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0265c_RFLu434WZkWPwh13EPG7ohCY/310x430/b39f46ae.webp?s=5c58f34e522bcb15f7466fc24977f732d8f3b376",
-    "addedAt": "2026-11-19T10:13:24.529Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~26.8€, sotto soglia"
-  },
-  {
     "id": "10878792624",
     "category": "Console",
     "title": "Nintendo switch tres bon état parfait pour Noël",
@@ -29952,5 +29919,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~2€, sotto soglia"
+  },
+  {
+    "id": "10937088037",
+    "category": "Console",
+    "title": "PS4 Slim con joystick",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10937088037-ps4-slim-con-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00e96_LjvFam92kzk13X81u6MJUSG7/310x430/441f3682.webp?s=8a6e7426e90d164705a7afdad352f329816ded2c",
+    "addedAt": "2026-11-23T10:10:20.965Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 Slim con joystick\nBuone·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPlaystation 4 funzionante con joystick ps4 non originale ma perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
