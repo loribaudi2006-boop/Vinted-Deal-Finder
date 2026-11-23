@@ -29978,8 +29978,13 @@
     "url": "https://www.vinted.it/items/10929415435-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01b47_xisARrutDxHLycbrkV2g5LrC/310x430/8356297b.webp?s=af0522c8990bdb462098eae419ab6d285b8178d8",
     "addedAt": "2026-11-23T06:40:32.074Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nNuovo senza cartellino·Nintendo·Caricato 21 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n21 min fa\nVend switch lite bleu avec chargeur et sacoche très peu servi. Toujours protégé.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40
   },
   {
     "id": "10935635710",
@@ -29991,7 +29996,9 @@
     "url": "https://www.vinted.it/items/10935635710-xbox-one-s-all-digital-1-tb-per-appassionati-modder-ricambi-cavo-prezzo-affare?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01469_ZRWu7tkvNebH9Zs4KLZbB4rJ/310x430/a5b36f7a.webp?s=02ea34149de5ce640ed57b4c783356d642fc7daf",
     "addedAt": "2026-11-23T06:42:36.138Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
