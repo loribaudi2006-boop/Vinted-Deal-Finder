@@ -1,20 +1,5 @@
 [
   {
-    "id": "10888235037",
-    "category": "Console",
-    "title": "Étui pour Nintendo Switch",
-    "price": 10,
-    "totalPrice": 11.2,
-    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10888235037-etui-pour-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02646_P8vVCHZdyJ8qAytkGApthpr3/310x430/e44b6a81.webp?s=369b2f30d38a0d9177d9cb6242778b5f80633856",
-    "addedAt": "2026-11-19T22:48:32.791Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.8€, sotto soglia"
-  },
-  {
     "id": "10888344674",
     "category": "Console",
     "title": "scatola playstation 5",
@@ -28955,5 +28940,23 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 250
+  },
+  {
+    "id": "10947035210",
+    "category": "Console",
+    "title": "Location ps5 pro Angers",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10947035210-location-ps5-pro-angers?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ac7_irLpHeT1qTrcm2H25b1svsME/310x430/92ea8eb9.webp?s=c01303f38ed41fa8b388ec22632fd125b8171b66",
+    "addedAt": "2026-11-23T22:53:43.611Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "sa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nLocation ps5 pro Angers\nOttime·PlayStation·Caricato 2 min fa\n\n5,00 €\n\n5,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\n2 min fa\nhttps://www.lokio.fr/listing/49-angers/film-jeux-et-media/ps5-pro-avec-lecteur-de-disque-mwsewj74\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 550
   }
 ]
