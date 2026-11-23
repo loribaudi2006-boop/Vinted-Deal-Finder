@@ -1,35 +1,5 @@
 [
   {
-    "id": "10880765208",
-    "category": "Console",
-    "title": "Cambio Nintendo Switch 2 por PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10880765208-cambio-nintendo-switch-2-por-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00e9f_w2UekqC7YHJX8UjfJBcCw4oq/310x430/dd0a81de.webp?s=3d75a13bfd249d67eccb9c9588ecb12d09b8aac6",
-    "addedAt": "2026-11-19T13:10:22.377Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
-    "id": "10880808422",
-    "category": "Console",
-    "title": "Cerco PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10880808422-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01b2a_YfmJjPRuXEAZSVBpY7GgghKU/310x430/09ed84ec.webp?s=5d7ad01f88ff00dd65bffe32570b5d64012585b3",
-    "addedAt": "2026-11-19T13:14:29.263Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10881177203",
     "category": "Console",
     "title": "cerco ps5",
@@ -29730,5 +29700,41 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10939214682",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10939214682-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0052f_a7JQw1uWmBNHwFQRxrfjuQtK/310x430/761ba108.webp?s=b47fc4887af7237abcf6ffa09baad34286d69dfe",
+    "addedAt": "2026-11-23T13:09:48.706Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vend pas ps4 slim que j’ai depuis 2021. Elle fonctionne mais les ventilateurs font énormément de bruit je suppose que c’est à cause de la poussière car elle est très poussiéreuse je peut rajouter des jeux mais sa coutera plus cher (100€ avec tout les disques que j’ai. Venez pv pour plus d’infos)\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Ventilatori rumorosi per polvere",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 40.3
+  },
+  {
+    "id": "10939254642",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10939254642-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_001d1_4u55Sx7737x2EaEfZmfnwva5/310x430/9ad9cd43.webp?s=0281f77b27ddc6c4095c76646704bdea3360055a",
+    "addedAt": "2026-11-23T13:13:58.344Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlaystation 4\nBuone·PlayStation·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPlaystation 4 Versione Fat(classica originale sony)\nNera, include il cavo hdmi e il suo cavo di alimentazione (non mostrato in foto)\n1 joystick originale con gli analogici senza i bottoncini originali, ma sostituiti con compatibili ottima, non ho mai avuto problemi, nemmeno ventilazione. mai aperta proprio perché usata poco.\nSenza account all'interno\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Analogici del joystick sostituiti con ricambi compatibili",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 41.8
   }
 ]
