@@ -1,22 +1,5 @@
 [
   {
-    "id": "10877284897",
-    "category": "Console",
-    "title": "Console Switch",
-    "price": 26,
-    "totalPrice": 28,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10877284897-console-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_012f0_xLJYFRR9G4Fa87wcQhED5hFX/310x430/7f69b844.webp?s=ce87d1a9b19b5cd60a3053569bbebe9d08ed288e",
-    "addedAt": "2026-11-19T06:34:25.096Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10877428490",
     "category": "Console",
     "title": "Ps4 bon état",
@@ -29947,8 +29930,11 @@
     "url": "https://www.vinted.it/items/10935546792-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d13_K6wUEx8PgQvhreatUxTmLG4r/310x430/f5ce31cf.webp?s=d85a4aee8ed2323129b12aebda08865d4524042b",
     "addedAt": "2026-11-23T05:57:06.026Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10935577892",
