@@ -29947,8 +29947,11 @@
     "url": "https://www.vinted.it/items/10935066607-recherche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_011b1_irs8gv8D8AHnxA2qzLGxBquK/310x430/34eab09c.webp?s=f6e3f3df68890a186cbc8e76d9c9164ad7fb0b14",
     "addedAt": "2026-11-23T03:22:44.418Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10935126129",
@@ -29960,6 +29963,19 @@
     "url": "https://www.vinted.it/items/10935126129-busco-ps5-o-xbox-serie-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00a35_rzrVcMiGNGoSDnZtS1X33B6p/310x430/0b01de86.webp?s=0b0e791f01d7f77c7f2005577f448a3e01da594f",
     "addedAt": "2026-11-23T03:37:13.343Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10935204479",
+    "category": "Console",
+    "title": "playstation 4",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10935204479-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_004d6_3hiV7bnTckkSj772xxA5FVcA/310x430/b9a77092.webp?s=a94c6aa43047ebaec76b6ca7eec32f80bc08c543",
+    "addedAt": "2026-11-23T03:57:54.987Z",
     "processed": false,
     "triaged": false
   }
