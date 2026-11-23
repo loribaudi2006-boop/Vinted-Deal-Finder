@@ -29936,5 +29936,31 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10934710647",
+    "category": "Console",
+    "title": "Xbox One Fat",
+    "price": 48,
+    "totalPrice": 51.1,
+    "reason": "prezzo 52% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10934710647-xbox-one-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01c40_fRoQ11i1Rtcg4Mt8vTiXBtRs/310x430/eb2460d5.webp?s=ecb758722b8c79d55dd6f8581fb2c6414f6d5f3b",
+    "addedAt": "2026-11-23T02:10:18.347Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10934740929",
+    "category": "Console",
+    "title": "Nintendo ps5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10934740929-nintendo-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_021f3_8jwXXD2E9p9ZoWAMH9MXCvr2/310x430/c7003024.webp?s=9bb49cc4b6662874c9bf28bcca235e05ea4bdcda",
+    "addedAt": "2026-11-23T02:14:26.546Z",
+    "processed": false,
+    "triaged": false
   }
 ]
