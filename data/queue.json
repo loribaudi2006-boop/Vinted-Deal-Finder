@@ -1,35 +1,5 @@
 [
   {
-    "id": "10888080728",
-    "category": "Console",
-    "title": "Sd 128 gb sandisk edición mario switch",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10888080728-sd-128-gb-sandisk-edicion-mario-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01e69_eXAuUiCo1XZuLe7jURfkS2rx/310x430/66646bdb.webp?s=2b979fe0bb5bcdf270fbcf0309b1bca5cb6db007",
-    "addedAt": "2026-11-19T22:27:54.189Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1.3€, sotto soglia"
-  },
-  {
-    "id": "10888142356",
-    "category": "Console",
-    "title": "PlayStation 5 slim la scambio per una Xbox",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10888142356-playstation-5-slim-la-scambio-per-una-xbox?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_003ec_6VbBPbc8tHnAvJqUQy7YgtHE/310x430/7b51678f.webp?s=d2f2199dd542d8f36ff7c7c4fc223d7bc71b17f9",
-    "addedAt": "2026-11-19T22:36:08.512Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10888235037",
     "category": "Console",
     "title": "Étui pour Nintendo Switch",
@@ -28930,7 +28900,42 @@
     "url": "https://www.vinted.it/items/10946810987-corpo-console-unita-centrale-display-lcd-nintendo-switch-v1-hac-001-con-difetto?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_01fb3_yggnaWcrAeWbjR1WgeB2xJWf/310x430/70e35b32.webp?s=9c406d7be94106f8a34f1697fc8301b1610b8441",
     "addedAt": "2026-11-23T22:26:51.500Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "onna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nCorpo Console (Unità Centrale \\ Display LCD) Nintendo Switch V1 (HAC-001) con difetto\nDiscrete·Nintendo·Caricato 4 min fa\n\n29,90 €\n\n32,10 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\n4 min fa\nCorpo Console (Unità Centrale \\ Display LCD) Nintendo Switch V1 (HAC-001) con difetto\n\nDifetti da segnalare:\n- Display LCD rovinato: i cristalli liquidi presentano delle righe orizzontali visibili su tutto lo schermo.\n- Lettore cartucce guasto: lo slot per le schede di gioco fisiche non legge le cartucce.\n\nFunzioni perfettamente garantite:\n- Modalità TV: collegando la console alla TV tramite Dock, l'immagine rende senza alcun difetto visivo.\n- Giochi digitali: la console si accende, si collega al Wi-Fi e permette di scaricare e giocare senza problemi a tutti i titoli in versione digitale dal Nintendo eShop.\n\nProdotto imballato adeguatamente utilizzando pluriball o altri materiali protettivi per garantire la massima protezione durante il trasporto.\nSpedizione entro 24h lavorative dall'acquisto.\n\nDisponibile per ulteriori foto o informazioni.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Display LCD con righe orizzontali e lettore cartucce guasto",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.9
+  },
+  {
+    "id": "10946824699",
+    "category": "Console",
+    "title": "Funda protectora de silicona blanca para Nintendo switch 1",
+    "price": 6,
+    "totalPrice": 7,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10946824699-funda-protectora-de-silicona-blanca-para-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_017ed_PYaxXM4XnMFqzENjuVkkpbsn/310x430/b8189c82.webp?s=4dcd52847cb67c22e48a8e205d6f775a5f4f336c",
+    "addedAt": "2026-11-23T22:28:55.950Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-6€, sotto soglia"
+  },
+  {
+    "id": "10946819415",
+    "category": "Console",
+    "title": "Recherche ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10946819415-recherche-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0024f_eLZvH31ZJUwTjf3oPbuiyPcg/310x430/33d8805c.webp?s=2234543fe4e212bd81a849919721c6af6c274153",
+    "addedAt": "2026-11-23T22:28:55.950Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
