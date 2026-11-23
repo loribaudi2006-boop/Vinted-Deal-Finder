@@ -28937,5 +28937,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10946923410",
+    "category": "Console",
+    "title": "Em  DO PS5",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10946923410-em-do-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011d5_YoqecFbo4SHJXp392QesLEA7/310x430/8902fde2.webp?s=97c07e2f4cb3e054a133d5ea51a74a4b21dc8a59",
+    "addedAt": "2026-11-23T22:41:20.272Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nEm DO PS5\nNuovo con cartellino·PlayStation·Caricato 3 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\n3 min fa\nProcuro ps5 qualquer uma, de 150€ a 200€ no máximo com comando\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 250
   }
 ]
