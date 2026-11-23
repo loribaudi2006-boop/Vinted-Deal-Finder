@@ -30039,5 +30039,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2.43€, sotto soglia"
+  },
+  {
+    "id": "10936379312",
+    "category": "Console",
+    "title": "PlayStation 5 Cover",
+    "price": 58,
+    "totalPrice": 61.6,
+    "reason": "prezzo 85% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10936379312-playstation-5-cover?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_014b8_Pz62Y4FZ9dYXYn32wJ1USVav/310x430/e9b58102.webp?s=718e4e52164fc266f69651626efb1decd6cb2dd9",
+    "addedAt": "2026-11-23T08:57:18.061Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-36.6€, sotto soglia"
+  },
+  {
+    "id": "10936399132",
+    "category": "Console",
+    "title": "Nintendo Switch tablet only 100% functional. very good condition",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10936399132-nintendo-switch-tablet-only-100-functional-very-good-condition?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00423_2AuFjobUzzv8eB2wxbwGyF2M/310x430/fa3d2652.webp?s=661860b97b8812981c561b704ec87e961f53c736",
+    "addedAt": "2026-11-23T09:01:56.206Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "edi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch tablet only 100% functional. very good condition\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nPRICE IS FIXED\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50
   }
 ]
