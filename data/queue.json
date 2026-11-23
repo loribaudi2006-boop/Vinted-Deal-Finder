@@ -29736,5 +29736,20 @@
     "geminiFault": "Analogici del joystick sostituiti con ricambi compatibili",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.8
+  },
+  {
+    "id": "10939314172",
+    "category": "Console",
+    "title": "Caja para Nintendo switch 1",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10939314172-caja-para-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0150c_BYbsurWPQbKLY5F7UwEjA3WS/310x430/83060f06.webp?s=6d244a14e137b5f67991316ea8177035a8578de5",
+    "addedAt": "2026-11-23T13:22:12.488Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
   }
 ]
