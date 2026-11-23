@@ -30087,5 +30087,35 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15.95€, sotto soglia"
+  },
+  {
+    "id": "10936155617",
+    "category": "Console",
+    "title": "Nintendo Switch Lite grise + chargeur - joystick droit abîmé",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10936155617-nintendo-switch-lite-grise-chargeur-joystick-droit-abime?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_012f8_qf3bpTm9Zm2NAwi7Q6PY7Lod/310x430/6217c12a.webp?s=1e142862e046b390e0529ff065354ea0cae1031f",
+    "addedAt": "2026-11-23T08:28:18.129Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
+  },
+  {
+    "id": "10936176384",
+    "category": "Console",
+    "title": "Boîte ps5 vide",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10936176384-boite-ps5-vide?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_025d4_YMYDCkzfXVniUJgk5nxFGEHE/310x430/1ce4a129.webp?s=4ddcabadde602b6f8361760765dbefc1dd891668",
+    "addedAt": "2026-11-23T08:30:22.220Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-16.45€, sotto soglia"
   }
 ]
