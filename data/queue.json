@@ -1,20 +1,5 @@
 [
   {
-    "id": "10881365646",
-    "category": "Console",
-    "title": "Cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10881365646-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00a0e_s6VPuZcJ2WP2yDqo9baakkjx/310x430/1a3ca70b.webp?s=93a97fc40ff1780f953de0308f796b14dd2e4811",
-    "addedAt": "2026-11-19T13:57:30.666Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10881391589",
     "category": "Console",
     "title": "Xbox One S",
@@ -29576,6 +29561,21 @@
     "url": "https://www.vinted.it/items/10939314172-caja-para-nintendo-switch-1?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0150c_BYbsurWPQbKLY5F7UwEjA3WS/310x430/83060f06.webp?s=6d244a14e137b5f67991316ea8177035a8578de5",
     "addedAt": "2026-11-23T13:22:12.488Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~1€, sotto soglia"
+  },
+  {
+    "id": "10939357426",
+    "category": "Console",
+    "title": "Caja Nintendo switch 1",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10939357426-caja-nintendo-switch-1?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01142_8mKWjsKtERgdAFnZTyccGLZ5/310x430/885eefd5.webp?s=8d42f4cd0fec85b650b8a5142d569dfe2a2754c5",
+    "addedAt": "2026-11-23T13:49:59.902Z",
     "processed": true,
     "triaged": true,
     "triageResult": "discard",
