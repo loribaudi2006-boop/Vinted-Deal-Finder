@@ -1,21 +1,5 @@
 [
   {
-    "id": "10876530190",
-    "category": "Console",
-    "title": "Nintendo Switch 2020 (Solo Schermo)",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10876530190-nintendo-switch-2020-solo-schermo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01cb9_v271TLwbMH9gQ2TxiP8mtyB3/310x430/b64fed3b.webp?s=999e3955d789c2d578f2e6cd9a85414d0c23d188",
-    "addedAt": "2026-11-19T02:42:07.710Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10876630260",
     "category": "Console",
     "title": "Nintendo Switch 2020 (Solo Schermo)",
@@ -29931,8 +29915,11 @@
     "url": "https://www.vinted.it/items/10934710647-xbox-one-fat?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01c40_fRoQ11i1Rtcg4Mt8vTiXBtRs/310x430/eb2460d5.webp?s=ecb758722b8c79d55dd6f8581fb2c6414f6d5f3b",
     "addedAt": "2026-11-23T02:10:18.347Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10934740929",
@@ -29944,7 +29931,10 @@
     "url": "https://www.vinted.it/items/10934740929-nintendo-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_021f3_8jwXXD2E9p9ZoWAMH9MXCvr2/310x430/c7003024.webp?s=9bb49cc4b6662874c9bf28bcca235e05ea4bdcda",
     "addedAt": "2026-11-23T02:14:26.546Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
