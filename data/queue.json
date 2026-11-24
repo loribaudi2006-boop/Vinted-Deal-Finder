@@ -1,20 +1,5 @@
 [
   {
-    "id": "10890222265",
-    "category": "Console",
-    "title": "Busco PS5 sony",
-    "price": 49,
-    "totalPrice": 52.15,
-    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10890222265-busco-ps5-sony?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_0160a_jh7E9zCRWdTo7LggjdLTc3NL/310x430/16bb0e6d.webp?s=0752b8d2fd96497aacf2607a23cf3924a5959841",
-    "addedAt": "2026-11-20T06:39:26.929Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-52.15€, sotto soglia"
-  },
-  {
     "id": "10890286747",
     "category": "Console",
     "title": "psp completa di caricatore ma non funzionante",
@@ -28701,8 +28686,11 @@
     "url": "https://www.vinted.it/items/10949055540-playstation-4-ohne-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00aae_xihYZnUVLLJnsiTskLqsvHcU/310x430/d5dbe8d7.webp?s=0c5b1c54f985a796421bc37fc33331103295b211",
     "addedAt": "2026-11-24T06:10:52.437Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10949097081",
