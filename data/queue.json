@@ -1,20 +1,5 @@
 [
   {
-    "id": "10891346169",
-    "category": "Console",
-    "title": "Cerco Ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10891346169-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_012f7_BMgwcuuK1K5ccSMcCSrXk4wT/310x430/4bbb2f9e.webp?s=b15e5a98a57f51266521d06ec532e418f5e5c3d9",
-    "addedAt": "2026-11-20T09:42:34.479Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10891431530",
     "category": "Console",
     "title": "Playstation 4",
@@ -28602,5 +28587,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10950305689",
+    "category": "Console",
+    "title": "PS4 FAT",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10950305689-ps4-fat?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_008b2_CB13XfdZYRpuoGp7AQvguK1i/310x430/19fe499a.webp?s=935eeb8da4c5d3bfd1bae7f19d47a9fd95fb498c",
+    "addedAt": "2026-11-24T09:45:29.121Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.3€, sotto soglia"
   }
 ]
