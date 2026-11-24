@@ -1,20 +1,5 @@
 [
   {
-    "id": "10895344292",
-    "category": "Console",
-    "title": "Boite + Cale seule Playstation 4 FAT (PS4)",
-    "price": 16.5,
-    "totalPrice": 18.03,
-    "reason": "prezzo 87% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10895344292-boite-cale-seule-playstation-4-fat-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02666_dwQ64gyVwYxTp2YciqEc9ivm/310x430/015e2cd3.webp?s=38a851ccba8139c76a280660e4b0a5c519d26486",
-    "addedAt": "2026-11-20T15:18:21.479Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~1€, sotto soglia"
-  },
-  {
     "id": "10895502127",
     "category": "Console",
     "title": "Nintendo SwitchLite",
@@ -27768,5 +27753,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-21.7€, sotto soglia"
+  },
+  {
+    "id": "10954155987",
+    "category": "Console",
+    "title": "Nintendo Switch",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10954155987-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_016aa_WJwPMrjBKPr9mXj91i1zLFZf/310x430/2793d048.webp?s=aa08c8a011f2899452d55e1c4dcaea3770d0a9c2",
+    "addedAt": "2026-11-24T15:18:16.848Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch\nOttime·Nintendo·Caricato 13 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n13 min fa\nPraticamente nuova. Con caricatore senza scatola ma regalo custodia.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 81.05
+  },
+  {
+    "id": "10954174536",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10954174536-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01356_LPmsHthURVYdui6czHXYToMm/310x430/19e917bd.webp?s=e8c274a04c7ccd7139e687f59ce6c3be85ac7b51",
+    "addedAt": "2026-11-24T15:22:27.639Z",
+    "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato 11 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n11 min fa\nPS4 da 1 Terabyte in ottime condizioni (senza controller).\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Senza controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
   }
 ]
