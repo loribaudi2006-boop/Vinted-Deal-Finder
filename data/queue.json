@@ -28702,8 +28702,11 @@
     "url": "https://www.vinted.it/items/10949097081-nintendo-switch-lite-edition-animal-cross-verte-sans-le-chargeur?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00ea4_qu3QKByRyzKxkUYMhxwRDDiN/310x430/77496f52.webp?s=d032e643077ad437aea9126b5b1c58d0e4273de3",
     "addedAt": "2026-11-24T06:23:14.107Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10949122041",
