@@ -1,53 +1,5 @@
 [
   {
-    "id": "10890085522",
-    "category": "Console",
-    "title": "Dead Wave Ps5 disc",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10890085522-dead-wave-ps5-disc?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_02338_85YGiPXDwZmJmrD4a3XnJMRa/310x430/8f369348.webp?s=34efbf7d83a453f00c31a646e8519aa60dc96877",
-    "addedAt": "2026-11-20T05:51:44.903Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10890107982",
-    "category": "Console",
-    "title": "Nintendo switch lite",
-    "price": 59,
-    "totalPrice": 62.65,
-    "reason": "prezzo 69% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10890107982-nintendo-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01686_muZAYuUSeBH1Vb5xCBHWg8Zi/310x430/55acdacd.webp?s=61d64d7d839245af058d549bcf73ede7dc45fbea",
-    "addedAt": "2026-11-20T06:00:02.437Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10890134067",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10890134067-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_007e1_2FqpDKKNo7m8yrVCZ9WaRp8c/310x430/62228c32.webp?s=f1e928f233d17211ccc7763d47bf24e12621724e",
-    "addedAt": "2026-11-20T06:10:24.686Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10890222265",
     "category": "Console",
     "title": "Busco PS5 sony",
@@ -28738,5 +28690,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10949055540",
+    "category": "Console",
+    "title": "PlayStation 4 ohne Controller",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10949055540-playstation-4-ohne-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00aae_xihYZnUVLLJnsiTskLqsvHcU/310x430/d5dbe8d7.webp?s=0c5b1c54f985a796421bc37fc33331103295b211",
+    "addedAt": "2026-11-24T06:10:52.437Z",
+    "processed": false,
+    "triaged": false
   }
 ]
