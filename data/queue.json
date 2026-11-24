@@ -1,23 +1,5 @@
 [
   {
-    "id": "10901001254",
-    "category": "Console",
-    "title": "Échange xbox one s",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10901001254-echange-xbox-one-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01bf6_fZ6snJg5NGrz8bqFJDVHZXaC/310x430/41f177d9.webp?s=9a60d0a6b3f53ebc7d22e385ee9c89520c21a069",
-    "addedAt": "2026-11-20T23:23:21.963Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nÉchange xbox one s\nOttime·Xbox·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nJe voudrais échanger mon Xbox one s en parfait état contre une ps5. Je peux rajouter de l’argent en plus.\nJe suis ouvert à toute proposition même si ce n’est pas une play 5.\nFaites vos offre en privé.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 60
-  },
-  {
     "id": "10901044073",
     "category": "Console",
     "title": "consola Sony PlayStation 4 modelo original (Fat) en color negro",
@@ -27206,5 +27188,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10960358382",
+    "category": "Console",
+    "title": "cerco PS5/Xbox serie S",
+    "price": 3,
+    "totalPrice": 3.85,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10960358382-cerco-ps5xbox-serie-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_002ca_Yj2mCKieyxxRJb9CxaRn6h2M/310x430/12ea48ef.webp?s=8c076048dd4b26a7afaef1fe1c0ced1b0418e944",
+    "addedAt": "2026-11-24T23:22:11.262Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-4€, sotto soglia"
   }
 ]
