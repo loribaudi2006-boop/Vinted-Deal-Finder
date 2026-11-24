@@ -1,56 +1,5 @@
 [
   {
-    "id": "10890495043",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 29,
-    "totalPrice": 31.15,
-    "reason": "prezzo 71% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10890495043-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02587_CApkFH4Q86Bi9Ygbeov639B2/310x430/f89d6d50.webp?s=7e86a9796f9908e5226d2791675a1a2e92258052",
-    "addedAt": "2026-11-20T07:47:51.816Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox one\nBuone·Xbox·Caricato 2 min fa\n\n29,00 €\n\n31,15 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox One\nCondizioni\nBuone\nCaricato\n2 min fa\nXbox One + controller werkt perfect.\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 33.85
-  },
-  {
-    "id": "10890507658",
-    "category": "Console",
-    "title": "cerco ps5 descrizione",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10890507658-cerco-ps5-descrizione?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00502_SRfrfErx2aH5vPPik694bRAY/310x430/02892e57.webp?s=413c3eaea2d0f3e83bbbaca889910f10d55962b6",
-    "addedAt": "2026-11-20T07:49:56.039Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10890544391",
-    "category": "Console",
-    "title": "Microfono HyperX SoloCast + 2 Controller PS4 (1 Wireless + 1 con cavo)",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10890544391-microfono-hyperx-solocast-2-controller-ps4-1-wireless-1-con-cavo?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00119_o3YpzCSnNowbsENYfDzcKVBi/310x430/540b1bcb.webp?s=28f55891d784b4957d5097b2861daa3ea6e3b4b5",
-    "addedAt": "2026-11-20T07:56:10.255Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "bito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nMicrofono HyperX SoloCast + 2 Controller PS4 (1 Wireless + 1 con cavo)\nOttime·PlayStation·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nMicrofono HyperX SoloCast + 2 Controller PS4 (1 Wireless + 1 con cavo)\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10890564747",
     "category": "Console",
     "title": "Support mural pour ps5",
@@ -28752,5 +28701,20 @@
     "geminiFault": "Lettore CD rumoroso, scocca rotta, segni d'usura, venduta come non funzionante per pezzi o riparazione, senza controller né cavo HDMI",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.3
+  },
+  {
+    "id": "10949450335",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10949450335-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0090a_pdE4ExpQUNAKnShpH3zvWYx1/310x430/e82d0ea2.webp?s=d3735a55d2777eb744214fc6c51a3fb0417a2c0c",
+    "addedAt": "2026-11-24T07:53:55.283Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
