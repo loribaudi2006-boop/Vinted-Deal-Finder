@@ -28698,5 +28698,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-3€, sotto soglia"
+  },
+  {
+    "id": "10949560788",
+    "category": "Console",
+    "title": "Tampa ps5 slim GTVI",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10949560788-tampa-ps5-slim-gtvi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01c0a_dLL8qKdoj8rpbfeKBrDMwgAW/310x430/9f536c24.webp?s=aff2446b66eb3fcdfeb524e4c165651fb0ae959c",
+    "addedAt": "2026-11-24T08:12:31.514Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-10€, sotto soglia"
   }
 ]
