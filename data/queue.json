@@ -1,35 +1,5 @@
 [
   {
-    "id": "10890286747",
-    "category": "Console",
-    "title": "psp completa di caricatore ma non funzionante",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10890286747-psp-completa-di-caricatore-ma-non-funzionante?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_02248_zZWKxMe9aun2tyyV7nBDRcuv/310x430/0040c7d3.webp?s=0a48780fb84a42f219bdacd57a33351e81ced192",
-    "addedAt": "2026-11-20T06:58:05.931Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~18.05€, sotto soglia"
-  },
-  {
-    "id": "10890312811",
-    "category": "Console",
-    "title": "console Nintendo switch blanche",
-    "price": 44,
-    "totalPrice": 46.9,
-    "reason": "prezzo 77% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10890312811-console-nintendo-switch-blanche?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01b03_N5RCiYM9ASrD38tTYuyX1XDv/310x430/8b390a58.webp?s=11638024390b099e4bb3d65b0cc2801d8f149082",
-    "addedAt": "2026-11-20T07:04:19.366Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10.1€, sotto soglia"
-  },
-  {
     "id": "10890456745",
     "category": "Console",
     "title": "Ps4 bonne état (photo)",
@@ -28718,7 +28688,9 @@
     "url": "https://www.vinted.it/items/10949122041-je-vends-ma-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01c19_jrgCE4ws5gJfMyFbXgBfEYdu/310x430/d862a8b0.webp?s=a8b3272bb716e5366806a60def035183db6089ba",
     "addedAt": "2026-11-24T06:31:28.388Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
