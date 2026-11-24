@@ -28701,8 +28701,11 @@
     "url": "https://www.vinted.it/items/10948493301-ps4-ohne-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_016e9_q1roAbEZmysJBMvZgEfQxC8F/310x430/f4ef4e7e.webp?s=c14044cf78a17f694647abfb11eafd7092286a87",
     "addedAt": "2026-11-24T03:15:28.583Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10948525306",
@@ -28714,6 +28717,19 @@
     "url": "https://www.vinted.it/items/10948525306-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_02573_i5Av1csXHNubjX8dtQMbRdpG/310x430/1bedc573.webp?s=b1b9eb74ddf07becb05fbb5df46255558551d202",
     "addedAt": "2026-11-24T03:21:38.031Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10948627450",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10948627450-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0078d_YsncP79USB1GgwiDRji3L7Pv/310x430/e3ae6d88.webp?s=54a5956b94027beccd2e5834e9b45417fc2f4171",
+    "addedAt": "2026-11-24T03:46:15.528Z",
     "processed": false,
     "triaged": false
   }
