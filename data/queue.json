@@ -28717,6 +28717,22 @@
     "url": "https://www.vinted.it/items/10948627450-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0078d_YsncP79USB1GgwiDRji3L7Pv/310x430/e3ae6d88.webp?s=54a5956b94027beccd2e5834e9b45417fc2f4171",
     "addedAt": "2026-11-24T03:46:15.528Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10948731568",
+    "category": "Console",
+    "title": "Console Nintendo Switch 2019 écran seul (R3.1)",
+    "price": 59.9,
+    "totalPrice": 63.6,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10948731568-console-nintendo-switch-2019-ecran-seul-r31?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_003a8_cd9zxN7uvTUKqu421XDn5itT/310x430/e7afb4d1.webp?s=efa1c29dfa04621f960449b257f8559c3ddf39ee",
+    "addedAt": "2026-11-24T04:14:59.381Z",
     "processed": false,
     "triaged": false
   }
