@@ -1,23 +1,5 @@
 [
   {
-    "id": "10891284157",
-    "category": "Console",
-    "title": "Xbox One X 1tb",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10891284157-xbox-one-x-1tb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02411_yrQbQtaNoagxfpQodyrvTFHz/310x430/1dd42ef3.webp?s=9cd5c3bcc6d1ee4ed0781ebd3f2e5e2f372008af",
-    "addedAt": "2026-11-20T09:36:23.126Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox One X Console\nXbox One X 1tb\nOttime·Xbox One X·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandXbox One X\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox one x 1tb difetto con la HDMI senza controller tutto il resto in ottime condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "difetto con la HDMI senza controller",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.8
-  },
-  {
     "id": "10891346169",
     "category": "Console",
     "title": "Cerco Ps5",
@@ -28602,5 +28584,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10950150369",
+    "category": "Console",
+    "title": "Xbox One",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10950150369-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_001b9_PtEz9LDeXQb7us7X1y4Zc8ZF/310x430/1159e650.webp?s=f94976e215537d203656024f31bb4fd2e70e28ef",
+    "addedAt": "2026-11-24T09:31:01.015Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox One\nOttime·Microsoft·Caricato un minuto fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nun minuto fa\nXbox One 50€\nDeux manettes (une sans fil et une filaire) : 30€\n4 jeux : 20€\nSi vous prenez tout : 80€ au lieu de 100€\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
