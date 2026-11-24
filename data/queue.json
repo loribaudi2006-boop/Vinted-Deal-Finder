@@ -1,20 +1,5 @@
 [
   {
-    "id": "10892037335",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10892037335-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02191_qjchwBDLtjcZzgCQBHN4p1Jk/310x430/af7f8f17.webp?s=0d7a4f06a2fd0c5cc7602a58ebb08c4a02daeadb",
-    "addedAt": "2026-11-20T10:48:52.216Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10892049462",
     "category": "Console",
     "title": "nintendo switch",
@@ -28542,5 +28527,41 @@
     "geminiFault": "altersgemäße Schönheitsfehler (difetti estetici legati all'età)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 68.35
+  },
+  {
+    "id": "10950998164",
+    "category": "Console",
+    "title": "playstation 5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10950998164-playstation-5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0103e_og5GQpe3aQ8x9WWtdzGUNmVe/310x430/735e2203.webp?s=5fca2a6b6bdf775bab8b75b039b65aff5577a4d5",
+    "addedAt": "2026-11-24T10:51:35.225Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nplaystation 5\nOttime·Sony·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\nun minuto fa\nje ne l’utilise plus\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 338.25
+  },
+  {
+    "id": "10951072539",
+    "category": "Console",
+    "title": "Nintendo Switch onderdelen",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10951072539-nintendo-switch-onderdelen?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00dae_V9788Fb5FVrHgtFe8jbJSgTQ/310x430/3847c5ea.webp?s=7795ad05535259e6c6ed889b46397ba3f4adb372",
+    "addedAt": "2026-11-24T10:57:47.206Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch onderdelen\nDiscrete·Nintendo·Caricato proprio adesso\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nNintendo Switch onderdelen\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "Indicato come parti di ricambio (onderdelen), condizioni discrete",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   }
 ]
