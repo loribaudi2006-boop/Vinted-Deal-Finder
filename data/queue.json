@@ -1,21 +1,5 @@
 [
   {
-    "id": "10889034292",
-    "category": "Console",
-    "title": "Porta giochi Nintendo switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10889034292-porta-giochi-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0192c_hBWTvbEgjy2mFuJHEWMDTtUB/310x430/6cb7ab88.webp?s=83032cda4fa6cf22e50675f2ade8b375c335f167",
-    "addedAt": "2026-11-20T03:28:43.943Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10889800906",
     "category": "Console",
     "title": "Xbox one s",
@@ -28701,8 +28685,11 @@
     "url": "https://www.vinted.it/items/10948415847-coque-ps5-digital-edition-spiderman-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01e01_p6smCqKjcSpYyB4CbEGSsQrz/310x430/42879d7d.webp?s=cc6c1e402802a9abbcab6f19e36785b76172367d",
     "addedAt": "2026-11-24T02:57:00.742Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10948493301",
@@ -28714,6 +28701,19 @@
     "url": "https://www.vinted.it/items/10948493301-ps4-ohne-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_016e9_q1roAbEZmysJBMvZgEfQxC8F/310x430/f4ef4e7e.webp?s=c14044cf78a17f694647abfb11eafd7092286a87",
     "addedAt": "2026-11-24T03:15:28.583Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10948525306",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10948525306-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_02573_i5Av1csXHNubjX8dtQMbRdpG/310x430/1bedc573.webp?s=b1b9eb74ddf07becb05fbb5df46255558551d202",
+    "addedAt": "2026-11-24T03:21:38.031Z",
     "processed": false,
     "triaged": false
   }
