@@ -1,35 +1,5 @@
 [
   {
-    "id": "10892613035",
-    "category": "Console",
-    "title": "Ps4 limited edition",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10892613035-ps4-limited-edition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01fae_3bzyzsF4Nu6XqRdsjGzeZvYK/310x430/800d60f1.webp?s=4bbc4848e9ce7a62ac62f089a1197d572b04aa7d",
-    "addedAt": "2026-11-20T11:39:34.040Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10892591013",
-    "category": "Console",
-    "title": "Support murale ps5",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10892591013-support-murale-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01cb3_6Jh9hPReUZTjs93M2G8AiJTG/310x430/8eb5a4f8.webp?s=318c47a71ebdd67f0adfc4407ae740c40f1c129f",
-    "addedAt": "2026-11-20T11:39:34.041Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
     "id": "10892720216",
     "category": "Console",
     "title": "Non funzionante",
@@ -28386,5 +28356,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10951552916",
+    "category": "Console",
+    "title": "Tausche ps5 slim gegen pc",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10951552916-tausche-ps5-slim-gegen-pc?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_022c4_jymPTMDNiChnnrG61wijFDDZ/310x430/fa5a9f73.webp?s=03cffcda3b37e1252551ed439ea442ced10977b2",
+    "addedAt": "2026-11-24T11:41:55.118Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "ntenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nTausche ps5 slim gegen pc\nOttime·PlayStation·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs5 slim\n1tb\n1 Controller\nMit versand\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 340
+  },
+  {
+    "id": "10951541858",
+    "category": "Console",
+    "title": "Attenzione cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10951541858-attenzione-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00e12_pXAw2dknNBnXYUanYd2iXfEy/310x430/26af9635.webp?s=2806b4b5663cc326b846a8c3902546c716a9a1b4",
+    "addedAt": "2026-11-24T11:41:55.118Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
