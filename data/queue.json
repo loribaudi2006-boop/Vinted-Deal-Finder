@@ -28706,5 +28706,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10948415847",
+    "category": "Console",
+    "title": "Coque ps5 (digital) edition spiderman 2",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10948415847-coque-ps5-digital-edition-spiderman-2?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01e01_p6smCqKjcSpYyB4CbEGSsQrz/310x430/42879d7d.webp?s=cc6c1e402802a9abbcab6f19e36785b76172367d",
+    "addedAt": "2026-11-24T02:57:00.742Z",
+    "processed": false,
+    "triaged": false
   }
 ]
