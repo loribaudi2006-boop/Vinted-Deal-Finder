@@ -1,38 +1,5 @@
 [
   {
-    "id": "10890974204",
-    "category": "Console",
-    "title": "Station d'accueil Nintendo Switch 1 en très bon état+ accessoires",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10890974204-station-daccueil-nintendo-switch-1-en-tres-bon-etat-accessoires?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00580_zrU4feeAxTRsqprYYzy7aUN6/310x430/49621d2a.webp?s=5aff021c94b921c095343d80a438b20c9396be3d",
-    "addedAt": "2026-11-20T09:00:12.419Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-18€, sotto soglia"
-  },
-  {
-    "id": "10890966674",
-    "category": "Console",
-    "title": "PS4 Digital Edition - Perfect Condition",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10890966674-ps4-digital-edition-perfect-condition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0022f_TTwV2gPX2R9HA84UnbBNkkhg/310x430/098d0792.webp?s=26ccabac2a7699e2e8912fbe748b1344161935fc",
-    "addedAt": "2026-11-20T09:00:12.420Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "logo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 Digital Edition - Perfect Condition\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nPS4 with 512GB Space and cleaned up.\nSpedizione\nda 5,19 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.3
-  },
-  {
     "id": "10891034468",
     "category": "Console",
     "title": "Pantalla nintendo switch",
@@ -28697,12 +28664,27 @@
     "url": "https://www.vinted.it/items/10949863844-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0076c_ESim5Eo6YSy7HMYEVBJtRsCd/310x430/850f2733.webp?s=c7a04dbb0eeaf74664b63215e80d891f2859e7fc",
     "addedAt": "2026-11-24T08:56:54.580Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo switch\nOttime·Nintendo·Caricato un minuto fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nNintendo switch turchese e caricatore usata pochissimo. Vendo per inutilizzo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.05
+  },
+  {
+    "id": "10949934409",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10949934409-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0227b_ABrFvoaDpTZQ6xQLHeG3eCpR/310x430/d4d08224.webp?s=fba4d9cc386560c6ca96745eb7e039ea693b73d8",
+    "addedAt": "2026-11-24T09:06:11.004Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.3€, sotto soglia"
   }
 ]
