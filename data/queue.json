@@ -1,65 +1,5 @@
 [
   {
-    "id": "10894226681",
-    "category": "Console",
-    "title": "Xbox One S - Con Controller",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10894226681-xbox-one-s-con-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00f67_KDj4wWoetbcQBjALYWmXP8p4/310x430/bdd7f724.webp?s=d64c5c0ed0c02b30116f103308c84af56ff4dfb4",
-    "addedAt": "2026-11-20T13:56:11.510Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10894254538",
-    "category": "Console",
-    "title": "Cerco ps5 disco o digitale",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10894254538-cerco-ps5-disco-o-digitale?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0057b_ipBapCqDipfxD17nNA3JBQwY/310x430/edc4eee3.webp?s=7a4d941f63de49516a38e132819543c1ae63411c",
-    "addedAt": "2026-11-20T13:58:15.390Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
-    "id": "10894293326",
-    "category": "Console",
-    "title": "Soporte Nintendo Switch",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 79% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10894293326-soporte-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0212c_suT676jj7RKe64uQHGWt3TTc/310x430/68713533.webp?s=02ef8fe4ef3421c33330e9b87fa046a8209f60d1",
-    "addedAt": "2026-11-20T14:00:19.281Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-22.7€, sotto soglia"
-  },
-  {
-    "id": "10894303457",
-    "category": "Console",
-    "title": "piastra ps5",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10894303457-piastra-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_000ac_mWN21mE6tZEYNRfoTKYrqt3A/310x430/3bbdaa75.webp?s=0b35b55e5aeca2cda3370023ce4dacca00d3bd59",
-    "addedAt": "2026-11-20T14:02:22.985Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.7€, sotto soglia"
-  },
-  {
     "id": "10894387734",
     "category": "Console",
     "title": "Nintendo switch solo schermo",
@@ -27894,5 +27834,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 78.25
+  },
+  {
+    "id": "10953263103",
+    "category": "Console",
+    "title": "Nintendo Switch Lite Grigia funzionante - difetti estetici",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 74% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10953263103-nintendo-switch-lite-grigia-funzionante-difetti-estetici?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01e9e_VV8fosGkau7GWu96QfSCDu6w/310x430/77e65f0c.webp?s=5c2aa500ad54581cba0ffc88482f7c6c4fad4272",
+    "addedAt": "2026-11-24T14:05:27.691Z",
+    "processed": false,
+    "triaged": false
   }
 ]
