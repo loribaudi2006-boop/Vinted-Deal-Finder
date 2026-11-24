@@ -1,20 +1,5 @@
 [
   {
-    "id": "10867666392",
-    "category": "Console",
-    "title": "Suche ps4!",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10867666392-suche-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01a65_9G9hKJEiyyrJdeib4icY6tHj/310x430/e07ab1a8.webp?s=cd6f099960f27398ba2d16d090e9c054eeb760bf",
-    "addedAt": "2026-11-20T10:41:35.522Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10892037335",
     "category": "Console",
     "title": "Xbox one",
@@ -28521,5 +28506,41 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.8€, sotto soglia"
+  },
+  {
+    "id": "10950866663",
+    "category": "Console",
+    "title": "Ps4 + 2 joystick",
+    "price": 53,
+    "totalPrice": 56.35,
+    "reason": "prezzo 59% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10950866663-ps4-2-joystick?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00150_BPRZeFTTPZxzhBQxm97vnVwq/310x430/3ccd32e7.webp?s=bb53c8f8e852861474af15c94897057593a56118",
+    "addedAt": "2026-11-24T10:39:13.356Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 + 2 joystick\nBuone·PlayStation·Caricato proprio adesso\n\n53,00 €\n\n56,35 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nConsole funzionante in buone condizioni\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 38.65
+  },
+  {
+    "id": "10950888299",
+    "category": "Console",
+    "title": "PS4 slim",
+    "price": 39,
+    "totalPrice": 41.65,
+    "reason": "prezzo 70% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10950888299-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0059e_kU6zr1qFq5uRtTy72uV6wHz6/310x430/b09b7314.webp?s=85cf5e30eda69da365e205f03148c8d0df2e5b5d",
+    "addedAt": "2026-11-24T10:41:16.910Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 slim\nDiscrete·Sony·Caricato proprio adesso\n\n39,00 €\n\n41,65 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\nProprio adesso\nVoll Funktionsfähige PlayStation 4 slim mit altersgemäßen Schönheitsfehlern (siehe Bilder)\n+ inkl. HDMI-Kabel\nSpedizione\nda 11,99 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "altersgemäße Schönheitsfehler (difetti estetici legati all'età)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 68.35
   }
 ]
