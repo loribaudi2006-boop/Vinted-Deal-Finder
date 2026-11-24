@@ -27876,6 +27876,39 @@
     "photoUrl": "https://images1.vinted.net/t/04_01ce9_gRXGSiwY1YV9hm8N1RKeUheT/310x430/40bc59bd.webp?s=5a03ed94a4180b872bd73aade12d6dd92512631a",
     "addedAt": "2026-11-24T14:15:52.178Z",
     "processed": false,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nplaystation 4\nBuone·Sony·Caricato 2 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nha i suoi anni ma perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10953453621",
+    "category": "Console",
+    "title": "cerco ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10953453621-cerco-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_0198d_SCnrmRQiLuBc1ByUYu4aiViA/310x430/f55c5dd3.webp?s=4d8b570b6af745be10eb1b4a22cc484854fb80b1",
+    "addedAt": "2026-11-24T14:20:03.252Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10953507518",
+    "category": "Console",
+    "title": "Xbox one Konsole S",
+    "price": 43,
+    "totalPrice": 45.85,
+    "reason": "prezzo 57% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10953507518-xbox-one-konsole-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01aea_Jkcej9pj75iHwBeHvGkKBd2i/310x430/466cb578.webp?s=61ce6018da939c012c0af434c70c2b68cae12c3e",
+    "addedAt": "2026-11-24T14:26:16.185Z",
+    "processed": false,
     "triaged": false
   }
 ]
