@@ -1,38 +1,5 @@
 [
   {
-    "id": "10888895419",
-    "category": "Console",
-    "title": "pezzi di ricambio ps4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10888895419-pezzi-di-ricambio-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01411_3sZer7XHitXqW8U8sBTyRsWF/310x430/dcae3e2e.webp?s=049b9edae28eea14bf1af5f2b97e49cc5477e417",
-    "addedAt": "2026-11-20T00:41:54.332Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\npezzi di ricambio ps4\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nps4 completa\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
-    "id": "10888927283",
-    "category": "Console",
-    "title": "Wolverine ps5",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 89% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10888927283-wolverine-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00a59_xn6vys3F3yqWR3AwjPMmws8f/310x430/92100e2f.webp?s=b59b6d211fbbd11c3a2527df07a0562f540f776a",
-    "addedAt": "2026-11-20T00:48:05.102Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-42.7€, sotto soglia"
-  },
-  {
     "id": "10888933530",
     "category": "Console",
     "title": "Nintendo Switch + Zubehör TOP",
@@ -28871,5 +28838,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.8
+  },
+  {
+    "id": "10947723153",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10947723153-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00801_HwcqicBi6ivnyCi6tiGj2PWp/310x430/9adf7f43.webp?s=05342f4e97c7d86ac7e3c65b813e7aa150bd1059",
+    "addedAt": "2026-11-24T00:45:43.105Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.8€, sotto soglia"
   }
 ]
