@@ -1,20 +1,5 @@
 [
   {
-    "id": "10900006622",
-    "category": "Console",
-    "title": "Station d'accueil Nintendo switch",
-    "price": 17.5,
-    "totalPrice": 19.08,
-    "reason": "prezzo 91% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10900006622-station-daccueil-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_024b5_s7nET6SZ8xkfBDwUVeQqu3GU/310x430/0561fe84.webp?s=ecdb455138c571c41e215f32012af7fc846bac3a",
-    "addedAt": "2026-11-20T21:21:54.546Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~10€, sotto soglia"
-  },
-  {
     "id": "10900090913",
     "category": "Console",
     "title": "disponibile ps5 digital e normale",
@@ -27376,7 +27361,7 @@
     "url": "https://www.vinted.it/items/10959240205-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00ba1_u2Pb6KZArWEnNwVYoAobgPHE/310x430/f2515703.webp?s=9357ab669d26f917d53e160b5d6d088ffa3808bd",
     "addedAt": "2026-11-24T21:16:58.436Z",
-    "processed": false,
+    "processed": true,
     "triaged": true,
     "triageResult": "promising",
     "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPS4 slim\nBuone·Sony·Caricato un minuto fa\n\n54,99 €\n\n58,44 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nvendo PS4 funzionante 500 GB con cavi senza pad.\nHA PROBLEMI DI SURRISCALDAMENTO, nulla di grave basta cambiare pasta termica e spolverarla.\nPer qualunque cosa inerente alla console contattatemi.\nVendo per inutilizzo visto che ho preso la PS5.\nIN CASO FOSTE INTERESSATI A GIOCHI PER IL NINTENDO 3DS O ALLA STESSA CONSOLE (2DS) Contattatemi in privato .\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
@@ -27401,5 +27386,20 @@
     "geminiFault": "Transparent: L1/R1 issues. Camouflage: L1 issue. White: mild stick drift. Black: left joystick broken.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 52.55
+  },
+  {
+    "id": "10959297092",
+    "category": "Console",
+    "title": "Cerco Xbox Series S",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Xbox Series S (~200€)",
+    "url": "https://www.vinted.it/items/10959297092-cerco-xbox-series-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00a37_n9YSNqXLw9N19DbxuT31cNZb/310x430/3c3f1a3e.webp?s=e726bad28ce980bf205edc50d5560c26e390751b",
+    "addedAt": "2026-11-24T21:21:06.977Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
