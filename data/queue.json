@@ -1,53 +1,5 @@
 [
   {
-    "id": "10903227769",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10903227769-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0204d_wF7Dyz7e6U5SXGsejWjDS7sH/310x430/e20d0261.webp?s=a41c0d22d7c2b34e72885a7a329e383a7b4dff2b",
-    "addedAt": "2026-11-21T08:29:59.936Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10903253448",
-    "category": "Console",
-    "title": "nintendo switch",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10903253448-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01218_t8dfk4DfadZ5yYAJomFwbdGF/310x430/7ad6838f.webp?s=d27a5472dde3cf64eebce88f854fd4f8fa82d4d4",
-    "addedAt": "2026-11-21T08:32:04.151Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10903244938",
-    "category": "Console",
-    "title": "Console ps4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10903244938-console-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0050e_5swaha83xfEM5o6N4qSjm4oC/310x430/817ebe90.webp?s=bb4dabb8d3c17decd0b3ff19713cf7815cf1b94c",
-    "addedAt": "2026-11-21T08:32:04.151Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nConsole ps4\nDiscrete·PlayStation·Caricato 3 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nDiscrete\nCaricato\n3 min fa\nPS4 à vendre – 50 €\n\nJe vends ma PS4 au prix de 50 €.\n\n⚠️ La console démarre directement en mode sans échec et nécessite donc une réparation ou une réinitialisation.\n\nElle est vendue en l'état, avec le problème signalé. Idéale pour quelqu'un qui sait réparer les consoles ou qui souhaite récupérer des pièces.\n\nPrix : 50 €\n\nVente en toute transparence, défaut connu et indiqué dans l'annonce.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "La console démarre directement en mode sans échec",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.8
-  },
-  {
     "id": "10903338086",
     "category": "Console",
     "title": "Boîte ps4",
@@ -27191,5 +27143,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~27.55€, sotto soglia"
+  },
+  {
+    "id": "10962649128",
+    "category": "Console",
+    "title": "Cherche Ps5 avec paiement sur Vinted",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10962649128-cherche-ps5-avec-paiement-sur-vinted?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_005ab_WPJpZiHrwbBbo9iG4kTpmX4z/310x430/bab57071.webp?s=c6aca0f768e9011bc190953ad5a81c803f77a704",
+    "addedAt": "2026-11-25T08:33:15.554Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
