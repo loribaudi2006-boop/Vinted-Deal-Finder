@@ -1,21 +1,5 @@
 [
   {
-    "id": "10901658785",
-    "category": "Console",
-    "title": "cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10901658785-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00068_sPXeUhPrMkUPPNhjgvu6wJq8/310x430/cdd43185.webp?s=b02e5f41687183040fe78780e6ba36426212a724",
-    "addedAt": "2026-11-21T01:34:56.233Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10901758039",
     "category": "Console",
     "title": "Playstation 5 ps5",
@@ -27148,8 +27132,11 @@
     "url": "https://www.vinted.it/items/10960900155-fuente-de-alimentacion-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_021cb_aB8ixwj2UWnx7UE6yKayLXqm/310x430/5e979bd5.webp?s=a80a82704f5902b4baf26d46b40bcdfd7c5767d7",
     "addedAt": "2026-11-25T01:05:36.335Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10960919715",
@@ -27161,6 +27148,19 @@
     "url": "https://www.vinted.it/items/10960919715-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d1a_TUijCNYEQboerSSGoCToB1Sz/310x430/90ae5304.webp?s=3c7c42e43666bfcebb0064ee72b9e0e0d08e4266",
     "addedAt": "2026-11-25T01:09:42.924Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10961010061",
+    "category": "Console",
+    "title": "Xbox one s mit controller!",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10961010061-xbox-one-s-mit-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_001bb_LBCN8oQGuP67EFoo8GC6wG8F/310x430/17289bf6.webp?s=f6b320a40a71306d02f2e8cc6c61df4c49f09586",
+    "addedAt": "2026-11-25T01:30:16.864Z",
     "processed": false,
     "triaged": false
   }
