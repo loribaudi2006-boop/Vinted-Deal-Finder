@@ -1,20 +1,5 @@
 [
   {
-    "id": "10903169360",
-    "category": "Console",
-    "title": "Console Sony PSP-2004 Piano Black + Custodia Originale – Non testata / Da ricambi",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "parola chiave: \"non testata\"",
-    "url": "https://www.vinted.it/items/10903169360-console-sony-psp-2004-piano-black-custodia-originale-non-testata-da-ricambi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_026dd_mVySY5BgUMLft371oqmzazJ2/310x430/e6b3cb9c.webp?s=56630505250f911446d27225b5ddd1f919c30d52",
-    "addedAt": "2026-11-21T08:21:43.260Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~12.8€, sotto soglia"
-  },
-  {
     "id": "10903227769",
     "category": "Console",
     "title": "PlayStation 4",
@@ -27172,7 +27157,39 @@
     "url": "https://www.vinted.it/items/10962530198-dual-sense-ps5-rosa?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00859_RymyGSHKb3TFFKWiRRc6jkmd/310x430/b476b4ef.webp?s=2735d6cb8b3498f1e9a4fca74d232cca55ef69f4",
     "addedAt": "2026-11-25T08:14:40.801Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-22.55€, sotto soglia"
+  },
+  {
+    "id": "10962547427",
+    "category": "Console",
+    "title": "Dual sense Ps5 rosa",
+    "price": 58.9,
+    "totalPrice": 62.55,
+    "reason": "prezzo 85% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10962547427-dual-sense-ps5-rosa?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00859_RymyGSHKb3TFFKWiRRc6jkmd/310x430/b476b4ef.webp?s=2735d6cb8b3498f1e9a4fca74d232cca55ef69f4",
+    "addedAt": "2026-11-25T08:18:48.074Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-22.55€, sotto soglia"
+  },
+  {
+    "id": "10962570342",
+    "category": "Console",
+    "title": "Psp 1004 rotta",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "parola chiave: \"rotta\"",
+    "url": "https://www.vinted.it/items/10962570342-psp-1004-rotta?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_01a07_eevcdKKjRReW5CAqDcRbdeKL/310x430/7fb1d613.webp?s=23d50f6f2b3f9f359d4eef3ec1727401a62051a8",
+    "addedAt": "2026-11-25T08:20:51.593Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.55€, sotto soglia"
   }
 ]
