@@ -1,38 +1,5 @@
 [
   {
-    "id": "10903452165",
-    "category": "Console",
-    "title": "Cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10903452165-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_021bd_cJZYYUHsZFffEdfFykY8j2eY/310x430/1314a5b4.webp?s=39625c2a107da0d6004c47a8874f5306f09e49a2",
-    "addedAt": "2026-11-21T08:57:00.349Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10903523745",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 63,
-    "totalPrice": 66.85,
-    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10903523745-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00c6c_E5LXBWSaqrJjDtA1Pv6rSe6z/310x430/78d72bd7.webp?s=cee3a2c065ccdb6585a72f0f1ce90adc267b8488",
-    "addedAt": "2026-11-21T09:03:13.355Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato proprio adesso\n\n63,00 €\n\n66,85 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nVendo playstation 4 in ottime condizioni, senza segni di usura. Completa di cavi e Joypad.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 43.15
-  },
-  {
     "id": "10903850461",
     "category": "Console",
     "title": "Nintendo Switch Joy-Con-Handgelenkschlaufen + Spielebox",
@@ -27128,5 +27095,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~5.7€, sotto soglia"
+  },
+  {
+    "id": "10962888036",
+    "category": "Console",
+    "title": "PlayStation 5 PS5",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10962888036-playstation-5-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00830_zGBK8HNjY1SqrEM9oYc5Nxad/310x430/2d53f400.webp?s=d124ac89bdd5df12532a7d199850544f96489fbb",
+    "addedAt": "2026-11-25T09:04:14.026Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-26.95€, sotto soglia"
   }
 ]
