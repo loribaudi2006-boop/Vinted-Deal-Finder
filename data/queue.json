@@ -1,21 +1,5 @@
 [
   {
-    "id": "10901496119",
-    "category": "Console",
-    "title": "Une switch",
-    "price": 27,
-    "totalPrice": 29.05,
-    "reason": "prezzo 86% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10901496119-une-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02481_BhVGohrEcsZpLy2zmTTErYeb/310x430/ac95378d.webp?s=0060f532d01c6c3fac44b12afe1631208f72c301",
-    "addedAt": "2026-11-21T00:59:59.079Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10901576123",
     "category": "Console",
     "title": "Leggi bene! Ps4 1tera",
@@ -27185,5 +27169,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 67.8
+  },
+  {
+    "id": "10960900155",
+    "category": "Console",
+    "title": "Fuente de alimentación playstation 4",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 85% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10960900155-fuente-de-alimentacion-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_021cb_aB8ixwj2UWnx7UE6yKayLXqm/310x430/5e979bd5.webp?s=a80a82704f5902b4baf26d46b40bcdfd7c5767d7",
+    "addedAt": "2026-11-25T01:05:36.335Z",
+    "processed": false,
+    "triaged": false
   }
 ]
