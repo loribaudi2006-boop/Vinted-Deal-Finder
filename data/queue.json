@@ -1,21 +1,5 @@
 [
   {
-    "id": "10901758039",
-    "category": "Console",
-    "title": "Playstation 5 ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10901758039-playstation-5-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_02107_JsdefUqkRcGuT5SFjEJKMpHx/310x430/75caa7c5.webp?s=d47a361f3124630c67844bacf41cd57ca1d98ed8",
-    "addedAt": "2026-11-21T01:57:32.460Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10901890236",
     "category": "Console",
     "title": "Xbox One",
@@ -27164,8 +27148,11 @@
     "url": "https://www.vinted.it/items/10961010061-xbox-one-s-mit-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_001bb_LBCN8oQGuP67EFoo8GC6wG8F/310x430/17289bf6.webp?s=f6b320a40a71306d02f2e8cc6c61df4c49f09586",
     "addedAt": "2026-11-25T01:30:16.864Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10961088169",
