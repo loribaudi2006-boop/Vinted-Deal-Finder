@@ -1,21 +1,5 @@
 [
   {
-    "id": "10901890236",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 40,
-    "totalPrice": 42.7,
-    "reason": "prezzo 60% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10901890236-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02532_MYuCPYCt8hiT5dAbbdQgVP69/310x430/cc145f08.webp?s=ada8b8b5a57bc9e503554315f0fa0d67edf6b76d",
-    "addedAt": "2026-11-21T02:28:22.112Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10901932684",
     "category": "Console",
     "title": "Ps4 + manette et fil",
@@ -27193,6 +27177,32 @@
     "url": "https://www.vinted.it/items/10961270624-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_020c3_13nwVVkJXDQGPNUUf4EekyXy/310x430/4a6827c0.webp?s=55f1d319571f50e2457e7869f8022ebdaa580b0b",
     "addedAt": "2026-11-25T02:25:52.177Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10961275577",
+    "category": "Console",
+    "title": "PS4 Slim",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10961275577-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00779_uVstNC8dmJnJJ48amPk5Fj3E/310x430/e1b37a4a.webp?s=07ee0993285e6221bfa90408e9032e555785f870",
+    "addedAt": "2026-11-25T02:27:55.362Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10961311345",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 28,
+    "totalPrice": 30.1,
+    "reason": "prezzo 72% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10961311345-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_020c3_13nwVVkJXDQGPNUUf4EekyXy/310x430/4a6827c0.webp?s=55f1d319571f50e2457e7869f8022ebdaa580b0b",
+    "addedAt": "2026-11-25T02:36:08.811Z",
     "processed": false,
     "triaged": false
   }
