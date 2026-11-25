@@ -1,20 +1,5 @@
 [
   {
-    "id": "10897576345",
-    "category": "Console",
-    "title": "Protection d'ecran switch 2",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10897576345-protection-decran-switch-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00134_Qqvqk9dwj6Rbu85UDoqnEekN/310x430/cab53763.webp?s=1402edc05365563f5c3f91d8c1694e2ab744c207",
-    "addedAt": "2026-11-20T23:58:19.399Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-16.45€, sotto soglia"
-  },
-  {
     "id": "10901219088",
     "category": "Console",
     "title": "cerco ps5",
@@ -27185,5 +27170,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-63.7€, sotto soglia"
+  },
+  {
+    "id": "10960515390",
+    "category": "Console",
+    "title": "Ps5 - Sensibilisation - LISEZ",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10960515390-ps5-sensibilisation-lisez?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02324_38Y1F2kcaCnoN2oM89B5XtR4/310x430/7f598a54.webp?s=61aebcf2746f75a860d6cd8a0417fad0a4a2294b",
+    "addedAt": "2026-11-24T23:51:11.392Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
