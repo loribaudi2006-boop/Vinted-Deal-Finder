@@ -27169,5 +27169,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10961804655",
+    "category": "Console",
+    "title": "Xbox one",
+    "price": 38.99,
+    "totalPrice": 41.64,
+    "reason": "prezzo 61% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10961804655-xbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_02126_1vTrbuwBTJvswqHhFGruaFJu/310x430/61fa85ca.webp?s=673948f55d53aa20a494af1e85594673e1dadfa3",
+    "addedAt": "2026-11-25T05:00:12.607Z",
+    "processed": false,
+    "triaged": false
   }
 ]
