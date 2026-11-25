@@ -27180,8 +27180,11 @@
     "url": "https://www.vinted.it/items/10961935908-psp-go-rotta?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_023a6_mzhMWu7w2v7TnciKykeRVMg2/310x430/0881f16a.webp?s=46cc54ce3e6e912be2cdc01bb6a7ddce7622474b",
     "addedAt": "2026-11-25T05:49:43.371Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10962010940",
@@ -27193,6 +27196,19 @@
     "url": "https://www.vinted.it/items/10962010940-concours-exceptionnel-nintendo-switch-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_021b5_8PeRTcNsUbw6QR5JoUsrxwrj/310x430/70b456e0.webp?s=e8a25ad2351d017b06e964c17ccf6ad42303f609",
     "addedAt": "2026-11-25T06:14:29.592Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10962048806",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10962048806-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01868_cZLs5ZPUu1d86t72ye7WNgfg/310x430/374f5681.webp?s=78116f5866d81b4a84d957d9a2018e149c353f6d",
+    "addedAt": "2026-11-25T06:26:51.196Z",
     "processed": false,
     "triaged": false
   }
