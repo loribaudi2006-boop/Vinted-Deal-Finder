@@ -27148,8 +27148,11 @@
     "url": "https://www.vinted.it/items/10960919715-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d1a_TUijCNYEQboerSSGoCToB1Sz/310x430/90ae5304.webp?s=3c7c42e43666bfcebb0064ee72b9e0e0d08e4266",
     "addedAt": "2026-11-25T01:09:42.924Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10961010061",
@@ -27161,6 +27164,19 @@
     "url": "https://www.vinted.it/items/10961010061-xbox-one-s-mit-controller?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_001bb_LBCN8oQGuP67EFoo8GC6wG8F/310x430/17289bf6.webp?s=f6b320a40a71306d02f2e8cc6c61df4c49f09586",
     "addedAt": "2026-11-25T01:30:16.864Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10961088169",
+    "category": "Console",
+    "title": "Xbox one s mit controller!",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10961088169-xbox-one-s-mit-controller?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_001bb_LBCN8oQGuP67EFoo8GC6wG8F/310x430/17289bf6.webp?s=f6b320a40a71306d02f2e8cc6c61df4c49f09586",
+    "addedAt": "2026-11-25T01:46:48.910Z",
     "processed": false,
     "triaged": false
   }
