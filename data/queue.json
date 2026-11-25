@@ -1,21 +1,5 @@
 [
   {
-    "id": "10902140383",
-    "category": "Console",
-    "title": "Leggi bene! Ps4 1tera",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10902140383-leggi-bene-ps4-1tera?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00c0b_77QU6Vjwh1WsMHhvEUbgEXJe/310x430/85a4931e.webp?s=8cb720f66e09d64af69a3e989bd60d73744f9f69",
-    "addedAt": "2026-11-21T03:31:42.636Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10902162067",
     "category": "Console",
     "title": "Nintendo Switch light",
@@ -27196,7 +27180,10 @@
     "url": "https://www.vinted.it/items/10961414533-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_02126_1vTrbuwBTJvswqHhFGruaFJu/310x430/61fa85ca.webp?s=673948f55d53aa20a494af1e85594673e1dadfa3",
     "addedAt": "2026-11-25T03:00:52.084Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
