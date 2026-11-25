@@ -1,20 +1,5 @@
 [
   {
-    "id": "10902654452",
-    "category": "Console",
-    "title": "[Gezocht] playstation 5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10902654452-gezocht-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02068_fNRfEvGtJ9HcruRggxuFCffg/310x430/ccc844e8.webp?s=02ba734342ba22f42c1a2da5f0e8044b127074e0",
-    "addedAt": "2026-11-21T06:35:57.912Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
     "id": "10902702585",
     "category": "Console",
     "title": "Xbox ONE",
@@ -27209,6 +27194,19 @@
     "url": "https://www.vinted.it/items/10962048806-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01868_cZLs5ZPUu1d86t72ye7WNgfg/310x430/374f5681.webp?s=78116f5866d81b4a84d957d9a2018e149c353f6d",
     "addedAt": "2026-11-25T06:26:51.196Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10962068487",
+    "category": "Console",
+    "title": "Photos : ps5",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 97% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10962068487-photos-ps5-manette-cables?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01523_Y4CtgJ3KjZRkMHknbbHUS3zE/310x430/ee99a4f3.webp?s=f26cdce0e1528ce8413f6d0539d630d1eb6d3483",
+    "addedAt": "2026-11-25T06:33:01.715Z",
     "processed": false,
     "triaged": false
   }
