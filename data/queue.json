@@ -1,38 +1,5 @@
 [
   {
-    "id": "10914152069",
-    "category": "Console",
-    "title": "Sony PS4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10914152069-sony-ps4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00715_Muwy1aem6mdLaGhH5scAsFXg/310x430/262c7c85.webp?s=ecb754b34dac148420bc30a398ca6c7bb964badd",
-    "addedAt": "2026-11-21T20:57:07.781Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nSony PS4\nOttime·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nun minuto fa\nPerfetta\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40.3
-  },
-  {
-    "id": "10914193410",
-    "category": "Console",
-    "title": "ISO PlayStation 5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10914193410-iso-playstation-5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_02027_6R34Pf48gZZjDKyMUvarUVQo/310x430/410f7254.webp?s=5aa9203555b5611a945e807ba4b9574cbd1aa54c",
-    "addedAt": "2026-11-21T21:01:16.413Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10914384716",
     "category": "Console",
     "title": "PlayStation 4 Slim  PS4 Slim Funktioniert einwandfrei – 60 € Festpreis",
@@ -25384,8 +25351,13 @@
     "url": "https://www.vinted.it/items/10971943110-ps4-slim-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02455_BFY75aVmwnimEJhwgnqt8acD/310x430/b8747cf9.webp?s=71698c7f3ec65a549c480cc856f65b46c4e1bb75",
     "addedAt": "2026-11-25T20:55:51.368Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPs4 slim (Sans manette)\nGood·PlayStation·Uploaded a minute ago\n\n€60.00\n\n€63.70incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nGood\nUploaded\na minute ago\nJe vend ma play 4 slim que j’ai depuis 2021.\nJe la vend car je ne l’utilise plus du tout.\nSur les jeux elle fait énormément de bruit sûrement dû à la poussière. Je la vend sans manette et sa version est 14.02\n... more\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nmohamed-nour2b\n0\nLast seen 41 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Rumorosa durante i giochi, probabilmente a causa della polvere. Senza controller. Firmware 14.02.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   },
   {
     "id": "10971939508",
@@ -25397,8 +25369,13 @@
     "url": "https://www.vinted.it/items/10971939508-nintendo-switch-1-paire-joy-con?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0044e_UjWmiwc6BJWhxKg2UFTSXH8k/310x430/01566b80.webp?s=9a94f044a85c2f6cafe40d6e582691fa726aad15",
     "addedAt": "2026-11-25T20:55:51.369Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesNintendo Consoles\nNintendo switch 1 paire joy con\nGood·Nintendo·Uploaded a minute ago\n\n€50.00\n\n€53.20incl. Vinted fee\nBrandNintendo\nPlatform\nNintendo Switch\nCondition\nGood\nUploaded\na minute ago\nJe vends cette console Nintendo switch 1 avec sa paire de joy con uniquement, pas de chargeur ni accessoires supplémentaires.\nLa console fonctionne très bien, si besoin de preuve je peux vous envoyer.\nLa console a pris quelque choc a l'arrière et la grille de ventilation est casser. L'écran aussi a subi quelque rayure mais ne se voit pas en allumant.\nVendu en l'état, pour l'acheteur en connaissance de cause donc aucun retour\n... more\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nzdh_blackhawks\n28\nSpeedy Shipping\nSends items promptly — usually within the next 24 hours.\nLast seen 6 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Console con colpi sul retro, griglia di ventilazione rotta, graffi sullo schermo e nessun accessorio (no caricabatterie)",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.8
   },
   {
     "id": "10971930178",
@@ -25410,7 +25387,27 @@
     "url": "https://www.vinted.it/items/10971930178-giochi-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00042_D5aTGB7ppvfEvutj7DPt1wQb/310x430/ba69fe02.webp?s=7c94b28553a6cddfcffb794c994bfdab49ea048f",
     "addedAt": "2026-11-25T20:55:51.369Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
+  },
+  {
+    "id": "10971998443",
+    "category": "Console",
+    "title": "PlayStation 4 / PS4 / 2 manettes / 4 jeux / Console fonctionnelle",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10971998443-playstation-4-ps4-2-manettes-4-jeux-console-fonctionnelle?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c27_DbbJ2o8vMHSFQ2XkUfYyLugv/310x430/d7fb418b.webp?s=0594e2c82975104b9d09ad3c07a476ab826e061d",
+    "addedAt": "2026-11-25T21:00:03.993Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Sign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n1\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPlayStation 4 / PS4 / 2 manettes / 4 jeux / Console fonctionnelle\nGood·PlayStation·Uploaded a minute ago\n\n€1.00\n\n€1.75incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nGood\nUploaded\na minute ago\nJe vends ma PlayStation 4 avec 2 manettes (une noire et une blanche) ainsi que 4 jeux.\n\n🎮 Console PS4 fonctionnelle\n🕹️ 2 manettes sans fil\n🎲 4 jeux inclus :\n• FIFA 20\n• Fallout 4\n• Star Wars Battlefront\n• South Park : L’Année du Bâton de Vérité\n\n🔌 Seul le câble d’alimentation est fourni.\n\nIl manque le câble HDMI pour la brancher à la télévision ainsi que les câbles de recharge des manettes.\n\nLa console fonctionne très bien, mais présente des traces d’usure et quelques rayures liées à son utilisation.\n\nVendue avec tout ce qui est visible sur les photos.\n\nMerci de ne pas l’acheter à un euro proposer plutôt des prix en privé et je vous répondrai au plus vite!!\n... more\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\ncorinnesimeon\n190\nLast seen 8 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited King",
+    "geminiFault": "Tracce d'usura e graffi, manca cavo HDMI e cavi di ricarica controller",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 80
   }
 ]
