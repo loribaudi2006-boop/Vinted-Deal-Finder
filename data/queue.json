@@ -25394,5 +25394,61 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-1.75€, sotto soglia"
+  },
+  {
+    "id": "10972415699",
+    "category": "Console",
+    "title": "Lot de matériel de switch",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10972415699-lot-de-materiel-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_011ba_ShTUfZpjTqJUE13HQNjQo1tk/310x430/2fbfe74c.webp?s=ad75d8e23c0b0f780937e1f6412f6714c4a0ff2a",
+    "addedAt": "2026-11-25T21:37:28.120Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~18.55€, sotto soglia"
+  },
+  {
+    "id": "10972484570",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10972484570-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00cfb_sU7WSwZjwkVfPaDtpTcxACan/310x430/e4f81139.webp?s=49d6967795858d5cd05e97f28a3be84b6501d9fe",
+    "addedAt": "2026-11-25T21:43:42.037Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20€, sotto soglia"
+  },
+  {
+    "id": "10972512155",
+    "category": "Console",
+    "title": "PS5 Giveaway by my friend",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10972512155-ps5-giveaway-by-my-friend?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00157_eAkPqaAdi3rM9q5GxyxYvjjE/310x430/21071f10.webp?s=ce6c0c8b9ded6675bf95b601edc46bae8eca9a9c",
+    "addedAt": "2026-11-25T21:45:46.560Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10972493642",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 76% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10972493642-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_000e6_nuCCiPWGjpmUycgcCoLzeWVV/310x430/39336320.webp?s=0ee2ef4600c115225ea01e8a65030c5a1c8d30d0",
+    "addedAt": "2026-11-25T21:45:46.561Z",
+    "processed": false,
+    "triaged": false
   }
 ]
