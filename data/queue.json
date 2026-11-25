@@ -27185,5 +27185,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10961935908",
+    "category": "Console",
+    "title": "Psp go ( rotta)",
+    "price": 65.99,
+    "totalPrice": 69.99,
+    "reason": "parola chiave: \"rotta\"",
+    "url": "https://www.vinted.it/items/10961935908-psp-go-rotta?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_023a6_mzhMWu7w2v7TnciKykeRVMg2/310x430/0881f16a.webp?s=46cc54ce3e6e912be2cdc01bb6a7ddce7622474b",
+    "addedAt": "2026-11-25T05:49:43.371Z",
+    "processed": false,
+    "triaged": false
   }
 ]
