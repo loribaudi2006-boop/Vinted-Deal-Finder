@@ -1,35 +1,5 @@
 [
   {
-    "id": "10902842977",
-    "category": "Console",
-    "title": "Scatole ps4 vuote",
-    "price": 45,
-    "totalPrice": 47.95,
-    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10902842977-scatole-ps4-vuote?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_019e6_1ySPWtNffF55d7zv6Wx14CcV/310x430/fefc5226.webp?s=40a127587066b57d7112baed6a060e44479b5350",
-    "addedAt": "2026-11-21T07:25:39.580Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-35€, sotto soglia"
-  },
-  {
-    "id": "10902876856",
-    "category": "Console",
-    "title": "Console Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10902876856-console-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01ccb_MrP6intKV44ynP1oQc4eLvMb/310x430/555b5295.webp?s=be50558871c0007551a7e17a4b72d09f21b42e22",
-    "addedAt": "2026-11-21T07:33:56.997Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~15€, sotto soglia"
-  },
-  {
     "id": "10902929766",
     "category": "Console",
     "title": "Cerco ps5 compro solo se si può pagare su vinted",
@@ -27227,5 +27197,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 41.55
+  },
+  {
+    "id": "10962306091",
+    "category": "Console",
+    "title": "Soporte para la consola PS4",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 96% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10962306091-soporte-para-la-consola-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00e1b_Ztz2KY7Y85CeAyErV9yDQ9oz/310x430/ef270ee7.webp?s=d973d1de7544ffdabfde48dd7962cb1390465e4e",
+    "addedAt": "2026-11-25T07:33:29.449Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~3.05€, sotto soglia"
   }
 ]
