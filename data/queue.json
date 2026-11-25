@@ -27172,7 +27172,24 @@
     "url": "https://www.vinted.it/items/10963037756-ensemble-accessoires-console-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02355_Cnfge4iGbxgfk5EY6rSSc58P/310x430/c5af5818.webp?s=2560baa7ba3bbc5fd260f7107880a8cdca998a0f",
     "addedAt": "2026-11-25T09:22:48.150Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-18.2€, sotto soglia"
+  },
+  {
+    "id": "10963095308",
+    "category": "Console",
+    "title": "nintendo dsi non funzionante con caricatore",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10963095308-nintendo-dsi-non-funzionante-con-caricatore?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01753_VkAqwrXQSQ8QSWaYBuTCif1D/310x430/759a2339.webp?s=22e960b5dbb57d051fe9c8996f1f5df628c207d2",
+    "addedAt": "2026-11-25T09:29:00.673Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~12.8€, sotto soglia"
   }
 ]
