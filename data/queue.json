@@ -1,23 +1,5 @@
 [
   {
-    "id": "10902929766",
-    "category": "Console",
-    "title": "Cerco ps5 compro solo se si può pagare su vinted",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10902929766-cerco-ps5-compro-solo-se-si-puo-pagare-su-vinted?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01960_hWv3nXCFFr7pdFnbKFvYWdft/310x430/98d84ac0.webp?s=57853244973332c36244f61f06ded8c8bf8c1c5a",
-    "addedAt": "2026-11-21T07:44:19.978Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "cedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nCerco ps5 compro solo se si può pagare su vinted\nNuovo con cartellino·PlayStation·Caricato 2 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\n2 min fa\nSe non si può pagare da vinted non contattatemi proprio.\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 345
-  },
-  {
     "id": "10903007006",
     "category": "Console",
     "title": "PS VR PS4 PlayStation",
@@ -27212,5 +27194,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~3.05€, sotto soglia"
+  },
+  {
+    "id": "10962406501",
+    "category": "Console",
+    "title": "Psp 2004 schermo rotto",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "parola chiave: \"rotto\"",
+    "url": "https://www.vinted.it/items/10962406501-psp-2004-schermo-rotto?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_024f9_p6AnedWCSqMyXGbmpihncXKw/310x430/c294df96.webp?s=f3cc0aeed0046d83a28ec7184c4715cb80822185",
+    "addedAt": "2026-11-25T07:54:04.350Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~17.3€, sotto soglia"
   }
 ]
