@@ -27182,5 +27182,18 @@
     "addedAt": "2026-11-25T01:05:36.335Z",
     "processed": false,
     "triaged": false
+  },
+  {
+    "id": "10960919715",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10960919715-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01d1a_TUijCNYEQboerSSGoCToB1Sz/310x430/90ae5304.webp?s=3c7c42e43666bfcebb0064ee72b9e0e0d08e4266",
+    "addedAt": "2026-11-25T01:09:42.924Z",
+    "processed": false,
+    "triaged": false
   }
 ]
