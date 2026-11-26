@@ -25139,5 +25139,51 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 340
+  },
+  {
+    "id": "10975674218",
+    "category": "Console",
+    "title": "PlayStation 5 (ps5)",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 93% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10975674218-playstation-5-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d23_5gwQs1G2oBP4o72UVgMBfs2d/310x430/34b38e3f.webp?s=60644476cb1a6c8d3f57e94695260faaf3993cf9",
+    "addedAt": "2026-11-26T09:28:33.671Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-26.95€, sotto soglia"
+  },
+  {
+    "id": "10975725407",
+    "category": "Console",
+    "title": "Nintendo Switch lite",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10975725407-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_026ab_VnU2JfALVmBanvhjt61osKb8/310x430/900eadff.webp?s=9fafaba29a78e57260a7e14a91c56eb86e216310",
+    "addedAt": "2026-11-26T09:34:46.083Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\n+ 5\nElectronicsVideo games & consolesConsolesNintendo Consoles\nNintendo Switch lite\nGood·Nintendo·Uploaded 2 min ago\n\n€60.00\n\n€63.70incl. Vinted fee\nBrandNintendo\nPlatform\nNintendo Switch\nCondition\nGood\nUploaded\n2 min ago\nNintendo Switch lite corail fonctionne parfaitement sans jeux avec son chargeur Nintendo et sa pochette.\nA été réinitialisé, présente quelques coups voir photo mais ne gêne en rien son utilisation,aucun impact sur l ecran\n... more\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nolivia76250\n13\nFrequent Uploads\nRegularly lists 5 or more items.\nSpeedy Shipping\nSends items promptly — usually within the next 24 hours.\nLast seen 8 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "presente quelques coups voir photo mais ne gêne en rien son utilisation, aucun impact sur l ecran",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10975756647",
+    "category": "Console",
+    "title": "Boîte vide console Sony PlayStation 4 PS4 carton d'origine blanc avec mousses calage",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 92% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10975756647-boite-vide-console-sony-playstation-4-ps4-carton-dorigine-blanc-avec-mousses-calage?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00dd1_1mAExxEswhKywB2rgWhjDLrd/310x430/0ed91519.webp?s=bdc9bbf9575bc5569a70ae1e5e5cd859230c0198",
+    "addedAt": "2026-11-26T09:36:50.166Z",
+    "processed": false,
+    "triaged": false
   }
 ]
