@@ -1,53 +1,5 @@
 [
   {
-    "id": "10917932337",
-    "category": "Console",
-    "title": "Mon objectif avoir la ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10917932337-mon-objectif-avoir-la-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0208f_Q4WAoQre27t7MUcUgJ423CEY/310x430/73f5f2f0.webp?s=79ba24754916e553f3d6c9e608e001e756174577",
-    "addedAt": "2026-11-22T08:27:41.114Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10917965650",
-    "category": "Console",
-    "title": "Reprise de jeu nintendo switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10917965650-reprise-de-jeu-nintendo-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01ba1_eYiSt6Hw3pEbouHBaxyYXBUT/310x430/101da8db.webp?s=3bd0a92125b50f20ffd9818c17e2573191d8e5db",
-    "addedAt": "2026-11-22T08:31:48.859Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-1.75€, sotto soglia"
-  },
-  {
-    "id": "10918011639",
-    "category": "Console",
-    "title": "Ps4 à vendre",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10918011639-ps4-a-vendre?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01304_2iqNmN5wLCvD2NCCiZwYkKi2/310x430/e445b381.webp?s=d1ee91050d413d3371b407c2bed6b578d23b3669",
-    "addedAt": "2026-11-22T08:35:57.234Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 à vendre\nBuone·PlayStation·Caricato proprio adesso\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nProprio adesso\nPlayStation sans manette\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "PlayStation sans manette",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.3
-  },
-  {
     "id": "10918078847",
     "category": "Console",
     "title": "Xbox One",
@@ -25226,5 +25178,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10975213274",
+    "category": "Console",
+    "title": "Ps5 - Lisez bien la description 🚨",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10975213274-ps5-lisez-bien-la-description?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_0206f_TYhJuGqu6CbJjwH2VYbgRjgY/310x430/6281727b.webp?s=6b650a0a89ba3a3d0fce31aca2daca548fe56466",
+    "addedAt": "2026-11-26T08:28:28.966Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   }
 ]
