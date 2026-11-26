@@ -25301,8 +25301,11 @@
     "url": "https://www.vinted.it/items/10974539037-cherche-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00065_czTjwEfaS2yHqwEW9HNBJdw9/310x430/46b518ca.webp?s=d8d328fad3ca3e012e2def894ced30b0bb012113",
     "addedAt": "2026-11-26T05:39:45.194Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10974564613",
@@ -25314,7 +25317,10 @@
     "url": "https://www.vinted.it/items/10974564613-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_026f0_8owqnoHku9x4px7BCoSa2fMJ/310x430/82af2cbf.webp?s=39cb40947f8dde94965ccf75a2728324d0ad93a9",
     "addedAt": "2026-11-26T05:47:57.444Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
