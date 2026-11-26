@@ -1,23 +1,5 @@
 [
   {
-    "id": "10917403736",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10917403736-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_000b1_vVepqSbUcgh8rPAWpF4urs6m/310x430/85395c13.webp?s=df46a97eacff37a0d85c2d51cdb35ae7d3d04c78",
-    "addedAt": "2026-11-22T06:40:23.689Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPlayStation 4\nOttime·PlayStation·Caricato 21 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n21 min fa\nUsata pochissimo\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 80
-  },
-  {
     "id": "10901436537",
     "category": "Console",
     "title": "PS4 tudo a funcionar e tens um controle",
@@ -25333,6 +25315,19 @@
     "url": "https://www.vinted.it/items/10974696797-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0209a_WFZzzsoaC1eNTF6XFMneFMbH/310x430/b619a101.webp?s=00be042070939b79891f37d77ac3edc421da6ba4",
     "addedAt": "2026-11-26T06:35:09.087Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10974715098",
+    "category": "Console",
+    "title": "Vendo PS4",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10974715098-vendo-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_003d5_r5jSZsb8SPp66pUaYN5jMUCm/310x430/fdfc350a.webp?s=6af581921b471f32f7689c16cf1244cab866369f",
+    "addedAt": "2026-11-26T06:41:18.029Z",
     "processed": false,
     "triaged": false
   }
