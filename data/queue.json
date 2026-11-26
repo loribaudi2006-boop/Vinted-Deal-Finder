@@ -21562,5 +21562,38 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~14.35€, sotto soglia"
+  },
+  {
+    "id": "10984563932",
+    "category": "Console",
+    "title": "PlayStation 4 Fat (PS4) funzionante e pulita – Venduta SENZA Hard Disk",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10984563932-playstation-4-fat-ps4-funzionante-e-pulita-venduta-senza-hard-disk?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01ab5_ttwDqRK9TyXaEhJewM4jMBf1/310x430/671b8f9e.webp?s=ef45138fc4a6dde77f3a20fa4a82a83c2c219fd6",
+    "addedAt": "2026-11-26T23:02:40.683Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\n+ 4\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPlayStation 4 Fat (PS4) funzionante e pulita – Venduta SENZA Hard Disk\nVery good·PlayStation·Uploaded 2 min ago\n\n€55.00\n\n€58.45incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nVery good\nUploaded\n2 min ago\nVendo PlayStation 4 Fat (solo console, senza hard disk e senza controller).\nMODEL CUH-1216B (significa 1TB di spazio di archiviazione).\n\nLa console è funzionante a livello hardware (scheda madre, alimentatore, ventola e uscita HDMI testati e ok). Prima di capire che il problema di avvio fosse legato esclusivamente al vecchio hard disk con settori danneggiati, sono stati fatti due interventi da esperti nel settore: l'ho fatta pulire accuratamente ed è stato fatto un ripristino delle impostazioni predefinite dalla modalità provvisoria.\n\nLa foto con la schermata CE-34335-8 (Impossibile accedere alla memoria di archiviazione del sistema) è la prova più solida che ho per mostrare che il tutto funzioni al meglio.\nHo altre foto, sempre dalla “modalità provvisoria” (dove si vede il firmware 14.02) che però è in inglese proprio perché, dopo il ripristino alle impostazioni di fabbrica, il sistema torna automaticamente alla lingua predefinita. Questo perché prima di portarla in store ho provato diverse cose per resuscitare l’hard disk con scarsi risultati.\n\nCOSA NON È INCLUSO:\nHard disk / SSD\nController DualShock4\ncavo hdmi\n\nDisponibile per ritiro a mano su Milano o spedizione tracciata ben imballata. Formula vista e piaciuta senza disco: non accetto resi per mancata conoscenza della procedura di installazione dell'hard disk. Per qualsiasi info scrivimi pure!\n\nSe hai bisogno di altre informazioni o foto chiedi pure!\n... more\nShipping\nfrom €4.09\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\ncristiansem\n0\nLast seen 36 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ..",
+    "geminiFault": "Manca Hard Disk e controller, errore memoria di archiviazione",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 31.55
+  },
+  {
+    "id": "10984578691",
+    "category": "Console",
+    "title": "manette pro switch",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 87% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10984578691-manette-pro-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_004a5_sDGzLRcMw9mXpRozS4SgSUt2/310x430/e4d10751.webp?s=ad1cb1f58307ae163f6b96c47aeab270216484ac",
+    "addedAt": "2026-11-26T23:04:44.180Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-14.95€, sotto soglia"
   }
 ]
