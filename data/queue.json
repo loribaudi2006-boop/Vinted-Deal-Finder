@@ -1,23 +1,5 @@
 [
   {
-    "id": "10901436537",
-    "category": "Console",
-    "title": "PS4 tudo a funcionar e tens um controle",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10901436537-ps4-tudo-a-funcionar-e-tens-um-controle?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_006cf_NaHSKkBr6KHq4EEHWm9d7KRN/310x430/077b8ccf.webp?s=97c8ebfe5e4a78cc9cc52c3180781d8e42a2cd13",
-    "addedAt": "2026-11-22T07:01:00.275Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "alogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPS4 tudo a funcionar e tens um controle\nOttime·PlayStation·Caricato 2 min fa\n\n65,00 €\n\n68,95 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\n2 min fa\nPs4 de cor preta 500GB\nIncluindo os cabos também\nSpedizione\nda 6,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 31.05
-  },
-  {
     "id": "10917530623",
     "category": "Console",
     "title": "Pour m'aider à acheter ma ps5",
@@ -25315,8 +25297,10 @@
     "url": "https://www.vinted.it/items/10974696797-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0209a_WFZzzsoaC1eNTF6XFMneFMbH/310x430/b619a101.webp?s=00be042070939b79891f37d77ac3edc421da6ba4",
     "addedAt": "2026-11-26T06:35:09.087Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
   },
   {
     "id": "10974715098",
@@ -25328,7 +25312,27 @@
     "url": "https://www.vinted.it/items/10974715098-vendo-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_003d5_r5jSZsb8SPp66pUaYN5jMUCm/310x430/fdfc350a.webp?s=6af581921b471f32f7689c16cf1244cab866369f",
     "addedAt": "2026-11-26T06:41:18.029Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n8\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nSold\nVendo PS4\nSatisfactory·PlayStation·Uploaded 21 min ago\n\n€30.00\n\n€32.20incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nSatisfactory\nUploaded\n21 min ago\nVendo PlayStation 4 funzionante senza joystick.\nShipping\nfrom €4.09\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nida2805\n0\nFrequent Uploads\nRegularly lists 5 or more items.\nLast seen 25 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "funzionante senza joystick",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.8
+  },
+  {
+    "id": "10974801260",
+    "category": "Console",
+    "title": "Vente Ps5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10974801260-vente-ps5-photo-arnaque-attention?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_011ec_rh3PXoDYmPWTPfTxrdVn2Crd/310x430/1b9b67ad.webp?s=1c329d39ad28dc393eac4c497d22d30b72b9362b",
+    "addedAt": "2026-11-26T07:05:56.305Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
