@@ -1,21 +1,5 @@
 [
   {
-    "id": "10916283082",
-    "category": "Console",
-    "title": "Nintendo switch Bannie",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10916283082-nintendo-switch-bannie?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_025f5_tLg7ezUz5L4URWPtEQJuVUAW/310x430/8269e0f0.webp?s=c03b24a832a249a14e9ed0d50c7efec0eb7b1805",
-    "addedAt": "2026-11-22T01:22:46.259Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10916386814",
     "category": "Console",
     "title": "PlayStation 4",
@@ -25455,7 +25439,10 @@
     "url": "https://www.vinted.it/items/10973679239-nintendo-switch-oled-edicion-mario-bros-roja?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_0257f_EM6t73V4Ms7SuwFmbQjxDk15/310x430/a35215cb.webp?s=c72f4020c621d05d725c0ff20a97a4a4393b0674",
     "addedAt": "2026-11-26T01:01:18.336Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
