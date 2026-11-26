@@ -1,20 +1,5 @@
 [
   {
-    "id": "10916013618",
-    "category": "Console",
-    "title": "Cherche ps5 avec lecteur de disque",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10916013618-cherche-ps5-avec-lecteur-de-disque?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_02520_krAvssjKh18HxHSLmsbyJvJ4/310x430/14f6635e.webp?s=305edc186c078cc1f5b6dd6db5f7205f9bedacf2",
-    "addedAt": "2026-11-22T00:30:53.335Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10916057453",
     "category": "Console",
     "title": "PlayStation 4",
@@ -25544,5 +25529,23 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~20.8€, sotto soglia"
+  },
+  {
+    "id": "10973545644",
+    "category": "Console",
+    "title": "Xbox One S Microsoft non fonctionnel",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 70% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10973545644-xbox-one-s-microsoft-non-fonctionnel?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_021d9_38vWo8DvpsGfwF1NxGiMLoyz/310x430/857f5b20.webp?s=3dd5b3d3bb68eb9a7480bb4d2ad2c4e414a23d4b",
+    "addedAt": "2026-11-26T00:27:59.426Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesMicrosoft Consoles\nXbox One S Microsoft non fonctionnel\nVery good·Microsoft·Uploaded 6 min ago\n\n€30.00\n\n€32.20incl. Vinted fee\nBrandMicrosoft\nPlatform\nXbox One\nCondition\nVery good\nUploaded\n6 min ago\nMicrosoft Xbox One S 500go hors service.\n\nNe s'allume pas.\n\nJamais démonter.\nVendu seule sans accessoires\n... more\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nplaykik\n65\nFrequent Uploads\nRegularly lists 5 or more items.\nSpeedy Shipping\nSends items promptly — usually within the next 24 hours.\nLast seen 11 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Ne s'allume pas. Jamais démonter. Vendu seule sans accessoires.",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 32.8
   }
 ]
