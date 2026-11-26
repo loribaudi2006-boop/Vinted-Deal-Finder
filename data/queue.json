@@ -25338,5 +25338,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10973997191",
+    "category": "Console",
+    "title": "Console PlayStation 3 fat nera non funzionante",
+    "price": 15.5,
+    "totalPrice": 16.98,
+    "reason": "parola chiave: \"non funzionante\"",
+    "url": "https://www.vinted.it/items/10973997191-console-playstation-3-fat-nera-non-funzionante-solo-console?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_011f9_tBkTK8LUiowjx5gFoHux7MpZ/310x430/8b4265ff.webp?s=d49892a60699570950bbc259eb9c6ef07820b989",
+    "addedAt": "2026-11-26T03:19:38.014Z",
+    "processed": false,
+    "triaged": false
   }
 ]
