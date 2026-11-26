@@ -1,41 +1,5 @@
 [
   {
-    "id": "10916140634",
-    "category": "Console",
-    "title": "Xbox one !",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10916140634-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_0152f_4vYVnUBP96EPwdnmqdprUpk4/310x430/dfcf7cd0.webp?s=404276e0df421850ed3dee20db15b59036b983eb",
-    "addedAt": "2026-11-22T00:53:43.563Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleMicrosoft Console\nXbox one !\nOttime·Microsoft·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandMicrosoft\nPlatform\nXbox One\nCondizioni\nOttime\nCaricato\nProprio adesso\n🚨Ne pas acheter 🚨\nJe vend ma Xbox one avec une manette et 4 jeux.\nProposez vos prix\nXbox one 500 Go.\nJeux : _ Gta 5\n_ Watch Dog\n_ Farming simulator 17\n_ Call of duty mw2\nDepuis la sortie de GTA 6 il est possible d’y jouer sur cette console avec les graphismes Xbox série S.\nN’hésitez pas à me contacter pour plus d’informations.\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 68.25
-  },
-  {
-    "id": "10916150797",
-    "category": "Console",
-    "title": "nintendo switch oled con 3 giochi",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10916150797-nintendo-switch-oled-con-3-giochi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01d7c_4Fm4NyDErhz26Mv4z5cK2Es7/310x430/3d58f40a.webp?s=840f129cd18a16da08856952d5519f349061142d",
-    "addedAt": "2026-11-22T00:55:47.903Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "viti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 9\nElettronicaVideogiochi e consoleConsoleNintendo Console\nnintendo switch oled con 3 giochi\nNuovo senza cartellino·Nintendo·Caricato proprio adesso\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\nProprio adesso\nvendo nintendo switch per inutilizzo con 3 giochi scatola e cavi e custodia rigida portatile originali nintendo per prezzo foto o ulteriori informazioni scrivetemi\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 195
-  },
-  {
     "id": "10916151654",
     "category": "Console",
     "title": "Console portatile retrogaming SF3500 (5 pollici) con microSD. Non funzionante da riparare",
@@ -25496,5 +25460,20 @@
     "geminiFault": "Ne s'allume pas. Jamais démonter. Vendu seule sans accessoires.",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.8
+  },
+  {
+    "id": "10973639687",
+    "category": "Console",
+    "title": "Ps5 signalez mathieu09400",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10973639687-ps5-signalez-mathieu09400?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00fec_qtGwN8VWH9ZqbAtWuzTR2tnC/310x430/8d1f5ac1.webp?s=3e254b69ab49ea57ec39ece7cebba982aafbca69",
+    "addedAt": "2026-11-26T00:50:54.103Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2€, sotto soglia"
   }
 ]
