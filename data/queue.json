@@ -1,35 +1,5 @@
 [
   {
-    "id": "10916386814",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10916386814-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01a2c_CKhUHuTmuDjkitaBuCuveMe9/310x430/4b762376.webp?s=c4210b18be3d8288420921ef02c474ddfebf1727",
-    "addedAt": "2026-11-22T01:43:30.591Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10916413420",
-    "category": "Console",
-    "title": "Switch",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10916413420-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0112f_78qxsFY2J55wPLpnZNNch3Y7/310x430/0e382730.webp?s=73fdca0d9d7db157c302f0b882d370b80dd32b03",
-    "addedAt": "2026-11-22T01:47:39.164Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10916426444",
     "category": "Console",
     "title": "Switch",
@@ -25444,5 +25414,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10973827379",
+    "category": "Console",
+    "title": "Nintendo Switch Online+ Expansión",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 99% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10973827379-nintendo-switch-online-expansion?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01b8d_DGfu5qDg7LTVY8JV4Juhjaeq/310x430/a8d40c7b.webp?s=7ba3c8a73ebc9e940b45325b2ce361b69736968c",
+    "addedAt": "2026-11-26T01:41:01.957Z",
+    "processed": false,
+    "triaged": false
   }
 ]
