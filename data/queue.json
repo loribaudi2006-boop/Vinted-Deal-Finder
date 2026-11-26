@@ -24968,5 +24968,20 @@
     "geminiFault": "Ventilatore rumoroso in gioco (necessita pulizia/pasta termica), tracce d'usura sulla scocca bianca",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.3
+  },
+  {
+    "id": "10976097052",
+    "category": "Console",
+    "title": "PS5",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10976097052-ps5-ps5-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_0262b_jSgK17s21mJENq31SoQoMikV/310x430/0ca2d5ca.webp?s=783173d2cfc97bb92d5c7756eddc98cb2ddf86a9",
+    "addedAt": "2026-11-26T10:12:00.261Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
