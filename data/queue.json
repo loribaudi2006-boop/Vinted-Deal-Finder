@@ -25514,5 +25514,35 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 300
+  },
+  {
+    "id": "10973534897",
+    "category": "Console",
+    "title": "Microsoft Xbox One alimentation original",
+    "price": 24,
+    "totalPrice": 25.9,
+    "reason": "prezzo 76% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10973534897-microsoft-xbox-one-alimentation-original?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00c35_juUaHqizEiJmTg1eR5npwgCn/310x430/2976a183.webp?s=768e8ea19cdfe1979b3820dba2835d383fb70b68",
+    "addedAt": "2026-11-26T00:23:50.776Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.9€, sotto soglia"
+  },
+  {
+    "id": "10972598954",
+    "category": "Console",
+    "title": "Dock Bianco Originale Nintendo Switch OLED + Alimentatore + Cavo HDMI",
+    "price": 30,
+    "totalPrice": 32.2,
+    "reason": "prezzo 88% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10972598954-dock-bianco-originale-nintendo-switch-oled-alimentatore-cavo-hdmi?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00619_FUQ4W2ScoTziGeHmJ3LLdMMF/310x430/1d5aa546.webp?s=b0ece608c70bce727ae221f43467849bd2cd0a63",
+    "addedAt": "2026-11-26T00:25:55.103Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~20.8€, sotto soglia"
   }
 ]
