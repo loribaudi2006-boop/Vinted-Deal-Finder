@@ -1,36 +1,5 @@
 [
   {
-    "id": "10916151654",
-    "category": "Console",
-    "title": "Console portatile retrogaming SF3500 (5 pollici) con microSD. Non funzionante da riparare",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10916151654-console-portatile-retrogaming-sf3500-5-pollici-con-microsd-non-funzionante-da-riparare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01b80_B68iKELKVvfDPBZMRN1KVhxE/310x430/997c0538.webp?s=7aa123da135f683621424d950464dc89b23405ba",
-    "addedAt": "2026-11-22T00:57:52.516Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~3.05€, sotto soglia"
-  },
-  {
-    "id": "10916205933",
-    "category": "Console",
-    "title": "Xbox One 500gb",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10916205933-xbox-one-500gb?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01b8d_ixZxs1kuVPKXYcPiajfxTQY7/310x430/51308e1e.webp?s=0bc8502e90e2b965c7a23c9a78c17a42e3cec2d3",
-    "addedAt": "2026-11-22T01:06:11.559Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10916283082",
     "category": "Console",
     "title": "Nintendo switch Bannie",
@@ -25475,5 +25444,18 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-2€, sotto soglia"
+  },
+  {
+    "id": "10973679239",
+    "category": "Console",
+    "title": "Nintendo Switch Oled Edición Mario bros Roja",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10973679239-nintendo-switch-oled-edicion-mario-bros-roja?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_0257f_EM6t73V4Ms7SuwFmbQjxDk15/310x430/a35215cb.webp?s=c72f4020c621d05d725c0ff20a97a4a4393b0674",
+    "addedAt": "2026-11-26T01:01:18.336Z",
+    "processed": false,
+    "triaged": false
   }
 ]
