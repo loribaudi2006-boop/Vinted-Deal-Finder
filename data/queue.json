@@ -25333,7 +25333,10 @@
     "url": "https://www.vinted.it/items/10973827379-nintendo-switch-online-expansion?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_01b8d_DGfu5qDg7LTVY8JV4Juhjaeq/310x430/a8d40c7b.webp?s=7ba3c8a73ebc9e940b45325b2ce361b69736968c",
     "addedAt": "2026-11-26T01:41:01.957Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
