@@ -1,35 +1,5 @@
 [
   {
-    "id": "10933991897",
-    "category": "Console",
-    "title": "Ticket pour un concours pour ps5",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10933991897-ticket-pour-un-concours-pour-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_016fb_ohfTM3J6E6Ec9eJ8C4iFzySa/310x430/6850a781.webp?s=819ce814d41816c6308057bff5c4ad6a6b2347d9",
-    "addedAt": "2026-11-23T00:08:11.096Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5.95€, sotto soglia"
-  },
-  {
-    "id": "10934045811",
-    "category": "Console",
-    "title": "Console portatile retrogaming SF3500 (5 pollici) con microSD. Non funzionante da riparare",
-    "price": 19,
-    "totalPrice": 20.65,
-    "reason": "parola chiave: \"non funzionante\"",
-    "url": "https://www.vinted.it/items/10934045811-console-portatile-retrogaming-sf3500-5-pollici-con-microsd-non-funzionante-da-riparare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_01c5a_W1qW5Q11qb137668rJFyamnG/310x430/ea3727d1.webp?s=0c3a6666b4b97f7e660649f8c873c3a76059e83b",
-    "addedAt": "2026-11-23T00:16:27.820Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-5.65€, sotto soglia"
-  },
-  {
     "id": "10928425306",
     "category": "Console",
     "title": "Jeu de Switch",
@@ -21541,5 +21511,20 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 300
+  },
+  {
+    "id": "10984861066",
+    "category": "Console",
+    "title": "Ixbox one",
+    "price": 53,
+    "totalPrice": 56.35,
+    "reason": "prezzo 47% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10984861066-ixbox-one?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01e74_1tXBBWLFFrqTzSv8TbN5ST2r/310x430/344fb912.webp?s=1accb696ccfdb91c39f24af4dc411573da4524f9",
+    "addedAt": "2026-11-27T00:12:33.687Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~13.65€, sotto soglia"
   }
 ]
