@@ -19897,5 +19897,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~16.8€, sotto soglia"
+  },
+  {
+    "id": "10994869897",
+    "category": "Console",
+    "title": "Attention arnaque ! Vend juste \"la photo\" d'une console Nintendo Switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10994869897-attention-arnaque-vend-juste-la-photo-dune-console-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_005b2_wc2N5Qb7m8xcUZ8wMcxHWyaj/310x430/7bc3d6df.webp?s=2897e6a8c6d7dd12831007c527878ef3e96eecf2",
+    "addedAt": "2026-11-27T21:20:24.329Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-63.7€, sotto soglia"
   }
 ]
