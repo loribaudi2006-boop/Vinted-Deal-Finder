@@ -1,21 +1,5 @@
 [
   {
-    "id": "10935126129",
-    "category": "Console",
-    "title": "Busco ps5 o Xbox serie s",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10935126129-busco-ps5-o-xbox-serie-s?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00a35_rzrVcMiGNGoSDnZtS1X33B6p/310x430/0b01de86.webp?s=0b0e791f01d7f77c7f2005577f448a3e01da594f",
-    "addedAt": "2026-11-23T03:37:13.343Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10935204479",
     "category": "Console",
     "title": "playstation 4",
@@ -21614,6 +21598,19 @@
     "url": "https://www.vinted.it/items/10985455174-playstation-4-ps4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00781_FGLyRCAYvj8Y8axytiHAYkfC/310x430/221cd654.webp?s=66aa32724ad4346184352a6bf680f5bcbd9cd0a8",
     "addedAt": "2026-11-27T03:25:33.466Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10985482319",
+    "category": "Console",
+    "title": "PS4 SLIM",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10985482319-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00a11_rxi1NPTXHnoqkWmeKxTFUXF5/310x430/de8cb72d.webp?s=7ad49c38724c42d7aab36dfb3e973ac3908aeed1",
+    "addedAt": "2026-11-27T03:35:54.649Z",
     "processed": false,
     "triaged": false
   }
