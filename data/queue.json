@@ -1,38 +1,5 @@
 [
   {
-    "id": "10929415435",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10929415435-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_01b47_xisARrutDxHLycbrkV2g5LrC/310x430/8356297b.webp?s=af0522c8990bdb462098eae419ab6d285b8178d8",
-    "addedAt": "2026-11-23T06:40:32.074Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n3\nRimosso!\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nNuovo senza cartellino·Nintendo·Caricato 21 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nNuovo senza cartellino\nCaricato\n21 min fa\nVend switch lite bleu avec chargeur et sacoche très peu servi. Toujours protégé.\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40
-  },
-  {
-    "id": "10935635710",
-    "category": "Console",
-    "title": "Xbox One S All-Digital 1 TB - Per Appassionati / Modder / Ricambi + Cavo (Prezzo Affare)",
-    "price": 34.99,
-    "totalPrice": 37.44,
-    "reason": "prezzo 65% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10935635710-xbox-one-s-all-digital-1-tb-per-appassionati-modder-ricambi-cavo-prezzo-affare?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01469_ZRWu7tkvNebH9Zs4KLZbB4rJ/310x430/a5b36f7a.webp?s=02ea34149de5ce640ed57b4c783356d642fc7daf",
-    "addedAt": "2026-11-23T06:42:36.138Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~25€, sotto soglia"
-  },
-  {
     "id": "10935754578",
     "category": "Console",
     "title": "Switch lite",
@@ -21569,6 +21536,22 @@
     "url": "https://www.vinted.it/items/10985830642-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_012d2_KVECuC6cgv5hW4SSXcrbCwTd/310x430/65a2a910.webp?s=02db5b9626f0f3c0f58728491db78f2854f5e941",
     "addedAt": "2026-11-27T06:11:07.790Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10985918167",
+    "category": "Console",
+    "title": "PS4 normal",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10985918167-ps4-normal?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00d79_3t1ZMn1RCE6THY8gSACK1egP/310x430/8696b7ac.webp?s=86a71b56245ee8396cfe317c14085a00b88e2db4",
+    "addedAt": "2026-11-27T06:42:07.275Z",
     "processed": false,
     "triaged": false
   }
