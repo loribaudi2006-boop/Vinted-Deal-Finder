@@ -1,56 +1,5 @@
 [
   {
-    "id": "10935754578",
-    "category": "Console",
-    "title": "Switch lite",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10935754578-switch-lite?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_00d3e_Pa3WPvdrtTCUHQJk1SYeLzyk/310x430/8e3556b9.webp?s=c2e073994a4e6b84706104c8d3fa7659b2a1fa4c",
-    "addedAt": "2026-11-23T07:07:24.388Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\n+ 6\nElettronicaVideogiochi e consoleConsoleNintendo Console\nSwitch lite\nOttime·Nintendo·Caricato un minuto fa\n\n20,00 €\n\n21,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\nun minuto fa\nManque chargeur et un joystick\nA été réinitialisé\nGrise\nOn a enlevé l'écran de protection pour que vous puissiez en mettre un propre\nA servi mais peut encore servir\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Manque chargeur et un joystick",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 58.3
-  },
-  {
-    "id": "10935780807",
-    "category": "Console",
-    "title": "NIntendo switch Oled",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 77% sotto il tipico per Switch OLED (~260€)",
-    "url": "https://www.vinted.it/items/10935780807-nintendo-switch-oled?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_021e3_TztLaCQxyVa7UC86LtzqoDFZ/310x430/8d3043dc.webp?s=e0ee84ace021d8c658144cd6c3c3ed202f0be010",
-    "addedAt": "2026-11-23T07:13:39.687Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "a al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n1\nRimosso!\n+ 2\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNIntendo switch Oled\nBuone·Nintendo·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nBuone\nCaricato\nun minuto fa\nVendo a prezzo di favore perché Sono da cambiare i controller non fanno più bene contatto\nCompleta di tutto e anche scontrino d’acquisto anno 2024. Aggiungo custodia per trasportarla. Sullo schermo ha avuto sempre una pellicola di protezione che è indossata tutt ora.\n... altro\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Joy-con non fanno buon contatto",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 80
-  },
-  {
-    "id": "10935778692",
-    "category": "Console",
-    "title": "Xbox One",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10935778692-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_017c9_TPHe9GgnMpXPny4FfyX2gPbK/310x430/6375a8eb.webp?s=6e35c16ff0a9cdf9e55d59396d8bea4eeaadeb79",
-    "addedAt": "2026-11-23T07:13:39.687Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~11.8€, sotto soglia"
-  },
-  {
     "id": "10935826364",
     "category": "Console",
     "title": "Ps4 slim fonctionne parfaitement",
@@ -21559,5 +21508,18 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.3
+  },
+  {
+    "id": "10986024868",
+    "category": "Console",
+    "title": "Boite + cale switch lite",
+    "price": 10,
+    "totalPrice": 11.2,
+    "reason": "prezzo 95% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10986024868-boite-cale-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00033_1XTrYM2TEggcwRtJ3nR2xpxW/310x430/7c9fd4f9.webp?s=4176ab0da8d9301b01d16e61030c928d9f37ecf2",
+    "addedAt": "2026-11-27T07:15:13.365Z",
+    "processed": false,
+    "triaged": false
   }
 ]
