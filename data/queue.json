@@ -1,23 +1,5 @@
 [
   {
-    "id": "10937631750",
-    "category": "Console",
-    "title": "Ps5 console",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10937631750-ps5-console?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_00851_WmTE5LJ54r1nYx2cZwKfLU98/310x430/d1d32ca8.webp?s=77105a5fdb366cbbda0d2ec33329412209a40504",
-    "addedAt": "2026-11-23T10:59:06.823Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs5 console\nNuovo con cartellino·PlayStation·Caricato 2 min fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 5\nCondizioni\nNuovo con cartellino\nCaricato\n2 min fa\nPs5 non acquistare\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Ps5 non acquistare",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 340
-  },
-  {
     "id": "10937683905",
     "category": "Console",
     "title": "Façade noir Playstation 5 FAT/disc édition",
@@ -21363,8 +21345,13 @@
     "url": "https://www.vinted.it/items/10987624998-cherche-une-ps5-venez-prv-pas-de-chinois?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00884_2M7hGHDwA8YvmErjhJL967Fh/310x430/3a6e8400.webp?s=df3ff12ea1c9c62fbbfa89f34db4aefd9635afee",
     "addedAt": "2026-11-27T10:53:33.547Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\ncherche une ps5 venez prv pas de chinois\nNew with tags·PlayStation·Uploaded just now\n\n€50.00\n\n€53.20incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 5\nCondition\nNew with tags\nUploaded\nJust now\ncherche une ps5 venez mp parler français me faites pas perdre de temps acheté pas l'annonce\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nnwpt221e\n2\nLast seen 4 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 250
   },
   {
     "id": "10987606902",
@@ -21376,7 +21363,42 @@
     "url": "https://www.vinted.it/items/10987606902-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0193b_ZPA11kxcgGUDgJjxBks5EYnk/310x430/976d9dc1.webp?s=ada1d3c2ebc58134f11c2623140a49eecb3d5e45",
     "addedAt": "2026-11-27T10:53:33.547Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~28.3€, sotto soglia"
+  },
+  {
+    "id": "10987654159",
+    "category": "Console",
+    "title": "Nintendo switch lite blu",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10987654159-nintendo-switch-lite-blu?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01614_PUn12LS6sLgYHn6RphUgZAS6/310x430/086c4310.webp?s=325e9c7aeaa9b0e807cd8ec6ac1352555fe8e5e4",
+    "addedAt": "2026-11-27T10:57:43.403Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n1\nRemoved!\nElectronicsVideo games & consolesConsolesNintendo Consoles\nNintendo switch lite blu\nGood·Nintendo·Uploaded a minute ago\n\n€60.00\n\n€63.70incl. Vinted fee\nBrandNintendo\nPlatform\nNintendo Switch\nCondition\nGood\nUploaded\na minute ago\nVendo solo in zona(e senza scatola originale, solo con la custodia\nShipping\nfrom €4.09\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nfrancescom2523\n0\nLast seen an hour ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Vendo solo in zona e senza scatola originale, solo con la custodia",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10987706235",
+    "category": "Console",
+    "title": "Xbox one 500g sans câble est  manette",
+    "price": 25,
+    "totalPrice": 26.95,
+    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10987706235-xbox-one-500g-sans-cable-est-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01cad_UfchrZAMGJKGxvVGrxpXKThZ/310x430/acb8c137.webp?s=5962fa3c308223327c21483396aa5d4a0d8331d6",
+    "addedAt": "2026-11-27T11:01:53.080Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.05€, sotto soglia"
   }
 ]
