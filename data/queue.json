@@ -1,53 +1,5 @@
 [
   {
-    "id": "10938290115",
-    "category": "Console",
-    "title": "cerco PS5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10938290115-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00d62_k4dESn59sM4Y5KiHjz8TNvrG/310x430/1b59a965.webp?s=9579cf7c0058c9b99a6cf141b261c2199d0452c9",
-    "addedAt": "2026-11-23T11:54:25.503Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10938372741",
-    "category": "Console",
-    "title": "Ps4 fat - 500 go",
-    "price": 55,
-    "totalPrice": 58.45,
-    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10938372741-ps4-fat-500-go?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_01a21_WooRPwJqMcgcQCucV6Hgspfq/310x430/95a730e3.webp?s=f1ac6226af1ad2850544ed53a7612b44668048ea",
-    "addedAt": "2026-11-23T12:00:36.207Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "l contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 fat - 500 go\nOttime·PlayStation·Caricato proprio adesso\n\n55,00 €\n\n58,45 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nPs4 fat 500go avec 1 manette et câbles compris\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 41.55
-  },
-  {
-    "id": "10938377570",
-    "category": "Console",
-    "title": "Xbox one fat a reparer",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 75% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10938377570-xbox-one-fat-a-reparer?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01a20_BndZYJqQHvHUo4arVpsBCfS9/310x430/0d490994.webp?s=040e42847d7ba9246302562c0acfcbc8673f0561",
-    "addedAt": "2026-11-23T12:01:38.014Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~20€, sotto soglia"
-  },
-  {
     "id": "10938393998",
     "category": "Console",
     "title": "PS4 en très bon état",
@@ -21445,5 +21397,20 @@
     "geminiFault": "ps5 arnaque",
     "geminiBaitPriceSuspected": true,
     "geminiRoughMargin": 300
+  },
+  {
+    "id": "10988280522",
+    "category": "Console",
+    "title": "Sticker gta6 ps5",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10988280522-sticker-gta6-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01e22_ykXwHc2QNrEpSA781hSFUqXV/310x430/292287b0.webp?s=d7de6015c05254757003128b01921ca688c6fb54",
+    "addedAt": "2026-11-27T11:59:48.437Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-11.7€, sotto soglia"
   }
 ]
