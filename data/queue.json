@@ -21130,5 +21130,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 84.05
+  },
+  {
+    "id": "10989305727",
+    "category": "Console",
+    "title": "Playstation 4",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10989305727-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01b7b_2qgp9oBxZ3kqT1U6XmsT5Urx/310x430/e89cc4ad.webp?s=1f6da7b92d3b2c6c3694ba15b9e860a3c1bdfe70",
+    "addedAt": "2026-11-27T13:39:18.819Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPlaystation 4\nSatisfactory·PlayStation·Uploaded 3 min ago\n\n€65.00\n\n€68.95incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nSatisfactory\nUploaded\n3 min ago\nTester et fonctionnel.\nManque juste le cable de rechargement manettes\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nsodiuum\n550\nFrequent Uploads\nRegularly lists 5 or more items.\nLast seen 21 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Manque juste le cable de rechargement manettes",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 51.05
+  },
+  {
+    "id": "10989357465",
+    "category": "Console",
+    "title": "Nintendo Switch Lite",
+    "price": 59.99,
+    "totalPrice": 63.69,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10989357465-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01c2e_kfBQG46e7o3vtXTmJLn3DCXe/310x430/4c103a09.webp?s=4b9419947c0cb43ec502acef07c96461539cae3a",
+    "addedAt": "2026-11-27T13:43:28.078Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~25€, sotto soglia"
   }
 ]
