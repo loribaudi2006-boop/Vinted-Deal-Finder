@@ -1,20 +1,5 @@
 [
   {
-    "id": "10941582102",
-    "category": "Console",
-    "title": "Original Sony PlayStation 5 PS5 Box – Ratchet & Clank Edition",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10941582102-original-sony-playstation-5-ps5-box-ratchet-clank-edition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_009fe_LAonfw1Vxx2yeZe8y5UTMBTz/310x430/83c85eaa.webp?s=ffc1579423b663ee3212d9348e75628415adc8cb",
-    "addedAt": "2026-11-23T16:34:02.535Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.45€, sotto soglia"
-  },
-  {
     "id": "10941659627",
     "category": "Console",
     "title": "Nintendo 2ds funzionante con qualche problema",
@@ -20732,5 +20717,53 @@
     "geminiFault": "Non testata, senza cavi né controller, proveniente da sgombero",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 37.3
+  },
+  {
+    "id": "10991430668",
+    "category": "Console",
+    "title": "Boîte Switch Oled",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 97% sotto il tipico per Switch OLED (~260€)",
+    "url": "https://www.vinted.it/items/10991430668-boite-switch-oled?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a50_KEBSEAMWPzNe1ZFUx5qWgXkQ/310x430/9f639869.webp?s=998d7a5db5d0415c0c96e59817358c1c6b03f204",
+    "addedAt": "2026-11-27T16:38:26.286Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5€, sotto soglia"
+  },
+  {
+    "id": "10991452057",
+    "category": "Console",
+    "title": "Ps5 Sony",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10991452057-ps5-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_000ce_8TUApJDVQBmtgUkAK1K3xULm/310x430/4c97c232.webp?s=5f97076592e50bb833182ccbdcce09158de32800",
+    "addedAt": "2026-11-27T16:40:29.994Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\n+ 3\nElectronicsVideo games & consolesConsolesSony Consoles\nPs5 Sony\nVery good·Sony·Uploaded a minute ago\n\n€2.00\n\n€2.80incl. Vinted fee\nBrandSony\nPlatform\nPlayStation 5\nCondition\nVery good\nUploaded\na minute ago\n⚠️ Attention les arnaques continuent ⚠️\n\nLisez bien les annonces, ils sont sans scrupules !\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nvide_dress53\n50\nFrequent Uploads\nRegularly lists 5 or more items.\nSpeedy Shipping\nSends items promptly — usually within the next 24 hours.\nLast seen 15 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": true,
+    "geminiRoughMargin": 300
+  },
+  {
+    "id": "10991451139",
+    "category": "Console",
+    "title": "Nintendo switch lite",
+    "price": 65,
+    "totalPrice": 68.95,
+    "reason": "prezzo 66% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10991451139-nintendo-switch-lite?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0045a_UMmcvWeqFZKD8Bu8VJM5sdRm/310x430/eb5f4b16.webp?s=cf61bdeb1441baad86e15af3f13cd96cb67c2ca3",
+    "addedAt": "2026-11-27T16:40:29.995Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~30.05€, sotto soglia"
   }
 ]
