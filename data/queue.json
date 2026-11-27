@@ -1,38 +1,5 @@
 [
   {
-    "id": "10936455437",
-    "category": "Console",
-    "title": "Playstation 5 Wandhalterung mit Doppelter Controllerhalterung",
-    "price": 5,
-    "totalPrice": 5.95,
-    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10936455437-playstation-5-wandhalterung-mit-doppelter-controllerhalterung?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_00b4f_qUV54Mu4rKfDovpD3trFm719/310x430/3f8f6aa8.webp?s=02bb2124b6805a1f0394a41148a4199239596ad8",
-    "addedAt": "2026-11-23T09:08:10.010Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~9.05€, sotto soglia"
-  },
-  {
-    "id": "10936454443",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10936454443-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_0250b_LfH6QEAh5qrqJHFTgGYfsfY1/310x430/6a5d7068.webp?s=7b9fbf4d18463512a89db93dce649fb392f48536",
-    "addedAt": "2026-11-23T09:09:12.129Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n4\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim\nBuone·PlayStation·Caricato 3 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n3 min fa\nJe la vends car je me n'en sers plus. Elle est en bon état de fonctionnement. Juste elle ne l'ai plus les CD. D'après le réparateur. C'est un problème à la carte mère un capteur qui lit les cd ne fonctionne plus. Du coup je la vends dans l'état d'ou le prix vendu avec câble HDMI et alimentation et 1 manette\n... altro\nSpedizione\nda 9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Non legge i CD, problema alla scheda madre o al sensore ottico secondo il venditore. Include cavo HDMI, alimentazione e 1 manetta.",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 35.8
-  },
-  {
     "id": "10936595845",
     "category": "Console",
     "title": "PlayStation 4 slim",
@@ -21442,5 +21409,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~300€, sotto soglia"
+  },
+  {
+    "id": "10986631472",
+    "category": "Console",
+    "title": "Ps5_Sony",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10986631472-ps5sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01bf8_Ydw1XYZ4yBAoueRZLcx2BMdU/310x430/6f83e800.webp?s=3ac84b126021dc7714a61ae201d64db5804a9e5e",
+    "addedAt": "2026-11-27T09:03:54.201Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.8€, sotto soglia"
   }
 ]
