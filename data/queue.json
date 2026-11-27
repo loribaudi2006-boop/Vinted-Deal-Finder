@@ -1,20 +1,5 @@
 [
   {
-    "id": "10938833480",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10938833480-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_01903_SeAM1V1ufb4rHgFPPK8SVtYh/310x430/b28176b0.webp?s=e73a1c251884e27e25c4d6ca034b5d1c8b478936",
-    "addedAt": "2026-11-23T12:38:50.643Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
     "id": "10938897548",
     "category": "Console",
     "title": "Nintendo switch HAC-001 + joy-Con néon (rails hs)  vendue en l'état",
@@ -21244,5 +21229,38 @@
     "geminiFault": "Console funzionante, ma include 6 joystick non funzionanti/da riparare o per ricambi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10988635829",
+    "category": "Console",
+    "title": "playstation ps4",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10988635829-playstation-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00ad5_xDLwytPCnmcEpuDn2JED1TWi/310x430/bba24379.webp?s=a742bc4fc12f04c08e0888c832ac7592438cfe88",
+    "addedAt": "2026-11-27T12:35:00.971Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nplaystation ps4\nVery good·PlayStation·Uploaded a minute ago\n\n€60.00\n\n€63.70incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nVery good\nUploaded\na minute ago\nrien à signaler contactez moi pour plus d’informations.\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nwameni.8\n0\nFrequent Uploads\nRegularly lists 5 or more items.\nLast seen 20 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.3
+  },
+  {
+    "id": "10988648611",
+    "category": "Console",
+    "title": "Xbox one S",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 55% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10988648611-xbox-one-s?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01015_aVoAubMmHYD971Z9jf7ND24h/310x430/74bb8335.webp?s=f1a6ff39c0ff541a8b0573a52c534ea730cbd258",
+    "addedAt": "2026-11-27T12:37:07.237Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~22.05€, sotto soglia"
   }
 ]
