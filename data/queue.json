@@ -21519,7 +21519,9 @@
     "url": "https://www.vinted.it/items/10986024868-boite-cale-switch-lite?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_00033_1XTrYM2TEggcwRtJ3nR2xpxW/310x430/7c9fd4f9.webp?s=4176ab0da8d9301b01d16e61030c928d9f37ecf2",
     "addedAt": "2026-11-27T07:15:13.365Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-0.2€, sotto soglia"
   }
 ]
