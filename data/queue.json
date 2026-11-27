@@ -1,38 +1,5 @@
 [
   {
-    "id": "10936379312",
-    "category": "Console",
-    "title": "PlayStation 5 Cover",
-    "price": 58,
-    "totalPrice": 61.6,
-    "reason": "prezzo 85% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10936379312-playstation-5-cover?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_014b8_Pz62Y4FZ9dYXYn32wJ1USVav/310x430/e9b58102.webp?s=718e4e52164fc266f69651626efb1decd6cb2dd9",
-    "addedAt": "2026-11-23T08:57:18.061Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-36.6€, sotto soglia"
-  },
-  {
-    "id": "10936399132",
-    "category": "Console",
-    "title": "Nintendo Switch tablet only 100% functional. very good condition",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10936399132-nintendo-switch-tablet-only-100-functional-very-good-condition?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00423_2AuFjobUzzv8eB2wxbwGyF2M/310x430/fa3d2652.webp?s=661860b97b8812981c561b704ec87e961f53c736",
-    "addedAt": "2026-11-23T09:01:56.206Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "edi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\n+ 1\nElettronicaVideogiochi e consoleConsoleNintendo Console\nNintendo Switch tablet only 100% functional. very good condition\nOttime·Nintendo·Caricato 3 min fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandNintendo\nPlatform\nNintendo Switch\nCondizioni\nOttime\nCaricato\n3 min fa\nPRICE IS FIXED\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 50
-  },
-  {
     "id": "10936455437",
     "category": "Console",
     "title": "Playstation 5 Wandhalterung mit Doppelter Controllerhalterung",
@@ -21445,5 +21412,35 @@
     "geminiFault": "Il lettore CD non legge i dischi",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 35.55
+  },
+  {
+    "id": "10986554470",
+    "category": "Console",
+    "title": "Photo ps5",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10986554470-photo-ps5?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_026cc_7v2mgiRsfTFhCEmcCLRsKU7G/310x430/0d5a2b44.webp?s=5d75cd8a49d7dd9fb6f5f210172837f559506f5b",
+    "addedAt": "2026-11-27T08:53:34.741Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10986497449",
+    "category": "Console",
+    "title": "Ps5_Sony",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10986497449-ps5sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00f38_wnkxt1QocyR3kaq7yw9MNx6b/310x430/ad55d4d7.webp?s=1314716f3bf2e997e98917f57c182876dd7a370e",
+    "addedAt": "2026-11-27T08:55:39.372Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~300€, sotto soglia"
   }
 ]
