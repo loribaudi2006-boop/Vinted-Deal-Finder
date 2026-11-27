@@ -1,21 +1,5 @@
 [
   {
-    "id": "10934945066",
-    "category": "Console",
-    "title": "Ps4 Bianca",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10934945066-ps4-bianca?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_007b5_azrdS55tBkFXN3skSZDaugct/310x430/6ea224d1.webp?s=2bf68926420b40137786b11c4da43b1fcac5f9f3",
-    "addedAt": "2026-11-23T02:55:50.649Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10935066607",
     "category": "Console",
     "title": "Recherche ps5 !!",
@@ -21585,8 +21569,11 @@
     "url": "https://www.vinted.it/items/10984863466-ps5-attention-aux-arnaques?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_024b0_5NCNDZQeqJEEKP5Nh7kJwABU/310x430/74dfe286.webp?s=f12307bf37468fa55a38d91f6562e2fd1d02e0f7",
     "addedAt": "2026-11-27T02:25:33.421Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10985316919",
