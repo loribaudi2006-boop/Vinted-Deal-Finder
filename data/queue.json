@@ -21617,7 +21617,10 @@
     "url": "https://www.vinted.it/items/10981987904-aiutami-per-favore-a-trovare-una-xbox-series-s-prima-la-trovo-e-meglio-e?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_007ab_h4j3bMGCmqcpv31P8ZveWAbt/310x430/91cc9a82.webp?s=a85991e7f7811dc33234815d6dcdbd92c2703710",
     "addedAt": "2026-11-27T04:25:40.468Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
