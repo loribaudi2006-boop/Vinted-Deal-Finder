@@ -21352,5 +21352,38 @@
     "geminiFault": "",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 50.3
+  },
+  {
+    "id": "10987870293",
+    "category": "Console",
+    "title": "Ps4 sony",
+    "price": 45,
+    "totalPrice": 47.95,
+    "reason": "prezzo 65% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10987870293-ps4-sony?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_00d4d_jziFodopPaG5g9sGiJvgWxP9/310x430/834f28b2.webp?s=b8905a9812d858644a32edf35451e48f07ebf3d2",
+    "addedAt": "2026-11-27T11:18:26.719Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.05€, sotto soglia"
+  },
+  {
+    "id": "10987853488",
+    "category": "Console",
+    "title": "Nintendo switch",
+    "price": 36,
+    "totalPrice": 38.5,
+    "reason": "prezzo 81% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10987853488-nintendo-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00be2_79dGSGPcnijuAHjq7DNXrs1w/310x430/b0032b74.webp?s=4aefa2b7b9a2c449960f2e87c185acc32fb4d4fb",
+    "addedAt": "2026-11-27T11:18:26.719Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n6\nRemoved!\nElectronicsVideo games & consolesConsolesNintendo Consoles\nNintendo switch\nGood·Nintendo·Uploaded 2 min ago\n\n€36.00\n\n€38.50incl. Vinted fee\nBrandNintendo\nPlatform\nNintendo Switch\nCondition\nGood\nUploaded\n2 min ago\nVendo per inutilizzo\nHa il cursore di sinistra che si stacca, però si può comunque usare\nShipping\nfrom €4.09\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nciccio99mm\n15\nFrequent Uploads\nRegularly lists 5 or more items.\nSpeedy Shipping\nSends items promptly — usually within the next 24 hours.\nLast seen 10 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Il cursore di sinistra si stacca, ma si può comunque usare",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 85
   }
 ]
