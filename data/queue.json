@@ -21569,8 +21569,11 @@
     "url": "https://www.vinted.it/items/10985046594-attention-bien-lire-description-ps5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00858_tift8dQBy3pAMM3WoipBZ2HC/310x430/d46b4176.webp?s=7381f352a0b1e10ad1fb97b2619df7982d26a397",
     "addedAt": "2026-11-27T01:08:11.705Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10985063603",
@@ -21582,7 +21585,10 @@
     "url": "https://www.vinted.it/items/10985063603-consola-xbox-one-compativel-com-gta-vi-via-cloud-2-comando?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_0216f_zWHBMbmQPk44kAUFVKmDH83v/310x430/bd299db9.webp?s=2c7dbf7cf75e31a93a061acedbe0a6bcd20dc762",
     "addedAt": "2026-11-27T01:14:21.859Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
