@@ -21538,5 +21538,38 @@
     "geminiFault": "Lecteur HS (lettore non funzionante), senza manette",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 46.3
+  },
+  {
+    "id": "10986146647",
+    "category": "Console",
+    "title": "Boîte de switch",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10986146647-boite-de-switch-edition-animal-crossing?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_01eb6_uSep2x2yJZwZbpoVapAZWG3E/310x430/89110e61.webp?s=6e3e8a4eca71ab5b6cc816a90706f9781242fddf",
+    "addedAt": "2026-11-27T07:44:12.160Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.7€, sotto soglia"
+  },
+  {
+    "id": "10986145441",
+    "category": "Console",
+    "title": "PS4 fat digital - CD reader does not work",
+    "price": 55,
+    "totalPrice": 58.45,
+    "reason": "prezzo 58% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10986145441-ps4-fat-digital-cd-reader-does-not-work?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_01b5f_qnV8KghAvDcrMhuYPaRoBfcs/310x430/3637ad9f.webp?s=5ed3a7ff61ae3e4328d51da1a7957fecd1db7156",
+    "addedAt": "2026-11-27T07:44:12.161Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n1\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPS4 fat digital - CD reader does not work\nGood·PlayStation·Uploaded 2 min ago\n\n€55.00\n\n€58.45incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nGood\nUploaded\n2 min ago\nHi, all is in working order, but cd reader does not reject the CD. Included original controller, box and cables.\nShipping\nfrom €6.09\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\noliv2837\n250\nFrequent Uploads\nRegularly lists 5 or more items.\nSpeedy Shipping\nSends items promptly — usually within the next 24 hours.\nLast seen an hour ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Il lettore CD non espelle il disco",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 36.55
   }
 ]
