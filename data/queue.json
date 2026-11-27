@@ -1,21 +1,5 @@
 [
   {
-    "id": "10935577892",
-    "category": "Console",
-    "title": "Ps4 fat",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10935577892-ps4-fat?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_015d9_FdrHcrgdJn4hFXAEkuq8j5zk/310x430/3959c405.webp?s=395a80327468dfb53527126098c5436d148b44bc",
-    "addedAt": "2026-11-23T06:09:31.490Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10935608559",
     "category": "Console",
     "title": "Switch",
@@ -21590,5 +21574,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10985830642",
+    "category": "Console",
+    "title": "PS4 SLIM",
+    "price": 40,
+    "totalPrice": 42.7,
+    "reason": "prezzo 69% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10985830642-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_012d2_KVECuC6cgv5hW4SSXcrbCwTd/310x430/65a2a910.webp?s=02db5b9626f0f3c0f58728491db78f2854f5e941",
+    "addedAt": "2026-11-27T06:11:07.790Z",
+    "processed": false,
+    "triaged": false
   }
 ]
