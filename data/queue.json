@@ -1,23 +1,5 @@
 [
   {
-    "id": "10939214682",
-    "category": "Console",
-    "title": "Ps4 slim",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10939214682-ps4-slim?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_0052f_a7JQw1uWmBNHwFQRxrfjuQtK/310x430/761ba108.webp?s=b47fc4887af7237abcf6ffa09baad34286d69dfe",
-    "addedAt": "2026-11-23T13:09:48.706Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n2\nRimosso!\nElettronicaVideogiochi e consoleConsolePlayStation Console\nPs4 slim\nBuone·PlayStation·Caricato un minuto fa\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandPlayStation\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\nun minuto fa\nJe vend pas ps4 slim que j’ai depuis 2021. Elle fonctionne mais les ventilateurs font énormément de bruit je suppose que c’est à cause de la poussière car elle est très poussiéreuse je peut rajouter des jeux mais sa coutera plus cher (100€ avec tout les disques que j’ai. Venez pv pour plus d’infos)\n... altro\nSpedizione\n9,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "Ventilatori rumorosi per polvere",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 40.3
-  },
-  {
     "id": "10939254642",
     "category": "Console",
     "title": "Playstation 4",
@@ -21145,5 +21127,23 @@
     "geminiFault": "Problema all'ingresso HDMI (schermo nero all'accensione)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 32.05
+  },
+  {
+    "id": "10988977061",
+    "category": "Console",
+    "title": "Switch 1 (prix négociable",
+    "price": 56,
+    "totalPrice": 59.5,
+    "reason": "prezzo 71% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10988977061-switch-1-prix-negociable?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_02643_bNAP7RWPsMjtoVUjYdtzswAa/310x430/1fa61a08.webp?s=e942e71b4b91e1f43584cdea5af8d8cd3fd8b2e8",
+    "addedAt": "2026-11-27T13:08:14.380Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n2\nRemoved!\n+ 1\nElectronicsVideo games & consolesConsolesNintendo Consoles\nSwitch 1 (prix négociable\nGood·Nintendo·Uploaded a minute ago\n\n€56.00\n\n€59.50incl. Vinted fee\nBrandNintendo\nPlatform\nNintendo Switch\nCondition\nGood\nUploaded\na minute ago\nSwitch utilisée marche correctement les manettes n'ont aucun problème juste rayure sur l'écran mais quand elle est allumer ce n'est pas dérangeant\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nemmaf1778\n1\nLast seen 5 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Rayures sur l'écran (non gênantes à l'allumage), manettes sans problème, marche correctement",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 50.5
   }
 ]
