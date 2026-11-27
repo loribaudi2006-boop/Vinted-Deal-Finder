@@ -1,21 +1,5 @@
 [
   {
-    "id": "10935246569",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10935246569-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01d33_btRkbLcrCrFEpcMQ7tWegM7k/310x430/6690062c.webp?s=126c991fceb86021e1c24bbf1bcbecac338a53e0",
-    "addedAt": "2026-11-23T04:08:15.483Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10929147580",
     "category": "Console",
     "title": "Housse de protection switch",
@@ -21601,8 +21585,11 @@
     "url": "https://www.vinted.it/items/10985482319-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00a11_rxi1NPTXHnoqkWmeKxTFUXF5/310x430/de8cb72d.webp?s=7ad49c38724c42d7aab36dfb3e973ac3908aeed1",
     "addedAt": "2026-11-27T03:35:54.649Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10985514854",
