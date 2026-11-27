@@ -1,20 +1,5 @@
 [
   {
-    "id": "10928425306",
-    "category": "Console",
-    "title": "Jeu de Switch",
-    "price": 15,
-    "totalPrice": 16.45,
-    "reason": "prezzo 92% sotto il tipico per Switch (~190€)",
-    "url": "https://www.vinted.it/items/10928425306-jeu-de-switch?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_000f9_6cr94Gwh7uKrjFvsjsQuh8yV/310x430/2c9e5965.webp?s=3ae274e8f56142c4086d06a3788a5159f0c58563",
-    "addedAt": "2026-11-23T00:26:48.388Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2.95€, sotto soglia"
-  },
-  {
     "id": "10934334778",
     "category": "Console",
     "title": "Xbox one",
@@ -21526,5 +21511,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~13.65€, sotto soglia"
+  },
+  {
+    "id": "10984903483",
+    "category": "Console",
+    "title": "Arnaque ps5 prix",
+    "price": 2,
+    "totalPrice": 2.8,
+    "reason": "prezzo 99% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10984903483-arnaque-ps5-prix?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_00214_gQk6PuMGhqbixoncF8hTZA2V/310x430/bfe4e6d7.webp?s=f8d58a1ea30c3ed54cc26c74bb7f2cff26e8c7ed",
+    "addedAt": "2026-11-27T00:24:54.345Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-2.8€, sotto soglia"
   }
 ]
