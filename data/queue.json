@@ -21585,8 +21585,11 @@
     "url": "https://www.vinted.it/items/10985445908-alimentation-officiel-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_02061_gJVK9BLbgDzszRdcZwc3ps1R/310x430/34499dfc.webp?s=6d34c1a7c95a5cd143009c66c7cb51426700a32f",
     "addedAt": "2026-11-27T03:23:29.423Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10985455174",
@@ -21611,6 +21614,19 @@
     "url": "https://www.vinted.it/items/10985482319-ps4-slim?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_00a11_rxi1NPTXHnoqkWmeKxTFUXF5/310x430/de8cb72d.webp?s=7ad49c38724c42d7aab36dfb3e973ac3908aeed1",
     "addedAt": "2026-11-27T03:35:54.649Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10985514854",
+    "category": "Console",
+    "title": "Vendo controller ps4 nacon (Pro 3 ) e 4 giochi ps4",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10985514854-vendo-controller-ps4-nacon-pro-3-e-4-giochi-ps4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01a32_4t3GNAAe2otti7ZruFhergSP/310x430/23ef2027.webp?s=9e4516d666c26439f82b2324dd87396f65fbe572",
+    "addedAt": "2026-11-27T03:50:22.581Z",
     "processed": false,
     "triaged": false
   }
