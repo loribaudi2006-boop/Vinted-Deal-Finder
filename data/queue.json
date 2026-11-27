@@ -21590,5 +21590,18 @@
     "triageResult": "discard",
     "staleDiscarded": true,
     "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10985173455",
+    "category": "Console",
+    "title": "Cerco PS5 leggi descrizione",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10985173455-cerco-ps5-leggi-descrizione?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/05_013d2_UpxEJQoAVWGm4bPEPavvaYuh/310x430/b44c4ea8.webp?s=834d98cb93311c6180b38fa0a86c273250f0e914",
+    "addedAt": "2026-11-27T01:49:17.438Z",
+    "processed": false,
+    "triaged": false
   }
 ]
