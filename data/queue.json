@@ -1,35 +1,5 @@
 [
   {
-    "id": "10949450335",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10949450335-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0090a_pdE4ExpQUNAKnShpH3zvWYx1/310x430/e82d0ea2.webp?s=d3735a55d2777eb744214fc6c51a3fb0417a2c0c",
-    "addedAt": "2026-11-24T07:53:55.283Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "non piu' disponibile"
-  },
-  {
-    "id": "10949488209",
-    "category": "Console",
-    "title": "Compro Play Station 5 o Xbox series S/X",
-    "price": 2,
-    "totalPrice": 2.8,
-    "reason": "prezzo 99% sotto il tipico per Xbox Series S (~200€)",
-    "url": "https://www.vinted.it/items/10949488209-compro-play-station-5-o-xbox-series-sx?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02694_fUzsB3jtamEAeXVzFQBaBdYv/310x430/146e0644.webp?s=68e8d50eb0751153f4ea7cf3ad1c6dcfc172769e",
-    "addedAt": "2026-11-24T08:00:06.217Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-3€, sotto soglia"
-  },
-  {
     "id": "10949560788",
     "category": "Console",
     "title": "Tampa ps5 slim GTVI",
@@ -19788,7 +19758,39 @@
     "url": "https://www.vinted.it/items/10993724172-hori-game-card-case-24-fur-nintendo-switch-neu-ovp?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_02183_YbM4Z8YByrSfWuVAyxRKCbCC/310x430/27eca7d3.webp?s=23f706730436381d14a3d38d68b04ce2a307d1f4",
     "addedAt": "2026-11-28T07:52:35.480Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-3.3€, sotto soglia"
+  },
+  {
+    "id": "10997997697",
+    "category": "Console",
+    "title": "Console switch",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 68% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10997997697-console-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00cfb_X3CmtUxKaJMo9DowqXiegZCb/310x430/a5d8b084.webp?s=910effb78bbcace4c277a0035132fdc6638bec3b",
+    "addedAt": "2026-11-28T07:58:50.473Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~16.3€, sotto soglia"
+  },
+  {
+    "id": "10997990182",
+    "category": "Console",
+    "title": "emballages vides console Nintendo Switch MarioKart 8 + manettes",
+    "price": 20,
+    "totalPrice": 21.7,
+    "reason": "prezzo 89% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10997990182-emballages-vides-console-nintendo-switch-mariokart-8-manettes?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00f6d_uMLn9RdcSZFtDcmtnhUmPjeG/310x430/c6604013.webp?s=0f754ee036ed3f6e2ad4e40cdf62618672695428",
+    "addedAt": "2026-11-28T07:58:50.473Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-21.7€, sotto soglia"
   }
 ]
