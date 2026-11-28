@@ -1,23 +1,5 @@
 [
   {
-    "id": "10950451443",
-    "category": "Console",
-    "title": "PlayStation 4 Standard",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10950451443-playstation-4-standard?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01891_KEnsGBUq7jR5Ht4YVrzWLuw8/310x430/615d8f6f.webp?s=28bb37f7c7e58ed7728d9f4d2c9c5ecc9256db59",
-    "addedAt": "2026-11-24T09:59:57.221Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nPlayStation 4 Standard\nOttime·Sony·Caricato proprio adesso\n\n60,00 €\n\n63,70 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nOttime\nCaricato\nProprio adesso\nSony PlayStation 4 (PS4) – 500 GB – Guter Zustand\n\nVerkaufe meine gebrauchte PlayStation 4 mit 500 GB Speicher.\n\nDie Konsole befindet sich in einem guten, gepflegten gebrauchten Zustand und weist lediglich normale Gebrauchsspuren auf.\n\nDetails:\n\n- Sony PlayStation 4 Standard\n- 500 GB Speicherkapazität\n- Farbe: Schwarz\n- Guter gebrauchter Zustand (nur äußerlich leichte Abnutzung mit der Zeit)\n\nBei Interesse oder Fragen gerne melden.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung. Keine Rücknahme.\n... altro\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 36.3
-  },
-  {
     "id": "10950493393",
     "category": "Console",
     "title": "Xbox one",
@@ -19936,5 +19918,33 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10998993135",
+    "category": "Console",
+    "title": "Xbox One – Console de jeux",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
+    "url": "https://www.vinted.it/items/10998993135-xbox-one-console-de-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0213f_aW91kaJqPzBhxiBQ3uufvE9d/310x430/528587e2.webp?s=ddf579c8781142efc4cf40166d1faf7fab4f55cd",
+    "addedAt": "2026-11-28T09:59:04.834Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15€, sotto soglia"
+  },
+  {
+    "id": "10999026265",
+    "category": "Console",
+    "title": "PS4 avec manette",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10999026265-ps4-avec-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01495_nEVY2LsDno4KspFkgN28K39S/310x430/23bb6990.webp?s=e7ab8992b9907eab4377c0c026f907dd88cab8f6",
+    "addedAt": "2026-11-28T10:01:08.805Z",
+    "processed": false,
+    "triaged": false
   }
 ]
