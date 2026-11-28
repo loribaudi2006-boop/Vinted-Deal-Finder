@@ -1,53 +1,5 @@
 [
   {
-    "id": "10948415847",
-    "category": "Console",
-    "title": "Coque ps5 (digital) edition spiderman 2",
-    "price": 60,
-    "totalPrice": 63.7,
-    "reason": "prezzo 84% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10948415847-coque-ps5-digital-edition-spiderman-2?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01e01_p6smCqKjcSpYyB4CbEGSsQrz/310x430/42879d7d.webp?s=cc6c1e402802a9abbcab6f19e36785b76172367d",
-    "addedAt": "2026-11-24T02:57:00.742Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10948493301",
-    "category": "Console",
-    "title": "Ps4 ohne Controller",
-    "price": 30,
-    "totalPrice": 32.2,
-    "reason": "prezzo 77% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10948493301-ps4-ohne-controller?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/02_016e9_q1roAbEZmysJBMvZgEfQxC8F/310x430/f4ef4e7e.webp?s=c14044cf78a17f694647abfb11eafd7092286a87",
-    "addedAt": "2026-11-24T03:15:28.583Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
-    "id": "10948525306",
-    "category": "Console",
-    "title": "PlayStation 4",
-    "price": 25,
-    "totalPrice": 26.95,
-    "reason": "prezzo 81% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10948525306-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/06_02573_i5Av1csXHNubjX8dtQMbRdpG/310x430/1bedc573.webp?s=b1b9eb74ddf07becb05fbb5df46255558551d202",
-    "addedAt": "2026-11-24T03:21:38.031Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10948627450",
     "category": "Console",
     "title": "PlayStation 4",
@@ -19821,8 +19773,11 @@
     "url": "https://www.vinted.it/items/10996851954-nintendo-switch?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_0002c_2yPemjPTKWpxEDTU9HS2xfDz/310x430/94b8279d.webp?s=90947a585a742936d2e9a961a9f0f88cd56abe21",
     "addedAt": "2026-11-28T02:23:26.783Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10996875042",
@@ -19834,6 +19789,35 @@
     "url": "https://www.vinted.it/items/10996875042-coque-ps5-digital-edition-spiderman-2?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_017a1_R7vJPUrAVXz21Zmt2ejSG5uF/310x430/ff2649de.webp?s=0ceedbcec93a4204ca8190fa52dea45442b3057a",
     "addedAt": "2026-11-28T02:27:33.174Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
+  },
+  {
+    "id": "10997084647",
+    "category": "Console",
+    "title": "Ps4 pro",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 67% sotto il tipico per PS4 Pro (~180€)",
+    "url": "https://www.vinted.it/items/10997084647-ps4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_00ec6_wh41XsjHV88zjkFgVS8GsvLs/310x430/0b0964cb.webp?s=aa58743403b899293fbfa9ab69ec414645a2177f",
+    "addedAt": "2026-11-28T03:22:36.301Z",
+    "processed": false,
+    "triaged": false
+  },
+  {
+    "id": "10997044108",
+    "category": "Console",
+    "title": "Ps4 sans manette",
+    "price": 35,
+    "totalPrice": 37.45,
+    "reason": "prezzo 73% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10997044108-ps4-sans-manette?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/06_01274_iNLdFNPE55bSLycCtBKoVHaT/310x430/67543857.webp?s=df81ccb6f4159830c68557fa2c069f3dea4a9995",
+    "addedAt": "2026-11-28T03:22:36.301Z",
     "processed": false,
     "triaged": false
   }
