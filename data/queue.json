@@ -19747,5 +19747,20 @@
     "geminiFault": "I joystick danno problemi (drift o malfunzionamento)",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 31.31
+  },
+  {
+    "id": "10996321958",
+    "category": "Console",
+    "title": "2x Nintendo Switch V1/V2 Kartenleser – Ersatzteile",
+    "price": 7,
+    "totalPrice": 8.05,
+    "reason": "prezzo 96% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/10996321958-2x-nintendo-switch-v1v2-kartenleser-ersatzteile?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00d6c_nYCEWi8MCXgxR7fCWSZW3ep6/310x430/1c16c333.webp?s=9bbc0c8fe5bd6cc9df058e4d0cd97a7f58f1150d",
+    "addedAt": "2026-11-28T00:29:52.968Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~14€, sotto soglia"
   }
 ]
