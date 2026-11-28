@@ -1,21 +1,5 @@
 [
   {
-    "id": "10947993316",
-    "category": "Console",
-    "title": "Playstation 4",
-    "price": 65,
-    "totalPrice": 68.95,
-    "reason": "prezzo 50% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10947993316-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00ce5_WnwtDt7eME3JvfXLVzdZK8sZ/310x430/e71b081f.webp?s=ca1fdc8f00be6313106e0e3b66704e4c6448b197",
-    "addedAt": "2026-11-24T01:34:56.699Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "staleDiscarded": true,
-    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
-  },
-  {
     "id": "10948415847",
     "category": "Console",
     "title": "Coque ps5 (digital) edition spiderman 2",
@@ -19773,8 +19757,11 @@
     "url": "https://www.vinted.it/items/10996488939-ps4-proposer-moi-des-prix?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_02111_HPzmbDc8BY2SkrBcUEH1Zpf7/310x430/90d0d482.webp?s=ef8022f54830a6016ac05c302d76e04aae39691d",
     "addedAt": "2026-11-28T01:07:25.631Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10996560559",
