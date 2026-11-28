@@ -20424,8 +20424,10 @@
     "url": "https://www.vinted.it/items/11001358638-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00eaf_UzGkA9okYyJQLNhVJ3r3NMLt/310x430/684b7070.webp?s=a8b000a126f4f8ec8e869dbf0fe0f46034afefec",
     "addedAt": "2026-11-28T13:01:28.297Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~27.05€, sotto soglia"
   },
   {
     "id": "11001357132",
@@ -20437,6 +20439,21 @@
     "url": "https://www.vinted.it/items/11001357132-tapa-carcasa-playstation-5?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_0219c_AgGVeRRj7QsG5Q8TEbtuvpUo/310x430/db9d6c84.webp?s=df0d542e07f078265ccf23466da381a11f2bdd6b",
     "addedAt": "2026-11-28T13:01:28.297Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~0€, sotto soglia"
+  },
+  {
+    "id": "11001501453",
+    "category": "Console",
+    "title": "xlayer wandhalterung für ps5 playstation 5 inkl. wasserwaage & schrauben neu ovp",
+    "price": 15,
+    "totalPrice": 16.45,
+    "reason": "prezzo 96% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/11001501453-xlayer-wandhalterung-fur-ps5-playstation-5-inkl-wasserwaage-schrauben-neu-ovp?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_00719_eNKqV23AEmn1fLT8U7o4r1bw/310x430/a9b3e46c.webp?s=8d1fc5c57aa709abe2a6af5d7564f70a02e2efe5",
+    "addedAt": "2026-11-28T13:11:49.445Z",
     "processed": false,
     "triaged": false
   }
