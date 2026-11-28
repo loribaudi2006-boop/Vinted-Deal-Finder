@@ -19773,8 +19773,11 @@
     "url": "https://www.vinted.it/items/10996560559-xbox-one?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/04_0185b_ff2VzafGVuahw4r3SVT9XVLD/310x430/d01e7af2.webp?s=e3df2675f7ec065de82bdff64c429addb9ed2fd6",
     "addedAt": "2026-11-28T01:19:45.724Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10996573416",
@@ -19786,8 +19789,11 @@
     "url": "https://www.vinted.it/items/10996573416-xbox-one-s?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_00dbd_ZETVp3HusPEf8iqP2i8vi8Xh/310x430/86451b13.webp?s=edbf7f64af46ae140f30c899855f5602377c4a31",
     "addedAt": "2026-11-28T01:21:48.771Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10996588071",
