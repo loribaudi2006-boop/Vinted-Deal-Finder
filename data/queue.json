@@ -1,23 +1,5 @@
 [
   {
-    "id": "10949753017",
-    "category": "Console",
-    "title": "Xbox Series s Tausch gegen ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10949753017-xbox-series-s-tausch-gegen-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/01_00734_4L1WXQrytVJKDK8mvbXabcii/310x430/855c68e6.webp?s=78b040b1522d9a8e747addd8f7a7e3051bb7b9e6",
-    "addedAt": "2026-11-24T08:41:23.010Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "to\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\nRimosso!\nElettronicaVideogiochi e consoleConsoleXbox Console\nXbox Series s Tausch gegen ps5\nNuovo senza cartellino·Xbox·Caricato un minuto fa\n\n1,00 €\n\n1,75 €incl. la commissione Vinted\nBrandXbox\nPlatform\nXbox Series S & X\nCondizioni\nNuovo senza cartellino\nCaricato\nun minuto fa\nIch will zur ps5 wechseln und mit ps5 anfangen weil ich bei ps5 klar komme bitte mir schreiben wer Lust hat\nSpedizione\nda 7,49 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": true,
-    "geminiRoughMargin": 140
-  },
-  {
     "id": "10949799569",
     "category": "Console",
     "title": "PS4 Fat 1Tb con Cavi",
@@ -19858,5 +19840,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~-7.7€, sotto soglia"
+  },
+  {
+    "id": "10998258091",
+    "category": "Console",
+    "title": "Ps5 neuve",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 87% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10998258091-ps5-neuve?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00076_CqBybd1H9cWu9owWvmGbDntz/310x430/2899da2e.webp?s=911174033a490cb1e8e9350564fda86dcb84ad4e",
+    "addedAt": "2026-11-28T08:40:16.693Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
   }
 ]
