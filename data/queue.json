@@ -19789,8 +19789,11 @@
     "url": "https://www.vinted.it/items/10997084647-ps4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/02_00ec6_wh41XsjHV88zjkFgVS8GsvLs/310x430/0b0964cb.webp?s=aa58743403b899293fbfa9ab69ec414645a2177f",
     "addedAt": "2026-11-28T03:22:36.301Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10997044108",
@@ -19802,8 +19805,11 @@
     "url": "https://www.vinted.it/items/10997044108-ps4-sans-manette?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01274_iNLdFNPE55bSLycCtBKoVHaT/310x430/67543857.webp?s=df81ccb6f4159830c68557fa2c069f3dea4a9995",
     "addedAt": "2026-11-28T03:22:36.301Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   },
   {
     "id": "10997160725",
