@@ -19805,7 +19805,10 @@
     "url": "https://www.vinted.it/items/10996588071-caja-interior-original-playstation-5-ps5-con-protecciones?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/05_00d65_XSLSErP8o7vCV4r65n2dcuRR/310x430/b5d76855.webp?s=4c85bc7338c00998bb171984845d43bd51581903",
     "addedAt": "2026-11-28T01:25:55.541Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
