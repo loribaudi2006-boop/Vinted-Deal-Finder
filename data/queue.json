@@ -19821,7 +19821,10 @@
     "url": "https://www.vinted.it/items/10997160725-ps4-pro?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01162_56Zn3HvFdi8X1fTQJDCgFuZQ/310x430/e29b4615.webp?s=0ae81134b06f651937c7bbe4e9f8d7ae0e02efe9",
     "addedAt": "2026-11-28T03:40:12.216Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
