@@ -19765,5 +19765,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "non piu' disponibile"
+  },
+  {
+    "id": "10996133868",
+    "category": "Console",
+    "title": "PlayStation 4 PRO",
+    "price": 50,
+    "totalPrice": 53.2,
+    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10996133868-playstation-4-pro?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_0101b_dz7CvPKYBHeHho5iEEqoP7Nt/310x430/4953119a.webp?s=9e6dad7b8676a56057c6f6004af16d5fd5bb45db",
+    "addedAt": "2026-11-27T23:54:53.890Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-53.2€, sotto soglia"
   }
 ]
