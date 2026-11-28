@@ -20730,7 +20730,39 @@
     "url": "https://www.vinted.it/items/11003162285-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/06_01bbc_GXvFJ2CPR9wqPLt4xEMf7oDM/310x430/e0b4e2c8.webp?s=e93b2691c2efb590c4e49b07ab3b1aafbce0a57d",
     "addedAt": "2026-11-28T15:01:40.577Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~21.55€, sotto soglia"
+  },
+  {
+    "id": "11003237065",
+    "category": "Console",
+    "title": "Mini ps5 plusieurs jeux",
+    "price": 58.85,
+    "totalPrice": 62.49,
+    "reason": "prezzo 85% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/11003237065-mini-ps5-plusieurs-jeux?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_01b1b_ZERrWqKcG8fAjAY7ZMZ1qHbt/310x430/0388ebcc.webp?s=c7e59b0b8657e4665bc59ff62874a5ecd9977ac7",
+    "addedAt": "2026-11-28T15:05:50.946Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-30€, sotto soglia"
+  },
+  {
+    "id": "11003233800",
+    "category": "Console",
+    "title": "Switch-Set: 1-2-Switch + VOYEE Controller + Lexibook Handheld",
+    "price": 13,
+    "totalPrice": 14.35,
+    "reason": "prezzo 93% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/11003233800-switch-set-1-2-switch-voyee-controller-lexibook-handheld?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/03_00a75_56oAhbgpmqaAJk79NL6XHEnf/310x430/f0be2a3a.webp?s=c14a778368cd2d1ad9d765e63de5550ec7af9d81",
+    "addedAt": "2026-11-28T15:05:50.946Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~15.65€, sotto soglia"
   }
 ]
