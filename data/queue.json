@@ -1,20 +1,5 @@
 [
   {
-    "id": "10947723153",
-    "category": "Console",
-    "title": "Xbox one",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 50% sotto il tipico per Xbox One (~100€)",
-    "url": "https://www.vinted.it/items/10947723153-xbox-one?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_00801_HwcqicBi6ivnyCi6tiGj2PWp/310x430/9adf7f43.webp?s=05342f4e97c7d86ac7e3c65b813e7aa150bd1059",
-    "addedAt": "2026-11-24T00:45:43.105Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~16.8€, sotto soglia"
-  },
-  {
     "id": "10947993316",
     "category": "Console",
     "title": "Playstation 4",
@@ -19762,5 +19747,20 @@
     "triaged": true,
     "triageResult": "discard",
     "triageNote": "margine stimato ~14€, sotto soglia"
+  },
+  {
+    "id": "10996432739",
+    "category": "Console",
+    "title": "Ps5 arnaqueur signalé en masse",
+    "price": 1,
+    "totalPrice": 1.75,
+    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
+    "url": "https://www.vinted.it/items/10996432739-ps5-arnaqueur-signale-en-masse?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/04_01a65_uZnvZ4PnQYQ1jPyfmtVu5bLr/310x430/af8a93f4.webp?s=b076ee877915c94106f253dfbd32a7a112b1483e",
+    "addedAt": "2026-11-28T00:52:31.535Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~-1.75€, sotto soglia"
   }
 ]
