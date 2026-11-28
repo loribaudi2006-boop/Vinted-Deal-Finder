@@ -1,20 +1,5 @@
 [
   {
-    "id": "10949560788",
-    "category": "Console",
-    "title": "Tampa ps5 slim GTVI",
-    "price": 20,
-    "totalPrice": 21.7,
-    "reason": "prezzo 95% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10949560788-tampa-ps5-slim-gtvi?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/03_01c0a_dLL8qKdoj8rpbfeKBrDMwgAW/310x430/9f536c24.webp?s=aff2446b66eb3fcdfeb524e4c165651fb0ae959c",
-    "addedAt": "2026-11-24T08:12:31.514Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-10€, sotto soglia"
-  },
-  {
     "id": "10949753017",
     "category": "Console",
     "title": "Xbox Series s Tausch gegen ps5",
@@ -19810,5 +19795,20 @@
     "geminiFault": "En très bon état, mais ne fonctionne plus elle est en panne",
     "geminiBaitPriceSuspected": false,
     "geminiRoughMargin": 42.8
+  },
+  {
+    "id": "10998122711",
+    "category": "Console",
+    "title": "PlayStation 4",
+    "price": 63,
+    "totalPrice": 66.85,
+    "reason": "prezzo 52% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/10998122711-playstation-4?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/01_00e43_K67B3eUxSFdN6SWDS4d1Zzko/310x430/ca366975.webp?s=d3dadd1985ff8321e639c0cd65e11f93e0762496",
+    "addedAt": "2026-11-28T08:19:31.349Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~23.15€, sotto soglia"
   }
 ]
