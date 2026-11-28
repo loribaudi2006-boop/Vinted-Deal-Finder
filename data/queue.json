@@ -19789,7 +19789,10 @@
     "url": "https://www.vinted.it/items/10997406942-ps4-fat-a-vendre?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/03_003c6_G5aGeSUWr2Vnt1v9K5hueWUv/310x430/37c3e6f3.webp?s=13f983eb776c8bee1132deedbe930d8f9f003b0b",
     "addedAt": "2026-11-28T05:00:51.930Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "staleDiscarded": true,
+    "staleDiscardNote": "scartato dallo stale guard: in coda da oltre 30 min, probabile gia' venduto (priorita' ai nuovi annunci)"
   }
 ]
