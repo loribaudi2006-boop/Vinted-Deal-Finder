@@ -1,38 +1,5 @@
 [
   {
-    "id": "10953407539",
-    "category": "Console",
-    "title": "playstation 4",
-    "price": 50,
-    "totalPrice": 53.2,
-    "reason": "prezzo 62% sotto il tipico per PS4 (~130€)",
-    "url": "https://www.vinted.it/items/10953407539-playstation-4?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/04_01ce9_gRXGSiwY1YV9hm8N1RKeUheT/310x430/40bc59bd.webp?s=5a03ed94a4180b872bd73aade12d6dd92512631a",
-    "addedAt": "2026-11-24T14:15:52.178Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "promising",
-    "listingText": "Passa al contenuto\nCatalogo\nIscriviti | Accedi\nVendi subito\nIT\nDonna\nUomo\nArticoli griffati\nBambini\nCasa\nElettronica\nLibri e media\nHobby e collezionismo\nSport\nPubblicità\n‌\n\n6\nRimosso!\nElettronicaVideogiochi e consoleConsoleSony Console\nplaystation 4\nBuone·Sony·Caricato 2 min fa\n\n50,00 €\n\n53,20 €incl. la commissione Vinted\nBrandSony\nPlatform\nPlayStation 4\nCondizioni\nBuone\nCaricato\n2 min fa\nha i suoi anni ma perfettamente funzionante\nSpedizione\nda 4,09 €\nAcquista\nFai un'offerta\nChiedi info",
-    "geminiFault": "",
-    "geminiBaitPriceSuspected": false,
-    "geminiRoughMargin": 46.8
-  },
-  {
-    "id": "10953453621",
-    "category": "Console",
-    "title": "cerco ps5",
-    "price": 1,
-    "totalPrice": 1.75,
-    "reason": "prezzo 100% sotto il tipico per PS5 (~380€)",
-    "url": "https://www.vinted.it/items/10953453621-cerco-ps5?referrer=catalog",
-    "photoUrl": "https://images1.vinted.net/t/05_0198d_SCnrmRQiLuBc1ByUYu4aiViA/310x430/f55c5dd3.webp?s=4d8b570b6af745be10eb1b4a22cc484854fb80b1",
-    "addedAt": "2026-11-24T14:20:03.252Z",
-    "processed": true,
-    "triaged": true,
-    "triageResult": "discard",
-    "triageNote": "margine stimato ~-2€, sotto soglia"
-  },
-  {
     "id": "10953507518",
     "category": "Console",
     "title": "Xbox one Konsole S",
@@ -20637,8 +20604,13 @@
     "url": "https://www.vinted.it/items/11002419082-playstation-4?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_016d1_6MRNJEEhhtv6W4hsNQEceLiY/310x430/9cbe252e.webp?s=b03d39d5a8b49469541742a69be230b6ebb37e7c",
     "addedAt": "2026-11-28T14:11:56.753Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\n1\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPlayStation 4\nGood·PlayStation·Uploaded just now\n\n€30.00\n\n€32.20incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nGood\nUploaded\nJust now\nJe vends ma ps4 qui fonctionne très bien. Seulement un vis manque et le lecteur cd bug. Vis a changé. Très bon état à part ça.\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\njuy125\n6\nFrequent Uploads\nRegularly lists 5 or more items.\nLast seen 9 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Manca una vite e il lettore CD non funziona (bug).",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 42.8
   },
   {
     "id": "11002415293",
@@ -20650,7 +20622,45 @@
     "url": "https://www.vinted.it/items/11002415293-xbox-one-500gb?referrer=catalog",
     "photoUrl": "https://images1.vinted.net/t/01_01d15_XseGXtJKzaxemJjNgxd3ezYv/310x430/2a49c013.webp?s=a442687a4e81f27822978083aff57a0d261a0f90",
     "addedAt": "2026-11-28T14:11:56.754Z",
-    "processed": false,
-    "triaged": false
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesXbox Consoles\nXbox One 500GB\nSatisfactory·Xbox·Uploaded a minute ago\n\n€18.00\n\n€19.60incl. Vinted fee\nBrandXbox\nPlatform\nXbox One\nCondition\nSatisfactory\nUploaded\na minute ago\nTodo funciona correctamente menos la lectura de discos DVD, pero Blu-Ray y Juegos Físicos sí.\nNo incluye el mando porque me viene bien para jugar en la nube, pero sí todos los cables de alimentación, si me lo compras te incluyo todos los juegos de Xbox que tengo y gratis, que son 2 tampoco es una barbaridad.\n... more\nShipping\nfrom €5.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\nknightmk\n8\nFrequent Uploads\nRegularly lists 5 or more items.\nLast seen 36 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "Lettura dischi DVD non funzionante (Blu-Ray e giochi fisici OK), manca il controller",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 35.4
+  },
+  {
+    "id": "11002425337",
+    "category": "Console",
+    "title": "Accessoire de switch",
+    "price": 5,
+    "totalPrice": 5.95,
+    "reason": "prezzo 97% sotto il tipico per Switch (~190€)",
+    "url": "https://www.vinted.it/items/11002425337-accessoire-de-switch?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_0244e_ivUqcQRtjanXueBPPia32SWQ/310x430/0757cb97.webp?s=3ed2ff5d4d493cd5110cebf65cc8866500eb35dd",
+    "addedAt": "2026-11-28T14:14:00.789Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "discard",
+    "triageNote": "margine stimato ~5.05€, sotto soglia"
+  },
+  {
+    "id": "11002518734",
+    "category": "Console",
+    "title": "Ps4 slim",
+    "price": 60,
+    "totalPrice": 63.7,
+    "reason": "prezzo 54% sotto il tipico per PS4 (~130€)",
+    "url": "https://www.vinted.it/items/11002518734-ps4-slim?referrer=catalog",
+    "photoUrl": "https://images1.vinted.net/t/02_02646_jAT6KdGaEGg6ypY1feiE579q/310x430/26e82f25.webp?s=dbb3c20356221ad10d591fa4af2ba138fe1ecefa",
+    "addedAt": "2026-11-28T14:20:14.085Z",
+    "processed": true,
+    "triaged": true,
+    "triageResult": "promising",
+    "listingText": "Skip to content\nCatalogue\nSign up | Log in\nSell now\nEN\nWomen\nMen\nDesigner\nKids\nHome\nElectronics\nBooks & Media\nHobbies & collectables\nSports\nAd\n‌\n\nRemoved!\nElectronicsVideo games & consolesConsolesPlayStation Consoles\nPs4 slim\nVery good·PlayStation·Uploaded 3 min ago\n\n€60.00\n\n€63.70incl. Vinted fee\nBrandPlayStation\nPlatform\nPlayStation 4\nCondition\nVery good\nUploaded\n3 min ago\nPs4 slim sans manette tous les fils fournis\nShipping\nfrom €9.49\nBuy now\nMake an offer\nAsk seller\nShop and sell safely\nEvery purchase is covered by our refund policy, secure transactions, and support. How you’re covered\ndms221\n0\nLast seen 25 min ago\n\nConsumer protection laws do not apply to your purchases from other consumers. The right of withdrawal of article 52 and the general right of ... See more\n\nMember's items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nSimilar items\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nVinted\nAbout us\nSustainability\nPress\nAdvertising\nAccessibility\nCareers\nDiscover\nHow it works\nItem Verification\nMobile apps\nInfoboard\nVinted Pro\nVinted Pro guide\nHelp\nHelp Centre\nSelling\nBuying\nTrust and Safety\nPrivacy Centre\nCookie Policy\nYour Privacy Choices\nTerms & Conditions\nOur Platform\nVinted Pro Terms and Conditions\nWhere do you live?\nÖsterreich\nAustralia\nBelgië / Belgique\nČeská republika\nDeutschland\nDanmark\nEesti\nEspaña\nSuomi\nFrance\nΕλλάδα\nHrvatska\nMagyarország\nIreland\nItalia\nLietuva\nLuxembourg\nLatvija\nNederland\nPolska\nPortugal\nRomânia\nSverige\nSlovenija\nSlovenská republika\nUnited Kingdom\nUnited States",
+    "geminiFault": "sans manette tous les fils fournis",
+    "geminiBaitPriceSuspected": false,
+    "geminiRoughMargin": 46.3
   }
 ]
